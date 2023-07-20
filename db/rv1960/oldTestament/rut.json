@@ -1,0 +1,456 @@
+{
+	"name": "Rut",
+	"num_chapters": 4,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Aconteció en los días que gobernaban los jueces, que hubo hambre en la tierra. Y un varón de Belén de Judá fue a morar en los campos de Moab, él y su mujer, y dos hijos suyos.",
+					"number": 1,
+					"study": "Rut y Noemí",
+					"id": "c931c0ca-e657-4c75-a672-c4d1c596caa7"
+				},
+				{
+					"verse": "El nombre de aquel varón era Elimelec, y el de su mujer, Noemí; y los nombres de sus hijos eran Mahlón y Quelión, efrateos de Belén de Judá. Llegaron, pues, a los campos de Moab, y se quedaron allí.",
+					"number": 2,
+					"id": "3716fc0f-935e-4a29-8332-1be8029275a2"
+				},
+				{
+					"verse": "Y murió Elimelec, marido de Noemí, y quedó ella con sus dos hijos,",
+					"number": 3,
+					"id": "d461f90c-803b-4d93-8b8c-157a1348812d"
+				},
+				{
+					"verse": "los cuales tomaron para sí mujeres moabitas; el nombre de una era Orfa, y el nombre de la otra, Rut; y habitaron allí unos diez años.",
+					"number": 4,
+					"id": "44bf24e7-8483-4b5a-9171-99ca5c3bfe06"
+				},
+				{
+					"verse": "Y murieron también los dos, Mahlón y Quelión, quedando así la mujer desamparada de sus dos hijos y de su marido.",
+					"number": 5,
+					"id": "5107716b-345b-4c1c-a2a1-c004a8a4e66f"
+				},
+				{
+					"verse": "Entonces se levantó con sus nueras, y regresó de los campos de Moab; porque oyó en el campo de Moab que Jehová había visitado a su pueblo para darles pan.",
+					"number": 6,
+					"id": "9407fb16-6397-4e26-ac24-4972618c71d0"
+				},
+				{
+					"verse": "Salió, pues, del lugar donde había estado, y con ella sus dos nueras, y comenzaron a caminar para volverse a la tierra de Judá.",
+					"number": 7,
+					"id": "c43d20b9-37ff-44d3-bf95-b8ee86d1c11b"
+				},
+				{
+					"verse": "Y Noemí dijo a sus dos nueras: Andad, volveos cada una a la casa de su madre; Jehová haga con vosotras misericordia, como la habéis hecho con los muertos y conmigo.",
+					"number": 8,
+					"id": "8507183a-88b6-4ad6-aa66-64f3ffad0008"
+				},
+				{
+					"verse": "Os conceda Jehová que halléis descanso, cada una en casa de su marido. Luego las besó, y ellas alzaron su voz y lloraron,",
+					"number": 9,
+					"id": "babcff66-701e-438a-b727-e7db516704a2"
+				},
+				{
+					"verse": "y le dijeron: Ciertamente nosotras iremos contigo a tu pueblo.",
+					"number": 10,
+					"id": "7ebd1064-caee-49b3-8582-284f6bb50a70"
+				},
+				{
+					"verse": "Y Noemí respondió: Volveos, hijas mías; ¿para qué habéis de ir conmigo? ¿Tengo yo más hijos en el vientre, que puedan ser vuestros maridos?",
+					"number": 11,
+					"id": "ec023991-4373-4949-b1fa-6e91750ee96e"
+				},
+				{
+					"verse": "Volveos, hijas mías, e idos; porque yo ya soy vieja para tener marido. Y aunque dijese: Esperanza tengo, y esta noche estuviese con marido, y aun diese a luz hijos,",
+					"number": 12,
+					"id": "44daa1b2-f7fc-4aec-be1e-3c26b46b7d37"
+				},
+				{
+					"verse": "¿habíais vosotras de esperarlos hasta que fuesen grandes? ¿Habíais de quedaros sin casar por amor a ellos? No, hijas mías; que mayor amargura tengo yo que vosotras, pues la mano de Jehová ha salido contra mí.",
+					"number": 13,
+					"id": "67aeced4-4bf1-45b3-ae93-d90207d22697"
+				},
+				{
+					"verse": "Y ellas alzaron otra vez su voz y lloraron; y Orfa besó a su suegra, mas Rut se quedó con ella.",
+					"number": 14,
+					"id": "079e1ae9-c4f8-4211-8643-fb12ed386a4a"
+				},
+				{
+					"verse": "Y Noemí dijo: He aquí tu cuñada se ha vuelto a su pueblo y a sus dioses; vuélvete tú tras ella.",
+					"number": 15,
+					"id": "d57310d6-9be2-4c81-a165-79fcdb4508dd"
+				},
+				{
+					"verse": "Respondió Rut: No me ruegues que te deje, y me aparte de ti; porque a dondequiera que tú fueres, iré yo, y dondequiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios.",
+					"number": 16,
+					"id": "43f9d48f-3e71-480d-bf83-562e1f49f709"
+				},
+				{
+					"verse": "Donde tú murieres, moriré yo, y allí seré sepultada; así me haga Jehová, y aun me añada, que sólo la muerte hará separación entre nosotras dos.",
+					"number": 17,
+					"id": "5c4a0f06-6004-487a-bcd7-162db0c702d9"
+				},
+				{
+					"verse": "Y viendo Noemí que estaba tan resuelta a ir con ella, no dijo más.",
+					"number": 18,
+					"id": "2cdef284-2a18-4310-8bc4-e66d3811af1c"
+				},
+				{
+					"verse": "Anduvieron, pues, ellas dos hasta que llegaron a Belén; y aconteció que habiendo entrado en Belén, toda la ciudad se conmovió por causa de ellas, y decían: ¿No es ésta Noemí?",
+					"number": 19,
+					"id": "5101ca58-b82a-4f1d-9af7-88c77f42a8b9"
+				},
+				{
+					"verse": "Y ella les respondía: No me llaméis Noemí, sino llamadme Mara; porque en grande amargura me ha puesto el Todopoderoso.",
+					"number": 20,
+					"id": "d829b884-9ac1-497c-bb7d-e0c8b22b9bd9"
+				},
+				{
+					"verse": "Yo me fui llena, pero Jehová me ha vuelto con las manos vacías. ¿Por qué me llamaréis Noemí, ya que Jehová ha dado testimonio contra mí, y el Todopoderoso me ha afligido?",
+					"number": 21,
+					"id": "2b4961b9-400f-454a-9e87-0ebadf53f864"
+				},
+				{
+					"verse": "Así volvió Noemí, y Rut la moabita su nuera con ella; volvió de los campos de Moab, y llegaron a Belén al comienzo de la siega de la cebada.",
+					"number": 22,
+					"id": "767806d1-4558-45c8-8e78-f69866f46788"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Tenía Noemí un pariente de su marido, hombre rico de la familia de Elimelec, el cual se llamaba Booz.",
+					"number": 1,
+					"study": "Rut recoge espigas en el campo de Booz",
+					"id": "b793cefc-d815-4a1a-8b48-a9f7b8acd24b"
+				},
+				{
+					"verse": "Y Rut la moabita dijo a Noemí: Te ruego que me dejes ir al campo, y recogeré espigas en pos de aquel a cuyos ojos hallare gracia. Y ella le respondió: Vé, hija mía.",
+					"number": 2,
+					"id": "aca06f2e-4f93-4911-b253-9cda4e6a6b00"
+				},
+				{
+					"verse": "Fue, pues, y llegando, espigó en el campo en pos de los segadores; y aconteció que aquella parte del campo era de Booz, el cual era de la familia de Elimelec.",
+					"number": 3,
+					"id": "dac6895d-718d-49d7-b264-fde092dda2df"
+				},
+				{
+					"verse": "Y he aquí que Booz vino de Belén, y dijo a los segadores: Jehová sea con vosotros. Y ellos respondieron: Jehová te bendiga.",
+					"number": 4,
+					"id": "249631c0-8045-4a25-baf0-924fd22f5875"
+				},
+				{
+					"verse": "Y Booz dijo a su criado el mayordomo de los segadores: ¿De quién es esta joven?",
+					"number": 5,
+					"id": "406d6899-87b3-471a-b52d-ffeedc738bbc"
+				},
+				{
+					"verse": "Y el criado, mayordomo de los segadores, respondió y dijo: Es la joven moabita que volvió con Noemí de los campos de Moab;",
+					"number": 6,
+					"id": "d08cad5c-ef82-487c-b93d-500b6591db29"
+				},
+				{
+					"verse": "y ha dicho: Te ruego que me dejes recoger y juntar tras los segadores entre las gavillas. Entró, pues, y está desde por la mañana hasta ahora, sin descansar ni aun por un momento.",
+					"number": 7,
+					"id": "5713fed6-1ab3-4e4a-8329-74016c510c24"
+				},
+				{
+					"verse": "Entonces Booz dijo a Rut: Oye, hija mía, no vayas a espigar a otro campo, ni pases de aquí; y aquí estarás junto a mis criadas.",
+					"number": 8,
+					"id": "f71751e9-3f4a-4f8f-b647-effbabe7f9d1"
+				},
+				{
+					"verse": "Mira bien el campo que sieguen, y síguelas; porque yo he mandado a los criados que no te molesten. Y cuando tengas sed, ve a las vasijas, y bebe del agua que sacan los criados.",
+					"number": 9,
+					"id": "344daafa-d1b7-4e60-947e-4ecfa8d5c63a"
+				},
+				{
+					"verse": "Ella entonces bajando su rostro se inclinó a tierra, y le dijo: ¿Por qué he hallado gracia en tus ojos para que me reconozcas, siendo yo extranjera?",
+					"number": 10,
+					"id": "0b06efb7-cd5b-469e-97d5-bcedb59f5dc8"
+				},
+				{
+					"verse": "Y respondiendo Booz, le dijo: He sabido todo lo que has hecho con tu suegra después de la muerte de tu marido, y que dejando a tu padre y a tu madre y la tierra donde naciste, has venido a un pueblo que no conociste antes.",
+					"number": 11,
+					"id": "0b529778-ce87-4832-9040-65e896fc1111"
+				},
+				{
+					"verse": "Jehová recompense tu obra, y tu remuneración sea cumplida de parte de Jehová Dios de Israel, bajo cuyas alas has venido a refugiarte.",
+					"number": 12,
+					"id": "f485a107-fcb7-4658-8666-267b7b138ba9"
+				},
+				{
+					"verse": "Y ella dijo: Señor mío, halle yo gracia delante de tus ojos; porque me has consolado, y porque has hablado al corazón de tu sierva, aunque no soy ni como una de tus criadas.",
+					"number": 13,
+					"id": "fff1b6e8-03af-4db1-93a6-3375d5bff89a"
+				},
+				{
+					"verse": "Y Booz le dijo a la hora de comer: Ven aquí, y come del pan, y moja tu bocado en el vinagre. Y ella se sentó junto a los segadores, y él le dio del potaje, y comió hasta que se sació, y le sobró.",
+					"number": 14,
+					"id": "15025cf9-290b-48ab-b3da-cb32ae5c61d3"
+				},
+				{
+					"verse": "Luego se levantó para espigar. Y Booz mandó a sus criados, diciendo: Que recoja también espigas entre las gavillas, y no la avergoncéis;",
+					"number": 15,
+					"id": "80971ded-aa7f-4c78-9b5f-139c6b209b0a"
+				},
+				{
+					"verse": "y dejaréis también caer para ella algo de los manojos, y lo dejaréis para que lo recoja, y no la reprendáis.",
+					"number": 16,
+					"id": "55734770-bb62-4350-a8a3-dbdbdf425333"
+				},
+				{
+					"verse": "Espigó, pues, en el campo hasta la noche, y desgranó lo que había recogido, y fue como un efa   de cebada.",
+					"number": 17,
+					"id": "e049a4ad-a176-41fa-a8b1-01af2515ea81"
+				},
+				{
+					"verse": "Y lo tomó, y se fue a la ciudad; y su suegra vio lo que había recogido. Sacó también luego lo que le había sobrado después de haber quedado saciada, y se lo dio.",
+					"number": 18,
+					"id": "5f44cb36-e4ed-4f7f-81f9-cfbf794bbf8b"
+				},
+				{
+					"verse": "Y le dijo su suegra: ¿Dónde has espigado hoy? ¿y dónde has trabajado? Bendito sea el que te ha reconocido. Y contó ella a su suegra con quién había trabajado, y dijo: El nombre del varón con quien hoy he trabajado es Booz.",
+					"number": 19,
+					"id": "8d5f46ab-0ae0-4951-99ce-21185bc14121"
+				},
+				{
+					"verse": "Y dijo Noemí a su nuera: Sea él bendito de Jehová, pues que no ha rehusado a los vivos la benevolencia que tuvo para con los que han muerto. Después le dijo Noemí: Nuestro pariente es aquel varón, y uno de los que pueden redimirnos.",
+					"number": 20,
+					"id": "e2d5ed1e-5c70-4878-9927-71cb8ecf2315"
+				},
+				{
+					"verse": "Y Rut la moabita dijo: Además de esto me ha dicho: Júntate con mis criadas, hasta que hayan acabado toda mi siega.",
+					"number": 21,
+					"id": "41d95685-5318-404f-a791-deef2ae8d5c0"
+				},
+				{
+					"verse": "Y Noemí respondió a Rut su nuera: Mejor es, hija mía, que salgas con sus criadas, y que no te encuentren en otro campo.",
+					"number": 22,
+					"id": "65642681-9f2d-4710-8566-20c78eb3d5ee"
+				},
+				{
+					"verse": "Estuvo, pues, junto con las criadas de Booz espigando, hasta que se acabó la siega de la cebada y la del trigo; y vivía con su suegra.",
+					"number": 23,
+					"id": "6510eaae-1d47-45ca-871e-b30e2824d236"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Después le dijo su suegra Noemí: Hija mía, ¿no he de buscar hogar para ti, para que te vaya bien?",
+					"number": 1,
+					"study": "Rut y Booz en la era",
+					"id": "535e28a0-f166-488d-a60b-0d2610659131"
+				},
+				{
+					"verse": "¿No es Booz nuestro pariente, con cuyas criadas tú has estado? He aquí que él avienta esta noche la parva de las cebadas.",
+					"number": 2,
+					"id": "e7c1e1bf-5f0f-46a5-9ffc-9f070174353b"
+				},
+				{
+					"verse": "Te lavarás, pues, y te ungirás, y vistiéndote tus vestidos, irás a la era; mas no te darás a conocer al varón hasta que él haya acabado de comer y de beber.",
+					"number": 3,
+					"id": "6999f67e-00e4-4d47-8f8e-402acb809d89"
+				},
+				{
+					"verse": "Y cuando él se acueste, notarás el lugar donde se acuesta, e irás y descubrirás sus pies, y te acostarás allí; y él te dirá lo que hayas de hacer.",
+					"number": 4,
+					"id": "3c53324e-63cc-4632-8ed5-591f9e27d790"
+				},
+				{
+					"verse": "Y ella respondió: Haré todo lo que tú me mandes.",
+					"number": 5,
+					"id": "56ac8042-ec78-4b41-9ef7-9af667cc51c2"
+				},
+				{
+					"verse": "Descendió, pues, a la era, e hizo todo lo que su suegra le había mandado.",
+					"number": 6,
+					"id": "61c09fbe-5873-4430-b5ba-c3458afbf5e3"
+				},
+				{
+					"verse": "Y cuando Booz hubo comido y bebido, y su corazón estuvo contento, se retiró a dormir a un lado del montón. Entonces ella vino calladamente, y le descubrió los pies y se acostó.",
+					"number": 7,
+					"id": "07867546-5e89-45f8-a4c8-d35f426b2535"
+				},
+				{
+					"verse": "Y aconteció que a la medianoche se estremeció aquel hombre, y se volvió; y he aquí, una mujer estaba acostada a sus pies.",
+					"number": 8,
+					"id": "1a5c2a31-1f4e-4520-8be2-bb32d724d199"
+				},
+				{
+					"verse": "Entonces él dijo: ¿Quién eres? Y ella respondió: Yo soy Rut tu sierva; extiende el borde de tu capa sobre tu sierva, por cuanto eres pariente cercano.",
+					"number": 9,
+					"id": "2891797d-e945-4697-bb61-6eddf09ee999"
+				},
+				{
+					"verse": "Y él dijo: Bendita seas tú de Jehová, hija mía; has hecho mejor tu postrera bondad que la primera, no yendo en busca de los jóvenes, sean pobres o ricos.",
+					"number": 10,
+					"id": "27b7c298-31b7-48da-a807-70f584fa8e6a"
+				},
+				{
+					"verse": "Ahora pues, no temas, hija mía; yo haré contigo lo que tú digas, pues toda la gente de mi pueblo sabe que eres mujer virtuosa.",
+					"number": 11,
+					"id": "403d5ba7-3ab4-4c87-807f-7b21da34c590"
+				},
+				{
+					"verse": "Y ahora, aunque es cierto que yo soy pariente cercano, con todo eso hay pariente más cercano que yo.",
+					"number": 12,
+					"id": "f2ecbafb-f95e-457d-9c92-e2d8263591d3"
+				},
+				{
+					"verse": "Pasa aquí la noche, y cuando sea de día, si él te redimiere, bien, redímate; mas si él no te quisiere redimir, yo te redimiré, vive Jehová. Descansa, pues, hasta la mañana.",
+					"number": 13,
+					"id": "ebbc685f-7dbe-4401-bf05-464093125371"
+				},
+				{
+					"verse": "Y después que durmió a sus pies hasta la mañana, se levantó antes que los hombres pudieran reconocerse unos a otros; porque él dijo: No se sepa que vino mujer a la era.",
+					"number": 14,
+					"id": "ce519a5a-c857-47b1-853f-a8a5305f406c"
+				},
+				{
+					"verse": "Después le dijo: Quítate el manto que traes sobre ti, y tenlo. Y teniéndolo ella, él midió seis medidas   de cebada, y se las puso encima; y ella se fue a la ciudad.",
+					"number": 15,
+					"id": "3c86cb6e-74df-47bc-af39-adb9f626fb05"
+				},
+				{
+					"verse": "Y cuando llegó a donde estaba su suegra, ésta le dijo: ¿Qué hay, hija mía? Y le contó ella todo lo que con aquel varón le había acontecido.",
+					"number": 16,
+					"id": "b9382f74-8761-4553-9005-501f158830c0"
+				},
+				{
+					"verse": "Y dijo: Estas seis medidas   de cebada me dio, diciéndome: A fin de que no vayas a tu suegra con las manos vacías.",
+					"number": 17,
+					"id": "46266912-47dc-49e3-a843-13e1576572d6"
+				},
+				{
+					"verse": "Entonces Noemí dijo: Espérate, hija mía, hasta que sepas cómo se resuelve el asunto; porque aquel hombre no descansará hasta que concluya el asunto hoy.",
+					"number": 18,
+					"id": "91da537b-58c8-497a-95f2-0a2a693db0fc"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Booz subió a la puerta y se sentó allí; y he aquí pasaba aquel pariente de quien Booz había hablado, y le dijo: Eh, fulano, ven acá y siéntate. Y él vino y se sentó.",
+					"number": 1,
+					"study": "Booz se casa con Rut",
+					"id": "46918126-f739-40ee-bac6-9ef9d9b915cf"
+				},
+				{
+					"verse": "Entonces él tomó a diez varones de los ancianos de la ciudad, y dijo: Sentaos aquí. Y ellos se sentaron.",
+					"number": 2,
+					"id": "e087049c-5344-482c-818b-fdfff2fec471"
+				},
+				{
+					"verse": "Luego dijo al pariente: Noemí, que ha vuelto del campo de Moab, vende una parte de las tierras que tuvo nuestro hermano Elimelec.",
+					"number": 3,
+					"id": "6fda5021-2d86-437b-9715-57a91c096c40"
+				},
+				{
+					"verse": "Y yo decidí hacértelo saber, y decirte que la compres en presencia de los que están aquí sentados, y de los ancianos de mi pueblo. Si tú quieres redimir, redime; y si no quieres redimir, decláramelo para que yo lo sepa; porque no hay otro que redima sino tú, y yo después de ti. Y él respondió: Yo redimiré.",
+					"number": 4,
+					"id": "9dbba4e0-a68a-4827-a6bc-f83f24fc9174"
+				},
+				{
+					"verse": "Entonces replicó Booz: El mismo día que compres las tierras de mano de Noemí, debes tomar también a Rut la moabita, mujer del difunto, para que restaures el nombre del muerto sobre su posesión.",
+					"number": 5,
+					"id": "9824a620-faeb-4e73-b8dc-c14472bd4a0b"
+				},
+				{
+					"verse": "Y respondió el pariente: No puedo redimir para mí, no sea que dañe mi heredad. Redime tú, usando de mi derecho, porque yo no podré redimir.",
+					"number": 6,
+					"id": "25b8ec05-6183-4490-9207-b5f62d1d8383"
+				},
+				{
+					"verse": "Había ya desde hacía tiempo esta costumbre en Israel tocante a la redención y al contrato, que para la confirmación de cualquier negocio, el uno se quitaba el zapato y lo daba a su compañero; y esto servía de testimonio en Israel.",
+					"number": 7,
+					"id": "43abb8b7-8e2f-4828-8f60-0187df8f509d"
+				},
+				{
+					"verse": "Entonces el pariente dijo a Booz: Tómalo tú. Y se quitó el zapato.",
+					"number": 8,
+					"id": "4cfa235a-ab3a-40ad-bbe5-ef8e99c3aca1"
+				},
+				{
+					"verse": "Y Booz dijo a los ancianos y a todo el pueblo: Vosotros sois testigos hoy, de que he adquirido de mano de Noemí todo lo que fue de Elimelec, y todo lo que fue de Quelión y de Mahlón.",
+					"number": 9,
+					"id": "0d848c4f-5909-457d-913a-534520c42ed3"
+				},
+				{
+					"verse": "Y que también tomo por mi mujer a Rut la moabita, mujer de Mahlón, para restaurar el nombre del difunto sobre su heredad, para que el nombre del muerto no se borre de entre sus hermanos y de la puerta de su lugar. Vosotros sois testigos hoy.",
+					"number": 10,
+					"id": "90e64221-19ad-4c83-8690-2ea41541cafc"
+				},
+				{
+					"verse": "Y dijeron todos los del pueblo que estaban a la puerta con los ancianos: Testigos somos. Jehová haga a la mujer que entra en tu casa como a Raquel y a Lea, las cuales edificaron la casa de Israel; y tú seas ilustre en Efrata, y seas de renombre en Belén.",
+					"number": 11,
+					"id": "99144e5e-a563-432e-9301-5f3fb87fba19"
+				},
+				{
+					"verse": "Y sea tu casa como la casa de Fares, el que Tamar dio a luz a Judá, por la descendencia que de esa joven te dé Jehová.",
+					"number": 12,
+					"id": "733d3f73-82e3-408c-b63c-55bb38d7dfe0"
+				},
+				{
+					"verse": "Booz, pues, tomó a Rut, y ella fue su mujer; y se llegó a ella, y Jehová le dio que concibiese y diese a luz un hijo.",
+					"number": 13,
+					"id": "0761830d-36c5-4f14-af5a-322e519fa0b1"
+				},
+				{
+					"verse": "Y las mujeres decían a Noemí: Loado sea Jehová, que hizo que no te faltase hoy pariente, cuyo nombre será celebrado en Israel;",
+					"number": 14,
+					"id": "c62195be-32aa-4147-b7e1-c79fd364a6ab"
+				},
+				{
+					"verse": "el cual será restaurador de tu alma, y sustentará tu vejez; pues tu nuera, que te ama, lo ha dado a luz; y ella es de más valor para ti que siete hijos.",
+					"number": 15,
+					"id": "27e7db79-06dc-4e58-ac9c-ca95153201a9"
+				},
+				{
+					"verse": "Y tomando Noemí el hijo, lo puso en su regazo, y fue su aya.",
+					"number": 16,
+					"id": "14df98a0-d2a7-478a-8e88-bc9970feaa44"
+				},
+				{
+					"verse": "Y le dieron nombre las vecinas, diciendo: Le ha nacido un hijo a Noemí; y lo llamaron Obed. Este es padre de Isaí, padre de David.",
+					"number": 17,
+					"id": "d0f59586-a9c6-49a9-8b7e-2877b5cbe171"
+				},
+				{
+					"verse": "Estas son las generaciones de Fares: Fares engendró a Hezrón,",
+					"number": 18,
+					"id": "c5a05d23-7b1d-45ce-b0d5-b4f0eb02a596"
+				},
+				{
+					"verse": "Hezrón engendró a Ram, y Ram engendró a Aminadab,",
+					"number": 19,
+					"id": "4e4ade19-8b2f-4146-98ad-78a2515e68f8"
+				},
+				{
+					"verse": "Aminadab engendró a Naasón, y Naasón engendró a Salmón,",
+					"number": 20,
+					"id": "e11d0c76-8033-417e-8407-2950b1395ce5"
+				},
+				{
+					"verse": "Salmón engendró a Booz, y Booz engendró a Obed,",
+					"number": 21,
+					"id": "9e3eaca6-c651-4147-9f0a-67292499f917"
+				},
+				{
+					"verse": "Obed engendró a Isaí, e Isaí engendró a David.",
+					"number": 22,
+					"id": "4b593b47-5b99-4b01-bf72-c89661cd446a"
+				}
+			]
+		}
+	],
+	"book_id": "8f591521-fc91-483f-bdf0-1fde0030966e"
+}

@@ -1,0 +1,1188 @@
+{
+	"name": "Eclesiastes",
+	"num_chapters": 12,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Éstas son las palabras del Maestro, hijo de David, rey en Jerusalén.",
+					"number": 1,
+					"study": "Todo es vanidad",
+					"id": "bac4f5da-c4c2-47f5-b75b-813ce02d1a4c"
+				},
+				{
+					"verse": "Lo más absurdo de lo absurdo, dice el Maestro, lo más absurdo de lo absurdo, ¡todo es un absurdo!",
+					"number": 2,
+					"id": "4cf86f57-dc95-4963-88e3-d1b9c2535d9d"
+				},
+				{
+					"verse": "¿Qué provecho saca el hombre de tanto afanarse en esta vida?",
+					"number": 3,
+					"id": "44fd9143-85b9-43e2-8804-e3add0c9d1d2"
+				},
+				{
+					"verse": "Generación va, generación viene, mas la tierra siempre es la misma.",
+					"number": 4,
+					"id": "cc18b1d8-8b64-453c-9956-159bf5aa3172"
+				},
+				{
+					"verse": "Sale el sol, se pone el sol, y afanoso vuelve a su punto de origen para de allí volver a salir.",
+					"number": 5,
+					"id": "1bea4340-ecef-4d6f-86a6-26c4b8577dfc"
+				},
+				{
+					"verse": "Dirigiéndose al sur, o girando hacia el norte, sin cesar va girando el viento para de nuevo volver a girar.",
+					"number": 6,
+					"id": "f61f5331-f2eb-43fb-a0b9-c2958d840375"
+				},
+				{
+					"verse": "Todos los ríos van a dar al mar, pero el mar jamás se sacia. A su punto de origen vuelven los ríos, para de allí volver a fluir.",
+					"number": 7,
+					"id": "f516f2eb-197c-48b6-a064-1372d9af6da6"
+				},
+				{
+					"verse": "Todas las cosas hastían más de lo que es posible expresar. Ni se sacian los ojos de ver, ni se hartan los oídos de oír.",
+					"number": 8,
+					"id": "0dbc3154-c60f-4190-97bf-8f503e70c086"
+				},
+				{
+					"verse": "Lo que ya ha acontecido volverá a acontecer; lo que ya se ha hecho se volverá a hacer ¡y no hay nada nuevo bajo el sol!",
+					"number": 9,
+					"id": "45a30014-e8e6-4299-b415-4c448c1ce880"
+				},
+				{
+					"verse": "Hay quien llega a decir: «¡Mira que esto sí es una novedad!» Pero eso ya existía desde siempre, entre aquellos que nos precedieron.",
+					"number": 10,
+					"id": "e0705945-91d9-47fc-b399-c99341624fcb"
+				},
+				{
+					"verse": "Nadie se acuerda de los hombres primeros, como nadie se acordará de los últimos. ¡No habrá memoria de ellos entre los que habrán de sucedernos!",
+					"number": 11,
+					"id": "e2544074-8839-47d8-9bcc-cf8051faa343"
+				},
+				{
+					"verse": "Yo, el Maestro, reiné en Jerusalén sobre Israel.",
+					"number": 12,
+					"study": "La experiencia del predicador",
+					"id": "68e83876-16f0-4f3e-a1ff-1af8c6feabdc"
+				},
+				{
+					"verse": "Y me dediqué de lleno a explorar e investigar con sabiduría todo cuanto se hace bajo el cielo. ¡Penosa tarea ha impuesto Dios al género humano para abrumarlo con ella!",
+					"number": 13,
+					"id": "4d215f2e-fe71-4d20-a5d5-b5e4ca8c7cc5"
+				},
+				{
+					"verse": "Y he observado todo cuanto se hace en esta vida, y todo ello es absurdo, ¡es correr tras el viento!",
+					"number": 14,
+					"id": "644d6dbc-438b-4582-9898-5ed1cf05ec1a"
+				},
+				{
+					"verse": "Ni se puede enderezar lo torcido, ni se puede contar lo que falta.",
+					"number": 15,
+					"id": "3cadd089-7377-460c-a741-1540b015b362"
+				},
+				{
+					"verse": "Me puse a reflexionar: «Aquí me tienen, engrandecido y con más sabiduría que todos mis antecesores en Jerusalén, y habiendo experimentado abundante sabiduría y conocimiento.",
+					"number": 16,
+					"id": "e4df29a8-cac1-423e-a8bf-7a5a092ae837"
+				},
+				{
+					"verse": "Me he dedicado de lleno a la comprensión de la sabiduría, y hasta conozco la necedad y la insensatez. ¡Pero aun esto es querer alcanzar el viento!",
+					"number": 17,
+					"id": "f13bf306-a07e-490b-8c25-2f179fa468c1"
+				},
+				{
+					"verse": "Francamente, »mientras más sabiduría, más problemas; mientras más se sabe, más se sufre.»",
+					"number": 18,
+					"id": "46221c43-19fe-4e91-bbc8-e248af942c2d"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Me dije entonces: «Vamos, pues, haré la prueba con los placeres y me daré la gran vida.» ¡Pero aun esto resultó un absurdo!",
+					"number": 1,
+					"id": "f673c038-c80b-4192-9120-816b55327791"
+				},
+				{
+					"verse": "A la risa la considero una locura; en cuanto a los placeres, ¿para qué sirven?",
+					"number": 2,
+					"id": "08604a50-f8a1-4ea9-a79f-282c67add6fc"
+				},
+				{
+					"verse": "Quise luego hacer la prueba de entregarme al vino si bien mi mente estaba bajo el control de la sabiduría, y de aferrarme a la necedad, hasta ver qué de bueno le encuentra el hombre a lo que hace bajo el cielo durante los contados días de su vida.",
+					"number": 3,
+					"id": "f284f108-9b5a-4659-9200-b7bc493b8347"
+				},
+				{
+					"verse": "Realicé grandes obras: me construí casas, me planté viñedos,",
+					"number": 4,
+					"id": "c0109df8-358f-40de-a213-7b7e50816031"
+				},
+				{
+					"verse": "cultivé mis propios huertos y jardines, y en ellos planté toda clase de árboles frutales.",
+					"number": 5,
+					"id": "f41b28be-8b75-40de-a1f7-7fbd2f52a03d"
+				},
+				{
+					"verse": "También me construí aljibes para irrigar los muchos árboles que allí crecían.",
+					"number": 6,
+					"id": "a7d93bc5-65d3-4a92-b36d-0ea338b1ab08"
+				},
+				{
+					"verse": "Me hice de esclavos y esclavas; y tuve criados, y mucho más ganado vacuno y lanar que todos los que me precedieron en Jerusalén.",
+					"number": 7,
+					"id": "010c0920-67a9-4105-97df-4c3432503b8d"
+				},
+				{
+					"verse": "Amontoné oro y plata, y tesoros que fueron de reyes y provincias. Me hice de cantores y cantoras, y disfruté de los deleites de los hombres: ¡formé mi propio harén![1]",
+					"number": 8,
+					"id": "14f54b26-5933-4bc2-83c2-3224690f3b3e"
+				},
+				{
+					"verse": "Me engrandecí en gran manera, más que todos los que me precedieron en Jerusalén; además, la sabiduría permanecía conmigo.",
+					"number": 9,
+					"id": "6e47ce49-4c25-45bc-9ef1-3962bc5d7f2d"
+				},
+				{
+					"verse": "No le negué a mis ojos ningún deseo, ni a mi corazón privé de placer alguno, sino que disfrutó de todos mis afanes. ¡Sólo eso saqué de tanto afanarme!",
+					"number": 10,
+					"id": "97e3db97-183e-4707-bf7d-a75a119d3fad"
+				},
+				{
+					"verse": "Consideré luego todas mis obras y el trabajo que me había costado realizarlas, y vi que todo era absurdo, un correr tras el viento, y que ningún provecho se saca en esta vida.",
+					"number": 11,
+					"id": "b81dd67d-4ee8-48ec-8d1c-28aef6892638"
+				},
+				{
+					"verse": "Consideré entonces la sabiduría, la necedad y la insensatez ¿qué más puede hacer el sucesor del rey, aparte de lo ya hecho?,",
+					"number": 12,
+					"id": "d6d09d30-445d-4ff0-befe-418838cb183d"
+				},
+				{
+					"verse": "y pude observar que hay más provecho en la sabiduría que en la insensatez, así como hay más provecho en la luz que en las tinieblas.",
+					"number": 13,
+					"id": "7aa19789-c984-4c14-8f8c-0c5f58ecbd23"
+				},
+				{
+					"verse": "El sabio tiene los ojos bien puestos, pero el necio anda a oscuras. Pero también me di cuenta de que un mismo final les espera a todos.",
+					"number": 14,
+					"id": "1e2db589-62af-4336-9e7d-6f4f2c632173"
+				},
+				{
+					"verse": "Me dije entonces: «Si al fin voy a acabar igual que el necio, ¿de qué me sirve ser tan sabio?» Y concluí que también esto es absurdo,",
+					"number": 15,
+					"id": "767df242-b700-4190-bba1-e920ed763d2a"
+				},
+				{
+					"verse": "pues nadie se acuerda jamás del sabio ni del necio; con el paso del tiempo todo cae en el olvido, y lo mismo mueren los sabios que los necios.",
+					"number": 16,
+					"id": "d3fc9e02-320f-4257-9a05-2738ca2290e3"
+				},
+				{
+					"verse": "Aborrecí entonces la vida, pues todo cuanto se hace en ella me resultaba repugnante. Realmente, todo es absurdo; ¡es correr tras el viento!",
+					"number": 17,
+					"id": "5be85b3c-7846-4f31-b036-43ab5813bf24"
+				},
+				{
+					"verse": "Aborrecí también el haberme afanado tanto en esta vida, pues el fruto de tanto afán tendría que dejárselo a mi sucesor,",
+					"number": 18,
+					"id": "7c2eb124-f931-46de-801f-aa9c956a5128"
+				},
+				{
+					"verse": "y ¿quién sabe si éste sería sabio o necio? Sin embargo, se adueñaría de lo que con tantos afanes y sabiduría logré hacer en esta vida. ¡Y también esto es absurdo!",
+					"number": 19,
+					"id": "97132a9b-d282-4579-bd46-1b260b1eb747"
+				},
+				{
+					"verse": "Volví a sentirme descorazonado de haberme afanado tanto en esta vida,",
+					"number": 20,
+					"id": "845f80f7-f34c-4c6e-abdd-bbd4b2fb2fcf"
+				},
+				{
+					"verse": "pues hay quienes ponen a trabajar su sabiduría y sus conocimientos y experiencia, para luego entregarle todos sus bienes a quien jamás movió un dedo. ¡Y también esto es absurdo, y un mal enorme!",
+					"number": 21,
+					"id": "7c071029-cf88-4cdc-9179-a15715230e84"
+				},
+				{
+					"verse": "Pues, ¿qué gana el hombre con todos sus esfuerzos y con tanto preocuparse y afanarse bajo el sol?",
+					"number": 22,
+					"id": "bab2ec60-d5c8-43f1-bb9f-6267bab83d7d"
+				},
+				{
+					"verse": "Todos sus días están plagados de sufrimientos y tareas frustrantes, y ni siquiera de noche descansa su mente. ¡Y también esto es absurdo!",
+					"number": 23,
+					"id": "75c7f5a8-c742-4b17-987f-64c2721ccdfb"
+				},
+				{
+					"verse": "Nada hay mejor para el hombre que comer y beber, y llegar a disfrutar de sus afanes. He visto que también esto proviene de Dios,",
+					"number": 24,
+					"id": "39bb7026-feb9-46b3-b782-9988f7b332dd"
+				},
+				{
+					"verse": "porque ¿quién puede comer y alegrarse, si no es por Dios?",
+					"number": 25,
+					"id": "2063b475-5b46-4b29-864b-d56276f3a81a"
+				},
+				{
+					"verse": "En realidad, Dios da sabiduría, conocimientos y alegría a quien es de su agrado; en cambio, al pecador le impone la tarea de acumular más y más, para luego dárselo todo a quien es de su agrado. Y también esto es absurdo; ¡es correr tras el viento!",
+					"number": 26,
+					"id": "3fad07a2-67ec-49f8-b0b5-b50a09738927"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Todo tiene su momento oportuno; hay un tiempo para todo lo que se hace bajo el cielo:",
+					"number": 1,
+					"study": "Todo tiene su tiempo",
+					"id": "0e2477cf-9bd3-478a-8957-1b46e80a3594"
+				},
+				{
+					"verse": "un tiempo para nacer, y un tiempo para morir; un tiempo para plantar, y un tiempo para cosechar;",
+					"number": 2,
+					"id": "0f1cb687-8b3b-4a01-82fe-6534fac5f016"
+				},
+				{
+					"verse": "un tiempo para matar, y un tiempo para sanar; un tiempo para destruir, y un tiempo para construir;",
+					"number": 3,
+					"id": "294c1b0d-58e0-472c-af69-c226bc3e4f22"
+				},
+				{
+					"verse": "un tiempo para llorar, y un tiempo para reír; un tiempo para estar de luto, y un tiempo para saltar de gusto;",
+					"number": 4,
+					"id": "e9f65629-49b8-4626-88d7-7d269ce5640f"
+				},
+				{
+					"verse": "un tiempo para esparcir piedras, y un tiempo para recogerlas; un tiempo para abrazarse, y un tiempo para despedirse;",
+					"number": 5,
+					"id": "b974478b-0678-48ee-9afe-1f46e2a7b036"
+				},
+				{
+					"verse": "un tiempo para intentar, y un tiempo para desistir; un tiempo para guardar, y un tiempo para desechar;",
+					"number": 6,
+					"id": "c1e3646a-657f-4d92-b517-d6706ad7ec66"
+				},
+				{
+					"verse": "un tiempo para rasgar, y un tiempo para coser; un tiempo para callar, y un tiempo para hablar;",
+					"number": 7,
+					"id": "1ef92678-b0bb-4829-8836-c8b06943c37c"
+				},
+				{
+					"verse": "un tiempo para amar, y un tiempo para odiar; un tiempo para la guerra, y un tiempo para la paz.",
+					"number": 8,
+					"id": "813d7b6a-a94d-42cb-a6f7-a4bae0666225"
+				},
+				{
+					"verse": "¿Qué provecho saca quien trabaja, de tanto afanarse?",
+					"number": 9,
+					"id": "fcd11bf2-e176-4a89-92b8-232750b56a21"
+				},
+				{
+					"verse": "He visto la tarea que Dios ha impuesto al género humano para abrumarlo con ella.",
+					"number": 10,
+					"id": "f95a0f52-7e64-4ee4-958e-9fc9256fe53f"
+				},
+				{
+					"verse": "Dios hizo todo hermoso en su momento, y puso en la mente humana el sentido del tiempo, aun cuando el hombre no alcanza a comprender la obra que Dios realiza de principio a fin.",
+					"number": 11,
+					"id": "bd0dcb33-59ad-4507-a1a0-4887e96eff28"
+				},
+				{
+					"verse": "Yo sé que nada hay mejor para el hombre que alegrarse y hacer el bien mientras viva;",
+					"number": 12,
+					"id": "5230031f-0b13-4c1c-97f0-6468a6645b7b"
+				},
+				{
+					"verse": "y sé también que es un don de Dios que el hombre coma o beba, y disfrute de todos sus afanes.",
+					"number": 13,
+					"id": "3f7d3bcb-e469-4abc-8ade-d9aa61d45148"
+				},
+				{
+					"verse": "Sé además que todo lo que Dios ha hecho permanece para siempre; que no hay nada que añadirle ni quitarle; y que Dios lo hizo así para que se le tema.",
+					"number": 14,
+					"id": "d1ad0eeb-1814-4689-bab6-cae8ac79716c"
+				},
+				{
+					"verse": "Lo que ahora existe, ya existía; y lo que ha de existir, existe ya. Dios hace que la historia se repita.",
+					"number": 15,
+					"id": "0360181a-3327-4d94-8c57-6f2f5a1b3d33"
+				},
+				{
+					"verse": "He visto algo más en esta vida: maldad donde se dictan las sentencias, y maldad donde se imparte la justicia.",
+					"number": 16,
+					"study": "Injusticias de la vida",
+					"id": "b0997ab3-ccb6-4155-b48e-fe5aa84760de"
+				},
+				{
+					"verse": "Pensé entonces: «Al justo y al malvado los juzgará Dios, pues hay un tiempo para toda obra y un lugar para toda acción.»",
+					"number": 17,
+					"id": "15286418-7af0-4821-a4d4-1f100454067d"
+				},
+				{
+					"verse": "Pensé también con respecto a los hombres: «Dios los está poniendo a prueba, para que ellos mismos se den cuenta de que son como los animales.",
+					"number": 18,
+					"id": "40094949-c8e1-4ab5-8abe-1cf17ae3d2d3"
+				},
+				{
+					"verse": "Los hombres terminan igual que los animales; el destino de ambos es el mismo, pues unos y otros mueren por igual, y el aliento de vida es el mismo para todos, así que el hombre no es superior a los animales. Realmente, todo es absurdo,",
+					"number": 19,
+					"id": "0541eca9-1783-4c4c-a47e-cf71fc1027f1"
+				},
+				{
+					"verse": "y todo va hacia el mismo lugar. »Todo surgió del polvo, y al polvo todo volverá.",
+					"number": 20,
+					"id": "27feaf2b-c7b5-45a9-b127-30bae1e69d56"
+				},
+				{
+					"verse": "»¿Quién sabe si el espíritu del hombre se remonta a las alturas, y el de los animales desciende a las profundidades de la tierra?»",
+					"number": 21,
+					"id": "7014ac66-a5df-4d04-b045-1406056f6036"
+				},
+				{
+					"verse": "He visto, pues, que nada hay mejor para el hombre que disfrutar de su trabajo, ya que eso le ha tocado. Pues, ¿quién lo traerá para que vea lo que sucederá después de él?",
+					"number": 22,
+					"id": "08dd6d4e-bea8-4793-9a5b-b997fad7bbc8"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Luego me fijé en tanta opresión que hay en esta vida. Vi llorar a los oprimidos, y no había quien los consolara; el poder estaba del lado de sus opresores, y no había quien los consolara.",
+					"number": 1,
+					"id": "60632429-6eeb-4db5-b1b3-99d7f42a4c00"
+				},
+				{
+					"verse": "Y consideré más felices a los que ya han muerto que a los que aún viven,",
+					"number": 2,
+					"id": "d777258f-3e71-44d8-a52a-350c6841a3aa"
+				},
+				{
+					"verse": "aunque en mejor situación están los que aún no han nacido, los que no han visto aún la maldad que se comete en esta vida.",
+					"number": 3,
+					"id": "76f27e36-27ad-4fbb-9b92-85f249eb3868"
+				},
+				{
+					"verse": "Vi además que tanto el afán como el éxito en la vida despiertan envidias. Y también esto es absurdo; ¡es correr tras el viento!",
+					"number": 4,
+					"id": "90a769c1-dac5-42f5-8505-c40b85cf78e2"
+				},
+				{
+					"verse": "El necio se cruza de brazos, y acaba muriéndose de hambre.",
+					"number": 5,
+					"id": "24176fcd-4f1d-4881-8328-d40ec7854103"
+				},
+				{
+					"verse": "Más vale poco con tranquilidad que mucho con fatiga ¡corriendo tras el viento!",
+					"number": 6,
+					"id": "7c1f3b2e-72df-4d70-b010-fd9ed0661ce8"
+				},
+				{
+					"verse": "Me fijé entonces en otro absurdo en esta vida:",
+					"number": 7,
+					"id": "a47b1510-df62-4fd0-acf5-d5e72b64638a"
+				},
+				{
+					"verse": "vi a un hombre solitario, sin hijos ni hermanos, y que nunca dejaba de afanarse; ¡jamás le parecían demasiadas sus riquezas! «¿Para quién trabajo tanto, y me abstengo de las cosas buenas?», se preguntó. ¡También esto es absurdo, y una penosa tarea!",
+					"number": 8,
+					"id": "a2aa5b71-b15f-448c-ac62-4656dc286ade"
+				},
+				{
+					"verse": "Más valen dos que uno, porque obtienen más fruto de su esfuerzo.",
+					"number": 9,
+					"id": "08809ac8-9058-4392-9016-93a0b9dd7fa4"
+				},
+				{
+					"verse": "Si caen, el uno levanta al otro. ¡Ay del que cae y no tiene quien lo levante!",
+					"number": 10,
+					"id": "d267e0b3-0410-42db-af77-406f1cc0e564"
+				},
+				{
+					"verse": "Si dos se acuestan juntos, entrarán en calor; uno solo ¿cómo va a calentarse?",
+					"number": 11,
+					"id": "f55bec5c-879a-42af-9aa4-1b0ae2260326"
+				},
+				{
+					"verse": "Uno solo puede ser vencido, pero dos pueden resistir. ¡La cuerda de tres hilos no se rompe fácilmente!",
+					"number": 12,
+					"id": "9ba0c13f-bf4a-4fce-b13a-9041fd52bef9"
+				},
+				{
+					"verse": "Más vale joven pobre pero sabio que rey viejo pero necio, que ya no sabe recibir consejos.",
+					"number": 13,
+					"id": "97b2af0e-c075-430e-a928-d182da6af719"
+				},
+				{
+					"verse": "Aunque de la cárcel haya ascendido al trono, o haya nacido pobre en ese reino,",
+					"number": 14,
+					"id": "07034011-ab74-41f9-bac6-77902861bc30"
+				},
+				{
+					"verse": "en esta vida he visto que la gente apoya al joven que sucede al rey.",
+					"number": 15,
+					"id": "ac0aadcd-b656-43dc-845a-c6cec0648433"
+				},
+				{
+					"verse": "Y aunque es incontable la gente que sigue a los reyes, muchos de los que vienen después tampoco quedan contentos con el sucesor. Y también esto es absurdo; ¡es alcanzar el viento!",
+					"number": 16,
+					"id": "8e946bfc-20af-4455-bbeb-c3c96f687721"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Cuando vayas a la casa de Dios, cuida tus pasos y acércate a escuchar en vez de ofrecer sacrificio de necios, que ni conciencia tienen de que hacen mal.",
+					"number": 1,
+					"study": "La insensatez de hacer votos a la ligera",
+					"id": "4bbe84b5-84ea-4f85-8d2b-7dac4d92a3df"
+				},
+				{
+					"verse": "No te apresures, ni con la boca ni con la mente, a proferir ante Dios palabra alguna; él está en el cielo y tú estás en la tierra. Mide, pues, tus palabras.",
+					"number": 2,
+					"id": "60c5f1ae-0bdf-4b86-a759-3b4c59b1a51e"
+				},
+				{
+					"verse": "Quien mucho se preocupa tiene pesadillas, y quien mucho habla dice tonterías.",
+					"number": 3,
+					"id": "9f0cb53c-c478-4dbe-9e39-4a5031775b62"
+				},
+				{
+					"verse": "Cuando hagas un voto a Dios, no tardes en cumplirlo, porque a Dios no le agradan los necios. Cumple tus votos:",
+					"number": 4,
+					"id": "524a99bb-88fa-4bb6-8c3c-2cdff13c3ff7"
+				},
+				{
+					"verse": "Vale más no hacer votos que hacerlos y no cumplirlos.",
+					"number": 5,
+					"id": "6ad27c35-14f8-46bd-a419-2a5d261be265"
+				},
+				{
+					"verse": "No permitas que tu boca te haga pecar, ni digas luego ante el mensajero de Dios que lo hiciste sin querer. ¿Por qué ha de enojarse Dios por lo que dices, y destruir el fruto de tu trabajo?",
+					"number": 6,
+					"id": "bf47f75f-5944-46c9-8e71-787ee86dd38c"
+				},
+				{
+					"verse": "Más bien, entre tantos absurdos, pesadillas y palabrerías, muestra temor a Dios.",
+					"number": 7,
+					"id": "2ff416f8-72ef-4777-8a34-328ddb96d0e5"
+				},
+				{
+					"verse": "Si en alguna provincia ves que se oprime al pobre, y que a la gente se le niega un juicio justo, no te asombres de tales cosas; porque a un alto oficial lo vigila otro más alto, y por encima de ellos hay otros altos oficiales.",
+					"number": 8,
+					"study": "La vanidad de la vida",
+					"id": "046a79df-1c07-4916-92a5-2d7212ea0a15"
+				},
+				{
+					"verse": "¿Qué provecho hay en todo esto para el país? ¿Está el rey al servicio del campo?[2]",
+					"number": 9,
+					"id": "c9ed3532-1e60-46b1-9e1b-a79b9ec0aca5"
+				},
+				{
+					"verse": "Quien ama el dinero, de dinero no se sacia. Quien ama las riquezas nunca tiene suficiente. ¡También esto es absurdo!",
+					"number": 10,
+					"id": "aebd193d-fcab-4f05-94a2-15ae2d16cef1"
+				},
+				{
+					"verse": "Donde abundan los bienes, sobra quien se los gaste; ¿y qué saca de esto su dueño, aparte de contemplarlos?",
+					"number": 11,
+					"id": "b7f1a70d-1eb1-4a0d-a53a-9549c3e7c717"
+				},
+				{
+					"verse": "El trabajador duerme tranquilo, coma mucho o coma poco. Al rico sus muchas riquezas no lo dejan dormir.",
+					"number": 12,
+					"id": "42c7328e-f411-4254-a8cc-9c0e2dcf1f81"
+				},
+				{
+					"verse": "He visto un mal terrible en esta vida: riquezas acumuladas que redundan en perjuicio de su dueño,",
+					"number": 13,
+					"id": "c7d405b6-0be3-4917-a4b2-f6e0132af4c0"
+				},
+				{
+					"verse": "y riquezas que se pierden en un mal negocio. Y si llega su dueño a tener un hijo, ya no tendrá nada que dejarle.",
+					"number": 14,
+					"id": "ca64f4f3-1f21-43b3-bc23-799ca106a8c8"
+				},
+				{
+					"verse": "Tal como salió del vientre de su madre, así se irá: desnudo como vino al mundo, y sin llevarse el fruto de tanto trabajo.",
+					"number": 15,
+					"id": "bf8fb3d4-8308-4aee-a178-09cd30ac7d1f"
+				},
+				{
+					"verse": "Esto es un mal terrible: que tal como viene el hombre, así se va. ¿Y de qué le sirve afanarse tanto para nada?",
+					"number": 16,
+					"id": "221e0de4-61cd-4b49-aa05-551cddaf4af2"
+				},
+				{
+					"verse": "Además, toda su vida come en tinieblas, y en medio de muchas molestias, enfermedades y enojos.",
+					"number": 17,
+					"id": "8c6ec462-2c7c-4089-8a45-d5cc9c90a9e5"
+				},
+				{
+					"verse": "Esto es lo que he comprobado: que en esta vida lo mejor es comer y beber, y disfrutar del fruto de nuestros afanes. Es lo que Dios nos ha concedido; es lo que nos ha tocado.",
+					"number": 18,
+					"id": "5be71ec5-3852-4621-92ad-9bb728953f0c"
+				},
+				{
+					"verse": "Además, a quien Dios le concede abundancia y riquezas, también le concede comer de ellas, y tomar su parte y disfrutar de sus afanes, pues esto es don de Dios.",
+					"number": 19,
+					"id": "5c4ec4ab-2e71-425d-ab1a-c811cab532dc"
+				},
+				{
+					"verse": "Y como Dios le llena de alegría el corazón, muy poco reflexiona el hombre en cuanto a su vida.",
+					"number": 20,
+					"id": "1145cb47-1009-451a-8104-2197a29775a2"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Hay un mal que he visto en esta vida y que abunda entre los hombres:",
+					"number": 1,
+					"id": "05962e6e-ef0d-499e-96e0-079aa3d9d4fc"
+				},
+				{
+					"verse": "a algunos Dios les da abundancia, riquezas y honores, y no les falta nada que pudieran desear, pero es a otros a quienes les concede disfrutar de todo ello. ¡Esto es absurdo, y un mal terrible!",
+					"number": 2,
+					"id": "c11346d6-1b20-4f36-a7d2-69bbda0d849a"
+				},
+				{
+					"verse": "Si un hombre tiene cien hijos y vive muchos años, no importa cuánto viva, si no se ha saciado de las cosas buenas ni llega a recibir sepultura, yo digo que un abortivo vale más que él.",
+					"number": 3,
+					"id": "282aa63d-73b6-4cd7-835a-2f01a91a6c24"
+				},
+				{
+					"verse": "Porque el abortivo vino de la nada, y a las tinieblas va, y en las tinieblas permanecerá anónimo.",
+					"number": 4,
+					"id": "51e71ea9-e1d2-42a2-940f-12bec6814b2c"
+				},
+				{
+					"verse": "Nunca llegará a ver el sol, ni sabrá nada; sin embargo, habrá tenido más tranquilidad que el",
+					"number": 5,
+					"id": "3e2c9b35-8763-44f6-9380-73f4861ded55"
+				},
+				{
+					"verse": "que pudo haber vivido dos mil años sin disfrutar jamás de lo bueno. ¿Y acaso no van todos a un mismo lugar?",
+					"number": 6,
+					"id": "df50384d-3398-4606-97e4-12442a7973f7"
+				},
+				{
+					"verse": "Mucho trabaja el hombre para comer, pero nunca se sacia.",
+					"number": 7,
+					"id": "25bd2f5a-e365-48f4-86ed-a97c0cf6df0f"
+				},
+				{
+					"verse": "¿Qué ventaja tiene el sabio sobre el necio? ¿Y qué gana el pobre con saber enfrentarse a la vida?",
+					"number": 8,
+					"id": "e9b357ed-14a7-4449-9c84-3f40fe40ead0"
+				},
+				{
+					"verse": "Vale más lo visible que lo imaginario. Y también esto es absurdo; ¡es correr tras el viento!",
+					"number": 9,
+					"id": "1fca0cd4-366a-465e-9c84-6325aedb0adc"
+				},
+				{
+					"verse": "Lo que ahora existe ya ha recibido su nombre, y se sabe lo que es: humanidad. contra alguien más fuerte.",
+					"number": 10,
+					"id": "301afb5a-36ea-4d94-88d9-b911e94376e6"
+				},
+				{
+					"verse": "Aumentan las palabras, aumentan los absurdos. ¿Y qué se gana con eso?",
+					"number": 11,
+					"id": "a142e6f3-2a24-4beb-b04e-fc1194ab5d16"
+				},
+				{
+					"verse": "En realidad, ¿quién sabe qué le conviene al hombre en esta breve y absurda vida suya, por donde pasa como una sombra? ¿Y quién puede decirle lo que sucederá en esta vida después de su muerte?",
+					"number": 12,
+					"id": "b24aaedc-9d57-4561-a66b-72f34d7e605e"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Vale más el buen nombre que el buen perfume. que el día en que se nace.",
+					"number": 1,
+					"study": "Contraste entre la sabiduría y la insensatez",
+					"id": "56c076c9-102f-45ae-8d62-1ff3a826bf75"
+				},
+				{
+					"verse": "Vale más ir a un funeral que a un festival. Pues la muerte es el fin de todo hombre, y los que viven debieran tenerlo presente.",
+					"number": 2,
+					"id": "2df71d84-1c2f-401d-b44f-0ad0052610cc"
+				},
+				{
+					"verse": "Vale más llorar que reír; pues entristece el rostro, pero le hace bien al corazón.",
+					"number": 3,
+					"id": "079e4fb7-9692-4687-a8da-3c1dfadd602d"
+				},
+				{
+					"verse": "El sabio tiene presente la muerte; el necio sólo piensa en la diversión.",
+					"number": 4,
+					"id": "bc2b1729-5049-4286-b7dc-b3e4ae336e4d"
+				},
+				{
+					"verse": "Vale más reprensión de sabios que lisonja de necios.",
+					"number": 5,
+					"id": "d1b95fbc-2c34-4ae5-a063-cc1709c51b97"
+				},
+				{
+					"verse": "Pues las carcajadas de los necios son como el crepitar de las espinas bajo la olla. ¡Y también esto es absurdo!",
+					"number": 6,
+					"id": "74a45e4d-b674-47e7-a294-64be023d0d2b"
+				},
+				{
+					"verse": "La extorsión entorpece al sabio, y el soborno corrompe su corazón.",
+					"number": 7,
+					"id": "eba71dda-efd5-42b8-86f5-2431ec1d872b"
+				},
+				{
+					"verse": "Vale más el fin de algo que su principio. que la arrogancia.",
+					"number": 8,
+					"id": "7ac90533-c93b-4926-9689-7937d13d2b52"
+				},
+				{
+					"verse": "No te dejes llevar por el enojo que sólo abriga el corazón del necio.",
+					"number": 9,
+					"id": "577708c7-243a-40dc-9448-4a7ed0ab0415"
+				},
+				{
+					"verse": "Nunca preguntes por qué todo tiempo pasado fue mejor. No es de sabios hacer tales preguntas.",
+					"number": 10,
+					"id": "825fb5d6-1ad2-41e3-901d-ccd61200e1c7"
+				},
+				{
+					"verse": "Buena es la sabiduría sumada a la heredad, y provechosa para los que viven.",
+					"number": 11,
+					"id": "aba1fb3b-1da9-4d41-a9e6-dff86bdd1c6a"
+				},
+				{
+					"verse": "Puedes ponerte a la sombra de la sabiduría o a la sombra del dinero, pero la sabiduría tiene la ventaja de dar vida a quien la posee.",
+					"number": 12,
+					"id": "e0fa1bf4-2b1e-4f80-a0a4-e2b3b5376706"
+				},
+				{
+					"verse": "Contempla las obras de Dios: ¿quién puede enderezar lo que él ha torcido?",
+					"number": 13,
+					"id": "17f5bd2f-6d54-4215-9f6d-f5bf99868711"
+				},
+				{
+					"verse": "Cuando te vengan buenos tiempos, disfrútalos; pero cuando te lleguen los malos, piensa que unos y otros son obra de Dios, y que el hombre nunca sabe con qué habrá de encontrarse después.",
+					"number": 14,
+					"id": "0b6dd1b5-37f9-409b-bd42-aeccca7425a4"
+				},
+				{
+					"verse": "Todo esto he visto durante mi absurda vida: hombres justos a quienes su justicia los destruye, y hombres malvados a quienes su maldad les alarga la vida.",
+					"number": 15,
+					"id": "62549480-088f-4ce1-b114-94208d0bd6aa"
+				},
+				{
+					"verse": "No seas demasiado justo, ni tampoco demasiado sabio. ¿Para qué destruirte a ti mismo?",
+					"number": 16,
+					"id": "f15e4c46-3a8c-4fc9-bca7-8889edc6151b"
+				},
+				{
+					"verse": "No hay que pasarse de malo, ni portarse como un necio. ¿Para qué morir antes de tiempo?",
+					"number": 17,
+					"id": "f82b0ccb-738e-492b-8175-ddd257291186"
+				},
+				{
+					"verse": "Conviene asirse bien de esto, sin soltar de la mano aquello. saldrá bien en todo.",
+					"number": 18,
+					"id": "c9f6624e-f6e8-4a26-b532-33009f426abd"
+				},
+				{
+					"verse": "Más fortalece la sabiduría al sabio que diez gobernantes a una ciudad.",
+					"number": 19,
+					"id": "50d1ae24-3c19-454d-8bb3-76c70bc2d02b"
+				},
+				{
+					"verse": "No hay en la tierra nadie tan justo que haga el bien y nunca peque.",
+					"number": 20,
+					"id": "bfe3e4a7-bb70-4bcd-a29e-fc8d66eff0d3"
+				},
+				{
+					"verse": "No prestes atención a todo lo que se dice, y así no oirás cuando tu siervo hable mal de ti,",
+					"number": 21,
+					"id": "146caa76-0467-443c-9520-12ced291e564"
+				},
+				{
+					"verse": "aunque bien sabes que muchas veces también tú has hablado mal de otros.",
+					"number": 22,
+					"id": "c1ec0c7c-5114-4ec7-89ed-2c2f324f53df"
+				},
+				{
+					"verse": "Todo esto lo examiné muy bien y con sabiduría, pues me dispuse a ser sabio, pero la sabiduría estaba fuera de mi alcance.",
+					"number": 23,
+					"id": "0c42a631-d21e-47ef-9c1b-15274d74d454"
+				},
+				{
+					"verse": "Lejos y demasiado profundo está todo cuanto existe. ¿Quién puede dar con ello?",
+					"number": 24,
+					"id": "76d166e2-e972-425a-bc8f-c5fc429de726"
+				},
+				{
+					"verse": "Volví entonces mi atención hacia el conocimiento, para investigar e indagar acerca de la sabiduría y la razón de las cosas, y me di cuenta de la insensatez de la maldad y la locura de la necedad.",
+					"number": 25,
+					"id": "dd13c990-831d-4b77-a5dc-de414be92817"
+				},
+				{
+					"verse": "Y encontré algo más amargo que la muerte: a la mujer que es una trampa, que por corazón tiene una red y por brazos tiene cadenas. Quien agrada a Dios se librará de ella, pero el pecador caerá en sus redes.",
+					"number": 26,
+					"id": "66a28d8a-c21a-4f73-bfa9-26323ace18c7"
+				},
+				{
+					"verse": "Y dijo el Maestro: «Miren lo que he hallado al buscar la razón de las cosas, una por una:",
+					"number": 27,
+					"id": "1393370d-300b-4866-ab8a-e9b958b28098"
+				},
+				{
+					"verse": "¡que todavía estoy buscando lo que no he encontrado! Ya he dado con un hombre entre mil, pero entre todas las mujeres aún no he encontrado ninguna.",
+					"number": 28,
+					"id": "2b50d0b7-39fa-4e70-a404-7a5604a2b043"
+				},
+				{
+					"verse": "Tan sólo he hallado lo siguiente: que Dios hizo perfecto al género humano, pero éste se ha buscado demasiadas complicaciones.»",
+					"number": 29,
+					"id": "1728b503-3367-45d0-b988-3c7820721a97"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "¿Quién como el sabio? ¿Quién conoce las respuestas? La sabiduría del hombre hace que resplandezca su rostro y se ablanden sus facciones.",
+					"number": 1,
+					"id": "1a553960-3878-46d2-ad8a-b4418256229f"
+				},
+				{
+					"verse": "Yo digo: Obedece al rey, porque lo has jurado ante Dios.",
+					"number": 2,
+					"id": "0d45abd6-1ee9-4ca4-bf04-d79b8ed8798b"
+				},
+				{
+					"verse": "No te apresures a salir de su presencia. No defiendas una mala causa, porque lo que él quiere hacer, lo hace.",
+					"number": 3,
+					"id": "cc2803ed-badb-44e3-90f8-b53513f129fa"
+				},
+				{
+					"verse": "Puesto que la palabra del rey tiene autoridad, ¿quién puede pedirle cuentas?",
+					"number": 4,
+					"id": "d147ac06-b0d1-404b-8b09-65090be4a4eb"
+				},
+				{
+					"verse": "El que acata sus órdenes no sufrirá daño alguno. El corazón sabio sabe cuándo y cómo acatarlas.",
+					"number": 5,
+					"id": "f7b5aea2-f846-4ef1-9947-06e29eb6f888"
+				},
+				{
+					"verse": "En realidad, para todo lo que se hace hay un cuándo y un cómo, aunque el hombre tiene en su contra un gran problema:",
+					"number": 6,
+					"id": "cf4fd677-9aa6-442f-b736-0124b1093062"
+				},
+				{
+					"verse": "que no sabe lo que está por suceder, ni hay quien se lo pueda decir.",
+					"number": 7,
+					"id": "08654176-0625-4f7d-ab6d-4a0870bf5752"
+				},
+				{
+					"verse": "No hay quien tenga poder sobre el aliento de vida, como para retenerlo, ni hay quien tenga poder sobre el día de su muerte. No hay licencias durante la batalla, ni la maldad deja libre al malvado.",
+					"number": 8,
+					"id": "43376df3-a253-4362-b770-e90ef1c82350"
+				},
+				{
+					"verse": "Todo esto vi al dedicarme de lleno a conocer todo lo que se hace en esta vida: hay veces que el hombre domina sobre el hombre, para su mal.",
+					"number": 9,
+					"id": "0b527b7d-b16d-4c53-b4ab-dcc09dfc34dd"
+				},
+				{
+					"verse": "Vi también a los malvados ser sepultados los que solían ir y venir del lugar santo; a ellos se les echó al olvido en la ciudad donde así se condujeron. ¡Y también esto es absurdo!",
+					"number": 10,
+					"study": "Desigualdades de la vida",
+					"id": "b29e3d78-1d6e-4374-ac61-0e053805470c"
+				},
+				{
+					"verse": "Cuando no se ejecuta rápidamente la sentencia de un delito, el corazón del pueblo se llena de razones para hacer lo malo.",
+					"number": 11,
+					"id": "15c0fe38-615d-47aa-aefc-bf5de34812a3"
+				},
+				{
+					"verse": "El pecador puede hacer lo malo cien veces, y vivir muchos años; pero sé también que le irá mejor a quien teme a Dios y le guarda reverencia.",
+					"number": 12,
+					"id": "a9201e23-5a01-4a0c-ac10-6d1235244ad5"
+				},
+				{
+					"verse": "En cambio, a los malvados no les irá bien ni vivirán mucho tiempo. Serán como una sombra, porque no temen a Dios.",
+					"number": 13,
+					"id": "a41a141e-034c-4b05-8fed-1f07a41fe4e0"
+				},
+				{
+					"verse": "En la tierra suceden cosas absurdas, pues hay hombres justos a quienes les va como si fueran malvados, y hay malvados a quienes les va como si fueran justos. ¡Y yo digo que también esto es absurdo!",
+					"number": 14,
+					"id": "a0145963-6d6e-4eaa-9af4-4426dec33334"
+				},
+				{
+					"verse": "Por tanto, celebro la alegría, pues no hay para el hombre nada mejor en esta vida que comer, beber y divertirse, pues sólo eso le queda de tanto afanarse en esta vida que Dios le ha dado.",
+					"number": 15,
+					"id": "e27ce3ae-6305-4069-950f-c13de718c097"
+				},
+				{
+					"verse": "Al dedicarme al conocimiento de la sabiduría y a la observación de todo cuanto se hace en la tierra, sin que pudiera conciliar el sueño ni de día ni de noche,",
+					"number": 16,
+					"id": "5116fa3b-a879-4a8d-b16d-eca1f3fe45a1"
+				},
+				{
+					"verse": "pude ver todo lo hecho por Dios. ¡El hombre no puede comprender todo lo que Dios ha hecho en esta vida! Por más que se esfuerce por hallarle sentido, no lo encontrará; aun cuando el sabio diga conocerlo, no lo puede comprender.",
+					"number": 17,
+					"id": "2d5570a2-5ae0-4f2a-89c7-0c546379fc11"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "A todo esto me dediqué de lleno, y en todo esto comprobé que los justos y los sabios, y sus obras, están en las manos de Dios; que el hombre nada sabe del amor ni del odio, aunque los tenga ante sus ojos.",
+					"number": 1,
+					"id": "d94c292f-22eb-44ca-a666-e6a961224ee2"
+				},
+				{
+					"verse": "Para todos hay un mismo final: para el justo y el injusto, para el bueno y el malo, para el puro y el impuro, para el que ofrece sacrificios y para el que no los ofrece; para el bueno y para el pecador, para el que hace juramentos y para el que no los hace.",
+					"number": 2,
+					"id": "beb07b36-180d-436d-bb74-8fb3c0578a9e"
+				},
+				{
+					"verse": "Hay un mal en todo lo que se hace en esta vida: que todos tienen un mismo final. Además, el corazón del hombre rebosa de maldad; la locura está en su corazón toda su vida, y su fin está entre los muertos.",
+					"number": 3,
+					"id": "6d5594ea-e70b-4f85-93fc-296f4f887659"
+				},
+				{
+					"verse": "¿Por quién, pues, decidirse? Entre todos los vivos hay esperanza, pues vale más perro vivo que león muerto.",
+					"number": 4,
+					"id": "3ac55263-f866-4f1c-a2e5-691ea3e7a552"
+				},
+				{
+					"verse": "Porque los vivos saben que han de morir, pero los muertos no saben nada ni esperan nada, pues su memoria cae en el olvido.",
+					"number": 5,
+					"id": "da6da644-6561-4ff1-bfa8-cc3d1d03c225"
+				},
+				{
+					"verse": "Sus amores, odios y pasiones llegan a su fin, y nunca más vuelven a tener parte en nada de lo que se hace en esta vida.",
+					"number": 6,
+					"id": "5cb5d37e-264c-4255-be56-fe31780d9e6e"
+				},
+				{
+					"verse": "¡Anda, come tu pan con alegría! ¡Bebe tu vino con buen ánimo, que Dios ya se ha agradado de tus obras!",
+					"number": 7,
+					"id": "6d6126f2-3060-4fd1-b628-fd94ee64fe9d"
+				},
+				{
+					"verse": "Que sean siempre blancos tus vestidos, y que no falte nunca el perfume en tus cabellos.",
+					"number": 8,
+					"id": "0038fb47-05c0-47e8-8a15-bcad5dec8846"
+				},
+				{
+					"verse": "Goza de la vida con la mujer amada cada día de la fugaz existencia que Dios te ha dado en este mundo. ¡Cada uno de tus absurdos días! Esto es lo que te ha tocado de todos tus afanes en este mundo.",
+					"number": 9,
+					"id": "f06e34d8-efb6-40de-962d-b3eb0851498c"
+				},
+				{
+					"verse": "Y todo lo que te venga a la mano, hazlo con todo empeño; porque en el sepulcro, adonde te diriges, no hay trabajo ni planes ni conocimiento ni sabiduría.",
+					"number": 10,
+					"id": "78704efb-e3b8-47c3-a1ce-03f59f00a6ec"
+				},
+				{
+					"verse": "Me fijé que en esta vida la carrera no la ganan los más veloces, ni ganan la batalla los más valientes; que tampoco los sabios tienen qué comer, ni los inteligentes abundan en dinero, ni los instruidos gozan de simpatía, sino que a todos les llegan buenos y malos tiempos.",
+					"number": 11,
+					"id": "d542b0d9-409b-4849-be64-d30f964197b9"
+				},
+				{
+					"verse": "Vi además que nadie sabe cuándo le llegará su hora. Así como los peces caen en la red maligna y las aves caen en la trampa, también los hombres se ven atrapados por una desgracia que de pronto les sobreviene.",
+					"number": 12,
+					"id": "7a43ad40-779d-4b34-8671-7fd65d98e223"
+				},
+				{
+					"verse": "También vi en este mundo un notable caso de sabiduría:",
+					"number": 13,
+					"id": "146f9bcb-a73f-4b6b-8470-22b3013aeb23"
+				},
+				{
+					"verse": "una ciudad pequeña, con pocos habitantes, contra la cual se dirigió un rey poderoso que la sitió, y construyó a su alrededor una impresionante maquinaria de asalto.",
+					"number": 14,
+					"id": "426cac47-30f3-4680-99e9-76839916990f"
+				},
+				{
+					"verse": "En esa ciudad había un hombre, pobre pero sabio, que con su sabiduría podría haber salvado a la ciudad, ¡pero nadie se acordó de aquel hombre pobre!",
+					"number": 15,
+					"id": "a53a5618-3870-41df-a4bb-21c25d2adda8"
+				},
+				{
+					"verse": "Yo digo que «más vale maña que fuerza», aun cuando se menosprecie la sabiduría del pobre y no se preste atención a sus palabras.",
+					"number": 16,
+					"id": "c0b7ed70-974b-4981-93c3-28c277667c7e"
+				},
+				{
+					"verse": "Más se atiende a las palabras tranquilas de los sabios que a los gritos del jefe de los necios.",
+					"number": 17,
+					"id": "b509d7fc-e9a1-4076-8e7b-78c05a00134a"
+				},
+				{
+					"verse": "Vale más la sabiduría que las armas de guerra.",
+					"number": 18,
+					"id": "8f718798-7890-40c9-8e9e-a3ad39480d0a"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "acaba con muchos bienes. Las moscas muertas apestan y echan a perder el perfume. que la sabiduría y la honra juntas.",
+					"number": 1,
+					"study": "Excelencia de la sabiduría",
+					"id": "354c192a-4647-468d-a375-fa34c4aba66f"
+				},
+				{
+					"verse": "El corazón del sabio busca el bien, pero el del necio busca el mal.",
+					"number": 2,
+					"id": "139c5669-4430-44ef-b051-f4b5c006e94e"
+				},
+				{
+					"verse": "Y aun en el camino por el que va, el necio revela su falta de inteligencia y a todos va diciendo lo necio que es.",
+					"number": 3,
+					"id": "eabeafa1-a8ab-45ed-9f22-cc918283a9bd"
+				},
+				{
+					"verse": "Si el ánimo del gobernante se exalta contra ti, no abandones tu puesto. La paciencia es el remedio para los grandes errores.",
+					"number": 4,
+					"id": "74bdfde1-66f8-43a8-b8a5-d8d29519604e"
+				},
+				{
+					"verse": "Hay un mal que he visto en esta vida, semejante al error que cometen los gobernantes:",
+					"number": 5,
+					"id": "6bc364aa-f94e-4ce3-829b-b17ed1dbf0af"
+				},
+				{
+					"verse": "al necio se le dan muchos puestos elevados, pero a los capaces se les dan los puestos más bajos.",
+					"number": 6,
+					"id": "32b2fe5c-e14a-45f8-8f57-d5ba69714e4c"
+				},
+				{
+					"verse": "He visto esclavos montar a caballo, y príncipes andar a pie como esclavos.",
+					"number": 7,
+					"id": "fa0fe5b8-362d-4bca-a94f-4a3e7b203ef7"
+				},
+				{
+					"verse": "El que cava la fosa, en ella se cae. Al que abre brecha en el muro, la serpiente lo muerde.",
+					"number": 8,
+					"id": "6c110027-de02-47d1-bec6-c9359a189413"
+				},
+				{
+					"verse": "El que pica piedra, con las piedras se hiere. El que corta leña, con los leños se lastima.",
+					"number": 9,
+					"id": "3b3eafce-14f3-4739-b54e-f0a797aa08f9"
+				},
+				{
+					"verse": "Si el hacha pierde su filo, y no se vuelve a afilar, hay que golpear con más fuerza. sabia y bien ejecutada.",
+					"number": 10,
+					"id": "d3ed1124-5e6a-4dfb-98fe-2b901997c059"
+				},
+				{
+					"verse": "Si la serpiente muerde antes de ser encantada, no hay ganancia para el encantador.",
+					"number": 11,
+					"id": "0eee2cd3-1689-4481-a293-27acd05dda26"
+				},
+				{
+					"verse": "Las palabras del sabio son placenteras, pero los labios del necio son su ruina;",
+					"number": 12,
+					"id": "74c3b567-cccc-41dc-9b34-6a2a20dc1be8"
+				},
+				{
+					"verse": "sus primeras palabras son necedades, y las últimas son terribles sandeces.",
+					"number": 13,
+					"id": "262510e6-6a56-4ab5-b4c7-02c2a10b110b"
+				},
+				{
+					"verse": "¡Pero no le faltan las palabras! Nadie sabe lo que ha de suceder, y lo que será aun después, ¿quién podría decirlo?",
+					"number": 14,
+					"id": "2bf92e48-8d7c-4869-9fd7-85cfc4798cfb"
+				},
+				{
+					"verse": "El trabajo del necio tanto lo fatiga que ni el camino a la ciudad conoce.",
+					"number": 15,
+					"id": "53daec2e-b27d-4434-a640-167ff87a5e6a"
+				},
+				{
+					"verse": "¡Ay del país cuyo rey es un inmaduro, y cuyos príncipes banquetean desde temprano!",
+					"number": 16,
+					"id": "9f040814-2f0b-4232-84a2-1f5a625d1615"
+				},
+				{
+					"verse": "¡*Dichoso el país cuyo rey es un noble, y cuyos príncipes comen cuando es debido, para reponerse y no para embriagarse!",
+					"number": 17,
+					"id": "28506205-a1b6-4e7a-8883-4f3c13bb43a0"
+				},
+				{
+					"verse": "Por causa del ocio se viene abajo el techo, y por la pereza se desploma la casa.",
+					"number": 18,
+					"id": "d749a67c-9b80-4fe1-9faf-97aea82b59f1"
+				},
+				{
+					"verse": "Para alegrarse, el pan; para gozar, el vino; para disfrutarlo, el dinero.",
+					"number": 19,
+					"id": "c57d5971-3af5-4fd2-83f4-ba47e1899396"
+				},
+				{
+					"verse": "No maldigas al rey ni con el pensamiento, ni en privado maldigas al rico, pues las aves del cielo pueden correr la voz. Tienen alas y pueden divulgarlo.",
+					"number": 20,
+					"id": "50a147e5-d8dc-4b24-bb93-04b13886eb04"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Lanza tu pan sobre el agua; después de algún tiempo volverás a encontrarlo.",
+					"number": 1,
+					"id": "20e63f1b-6d33-4e99-80e5-f517edebe95e"
+				},
+				{
+					"verse": "Comparte lo que tienes entre siete, y aun entre ocho, pues no sabes qué calamidad pueda venir sobre la tierra.",
+					"number": 2,
+					"id": "4055e629-7906-437d-8376-ceeb4e8d5e1e"
+				},
+				{
+					"verse": "Cuando las nubes están cargadas, derraman su lluvia sobre la tierra. Si el árbol cae hacia el sur, o cae hacia el norte, donde cae allí se queda.",
+					"number": 3,
+					"id": "e1090f50-0f8c-4478-b9bc-de1f3202532e"
+				},
+				{
+					"verse": "Quien vigila al viento, no siembra; quien contempla las nubes, no cosecha.",
+					"number": 4,
+					"id": "907258ee-c657-4167-8802-658247cb1c23"
+				},
+				{
+					"verse": "Así como no sabes por dónde va el viento ni cómo se forma el niño en el vientre de la madre, tampoco entiendes la obra de Dios, creador de todas las cosas.",
+					"number": 5,
+					"id": "4b13ea79-def2-4af9-bac3-2a2cb5ba9c49"
+				},
+				{
+					"verse": "Siembra tu semilla en la mañana, y no te des reposo por la tarde, pues nunca sabes cuál siembra saldrá mejor, si ésta o aquélla, o si ambas serán igual de buenas.",
+					"number": 6,
+					"id": "6b1d7100-db34-44c9-9453-b716f89bb532"
+				},
+				{
+					"verse": "Grata es la luz, y qué bueno que los ojos disfruten del sol.",
+					"number": 7,
+					"id": "e9deabc0-252a-498f-9603-ce5b7c737c30"
+				},
+				{
+					"verse": "Mas si el hombre vive muchos años, y todos ellos los disfruta, debe recordar que los días tenebrosos serán muchos y que lo venidero será un absurdo.",
+					"number": 8,
+					"id": "e49612f5-5378-4b1c-b5a7-8a24ffcba46b"
+				},
+				{
+					"verse": "Alégrate, joven, en tu juventud; deja que tu corazón disfrute de la adolescencia. Sigue los impulsos de tu corazón y responde al estímulo de tus ojos, pero toma en cuenta que Dios te juzgará por todo esto.",
+					"number": 9,
+					"study": "Consejos para la juventud",
+					"id": "9a2ab074-93c6-44d9-a96c-6728cb7597eb"
+				},
+				{
+					"verse": "Aleja de tu corazón el enojo, y echa fuera de tu ser la maldad, porque confiar en la juventud y en la flor de la vida es un absurdo.",
+					"number": 10,
+					"id": "3a1cdf34-1463-401e-bcc6-2a6f2002fb73"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Acuérdate de tu Creador en los días de tu juventud, antes que lleguen los días malos y vengan los años en que digas: «No encuentro en ellos placer alguno»;",
+					"number": 1,
+					"id": "0f85ca1e-f86c-407d-99a5-d36204a61c87"
+				},
+				{
+					"verse": "antes que dejen de brillar el sol y la luz, la luna y las estrellas, y vuelvan las nubes después de la lluvia.",
+					"number": 2,
+					"id": "12e04764-fb62-4d4c-a509-1fd38f0aa846"
+				},
+				{
+					"verse": "Un día temblarán los guardianes de la casa, y se encorvarán los hombres de batalla; se detendrán las molenderas por ser tan pocas, y se apagarán los que miran a través de las ventanas.",
+					"number": 3,
+					"id": "0495146e-56ac-4fa0-a4a8-0b635527885c"
+				},
+				{
+					"verse": "Se irán cerrando las puertas de la calle, irá disminuyendo el ruido del molino, las aves elevarán su canto, pero apagados se oirán sus trinos.",
+					"number": 4,
+					"id": "06f23471-d776-4ba0-85bc-154a3c502623"
+				},
+				{
+					"verse": "Sobrevendrá el temor por las alturas y por los peligros del camino. Florecerá el almendro, la langosta resultará onerosa, y no servirá de nada la alcaparra, pues el hombre se encamina al hogar eterno y rondan ya en la calle los que lloran su muerte.",
+					"number": 5,
+					"id": "c4ca20c5-64b0-49b6-9b07-6830f7bc4310"
+				},
+				{
+					"verse": "Acuérdate de tu Creador antes que se rompa el cordón de plata y se quiebre la vasija de oro, y se estrelle el cántaro contra la fuente y se haga pedazos la polea del pozo.",
+					"number": 6,
+					"id": "74c70c35-ab24-4ec7-84ae-fe5e9f6e46f6"
+				},
+				{
+					"verse": "Volverá entonces el polvo a la tierra, como antes fue, y el espíritu volverá a Dios, que es quien lo dio.",
+					"number": 7,
+					"id": "a47beb53-07db-4e38-a2ed-56ec7edf8a7f"
+				},
+				{
+					"verse": "Lo más absurdo de lo absurdo, ¡todo es un absurdo! ha dicho el Maestro.",
+					"number": 8,
+					"id": "f9eb640f-b5e5-4c04-a0b8-9638193f9344"
+				},
+				{
+					"verse": "Además de ser sabio, el Maestro impartió conocimientos a la gente. Ponderó, investigó y ordenó muchísimos proverbios.",
+					"number": 9,
+					"study": "Resumen del deber del hombre",
+					"id": "2ebede7d-6b43-4613-8443-c5cbc8ccad69"
+				},
+				{
+					"verse": "Procuró también hallar las palabras más adecuadas y escribirlas con honradez y veracidad.",
+					"number": 10,
+					"id": "88aa27f4-f0b4-4c5c-85ce-1cc848a2ec8e"
+				},
+				{
+					"verse": "Las palabras de los sabios son como aguijones. Como clavos bien puestos son sus colecciones de dichos, dados por un solo pastor.",
+					"number": 11,
+					"id": "f147ce20-492f-44d0-a172-8b2905163373"
+				},
+				{
+					"verse": "Además de ellas, hijo mío, ten presente que el hacer muchos libros es algo interminable y que el mucho leer causa fatiga.",
+					"number": 12,
+					"id": "9d4b9e3f-c145-4f47-b4d2-399d560ad3c2"
+				},
+				{
+					"verse": "El fin de este asunto es que ya se ha escuchado todo. Teme, pues, a Dios y cumple sus mandamientos, porque esto es todo para el hombre.",
+					"number": 13,
+					"id": "8de1827c-15a6-4caf-9d8d-4c53f93d1e10"
+				},
+				{
+					"verse": "Pues Dios juzgará toda obra, buena o mala, aun la realizada en secreto.",
+					"number": 14,
+					"id": "6c359224-cab3-49e7-b42c-1d6cb7d8abf2"
+				}
+			]
+		}
+	],
+	"book_id": "ac5f6ea5-36c7-4d54-9992-9624192448c4"
+}

@@ -1,0 +1,636 @@
+{
+	"name": "Cantares",
+	"num_chapters": 8,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "El más hermoso de los poemas de Salomón.\nElla",
+					"number": 1,
+					"study": "La esposa y las hijas de Jerusalén",
+					"id": "60312554-8dca-47c9-bee7-f54f2062872c"
+				},
+				{
+					"verse": "¡Dame un beso de tus labios!\nSon más dulces que el vino tus caricias,",
+					"number": 2,
+					"id": "4325c93e-d01c-40d8-9175-5035bc6ad3f7"
+				},
+				{
+					"verse": "deliciosos al olfato tus perfumes,\ntu nombre es perfume derramado.\n¡Por eso te aman las mujeres!",
+					"number": 3,
+					"id": "0cde3578-c598-4ae9-bbbb-1c7b005d7e8f"
+				},
+				{
+					"verse": "¡Llévame pronto contigo!\n¡Llévame, oh rey, a tus habitaciones!\nContigo estaremos muy alegres;\nevocaremos tus caricias más que el vino.\n¡Con razón te aman las mujeres!",
+					"number": 4,
+					"id": "f5466ca4-a2b8-4454-9fff-da17d67ad9b3"
+				},
+				{
+					"verse": "Mujeres de Jerusalén,\nsoy morena, pero hermosa;\nmorena como los campamentos de Quedar,\nhermosa como las cortinas de Salomón.",
+					"number": 5,
+					"id": "a7836d4e-0f0c-4df9-a26f-995828f7d392"
+				},
+				{
+					"verse": "No se fijen en que soy morena,\nni en que el sol me ha quemado la piel.\nMis hermanos se enojaron conmigo\ny me pusieron a cuidar las viñas,\n¡y mi propia viña descuidé!",
+					"number": 6,
+					"id": "dcc90656-5e9b-40a6-842c-614d672062d2"
+				},
+				{
+					"verse": "Dime, amor de mi vida,\n¿dónde apacientas tus rebaños?,\n¿dónde los llevas a descansar al mediodía?\n¿Por qué he de andar como una vagabunda,\njunto a los rebaños de tus compañeros?",
+					"number": 7,
+					"id": "44a44532-c60b-41a4-a259-89046fc9896d"
+				},
+				{
+					"verse": "Si no lo sabes tú,\nhermosa entre las hermosas,\nsigue las pisadas del rebaño\ny apacienta tus cabritos\njunto a las chozas de los pastores.",
+					"number": 8,
+					"id": "82da818b-87b9-42e4-9222-eefec567ebba"
+				},
+				{
+					"verse": "Tú eres para mí, amor mío,\ncual fina yegua del carro del faraón.",
+					"number": 9,
+					"study": "La esposa y el esposo",
+					"id": "2ed74f60-76bb-403a-9a76-fb91dc59114a"
+				},
+				{
+					"verse": "¡Qué lindas son tus mejillas\nentre los pendientes!\n¡Qué lindo es tu cuello\nentre los collares de perlas!",
+					"number": 10,
+					"id": "4d287438-b3a4-4f93-9b7f-27140537994f"
+				},
+				{
+					"verse": "¡Te haremos pendientes de oro\ncon incrustaciones de plata!",
+					"number": 11,
+					"id": "72162b6e-7c0a-4058-8150-c632154e5f2d"
+				},
+				{
+					"verse": "Mientras el rey se sienta a la mesa,\nmi nardo esparce su fragancia.",
+					"number": 12,
+					"id": "69b17e9c-0818-4fe2-93aa-417e9edb1db2"
+				},
+				{
+					"verse": "Mi amado es para mí como el saquito de mirra\nque está siempre entre mis pechos.",
+					"number": 13,
+					"id": "67115836-d576-4e8b-b6f7-8d1979bb0ae6"
+				},
+				{
+					"verse": "Mi amado es para mí como flor de alheña\nen los viñedos de En-gadi.",
+					"number": 14,
+					"id": "99b66893-b51b-4228-8ee2-28be829b5247"
+				},
+				{
+					"verse": "¡Qué hermosa eres, amor mío,\nqué hermosa eres!\n¡Tus ojos son dos palomas!",
+					"number": 15,
+					"id": "fbba5fea-249e-45d6-9c05-355f3ae5ecfc"
+				},
+				{
+					"verse": "¡Qué hermoso eres, amor mío,\nqué hermoso eres!\n¡La verde hierba es nuestro lecho!",
+					"number": 16,
+					"id": "09433025-d82d-453b-802b-a778e44cd566"
+				},
+				{
+					"verse": "Los cedros son las vigas de la casa,\ny los cipreses, el techo que nos cubre.",
+					"number": 17,
+					"id": "353b5425-add6-4988-a1f2-4422b7cca24a"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Soy la flor de los llanos de Sarón,\nsoy la rosa de los valles.",
+					"number": 1,
+					"id": "ef59da98-684f-45a1-a492-9ec457dc2b82"
+				},
+				{
+					"verse": "Mi amada es, entre las mujeres,\ncomo una rosa entre los espinos.",
+					"number": 2,
+					"id": "097ed1b6-3109-4209-9115-5d898e2d37f3"
+				},
+				{
+					"verse": "Mi amado es, entre los hombres,\ncomo un manzano entre los árboles del bosque.\n¡Qué agradable es sentarme a su sombra!\n¡Qué dulce me sabe su fruta!",
+					"number": 3,
+					"id": "c8ef1f39-2401-4263-9ef8-a3865f925fab"
+				},
+				{
+					"verse": "Me llevó a la sala de banquetes\ny sus miradas para mí fueron de amor.",
+					"number": 4,
+					"id": "a0901468-1d69-4f7a-bce0-59cbe2157c3c"
+				},
+				{
+					"verse": "¡Reanímenme con tortas de pasas,\naliméntenme con manzanas,\nporque me muero de amor!",
+					"number": 5,
+					"id": "24b57ff0-51e2-495f-991d-ec3795ef8d10"
+				},
+				{
+					"verse": "¡Que ponga él su izquierda bajo mi cabeza,\ny que con su derecha me abrace!",
+					"number": 6,
+					"id": "3664e761-e05d-4473-9869-2f976b681d90"
+				},
+				{
+					"verse": "Prométanme, mujeres de Jerusalén,\npor las gacelas y cervatillas del bosque,\nno interrumpir el sueño de mi amor.\n¡Déjenla dormir hasta que quiera despertar!",
+					"number": 7,
+					"id": "aa537b93-84dd-4db3-9cef-d0a166a1bf5b"
+				},
+				{
+					"verse": "¡Ya viene mi amado!\n¡Ya escucho su voz!\nViene saltando sobre los montes,\nviene saltando por las colinas.",
+					"number": 8,
+					"id": "678559f4-e903-42c6-a9d6-f41e01e808e8"
+				},
+				{
+					"verse": "Mi amado es como un venado:\ncomo un venado pequeño.\n¡Aquí está ya, tras la puerta,\nasomándose a la ventana,\nespiando a través de la reja!",
+					"number": 9,
+					"id": "472d0c57-29f0-4402-b3d1-a722d46e22bd"
+				},
+				{
+					"verse": "Mi amado me dijo:\n«Levántate, amor mío;\nanda, cariño, vamos.",
+					"number": 10,
+					"id": "76f68890-431e-4ac4-9b2f-f29e48b196d7"
+				},
+				{
+					"verse": "¡Mira! El invierno ha pasado\ny con él se han ido las lluvias.",
+					"number": 11,
+					"id": "272f2e20-2c38-45d5-b53c-594deb4abd9e"
+				},
+				{
+					"verse": "Ya han brotado flores en el campo,\nya ha llegado el tiempo de cantar,\nya se escucha en nuestra tierra\nel arrullo de las tórtolas.",
+					"number": 12,
+					"id": "150903ab-6637-45da-a0bc-7514c7f38fa4"
+				},
+				{
+					"verse": "Ya tiene higos la higuera,\ny los viñedos esparcen su aroma.\n»Levántate, amor mío;\nanda, cariño, vamos.",
+					"number": 13,
+					"id": "3f4d44e0-deb6-4058-a48c-e71926a1a8a7"
+				},
+				{
+					"verse": "»Paloma mía, que te escondes en las rocas,\nen altos y escabrosos escondites,\ndéjame ver tu rostro,\ndéjame escuchar tu voz.\n¡Es tan agradable el verte!\n¡Es tan dulce el escucharte!»",
+					"number": 14,
+					"id": "9345d4b4-f860-46af-84c6-c75f0f880363"
+				},
+				{
+					"verse": "Atrapen las zorras, las zorras pequeñas\nque arruinan nuestros viñedos,\nnuestros viñedos en flor.",
+					"number": 15,
+					"id": "733b90cd-8ef8-40e9-95b1-371d7153ec9d"
+				},
+				{
+					"verse": "Mi amado es mío, y yo soy suya.\nÉl apacienta sus rebaños entre las rosas.",
+					"number": 16,
+					"id": "35f1d06c-65c4-4a3b-8a08-c02b83b9f553"
+				},
+				{
+					"verse": "Mientras llega el día\ny huyen las sombras,\nvuelve, amado mío;\nsé como un venado,\ncomo un venado pequeño\npor los montes escarpados.",
+					"number": 17,
+					"id": "08287a91-12e4-4c7e-84f2-88d58e7bffc3"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "En mi cama, por las noches,\nbusqué al amor de mi vida.\nLo busqué y no lo encontré.",
+					"number": 1,
+					"study": "El ensueño de la esposa",
+					"id": "f6b127c8-ac4f-4d94-86f4-7f95aca495ac"
+				},
+				{
+					"verse": "Entonces me levanté\ny recorrí la ciudad\nbuscando al amor de mi vida\npor las calles y las plazas.\nLo busqué y no lo encontré.",
+					"number": 2,
+					"id": "0ac77160-ba90-4e8d-884e-65f921992094"
+				},
+				{
+					"verse": "Pregunté a los guardias\nque hacen la ronda de la ciudad:\n«¿No han visto ustedes al amor de mi vida?»",
+					"number": 3,
+					"id": "3555be84-5bf1-4156-adc3-49e5805d4693"
+				},
+				{
+					"verse": "Apenas me había alejado de ellos,\ncuando encontré al amor de mi vida.\nLo tomé de la mano, y sin soltarlo\nlo llevé a las habitaciones de mi madre.",
+					"number": 4,
+					"id": "6411c5d0-2717-4455-86b1-105dbee17167"
+				},
+				{
+					"verse": "Prométanme, mujeres de Jerusalén,\npor las gacelas y cervatillas del bosque,\nno interrumpir el sueño de mi amor.\n¡Déjenla dormir hasta que quiera despertar!",
+					"number": 5,
+					"id": "29d5df99-df0b-4597-bbb7-c551ed8ed82a"
+				},
+				{
+					"verse": "¿Qué es eso que viene del desierto\ny avanza entre columnas de humo,\nentre humo de mirra y de incienso\ny de toda clase de perfumes?",
+					"number": 6,
+					"study": "El cortejo de bodas",
+					"id": "3ae4750b-cac2-46b9-ad28-6e87fbe1a64f"
+				},
+				{
+					"verse": "¡Es la litera de Salomón!\nViene escoltada por sesenta soldados\nde los más valientes de Israel;",
+					"number": 7,
+					"id": "9f798867-9e0a-4ae1-a0e5-7ee701e0140c"
+				},
+				{
+					"verse": "todos ellos manejan la espada\ny son expertos guerreros;\ncada uno lleva la espada al cinto\nen previsión de peligros nocturnos.",
+					"number": 8,
+					"id": "b0636984-9d40-409f-af08-9884eddf70ac"
+				},
+				{
+					"verse": "El rey Salomón se ha hecho una litera\ncon finas maderas del Líbano.",
+					"number": 9,
+					"id": "f3145277-557d-4718-a057-5b1d18e62539"
+				},
+				{
+					"verse": "Las columnas son de plata;\nel respaldo, de oro;\nel asiento, tapizado de púrpura;\nel interior, decorado con amor\npor las mujeres de Jerusalén.",
+					"number": 10,
+					"id": "432dfa92-a1df-4485-a953-42a5c2c79371"
+				},
+				{
+					"verse": "Mujeres de Sión,\n¡salgan a ver al rey Salomón!\nLleva puesta la corona\nque le hizo su madre para el día de su boda,\npara el día más feliz de su vida.",
+					"number": 11,
+					"id": "a5ea21d5-18aa-47bb-b509-f2820d56ee6c"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "¡Qué hermosa eres, amor mío!\n¡Qué hermosa eres!\nTus ojos son dos palomas\nescondidas tras tu velo;\ntus cabellos son como cabritos\nque retozan por los montes de Galaad.",
+					"number": 1,
+					"study": "El esposo alaba a la esposa",
+					"id": "f9bd4f8c-0788-48c1-aee0-b24570b87e54"
+				},
+				{
+					"verse": "Tus dientes, todos perfectos,\nson cual rebaño de ovejas\nrecién salidas del baño\ny listas para la trasquila.",
+					"number": 2,
+					"id": "cbbdbb4d-d522-4fba-949f-ef29872a36fd"
+				},
+				{
+					"verse": "Tus labios son rojos\ncomo hilos de escarlata,\ny encantadoras tus palabras.\nTus mejillas son dos gajos de granada\nescondidos tras tu velo.",
+					"number": 3,
+					"id": "d166ddcc-4e92-4917-b8fb-0928198f6296"
+				},
+				{
+					"verse": "Tu cuello es semejante\na la bella torre de cantería\nque se construyó para David.\nDe ella cuelgan mil escudos,\nescudos de valientes.",
+					"number": 4,
+					"id": "7c2e8fca-94a6-4f43-acca-54fb97e068e6"
+				},
+				{
+					"verse": "Tus pechos son dos gacelas,\ndos gacelas mellizas\nque pastan entre las rosas.",
+					"number": 5,
+					"id": "4905aa8d-6b46-4779-85e5-23e9ca3efe6e"
+				},
+				{
+					"verse": "Mientras llega el día\ny huyen las sombras,\nme iré al monte de la mirra,\na la colina del incienso.",
+					"number": 6,
+					"id": "f9ad8cb3-ba1d-4ecf-9930-3338951bee40"
+				},
+				{
+					"verse": "¡Tú eres hermosa, amor mío;\nhermosa de pies a cabeza!\n¡En ti no hay defecto alguno!",
+					"number": 7,
+					"id": "cebb21c4-9d63-4d81-8f8a-e9d0ccef544f"
+				},
+				{
+					"verse": "Baja conmigo del Líbano, novia mía;\nbaja conmigo del Líbano.\nContempla el valle desde la cumbre del Amaná,\ndesde la cumbre del Senir y del Hermón;\ndesde las cuevas de los leones,\ndesde los montes de los leopardos.",
+					"number": 8,
+					"id": "13cc57d3-7295-42d0-9220-715ee189b42b"
+				},
+				{
+					"verse": "Me robaste el corazón,\nhermanita, novia mía;\nme robaste el corazón\ncon una sola mirada tuya,\ncon uno de los hilos de tu collar.",
+					"number": 9,
+					"id": "833a77b4-3ac0-4b3a-8db1-67f1ef6f7e5c"
+				},
+				{
+					"verse": "¡Qué gratas son tus caricias,\nhermanita, novia mía!\n¡Son tus caricias más dulces que el vino,\ny más deliciosos tus perfumes\nque todas las especias aromáticas!",
+					"number": 10,
+					"id": "d4468775-004b-4b5a-a17b-2fe135053ea7"
+				},
+				{
+					"verse": "Novia mía,\nde tus labios brota miel.\n¡Miel y leche hay debajo de tu lengua!\n¡Como fragancia del Líbano\nes la fragancia de tu vestido!",
+					"number": 11,
+					"id": "0e4ce234-1ad5-4fba-83a5-3c16ce370c82"
+				},
+				{
+					"verse": "Tú, hermanita, novia mía,\neres jardín cerrado,\ncerrada fuente,\nsellado manantial;",
+					"number": 12,
+					"id": "f1de228c-4d2c-4a60-8761-1d6c48162c68"
+				},
+				{
+					"verse": "jardín donde brotan los granados\nde frutos exquisitos;\njardín donde hay flores de alheña,",
+					"number": 13,
+					"id": "0dc9db79-7983-4d7c-92df-d16b326baffa"
+				},
+				{
+					"verse": "nardos y azafrán,\ncaña aromática y canela,\ny toda clase de árboles de incienso,\nde mirra y de áloe;\n¡todas las mejores especias aromáticas!",
+					"number": 14,
+					"id": "c085dfc0-13df-4b09-9cdd-e9bffd337d82"
+				},
+				{
+					"verse": "La fuente del jardín\nes un pozo del cual brota\nel agua que baja desde el Líbano.",
+					"number": 15,
+					"id": "851c6892-dbc9-4043-9dca-e10529dc609f"
+				},
+				{
+					"verse": "Viento del norte, ¡despierta!\nViento del sur, ¡ven acá!\n¡Soplen en mi jardín y esparzan su perfume!\nVen, amado mío, a tu jardín,\ny come de sus frutos exquisitos.",
+					"number": 16,
+					"id": "9ec75461-619c-4ed0-a48a-f14448d8fbcc"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Ya he entrado en mi jardín,\nhermanita, novia mía.\nYa he tomado mi mirra y mis perfumes,\nya he probado la miel de mi panal,\nya he bebido mi vino y mi leche.\nQueridos amigos,\ncoman y beban,\n¡beban todo lo que quieran!",
+					"number": 1,
+					"id": "dcc3eead-3767-470c-8963-8685d6178274"
+				},
+				{
+					"verse": "Yo dormía, pero no mi corazón.\nY oí que mi amado llamaba a la puerta:\n«¡Ábreme, amor mío;\nhermanita,\npalomita virginal!\n¡Mi cabeza está empapada de rocío!\n¡El rocío nocturno me corre por el cabello!»",
+					"number": 2,
+					"study": "El tormento de la separación",
+					"id": "4acba9af-28c0-4162-af24-b695f430c81f"
+				},
+				{
+					"verse": "«Ya me he quitado la ropa;\n¡tendría que volver a vestirme!\nYa me he lavado los pies;\n¡se me volverían a llenar de polvo!»",
+					"number": 3,
+					"id": "696c10d5-1685-40b5-8709-1d28fd9c7950"
+				},
+				{
+					"verse": "Mi amado metió la mano\npor el agujero de la puerta.\n¡Eso me conmovió profundamente!",
+					"number": 4,
+					"id": "02301009-8e74-42a9-b51c-00adb93b29d6"
+				},
+				{
+					"verse": "Entonces me levanté\npara abrirle a mi amado.\nDe mis manos y mis dedos\ncayeron gotitas de mirra\nsobre el pasador de la puerta.\n¡Al oírlo hablar\nsentí que me moría!\nAbrí la puerta a mi amado,\npero él ya no estaba allí.\nLo busqué y no lo encontré,\nlo llamé y no me respondió.",
+					"number": 5,
+					"id": "f520d25d-a0fa-4a1f-a929-e7e0b7f974ad"
+				},
+				{
+					"verse": "Me encontraron los guardias\nque hacen la ronda de la ciudad;\nme golpearon, me hirieron;\n¡los que cuidan la entrada de la ciudad\nme arrancaron el velo con violencia!",
+					"number": 6,
+					"id": "1f3310b7-142a-4a91-ade0-b695cc813597"
+				},
+				{
+					"verse": "Mujeres de Jerusalén,\nsi encuentran a mi amado,\nprométanme decirle\nque me estoy muriendo de amor.",
+					"number": 7,
+					"id": "9263d78e-d9cd-4cc5-855b-4ceaadec781e"
+				},
+				{
+					"verse": "¿Qué de especial tiene tu amado,\nhermosa entre las hermosas?\n¿Qué de especial tiene tu amado\nque nos pides hacerte tal promesa?",
+					"number": 8,
+					"id": "b8e2de8e-63bb-4f47-94e1-15d5cead310f"
+				},
+				{
+					"verse": "Mi amado es trigueño claro,\ninconfundible entre miles de hombres.",
+					"number": 9,
+					"study": "La esposa alaba al esposo",
+					"id": "0978ae0f-4ed5-4d55-aff9-8cfbb30e427b"
+				},
+				{
+					"verse": "Su cabeza es oro puro;\nsu cabello es ondulado\ny negro como un cuervo;",
+					"number": 10,
+					"id": "7790edf0-92f0-41a2-a02b-a6d108f197e1"
+				},
+				{
+					"verse": "sus ojos son dos palomas bañadas en leche,\nposadas junto a un estanque;",
+					"number": 11,
+					"id": "d7317e5c-0afd-4c4a-8042-200820e9dee2"
+				},
+				{
+					"verse": "sus mejillas son amplios jardines\nde fragantes flores.\nSus labios son rosas\npor las que ruedan gotitas de mirra;",
+					"number": 12,
+					"id": "6762bcb0-cf8c-4ab1-919b-4f6dba8ef818"
+				},
+				{
+					"verse": "sus manos son abrazaderas de oro cubiertas de topacios;\nsu cuerpo es pulido marfil\ncon incrustaciones de zafiros;",
+					"number": 13,
+					"id": "1b92cd68-47f7-43a3-aed8-db26d6b39bec"
+				},
+				{
+					"verse": "sus piernas son columnas de mármol\nafirmadas sobre bases de oro puro;\nsu aspecto es distinguido\ncomo los cedros del Líbano;",
+					"number": 14,
+					"id": "fa37a2db-3aa8-4e47-b528-3d7005ea11b8"
+				},
+				{
+					"verse": "su paladar es dulcísimo.\n¡Todo él es un encanto!\nAsí es mi amado,\nasí es el amor mío,\nmujeres de Jerusalén.",
+					"number": 15,
+					"id": "d7a7683e-39a7-4244-9a8e-f51ecdc82987"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "¿A dónde se ha ido tu amado,\nhermosa entre las hermosas?\n¿A dónde se ha dirigido?\n¡Iremos contigo a buscarlo!",
+					"number": 1,
+					"study": "Mutuo encanto del esposo y de la esposa",
+					"id": "2388c162-c7ec-427d-9634-d0fb920768f8"
+				},
+				{
+					"verse": "Mi amado ha ido a su jardín,\na su jardín perfumado,\na apacentar su rebaño\ny cortar las rosas.",
+					"number": 2,
+					"id": "bb4f834a-d3ed-4361-b0e3-3d2d969cda21"
+				},
+				{
+					"verse": "Yo soy de mi amado, y él es mío.\nÉl apacienta sus rebaños entre las rosas.",
+					"number": 3,
+					"id": "5e5ab293-afc2-45f0-b624-5ecee14b7838"
+				},
+				{
+					"verse": "Tú, amor mío,\neres hermosa y encantadora\ncomo las ciudades de Tirsá y Jerusalén;\nirresistible como un ejército en marcha.",
+					"number": 4,
+					"id": "9416efa8-c86e-4993-b865-34394271d5f1"
+				},
+				{
+					"verse": "¡Deja ya de mirarme,\npues tus ojos me han vencido!\nTus cabellos son como cabritos\nque retozan por los montes de Galaad.",
+					"number": 5,
+					"id": "d7538195-e56f-4eb1-9559-da58361c534a"
+				},
+				{
+					"verse": "Tus dientes, todos perfectos,\nson cual rebaño de ovejas\nrecién salidas del baño\ny listas para la trasquila.",
+					"number": 6,
+					"id": "5771b412-4c21-484c-a6d0-d76c54ddf3ca"
+				},
+				{
+					"verse": "Tus mejillas son dos gajos de granada\nescondidos tras tu velo.",
+					"number": 7,
+					"id": "35544f7c-b101-4978-9000-99a1df7ba803"
+				},
+				{
+					"verse": "Sesenta son las reinas,\nochenta las concubinas\ny muchísimas las doncellas,",
+					"number": 8,
+					"id": "59d28a57-0666-4bef-9925-975fee2f6c06"
+				},
+				{
+					"verse": "pero mi palomita virginal es una sola;\nuna sola es la hija preferida\nde la mujer que la dio a luz.\nAl verla, las jóvenes la felicitan;\nreinas y concubinas la alaban.",
+					"number": 9,
+					"id": "bea3e3b6-b38c-4a0e-beac-89737353afd8"
+				},
+				{
+					"verse": "¿Quién es ésta que se asoma\ncomo el sol en la mañana?\nEs hermosa como la luna,\nradiante como el sol,\n¡irresistible como un ejército en marcha!",
+					"number": 10,
+					"id": "2f2cfea1-08f7-4723-b129-02215b435590"
+				},
+				{
+					"verse": "Fui al bosque de los nogales\na admirar el verdor en el arroyo;\nquería ver los brotes de los viñedos\ny las flores de los granados.",
+					"number": 11,
+					"id": "7e5e7024-3140-45a5-a61e-54877c703062"
+				},
+				{
+					"verse": "Después ya no supe qué pasó\nhasta que me vi en un carro junto a mi príncipe.",
+					"number": 12,
+					"id": "035d163d-f8ad-4939-b24f-bd59b40e03c7"
+				},
+				{
+					"verse": "¡Regresa, Sulamita, regresa!\n¡Regresa, queremos verte!\n¿Y qué quieren ver de la Sulamita?\n¡Una danza, como en los campamentos!",
+					"number": 13,
+					"id": "48ed0dd8-ab97-41b9-812a-33bcbaf9f344"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "¡Qué hermosos son tus pies\nen las sandalias, princesa!\nLas curvas de tus caderas\nson como adornos de oro fino\nhechos por manos expertas.",
+					"number": 1,
+					"id": "48965ae7-b221-4d34-95fe-e492ba1e17fc"
+				},
+				{
+					"verse": "Tu ombligo es una copa redonda\ndonde no falta el buen vino;\ntu vientre es una pila de trigo\nrodeada de rosas.",
+					"number": 2,
+					"id": "b85d5a25-8fcf-4a88-b5d7-97a559421424"
+				},
+				{
+					"verse": "Tus pechos son dos gacelas,\ndos gacelas mellizas.",
+					"number": 3,
+					"id": "4869cea1-9774-45a2-926c-6ddf00af1657"
+				},
+				{
+					"verse": "Tu cuello es una torre de marfil;\ntus ojos son dos estanques\nde la ciudad de Hesbón,\njunto a la puerta de Bat-rabim;\ntu nariz es como la torre del Líbano\nque mira hacia la ciudad de Damasco.",
+					"number": 4,
+					"id": "98e65746-896e-4f03-b666-304dfa2c9328"
+				},
+				{
+					"verse": "Tu cabeza, sobre tu cuerpo,\nes como el monte Carmelo;\nhilos de púrpura son tus cabellos:\n¡un rey está preso entre sus rizos!",
+					"number": 5,
+					"id": "c6ae4a9e-eeae-407e-b373-1e0df183935e"
+				},
+				{
+					"verse": "Amor mío, mujer encantadora,\n¡qué bella, qué hermosa eres!",
+					"number": 6,
+					"id": "319ff487-0afc-4a61-80ff-13f0dc427e0e"
+				},
+				{
+					"verse": "Tu porte es como el porte de una palmera;\ntus pechos son como racimos.",
+					"number": 7,
+					"id": "dcd96e64-5760-4a0f-9d48-8e816f6ece92"
+				},
+				{
+					"verse": "Yo pienso subir a la palmera\ny adueñarme de sus racimos.\nTus pechos serán entonces\ncomo racimos de uvas;\ntu aliento, perfume de manzanas;",
+					"number": 8,
+					"id": "fae8aa83-2b7a-4aee-99aa-f05dd362b4fa"
+				},
+				{
+					"verse": "tu paladar, como el buen vino\nque resbala suavemente\npor los labios y los dientes.",
+					"number": 9,
+					"id": "ecce5498-244e-4d9b-a048-357cfbd1c60f"
+				},
+				{
+					"verse": "Yo soy de mi amado:\nlos impulsos de su amor lo atraen a mí.",
+					"number": 10,
+					"id": "4062925b-b6f9-4948-aa9d-9421fe44ffe3"
+				},
+				{
+					"verse": "¡Anda, amado mío, vayamos al campo!\nPasaremos la noche entre flores de alheña.",
+					"number": 11,
+					"id": "a2b386c3-f7fe-4a9b-b48a-554b27089bed"
+				},
+				{
+					"verse": "Por la mañana iremos a los viñedos,\na ver si ya tienen brotes,\nsi se abren ya sus botones,\nsi ya han florecido los granados.\n¡Allí te daré mi amor!",
+					"number": 12,
+					"id": "5eefad4b-45e6-413b-84bb-e6555dcd6220"
+				},
+				{
+					"verse": "Las mandrágoras esparcen su aroma.\nA nuestra puerta hay fruta de todas clases:\nfruta seca y fruta recién cortada,\nque para ti, amado mío, aparté.",
+					"number": 13,
+					"id": "2fc5791a-0131-4a53-b3ca-90d5d08f7983"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "¡Ojalá fueras tú un hermano mío,\ncriado a los pechos de mi madre!\nAsí, al encontrarte en la calle,\npodría besarte y nadie se burlaría de mí;",
+					"number": 1,
+					"id": "da7c034a-7177-4557-ab3c-11ed4514fde8"
+				},
+				{
+					"verse": "podría llevarte a la casa de mi madre,\nte haría entrar en ella,\ny tú serías mi maestro.\nYo te daría a beber del mejor vino\ny del jugo de mis granadas.",
+					"number": 2,
+					"id": "216c175e-859d-449a-89cc-9f1f7e317899"
+				},
+				{
+					"verse": "¡Que ponga él su izquierda bajo mi cabeza,\ny que con su derecha me abrace!",
+					"number": 3,
+					"id": "b845df57-46b4-4fba-911f-ff4fc332472c"
+				},
+				{
+					"verse": "Prométanme, mujeres de Jerusalén,\nno interrumpir el sueño de mi amor.\n¡Déjenla dormir hasta que quiera despertar!",
+					"number": 4,
+					"id": "85a6d8bf-f3b3-4ebb-8704-3f7228217f5d"
+				},
+				{
+					"verse": "¿Quién es ésta que viene del desierto,\nrecostada en el hombro de su amado?\nBajo un manzano interrumpí tu sueño:\nallí donde tu madre tuvo dolores;\nallí donde tu madre te dio a luz.",
+					"number": 5,
+					"study": "El poder del amor",
+					"id": "81672156-7539-491e-82f2-f044a2c602c9"
+				},
+				{
+					"verse": "Llévame grabada en tu corazón,\n¡llévame grabada en tu brazo!\nEl amor es inquebrantable como la muerte;\nla pasión, inflexible como el sepulcro.\n¡El fuego ardiente del amor\nes una llama divina!",
+					"number": 6,
+					"id": "21790ce3-1b13-41dc-be7b-d0086d0f246f"
+				},
+				{
+					"verse": "El agua de todos los mares\nno podría apagar el amor;\ntampoco los ríos podrían extinguirlo.\nSi alguien ofreciera todas sus riquezas\na cambio del amor,\nburlas tan sólo recibiría.",
+					"number": 7,
+					"id": "3f556bd4-c9af-4573-9003-30914cbefd02"
+				},
+				{
+					"verse": "Nuestra hermanita no tiene pechos.\n¿Qué vamos a hacer con ella\ncuando vengan a pedirla?",
+					"number": 8,
+					"id": "1d22d109-f4be-4fd6-b4e7-e737448241c0"
+				},
+				{
+					"verse": "Si fuera una muralla,\nconstruiríamos sobre ella almenas de plata;\nsi fuera una puerta,\nla recubriríamos con tablas de cedro.",
+					"number": 9,
+					"id": "cc7115a8-c5f9-4517-a04b-71e0e8824ebd"
+				},
+				{
+					"verse": "Yo soy como una muralla,\ny mis pechos como torres.\nPor eso, a los ojos de él,\nya he encontrado la felicidad.",
+					"number": 10,
+					"id": "01c604dd-5e73-4e37-862f-6a5878ff2c0e"
+				},
+				{
+					"verse": "Salomón tenía un viñedo en Baal-hamón.\nLo dejó al cuidado de unos guardianes,\nque al llegar la cosecha le entregaban\nmil monedas de plata cada uno.",
+					"number": 11,
+					"id": "f890bc9d-c647-40c0-8379-9720351166b1"
+				},
+				{
+					"verse": "Las mil monedas son para ti, Salomón,\ny doscientas para los guardianes;\n¡yo cuido mi propia viña!",
+					"number": 12,
+					"id": "0a2dbb87-32a8-4adc-8e37-07da37076287"
+				},
+				{
+					"verse": "¡Déjame oír tu voz,\noh reina de los jardines!\n¡Nuestros amigos esperan escucharla!",
+					"number": 13,
+					"id": "13c455a2-7713-49f3-a3ff-f8554acd835b"
+				},
+				{
+					"verse": "¡Corre, amado mío,\ncorre como un venado,\ncomo el hijo de una gacela\nsobre los montes llenos de aromas!",
+					"number": 14,
+					"id": "27589d2e-e157-4ebd-8772-bc0ef9e5335c"
+				}
+			]
+		}
+	],
+	"book_id": "e032dd82-f15b-4479-8105-b25ae7647dc3"
+}

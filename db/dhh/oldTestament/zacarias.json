@@ -1,0 +1,1132 @@
+{
+	"name": "Zacarias",
+	"num_chapters": 14,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "En el mes octavo del año segundo del gobierno del rey Darío, el Señor dirigió este mensaje al profeta Zacarías, hijo de Berequías y nieto de Idó. Le dijo:",
+					"number": 1,
+					"study": "Llamamiento a volver a Jehová",
+					"id": "3b448af8-2d99-4966-a100-87d9167fc959"
+				},
+				{
+					"verse": "«Yo, el Señor todopoderoso, me enojé mucho con los antepasados de ustedes. Por eso, dile ahora de mi parte al pueblo: \"Vuélvanse a mí, y yo me volveré a ustedes. Yo, el Señor, lo afirmo.",
+					"number": 2,
+					"id": "1ed1e9d5-f574-445e-a7d1-1d60e2d82749"
+				},
+				{
+					"verse": "No hagan como sus antepasados, a quienes los antiguos profetas les dijeron de parte mía que abandonaran su mala conducta y sus malas acciones, pero ellos no quisieron escucharme ni hacerme caso. Yo, el Señor, lo afirmo.",
+					"number": 3,
+					"id": "9a8f40d5-842f-4a43-922a-52365628da96"
+				},
+				{
+					"verse": "Pero ahora, ¿dónde están aquellos antepasados de ustedes? ¿Acaso vivirán siempre los profetas?",
+					"number": 4,
+					"id": "3883d225-3a0c-4586-9ea8-147d8ddf704f"
+				},
+				{
+					"verse": "Sin embargo, mis palabras y mandatos, que yo había encomendado a mis siervos los profetas, llegaron a los antepasados de ustedes. Y ellos se volvieron a mí, reconociendo que yo, el Señor todopoderoso, los había tratado como su conducta y sus acciones merecían.\"»",
+					"number": 5,
+					"id": "2b3dfe55-4a55-4744-bd8a-816f35e80808"
+				},
+				{
+					"verse": "Éste es el mensaje que yo, el profeta Zacarías, hijo de Berequías y nieto de Idó, recibí del Señor el día veinticuatro del mes once (el llamado mes de Sebat) del año segundo del gobierno del rey Darío.",
+					"number": 6,
+					"id": "b3321069-d210-4a66-ab7f-aa9b40a6c68e"
+				},
+				{
+					"verse": "Una noche tuve esta visión: Vi un jinete montado en un caballo rojo. Estaba parado en un valle, entre unos arrayanes, y detrás de él había un grupo de caballos, unos rojos, otros castaños y otros blancos.",
+					"number": 7,
+					"study": "La visión de los caballos",
+					"id": "3c1edf00-d0b6-441c-8bb5-2a04e8c260b7"
+				},
+				{
+					"verse": "Yo pregunté: «Señor, ¿quiénes son esos jinetes?» Y el ángel que hablaba conmigo me contestó: «Yo te mostraré quiénes son.»",
+					"number": 8,
+					"id": "72b0f3fa-d12b-4c16-8905-9b575a00fc3a"
+				},
+				{
+					"verse": "Entonces el que estaba entre los arrayanes dijo: «Éstos son los que el Señor ha enviado a recorrer toda la tierra.»",
+					"number": 9,
+					"id": "3ff13f22-9542-4bd1-8e2a-2e5ff2471c31"
+				},
+				{
+					"verse": "Los jinetes le dijeron entonces al ángel del Señor que estaba entre los arrayanes: «Hemos recorrido toda la tierra, y la hemos encontrado tranquila y en paz.»",
+					"number": 10,
+					"id": "84530a33-7618-4bc5-8ae2-d9c3a6276b0b"
+				},
+				{
+					"verse": "El ángel del Señor dijo: «Señor todopoderoso, hace ya setenta años que estás enojado con Jerusalén y con las ciudades de Judá. ¿Cuánto tiempo habrá de pasar aún antes de que vuelvas a tenerles compasión?»",
+					"number": 11,
+					"id": "8bd940e6-bde5-4e83-bfc0-a47ad1340fd3"
+				},
+				{
+					"verse": "El Señor respondió con bondadosas palabras de consuelo al ángel que hablaba conmigo,",
+					"number": 12,
+					"id": "b83ec49e-d52d-49b0-a153-01ee5325cba4"
+				},
+				{
+					"verse": "y luego el ángel me ordenó que anunciara: «Esto dice el Señor todopoderoso: \"Yo amo profundamente a Jerusalén y al monte Sión.",
+					"number": 13,
+					"id": "556a6643-6761-4248-b03f-43b4e36f468d"
+				},
+				{
+					"verse": "Por eso mi furor se ha encendido contra esas naciones despreocupadas que, cuando yo estaba poco enojado, ayudaron a agravar la maldad.",
+					"number": 14,
+					"id": "5ec3b1e6-84c1-4311-800b-15ee85b7d604"
+				},
+				{
+					"verse": "Por lo tanto, yo, el Señor, digo: Ahora me he vuelto con compasión a Jerusalén, y voy a hacer que el templo y toda la ciudad sean reconstruidos.\"»",
+					"number": 15,
+					"id": "81158f4c-89d8-4023-906d-654514c29179"
+				},
+				{
+					"verse": "El ángel me dijo además: «Anuncia también esto: \"El Señor todopoderoso dice: Voy a hacer que mis ciudades prosperen mucho otra vez; voy a dar nuevo aliento a Sión, y voy a proclamar de nuevo a Jerusalén como mi ciudad elegida.\"»",
+					"number": 16,
+					"id": "a7237cbe-f342-409e-9e49-2c3cb9270e5e"
+				},
+				{
+					"verse": "Tuve otra visión, en la cual vi aparecer cuatro cuernos.",
+					"number": 17,
+					"id": "efeffc9f-6a0e-479d-a1d4-54948f61bafb"
+				},
+				{
+					"verse": "Le pregunté al ángel que estaba hablando conmigo qué significaban aquellos cuernos, y él me contestó: «Estos cuernos representan el poder de los que han dispersado por todas partes a los habitantes de Judá, Israel y Jerusalén.»",
+					"number": 18,
+					"study": "Visión de los cuernos y los carpinteros",
+					"id": "684f391e-4ba5-420c-8794-205fb4e1372a"
+				},
+				{
+					"verse": "Después el Señor me hizo ver a cuatro herreros.",
+					"number": 19,
+					"id": "b6eea937-867b-44c0-b134-741558da2457"
+				},
+				{
+					"verse": "Yo pregunté: «¿A qué han venido estos herreros?» Y él me contestó: «Así como esos cuernos representan a los que dispersaron a Judá, de tal modo que nadie podía levantar cabeza, estos herreros han venido a hacer temblar de espanto y a cortarles los cuernos a las naciones que, dando cornadas a Judá, dispersaron a sus habitantes.»",
+					"number": 20,
+					"id": "f4fb2a8e-937e-436f-9898-f9beec3fc9da"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Aún tuve otra visión. Se me apareció un hombre que llevaba en la mano una cinta de medir.",
+					"number": 1,
+					"study": "Llamamiento a los cautivos",
+					"id": "8e8a5d7c-c6ca-444c-965c-420f5e87bab8"
+				},
+				{
+					"verse": "Le pregunté: «¿A dónde vas?» Y él me contestó: «Voy a medir la ciudad de Jerusalén, para saber su largo y su ancho.»",
+					"number": 2,
+					"id": "a695acc1-59cb-4b75-ac8f-e8229e265620"
+				},
+				{
+					"verse": "Entonces vi que se iba el ángel que había hablado conmigo, y que otro ángel le salía al encuentro",
+					"number": 3,
+					"id": "5594323c-c0a0-4faa-ad6a-adff506b8fc5"
+				},
+				{
+					"verse": "y le decía: «Corre a decirle al joven que lleva la cinta de medir: \"Jerusalén va a ser de nuevo habitada, y serán tantos sus habitantes y ganados que no podrá tener murallas.",
+					"number": 4,
+					"id": "25667183-7a8a-4dd0-a0b7-31d92a1cd683"
+				},
+				{
+					"verse": "Pero el Señor afirma: Yo seré como una muralla de fuego alrededor de Jerusalén, y en medio de la ciudad mostraré mi gloria.\"»",
+					"number": 5,
+					"id": "e57f5942-1d81-41ed-98f7-6dc99801d167"
+				},
+				{
+					"verse": "El Señor afirma: «Yo hice que ustedes fueran dispersados en todas direcciones. Pero ahora les digo: ¡Huyan pronto del país del norte! ¡Escapen de Babilonia, donde viven desterrados ustedes, los que vivían en Sión! Yo, el Señor, lo afirmo.»",
+					"number": 6,
+					"id": "dd3b0851-b8e8-4c8b-98ae-9a8f995b1514"
+				},
+				{
+					"verse": "El Señor todopoderoso me ha enviado con este mensaje contra las naciones que los saquearon a ustedes: «Cualquiera que toca a mi pueblo, toca a la niña de mis ojos. Por eso, yo mismo lucharé contra esas naciones, y haré que sus propios esclavos las saqueen.» Así mostrará su gloria el Señor todopoderoso, y así comprenderán ustedes que él fue quien me envió.",
+					"number": 7,
+					"id": "bc90e874-5501-41b3-901b-14dbbf9addf2"
+				},
+				{
+					"verse": "El Señor afirma: «¡Canten de alegría, habitantes de Jerusalén, porque yo vengo a vivir entre ustedes!»",
+					"number": 8,
+					"id": "cc9e50b8-d0e7-4771-83d8-6d34e1b1496a"
+				},
+				{
+					"verse": "Cuando esto suceda, muchas naciones se unirán al Señor. Y él dirá: «También estas naciones serán pueblo mío. Y yo viviré entonces entre ustedes.» Así comprenderán ustedes que el Señor todopoderoso me ha enviado.",
+					"number": 9,
+					"id": "7c1d800b-cbfa-4c67-81a3-1e9899599493"
+				},
+				{
+					"verse": "El Señor tomará nuevamente a Judá como su posesión especial en la tierra santa, y proclamará de nuevo a Jerusalén como su ciudad elegida.",
+					"number": 10,
+					"id": "6d90486a-5300-4a30-bc7f-f322102eccee"
+				},
+				{
+					"verse": "¡Que todo el mundo guarde silencio ante el Señor, pues él viene a nosotros desde el santo lugar donde habita!",
+					"number": 11,
+					"id": "9ae6803d-d982-423a-ae85-1ec2b181a229"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Luego el Señor me mostró en una visión a Josué, el sumo sacerdote, que estaba de pie en presencia del ángel del Señor. Al lado derecho de Josué estaba el ángel acusador, que se disponía a acusarlo.",
+					"number": 1,
+					"study": "Visión del sumo sacerdote Josué",
+					"id": "3d2cbbe1-86f9-4d16-83be-d769da7af1fb"
+				},
+				{
+					"verse": "Entonces el ángel del Señor le dijo al ángel acusador: «¡Que el Señor te reprenda! ¡Que el Señor, que ama a Jerusalén, te reprenda! Pues este hombre es como un carbón encendido sacado de entre las brasas.»",
+					"number": 2,
+					"id": "1c4c9720-4519-418e-80ab-d327b8e34d75"
+				},
+				{
+					"verse": "Josué, vestido con ropas muy sucias, permanecía de pie en presencia del ángel del Señor.",
+					"number": 3,
+					"id": "99821bd7-f759-4691-b884-483f1fbe1918"
+				},
+				{
+					"verse": "Entonces el ángel ordenó a sus ayudantes que le quitaran a Josué aquellas ropas sucias. Luego le dijo: «Mira, esto significa que te he quitado tus pecados. ¡Ahora voy a hacer que te vistan de fiesta!»",
+					"number": 4,
+					"id": "8904d74b-2bdc-4d5e-a55b-6900d78e4120"
+				},
+				{
+					"verse": "En seguida ordenó a sus ayudantes que pusieran a Josué un turbante limpio en la cabeza. Ellos se lo pusieron, y después le vistieron con ropas de fiesta. Mientras tanto, el ángel permanecía de pie.",
+					"number": 5,
+					"id": "d5f7bab3-b72d-44e9-8ffc-0d63720b6701"
+				},
+				{
+					"verse": "Luego el ángel del Señor le dijo a Josué:",
+					"number": 6,
+					"id": "efd9b174-1db8-46b1-8ce7-26c4f6e6a3cf"
+				},
+				{
+					"verse": "«Esto dice el Señor todopoderoso: \"Anda por mis caminos y cumple todos los deberes que te he encomendado. Si lo haces así, quedarás encargado de mi templo. Cuidarás de él y de sus atrios, y yo te daré un puesto entre estos ángeles que están a mi servicio.",
+					"number": 7,
+					"id": "43a054f1-2b88-44f7-a7e9-30bd0b1620a6"
+				},
+				{
+					"verse": "Escucha bien, Josué, tú que eres el sumo sacerdote, y que escuchen también tus compañeros de la junta sacerdotal, pues todos ustedes son como una señal profética: Voy a traer a mi siervo, el Retoño.",
+					"number": 8,
+					"id": "404d8628-bc2c-4d9c-9a82-69b79234c95e"
+				},
+				{
+					"verse": "Yo he puesto delante de Josué una piedra de siete lados, y yo mismo grabaré en ella una inscripción. Luego, en un solo día, quitaré el pecado de este país.",
+					"number": 9,
+					"id": "f69b2c77-7f83-4062-a66a-1eb18c967374"
+				},
+				{
+					"verse": "Cuando llegue ese día, podrán ustedes convidarse unos a otros a disfrutar de paz a la sombra de sus vides y sus higueras. Yo, el Señor todopoderoso, lo afirmo.\"»",
+					"number": 10,
+					"id": "00f4cbdd-55ca-4ea4-bc1d-1ef5b2b0d996"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Volvió entonces el ángel que hablaba conmigo, y me despertó como se despierta a uno que está dormido. Me preguntó:",
+					"number": 1,
+					"study": "El candelero de oro y los olivos",
+					"id": "faabb984-2f9e-4c13-8747-178e74404b1d"
+				},
+				{
+					"verse": "«¿Qué ves?» Y yo le contesté: «Veo un candelabro de oro, con un depósito de aceite encima. En lo alto tiene siete lámparas, a las que llega el aceite por siete tubos.",
+					"number": 2,
+					"id": "64acea43-f707-47d1-8c3e-b31f9b31aa67"
+				},
+				{
+					"verse": "Junto al candelabro hay dos olivos, uno a su derecha y otro a su izquierda.»",
+					"number": 3,
+					"id": "e2c7671d-38fa-4d40-bdd8-aa5265c6b81e"
+				},
+				{
+					"verse": "Pregunté al ángel que hablaba conmigo: «Mi señor, ¿qué significa esto?»",
+					"number": 4,
+					"id": "8c59c280-3b0a-41d2-b3be-4e03a7247bbb"
+				},
+				{
+					"verse": "El ángel me contestó: «¿No sabes lo que significa?» Yo le dije: «No, señor.»",
+					"number": 5,
+					"id": "ba191f94-bc51-456c-8c49-54626027cd9e"
+				},
+				{
+					"verse": "Y él continuó: «Éste es el mensaje del Señor para Zorobabel: \"No depende del ejército, ni de la fuerza, sino de mi Espíritu, dice el Señor todopoderoso.",
+					"number": 6,
+					"id": "d0b34579-01a0-489d-9d64-a2904e21e186"
+				},
+				{
+					"verse": "¿Quién eres tú, gran montaña? ¡Quedarás convertida en llanura delante de Zorobabel! Él sacará la piedra principal, mientras grita la gente: ¡Qué hermosa es! ¡Qué hermosa!\"»",
+					"number": 7,
+					"id": "ea5a4b91-7141-4e3f-8b15-424a8eab5e48"
+				},
+				{
+					"verse": "Después me dio el Señor otro mensaje:",
+					"number": 8,
+					"id": "31773f1f-5070-4ff9-933d-cdb89cd4b92e"
+				},
+				{
+					"verse": "«Zorobabel ha puesto los cimientos de este templo, y él mismo será quien lo termine.» Así reconocerán ustedes que fue el Señor todopoderoso quien me envió.",
+					"number": 9,
+					"id": "8638b9c8-a704-4e2e-b968-400fb6bea5cf"
+				},
+				{
+					"verse": "«Aquellos que no tomaron en serio los pequeños comienzos, ahora se alegrarán viendo a Zorobabel terminar las obras.»\nDespués de esto, el ángel añadió: «Estas siete lámparas son los ojos del Señor, que están recorriendo toda la tierra.»",
+					"number": 10,
+					"id": "3ee486ba-3b83-447d-85c7-f7b7d470d2ed"
+				},
+				{
+					"verse": "Yo le pregunté: «¿Qué son esos dos olivos, uno a cada lado del candelabro?»",
+					"number": 11,
+					"id": "79281b7e-290b-4e5d-a1c2-eff6367765b4"
+				},
+				{
+					"verse": "También le pregunté: «¿Y qué significan esas dos ramas de olivo que están junto a los tubos de oro por donde llega el aceite a las lámparas?»",
+					"number": 12,
+					"id": "bf9617f7-199a-4854-9bbf-c15ae85697dc"
+				},
+				{
+					"verse": "El ángel me respondió: «¿No sabes lo que significan?» Le dije: «No, señor.»",
+					"number": 13,
+					"id": "febc46c7-055e-46c7-82fe-c58164ad4f43"
+				},
+				{
+					"verse": "Y él me contestó: «Éstos son los dos que han sido consagrados para el servicio del Señor de toda la tierra.»",
+					"number": 14,
+					"id": "f7e68aac-62c9-46d9-b251-df305cab6905"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Tuve otra visión. Vi un rollo escrito, que volaba.",
+					"number": 1,
+					"study": "El rollo volante",
+					"id": "bc230d8a-50ed-42e3-900f-90bdf2b8bc9b"
+				},
+				{
+					"verse": "El ángel me preguntó: «¿Qué ves?» Le contesté: «Veo un rollo escrito, que vuela; mide nueve metros de largo por cuatro metros y medio de ancho.»",
+					"number": 2,
+					"id": "8ca7c208-092b-4caa-af65-433123a01b3a"
+				},
+				{
+					"verse": "Me dijo entonces: «Ahí está escrita la maldición que alcanza a todo el país. Según lo escrito por ambos lados, nadie que robe o que jure en falso puede quedar sin castigo.",
+					"number": 3,
+					"id": "c1cac161-4324-4ec2-9db3-4da08a8703bb"
+				},
+				{
+					"verse": "El Señor todopoderoso afirma: \"Yo envío esta maldición para que entre en casa del que roba y en casa del que jura en falso por mi nombre. Y la maldición permanecerá allí hasta que no queden ni vigas ni piedras.\"»",
+					"number": 4,
+					"id": "8aae9124-355b-4b41-b5d4-8e3e518bff13"
+				},
+				{
+					"verse": "Luego salió el ángel que hablaba conmigo, y me dijo: «¡Fíjate en eso que aparece ahora!»",
+					"number": 5,
+					"study": "La mujer en el efa",
+					"id": "66a76f80-82b9-4049-9efc-9fd77a801c5b"
+				},
+				{
+					"verse": "Le pregunté: «¿Qué es eso?» Él me contestó: «Es una medida. Es la medida del pecado de los que viven en el país.»",
+					"number": 6,
+					"id": "dfb88737-954b-4a84-ba6e-4015d6345e09"
+				},
+				{
+					"verse": "La medida estaba cubierta con una tapa de plomo. Y fue levantada la tapa, y había una mujer sentada dentro de la medida.",
+					"number": 7,
+					"id": "1cda192a-f348-4e7d-8dcf-58d52fc68db7"
+				},
+				{
+					"verse": "Me dijo el ángel: «Esa mujer es la maldad.» Y la empujó adentro de la medida, y la cerró con la tapa de plomo.",
+					"number": 8,
+					"id": "fd24817f-f279-4c85-85bc-f5394f6c4c70"
+				},
+				{
+					"verse": "Miré otra vez, y vi aparecer dos mujeres. Tenían alas, y el viento las impulsaba. Eran alas como de cigüeña, y llevaban la medida por los aires.",
+					"number": 9,
+					"id": "1e44af84-cf6a-4f4d-af0d-fa0174eb1d84"
+				},
+				{
+					"verse": "Pregunté entonces al ángel que hablaba conmigo: «¿A dónde llevan esa medida?»",
+					"number": 10,
+					"id": "1a6cc231-c4e9-4910-8542-98b8a9276bd5"
+				},
+				{
+					"verse": "Y él me contestó: «Van a construirle un templo en Babilonia. Cuando ya esté terminado el templo, la instalarán allí, sobre un pedestal.»",
+					"number": 11,
+					"id": "91d725c1-26b5-4976-bad0-de952b46192e"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Tuve otra visión. Vi aparecer cuatro carros de guerra por entre dos montañas de bronce.",
+					"number": 1,
+					"study": "Los cuatro carros",
+					"id": "643410ed-e9b9-4593-88d3-efc190cadb7e"
+				},
+				{
+					"verse": "El primer carro iba tirado por caballos rojos; el segundo, por caballos negros;",
+					"number": 2,
+					"id": "0b07a3be-10db-4355-9251-c1b5a42a1d69"
+				},
+				{
+					"verse": "el tercero, por caballos blancos; y el cuarto, por caballos tordillos.",
+					"number": 3,
+					"id": "51af294f-d7d6-44e2-ac33-a6e278393e30"
+				},
+				{
+					"verse": "Pregunté al ángel que hablaba conmigo: «Mi señor, ¿qué significa esto?»",
+					"number": 4,
+					"id": "33aeceb9-9a01-42a8-a09d-e1f1c348c744"
+				},
+				{
+					"verse": "El ángel me contestó: «Éstos son los cuatro vientos, que salen de delante del Señor de toda la tierra.",
+					"number": 5,
+					"id": "ec5dbdbd-aa45-49db-8ba5-c7df2b7d86c5"
+				},
+				{
+					"verse": "El carro tirado por caballos negros va al país del norte; el tirado por caballos blancos, al país del poniente; y el tirado por caballos tordillos, al país del sur.»",
+					"number": 6,
+					"id": "9a1bbff4-2142-4701-82c0-4da106bb28f7"
+				},
+				{
+					"verse": "Y salieron los caballos tordillos, ansiosos de recorrer toda la tierra. El ángel les dijo: «Recorran toda la tierra.» Y ellos lo hicieron así.",
+					"number": 7,
+					"id": "bcbdaae0-4641-4719-a669-d52121f6d85b"
+				},
+				{
+					"verse": "Después de esto, el ángel me gritó: «¡Mira, los que fueron al país del norte van a calmar el enojo del Señor en ese país!»",
+					"number": 8,
+					"id": "50744efa-688f-4e26-bedd-8cc406931abd"
+				},
+				{
+					"verse": "El Señor me dio este mensaje:",
+					"number": 9,
+					"study": "Coronación simbólica de Josué",
+					"id": "9b6aaa3d-0294-4e0e-a945-74036b348984"
+				},
+				{
+					"verse": "«Recoge una colecta entre los desterrados que ya han regresado de Babilonia: Heldai, Tobías y Jedaías. Luego, en el mismo día, vete a casa de Josías, hijo de Sofonías.",
+					"number": 10,
+					"id": "bc74d75d-1a4e-4211-a84b-4337e6946c2d"
+				},
+				{
+					"verse": "Con la plata y el oro que hayas recogido, haz coronas, y ponle una en la cabeza al sumo sacerdote Josué, hijo de Josadac.",
+					"number": 11,
+					"id": "e1e93630-d9be-4d8b-a29c-ae86b356f0e9"
+				},
+				{
+					"verse": "Y dile: \"El Señor todopoderoso afirma que el varón llamado Retoño brotará de sus propias raíces y reconstruirá el templo del Señor.",
+					"number": 12,
+					"id": "37acacc0-7c2f-43c0-8155-2dcc8537ad22"
+				},
+				{
+					"verse": "Reconstruirá el templo del Señor y recibirá los honores propios de un rey. Se sentará en su trono a gobernar, y al lado de su trono se sentará el sacerdote, y habrá paz entre los dos.",
+					"number": 13,
+					"id": "0fb527e6-e054-419e-9013-c9cb09bae432"
+				},
+				{
+					"verse": "Y las coronas serán un recuerdo que quedará en el templo del Señor en honor de Heldai, Tobías, Jedaías y Josías, hijo de Sofonías.\"»",
+					"number": 14,
+					"id": "6d7bcbdc-5d8c-4166-ab8b-88028da4af79"
+				},
+				{
+					"verse": "Vendrá gente de lejos, para ayudar a reconstruir el templo del Señor; y entonces reconocerán ustedes que el Señor todopoderoso fue quien me envió. Esto sucederá cuando ustedes escuchen la voz del Señor su Dios y le obedezcan.",
+					"number": 15,
+					"id": "caaaa54c-2ed1-434a-9ecc-95a0c24a4877"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "El día cuatro del mes noveno (llamado Quisleu), del cuarto año del gobierno del rey Darío, el Señor dirigió un mensaje al profeta Zacarías.",
+					"number": 1,
+					"study": "El ayuno que Dios reprueba",
+					"id": "67b8d460-54ef-431d-aa22-dc23137acfea"
+				},
+				{
+					"verse": "En aquel tiempo, el pueblo de Betel había enviado a Sarézer y a Réguem-mélec, con sus hombres, a pedir la ayuda del Señor",
+					"number": 2,
+					"id": "f243d0ae-3dd8-40b4-addc-0945edabfcf2"
+				},
+				{
+					"verse": "y a preguntar a los profetas y a los sacerdotes del templo del Señor todopoderoso: «¿Habremos de seguir guardando luto y ayuno el quinto mes de cada año, tal como lo hemos hecho hasta ahora?»",
+					"number": 3,
+					"id": "a45f80e9-8fd7-4a95-bdb6-49ff656ffdc6"
+				},
+				{
+					"verse": "Entonces el Señor todopoderoso se dirigió a mí, y me dijo:",
+					"number": 4,
+					"id": "8c181a7b-914e-47d7-8601-4027e3e0241c"
+				},
+				{
+					"verse": "«Di a todo el pueblo del país, y a los sacerdotes: \"Ustedes hacen ayuno y guardan luto el quinto y el séptimo mes desde hace setenta años. Pero no lo hacen para honrarme a mí,",
+					"number": 5,
+					"id": "74fbd4fe-4222-4805-973e-91057e906e19"
+				},
+				{
+					"verse": "sino que cuando ustedes comen y beben, lo hacen para su propio provecho.\"»",
+					"number": 6,
+					"id": "87150a0b-c46c-4f2d-97c8-4c17a73bc9e1"
+				},
+				{
+					"verse": "¿Acaso no son éstas las mismas palabras que el Señor pronunció por medio de los antiguos profetas, cuando Jerusalén estaba en paz y llena de gente, y lo estaban también las ciudades de alrededor, y las regiones del Négueb y la llanura?",
+					"number": 7,
+					"id": "12b9e737-96ad-4669-b7cc-9ff3cb32fb17"
+				},
+				{
+					"verse": "El Señor se dirigió al profeta Zacarías, y le dijo:",
+					"number": 8,
+					"study": "La desobediencia, causa del cautiverio",
+					"id": "1ed0e226-4fab-4a49-8af5-1d694b2366dc"
+				},
+				{
+					"verse": "«Esto es lo que yo ordeno: Sean ustedes rectos en sus juicios, y bondadosos y compasivos unos con otros.",
+					"number": 9,
+					"id": "d994a268-2568-4c44-99f5-e4655e176a50"
+				},
+				{
+					"verse": "No opriman a las viudas, ni a los huérfanos, ni a los extranjeros, ni a los pobres. No piensen en cómo hacerse daño unos a otros.»",
+					"number": 10,
+					"id": "1b9e2da1-c4f3-4e33-ab76-d32548e28456"
+				},
+				{
+					"verse": "Pero el pueblo se negó a obedecer. Todos volvieron la espalda y se hicieron los sordos.",
+					"number": 11,
+					"id": "4b04baf7-a252-410b-ba4c-ece5711b6ac4"
+				},
+				{
+					"verse": "Endurecieron su corazón como el diamante, para no escuchar la enseñanza y los mandatos que el Señor todopoderoso comunicó por su espíritu, por medio de los antiguos profetas.\nPor eso el Señor se enojó mucho,",
+					"number": 12,
+					"id": "cb791be2-c4fe-44d4-83d3-632806784612"
+				},
+				{
+					"verse": "y dijo: «Así como ellos no quisieron escucharme cuando yo los llamaba, tampoco yo los escucharé cuando ellos me invoquen.",
+					"number": 13,
+					"id": "afd4f53a-f760-43ed-9463-c87f008f1a8b"
+				},
+				{
+					"verse": "Por eso los dispersé como por un torbellino entre todas esas naciones que ellos no conocían, y tras ellos quedó el país convertido en un desierto donde nadie podía vivir. ¡Un país tan hermoso, y ellos lo convirtieron en desolación!»",
+					"number": 14,
+					"id": "1a08fcd2-e15b-4895-8e43-c73406d0bf7f"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "El Señor todopoderoso me dio este mensaje:",
+					"number": 1,
+					"study": "Promesa de la restauración de Jerusalén",
+					"id": "388bc54e-3caf-43b0-9bd4-c3d7a443e36d"
+				},
+				{
+					"verse": "«Esto es lo que yo, el Señor todopoderoso, digo: Siento por Sión grandes celos, celos furiosos.",
+					"number": 2,
+					"id": "7c5f97d0-edbc-42d6-b7ca-a7c8a3b15000"
+				},
+				{
+					"verse": "Y he de volver a Jerusalén, para vivir allí. Entonces Jerusalén será llamada Ciudad Fiel, y el monte del Señor todopoderoso será llamado Monte Santo.",
+					"number": 3,
+					"id": "9f3ab977-7034-4fb2-b4ef-ce5f38308c6b"
+				},
+				{
+					"verse": "Ancianos y ancianas se sentarán de nuevo en las plazas de Jerusalén, apoyado cada cual en su bastón a causa de su mucha edad.",
+					"number": 4,
+					"id": "46326f46-b360-4a5b-be76-fd987e45fee4"
+				},
+				{
+					"verse": "Niños y niñas llenarán las plazas de la ciudad y jugarán en ellas.",
+					"number": 5,
+					"id": "a8d07a28-38cb-4bbd-b8d4-9b5f05b26a28"
+				},
+				{
+					"verse": "En aquel tiempo todo esto parecerá imposible a los ojos de los que queden de mi pueblo; pero a mí no me lo parecerá. Yo, el Señor todopoderoso, lo afirmo:",
+					"number": 6,
+					"id": "0fddb335-d9fd-4250-80ed-6f88bf34d670"
+				},
+				{
+					"verse": "Yo libertaré a mi pueblo del poder del país de oriente y del país de occidente,",
+					"number": 7,
+					"id": "0c32432d-e549-4655-b615-8afb3ceed5e4"
+				},
+				{
+					"verse": "y lo traeré a Jerusalén para que viva allí. Ellos serán entonces mi pueblo, y yo seré su Dios, con fidelidad y justicia.»",
+					"number": 8,
+					"id": "af3aa9e4-dd6c-479a-8731-b4ce07434149"
+				},
+				{
+					"verse": "Esto dice el Señor todopoderoso: «Esfuércense, ustedes que en estos días han oído las palabras dichas por los profetas, desde el día en que se pusieron los cimientos para la reconstrucción del templo del Señor todopoderoso.",
+					"number": 9,
+					"id": "2b04f99b-f432-44f1-a0e1-1cdc6913bc54"
+				},
+				{
+					"verse": "Porque hasta estos días no había paga para los hombres ni para las bestias. Y a causa del enemigo, tampoco había paz para los habitantes; y yo había puesto a los unos en contra de los otros.",
+					"number": 10,
+					"id": "87ce4a5d-d2b2-4f9e-99bb-6be77c3e6151"
+				},
+				{
+					"verse": "Pero ahora, para los que queden de este pueblo, ya no voy a ser como en los primeros días. Yo, el Señor todopoderoso, lo afirmo.",
+					"number": 11,
+					"id": "879049b5-4e24-46e6-86c2-253547fdf758"
+				},
+				{
+					"verse": "Porque la paz estará sembrada entre ellos. Los viñedos darán su fruto; la tierra, sus productos; y el cielo, su rocío. Y yo les daré todo eso en posesión a los que queden de este pueblo.",
+					"number": 12,
+					"id": "c6e18eff-5a29-45e1-8922-d0c5291d85db"
+				},
+				{
+					"verse": "Y así como ustedes, los de Judá y los de Israel, fueron maldición entre las demás naciones, así yo ahora los salvaré y haré que sean bendición. ¡No tengan miedo! ¡Esfuércense!»",
+					"number": 13,
+					"id": "c8c3bad5-5bce-449b-999d-dd0db6f9b6d3"
+				},
+				{
+					"verse": "Esto dice el Señor todopoderoso: «Yo había decidido castigar a los antepasados de ustedes cuando me hicieron enojar, y mantuve mi decisión.",
+					"number": 14,
+					"id": "f5fe004f-c3c2-42e8-a5b3-e8c94836b85e"
+				},
+				{
+					"verse": "Ahora, en cambio, he decidido hacerles bien a Jerusalén y a Judá. Por lo tanto, no tengan miedo.",
+					"number": 15,
+					"id": "fd859692-df5d-4bee-9a8f-4dc07709a6e7"
+				},
+				{
+					"verse": "Esto es lo que siempre deben hacer ustedes: Díganse siempre la verdad unos a otros, juzguen con justicia y procuren la paz en los tribunales;",
+					"number": 16,
+					"id": "c1f6a88a-3134-4b9d-98a5-ac95e9a30aa2"
+				},
+				{
+					"verse": "no se hagan daño unos a otros ni juren en falso. Porque yo odio todo eso. Yo, el Señor, lo afirmo.»",
+					"number": 17,
+					"id": "ebe6370d-4bfc-4100-8b31-5365d3d25811"
+				},
+				{
+					"verse": "El Señor todopoderoso se dirigió a mí, y me dijo:",
+					"number": 18,
+					"id": "9a9dd49e-7fb6-49b1-a8ac-75aea872a714"
+				},
+				{
+					"verse": "«Los ayunos de los meses cuarto, quinto, séptimo y décimo se convertirán en motivo de alegría, en fiestas felices para los descendientes de Judá. ¡Amen ustedes, pues, la verdad y la paz!»",
+					"number": 19,
+					"id": "3210251b-e355-4480-9fb5-2c047c0186e3"
+				},
+				{
+					"verse": "Esto dice el Señor todopoderoso: «Todavía han de venir gentes y habitantes de muchas ciudades.",
+					"number": 20,
+					"id": "f41161e9-5d73-4242-b198-8cc95f6b948c"
+				},
+				{
+					"verse": "Entonces los de una ciudad se dirigirán a los de otra, y les dirán: \"¡Vamos a buscar al Señor todopoderoso y a pedirle que nos bendiga!\" Y los otros les contestarán: \"¡Nosotros también iremos!\"",
+					"number": 21,
+					"id": "fa167953-e614-451f-ab1f-84a0e5fba8d4"
+				},
+				{
+					"verse": "Y vendrán a Jerusalén muchos pueblos y naciones numerosas, a buscar al Señor todopoderoso y a pedirle que los bendiga.",
+					"number": 22,
+					"id": "458a974b-725f-43c3-adc7-3ed0c887f06b"
+				},
+				{
+					"verse": "En aquel tiempo, diez extranjeros de las demás naciones agarrarán por la ropa a un judío, y le dirán: \"¡Queremos ir con ustedes, porque hemos oído que Dios está con ustedes!\"»",
+					"number": 23,
+					"id": "54c9b778-e4ab-4821-b3bc-cec6ff09b256"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Éste es el mensaje que el Señor comunicó contra el país de Hadrac y la ciudad de Damasco: «Las ciudades de Siria pertenecen al Señor, lo mismo que todas las tribus de Israel.",
+					"number": 1,
+					"study": "Castigo de las naciones vecinas",
+					"id": "8d04841e-0f56-49cd-ba35-3887596065ef"
+				},
+				{
+					"verse": "También le pertenecen Hamat, vecina de aquellas ciudades, y Tiro y Sidón con toda su cultura.",
+					"number": 2,
+					"id": "8df028fd-33c5-4867-9af6-fa17df27cd5f"
+				},
+				{
+					"verse": "Tiro construyó fortificaciones, y amontonó oro y plata como quien amontona barro.",
+					"number": 3,
+					"id": "81a5ac51-7421-41ac-8141-87ba0948c158"
+				},
+				{
+					"verse": "Pero el Señor se lo quitará todo, y echará al mar su riqueza, y quemará por completo la ciudad.",
+					"number": 4,
+					"id": "48826963-ab88-42a3-b189-0bebc65ac52c"
+				},
+				{
+					"verse": "»Cuando la ciudad de Ascalón vea esto, se llenará de espanto. Gaza también sufrirá mucho, y las esperanzas de Ecrón quedarán por los suelos. ¡Gaza quedará sin rey, y Ascalón quedará sin habitantes!",
+					"number": 5,
+					"id": "abf964c6-960f-46fe-b3bc-bcab906ab931"
+				},
+				{
+					"verse": "En Asdod vivirá una raza mezclada, y así humillaré el orgullo de los filisteos.",
+					"number": 6,
+					"id": "c39b19d7-e934-43cd-a468-192b6778f704"
+				},
+				{
+					"verse": "Les quitaré de la boca la carne con sangre que comen, y de entre los dientes, los alimentos prohibidos. Pero de esa gente habrá algunos que quedarán para mí; llegarán a ser parte de Judá, y Ecrón será como los jebuseos.",
+					"number": 7,
+					"id": "ad2d0ca7-75f4-4014-b12f-0557d2dd230a"
+				},
+				{
+					"verse": "Y yo estaré atento para defender a los míos frente a cualquiera que pase por aquí. El opresor no volverá a oprimirlos, porque ahora yo vigilo con mis propios ojos.»",
+					"number": 8,
+					"id": "c46a0935-136a-454d-9d8d-18785dc4c470"
+				},
+				{
+					"verse": "¡Alégrate mucho, ciudad de Sión!\n¡Canta de alegría, ciudad de Jerusalén!\nTu rey viene a ti, justo y victorioso,\npero humilde, montado en un burro,\nen un burrito, cría de una burra.",
+					"number": 9,
+					"study": "El futuro rey de Sion",
+					"id": "a9551c76-6994-4fb0-97b3-628c81692429"
+				},
+				{
+					"verse": "Él destruirá los carros de Efraín,\nlos caballos de Jerusalén\ny los arcos de guerra.\nAnunciará paz a las naciones\ny gobernará de mar a mar,\ndel Éufrates al último rincón del mundo.",
+					"number": 10,
+					"id": "5d8c303f-498b-465a-b6d2-3dd207e053b9"
+				},
+				{
+					"verse": "Esto dice el Señor:\n«Jerusalén, por la sangre de tu alianza,\nyo sacaré del pozo sin agua\na tus presos que están en él.",
+					"number": 11,
+					"id": "2fa9cafe-1b8c-4034-b93c-21ee9c5be7bd"
+				},
+				{
+					"verse": "¡Ustedes, cautivos que mantienen la esperanza,\nregresen a su fortaleza!\nLes digo que voy a darles en bendición\nel doble de cuanto tuvieron que sufrir.",
+					"number": 12,
+					"id": "92916af4-a1bf-465e-b233-2241ab251206"
+				},
+				{
+					"verse": "Pues he tendido mi arco de guerra, que es Judá,\ny le he puesto una flecha, que es Efraín.\nDe ti, Sión, haré una espada,\ny levantaré a tus hijos contra los hijos de Grecia.»",
+					"number": 13,
+					"id": "8bebbaf8-447f-49d6-8173-d6d73b5891bb"
+				},
+				{
+					"verse": "El Señor se mostrará sobre su pueblo;\ndisparará sus flechas como rayos.\nDios, el Señor, tocará la trompeta\ny avanzará entre las tempestades del sur.",
+					"number": 14,
+					"id": "66bb2536-8614-41f4-b4e5-e3a0d73ff08e"
+				},
+				{
+					"verse": "El Señor todopoderoso protegerá a los suyos,\ny ellos pisotearán las piedras de los honderos\ny devorarán a sus enemigos;\nbeberán su sangre como vino,\nse llenarán de ella como un tazón,\ncomo los cuernos del altar.",
+					"number": 15,
+					"id": "1b182985-d380-461e-99ef-321a99307282"
+				},
+				{
+					"verse": "En aquel día, el Señor su Dios\nsalvará a su pueblo como a un rebaño,\ny brillarán los suyos en su propio país\ncomo las piedras preciosas de una corona.",
+					"number": 16,
+					"id": "ccac9528-655c-4e1d-a8f3-6d281ff23ef3"
+				},
+				{
+					"verse": "¡Qué bueno, qué hermoso será el país!\nCon la abundancia de su trigo y su vino,\nnuestros muchachos y muchachas crecerán hermosos.",
+					"number": 17,
+					"id": "deb5c6f2-23ff-4a0c-9c45-47a3361af928"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Pídanle al Señor lluvias de primavera,\ny el Señor, que produce los relámpagos,\nlas enviará en abundancia,\ny a todos les dará hierba en el campo.",
+					"number": 1,
+					"study": "Jehová redimirá a su pueblo",
+					"id": "b4bc107c-12df-4b05-a3c8-659354d15b92"
+				},
+				{
+					"verse": "La palabra de los ídolos es mentira,\ny es falso lo que ven los adivinos.\nSus predicciones son sueños sin sentido,\ny sus palabras de consuelo están vacías.\nPor eso el pueblo vaga como un rebaño,\ny sufre por falta de un pastor.",
+					"number": 2,
+					"id": "9a165b6a-232b-457d-9e7d-70305b0d52e8"
+				},
+				{
+					"verse": "Por eso dice el Señor:\n«Mi furor se ha encendido contra los pastores,\ny castigaré a los guías de mi pueblo.»\nEl Señor todopoderoso, que cuida de su rebaño,\nde los descendientes de Judá,\nhará de ellos su fuerte caballo en la batalla.",
+					"number": 3,
+					"id": "e12d95ab-3640-49c5-8ed0-e9fb2fb8b79e"
+				},
+				{
+					"verse": "De ellos saldrán la Piedra Angular,\nla Estaca de Tienda y el Arco de Guerra.\nDe ellos saldrán todos los caudillos.",
+					"number": 4,
+					"id": "b805090a-aa4c-4945-a7df-37e8df2b3753"
+				},
+				{
+					"verse": "Serán como soldados\nque en la batalla pisan el barro de las calles;\nlucharán, porque el Señor está con ellos,\ny pondrán en vergüenza a los jinetes.",
+					"number": 5,
+					"id": "c2243286-169f-4d6b-ba56-a1b88cc63c3c"
+				},
+				{
+					"verse": "Dice el Señor:\n«Yo daré fuerzas a los descendientes de Judá\ny salvaré a los descendientes de José.\nLos guiaré de vuelta a su patria,\nporque tengo compasión de ellos.\nVolverán a ser como si yo nunca los hubiera rechazado,\npues yo soy el Señor su Dios,\nque atiendo sus oraciones.",
+					"number": 6,
+					"id": "81b99efc-188a-4294-bf8d-50b2305a6167"
+				},
+				{
+					"verse": "Efraín será como un soldado.\nSu corazón se alegrará como con vino,\ny al verlo se alegrarán también sus hijos.\n¡Su corazón se alegrará a causa del Señor!",
+					"number": 7,
+					"id": "e4441772-397a-48b3-bc67-231be9f8e2fd"
+				},
+				{
+					"verse": "»Yo los llamaré y los reuniré,\nporque los he salvado.\nVolverán a ser tan numerosos\ncomo lo fueron en otros tiempos.",
+					"number": 8,
+					"id": "ec24a22b-6db5-4404-8be4-4d71c37da60c"
+				},
+				{
+					"verse": "Yo los dispersé entre las naciones\npero, aun estando lejos, se acordarán de mí,\ny un día volverán con sus hijos.",
+					"number": 9,
+					"id": "9f7582a3-9839-4bee-b154-83cd2d49b932"
+				},
+				{
+					"verse": "Los haré regresar de Egipto,\nlos traeré de Asiria,\nlos llevaré a Galaad y al Líbano,\ny serán tantos que faltará lugar para ellos.",
+					"number": 10,
+					"id": "a29621e2-4d89-47b6-a4a8-227b858dfd30"
+				},
+				{
+					"verse": "Atravesarán el mar de Egipto,\ncuyas olas heriré.\nSecaré el Nilo hasta el fondo,\ndestruiré el orgullo de Asiria\ny acabaré con el poder de Egipto.",
+					"number": 11,
+					"id": "8784e42a-ac39-40b1-96de-4a8304205b1e"
+				},
+				{
+					"verse": "Yo les daré fuerzas,\ny avanzarán en mi nombre.\nYo, el Señor, doy mi palabra.»",
+					"number": 12,
+					"id": "a23dcb1b-fe4e-4f49-918e-2b14c9f6800e"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "¡Abre, Líbano, tus puertas,\ny que el fuego consuma tus cedros!",
+					"number": 1,
+					"id": "14e3bb7f-1f16-4d74-bf3e-94151785b460"
+				},
+				{
+					"verse": "¡Llora, oh pino,\nporque cayó el cedro,\nporque aquellos árboles hermosos\nhan quedado destruidos!\n¡Giman ustedes, encinas de Basán,\nporque el bosque espeso ha sido derribado!",
+					"number": 2,
+					"id": "3da63f5a-4031-445e-ada8-3300d4a46440"
+				},
+				{
+					"verse": "Lloran a gritos los pastores,\nporque la hermosura de los pastos\nha quedado destruida.\nSe oye el rugido del león,\nporque la espesura del Jordán\nha quedado destruida.",
+					"number": 3,
+					"id": "e74c9c8c-6e62-4108-88a3-5a816776d220"
+				},
+				{
+					"verse": "Esto me dijo el Señor mi Dios: «Cuida las ovejas destinadas al matadero.",
+					"number": 4,
+					"study": "Los pastores inútiles",
+					"id": "ffcbaf3c-7cf4-47a7-b28d-1b3a0bec73c1"
+				},
+				{
+					"verse": "Los compradores las matan sin sentirse culpables, y los vendedores dicen: \"¡Gracias al Señor, ya soy rico!\" Ni siquiera sus propios pastores tienen compasión de ellas.",
+					"number": 5,
+					"id": "95373c3a-19d4-4ea8-bcf0-a8e3716aab4d"
+				},
+				{
+					"verse": "Pues, del mismo modo, tampoco yo volveré a tener compasión de la gente que vive en este país, sino que voy a entregar a cada uno en manos de su prójimo y en manos de su rey. Éstos destruirán el país, y no salvaré de sus manos a nadie. Yo, el Señor, lo afirmo.»",
+					"number": 6,
+					"id": "af58396e-7bb0-4615-8e8e-88dc2f77a126"
+				},
+				{
+					"verse": "Entonces me puse a cuidar las ovejas destinadas al matadero. Lo hice por cuenta de los tratantes. Y me conseguí dos bastones: al uno lo llamé «Bienestar» y al otro «Unión».",
+					"number": 7,
+					"id": "0811112b-dc50-4cb0-99aa-85f37fb3259d"
+				},
+				{
+					"verse": "Y en un solo mes despedí a tres pastores que habían agotado mi paciencia y que me odiaban.",
+					"number": 8,
+					"id": "eb9c6b45-5d63-4dec-9bb3-8a189f28501a"
+				},
+				{
+					"verse": "Y a las ovejas les dije: «¡No volveré a ser el pastor de ustedes! ¡Si alguna ha de morir, que muera! ¡Si a alguna la matan, que la maten! ¡Y las que queden, que se coman unas a otras!»",
+					"number": 9,
+					"id": "a90db705-e1d7-4e13-a640-907b0560f5f6"
+				},
+				{
+					"verse": "Tomé entonces mi bastón llamado «Bienestar» y lo rompí en señal de que quedaba anulada la alianza que Dios había hecho con todas las naciones.",
+					"number": 10,
+					"id": "dbf65ef4-dfdd-4c41-b391-b99c881b9344"
+				},
+				{
+					"verse": "Aquel día quedó anulada la alianza, y los tratantes de ovejas, que me estaban observando, comprendieron que era el Señor quien hablaba por medio de lo que yo hacía.",
+					"number": 11,
+					"id": "f67ac7a6-4e44-4652-a799-5c2a3fa3804b"
+				},
+				{
+					"verse": "Les dije entonces: «Si les parece bien, páguenme mi salario; y si no, déjenlo.» Y me pagaron treinta monedas de plata.",
+					"number": 12,
+					"id": "04fa04d1-0c2f-4e23-9eff-349440a62db1"
+				},
+				{
+					"verse": "El Señor me dijo: «Toma esas monedas, el espléndido precio que me han puesto, y échalas en el tesoro del templo.» Yo tomé las treinta monedas y las eché en el tesoro del templo.",
+					"number": 13,
+					"id": "a836b155-41a3-4c05-a8a8-5d354bff7276"
+				},
+				{
+					"verse": "Rompí después el segundo bastón, el llamado «Unión», y así quedó destruida la hermandad entre Judá e Israel.",
+					"number": 14,
+					"id": "d1d1863e-aed0-4bc2-9e2f-309cbf08367c"
+				},
+				{
+					"verse": "El Señor me dijo: «Y ahora hazte pasar por un pastor irresponsable.",
+					"number": 15,
+					"id": "3ef38cfe-1db9-4479-9b98-269915df4012"
+				},
+				{
+					"verse": "Porque voy a poner sobre este país un pastor que no se preocupará por la oveja descarriada, ni buscará a la perdida, ni curará a la herida, ni dará de comer a la debilitada, sino que se comerá la carne de las más gordas y no dejará de ellas ni las pezuñas.",
+					"number": 16,
+					"id": "da9903b5-42ab-4d28-8dfc-aa706138fcd8"
+				},
+				{
+					"verse": "¡Ay del pastor inútil que abandona el rebaño! ¡Que caiga la espada sobre su brazo y su ojo derecho! ¡Que se le quede seco el brazo y completamente ciego el ojo!»",
+					"number": 17,
+					"id": "7ccbe841-2fae-4525-a507-d383dde0210a"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Éste es un mensaje del Señor acerca de Israel. El Señor, que ha extendido el cielo, y ha puesto base a la tierra, y ha dado vida al hombre, afirma:",
+					"number": 1,
+					"study": "Liberación futura de Jerusalén",
+					"id": "2558c1b3-46c5-4543-bc14-7426568dcf7a"
+				},
+				{
+					"verse": "«Yo hago de Jerusalén una copa de vino que emborrachará a todas las naciones vecinas. Cuando ellas pongan sitio a Jerusalén, también las otras ciudades de Judá serán atacadas.",
+					"number": 2,
+					"id": "7ca8847e-62df-46f4-b6e7-3c50e44c354a"
+				},
+				{
+					"verse": "»En aquel día convertiré a Jerusalén en una piedra muy pesada para todas las naciones. Herirá a cualquiera de ellas que intente levantarla. Todas las naciones se juntarán en contra de Jerusalén,",
+					"number": 3,
+					"id": "dd1b73d3-6539-4600-b674-5aba362c3878"
+				},
+				{
+					"verse": "pero entonces yo espantaré a todos los caballos y volveré locos a sus jinetes. Cuidaré de los descendientes de Judá, y dejaré ciegos a todos los caballos de las naciones.",
+					"number": 4,
+					"id": "24a49346-14d4-4075-9b2d-46dacdfceaeb"
+				},
+				{
+					"verse": "Al ver esto, los jefes de Judá dirán para sí: \"El Señor todopoderoso es el Dios de los que viven en Jerusalén, y el que les da fuerzas.\"",
+					"number": 5,
+					"id": "3fb58096-2885-401a-adc9-5d59eff5e5f2"
+				},
+				{
+					"verse": "»En aquel día haré que los jefes de Judá sean como un brasero encendido entre la leña, como un fuego entre manojos de espigas. Devorarán a derecha e izquierda a todas las naciones vecinas, mientras que los habitantes de Jerusalén vivirán otra vez en su ciudad.",
+					"number": 6,
+					"id": "70f1c4de-ca32-4fba-a2d9-d9a1b6d44e7f"
+				},
+				{
+					"verse": "Pero primero yo, el Señor, salvaré a las familias de Judá, para que no crezca el prestigio de los descendientes de David y de los habitantes de Jerusalén por encima de los demás descendientes de Judá.",
+					"number": 7,
+					"id": "ddc0c174-d084-47e0-81ea-26bf0c873c4d"
+				},
+				{
+					"verse": "Yo, el Señor, protegeré a los que viven en Jerusalén. Los más débiles de ellos serán tan fuertes como el rey David, y los descendientes de David serán como Dios, como el ángel del Señor, que va al frente de ellos.",
+					"number": 8,
+					"id": "b6e44d4d-798f-48c5-b8d8-d49f5c61c7b6"
+				},
+				{
+					"verse": "»En aquel día destruiré a cualquier nación que ataque a Jerusalén.",
+					"number": 9,
+					"id": "5647f04d-e045-4801-9e0e-ffd737373cdf"
+				},
+				{
+					"verse": "Llenaré de espíritu de bondad y oración a los descendientes de David y a los habitantes de Jerusalén. Entonces mirarán al que traspasaron, y harán duelo y llorarán por él como por la muerte del hijo único o del hijo mayor.",
+					"number": 10,
+					"id": "c6d373b6-92ed-42ce-8cb7-b9730b675adc"
+				},
+				{
+					"verse": "Se hará en Jerusalén un duelo tan grande como el duelo que se hace por el dios Hadad-rimón en la llanura de Meguido.",
+					"number": 11,
+					"id": "7cecce73-d21f-491a-8dd9-9f983f14e24e"
+				},
+				{
+					"verse": "Familia por familia, cada una por su lado, hará duelo en el país: los descendientes de David, y también sus mujeres; los descendientes de Natán, y también sus mujeres;",
+					"number": 12,
+					"id": "41a2f516-d400-4178-b43b-156d55a94739"
+				},
+				{
+					"verse": "los descendientes de Leví, y también sus mujeres; los descendientes de Simí, y también sus mujeres;",
+					"number": 13,
+					"id": "4308fd6f-8c2f-4695-80ec-ef42c73c12f5"
+				},
+				{
+					"verse": "y así todas las otras familias, cada una por su lado, y también sus mujeres.",
+					"number": 14,
+					"id": "f1712026-9171-4578-bb49-5b2bc724964e"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "»En aquel día se abrirá un manantial, para que en él puedan lavar sus pecados y su impureza los descendientes de David y los habitantes de Jerusalén.",
+					"number": 1,
+					"id": "98dbf98c-6d75-4966-8eeb-751631bff2e3"
+				},
+				{
+					"verse": "Y en todo este país destruiré hasta los nombres de los ídolos, para que no sigan siendo invocados. Y también quitaré del país a los profetas y a todo espíritu impuro. Yo, el Señor, doy mi palabra.",
+					"number": 2,
+					"id": "31eac520-1c26-43d2-9f7a-77b5f147b99e"
+				},
+				{
+					"verse": "Entonces, cuando alguno quiera profetizar, sus propios padres le dirán: \"¡Tú has de morir, porque pretendes hacer pasar tus mentiras por mensajes del Señor!\" ¡Sus propios padres lo apuñalarán cuando se esté haciendo pasar por profeta!",
+					"number": 3,
+					"id": "052aca59-b7e0-44d6-86a7-1a1a430ee262"
+				},
+				{
+					"verse": "»En aquel día, los profetas tendrán vergüenza de sus visiones cuando profeticen. Ninguno engañará poniéndose el manto de pieles de los profetas,",
+					"number": 4,
+					"id": "88d01854-7631-402d-9a19-35dc336b7cbd"
+				},
+				{
+					"verse": "sino que cada cual dirá: \"Yo no soy profeta, sino labrador. Desde niño me he dedicado a trabajar en el campo.\"",
+					"number": 5,
+					"id": "eefa9dd5-8743-4cae-a400-645a6143ada4"
+				},
+				{
+					"verse": "Y si alguien le pregunta: \"¿Pues qué heridas son esas que traes en el cuerpo?\", él contestará: \"Me las hicieron en casa de mis amigos.\"»",
+					"number": 6,
+					"id": "3fd7e22e-03be-4e75-95a9-730db7705a31"
+				},
+				{
+					"verse": "El Señor todopoderoso afirma:\n«¡Levántate, espada, contra mi pastor\ny contra mi ayudante!\n¡Mata al pastor, y el rebaño se dispersará,\ny yo me volveré contra los corderos!",
+					"number": 7,
+					"study": "El pastor de Jehová es herido",
+					"id": "d4f939d0-e8e2-432b-88b5-79c868c6a5d5"
+				},
+				{
+					"verse": "Morirán dos terceras partes\nde los que habitan en este país:\nsólo quedará con vida la tercera parte.\nY a esa parte que quede\nla haré pasar por el fuego;\nla purificaré como se purifica la plata,\nla afinaré como se afina el oro.\nEntonces ellos me invocarán,\ny yo les contestaré.\nLos llamaré \"Pueblo mío\",\ny ellos responderán: \"El Señor es nuestro Dios.\"\nYo, el Señor, doy mi palabra.»",
+					"number": 8,
+					"id": "6bf22dc8-f86d-4d55-8ea7-e8d97776b244"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "Ya viene el día del Señor, cuando tus despojos, Jerusalén, habrán de ser repartidos en medio de ti.",
+					"number": 1,
+					"study": "Jerusalén y las naciones",
+					"id": "99419581-ffc4-4ffd-8f2f-fa0644a09617"
+				},
+				{
+					"verse": "Ese día reunirá el Señor a todas las naciones, para que peleen contra Jerusalén. Y conquistarán la ciudad, saquearán sus casas, violarán a sus mujeres y se llevarán cautiva a la mitad de sus habitantes. Sólo el resto permanecerá en ella.",
+					"number": 2,
+					"id": "2217ba30-0075-4f3f-803f-931108c8515c"
+				},
+				{
+					"verse": "Pero luego saldrá el Señor a luchar contra esas naciones, como cuando lucha en el día de la batalla.",
+					"number": 3,
+					"id": "9569dd80-55f1-41f9-b13b-e9c6d146fbec"
+				},
+				{
+					"verse": "Ese día el Señor apoyará sus pies sobre el Monte de los Olivos, que está frente a Jerusalén, hacia el lado oriental. Y un gran valle, que correrá de oriente a occidente, dividirá en dos el Monte de los Olivos. Medio monte se moverá hacia el norte y el otro medio hacia el sur,",
+					"number": 4,
+					"id": "cbe55731-41e7-4dbb-b803-141ba906a42c"
+				},
+				{
+					"verse": "y ustedes huirán por ese valle que quedará entre los montes, el cual llegará hasta Asal, del otro lado. Huirán ustedes como antes huyeron sus antepasados a causa del terremoto que se produjo cuando el rey Ozías gobernaba en Judá. Y vendrá el Señor mi Dios acompañado de todos sus fieles.",
+					"number": 5,
+					"id": "1fafd2bc-d61f-4b61-b501-ad375dbf6dfe"
+				},
+				{
+					"verse": "Ese día no hará frío ni habrá heladas.",
+					"number": 6,
+					"id": "4db81950-9187-4e16-a5b5-7720d0494149"
+				},
+				{
+					"verse": "Será un día único, conocido solamente por Dios. En él no se distinguirá el día de la noche, pues aun por la noche seguirá habiendo luz.",
+					"number": 7,
+					"id": "7c6f3d4b-c32d-4b51-94ad-7d9c7b7160e9"
+				},
+				{
+					"verse": "Entonces saldrán de Jerusalén aguas frescas, que correrán en invierno y en verano, la mitad de ellas hacia el Mar Muerto y la otra mitad hacia el Mediterráneo.",
+					"number": 8,
+					"id": "e1385876-5139-4e8c-abba-94e1e8078931"
+				},
+				{
+					"verse": "Ese día reinará el Señor en toda la tierra. El Señor será el único, y único será también su nombre.",
+					"number": 9,
+					"id": "fc79835b-07d9-481c-a48e-e3b2b45cc6fb"
+				},
+				{
+					"verse": "Todo el país quedará convertido en una llanura, desde Gueba hasta Rimón, al sur de Jerusalén. Jerusalén estará en alto, y será habitada en ese lugar, desde la Puerta de Benjamín hasta la Puerta del Ángulo (donde antes estuvo la Puerta Antigua) y desde la torre de Hananel hasta las prensas de aceite del rey.",
+					"number": 10,
+					"id": "ae1e6e34-2fcc-4f5d-acc2-7957dfdd4008"
+				},
+				{
+					"verse": "Sí, Jerusalén será habitada, y no volverá a ser destruida. Sus habitantes vivirán seguros.",
+					"number": 11,
+					"id": "4aa6180e-a617-4bc5-b7a0-2313d3d06193"
+				},
+				{
+					"verse": "Pero a las naciones que hayan luchado contra Jerusalén, el Señor las castigará duramente: a su gente se le pudrirá la carne en vida, y se le pudrirán los ojos en sus cuencas y la lengua en la boca.",
+					"number": 12,
+					"id": "89ac3872-8316-4d65-9938-014fa7129dbd"
+				},
+				{
+					"verse": "Ese día el Señor los llenará de espanto. Cada cual agarrará de la mano a su compañero, y levantarán la mano unos contra otros.",
+					"number": 13,
+					"id": "2555cadd-b6f4-4365-a48b-6c2e8a99bc07"
+				},
+				{
+					"verse": "Entonces luchará también Judá en Jerusalén, y arrebatarán a las naciones vecinas abundantes riquezas de plata, oro y ropas.",
+					"number": 14,
+					"id": "6536aaa3-7ca3-4e42-b7e0-d69b5513998d"
+				},
+				{
+					"verse": "El mismo castigo que ha de caer sobre la gente, caerá también sobre los caballos, los mulos, los camellos, los asnos y todas las bestias que los enemigos tengan en sus campamentos.",
+					"number": 15,
+					"id": "9eb897bf-89a1-45bf-b64e-78359b0da231"
+				},
+				{
+					"verse": "Después de esto, los sobrevivientes de los mismos pueblos que lucharon contra Jerusalén irán año tras año a adorar al Rey, al Señor todopoderoso, y a celebrar la fiesta de las Enramadas.",
+					"number": 16,
+					"id": "1ea46b2a-016a-460d-be47-dd278d789842"
+				},
+				{
+					"verse": "Y si alguna de las naciones de la tierra no va a Jerusalén a adorar al Rey, al Señor todopoderoso, la lluvia no caerá en sus tierras.",
+					"number": 17,
+					"id": "48134a6c-2f8e-4182-a45e-57bf2c8539d0"
+				},
+				{
+					"verse": "Y si los egipcios no van, el Señor los castigará, del mismo modo que a cualquier otra nación que no vaya a celebrar la fiesta de las Enramadas.",
+					"number": 18,
+					"id": "0165160a-42c1-4d34-b2e2-a275c8a090c3"
+				},
+				{
+					"verse": "Ése será el castigo de Egipto y de todas las naciones que no vayan a celebrar la fiesta de las Enramadas.",
+					"number": 19,
+					"id": "99bf2ed8-a433-48ab-85e1-b75d899f8bb3"
+				},
+				{
+					"verse": "Ese día, hasta los cascabeles de los caballos llevarán la inscripción «Consagrado al Señor». Y los calderos del templo serán entonces tan sagrados como los tazones que están delante del altar.",
+					"number": 20,
+					"id": "2185d012-71e9-4d02-8b26-03349c32c8f2"
+				},
+				{
+					"verse": "Todos los calderos, en Jerusalén y en Judá, estarán consagrados al Señor todopoderoso. Quienes vayan a hacer un sacrificio, los usarán, y cocerán en ellos la carne de los animales ofrecidos. Ese día ya no habrá más comerciantes en el templo del Señor todopoderoso.",
+					"number": 21,
+					"id": "36e35df0-f169-48f5-8a1e-efb8e32dd185"
+				}
+			]
+		}
+	],
+	"book_id": "0399acd6-a691-4de3-8e60-9b568abf0fa4"
+}

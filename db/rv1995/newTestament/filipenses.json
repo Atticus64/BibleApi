@@ -1,0 +1,558 @@
+{
+	"name": "Filipenses",
+	"num_chapters": 4,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo y Timoteo, siervos de Jesucristo, a todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos:",
+					"number": 1,
+					"study": "Salutación",
+					"id": "4d16c286-f4c8-4941-8fab-2496e7e2ed6d"
+				},
+				{
+					"verse": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+					"number": 2,
+					"id": "fcbf8cb2-d9f6-49a8-a056-10212f1fb65c"
+				},
+				{
+					"verse": "Doy gracias a mi Dios siempre que me acuerdo de vosotros.",
+					"number": 3,
+					"study": "Oración de Pablo por los creyentes",
+					"id": "7fdb0399-82e1-4ae5-b4f6-cea8e6deb6e3"
+				},
+				{
+					"verse": "Siempre en todas mis oraciones ruego con gozo por todos vosotros,",
+					"number": 4,
+					"id": "1426d0c8-cdf9-4bd1-a7b5-dd79e87d663e"
+				},
+				{
+					"verse": "por vuestra comunión en el evangelio desde el primer día hasta ahora,",
+					"number": 5,
+					"id": "90a2795d-f9a0-45d5-aaab-4930f123e1cc"
+				},
+				{
+					"verse": "estando persuadido de esto, que el que comenzó en vosotros la buena obra la perfeccionará hasta el día de Jesucristo.",
+					"number": 6,
+					"id": "8f8827e6-ea1a-4123-8730-455d2224e2f5"
+				},
+				{
+					"verse": "Y es justo que yo sienta esto de todos vosotros, porque os tengo en el corazón; y en mis prisiones, y en la defensa y confirmación del evangelio, todos vosotros sois participantes conmigo de la gracia.",
+					"number": 7,
+					"id": "5f9fb080-d4dc-4ee0-b1da-e6a611f5f87c"
+				},
+				{
+					"verse": "Dios me es testigo de cómo os amo a todos vosotros con el entrañable amor de Jesucristo.",
+					"number": 8,
+					"id": "1d4e6d10-a8d5-452f-a649-50a05cf03488"
+				},
+				{
+					"verse": "Y esto pido en oración: que vuestro amor abunde aún más y más en conocimiento y en toda comprensión,",
+					"number": 9,
+					"id": "30a28185-2fda-446d-b320-428d412584df"
+				},
+				{
+					"verse": "para que aprobéis lo mejor, a fin de que seáis sinceros e irreprochables para el día de Cristo,",
+					"number": 10,
+					"id": "c7a2eef4-7575-4d2d-931c-3c7008150ddc"
+				},
+				{
+					"verse": "llenos de frutos de justicia que son por medio de Jesucristo, para gloria y alabanza de Dios.",
+					"number": 11,
+					"id": "e6f24c0b-6b61-45e9-a1d8-689d26195bfd"
+				},
+				{
+					"verse": "Quiero que sepáis, hermanos, que las cosas que me han sucedido, han contribuido más bien al progreso del evangelio,",
+					"number": 12,
+					"study": "Para mí el vivir es Cristo",
+					"id": "f9191873-0aa0-4c31-8d3e-24ae1ca4c128"
+				},
+				{
+					"verse": "de tal manera que en todo el pretorio y entre todos los demás se ha hecho evidente que estoy preso por causa de Cristo.",
+					"number": 13,
+					"id": "382f996e-16d6-4d48-934a-aac39c676790"
+				},
+				{
+					"verse": "Y la mayoría de los hermanos, cobrando ánimo en el Señor con mis prisiones, se atreven mucho más a hablar la palabra sin temor.",
+					"number": 14,
+					"id": "ea4c176f-1e62-4267-b957-9cd93322c0df"
+				},
+				{
+					"verse": "Algunos, a la verdad, predican a Cristo por envidia y rivalidad; pero otros lo hacen de buena voluntad.",
+					"number": 15,
+					"id": "caa05d8a-1e61-444c-ab3c-f738fba8e368"
+				},
+				{
+					"verse": "Los unos anuncian a Cristo por rivalidad, no sinceramente, pensando añadir aflicción a mis prisiones;",
+					"number": 16,
+					"id": "f8fa2efd-83be-43aa-a92b-12a572af52ea"
+				},
+				{
+					"verse": "pero los otros por amor, sabiendo que estoy puesto para la defensa del evangelio.",
+					"number": 17,
+					"id": "945b1ca1-b0a1-41d0-8e3b-fc772384a750"
+				},
+				{
+					"verse": "¿Qué, pues? Que no obstante, de todas maneras, o por pretexto o por verdad, Cristo es anunciado; y en esto me gozo y me gozaré siempre,",
+					"number": 18,
+					"id": "1aeae097-a2d8-460e-9375-3ee516563a23"
+				},
+				{
+					"verse": "porque sé que por vuestra oración y la suministración del Espíritu de Jesucristo, esto resultará en mi liberación,",
+					"number": 19,
+					"id": "ec03cc59-60fc-4a81-9566-47fc0874d336"
+				},
+				{
+					"verse": "conforme a mi anhelo y esperanza de que en nada seré avergonzado; antes bien con toda confianza, como siempre, ahora también será magnificado Cristo en mi cuerpo, tanto si vivo como si muero,",
+					"number": 20,
+					"id": "0d736458-77e7-44f6-9a91-6b3764f2833a"
+				},
+				{
+					"verse": "porque para mí el vivir es Cristo y el morir, ganancia.",
+					"number": 21,
+					"id": "b656fac4-53ec-4520-82c7-6ba3d66f8fe1"
+				},
+				{
+					"verse": "Pero si el vivir en la carne resulta para mí en beneficio de la obra, no sé entonces qué escoger:",
+					"number": 22,
+					"id": "1e33f7a6-ea92-40c7-8477-b3d216c57f6e"
+				},
+				{
+					"verse": "De ambas cosas estoy puesto en estrecho, teniendo deseo de partir y estar con Cristo, lo cual es muchísimo mejor;",
+					"number": 23,
+					"id": "04f74e98-bd2c-467b-a162-d609aa2fa1ac"
+				},
+				{
+					"verse": "pero quedar en la carne es más necesario por causa de vosotros.",
+					"number": 24,
+					"id": "df11e81e-a9b7-469a-9462-9361a17c24cf"
+				},
+				{
+					"verse": "Y confiado en esto, sé que quedaré, que aún permaneceré con todos vosotros, para vuestro provecho y gozo de la fe,",
+					"number": 25,
+					"id": "cbaa98c0-9039-4b68-8f9e-905bb382c77d"
+				},
+				{
+					"verse": "para que abunde vuestra gloria de mí en Cristo Jesús por mi presencia otra vez entre vosotros.",
+					"number": 26,
+					"id": "dd61d847-c317-44bf-b023-88e6d5759860"
+				},
+				{
+					"verse": "Solamente os ruego que os comportéis como es digno del evangelio de Cristo, para que, sea que vaya a veros o que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, combatiendo unánimes por la fe del evangelio",
+					"number": 27,
+					"id": "d81d863f-2854-440d-8055-8d44721a4fdc"
+				},
+				{
+					"verse": "y sin dejaros intimidar por los que se oponen, que para ellos ciertamente es indicio de perdición, pero para vosotros de salvación; y esto procede de Dios.",
+					"number": 28,
+					"id": "80244096-fe11-4e8b-bd3e-3350692f4e23"
+				},
+				{
+					"verse": "A vosotros os es concedido a causa de Cristo, no solo que creáis en él, sino también que padezcáis por él,",
+					"number": 29,
+					"id": "11edf9a7-35c4-4134-bb04-bae22c543db5"
+				},
+				{
+					"verse": "teniendo el mismo conflicto que habéis visto en mí y ahora oís que hay en mí.",
+					"number": 30,
+					"id": "a00acad9-4f17-4c47-9306-5f922c57e91c"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Por tanto, si hay algún consuelo en Cristo, si algún estímulo de amor, si alguna comunión del Espíritu, si algún afecto entrañable, si alguna misericordia,",
+					"number": 1,
+					"study": "Humillación y exaltación de Cristo",
+					"id": "bd6c6966-6a31-4101-ade3-690369413cd4"
+				},
+				{
+					"verse": "completad mi gozo, sintiendo lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa.",
+					"number": 2,
+					"id": "3c50713c-bafb-411e-b860-354bc9d559f0"
+				},
+				{
+					"verse": "Nada hagáis por rivalidad o por vanidad; antes bien, con humildad, estimando cada uno a los demás como superiores a él mismo.",
+					"number": 3,
+					"id": "54b258e5-fec2-4a8a-9b6f-5f7c6614ebe0"
+				},
+				{
+					"verse": "No busquéis vuestro propio provecho, sino el de los demás.",
+					"number": 4,
+					"id": "983a1fd1-1e9f-4739-b6d0-e0cf46a1d398"
+				},
+				{
+					"verse": "Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús:",
+					"number": 5,
+					"id": "06991e1e-80e2-4b30-9319-1f5dc24f5dc0"
+				},
+				{
+					"verse": "Él, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse,",
+					"number": 6,
+					"id": "f1600e29-7628-4d46-9438-47addd0c40f3"
+				},
+				{
+					"verse": "sino que se despojó a sí mismo, tomó la forma de siervo y se hizo semejante a los hombres.",
+					"number": 7,
+					"id": "7ecf876b-362a-40be-bc0b-ce45fccce298"
+				},
+				{
+					"verse": "Mas aún, hallándose en la condiciónde hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.",
+					"number": 8,
+					"id": "4d459980-785f-43b7-b6f0-b27ba427c806"
+				},
+				{
+					"verse": "Por eso Dios también lo exaltósobre todas las cosas y le dio un nombreque es sobre todo nombre,",
+					"number": 9,
+					"id": "af8f3649-0e73-4a60-a641-07a8e8c36f37"
+				},
+				{
+					"verse": "para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, en la tierra y debajo de la tierra;",
+					"number": 10,
+					"id": "11775730-6252-4ab7-a5bf-6d5c86247a00"
+				},
+				{
+					"verse": "y toda lengua confiese que Jesucristo es el Señor, para gloria de Dios Padre.",
+					"number": 11,
+					"id": "63b5e317-8f4d-4e2c-ad92-d13846311f6a"
+				},
+				{
+					"verse": "Por tanto, amados míos, como siempre habéis obedecido, no solamente cuando estoy presente, sino mucho más ahora que estoy ausente, ocupaos en vuestra salvación con temor y temblor,",
+					"number": 12,
+					"study": "Luminares en el mundo",
+					"id": "e7f1b89d-d18d-4b29-bc9b-e516910d3b43"
+				},
+				{
+					"verse": "porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad.",
+					"number": 13,
+					"id": "e382e554-8542-481d-bc40-0384e7680167"
+				},
+				{
+					"verse": "Haced todo sin murmuraciones ni discusiones,",
+					"number": 14,
+					"id": "1204620e-e5a1-4330-9596-aba5e05a2543"
+				},
+				{
+					"verse": "para que seáis irreprochables y sencillos, hijos de Dios sin mancha en medio de una generación maligna y perversa, en medio de la cual resplandecéis como lumbreras en el mundo,",
+					"number": 15,
+					"id": "be41629c-fdac-4fb9-8841-56615fd14010"
+				},
+				{
+					"verse": "asidos de la palabra de vida, para que en el día de Cristo yo pueda gloriarme de que no he corrido en vano, ni en vano he trabajado.",
+					"number": 16,
+					"id": "00713b53-1fb3-4ef8-91d7-6dcc10454563"
+				},
+				{
+					"verse": "Y aunque sea derramado en libación sobre el sacrificio y servicio de vuestra fe, me gozo y regocijo con todos vosotros.",
+					"number": 17,
+					"id": "59db2879-730a-4de6-aced-5ac9883aca48"
+				},
+				{
+					"verse": "Asimismo gozaos y regocijaos también vosotros conmigo.",
+					"number": 18,
+					"id": "7a97fb8a-0b8a-4fd4-a529-a5acbeaca139"
+				},
+				{
+					"verse": "Espero en el Señor Jesús enviaros pronto a Timoteo, para que yo también esté de buen ánimo al tener noticias vuestras,",
+					"number": 19,
+					"study": "Timoteo y Epafrodito",
+					"id": "b06b02ca-8fb2-4f41-98a3-6b35304a2381"
+				},
+				{
+					"verse": "porque no tengo a ningún otro que comparta mis sentimientos y que tan sinceramente se interese por vosotros,",
+					"number": 20,
+					"id": "397ed97f-9b41-468d-ac47-b4d660ab3ae4"
+				},
+				{
+					"verse": "pues todos buscan sus propios intereses y no los de Cristo Jesús.",
+					"number": 21,
+					"id": "dfd595c8-a209-4828-af1d-b6240b7fa93f"
+				},
+				{
+					"verse": "Pero ya conocéis los méritos de él, que como hijo a padre ha servido conmigo en el evangelio.",
+					"number": 22,
+					"id": "fba92b6c-3157-46c0-9564-d29fb97886d0"
+				},
+				{
+					"verse": "Así que a este espero enviaros, luego que yo vea cómo van mis asuntos;",
+					"number": 23,
+					"id": "0e63929a-615a-4e33-a0c1-263925623349"
+				},
+				{
+					"verse": "y confío en el Señor que yo también iré pronto a vosotros.",
+					"number": 24,
+					"id": "00f8cfd5-0eb7-420c-b05b-1e3a0631ee92"
+				},
+				{
+					"verse": "Pero me pareció necesario enviaros a Epafrodito, mi hermano, colaborador y compañero de milicia, a quien vosotros enviasteis a ministrar para mis necesidades.",
+					"number": 25,
+					"id": "d5576b0d-8a15-4d22-b22c-01f23114b420"
+				},
+				{
+					"verse": "Él tenía gran deseo de veros a todos vosotros, y se angustió mucho porque os habíais enterado de su enfermedad.",
+					"number": 26,
+					"id": "93da962b-8c5d-43e6-8685-a3e187fc7d57"
+				},
+				{
+					"verse": "En verdad estuvo enfermo, a punto de morir; pero Dios tuvo misericordia de él, y no solamente de él, sino también de mí, para que yo no tuviera tristeza sobre tristeza.",
+					"number": 27,
+					"id": "93c43f71-0d8a-40f6-81d3-d1599295ec56"
+				},
+				{
+					"verse": "Así que me apresuro a enviarlo, para que al verlo de nuevo, os gocéis, y yo esté con menos tristeza.",
+					"number": 28,
+					"id": "8e2e74b7-a326-49d9-9a62-8364b59e8814"
+				},
+				{
+					"verse": "Recibidlo, pues, en el Señor, con todo gozo, y tened en estima a los que son como él,",
+					"number": 29,
+					"id": "1b152fe1-8e51-450f-94de-d2a2dcf6cfde"
+				},
+				{
+					"verse": "porque por la obra de Cristo estuvo próximo a la muerte, exponiendo su vida para suplir lo que os faltaba en vuestro servicio por mí.",
+					"number": 30,
+					"id": "b467b41f-3900-448d-8fc0-cea4709ef39d"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por lo demás, hermanos, gozaos en el Señor. Para mí no es molestia el escribiros las mismas cosas, y para vosotros es útil.",
+					"number": 1,
+					"study": "Prosigo al blanco",
+					"id": "a5ce8b5b-cf04-451a-a668-9fd1939fcb4c"
+				},
+				{
+					"verse": "Guardaos de los perros, guardaos de los malos obreros, guardaos de los que mutilan el cuerpo.",
+					"number": 2,
+					"id": "3ffa7741-16e1-4d06-9767-35731224fb62"
+				},
+				{
+					"verse": "Nosotros somos la circuncisión, los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no teniendo confianza en la carne,",
+					"number": 3,
+					"id": "db149fc6-b67f-42c5-9617-0c1869c06cdb"
+				},
+				{
+					"verse": "aunque yo tengo también de qué confiar en la carne. Si alguno piensa que tiene de qué confiar en la carne, yo más:",
+					"number": 4,
+					"id": "d236adde-95d9-4fcd-a17f-1638074afeb1"
+				},
+				{
+					"verse": "circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, hebreo de hebreos; en cuanto a la Ley, fariseo;",
+					"number": 5,
+					"id": "dbe8889d-9d5f-4b12-a8aa-2d5c4597320d"
+				},
+				{
+					"verse": "en cuanto a celo, perseguidor de la iglesia; en cuanto a la justicia que se basa en la Ley, irreprochable.",
+					"number": 6,
+					"id": "df6bfe1c-1e1f-4985-9cbf-f6c32abdb477"
+				},
+				{
+					"verse": "Pero cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor de Cristo.",
+					"number": 7,
+					"id": "9629db22-b6be-4377-b831-953575d5a992"
+				},
+				{
+					"verse": "Y ciertamente, aun estimo todas las cosas como pérdida por la excelencia del conocimiento de Cristo Jesús, mi Señor. Por amor a él lo he perdido todo y lo tengo por basura, para ganar a Cristo",
+					"number": 8,
+					"id": "957a0950-4806-44f3-ad1b-abab3c2fd4be"
+				},
+				{
+					"verse": "y ser hallado en él, no teniendo mi propia justicia, que se basa en la Ley, sino la que se adquiere por la fe en Cristo, la justicia que procede de Dios y se basa en la fe.",
+					"number": 9,
+					"id": "703d03f7-a7de-4dc7-b9cc-918745106894"
+				},
+				{
+					"verse": "Quiero conocerlo a él y el poder de su resurrección, y participar de sus padecimientos hasta llegar a ser semejante a él en su muerte,",
+					"number": 10,
+					"id": "1369f247-56fd-4114-ab20-9011d3af8fd7"
+				},
+				{
+					"verse": "si es que en alguna manera logro llegar a la resurrección de entre los muertos.",
+					"number": 11,
+					"id": "c057a33a-24a5-4201-be2f-51658531da58"
+				},
+				{
+					"verse": "No que lo haya alcanzado ya, ni que ya sea perfecto; sino que prosigo, por ver si logro asir aquello para lo cual fui también asido por Cristo Jesús.",
+					"number": 12,
+					"id": "5a7bac6a-6e83-4c9c-956e-62c99ea20b76"
+				},
+				{
+					"verse": "Hermanos, yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás y extendiéndome a lo que está delante,",
+					"number": 13,
+					"id": "ea20732e-060f-4abf-804d-779cd649124a"
+				},
+				{
+					"verse": "prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.",
+					"number": 14,
+					"id": "6e9e57f0-71b1-4873-9daf-d4fdda550d0c"
+				},
+				{
+					"verse": "Así que, todos los que somos perfectos, esto mismo sintamos; y si otra cosa sentís, esto también os lo revelará Dios.",
+					"number": 15,
+					"id": "450978c2-a251-486c-b27d-63be2caf3a23"
+				},
+				{
+					"verse": "Pero en aquello a que hemos llegado, sigamos una misma regla, sintamos una misma cosa.",
+					"number": 16,
+					"id": "244d1cb2-5d20-4d10-a589-d4692abea012"
+				},
+				{
+					"verse": "Hermanos, sed imitadores de mí y mirad a los que así se conducen según el ejemplo que tenéis en nosotros,",
+					"number": 17,
+					"id": "2bc8914e-dfd2-4c0e-aa4c-7d3a0353d58f"
+				},
+				{
+					"verse": "porque por ahí andan muchos, de los cuales os dije muchas veces, y aun ahora lo digo llorando, que son enemigos de la cruz de Cristo.",
+					"number": 18,
+					"id": "e3a133ce-e589-4d59-947e-2ceb00507603"
+				},
+				{
+					"verse": "El fin de ellos será la perdición. Su dios es el vientre, su gloria es aquello que debería avergonzarlos, y solo piensan en lo terrenal.",
+					"number": 19,
+					"id": "579b5faa-08e2-425b-8607-27fce01bdf7a"
+				},
+				{
+					"verse": "Pero nuestra ciudadanía está en los cielos, de donde también esperamos al Salvador, al Señor Jesucristo.",
+					"number": 20,
+					"id": "afde3c17-3106-4d1a-b0c4-bed6665a8891"
+				},
+				{
+					"verse": "Él transformará nuestro cuerpo mortal en un cuerpo glorioso semejante al suyo, por el poder con el cual puede también sujetar a sí mismo todas las cosas.",
+					"number": 21,
+					"id": "c16b5689-1e87-41bd-92b3-03eada3ddc09"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Así que, hermanos míos amados y deseados, gozo y corona mía, estad así firmes en el Señor, amados.",
+					"number": 1,
+					"study": "Regocijaos en el Señor siempre",
+					"id": "86ebe8d3-da37-4851-a020-cc22ed2aed12"
+				},
+				{
+					"verse": "Ruego a Evodia y a Síntique que sean de un mismo sentir en el Señor.",
+					"number": 2,
+					"id": "103d433f-94ef-43b9-9050-879418dc8097"
+				},
+				{
+					"verse": "Asimismo te ruego también a ti, compañero fiel, que ayudes a estas que combatieron juntamente conmigo en el evangelio, con Clemente también y los demás colaboradores míos, cuyos nombres están en el libro de la vida.",
+					"number": 3,
+					"id": "3843932d-5011-414d-bda3-76af188ea1a2"
+				},
+				{
+					"verse": "Regocijaos en el Señor siempre. Otra vez digo: ¡Regocijaos!",
+					"number": 4,
+					"id": "19e330b5-11c4-453b-95ae-aa7921f3382d"
+				},
+				{
+					"verse": "Vuestra gentileza sea conocida de todos los hombres. El Señor está cerca.",
+					"number": 5,
+					"id": "16a663a3-1a33-4f69-8df7-a46b745fd278"
+				},
+				{
+					"verse": "Por nada estéis angustiados, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias.",
+					"number": 6,
+					"id": "429b6216-133d-43e8-a5a3-3bdc574098e0"
+				},
+				{
+					"verse": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.",
+					"number": 7,
+					"id": "44de560e-fe33-41c7-8e49-b87612fbc5f5"
+				},
+				{
+					"verse": "Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si algo digno de alabanza, en esto pensad.",
+					"number": 8,
+					"study": "En esto pensad",
+					"id": "dda0eb10-892f-40c7-9161-e6c51738dc3e"
+				},
+				{
+					"verse": "Lo que aprendisteis, recibisteis, oísteis y visteis en mí, esto haced; y el Dios de paz estará con vosotros.",
+					"number": 9,
+					"id": "6279b263-a544-48c3-8dfa-533959a59319"
+				},
+				{
+					"verse": "En gran manera me gocé en el Señor de que ya al fin habéis revivido vuestro interés por mí; ciertamente lo teníais, pero os faltaba la oportunidad para manifestarlo.",
+					"number": 10,
+					"study": "Dádivas de los filipenses",
+					"id": "be3a33a8-6793-4a72-b197-84e6f114b609"
+				},
+				{
+					"verse": "No lo digo porque tenga escasez, pues he aprendido a contentarme, cualquiera que sea mi situación.",
+					"number": 11,
+					"id": "8bb4f43a-e4d2-4ba6-be89-50bbc734e323"
+				},
+				{
+					"verse": "Sé vivir humildemente y sé tener abundancia; en todo y por todo estoy enseñado, así para estar saciado como para tener hambre, así para tener abundancia como para padecer necesidad.",
+					"number": 12,
+					"id": "abafc3bf-d979-4ee4-8e58-519e333bb29a"
+				},
+				{
+					"verse": "Todo lo puedo en Cristo que me fortalece.",
+					"number": 13,
+					"id": "ce78d6ac-ef8e-45d7-bad2-640975628033"
+				},
+				{
+					"verse": "Sin embargo, bien hicisteis en participar conmigo en mi tribulación.",
+					"number": 14,
+					"id": "d632dfbc-c89e-4c08-91c8-85c64732ddbe"
+				},
+				{
+					"verse": "Y sabéis también vosotros, filipenses, que al principio de la predicación del evangelio, cuando partí de Macedonia, ninguna iglesia participó conmigo en razón de dar y recibir, sino vosotros únicamente,",
+					"number": 15,
+					"id": "351dbd1e-2993-4f42-bcad-ef76f635fc4c"
+				},
+				{
+					"verse": "pues aun a Tesalónica me enviasteis una y otra vez para mis necesidades.",
+					"number": 16,
+					"id": "ad074d8c-a41e-422c-b206-aace9804630f"
+				},
+				{
+					"verse": "No es que busque donativos, sino que busco fruto que abunde en vuestra cuenta.",
+					"number": 17,
+					"id": "da233796-ad29-4cb4-90a6-5b204a2fcb5c"
+				},
+				{
+					"verse": "Pero todo lo he recibido y tengo abundancia; estoy lleno, habiendo recibido de Epafrodito lo que enviasteis, olor fragante, sacrificio acepto, agradable a Dios.",
+					"number": 18,
+					"id": "6cb35508-3d97-446e-8a80-f00236d9f9b6"
+				},
+				{
+					"verse": "Mi Dios, pues, suplirá todo lo que os falta conforme a sus riquezas en gloria en Cristo Jesús.",
+					"number": 19,
+					"id": "63810351-6114-47ea-9da9-40f138a747d9"
+				},
+				{
+					"verse": "Al Dios y Padre nuestro sea gloria por los siglos de los siglos. Amén.",
+					"number": 20,
+					"id": "73c16cbe-d745-40d5-b3f7-fbc401d9c67c"
+				},
+				{
+					"verse": "Saludad a todos los santos en Cristo Jesús. Los hermanos que están conmigo os saludan.",
+					"number": 21,
+					"study": "Salutaciones finales",
+					"id": "ea8373b0-43cc-402f-a3be-9e1f777d7ecf"
+				},
+				{
+					"verse": "Todos los santos os saludan, y especialmente los de la casa de César.",
+					"number": 22,
+					"id": "dc93882f-66f7-4802-b996-2e9f8cc57d9c"
+				},
+				{
+					"verse": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén.",
+					"number": 23,
+					"id": "c8f08d4f-5c72-40d6-8863-600859e3fa02"
+				}
+			]
+		}
+	],
+	"book_id": "c0622700-3376-47a8-beaa-ff84f0b4d454"
+}

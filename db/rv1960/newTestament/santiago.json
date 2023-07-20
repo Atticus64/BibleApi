@@ -1,0 +1,585 @@
+{
+	"name": "Santiago",
+	"num_chapters": 5,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Santiago, siervo de Dios y del Señor Jesucristo, a las doce tribus que están en la dispersión: Salud.",
+					"number": 1,
+					"study": "Salutación",
+					"id": "35963a97-bfc4-4f2a-944d-b4103c203c2e"
+				},
+				{
+					"verse": "Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas,",
+					"number": 2,
+					"study": "La sabiduría que viene de Dios",
+					"id": "374bab36-3f81-49b1-97fa-d1af32231967"
+				},
+				{
+					"verse": "sabiendo que la prueba de vuestra fe produce paciencia.",
+					"number": 3,
+					"id": "26deceb6-0e9c-471a-a3bc-6f796abe6d2b"
+				},
+				{
+					"verse": "Mas tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.",
+					"number": 4,
+					"id": "50ed1e3d-e68b-4043-9efa-2ce24539d9de"
+				},
+				{
+					"verse": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.",
+					"number": 5,
+					"id": "341ee699-2bfc-4acf-b5f1-e8c5e44e66b8"
+				},
+				{
+					"verse": "Pero pida con fe, no dudando nada; porque el que duda es semejante a la onda del mar, que es arrastrada por el viento y echada de una parte a otra.",
+					"number": 6,
+					"id": "eeb8e2c6-c57a-4e70-8094-ae5d7ad0ecea"
+				},
+				{
+					"verse": "No piense, pues, quien tal haga, que recibirá cosa alguna del Señor.",
+					"number": 7,
+					"id": "0a6b3bae-a00b-4846-aa7f-5078f0a67175"
+				},
+				{
+					"verse": "El hombre de doble ánimo es inconstante en todos sus caminos.",
+					"number": 8,
+					"id": "f9dffed8-a00b-4c99-a0cb-68beab2a5d5f"
+				},
+				{
+					"verse": "El hermano que es de humilde condición, gloríese en su exaltación;",
+					"number": 9,
+					"id": "3ce586fe-19e1-458f-85ef-7926cb5dd2d0"
+				},
+				{
+					"verse": "pero el que es rico, en su humillación; porque él pasará como la flor de la hierba.",
+					"number": 10,
+					"id": "ac225b83-68b4-4d30-b43d-934016ac9f62"
+				},
+				{
+					"verse": "Porque cuando sale el sol con calor abrasador, la hierba se seca, su flor se cae, y perece su hermosa apariencia; así también se marchitará el rico en todas sus empresas.",
+					"number": 11,
+					"id": "9d17b878-1cc8-4655-98ae-e034009e5ed3"
+				},
+				{
+					"verse": "Bienaventurado el varón que soporta la tentación; porque cuando haya resistido la prueba, recibirá la corona de vida, que Dios ha prometido a los que le aman.",
+					"number": 12,
+					"study": "Soportando las pruebas",
+					"id": "0bfd8a96-9a22-4c90-85a4-22b9a4af6b56"
+				},
+				{
+					"verse": "Cuando alguno es tentado, no diga que es tentado de parte de Dios; porque Dios no puede ser tentado por el mal, ni él tienta a nadie;",
+					"number": 13,
+					"id": "78ac0f04-4d6d-4f7c-955a-033afd174edd"
+				},
+				{
+					"verse": "sino que cada uno es tentado, cuando de su propia concupiscencia es atraído y seducido.",
+					"number": 14,
+					"id": "093bf77d-6e43-40c9-9e14-83d396d5afae"
+				},
+				{
+					"verse": "Entonces la concupiscencia, después que ha concebido, da a luz el pecado; y el pecado, siendo consumado, da a luz la muerte.",
+					"number": 15,
+					"id": "b3b5f6cf-599b-42a4-b49b-710256ea66ef"
+				},
+				{
+					"verse": "Amados hermanos míos, no erréis.",
+					"number": 16,
+					"id": "8ddcc1a2-2c48-4ecb-b311-b990862bb347"
+				},
+				{
+					"verse": "Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.",
+					"number": 17,
+					"id": "d18b0542-1762-4024-9b81-822b324aecca"
+				},
+				{
+					"verse": "El, de su voluntad, nos hizo nacer por la palabra de verdad, para que seamos primicias de sus criaturas.",
+					"number": 18,
+					"id": "a6d94d84-4684-47e4-bbd6-a074528d1c08"
+				},
+				{
+					"verse": "Por esto, mis amados hermanos, todo hombre sea pronto para oír, tardo para hablar, tardo para airarse;",
+					"number": 19,
+					"study": "Hacedores de la palabra",
+					"id": "b66e0147-f37e-4b6e-bcb5-5e18f1fdb936"
+				},
+				{
+					"verse": "porque la ira del hombre no obra la justicia de Dios.",
+					"number": 20,
+					"id": "3cee48b3-d1df-4d83-b112-cec200dd6467"
+				},
+				{
+					"verse": "Por lo cual, desechando toda inmundicia y abundancia de malicia, recibid con mansedumbre la palabra implantada, la cual puede salvar vuestras almas.",
+					"number": 21,
+					"id": "facef003-6e35-4889-9e28-fa59f6faa666"
+				},
+				{
+					"verse": "Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+					"number": 22,
+					"id": "c5640b66-2d5d-4389-b569-3599041e933f"
+				},
+				{
+					"verse": "Porque si alguno es oidor de la palabra pero no hacedor de ella, éste es semejante al hombre que considera en un espejo su rostro natural.",
+					"number": 23,
+					"id": "590c84fe-2440-4253-8c83-f0b035db4005"
+				},
+				{
+					"verse": "Porque él se considera a sí mismo, y se va, y luego olvida cómo era.",
+					"number": 24,
+					"id": "5d2f6b78-830b-43d6-a326-4673d5c748f1"
+				},
+				{
+					"verse": "Mas el que mira atentamente en la perfecta ley, la de la libertad, y persevera en ella, no siendo oidor olvidadizo, sino hacedor de la obra, éste será bienaventurado en lo que hace.",
+					"number": 25,
+					"id": "364a9a50-83d8-45f8-937a-89534b8da4f1"
+				},
+				{
+					"verse": "Si alguno se cree religioso entre vosotros, y no refrena su lengua, sino que engaña su corazón, la religión del tal es vana.",
+					"number": 26,
+					"id": "a1b8fe74-e40c-4e7e-b675-4104db8319db"
+				},
+				{
+					"verse": "La religión pura y sin mácula delante de Dios el Padre es esta: Visitar a los huérfanos y a las viudas en sus tribulaciones, y guardarse sin mancha del mundo.",
+					"number": 27,
+					"id": "59cefc86-a597-4e41-a0e5-b0a1512bb241"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Hermanos míos, que vuestra fe en nuestro glorioso Señor Jesucristo sea sin acepción de personas.",
+					"number": 1,
+					"study": "Amonestación contra la parcialidad",
+					"id": "db0e32b3-0748-4102-a3b2-7ba799a8bb70"
+				},
+				{
+					"verse": "Porque si en vuestra congregación entra un hombre con anillo de oro y con ropa espléndida, y también entra un pobre con vestido andrajoso,",
+					"number": 2,
+					"id": "146d7c1b-d110-4fa2-9319-2419f2dfa6a0"
+				},
+				{
+					"verse": "y miráis con agrado al que trae la ropa espléndida y le decís: Siéntate tú aquí en buen lugar; y decís al pobre: Estate tú allí en pie, o siéntate aquí bajo mi estrado;",
+					"number": 3,
+					"id": "8a57bb2b-4c25-45f5-a355-8b7fba72a5d8"
+				},
+				{
+					"verse": "¿no hacéis distinciones entre vosotros mismos, y venís a ser jueces con malos pensamientos?",
+					"number": 4,
+					"id": "6449b228-d2e0-4365-a3ba-2b2545da3031"
+				},
+				{
+					"verse": "Hermanos míos amados, oíd: ¿No ha elegido Dios a los pobres de este mundo, para que sean ricos en fe y herederos del reino que ha prometido a los que le aman?",
+					"number": 5,
+					"id": "feda82f7-699d-482b-b16f-2200c59ca107"
+				},
+				{
+					"verse": "Pero vosotros habéis afrentado al pobre. ¿No os oprimen los ricos, y no son ellos los mismos que os arrastran a los tribunales?",
+					"number": 6,
+					"id": "d4a80964-3e30-4b61-92df-945594813522"
+				},
+				{
+					"verse": "¿No blasfeman ellos el buen nombre que fue invocado sobre vosotros?",
+					"number": 7,
+					"id": "21c68054-0132-4d43-8c19-3b8a86d11cdf"
+				},
+				{
+					"verse": "Si en verdad cumplís la ley real, conforme a la Escritura: Amarás a tu prójimo como a ti mismo, bien hacéis;",
+					"number": 8,
+					"id": "837d7838-9797-4e21-b5a6-9f92a66d8991"
+				},
+				{
+					"verse": "pero si hacéis acepción de personas, cometéis pecado, y quedáis convictos por la ley como transgresores.",
+					"number": 9,
+					"id": "4150c162-2792-4783-86bb-b437a4b240ca"
+				},
+				{
+					"verse": "Porque cualquiera que guardare toda la ley, pero ofendiere en un punto, se hace culpable de todos.",
+					"number": 10,
+					"id": "cc3fd360-a3a7-4122-8e9d-17fc79bb7f3b"
+				},
+				{
+					"verse": "Porque el que dijo: No cometerás adulterio, también ha dicho: No matarás. Ahora bien, si no cometes adulterio, pero matas, ya te has hecho transgresor de la ley.",
+					"number": 11,
+					"id": "9b9fb4c2-259e-4c4d-9656-4364cc06b0bf"
+				},
+				{
+					"verse": "Así hablad, y así haced, como los que habéis de ser juzgados por la ley de la libertad.",
+					"number": 12,
+					"id": "4c814f67-d03e-4eb9-af6c-28908186c5cc"
+				},
+				{
+					"verse": "Porque juicio sin misericordia se hará con aquel que no hiciere misericordia; y la misericordia triunfa sobre el juicio.",
+					"number": 13,
+					"id": "5dc097c2-d6b2-49ef-a415-12f571c8dd1c"
+				},
+				{
+					"verse": "Hermanos míos, ¿de qué aprovechará si alguno dice que tiene fe, y no tiene obras? ¿Podrá la fe salvarle?",
+					"number": 14,
+					"study": "La fe sin obras es muerta",
+					"id": "dac8dd68-35c4-487b-8a6f-51ccae1c8532"
+				},
+				{
+					"verse": "Y si un hermano o una hermana están desnudos, y tienen necesidad del mantenimiento de cada día,",
+					"number": 15,
+					"id": "a690c915-c1fd-419d-819f-5f76ecc84e80"
+				},
+				{
+					"verse": "y alguno de vosotros les dice: Id en paz, calentaos y saciaos, pero no les dais las cosas que son necesarias para el cuerpo, ¿de qué aprovecha?",
+					"number": 16,
+					"id": "49f30d25-7855-4457-9511-3a44250e1271"
+				},
+				{
+					"verse": "Así también la fe, si no tiene obras, es muerta en sí misma.",
+					"number": 17,
+					"id": "2ae4b379-30c7-46a9-a221-37700dbfbf2c"
+				},
+				{
+					"verse": "Pero alguno dirá: Tú tienes fe, y yo tengo obras. Muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras.",
+					"number": 18,
+					"id": "23ee0fcb-57d3-4582-a3a1-d878ceb0cb3d"
+				},
+				{
+					"verse": "Tú crees que Dios es uno; bien haces. También los demonios creen, y tiemblan.",
+					"number": 19,
+					"id": "d7fa68b0-9042-4baf-b7ff-35a11e1782ae"
+				},
+				{
+					"verse": "¿Mas quieres saber, hombre vano, que la fe sin obras es muerta?",
+					"number": 20,
+					"id": "c774f667-e6f1-4a7d-abd2-7e2825973472"
+				},
+				{
+					"verse": "¿No fue justificado por las obras Abraham nuestro padre, cuando ofreció a su hijo Isaac sobre el altar?",
+					"number": 21,
+					"id": "cd4d0b81-de16-4a3e-ae52-ec28a56506bd"
+				},
+				{
+					"verse": "¿No ves que la fe actuó juntamente con sus obras, y que la fe se perfeccionó por las obras?",
+					"number": 22,
+					"id": "d35cde9e-f585-447a-9fa4-97031572accb"
+				},
+				{
+					"verse": "Y se cumplió la Escritura que dice: Abraham creyó a Dios, y le fue contado por justicia, y fue llamado amigo de Dios.",
+					"number": 23,
+					"id": "c2e33391-f1b6-494d-9406-60855945574b"
+				},
+				{
+					"verse": "Vosotros veis, pues, que el hombre es justificado por las obras, y no solamente por la fe.",
+					"number": 24,
+					"id": "1fda792e-7e24-4a21-99c3-e8e844b4bc46"
+				},
+				{
+					"verse": "Asimismo también Rahab la ramera, ¿no fue justificada por obras, cuando recibió a los mensajeros y los envió por otro camino?",
+					"number": 25,
+					"id": "4a9decce-66b5-4407-a619-9f2d7aafb16e"
+				},
+				{
+					"verse": "Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras está muerta.",
+					"number": 26,
+					"id": "540c6b11-fab4-4cef-9f46-49e1ec7668b2"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Hermanos míos, no os hagáis maestros muchos de vosotros, sabiendo que recibiremos mayor condenación.",
+					"number": 1,
+					"study": "La lengua",
+					"id": "61d62de4-661f-4444-b933-edc0b2bb13bf"
+				},
+				{
+					"verse": "Porque todos ofendemos muchas veces. Si alguno no ofende en palabra, éste es varón perfecto, capaz también de refrenar todo el cuerpo.",
+					"number": 2,
+					"id": "66dd2f41-6369-4a14-9337-22a310a76dc6"
+				},
+				{
+					"verse": "He aquí nosotros ponemos freno en la boca de los caballos para que nos obedezcan, y dirigimos así todo su cuerpo.",
+					"number": 3,
+					"id": "56b6b2a8-9706-4e56-b1e4-5b192d8d25cf"
+				},
+				{
+					"verse": "Mirad también las naves; aunque tan grandes, y llevadas de impetuosos vientos, son gobernadas con un muy pequeño timón por donde el que las gobierna quiere.",
+					"number": 4,
+					"id": "5e3514dc-7b66-4236-9061-9cab30b65581"
+				},
+				{
+					"verse": "Así también la lengua es un miembro pequeño, pero se jacta de grandes cosas. He aquí, ¡cuán grande bosque enciende un pequeño fuego!",
+					"number": 5,
+					"id": "5dc0038b-4d45-4093-ac33-7b58842ff206"
+				},
+				{
+					"verse": "Y la lengua es un fuego, un mundo de maldad. La lengua está puesta entre nuestros miembros, y contamina todo el cuerpo, e inflama la rueda de la creación, y ella misma es inflamada por el infierno.",
+					"number": 6,
+					"id": "e36cbbe3-e893-4b53-ad75-06f4ba9199d8"
+				},
+				{
+					"verse": "Porque toda naturaleza de bestias, y de aves, y de serpientes, y de seres del mar, se doma y ha sido domada por la naturaleza humana;",
+					"number": 7,
+					"id": "827ba6bf-5bfa-404a-9a56-fac928023136"
+				},
+				{
+					"verse": "pero ningún hombre puede domar la lengua, que es un mal que no puede ser refrenado, llena de veneno mortal.",
+					"number": 8,
+					"id": "f8f8a4d9-9f79-419b-a14d-df0c7db0d83f"
+				},
+				{
+					"verse": "Con ella bendecimos al Dios y Padre, y con ella maldecimos a los hombres, que están hechos a la semejanza de Dios.",
+					"number": 9,
+					"id": "2ab4b259-d74e-4124-8ec3-001cd33adbd2"
+				},
+				{
+					"verse": "De una misma boca proceden bendición y maldición. Hermanos míos, esto no debe ser así.",
+					"number": 10,
+					"id": "81669d85-7bc9-43d2-bb9f-db520fb1340c"
+				},
+				{
+					"verse": "¿Acaso alguna fuente echa por una misma abertura agua dulce y amarga?",
+					"number": 11,
+					"id": "e1d8775a-77a1-4f6d-8af9-533982fb54bd"
+				},
+				{
+					"verse": "Hermanos míos, ¿puede acaso la higuera producir aceitunas, o la vid higos? Así también ninguna fuente puede dar agua salada y dulce.",
+					"number": 12,
+					"id": "f967a912-801a-4ae1-980e-cc9c70e3a857"
+				},
+				{
+					"verse": "¿Quién es sabio y entendido entre vosotros? Muestre por la buena conducta sus obras en sabia mansedumbre.",
+					"number": 13,
+					"study": "La sabiduría de lo alto",
+					"id": "b2c24cab-decb-4dd0-a5f5-90742261712a"
+				},
+				{
+					"verse": "Pero si tenéis celos amargos y contención en vuestro corazón, no os jactéis, ni mintáis contra la verdad;",
+					"number": 14,
+					"id": "f352321f-6ff9-4dc9-b2db-2e4154a713d3"
+				},
+				{
+					"verse": "porque esta sabiduría no es la que desciende de lo alto, sino terrenal, animal, diabólica.",
+					"number": 15,
+					"id": "4957ed56-52c5-45b6-82f4-655876927d8d"
+				},
+				{
+					"verse": "Porque donde hay celos y contención, allí hay perturbación y toda obra perversa.",
+					"number": 16,
+					"id": "b8ba2581-86f4-4740-a4d9-85dbe26532dd"
+				},
+				{
+					"verse": "Pero la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía.",
+					"number": 17,
+					"id": "78a156d9-6d38-4d55-8750-1d8a6bdec553"
+				},
+				{
+					"verse": "Y el fruto de justicia se siembra en paz para aquellos que hacen la paz.",
+					"number": 18,
+					"id": "b94f4ddc-31d0-4958-b0d5-9a27e7ed21df"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "¿De dónde vienen las guerras y los pleitos entre vosotros? ¿No es de vuestras pasiones, las cuales combaten en vuestros miembros?",
+					"number": 1,
+					"study": "La amistad con el mundo",
+					"id": "2fbdb861-4cbd-44b4-8be1-dbe35ed4eded"
+				},
+				{
+					"verse": "Codiciáis, y no tenéis; matáis y ardéis de envidia, y no podéis alcanzar; combatís y lucháis, pero no tenéis lo que deseáis, porque no pedís.",
+					"number": 2,
+					"id": "3f04ed5d-fb6b-4abb-9938-7133144878b7"
+				},
+				{
+					"verse": "Pedís, y no recibís, porque pedís mal, para gastar en vuestros deleites.",
+					"number": 3,
+					"id": "627bdc72-4bc4-4676-a9a2-2347ea940d0f"
+				},
+				{
+					"verse": "¡Oh almas adúlteras! ¿No sabéis que la amistad del mundo es enemistad contra Dios? Cualquiera, pues, que quiera ser amigo del mundo, se constituye enemigo de Dios.",
+					"number": 4,
+					"id": "9b0c8595-3c98-47d2-ab10-78e6d810d701"
+				},
+				{
+					"verse": "¿O pensáis que la Escritura dice en vano: El Espíritu que él ha hecho morar en nosotros nos anhela celosamente?",
+					"number": 5,
+					"id": "32f01ee0-515f-49b1-b122-d1baccca9502"
+				},
+				{
+					"verse": "Pero él da mayor gracia. Por esto dice: Dios resiste a los soberbios, y da gracia a los humildes.",
+					"number": 6,
+					"id": "d76942ee-8b6f-40cb-ad11-d36af62bf179"
+				},
+				{
+					"verse": "Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros.",
+					"number": 7,
+					"id": "3d3237cf-913b-4cbd-b615-9d8b81e641fc"
+				},
+				{
+					"verse": "Acercaos a Dios, y él se acercará a vosotros. Pecadores, limpiad las manos; y vosotros los de doble ánimo, purificad vuestros corazones.",
+					"number": 8,
+					"id": "5080e516-f925-49e5-98f3-5b728a08a9b7"
+				},
+				{
+					"verse": "Afligíos, y lamentad, y llorad. Vuestra risa se convierta en lloro, y vuestro gozo en tristeza.",
+					"number": 9,
+					"id": "40beeea3-56f4-41a8-ace5-68854926c4d2"
+				},
+				{
+					"verse": "Humillaos delante del Señor, y él os exaltará.",
+					"number": 10,
+					"id": "9dd60007-4078-485c-8c84-5b5decfb7e75"
+				},
+				{
+					"verse": "Hermanos, no murmuréis los unos de los otros. El que murmura del hermano y juzga a su hermano, murmura de la ley y juzga a la ley; pero si tú juzgas a la ley, no eres hacedor de la ley, sino juez.",
+					"number": 11,
+					"study": "Juzgando al hermano",
+					"id": "1fec1a8f-a696-4e08-b617-a7415baa3d1c"
+				},
+				{
+					"verse": "Uno solo es el dador de la ley, que puede salvar y perder; pero tú, ¿quién eres para que juzgues a otro?",
+					"number": 12,
+					"id": "7b0511f5-619e-48ab-aa82-78a4a9a9430c"
+				},
+				{
+					"verse": "¡Vamos ahora! los que decís: Hoy y mañana iremos a tal ciudad, y estaremos allá un año, y traficaremos, y ganaremos;",
+					"number": 13,
+					"study": "No os gloriéis del día de mañana",
+					"id": "3ce3c187-c8f9-45a9-b4bf-45a722f1659e"
+				},
+				{
+					"verse": "cuando no sabéis lo que será mañana. Porque ¿qué es vuestra vida? Ciertamente es neblina que se aparece por un poco de tiempo, y luego se desvanece.",
+					"number": 14,
+					"id": "db0039cd-1143-44e0-80e7-29d57791367d"
+				},
+				{
+					"verse": "En lugar de lo cual deberíais decir: Si el Señor quiere, viviremos y haremos esto o aquello.",
+					"number": 15,
+					"id": "40be3b54-5ef9-4180-b0da-1f96eaaebaf5"
+				},
+				{
+					"verse": "Pero ahora os jactáis en vuestras soberbias. Toda jactancia semejante es mala;",
+					"number": 16,
+					"id": "c248c935-53fc-45a4-8e32-dfc308e81e61"
+				},
+				{
+					"verse": "y al que sabe hacer lo bueno, y no lo hace, le es pecado.",
+					"number": 17,
+					"id": "006d8784-3933-4ffa-bd7f-921e391b76fe"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "¡Vamos ahora, ricos! Llorad y aullad por las miserias que os vendrán.",
+					"number": 1,
+					"study": "Contra los ricos opresores",
+					"id": "47130004-def3-4308-b7fc-35237e09b0ab"
+				},
+				{
+					"verse": "Vuestras riquezas están podridas, y vuestras ropas están comidas de polilla.",
+					"number": 2,
+					"id": "86b8cfde-e3d3-4699-9b8d-e38b5fc7871c"
+				},
+				{
+					"verse": "Vuestro oro y plata están enmohecidos; y su moho testificará contra vosotros, y devorará del todo vuestras carnes como fuego. Habéis acumulado tesoros para los días postreros.",
+					"number": 3,
+					"id": "eb9d3d18-af5d-459d-adfe-a7619fb7e408"
+				},
+				{
+					"verse": "He aquí, clama el jornal de los obreros que han cosechado vuestras tierras, el cual por engaño no les ha sido pagado por vosotros; y los clamores de los que habían segado han entrado en los oídos del Señor de los ejércitos.",
+					"number": 4,
+					"id": "2a00f3d5-347e-415f-98bb-2d42b22f4081"
+				},
+				{
+					"verse": "Habéis vivido en deleites sobre la tierra, y sido disolutos; habéis engordado vuestros corazones como en día de matanza.",
+					"number": 5,
+					"id": "b60bcf5e-66d3-4468-8978-b174de9ba9b4"
+				},
+				{
+					"verse": "Habéis condenado y dado muerte al justo, y él no os hace resistencia.",
+					"number": 6,
+					"id": "8a79181f-c3b0-4eb8-b884-91c827057bb5"
+				},
+				{
+					"verse": "Por tanto, hermanos, tened paciencia hasta la venida del Señor. Mirad cómo el labrador espera el precioso fruto de la tierra, aguardando con paciencia hasta que reciba la lluvia temprana y la tardía.",
+					"number": 7,
+					"study": "Sed pacientes y orad",
+					"id": "91787b04-94ab-4737-8cec-7d898ca3dd85"
+				},
+				{
+					"verse": "Tened también vosotros paciencia, y afirmad vuestros corazones; porque la venida del Señor se acerca.",
+					"number": 8,
+					"id": "28adc934-109a-4f15-ab41-fec9c1520212"
+				},
+				{
+					"verse": "Hermanos, no os quejéis unos contra otros, para que no seáis condenados; he aquí, el juez está delante de la puerta.",
+					"number": 9,
+					"id": "2cef51b9-2dde-4cae-99a0-3860e1c3853f"
+				},
+				{
+					"verse": "Hermanos míos, tomad como ejemplo de aflicción y de paciencia a los profetas que hablaron en nombre del Señor.",
+					"number": 10,
+					"id": "8c6ba573-8078-4a95-9c6a-e26f82ab42ff"
+				},
+				{
+					"verse": "He aquí, tenemos por bienaventurados a los que sufren. Habéis oído de la paciencia de Job, y habéis visto el fin del Señor, que el Señor es muy misericordioso y compasivo.",
+					"number": 11,
+					"id": "496a04b0-9f3d-4df0-833a-23c097970d9e"
+				},
+				{
+					"verse": "Pero sobre todo, hermanos míos, no juréis, ni por el cielo, ni por la tierra, ni por ningún otro juramento; sino que vuestro sí sea sí, y vuestro no sea no, para que no caigáis en condenación.",
+					"number": 12,
+					"id": "faea2bac-0ba3-4382-997c-801528c19017"
+				},
+				{
+					"verse": "¿Está alguno entre vosotros afligido? Haga oración. ¿Está alguno alegre? Cante alabanzas.",
+					"number": 13,
+					"id": "260f55bb-bd79-4825-a529-b1c1c7d619a8"
+				},
+				{
+					"verse": "¿Está alguno enfermo entre vosotros? Llame a los ancianos de la iglesia, y oren por él, ungiéndole con aceite en el nombre del Señor.",
+					"number": 14,
+					"id": "c056d8cf-c63a-430e-8e43-1f2df0199cbe"
+				},
+				{
+					"verse": "Y la oración de fe salvará al enfermo, y el Señor lo levantará; y si hubiere cometido pecados, le serán perdonados.",
+					"number": 15,
+					"id": "f9a320a1-5c69-48db-90be-dd06d0ad6eb2"
+				},
+				{
+					"verse": "Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede mucho.",
+					"number": 16,
+					"id": "aafda120-28e9-447c-bf91-3b885dfe94b8"
+				},
+				{
+					"verse": "Elías era hombre sujeto a pasiones semejantes a las nuestras, y oró fervientemente para que no lloviese, y no llovió sobre la tierra por tres años y seis meses.",
+					"number": 17,
+					"id": "509c8240-3b95-4d56-ae58-f873c378fd80"
+				},
+				{
+					"verse": "Y otra vez oró, y el cielo dio lluvia, y la tierra produjo su fruto.",
+					"number": 18,
+					"id": "4f1d8ee5-aa8c-4722-af2d-6e812e723893"
+				},
+				{
+					"verse": "Hermanos, si alguno de entre vosotros se ha extraviado de la verdad, y alguno le hace volver,",
+					"number": 19,
+					"id": "2a3eac6f-2b54-4bc8-af87-7e627bcd6cbd"
+				},
+				{
+					"verse": "sepa que el que haga volver al pecador del error de su camino, salvará de muerte un alma, y cubrirá multitud de pecados.",
+					"number": 20,
+					"id": "eb90cf88-c6a7-474e-93c2-f3f25072c6ef"
+				}
+			]
+		}
+	],
+	"book_id": "5eb7a806-dd28-4f22-8ab5-3430f7c8e58c"
+}

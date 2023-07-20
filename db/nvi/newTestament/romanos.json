@@ -1,0 +1,2281 @@
+{
+	"name": "Romanos",
+	"num_chapters": 16,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo,  siervo de Cristo Jesús,  llamado a ser apóstol,  apartado para anunciar el evangelio de Dios,",
+					"number": 1,
+					"study": "Salutación",
+					"id": "bea077a6-74ab-466e-bd2d-137e9e644e1c"
+				},
+				{
+					"verse": "que por medio de sus profetas ya había prometido en las sagradas Escrituras.",
+					"number": 2,
+					"id": "b198a036-56b7-49fe-9993-554e61fcb220"
+				},
+				{
+					"verse": "Este evangelio habla de su Hijo,  que según la naturaleza humana descendía de David,",
+					"number": 3,
+					"id": "197ed185-0636-49fe-bf3f-929028342126"
+				},
+				{
+					"verse": "pero que según el Espíritu de santidad fue designado con poder Hijo de Dios* por la resurrección.  Él es Jesucristo nuestro Señor.",
+					"number": 4,
+					"id": "734e38e9-c7ba-4c61-83a9-34b35d9e0833"
+				},
+				{
+					"verse": "Por medio de él,  y en honor a su nombre,  recibimos el don apostólico para persuadir a todas las naciones que obedezcan a la fe.*",
+					"number": 5,
+					"id": "5712131c-eae0-4966-aca5-d28b0526fc55"
+				},
+				{
+					"verse": "Entre ellas están incluidos también ustedes,  a quienes Jesucristo ha llamado.",
+					"number": 6,
+					"id": "51f2053c-7b74-4b49-bb9a-1c8be0fe4ae7"
+				},
+				{
+					"verse": "Les escribo a todos ustedes,  los amados de Dios que están en Roma,  que han sido llamados a ser santos.  Que Dios nuestro Padre y el Señor Jesucristo les concedan gracia y paz.",
+					"number": 7,
+					"id": "5309c938-5c9d-4277-93a5-68a7e84efd46"
+				},
+				{
+					"verse": "Ante todo,  por medio de Jesucristo doy gracias a mi Dios por todos ustedes,  pues en todo el mundo se habla bien de su fe.",
+					"number": 8,
+					"study": "Deseo de Pablo de visitar Roma",
+					"id": "d7de411c-6597-4b0b-9456-38d239297f71"
+				},
+				{
+					"verse": "Dios,  a quien sirvo de todo corazón predicando el evangelio de su Hijo,  me es testigo de que los recuerdo a ustedes sin cesar.",
+					"number": 9,
+					"id": "78730087-1260-4f3c-9985-948d015d573f"
+				},
+				{
+					"verse": "Siempre pido en mis oraciones que,  si es la voluntad de Dios,  por fin se me abra ahora el camino para ir a visitarlos.",
+					"number": 10,
+					"id": "933b0585-e454-4812-b071-6321470e7897"
+				},
+				{
+					"verse": "Tengo muchos deseos de verlos para impartirles algún don espiritual que los fortalezca;",
+					"number": 11,
+					"id": "1e7988d1-9f88-40d0-ac3e-e4e75044e073"
+				},
+				{
+					"verse": "mejor dicho,  para que unos a otros nos animemos con la fe que compartimos.",
+					"number": 12,
+					"id": "33dd08d5-6c64-4009-be18-b2b21af89384"
+				},
+				{
+					"verse": "Quiero que sepan,  hermanos,  que aunque hasta ahora no he podido visitarlos,  muchas veces me he propuesto hacerlo,  para recoger algún fruto entre ustedes,  tal como lo he recogido entre las otras naciones.",
+					"number": 13,
+					"id": "63630732-0874-404d-b8ae-9ac4184466d4"
+				},
+				{
+					"verse": "Estoy en deuda con todos,  sean cultos o incultos,* instruidos o ignorantes.",
+					"number": 14,
+					"id": "2a49f839-9054-4393-b998-0e070d321e25"
+				},
+				{
+					"verse": "De allí mi gran anhelo de predicarles el evangelio también a ustedes que están en Roma.",
+					"number": 15,
+					"id": "19fdfaa7-892f-47b5-a579-119430fbfb05"
+				},
+				{
+					"verse": "A la verdad,  no me avergüenzo del evangelio,  pues es poder de Dios para la salvación de todos los que creen:  de los judíos primeramente,  pero también de los gentiles.",
+					"number": 16,
+					"study": "El poder del evangelio",
+					"id": "35d2de7d-94be-46ed-8e23-e4ac74d026d3"
+				},
+				{
+					"verse": "De hecho,  en el evangelio se revela la justicia que proviene de Dios,  la cual es por fe de principio a fin,* tal como está escrito:  \"El justo vivirá por la fe.\"*",
+					"number": 17,
+					"id": "9bb67481-7219-468e-8680-bf90eedb553a"
+				},
+				{
+					"verse": "Ciertamente,  la ira de Dios viene revelándose desde el cielo contra toda impiedad e injusticia de los seres humanos,  que con su maldad obstruyen la verdad.",
+					"number": 18,
+					"study": "La culpabilidad del hombre",
+					"id": "4feabfe6-843e-438f-88e4-d677153aeef5"
+				},
+				{
+					"verse": "Me explico:  lo que se puede conocer acerca de Dios es evidente para ellos,  pues él mismo se lo ha revelado.",
+					"number": 19,
+					"id": "f28b0cbf-17fd-4db0-8a0e-2480d8c7a741"
+				},
+				{
+					"verse": "Porque desde la creación del mundo las cualidades invisibles de Dios,  es decir,  su eterno poder y su naturaleza divina,  se perciben claramente a través de lo que él creó,  de modo que nadie tiene excusa.",
+					"number": 20,
+					"id": "1cd52737-0b51-4737-85ae-1c6c0f6eed5a"
+				},
+				{
+					"verse": "A pesar de haber conocido a Dios,  no lo glorificaron como a Dios ni le dieron gracias,  sino que se extraviaron en sus inútiles razonamientos,  y se les oscureció su insensato corazón.",
+					"number": 21,
+					"id": "f26d4764-2f6b-44b0-9680-24b9e91e77bb"
+				},
+				{
+					"verse": "Aunque afirmaban ser sabios,  se volvieron necios",
+					"number": 22,
+					"id": "b4d8f503-a90e-4277-a95e-be2b25fb5604"
+				},
+				{
+					"verse": "y cambiaron la gloria del Dios inmortal por imágenes que eran réplicas del hombre mortal,  de las aves,  de los cuadrúpedos y de los reptiles.",
+					"number": 23,
+					"id": "7dfde00c-34ac-4226-b4c5-b1d9ffb9167f"
+				},
+				{
+					"verse": "Por eso Dios los entregó a los malos deseos de sus corazones,  que conducen a la impureza sexual,  de modo que degradaron sus cuerpos los unos con los otros.",
+					"number": 24,
+					"id": "eabbac00-332c-49dd-9cfa-adc3a9b3211a"
+				},
+				{
+					"verse": "Cambiaron la verdad de Dios por la mentira,  adorando y sirviendo a los seres creados antes que al Creador,  quien es bendito por siempre.  Amén.",
+					"number": 25,
+					"id": "81ba92fd-1199-4c40-b3ce-2579720d40f3"
+				},
+				{
+					"verse": "Por tanto,  Dios los entregó a pasiones vergonzosas.  En efecto,  las mujeres cambiaron las relaciones naturales por las que van contra la naturaleza.",
+					"number": 26,
+					"id": "2a4e2b0b-dd6c-4ace-beb3-6fb01f122e12"
+				},
+				{
+					"verse": "Así mismo los hombres dejaron las relaciones naturales con la mujer y se encendieron en pasiones lujuriosas los unos con los otros.  Hombres con hombres cometieron actos indecentes,  y en sí mismos recibieron el castigo que merecía su perversión.",
+					"number": 27,
+					"id": "0997e678-192d-47c1-8551-cf9ebc6436e6"
+				},
+				{
+					"verse": "Además,  como estimaron que no valía la pena tomar en cuenta el conocimiento de Dios,  él a su vez los entregó a la depravación mental,  para que hicieran lo que no debían hacer.",
+					"number": 28,
+					"id": "75d2fab0-69d3-4736-b725-28c985138119"
+				},
+				{
+					"verse": "Se han llenado de toda clase de maldad,  perversidad,  avaricia y depravación.  Están repletos de envidia,  homicidios,  disensiones,  engaño y malicia.  Son chismosos,",
+					"number": 29,
+					"id": "dfae96e1-a92a-4548-b005-0df503440dfe"
+				},
+				{
+					"verse": "calumniadores,  enemigos de Dios,  insolentes,  soberbios y arrogantes;  se ingenian maldades;  se rebelan contra sus padres;",
+					"number": 30,
+					"id": "9955ddef-b85d-430a-b85b-73c4affcbe50"
+				},
+				{
+					"verse": "son insensatos,  desleales,  insensibles,  despiadados.",
+					"number": 31,
+					"id": "c65fa4f0-ccf4-490e-9c3c-12894912861e"
+				},
+				{
+					"verse": "Saben bien que,  según el justo decreto de Dios,  quienes practican tales cosas merecen la muerte;  sin embargo,  no sólo siguen practicándolas sino que incluso aprueban a quienes las practican.",
+					"number": 32,
+					"id": "4ad34a40-6acb-4623-ae1d-3dc0c34a6359"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Por tanto,  no tienes excusa tú,  quienquiera que seas,  cuando juzgas a los demás,  pues al juzgar a otros te condenas a ti mismo,  ya que practicas las mismas cosas.",
+					"number": 1,
+					"study": "El justo juicio de Dios",
+					"id": "40850c8b-d4f8-451b-90b1-b17743126dde"
+				},
+				{
+					"verse": "Ahora bien,  sabemos que el juicio de Dios contra los que practican tales cosas se basa en la verdad.",
+					"number": 2,
+					"id": "01f93416-52b6-4656-81fd-20b62532840e"
+				},
+				{
+					"verse": "¿Piensas entonces que vas a escapar del juicio de Dios,  tú que juzgas a otros y sin embargo haces lo mismo que ellos?",
+					"number": 3,
+					"id": "c6599c09-3a7e-4918-9771-45139eada892"
+				},
+				{
+					"verse": "¿No ves que desprecias las riquezas de la bondad de Dios,  de su tolerancia y de su paciencia,  al no reconocer que su bondad quiere llevarte al arrepentimiento?",
+					"number": 4,
+					"id": "b21c9e8f-f8aa-497c-b92b-4a09fd9f3e1c"
+				},
+				{
+					"verse": "Pero por tu obstinación y por tu corazón empedernido sigues acumulando castigo contra ti mismo para el día de la ira,  cuando Dios revelará su justo juicio.",
+					"number": 5,
+					"id": "5e005dd7-bfcc-4b19-85c9-c0acd34b514c"
+				},
+				{
+					"verse": "Porque Dios  \"pagará a cada uno según lo que haya hecho\".*",
+					"number": 6,
+					"id": "97cd2946-b50a-42c6-8491-7854304ba3d4"
+				},
+				{
+					"verse": "Él dará vida eterna a los que,  perseverando en las buenas obras,  buscan gloria,  honor e inmortalidad.",
+					"number": 7,
+					"id": "527e2b87-259d-4cf2-b155-193d5dfff436"
+				},
+				{
+					"verse": "Pero los que por egoísmo rechazan la verdad para aferrarse a la maldad,  recibirán el gran castigo de Dios.",
+					"number": 8,
+					"id": "6710a0bd-3861-4c26-ae73-5e9c1d40f5f9"
+				},
+				{
+					"verse": "Habrá sufrimiento y angustia para todos los que hacen el mal,  los judíos primeramente,  y también los gentiles;",
+					"number": 9,
+					"id": "a085384b-f316-4824-bf35-10b28c6edc8f"
+				},
+				{
+					"verse": "pero gloria,  honor y paz para todos los que hacen el bien,  los judíos primeramente,  y también los gentiles.",
+					"number": 10,
+					"id": "88487c63-d86a-4b33-bd9b-adb4a502d12e"
+				},
+				{
+					"verse": "Porque con Dios no hay favoritismos.",
+					"number": 11,
+					"id": "1a75c9f0-0944-4b59-b2a8-593bade00c1f"
+				},
+				{
+					"verse": "Todos los que han pecado sin conocer la ley,  también perecerán sin la ley;  y todos los que han pecado conociendo la ley,  por la ley serán juzgados.",
+					"number": 12,
+					"id": "19e87ed3-cedf-4b1c-a641-f94463fde520"
+				},
+				{
+					"verse": "Porque Dios no considera justos a los que oyen la ley sino a los que la cumplen.",
+					"number": 13,
+					"id": "fc1b5762-215d-47cc-9353-09bee0ea7375"
+				},
+				{
+					"verse": "De hecho,  cuando los gentiles,  que no tienen la ley,  cumplen por naturaleza lo que la ley exige,* ellos son ley para sí mismos,  aunque no tengan la ley.",
+					"number": 14,
+					"id": "c3344d54-b770-480d-b3e2-bbf2bd220acb"
+				},
+				{
+					"verse": "Éstos muestran que llevan escrito en el corazón lo que la ley exige,  como lo atestigua su conciencia,  pues sus propios pensamientos algunas veces los acusan y otras veces los excusan.",
+					"number": 15,
+					"id": "5e0a627a-0de8-45a9-b9e2-99af1afabb55"
+				},
+				{
+					"verse": "Así sucederá el día en que,  por medio de Jesucristo,  Dios juzgará los secretos de toda persona,  como lo declara mi evangelio.",
+					"number": 16,
+					"id": "f7f9a07c-7924-427a-8c37-489eed795f70"
+				},
+				{
+					"verse": "Ahora bien,  tú que llevas el nombre de judío;  que dependes de la ley y te jactas de tu relación con Dios;",
+					"number": 17,
+					"study": "Los judíos y la ley",
+					"id": "f6249911-1360-4414-ab08-09416b58421c"
+				},
+				{
+					"verse": "que conoces su voluntad y sabes discernir lo que es mejor porque eres instruido por la ley;",
+					"number": 18,
+					"id": "22fcca9a-26a1-4253-b73f-8fc0dc24803d"
+				},
+				{
+					"verse": "que estás convencido de ser guía de los ciegos y luz de los que están en la oscuridad,",
+					"number": 19,
+					"id": "d79ac423-c67f-49ef-9ff9-6559592a261a"
+				},
+				{
+					"verse": "instructor de los ignorantes,  maestro de los sencillos,  pues tienes en la ley la esencia misma del conocimiento y de la verdad;",
+					"number": 20,
+					"id": "60304d4f-74cb-4aa0-b8d6-300777234571"
+				},
+				{
+					"verse": "en fin,  tú que enseñas a otros,  ¿no te enseñas a ti mismo?  Tú que predicas contra el robo,  ¿robas?",
+					"number": 21,
+					"id": "9d8f794b-c655-4c24-88b7-b1c3b33e4d4a"
+				},
+				{
+					"verse": "Tú que dices que no se debe cometer adulterio,  ¿adulteras?  Tú que aborreces a los ídolos,  ¿robas de sus templos?",
+					"number": 22,
+					"id": "15d979a7-fe40-480c-acba-85a4eb7ba47e"
+				},
+				{
+					"verse": "Tú que te jactas de la ley,  ¿deshonras a Dios quebrantando la ley?",
+					"number": 23,
+					"id": "5bb32e55-2248-4866-ae07-aff15857b56e"
+				},
+				{
+					"verse": "Así está escrito:  \"Por causa de ustedes se blasfema el nombre de Dios entre los gentiles.\"*",
+					"number": 24,
+					"id": "d2e958ee-a8d3-4be3-94d1-bcdca31ee2dd"
+				},
+				{
+					"verse": "La circuncisión tiene valor si observas la ley;  pero si la quebrantas,  vienes a ser como un incircunciso.",
+					"number": 25,
+					"id": "41f1bc75-8682-49df-97e1-eb6ba4800e7c"
+				},
+				{
+					"verse": "Por lo tanto,  si los gentiles cumplen* los requisitos de la ley,  ¿no se les considerará como si estuvieran circuncidados?",
+					"number": 26,
+					"id": "da2c9dc9-249c-49ed-96d8-6788b1ab3e5f"
+				},
+				{
+					"verse": "El que no está físicamente circuncidado,  pero obedece a la ley,  te condenará a ti que,  a pesar de tener el mandamiento escrito* y la circuncisión,  quebrantas la ley.",
+					"number": 27,
+					"id": "b8464c7d-edeb-40c0-9b4b-68f122458efe"
+				},
+				{
+					"verse": "Lo exterior no hace a nadie judío,  ni consiste la circuncisión en una señal en el cuerpo.",
+					"number": 28,
+					"id": "7e09f783-9865-4594-adc3-b76aafda7d2e"
+				},
+				{
+					"verse": "El verdadero judío lo es interiormente;  y la circuncisión es la del corazón,  la que realiza el Espíritu,  no el mandamiento escrito.  Al que es judío así,  lo alaba Dios y no la gente.",
+					"number": 29,
+					"id": "550f8630-f415-4c51-ac5e-9ba4d6558d31"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Entonces,  ¿qué se gana con ser judío,  o qué valor tiene la circuncisión?",
+					"number": 1,
+					"id": "1bc998e5-8256-4cb8-bb02-fd61b07f4ca7"
+				},
+				{
+					"verse": "Mucho,  desde cualquier punto de vista.  En primer lugar,  a los judíos se les confiaron las palabras mismas de Dios.",
+					"number": 2,
+					"id": "eccc8960-3228-4ce9-a79a-db655492f27e"
+				},
+				{
+					"verse": "Pero entonces,  si a algunos les faltó la fe,  ¿acaso su falta de fe anula la fidelidad de Dios?",
+					"number": 3,
+					"id": "1d153d38-2bbf-4a93-8717-d4d206e5d0d0"
+				},
+				{
+					"verse": "¡De ninguna manera!  Dios es siempre veraz,  aunque el hombre sea mentiroso.  Así está escrito:  \"Que seas tenido por justo en tus palabras,  y que triunfes cuando te juzguen.\"*",
+					"number": 4,
+					"id": "08fdfc27-1c45-4565-8d1d-b9c0eb84948b"
+				},
+				{
+					"verse": "Pero si nuestra injusticia pone de relieve la justicia de Dios,  ¿qué diremos?  ¿Que Dios es injusto al descargar sobre nosotros su ira?  (Hablo en términos humanos.)",
+					"number": 5,
+					"id": "0971046a-62c1-46e8-887f-bdb84f885c8d"
+				},
+				{
+					"verse": "¡De ninguna manera!  Si así fuera,  ¿cómo podría Dios juzgar al mundo?",
+					"number": 6,
+					"id": "91c1c3c3-e203-48e5-93b5-3cbcddc1169d"
+				},
+				{
+					"verse": "Alguien podría objetar:  \"Si mi mentira destaca la verdad de Dios y así aumenta su gloria,  ¿por qué todavía se me juzga como pecador?",
+					"number": 7,
+					"id": "bc24bc9c-fc7e-4ac3-8e4b-899e1894c4a5"
+				},
+				{
+					"verse": "¿Por qué no decir:  Hagamos lo malo para que venga lo bueno?\"  Así nos calumnian algunos,  asegurando que eso es lo que enseñamos.  ¡Pero bien merecida se tienen la condenación!",
+					"number": 8,
+					"id": "bc6a8e3c-0530-41c8-9ee4-aa5a34c49677"
+				},
+				{
+					"verse": "¿A qué conclusión llegamos?  ¿Acaso los judíos somos mejores?  ¡De ninguna manera!  Ya hemos demostrado que tanto los judíos como los gentiles están bajo el pecado.",
+					"number": 9,
+					"study": "No hay justo",
+					"id": "67ff5087-5620-40a5-9961-a38e5b08f630"
+				},
+				{
+					"verse": "Así está escrito:  \"No hay un solo justo,  ni siquiera uno;",
+					"number": 10,
+					"id": "adcdd867-7b14-486e-88c6-03fe083874cd"
+				},
+				{
+					"verse": "no hay nadie que entienda,  nadie que busque a Dios.",
+					"number": 11,
+					"id": "ef428cf5-9a32-4a95-a342-a3736c109ca4"
+				},
+				{
+					"verse": "Todos se han extraviado;  por igual se han corrompido.  No hay nadie que haga lo bueno,  no hay ni siquiera uno.\"*",
+					"number": 12,
+					"id": "e4c4d867-74e8-4982-bb27-315677093bda"
+				},
+				{
+					"verse": "\"Su garganta es un sepulcro abierto;  su lengua practica el engaño.\"*  \"Hay veneno de víbora en sus labios.\"*",
+					"number": 13,
+					"id": "9c5ba3b5-1bd0-4f6a-b798-9b6f3db9b244"
+				},
+				{
+					"verse": "\"Su boca está llena de maldición y de amargura.\"*",
+					"number": 14,
+					"id": "5df5efa1-df57-4904-9fa1-67dc183bf553"
+				},
+				{
+					"verse": "\"Veloces son sus pies para ir a derramar sangre;",
+					"number": 15,
+					"id": "c9fa2dfb-8cc6-4673-928a-bdf44209759b"
+				},
+				{
+					"verse": "dejan ruina y miseria en su camino,",
+					"number": 16,
+					"id": "03a32131-3661-412f-9998-876ed2380061"
+				},
+				{
+					"verse": "y no conocen el camino de paz.\"*",
+					"number": 17,
+					"id": "312e8296-c6e7-499c-aa6a-683a16d8d628"
+				},
+				{
+					"verse": "\"No hay temor de Dios delante de sus ojos.\"*",
+					"number": 18,
+					"id": "9189beb8-d716-4dbc-97b3-1d4546538f50"
+				},
+				{
+					"verse": "Ahora bien,  sabemos que todo lo que dice la ley,  lo dice a quienes están sujetos a ella,  para que todo el mundo se calle la boca y quede convicto delante de Dios.",
+					"number": 19,
+					"id": "67df377e-c35c-4dd7-b112-c0854579f37e"
+				},
+				{
+					"verse": "Por tanto,  nadie será justificado en presencia de Dios por hacer las obras que exige la ley;  más bien,  mediante la ley cobramos conciencia del pecado.",
+					"number": 20,
+					"id": "b05af0c1-a142-4364-a003-cf633313be6a"
+				},
+				{
+					"verse": "Pero ahora,  sin la mediación de la ley,  se ha manifestado la justicia de Dios,  de la que dan testimonio la ley y los profetas.",
+					"number": 21,
+					"study": "La justicia es por medio de la fe",
+					"id": "7248d419-3c1a-4c93-924c-92be7a99eb98"
+				},
+				{
+					"verse": "Esta justicia de Dios llega,  mediante la fe en Jesucristo,  a todos los que creen.  De hecho,  no hay distinción,",
+					"number": 22,
+					"id": "bb5bd1cf-cbe5-4fa3-b3bc-93914b38153a"
+				},
+				{
+					"verse": "pues todos han pecado y están privados de la gloria de Dios,",
+					"number": 23,
+					"id": "177bf8a5-f7f4-4127-9cbc-a2e669214a47"
+				},
+				{
+					"verse": "pero por su gracia son justificados gratuitamente mediante la redención que Cristo Jesús efectuó.*",
+					"number": 24,
+					"id": "3916314e-6b6c-4eb2-89f7-120707048666"
+				},
+				{
+					"verse": "Dios lo ofreció como un sacrificio de expiación* que se recibe por la fe en su sangre,  para así demostrar su justicia.  Anteriormente,  en su paciencia,  Dios había pasado por alto los pecados;",
+					"number": 25,
+					"id": "c6ad951f-e687-4f30-b642-b53cd68bf65c"
+				},
+				{
+					"verse": "pero en el tiempo presente ha ofrecido a Jesucristo para manifestar su justicia.  De este modo Dios es justo y,  a la vez,  el que justifica a los que tienen fe en Jesús.",
+					"number": 26,
+					"id": "ced855fe-cec4-42e9-9201-d959659be281"
+				},
+				{
+					"verse": "¿Dónde,  pues,  está la jactancia?  Queda excluida.  ¿Por cuál principio?  ¿Por el de la observancia de la ley?  No,  sino por el de la fe.",
+					"number": 27,
+					"id": "e450fd5e-63ac-4e36-aa6a-6fd69c7e39f4"
+				},
+				{
+					"verse": "Porque sostenemos que todos somos justificados por la fe,  y no por las obras que la ley exige.",
+					"number": 28,
+					"id": "7756d955-32af-41b4-81a8-260c264a7db1"
+				},
+				{
+					"verse": "¿Es acaso Dios sólo Dios de los judíos?  ¿No lo es también de los gentiles?  Sí,  también es Dios de los gentiles,",
+					"number": 29,
+					"id": "8d0c6d1c-9c19-475c-abb7-32f09cd05869"
+				},
+				{
+					"verse": "pues no hay más que un solo Dios.  Él justificará por la fe a los que están circuncidados y,  mediante esa misma fe,  a los que no lo están.",
+					"number": 30,
+					"id": "cded3752-0e33-487a-a76d-0ed558236aa5"
+				},
+				{
+					"verse": "¿Quiere decir que anulamos la ley con la fe?  ¡De ninguna manera!  Más bien,  confirmamos la ley.",
+					"number": 31,
+					"id": "06e2424a-0950-471f-b303-338d068ba63e"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Entonces,  ¿qué diremos en el caso de nuestro antepasado Abraham?*",
+					"number": 1,
+					"study": "El ejemplo de Abraham",
+					"id": "8bda6936-5ee2-4129-b0b6-2db34ebefabf"
+				},
+				{
+					"verse": "En realidad,  si Abraham hubiera sido justificado por las obras,  habría tenido de qué jactarse,  pero no delante de Dios.",
+					"number": 2,
+					"id": "8d89a67d-c8bc-4226-b2f0-e2f01abdc654"
+				},
+				{
+					"verse": "Pues  ¿qué dice la Escritura?  \"Creyó Abraham a Dios,  y esto se le tomó en cuenta como justicia.\"*",
+					"number": 3,
+					"id": "7bcb092b-6dbe-4579-9ea4-5774387d1f2f"
+				},
+				{
+					"verse": "Ahora bien,  cuando alguien trabaja,  no se le toma en cuenta el salario como un favor sino como una deuda.",
+					"number": 4,
+					"id": "c7a860ef-56fc-406e-8f92-fdaa9d98fea9"
+				},
+				{
+					"verse": "Sin embargo,  al que no trabaja,  sino que cree en el que justifica al malvado,  se le toma en cuenta la fe como justicia.",
+					"number": 5,
+					"id": "a19ea011-c4ca-42fa-b548-ffd395cf9b36"
+				},
+				{
+					"verse": "David dice lo mismo cuando habla de la dicha de aquel a quien Dios le atribuye justicia sin la mediación de las obras:",
+					"number": 6,
+					"id": "e7fe889d-b28d-443b-af21-d7207ca2e12f"
+				},
+				{
+					"verse": "\"¡Dichosos aquellos a quienes se les perdonan las transgresiones y se les cubren los pecados!",
+					"number": 7,
+					"id": "164dae66-ed52-4ad1-9161-dfbc86a55538"
+				},
+				{
+					"verse": "¡Dichoso aquel cuyo pecado el Señor no tomará en cuenta!\"*",
+					"number": 8,
+					"id": "1b01d58e-1d95-4758-bd37-5337195cbc91"
+				},
+				{
+					"verse": "¿Acaso se ha reservado esta dicha sólo para los que están circuncidados?  ¿Acaso no es también para los gentiles?* Hemos dicho que a Abraham se le tomó en cuenta la fe como justicia.",
+					"number": 9,
+					"id": "f1c79623-0603-4b9b-8352-dbdb6b74918a"
+				},
+				{
+					"verse": "¿Bajo qué circunstancias sucedió esto?  ¿Fue antes o después de ser circuncidado?  ¡Antes,  y no después!",
+					"number": 10,
+					"id": "af11400e-cc24-4382-85bc-766d326a3aa8"
+				},
+				{
+					"verse": "Es más,  cuando todavía no estaba circuncidado,  recibió la señal de la circuncisión como sello de la justicia que se le había tomado en cuenta por la fe.  Por tanto,  Abraham es padre de todos los que creen,  aunque no hayan sido circuncidados,  y a éstos se les toma en cuenta su fe como justicia.",
+					"number": 11,
+					"id": "4de93726-02e6-4a60-87ad-a6dc4335c7c8"
+				},
+				{
+					"verse": "Y también es padre de aquellos que,  además de haber sido circuncidados,  siguen las huellas de nuestro padre Abraham,  quien creyó cuando todavía era incircunciso.",
+					"number": 12,
+					"id": "51f7dc31-b822-453d-b2be-26bfe43e54a1"
+				},
+				{
+					"verse": "En efecto,  no fue mediante la ley como Abraham y su descendencia recibieron la promesa de que él sería heredero del mundo,  sino mediante la fe,  la cual se le tomó en cuenta como justicia.",
+					"number": 13,
+					"study": "La promesa realizada mediante la fe",
+					"id": "d050f574-b0b8-490d-8a48-ad0f8fc2786f"
+				},
+				{
+					"verse": "Porque si los que viven por la ley fueran los herederos,  entonces la fe no tendría ya ningún valor y la promesa no serviría de nada.",
+					"number": 14,
+					"id": "916171db-ef7d-4052-8758-329fefc45498"
+				},
+				{
+					"verse": "La ley,  en efecto,  acarrea castigo.  Pero donde no hay ley,  tampoco hay transgresión.",
+					"number": 15,
+					"id": "d4ba46ce-2054-4812-a7d3-51426c9a85cf"
+				},
+				{
+					"verse": "Por eso la promesa viene por la fe,  a fin de que por la gracia quede garantizada para toda la descendencia de Abraham;  esta promesa no es sólo para los que son de la ley sino para los que son también de la fe de Abraham,  quien es el padre que tenemos en común",
+					"number": 16,
+					"id": "21c1ec57-b3d1-4f20-851b-5a26d9793dd2"
+				},
+				{
+					"verse": "delante de Dios,  tal como está escrito:  \"Te he hecho padre de muchas naciones.\"* Así que Abraham creyó en el Dios que da vida a los muertos y que llama las cosas que no son como si ya existieran.",
+					"number": 17,
+					"id": "dcdeac5d-9922-4d51-8836-ef164e7cb976"
+				},
+				{
+					"verse": "Contra toda esperanza,  Abraham creyó y esperó,  y de este modo llegó a ser padre de muchas naciones,  tal como se le había dicho:  \"Así de numerosa será tu descendencia.\"*",
+					"number": 18,
+					"id": "2beabeaa-cdae-4664-91e4-a3bb19552da1"
+				},
+				{
+					"verse": "Su fe no flaqueó,  aunque reconocía que su cuerpo estaba como muerto,  pues ya tenía unos cien años,  y que también estaba muerta la matriz de Sara.",
+					"number": 19,
+					"id": "dee66094-f7fe-4e54-b734-40c14409a0a1"
+				},
+				{
+					"verse": "Ante la promesa de Dios no vaciló como un incrédulo,  sino que se reafirmó en su fe y dio gloria a Dios,",
+					"number": 20,
+					"id": "dd76b81f-9186-4a90-81f3-0f0a91def9cd"
+				},
+				{
+					"verse": "plenamente convencido de que Dios tenía poder para cumplir lo que había prometido.",
+					"number": 21,
+					"id": "1123a1b1-f9b7-4f0a-84dd-26f43d53ddd1"
+				},
+				{
+					"verse": "Por eso se le tomó en cuenta su fe como justicia.",
+					"number": 22,
+					"id": "26e4494f-c91e-4684-946a-9c155f529a1e"
+				},
+				{
+					"verse": "Y esto de que  \"se le tomó en cuenta\"  no se escribió sólo para Abraham,",
+					"number": 23,
+					"id": "2d66f0aa-df5a-4465-9b08-8b1142aa8463"
+				},
+				{
+					"verse": "sino también para nosotros.  Dios tomará en cuenta nuestra fe como justicia,  pues creemos en aquel que levantó de entre los muertos a Jesús nuestro Señor.",
+					"number": 24,
+					"id": "81e92bbf-4f64-4757-8ae7-4810f5aa464f"
+				},
+				{
+					"verse": "Él fue entregado a la muerte por nuestros pecados,  y resucitó para nuestra justificación.",
+					"number": 25,
+					"id": "bcab3ce5-6a19-4a1b-80da-9e6d9e82a199"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "En consecuencia,  ya que hemos sido justificados mediante la fe,  tenemos* paz con Dios por medio de nuestro Señor Jesucristo.",
+					"number": 1,
+					"study": "Resultados de la justificación",
+					"id": "dd4a87b3-9f70-41e0-a1e8-532b8c24f17c"
+				},
+				{
+					"verse": "También por medio de él,  y mediante la fe,  tenemos acceso a esta gracia en la cual nos mantenemos firmes.  Así que nos regocijamos en la esperanza de alcanzar la gloria de Dios.",
+					"number": 2,
+					"id": "45e81c19-5e0d-487a-a42f-50bb9187ed32"
+				},
+				{
+					"verse": "Y no sólo en esto,  sino también en nuestros sufrimientos,  porque sabemos que el sufrimiento produce perseverancia;",
+					"number": 3,
+					"id": "ecdf7178-e754-453f-a7d1-cd816c137ea6"
+				},
+				{
+					"verse": "la perseverancia,  entereza de carácter;  la entereza de carácter,  esperanza.",
+					"number": 4,
+					"id": "63a64cb0-c366-45dc-96ee-5f6eb0a9b21a"
+				},
+				{
+					"verse": "Y esta esperanza no nos defrauda,  porque Dios ha derramado su amor en nuestro corazón por el Espíritu Santo que nos ha dado.",
+					"number": 5,
+					"id": "6996acc7-a332-46be-a3ac-fc1f508ab425"
+				},
+				{
+					"verse": "A la verdad,  como éramos incapaces de salvarnos,* en el tiempo señalado Cristo murió por los malvados.",
+					"number": 6,
+					"id": "38eb3227-3d09-49af-bbd6-e202f22f3406"
+				},
+				{
+					"verse": "Difícilmente habrá quien muera por un justo,  aunque tal vez haya quien se atreva a morir por una persona buena.",
+					"number": 7,
+					"id": "2d0a5a01-d00b-44fa-a130-84dcec7b3937"
+				},
+				{
+					"verse": "Pero Dios demuestra su amor por nosotros en esto:  en que cuando todavía éramos pecadores,  Cristo murió por nosotros.",
+					"number": 8,
+					"id": "93cfbc4a-9bd5-4d6f-934a-c316fa437fd7"
+				},
+				{
+					"verse": "Y ahora que hemos sido justificados por su sangre,  ¡con cuánta más razón,  por medio de él,  seremos salvados del castigo de Dios!",
+					"number": 9,
+					"id": "ac39b2e1-57d5-4c3e-8f13-b4a6fd567e70"
+				},
+				{
+					"verse": "Porque si,  cuando éramos enemigos de Dios,  fuimos reconciliados con él mediante la muerte de su Hijo,  ¡con cuánta más razón,  habiendo sido reconciliados,  seremos salvados por su vida!",
+					"number": 10,
+					"id": "594eaee0-6de6-480d-a58d-355758012310"
+				},
+				{
+					"verse": "Y no sólo esto,  sino que también nos regocijamos en Dios por nuestro Señor Jesucristo,  pues gracias a él ya hemos recibido la reconciliación.",
+					"number": 11,
+					"id": "2cad9b8c-19f2-4047-a84f-0e2fdb64e123"
+				},
+				{
+					"verse": "Por medio de un solo hombre el pecado entró en el mundo,  y por medio del pecado entró la muerte;  fue así como la muerte pasó a toda la humanidad,  porque todos pecaron.*",
+					"number": 12,
+					"study": "Adán y Cristo",
+					"id": "8cad8391-ccb0-4cfe-aa7e-d6fedd9c19f0"
+				},
+				{
+					"verse": "Antes de promulgarse la ley,  ya existía el pecado en el mundo.  Es cierto que el pecado no se toma en cuenta cuando no hay ley;",
+					"number": 13,
+					"id": "51c56db3-c382-4d84-8aed-4367938a4b51"
+				},
+				{
+					"verse": "sin embargo,  desde Adán hasta Moisés la muerte reinó,  incluso sobre los que no pecaron quebrantando un mandato,  como lo hizo Adán,  quien es figura de aquel que había de venir.",
+					"number": 14,
+					"id": "cccccf6f-c345-42f0-9209-4b0289390a21"
+				},
+				{
+					"verse": "Pero la transgresión de Adán no puede compararse con la gracia de Dios.  Pues si por la transgresión de un solo hombre murieron todos,  ¡cuánto más el don que vino por la gracia de un solo hombre,  Jesucristo,  abundó para todos!",
+					"number": 15,
+					"id": "6e64a011-c61f-4bc2-abb1-ab8e4355fbee"
+				},
+				{
+					"verse": "Tampoco se puede comparar la dádiva de Dios con las consecuencias del pecado de Adán.  El juicio que lleva a la condenación fue resultado de un solo pecado,  pero la dádiva que lleva a la justificación tiene que ver con* una multitud de transgresiones.",
+					"number": 16,
+					"id": "607304eb-4b12-4bfa-9dce-89452f4a5189"
+				},
+				{
+					"verse": "Pues si por la transgresión de un solo hombre reinó la muerte,  con mayor razón los que reciben en abundancia la gracia y el don de la justicia reinarán en vida por medio de un solo hombre,  Jesucristo.",
+					"number": 17,
+					"id": "2860f7a7-9722-4910-8c5e-752345a51afb"
+				},
+				{
+					"verse": "Por tanto,  así como una sola transgresión causó la condenación de todos,  también un solo acto de justicia produjo la justificación que da vida a todos.",
+					"number": 18,
+					"id": "8237445d-a9c8-4fbb-8289-e2e60c117032"
+				},
+				{
+					"verse": "Porque así como por la desobediencia de uno solo muchos fueron constituidos pecadores,  también por la obediencia de uno solo muchos serán constituidos justos.",
+					"number": 19,
+					"id": "d0444f01-108e-49ee-9efc-8c17d23962c1"
+				},
+				{
+					"verse": "En lo que atañe a la ley,  ésta intervino para que aumentara la transgresión.  Pero allí donde abundó el pecado,  sobreabundó la gracia,",
+					"number": 20,
+					"id": "586c6ae5-3b43-4d34-b233-47f17aad3281"
+				},
+				{
+					"verse": "a fin de que,  así como reinó el pecado en la muerte,  reine también la gracia que nos trae justificación y vida eterna por medio de Jesucristo nuestro Señor.",
+					"number": 21,
+					"id": "a569ec76-2503-4d16-a17d-1c85a5b1bd73"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "¿Qué concluiremos?  ¿Que vamos a persistir en el pecado,  para que la gracia abunde?",
+					"number": 1,
+					"study": "Muertos al pecado",
+					"id": "dee16ad8-37dc-4eae-bb21-24e0bba8bf2f"
+				},
+				{
+					"verse": "¡De ninguna manera!  Nosotros,  que hemos muerto al pecado,  ¿cómo podemos seguir viviendo en él?",
+					"number": 2,
+					"id": "2b02aaa9-bc5d-4719-a127-4a03bf0c2378"
+				},
+				{
+					"verse": "¿Acaso no saben ustedes que todos los que fuimos bautizados para unirnos con Cristo Jesús,  en realidad fuimos bautizados para participar en su muerte?",
+					"number": 3,
+					"id": "ce118bd5-d98b-4d51-8b59-e7948de5673f"
+				},
+				{
+					"verse": "Por tanto,  mediante el bautismo fuimos sepultados con él en su muerte,  a fin de que,  así como Cristo resucitó por el poder* del Padre,  también nosotros llevemos una vida nueva.",
+					"number": 4,
+					"id": "1baf4dfe-d2b9-45c9-9b32-0ce0dab96ae7"
+				},
+				{
+					"verse": "En efecto,  si hemos estado unidos con él en su muerte,  sin duda también estaremos unidos con él en su resurrección.",
+					"number": 5,
+					"id": "b83028f2-faa2-46d1-8883-5df8eae1163b"
+				},
+				{
+					"verse": "Sabemos que lo que antes éramos* fue crucificado con él para que nuestro cuerpo pecaminoso perdiera su poder,  de modo que ya no siguiéramos siendo esclavos del pecado;",
+					"number": 6,
+					"id": "097d6efc-e864-49c9-a671-9ea828a8f87a"
+				},
+				{
+					"verse": "porque el que muere queda liberado del pecado.",
+					"number": 7,
+					"id": "3b60aedf-2dd5-4d00-8a0f-6f5f15d236f0"
+				},
+				{
+					"verse": "Ahora bien,  si hemos muerto con Cristo,  confiamos que también viviremos con él.",
+					"number": 8,
+					"id": "55b3218a-14f4-4a19-947b-73d609dbb4ba"
+				},
+				{
+					"verse": "Pues sabemos que Cristo,  por haber sido levantado de entre los muertos,  ya no puede volver a morir;  la muerte ya no tiene dominio sobre él.",
+					"number": 9,
+					"id": "d798d850-a144-45c1-8cc3-e4799f9b6d1b"
+				},
+				{
+					"verse": "En cuanto a su muerte,  murió al pecado una vez y para siempre;  en cuanto a su vida,  vive para Dios.",
+					"number": 10,
+					"id": "4590016c-21d9-450d-b5fd-5682625fedb0"
+				},
+				{
+					"verse": "De la misma manera,  también ustedes considérense muertos al pecado,  pero vivos para Dios en Cristo Jesús.",
+					"number": 11,
+					"id": "de2cd363-b22d-4ab2-be31-605be706eb62"
+				},
+				{
+					"verse": "Por lo tanto,  no permitan ustedes que el pecado reine en su cuerpo mortal,  ni obedezcan a sus malos deseos.",
+					"number": 12,
+					"id": "27b2b9c8-9869-4346-8422-e23a7fde3a9c"
+				},
+				{
+					"verse": "No ofrezcan los miembros de su cuerpo al pecado como instrumentos de injusticia;  al contrario,  ofrézcanse más bien a Dios como quienes han vuelto de la muerte a la vida,  presentando los miembros de su cuerpo como instrumentos de justicia.",
+					"number": 13,
+					"id": "db251b6c-132c-4614-9601-5671863cbd0f"
+				},
+				{
+					"verse": "Así el pecado no tendrá dominio sobre ustedes,  porque ya no están bajo la ley sino bajo la gracia.",
+					"number": 14,
+					"id": "20b82917-14ec-48f5-bb92-a5799b0b7794"
+				},
+				{
+					"verse": "Entonces,  ¿qué?  ¿Vamos a pecar porque no estamos ya bajo la ley sino bajo la gracia?  ¡De ninguna manera!",
+					"number": 15,
+					"study": "Siervos de la justicia",
+					"id": "a3976cba-c5cd-4d47-9642-5b95b77409d2"
+				},
+				{
+					"verse": "¿Acaso no saben ustedes que,  cuando se entregan a alguien para obedecerlo,  son esclavos de aquel a quien obedecen?  Claro que lo son,  ya sea del pecado que lleva a la muerte,  o de la obediencia que lleva a la justicia.",
+					"number": 16,
+					"id": "f50b359d-76fc-48db-8c8f-38f005c0484f"
+				},
+				{
+					"verse": "Pero gracias a Dios que,  aunque antes eran esclavos del pecado,  ya se han sometido de corazón a la enseñanza* que les fue transmitida.",
+					"number": 17,
+					"id": "4f134d8d-7153-45c8-94fb-1306cd4337d3"
+				},
+				{
+					"verse": "En efecto,  habiendo sido liberados del pecado,  ahora son ustedes esclavos de la justicia.",
+					"number": 18,
+					"id": "12341d00-9e41-41e0-b754-b80949029fc5"
+				},
+				{
+					"verse": "Hablo en términos humanos,  por las limitaciones de su naturaleza humana.  Antes ofrecían ustedes los miembros de su cuerpo para servir a la impureza,  que lleva más y más a la maldad;  ofrézcanlos ahora para servir a la justicia que lleva a la santidad.",
+					"number": 19,
+					"id": "c02d02f5-673a-4d09-988e-836d701f3eb3"
+				},
+				{
+					"verse": "Cuando ustedes eran esclavos del pecado,  estaban libres del dominio de la justicia.",
+					"number": 20,
+					"id": "68eedeb6-21c1-4662-8484-11b864c9943e"
+				},
+				{
+					"verse": "¿Qué fruto cosechaban entonces?  ¡Cosas que ahora los avergüenzan y que conducen a la muerte!",
+					"number": 21,
+					"id": "30d4d8c3-d52f-4a6f-bc7a-8011dbad9843"
+				},
+				{
+					"verse": "Pero ahora que han sido liberados del pecado y se han puesto al servicio de Dios,  cosechan la santidad que conduce a la vida eterna.",
+					"number": 22,
+					"id": "35725a65-98a3-4b22-8d85-632dc8630c5a"
+				},
+				{
+					"verse": "Porque la paga del pecado es muerte,  mientras que la dádiva de Dios es vida eterna en Cristo Jesús,  nuestro Señor.",
+					"number": 23,
+					"id": "93c2f4cc-1f3d-4b89-8967-2e47af7ba74e"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Hermanos,  les hablo como a quienes conocen la ley.  ¿Acaso no saben que uno está sujeto a la ley solamente en vida?",
+					"number": 1,
+					"study": "Analogía tomada del matrimonio",
+					"id": "086f1381-d54d-44ac-be0a-ac96914815d1"
+				},
+				{
+					"verse": "Por ejemplo,  la casada está ligada por ley a su esposo sólo mientras éste vive;  pero si su esposo muere,  ella queda libre de la ley que la unía a su esposo.",
+					"number": 2,
+					"id": "d2fd6364-734b-44ec-a169-a39af42b571a"
+				},
+				{
+					"verse": "Por eso,  si se casa con otro hombre mientras su esposo vive,  se le considera adúltera.  Pero si muere su esposo,  ella queda libre de esa ley,  y no es adúltera aunque se case con otro hombre.",
+					"number": 3,
+					"id": "9f24594e-8b9d-4c79-b63f-e26c774fecd8"
+				},
+				{
+					"verse": "Así mismo,  hermanos míos,  ustedes murieron a la ley mediante el cuerpo crucificado de Cristo,  a fin de pertenecer al que fue levantado de entre los muertos.  De este modo daremos fruto para Dios.",
+					"number": 4,
+					"id": "17c0d2f9-bacc-4095-be38-1b1b3fa4add9"
+				},
+				{
+					"verse": "Porque cuando nuestra naturaleza pecaminosa aún nos dominaba,* las malas pasiones que la ley nos despertaba actuaban en los miembros de nuestro cuerpo,  y dábamos fruto para muerte.",
+					"number": 5,
+					"id": "4b7d2f17-5ae8-4e9c-8ab5-3cd8bcf1bfcf"
+				},
+				{
+					"verse": "Pero ahora,  al morir a lo que nos tenía subyugados,  hemos quedado libres de la ley,  a fin de servir a Dios con el nuevo poder que nos da el Espíritu,  y no por medio del antiguo mandamiento escrito.",
+					"number": 6,
+					"id": "fcc12a40-8663-4444-bba2-a4a43f22322b"
+				},
+				{
+					"verse": "¿Qué concluiremos?  ¿Que la ley es pecado?  ¡De ninguna manera!  Sin embargo,  si no fuera por la ley,  no me habría dado cuenta de lo que es el pecado.  Por ejemplo,  nunca habría sabido yo lo que es codiciar si la ley no hubiera dicho:  \"No codicies.\"*",
+					"number": 7,
+					"study": "El pecado que mora en mí",
+					"id": "04357ef1-6ceb-4aea-a75c-04c0114d3840"
+				},
+				{
+					"verse": "Pero el pecado,  aprovechando la oportunidad que le proporcionó el mandamiento,  despertó en mí toda clase de codicia.  Porque aparte de la ley el pecado está muerto.",
+					"number": 8,
+					"id": "9460d62f-eb93-4034-80d7-942a3f6c3e6c"
+				},
+				{
+					"verse": "En otro tiempo yo tenía vida aparte de la ley;  pero cuando vino el mandamiento,  cobró vida el pecado y yo morí.",
+					"number": 9,
+					"id": "6736bf37-d48d-4668-b6ca-3ea164a337c1"
+				},
+				{
+					"verse": "Se me hizo evidente que el mismo mandamiento que debía haberme dado vida me llevó a la muerte;",
+					"number": 10,
+					"id": "77720ff2-969e-4c13-bc2d-93b847da7cf3"
+				},
+				{
+					"verse": "porque el pecado se aprovechó del mandamiento,  me engañó,  y por medio de él me mató.",
+					"number": 11,
+					"id": "42b8357b-bcdf-429d-851a-8e2426c04cd3"
+				},
+				{
+					"verse": "Concluimos,  pues,  que la ley es santa,  y que el mandamiento es santo,  justo y bueno.",
+					"number": 12,
+					"id": "98ffd826-0f3f-4157-a0e5-b1c78737269a"
+				},
+				{
+					"verse": "Pero entonces,  ¿lo que es bueno se convirtió en muerte para mí?  ¡De ninguna manera!  Más bien fue el pecado lo que,  valiéndose de lo bueno,  me produjo la muerte;  ocurrió así para que el pecado se manifestara claramente,  o sea,  para que mediante el mandamiento se demostrara lo extremadamente malo que es el pecado.",
+					"number": 13,
+					"id": "9c8424a6-e6ee-4082-84db-757f0fadd1e2"
+				},
+				{
+					"verse": "Sabemos,  en efecto,  que la ley es espiritual.  Pero yo soy meramente humano,  y estoy vendido como esclavo al pecado.",
+					"number": 14,
+					"id": "4d889cfc-1b6f-4a47-b8f9-73e7b91a01ca"
+				},
+				{
+					"verse": "No entiendo lo que me pasa,  pues no hago lo que quiero,  sino lo que aborrezco.",
+					"number": 15,
+					"id": "ed4f9e69-41f0-48c9-8763-48db878e9979"
+				},
+				{
+					"verse": "Ahora bien,  si hago lo que no quiero,  estoy de acuerdo en que la ley es buena;",
+					"number": 16,
+					"id": "af89913b-d5c3-4999-bdb1-3d9d272d258e"
+				},
+				{
+					"verse": "pero,  en ese caso,  ya no soy yo quien lo lleva a cabo sino el pecado que habita en mí.",
+					"number": 17,
+					"id": "06d9ee3c-9e7e-4e81-bfc7-ef7a85d49101"
+				},
+				{
+					"verse": "Yo sé que en mí,  es decir,  en mi naturaleza pecaminosa,  nada bueno habita.  Aunque deseo hacer lo bueno,  no soy capaz de hacerlo.",
+					"number": 18,
+					"id": "77093557-0e71-4b03-9edc-c9e2ecabc170"
+				},
+				{
+					"verse": "De hecho,  no hago el bien que quiero,  sino el mal que no quiero.",
+					"number": 19,
+					"id": "b50a3410-133b-4098-9687-6126264476f3"
+				},
+				{
+					"verse": "Y si hago lo que no quiero,  ya no soy yo quien lo hace sino el pecado que habita en mí.",
+					"number": 20,
+					"id": "0482c52f-dd64-4a05-94a0-8e6b63c437eb"
+				},
+				{
+					"verse": "Así que descubro esta ley:  que cuando quiero hacer el bien,  me acompaña el mal.",
+					"number": 21,
+					"id": "d24e3529-6e21-4559-b379-a6ff62010d67"
+				},
+				{
+					"verse": "Porque en lo íntimo de mi ser me deleito en la ley de Dios;",
+					"number": 22,
+					"id": "9b6e0f22-070b-4d89-b556-d2382342ca33"
+				},
+				{
+					"verse": "pero me doy cuenta de que en los miembros de mi cuerpo hay otra ley,  que es la ley del pecado.  Esta ley lucha contra la ley de mi mente,  y me tiene cautivo.",
+					"number": 23,
+					"id": "f4fc208e-0d67-4e1d-a776-35296e1e04ae"
+				},
+				{
+					"verse": "¡Soy un pobre miserable!  ¿Quién me librará de este cuerpo mortal?",
+					"number": 24,
+					"id": "6d52fb14-8c23-4f26-b3d7-bd1fadb89a06"
+				},
+				{
+					"verse": "¡Gracias a Dios por medio de Jesucristo nuestro Señor!  En conclusión,  con la mente yo mismo me someto a la ley de Dios,  pero mi naturaleza pecaminosa está sujeta a la ley del pecado.",
+					"number": 25,
+					"id": "9fab6f65-9759-4363-b00e-0411fa1624e6"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Por lo tanto,  ya no hay ninguna condenación para los que están unidos a Cristo Jesús,*",
+					"number": 1,
+					"study": "Viviendo en el Espíritu",
+					"id": "d2d831e4-0ba6-4480-bde4-b801f9e310eb"
+				},
+				{
+					"verse": "pues por medio de él la ley del Espíritu de vida me* ha liberado de la ley del pecado y de la muerte.",
+					"number": 2,
+					"id": "bc179a0d-d64b-4df7-9137-2ac60af74da7"
+				},
+				{
+					"verse": "En efecto,  la ley no pudo liberarnos porque la naturaleza pecaminosa anuló su poder;  por eso Dios envió a su propio Hijo en condición semejante a nuestra condición de pecadores,* para que se ofreciera en sacrificio por el pecado.  Así condenó Dios al pecado en la naturaleza humana,",
+					"number": 3,
+					"id": "37dc5964-4f7c-4256-be53-039cd6634bbf"
+				},
+				{
+					"verse": "a fin de que las justas demandas de la ley se cumplieran en nosotros,  que no vivimos según la naturaleza pecaminosa sino según el Espíritu.",
+					"number": 4,
+					"id": "23f081d1-ffab-4400-a0a8-c0ccd5601b0e"
+				},
+				{
+					"verse": "Los que viven conforme a la naturaleza pecaminosa fijan la mente en los deseos de tal naturaleza;  en cambio,  los que viven conforme al Espíritu fijan la mente en los deseos del Espíritu.",
+					"number": 5,
+					"id": "1a33baf3-29f8-4d03-ad39-43ef6ef336aa"
+				},
+				{
+					"verse": "La mentalidad pecaminosa es muerte,  mientras que la mentalidad que proviene del Espíritu es vida y paz.",
+					"number": 6,
+					"id": "acb01dd8-7c7d-499e-b15c-02ed06df35cd"
+				},
+				{
+					"verse": "La mentalidad pecaminosa es enemiga de Dios,  pues no se somete a la ley de Dios,  ni es capaz de hacerlo.",
+					"number": 7,
+					"id": "ae210fdd-f122-47ec-898d-06e3acf42303"
+				},
+				{
+					"verse": "Los que viven según la naturaleza pecaminosa no pueden agradar a Dios.",
+					"number": 8,
+					"id": "32b10179-7c77-4b01-898f-ce43df7f2cd4"
+				},
+				{
+					"verse": "Sin embargo,  ustedes no viven según la naturaleza pecaminosa sino según el Espíritu,  si es que el Espíritu de Dios vive en ustedes.  Y si alguno no tiene el Espíritu de Cristo,  no es de Cristo.",
+					"number": 9,
+					"id": "710de2c1-be32-4ee0-92e2-067e638a0180"
+				},
+				{
+					"verse": "Pero si Cristo está en ustedes,  el cuerpo está muerto a causa del pecado,  pero el Espíritu que está en ustedes es vida* a causa de la justicia.",
+					"number": 10,
+					"id": "c42735f9-1f9a-447e-a111-ad6d6f45f076"
+				},
+				{
+					"verse": "Y si el Espíritu de aquel que levantó a Jesús de entre los muertos vive en ustedes,  el mismo que levantó a Cristo de entre los muertos también dará vida a sus cuerpos mortales por medio de su Espíritu,  que vive en ustedes.",
+					"number": 11,
+					"id": "d60a70a8-aee1-4fff-b547-3c5f5976e11b"
+				},
+				{
+					"verse": "Por tanto,  hermanos,  tenemos una obligación,  pero no es la de vivir conforme a la naturaleza pecaminosa.",
+					"number": 12,
+					"id": "b19cf5d7-ddaa-48c3-b518-c3c4cec627f6"
+				},
+				{
+					"verse": "Porque si ustedes viven conforme a ella,  morirán;  pero si por medio del Espíritu dan muerte a los malos hábitos del cuerpo,  vivirán.",
+					"number": 13,
+					"id": "aa98bc1a-2d82-470d-afb4-3339677b19e4"
+				},
+				{
+					"verse": "Porque todos los que son guiados por el Espíritu de Dios son hijos de Dios.",
+					"number": 14,
+					"id": "5484646a-b7bc-4187-a4cc-71909902865d"
+				},
+				{
+					"verse": "Y ustedes no recibieron un espíritu que de nuevo los esclavice al miedo,  sino el Espíritu que los adopta como hijos y les permite clamar:  \"¡Abba!  ¡Padre!\"",
+					"number": 15,
+					"id": "0f905457-0cc6-423c-ae3c-d477ca5eba6a"
+				},
+				{
+					"verse": "El Espíritu mismo le asegura a nuestro espíritu que somos hijos de Dios.",
+					"number": 16,
+					"id": "bb06b8c4-ad88-46b3-97e2-7954401c67e7"
+				},
+				{
+					"verse": "Y si somos hijos,  somos herederos;  herederos de Dios y coherederos con Cristo,  pues si ahora sufrimos con él,  también tendremos parte con él en su gloria.",
+					"number": 17,
+					"id": "d219a304-72e1-4543-b75e-2c622984f711"
+				},
+				{
+					"verse": "De hecho,  considero que en nada se comparan los sufrimientos actuales con la gloria que habrá de revelarse en nosotros.",
+					"number": 18,
+					"id": "b118009c-b5c7-4347-9ec1-f6b3ae65e3cc"
+				},
+				{
+					"verse": "La creación aguarda con ansiedad la revelación de los hijos de Dios,",
+					"number": 19,
+					"id": "e4be67fc-7375-4bc6-8ae7-ea2922e670c6"
+				},
+				{
+					"verse": "porque fue sometida a la frustración.  Esto no sucedió por su propia voluntad,  sino por la del que así lo dispuso.  Pero queda la firme esperanza",
+					"number": 20,
+					"id": "0c88030d-12df-4198-95f8-a9a276ab1c93"
+				},
+				{
+					"verse": "de que la creación misma ha de ser liberada de la corrupción que la esclaviza,  para así alcanzar la gloriosa libertad de los hijos de Dios.",
+					"number": 21,
+					"id": "610109f0-681f-4e9b-b3a9-9387d59f325d"
+				},
+				{
+					"verse": "Sabemos que toda la creación todavía gime a una,  como si tuviera dolores de parto.",
+					"number": 22,
+					"id": "8d6f7511-d220-4cbb-adfe-5f98e42d3643"
+				},
+				{
+					"verse": "Y no sólo ella,  sino también nosotros mismos,  que tenemos las primicias del Espíritu,  gemimos interiormente,  mientras aguardamos nuestra adopción como hijos,  es decir,  la redención de nuestro cuerpo.",
+					"number": 23,
+					"id": "82786a5e-f369-400e-98ce-99eb99de0c7d"
+				},
+				{
+					"verse": "Porque en esa esperanza fuimos salvados.  Pero la esperanza que se ve,  ya no es esperanza.  ¿Quién espera lo que ya tiene?",
+					"number": 24,
+					"id": "d34ebcd7-52b1-4f6e-b43f-8846df0207cc"
+				},
+				{
+					"verse": "Pero si esperamos lo que todavía no tenemos,  en la espera mostramos nuestra constancia.",
+					"number": 25,
+					"id": "d8a012a6-a8b9-426c-b64d-308c8bf9dea2"
+				},
+				{
+					"verse": "Así mismo,  en nuestra debilidad el Espíritu acude a ayudarnos.  No sabemos qué pedir,  pero el Espíritu mismo intercede por nosotros con gemidos que no pueden expresarse con palabras.",
+					"number": 26,
+					"id": "f28c5ff1-bf0e-49c9-8b37-c2b88bbebf36"
+				},
+				{
+					"verse": "Y Dios,  que examina los corazones,  sabe cuál es la intención del Espíritu,  porque el Espíritu intercede por los creyentes conforme a la voluntad de Dios.",
+					"number": 27,
+					"id": "da52f78e-1ce6-4b61-af99-a8e13ccc804d"
+				},
+				{
+					"verse": "Ahora bien,  sabemos que Dios dispone todas las cosas para el bien de quienes lo aman,* los que han sido llamados de acuerdo con su propósito.",
+					"number": 28,
+					"study": "Más que vencedores",
+					"id": "35ac17a3-3423-41ef-b364-0c9f61bb3ff3"
+				},
+				{
+					"verse": "Porque a los que Dios conoció de antemano,  también los predestinó a ser transformados según la imagen de su Hijo,  para que él sea el primogénito entre muchos hermanos.",
+					"number": 29,
+					"id": "de67605c-8301-4ac7-b36d-01c916aaf94c"
+				},
+				{
+					"verse": "A los que predestinó,  también los llamó;  a los que llamó,  también los justificó;  y a los que justificó,  también los glorificó.",
+					"number": 30,
+					"id": "c816fc01-e7da-4251-a9f5-98cb17dc0c55"
+				},
+				{
+					"verse": "¿Qué diremos frente a esto?  Si Dios está de nuestra parte,  ¿quién puede estar en contra nuestra?",
+					"number": 31,
+					"id": "94927f9e-404f-474e-bb8c-ca9dc18bb4ea"
+				},
+				{
+					"verse": "El que no escatimó ni a su propio Hijo,  sino que lo entregó por todos nosotros,  ¿cómo no habrá de darnos generosamente,  junto con él,  todas las cosas?",
+					"number": 32,
+					"id": "e97699e9-2dc4-4c2d-b37a-8226e720900c"
+				},
+				{
+					"verse": "¿Quién acusará a los que Dios ha escogido?  Dios es el que justifica.",
+					"number": 33,
+					"id": "117862a1-2dba-4bb0-ab6a-077eb0112ae3"
+				},
+				{
+					"verse": "¿Quién condenará?  Cristo Jesús es el que murió,  e incluso resucitó,  y está a la derecha de Dios e intercede por nosotros.",
+					"number": 34,
+					"id": "652a6628-f864-42dc-9f80-a59ce79434e3"
+				},
+				{
+					"verse": "¿Quién nos apartará del amor de Cristo?  ¿La tribulación,  o la angustia,  la persecución,  el hambre,  la indigencia,  el peligro,  o la violencia?",
+					"number": 35,
+					"id": "3548927b-b028-4f04-bc62-2243bbd3d160"
+				},
+				{
+					"verse": "Así está escrito:  \"Por tu causa nos vemos amenazados de muerte todo el día;  nos tratan como a ovejas destinadas al matadero.\"*",
+					"number": 36,
+					"id": "325d58d4-33a2-401f-9880-0445cd0bb241"
+				},
+				{
+					"verse": "Sin embargo,  en todo esto somos más que vencedores por medio de aquel que nos amó.",
+					"number": 37,
+					"id": "0274f1a2-3433-4542-91d5-1288a32e9c9b"
+				},
+				{
+					"verse": "Pues estoy convencido de que ni la muerte ni la vida,  ni los ángeles ni los demonios,* ni lo presente ni lo por venir,  ni los poderes,",
+					"number": 38,
+					"id": "7762315a-097c-4782-83d0-13da4c2b04b6"
+				},
+				{
+					"verse": "ni lo alto ni lo profundo,  ni cosa alguna en toda la creación,  podrá apartarnos del amor que Dios nos ha manifestado en Cristo Jesús nuestro Señor.",
+					"number": 39,
+					"id": "ba77686c-db6a-4c8d-9d9f-28a67efacda3"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Digo la verdad en Cristo;  no miento.  Mi conciencia me lo confirma en el Espíritu Santo.",
+					"number": 1,
+					"study": "La elección de Israel",
+					"id": "4afc74fb-ce0d-409a-99e5-ab6309e8217b"
+				},
+				{
+					"verse": "Me invade una gran tristeza y me embarga un continuo dolor.",
+					"number": 2,
+					"id": "70d61c00-ef13-42d3-8163-1da7cd8881c1"
+				},
+				{
+					"verse": "Desearía yo mismo ser maldecido y separado de Cristo por el bien de mis hermanos,  los de mi propia raza,",
+					"number": 3,
+					"id": "1548c47e-0aa5-456a-9f71-599df39c2652"
+				},
+				{
+					"verse": "el pueblo de Israel.  De ellos son la adopción como hijos,  la gloria divina,  los pactos,  la ley,  y el privilegio de adorar a Dios y contar con sus promesas.",
+					"number": 4,
+					"id": "650deb28-249e-4155-8399-102667816cb8"
+				},
+				{
+					"verse": "De ellos son los patriarcas,  y de ellos,  según la naturaleza humana,  nació Cristo,  quien es Dios sobre todas las cosas.  ¡Alabado sea por siempre!* Amén.",
+					"number": 5,
+					"id": "358f7e33-fa42-4df4-bc3d-92397cb69f89"
+				},
+				{
+					"verse": "Ahora bien,  no digamos que la Palabra de Dios ha fracasado.  Lo que sucede es que no todos los que descienden de Israel son Israel.",
+					"number": 6,
+					"id": "6ce0f31c-662c-4610-9868-168dd22348ea"
+				},
+				{
+					"verse": "Tampoco por ser descendientes de Abraham son todos hijos suyos.  Al contrario:  \"Tu descendencia se establecerá por medio de Isaac.\"*",
+					"number": 7,
+					"id": "070276ca-a9c4-402f-b091-f2901d7ccfee"
+				},
+				{
+					"verse": "En otras palabras,  los hijos de Dios no son los descendientes naturales;  más bien,  se considera descendencia de Abraham a los hijos de la promesa.",
+					"number": 8,
+					"id": "d53189b9-d8a4-469c-a7cc-ec2b16b598d5"
+				},
+				{
+					"verse": "Y la promesa es ésta:  \"El próximo año volveré,  y Sara tendrá un hijo.\"*",
+					"number": 9,
+					"id": "f1a2cc93-00d2-4e7c-8a8b-e979ca325839"
+				},
+				{
+					"verse": "No sólo eso.  También sucedió que los hijos de Rebeca tuvieron un mismo padre,  que fue nuestro antepasado Isaac.",
+					"number": 10,
+					"id": "61eb876e-8f1b-4b52-b4ed-e390de65eb30"
+				},
+				{
+					"verse": "Sin embargo,  antes de que los mellizos nacieran,  o hicieran algo bueno o malo,  y para confirmar el propósito de la elección divina,",
+					"number": 11,
+					"id": "5630b90d-e209-4d49-97dd-a50653e35a0c"
+				},
+				{
+					"verse": "no en base a las obras sino al llamado de Dios,  se le dijo a ella:  \"El mayor servirá al menor.\"*",
+					"number": 12,
+					"id": "5f8b7ff6-4d6a-4cd0-ab84-2281cc16642e"
+				},
+				{
+					"verse": "Y así está escrito:  \"Amé a Jacob,  pero aborrecí a Esaú.\"*",
+					"number": 13,
+					"id": "6a92af8b-b744-4d37-905d-939624be772b"
+				},
+				{
+					"verse": "¿Qué concluiremos?  ¿Acaso es Dios injusto?  ¡De ninguna manera!",
+					"number": 14,
+					"id": "1ca84527-f701-46ea-bc66-4ac0a72b95fa"
+				},
+				{
+					"verse": "Es un hecho que a Moisés le dice:  \"Tendré misericordia de quien yo tenga misericordia;  y me compadeceré de quien yo me compadezca.\"*",
+					"number": 15,
+					"id": "02b3416b-d1e6-4ae7-926e-65ea793b6971"
+				},
+				{
+					"verse": "Por lo tanto,  la elección no depende del deseo ni del esfuerzo humano sino de la misericordia de Dios.",
+					"number": 16,
+					"id": "63d11ca4-2fc3-4864-852c-592ef242f108"
+				},
+				{
+					"verse": "Porque la Escritura le dice al faraón:  \"Te levanté precisamente para mostrar en ti mi poder,  y para que mi nombre sea proclamado por toda la tierra.\"*",
+					"number": 17,
+					"id": "2339070e-0942-40e6-9813-5149a47bca62"
+				},
+				{
+					"verse": "Así que Dios tiene misericordia de quien él quiere tenerla,  y endurece a quien él quiere endurecer.",
+					"number": 18,
+					"id": "bfe6d913-4e98-4ab9-992d-0e07d8fcdbbd"
+				},
+				{
+					"verse": "Pero tú me dirás:  \"Entonces,  ¿por qué todavía nos echa la culpa Dios?  ¿Quién puede oponerse a su voluntad?\"",
+					"number": 19,
+					"id": "09c5ba23-3787-4dfd-8fe9-9273318319fa"
+				},
+				{
+					"verse": "Respondo:  ¿Quién eres tú para pedirle cuentas a Dios?  \"¿Acaso le dirá la olla de barro al que la modeló:  ¿Por qué me hiciste así?  \"*",
+					"number": 20,
+					"id": "14c30bcc-7237-4ff7-8fdc-d82c6e7c0522"
+				},
+				{
+					"verse": "¿No tiene derecho el alfarero de hacer del mismo barro unas vasijas para usos especiales y otras para fines ordinarios?",
+					"number": 21,
+					"id": "21528010-5241-47f5-936d-ea5ddf202d09"
+				},
+				{
+					"verse": "¿Y qué si Dios,  queriendo mostrar su ira y dar a conocer su poder,  soportó con mucha paciencia a los que eran objeto de su castigo* y estaban destinados a la destrucción?",
+					"number": 22,
+					"id": "29526b7b-f2d2-4731-8eb4-867bf27500b2"
+				},
+				{
+					"verse": "¿Qué si lo hizo para dar a conocer sus gloriosas riquezas a los que eran objeto de su misericordia,  y a quienes de antemano preparó para esa gloria?",
+					"number": 23,
+					"id": "316618b4-1b0b-405b-b820-1742081bbb7f"
+				},
+				{
+					"verse": "Ésos somos nosotros,  a quienes Dios llamó no sólo de entre los judíos sino también de entre los gentiles.",
+					"number": 24,
+					"id": "91600340-87a8-4314-a251-4d159817dedd"
+				},
+				{
+					"verse": "Así lo dice Dios en el libro de Oseas:  \"Llamaré mi pueblo a los que no son mi pueblo;  y llamaré mi amada a la que no es mi amada\",*",
+					"number": 25,
+					"id": "e82f5d74-a750-4512-8a26-c11ebb53997b"
+				},
+				{
+					"verse": "\"Y sucederá que en el mismo lugar donde se les dijo:  Ustedes no son mi pueblo,  serán llamados hijos del Dios viviente.\"*",
+					"number": 26,
+					"id": "be709d82-395a-465e-b5be-33e43157d73d"
+				},
+				{
+					"verse": "Isaías,  por su parte,  proclama respecto de Israel:  \"Aunque los israelitas sean tan numerosos como la arena del mar,  sólo el remanente será salvo;",
+					"number": 27,
+					"id": "b1622367-56c2-40d9-93d9-99586bc54ef9"
+				},
+				{
+					"verse": "porque plenamente y sin demora el Señor cumplirá su sentencia en la tierra.\"*",
+					"number": 28,
+					"id": "ca46f55a-02a3-4127-8aa3-b4214cace9a8"
+				},
+				{
+					"verse": "Así había dicho Isaías:  \"Si no fuera porque el Señor Todopoderoso nos dejó descendientes,  habríamos llegado a ser como Sodoma,  habríamos sido como Gomorra.\"*",
+					"number": 29,
+					"id": "4a73093b-c7c9-4a3a-8f6f-a0c0ea0beaa0"
+				},
+				{
+					"verse": "¿Qué concluiremos?  Pues que los gentiles,  que no buscaban la justicia,  la han alcanzado.  Me refiero a la justicia que es por la fe.",
+					"number": 30,
+					"study": "la justicia que es por fe",
+					"id": "29480a8e-17f4-405b-9d1e-306225ba3f26"
+				},
+				{
+					"verse": "En cambio Israel,  que iba en busca de una ley que le diera justicia,  no ha alcanzado esa justicia.",
+					"number": 31,
+					"id": "0b89e401-3894-4c15-80d3-59ede6357e57"
+				},
+				{
+					"verse": "¿Por qué no?  Porque no la buscaron mediante la fe sino mediante las obras,  como si fuera posible alcanzarla así.  Por eso tropezaron con la  \"piedra de tropiezo\",",
+					"number": 32,
+					"id": "06b913a1-a650-4d67-ae48-19bb8955af56"
+				},
+				{
+					"verse": "como está escrito:  \"Miren que pongo en Sión una piedra de tropiezo y una roca que hace caer;  pero el que confíe en él no será defraudado.\"*",
+					"number": 33,
+					"id": "905c4c18-6b4e-4458-bbbe-444f525fae4d"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Hermanos,  el deseo de mi corazón,  y mi oración a Dios por los israelitas,  es que lleguen a ser salvos.",
+					"number": 1,
+					"id": "8c101326-690e-4d32-a159-7a532f4f37eb"
+				},
+				{
+					"verse": "Puedo declarar en favor de ellos que muestran celo por Dios,  pero su celo no se basa en el conocimiento.",
+					"number": 2,
+					"id": "c9bfe2e2-d299-449f-8ce5-1871eb40c057"
+				},
+				{
+					"verse": "No conociendo la justicia que proviene de Dios,  y procurando establecer la suya propia,  no se sometieron a la justicia de Dios.",
+					"number": 3,
+					"id": "ddcddda4-33d2-4865-8ba7-aa740391aa73"
+				},
+				{
+					"verse": "De hecho,  Cristo es el fin de la ley,  para que todo el que cree reciba la justicia.",
+					"number": 4,
+					"id": "236ecf36-7a86-494c-a722-a11b85bf8cac"
+				},
+				{
+					"verse": "Así describe Moisés la justicia que se basa en la ley:  \"Quien haga estas cosas vivirá por ellas.\"*",
+					"number": 5,
+					"id": "bd387bf7-c1e7-49b8-8a16-d54aa5342ba9"
+				},
+				{
+					"verse": "Pero la justicia que se basa en la fe afirma:  \"No digas en tu corazón:  ¿Quién subirá al cielo?*  (es decir,  para hacer bajar a Cristo),",
+					"number": 6,
+					"id": "88566016-92f5-4871-b354-2f985eca4511"
+				},
+				{
+					"verse": "o ¿Quién bajará al abismo?  \"*  (es decir,  para hacer subir a Cristo de entre los muertos).",
+					"number": 7,
+					"id": "57217245-ba39-4f78-9303-0a3e0987ae8f"
+				},
+				{
+					"verse": "¿Qué afirma entonces?  \"Cerca de ti está la palabra,  en tu boca y en tu corazón.\"* Esta es la palabra de fe que predicamos:",
+					"number": 8,
+					"id": "66264cd2-bb56-48c2-8a20-553123c5b9e4"
+				},
+				{
+					"verse": "que si confiesas con tu boca que Jesús es el Señor,  y crees en tu corazón que Dios lo levantó de entre los muertos,  serás salvo.",
+					"number": 9,
+					"id": "14121bea-f225-4b29-bf14-43732be05fec"
+				},
+				{
+					"verse": "Porque con el corazón se cree para ser justificado,  pero con la boca se confiesa para ser salvo.",
+					"number": 10,
+					"id": "0a467261-958e-48e1-9bd0-08b26eb7c67e"
+				},
+				{
+					"verse": "Así dice la Escritura:  \"Todo el que confíe en él no será jamás defraudado.\"*",
+					"number": 11,
+					"id": "a6275dec-8a68-4e5d-be9e-7ebc4f7a4545"
+				},
+				{
+					"verse": "No hay diferencia entre judíos y gentiles,  pues el mismo Señor es Señor de todos y bendice abundantemente a cuantos lo invocan,",
+					"number": 12,
+					"id": "1760f488-1ea0-438b-83a2-bb50d85a1724"
+				},
+				{
+					"verse": "porque  \"todo el que invoque el nombre del Señor será salvo\".*",
+					"number": 13,
+					"id": "07e6b55a-d456-44f6-a86a-a814226882f3"
+				},
+				{
+					"verse": "Ahora bien,  ¿cómo invocarán a aquel en quien no han creído?  ¿Y cómo creerán en aquel de quien no han oído?  ¿Y cómo oirán si no hay quien les predique?",
+					"number": 14,
+					"id": "55ba860a-2c8e-417d-a006-91cfc55cac52"
+				},
+				{
+					"verse": "¿Y quién predicará sin ser enviado?  Así está escrito:  \"¡Qué hermoso es recibir al mensajero que trae* buenas nuevas!\"",
+					"number": 15,
+					"id": "63ad36d7-4174-4676-9631-525608b6a0ee"
+				},
+				{
+					"verse": "Sin embargo,  no todos los israelitas aceptaron las buenas nuevas.  Isaías dice:  \"Señor,  ¿quién ha creído a nuestro mensaje?\"*",
+					"number": 16,
+					"id": "7522cb34-331e-4aa5-9157-c7426d009796"
+				},
+				{
+					"verse": "Así que la fe viene como resultado de oír el mensaje,  y el mensaje que se oye es la palabra de Cristo.*",
+					"number": 17,
+					"id": "1de9c2fe-fa4d-41dc-8788-08a1edbb0ee0"
+				},
+				{
+					"verse": "Pero pregunto:  ¿Acaso no oyeron?  ¡Claro que sí!  \"Por toda la tierra se difundió la voz de ellos,  y sus palabras hasta los confines del mundo.\"*",
+					"number": 18,
+					"id": "768236b3-6504-4349-82b5-fb06e225cb46"
+				},
+				{
+					"verse": "Pero insisto:  ¿Acaso no entendió Israel?  En primer lugar,  Moisés dice:  \"A ustedes yo mismo los pondré celosos con una nación que no es nación;  los provocaré a enojo con una nación insensata.\"*",
+					"number": 19,
+					"id": "f13b5fc7-9269-41a7-8ef6-d60f1bd00fd5"
+				},
+				{
+					"verse": "Luego Isaías se atreve a decir:  \"Dejé que me hallaran los que no me buscaban;  me di a conocer a los que no preguntaban por mí.\"*",
+					"number": 20,
+					"id": "f40332c9-4393-485c-8319-1b68a7099693"
+				},
+				{
+					"verse": "En cambio,  respecto de Israel,  dice:  \"Todo el día extendí mis manos hacia un pueblo desobediente y rebelde.\"*",
+					"number": 21,
+					"id": "fd5b3cb4-e2db-4a74-8b34-007d8843a5ae"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Por lo tanto,  pregunto:  ¿Acaso rechazó Dios a su pueblo?  ¡De ninguna manera!  Yo mismo soy israelita,  descendiente de Abraham,  de la tribu de Benjamín.",
+					"number": 1,
+					"study": "El remanente de Israel",
+					"id": "e5a0e337-3b96-404a-a1e1-7330e4bb9ba6"
+				},
+				{
+					"verse": "Dios no rechazó a su pueblo,  al que de antemano conoció.  ¿No saben lo que relata la Escritura en cuanto a Elías?  Acusó a Israel delante de Dios:",
+					"number": 2,
+					"id": "24995238-ef6b-4afe-a066-97983898f26b"
+				},
+				{
+					"verse": "\"Señor,  han matado a tus profetas y han derribado tus altares;  sólo yo he quedado con vida,  y están tratando de matarme.\"*",
+					"number": 3,
+					"id": "dafddf5e-ef49-4060-9d9d-137585008adc"
+				},
+				{
+					"verse": "¿Y qué le contestó la voz divina?  \"He apartado para mí siete mil hombres que no han doblado la rodilla ante Baal.\"*",
+					"number": 4,
+					"id": "b667d857-10d2-4a94-a3a6-0f847c809736"
+				},
+				{
+					"verse": "Así también hay en la actualidad un remanente escogido por gracia.",
+					"number": 5,
+					"id": "75355048-5ee4-42d6-b859-817be4c37fcf"
+				},
+				{
+					"verse": "Y si es por gracia,  ya no es por obras;  porque en tal caso la gracia ya no sería gracia.*",
+					"number": 6,
+					"id": "996f89da-fd22-4df2-8dfe-a40f3ba7e963"
+				},
+				{
+					"verse": "¿Qué concluiremos?  Pues que Israel no consiguió lo que tanto deseaba,  pero sí lo consiguieron los elegidos.  Los demás fueron endurecidos,",
+					"number": 7,
+					"id": "895ae64d-757f-412a-aa3e-0f9cf0f0632f"
+				},
+				{
+					"verse": "como está escrito:  \"Dios les dio un espíritu insensible,  ojos con los que no pueden ver y oídos con los que no pueden oír,  hasta el día de hoy.\"*",
+					"number": 8,
+					"id": "d2d24cc3-b252-434e-99ed-2de8c2d79b9f"
+				},
+				{
+					"verse": "Y David dice:  \"Que sus banquetes se les conviertan en red y en trampa,  en tropezadero y en castigo.",
+					"number": 9,
+					"id": "a1e59760-9e05-49d4-9897-2df73b410d16"
+				},
+				{
+					"verse": "Que se oscurezcan sus ojos para que no puedan ver,  y se encorven sus espaldas para siempre.\"*",
+					"number": 10,
+					"id": "3108d630-3ee9-4e7b-9212-5ad5e38074e4"
+				},
+				{
+					"verse": "Ahora pregunto:  ¿Acaso tropezaron para no volver a levantarse?  ¡De ninguna manera!  Más bien,  gracias a su transgresión ha venido la salvación a los gentiles,  para que Israel sienta celos.",
+					"number": 11,
+					"study": "La salvación de los gentiles",
+					"id": "329edc87-b086-498a-9c4d-eeeb613afef7"
+				},
+				{
+					"verse": "Pero si su transgresión ha enriquecido al mundo,  es decir,  si su fracaso ha enriquecido a los gentiles,  ¡cuánto mayor será la riqueza que su plena restauración producirá!",
+					"number": 12,
+					"id": "7fcdd5b6-eaf9-453e-ac4d-2008a551264c"
+				},
+				{
+					"verse": "Me dirijo ahora a ustedes,  los gentiles.  Como apóstol que soy de ustedes,  le hago honor a mi ministerio,",
+					"number": 13,
+					"id": "b1dde224-8e96-4fee-8c0c-c052153c75ef"
+				},
+				{
+					"verse": "pues quisiera ver si de algún modo despierto los celos de mi propio pueblo,  para así salvar a algunos de ellos.",
+					"number": 14,
+					"id": "92ed1379-2f2a-40c2-8aaf-d6b46812c95c"
+				},
+				{
+					"verse": "Pues si el haberlos rechazado dio como resultado la reconciliación entre Dios y el mundo,  ¿no será su restitución una vuelta a la vida?",
+					"number": 15,
+					"id": "fb44337a-3e18-412b-b8c1-71ab55a4fbbe"
+				},
+				{
+					"verse": "Si se consagra la parte de la masa que se ofrece como primicias,  también se consagra toda la masa;  si la raíz es santa,  también lo son las ramas.",
+					"number": 16,
+					"id": "4e2634ce-d104-4346-b8e7-b681ec3ad7e7"
+				},
+				{
+					"verse": "Ahora bien,  es verdad que algunas de las ramas han sido desgajadas,  y que tú,  siendo de olivo silvestre,  has sido injertado entre las otras ramas.  Ahora participas de la savia nutritiva de la raíz del olivo.",
+					"number": 17,
+					"id": "9d0a15e6-e5cf-4f73-a795-4029d6a1d124"
+				},
+				{
+					"verse": "Sin embargo,  no te vayas a creer mejor que las ramas originales.  Y si te jactas de ello,  ten en cuenta que no eres tú quien nutre a la raíz,  sino que es la raíz la que te nutre a ti.",
+					"number": 18,
+					"id": "97662e6a-b0fc-4d4a-934f-bb10cda66a2a"
+				},
+				{
+					"verse": "Tal vez dirás:  \"Desgajaron unas ramas para que yo fuera injertado.\"",
+					"number": 19,
+					"id": "35802883-5353-4dea-8c9d-49b6b0ba1226"
+				},
+				{
+					"verse": "De acuerdo.  Pero ellas fueron desgajadas por su falta de fe,  y tú por la fe te mantienes firme.  Así que no seas arrogante sino temeroso;",
+					"number": 20,
+					"id": "d2fc8bf2-a9d5-4edf-a0e7-b5ec15060b47"
+				},
+				{
+					"verse": "porque si Dios no tuvo miramientos con las ramas originales,  tampoco los tendrá contigo.",
+					"number": 21,
+					"id": "25f655a0-ae2c-4474-9669-d7d1c4d10a22"
+				},
+				{
+					"verse": "Por tanto,  considera la bondad y la severidad de Dios:  severidad hacia los que cayeron y bondad hacia ti.  Pero si no te mantienes en su bondad,  tú también serás desgajado.",
+					"number": 22,
+					"id": "60fdeb65-83ce-486c-9df3-30ad80dc11ab"
+				},
+				{
+					"verse": "Y si ellos dejan de ser incrédulos,  serán injertados,  porque Dios tiene poder para injertarlos de nuevo.",
+					"number": 23,
+					"id": "7787854f-a12a-4c80-a03b-e7373c1b116f"
+				},
+				{
+					"verse": "Después de todo,  si tú fuiste cortado de un olivo silvestre,  al que por naturaleza pertenecías,  y contra tu condición natural fuiste injertado en un olivo cultivado,  ¡con cuánta mayor facilidad las ramas naturales de ese olivo serán injertadas de nuevo en él!",
+					"number": 24,
+					"id": "e449c17b-f94d-4d66-88c7-5eb3917764f7"
+				},
+				{
+					"verse": "Hermanos,  quiero que entiendan este misterio para que no se vuelvan presuntuosos.  Parte de Israel se ha endurecido,  y así permanecerá hasta que haya entrado la totalidad de los gentiles.",
+					"number": 25,
+					"study": "La restauración de Israel",
+					"id": "2f660008-02ee-4a47-9063-2065404a05a7"
+				},
+				{
+					"verse": "De esta manera todo Israel será salvo,  como está escrito:  \"Vendrá de Sión el libertador,  que apartará de Jacob la impiedad.",
+					"number": 26,
+					"id": "9097e4a6-62d5-4031-99cb-2975c40f7888"
+				},
+				{
+					"verse": "Y éste será mi pacto con ellos cuando perdone sus pecados.\"*",
+					"number": 27,
+					"id": "32dfd999-1054-4c5a-8136-659c5a2ec401"
+				},
+				{
+					"verse": "Con respecto al evangelio,  los israelitas son enemigos de Dios para bien de ustedes;  pero si tomamos en cuenta la elección,  son amados de Dios por causa de los patriarcas,",
+					"number": 28,
+					"id": "410a5c66-9a07-4a48-b0a7-ea43080598f0"
+				},
+				{
+					"verse": "porque las dádivas de Dios son irrevocables,  como lo es también su llamamiento.",
+					"number": 29,
+					"id": "4f60b3b5-f0ac-4b75-8139-aa2a565e401b"
+				},
+				{
+					"verse": "De hecho,  en otro tiempo ustedes fueron desobedientes a Dios;  pero ahora,  por la desobediencia de los israelitas,  han sido objeto de su misericordia.",
+					"number": 30,
+					"id": "27213170-ebf3-44a2-9c92-23cb301c990e"
+				},
+				{
+					"verse": "Así mismo,  estos que han desobedecido recibirán misericordia ahora,  como resultado de la misericordia de Dios hacia ustedes.",
+					"number": 31,
+					"id": "0b7070b9-7304-4edf-b90e-d11dc928c671"
+				},
+				{
+					"verse": "En fin,  Dios ha sujetado a todos a la desobediencia,  con el fin de tener misericordia de todos.",
+					"number": 32,
+					"id": "38f826b8-0ebd-4d9d-bfec-42ef5873a26d"
+				},
+				{
+					"verse": "¡Qué profundas son las riquezas de la sabiduría y del conocimiento de Dios!  ¡Qué indescifrables sus juicios e impenetrables sus caminos!",
+					"number": 33,
+					"id": "3aa331bc-0338-4c92-97aa-03b73abd4457"
+				},
+				{
+					"verse": "\"¿Quién ha conocido la mente del Señor?  ¿O quién ha sido su consejero?\"*",
+					"number": 34,
+					"id": "24ce7805-107c-4d4e-aef1-89dd0b5ee2e3"
+				},
+				{
+					"verse": "\"¿Quién le ha dado primero a Dios,  para que luego Dios le pague?\"*",
+					"number": 35,
+					"id": "51feeb58-8c9f-446d-8755-fae1c1b4fcaf"
+				},
+				{
+					"verse": "Porque todas las cosas proceden de él,  y existen por él y para él.  ¡A él sea la gloria por siempre!  Amén.",
+					"number": 36,
+					"id": "f867a070-52f7-461f-ac7f-2b5cd6b161c6"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Por lo tanto,  hermanos,  tomando en cuenta la misericordia de Dios,  les ruego que cada uno de ustedes,  en adoración espiritual,* ofrezca su cuerpo como sacrificio vivo,  santo y agradable a Dios.",
+					"number": 1,
+					"study": "Deberes cristianos",
+					"id": "2b09802e-423a-484f-8a7a-1180e60c8265"
+				},
+				{
+					"verse": "No se amolden al mundo actual,  sino sean transformados mediante la renovación de su mente.  Así podrán comprobar cuál es la voluntad de Dios,  buena,  agradable y perfecta.",
+					"number": 2,
+					"id": "90096b97-cf79-4005-8ed0-38a2fed4505b"
+				},
+				{
+					"verse": "Por la gracia que se me ha dado,  les digo a todos ustedes:  Nadie tenga un concepto de sí más alto que el que debe tener,  sino más bien piense de sí mismo con moderación,  según la medida de fe que Dios le haya dado.",
+					"number": 3,
+					"id": "1f0518eb-71f1-4564-a592-ed20b349bb59"
+				},
+				{
+					"verse": "Pues así como cada uno de nosotros tiene un solo cuerpo con muchos miembros,  y no todos estos miembros desempeñan la misma función,",
+					"number": 4,
+					"id": "f3cb1702-d725-428b-884b-01877ffbc22c"
+				},
+				{
+					"verse": "también nosotros,  siendo muchos,  formamos un solo cuerpo en Cristo,  y cada miembro está unido a todos los demás.",
+					"number": 5,
+					"id": "c8ed076d-324b-4fe1-aac7-281555235f4c"
+				},
+				{
+					"verse": "Tenemos dones diferentes,  según la gracia que se nos ha dado.  Si el don de alguien es el de profecía,  que lo use en proporción con su fe;*",
+					"number": 6,
+					"id": "bd8dfa41-ffac-4f22-a04a-363595930018"
+				},
+				{
+					"verse": "si es el de prestar un servicio,  que lo preste;  si es el de enseñar,  que enseñe;",
+					"number": 7,
+					"id": "fda1737b-d819-4ff6-af2f-0fd1686911f3"
+				},
+				{
+					"verse": "si es el de animar a otros,  que los anime;  si es el de socorrer a los necesitados,  que dé con generosidad;  si es el de dirigir,  que dirija con esmero;  si es el de mostrar compasión,  que lo haga con alegría.",
+					"number": 8,
+					"id": "7e27dc17-c11f-4e82-9157-d86948374a1d"
+				},
+				{
+					"verse": "El amor debe ser sincero.  Aborrezcan el mal;  aférrense al bien.",
+					"number": 9,
+					"id": "c15cd8cd-4b27-43c9-bda5-218e3a35c8ba"
+				},
+				{
+					"verse": "Ámense los unos a los otros con amor fraternal,  respetándose y honrándose mutuamente.",
+					"number": 10,
+					"id": "fc78772b-b6c6-4bc1-a7af-dc50a0cb5491"
+				},
+				{
+					"verse": "Nunca dejen de ser diligentes;  antes bien,  sirvan al Señor con el fervor que da el Espíritu.",
+					"number": 11,
+					"id": "e0291804-f7fe-44c8-9efb-5619ea4e34f7"
+				},
+				{
+					"verse": "Alégrense en la esperanza,  muestren paciencia en el sufrimiento,  perseveren en la oración.",
+					"number": 12,
+					"id": "4875f4b1-715f-4458-81f0-a2f752385c5e"
+				},
+				{
+					"verse": "Ayuden a los hermanos necesitados.  Practiquen la hospitalidad.",
+					"number": 13,
+					"id": "de84b786-ba88-41f8-bf8e-b8b789e8cd97"
+				},
+				{
+					"verse": "Bendigan a quienes los persigan;  bendigan y no maldigan.",
+					"number": 14,
+					"id": "85837080-d7e8-4c01-9c41-68456111a588"
+				},
+				{
+					"verse": "Alégrense con los que están alegres;  lloren con los que lloran.",
+					"number": 15,
+					"id": "831e7d1f-dce3-4f93-9e23-747b4574f139"
+				},
+				{
+					"verse": "Vivan en armonía los unos con los otros.  No sean arrogantes,  sino háganse solidarios con los humildes.* No se crean los únicos que saben.",
+					"number": 16,
+					"id": "49e22943-de2d-4d32-8b43-f8d10176977a"
+				},
+				{
+					"verse": "No paguen a nadie mal por mal.  Procuren hacer lo bueno delante de todos.",
+					"number": 17,
+					"id": "6cc41b51-7cdc-4aa4-b1fd-3d3982faa3e6"
+				},
+				{
+					"verse": "Si es posible,  y en cuanto dependa de ustedes,  vivan en paz con todos.",
+					"number": 18,
+					"id": "e50c660e-3ff4-48ed-b792-c000db2e7c23"
+				},
+				{
+					"verse": "No tomen venganza,  hermanos míos,  sino dejen el castigo en las manos de Dios,  porque está escrito:  \"Mía es la venganza;  yo pagaré\",* dice el Señor.",
+					"number": 19,
+					"id": "fc386006-2926-42fc-8d3f-c2998276747a"
+				},
+				{
+					"verse": "Antes bien,  \"Si tu enemigo tiene hambre,  dale de comer;  si tiene sed,  dale de beber.  Actuando así,  harás que se avergüence de su conducta.\"*",
+					"number": 20,
+					"id": "1360a714-a2a6-41c8-b099-fe72e469f290"
+				},
+				{
+					"verse": "No te dejes vencer por el mal;  al contrario,  vence el mal con el bien.",
+					"number": 21,
+					"id": "909b7f77-dcf3-47bf-ae34-52df70d30c44"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Todos deben someterse a las autoridades públicas,  pues no hay autoridad que Dios no haya dispuesto,  así que las que existen fueron establecidas por él.",
+					"number": 1,
+					"id": "ddccf772-2a57-4b5e-9536-c8aa9c3dc9ed"
+				},
+				{
+					"verse": "Por lo tanto,  todo el que se opone a la autoridad se rebela contra lo que Dios ha instituido.  Los que así proceden recibirán castigo.",
+					"number": 2,
+					"id": "2cc25e5d-fa82-417b-9285-b742ff5fc5da"
+				},
+				{
+					"verse": "Porque los gobernantes no están para infundir terror a los que hacen lo bueno sino a los que hacen lo malo.  ¿Quieres librarte del miedo a la autoridad?  Haz lo bueno,  y tendrás su aprobación,",
+					"number": 3,
+					"id": "1a6d6d0f-12a3-474b-9fa7-810eb108fb76"
+				},
+				{
+					"verse": "pues está al servicio de Dios para tu bien.  Pero si haces lo malo,  entonces debes tener miedo.  No en vano lleva la espada,  pues está al servicio de Dios para impartir justicia y castigar al malhechor.",
+					"number": 4,
+					"id": "85659681-334d-41de-b957-b7ffb33f4177"
+				},
+				{
+					"verse": "Así que es necesario someterse a las autoridades,  no sólo para evitar el castigo sino también por razones de conciencia.",
+					"number": 5,
+					"id": "4bba3a40-d539-4f7a-aa91-c61083717cef"
+				},
+				{
+					"verse": "Por eso mismo pagan ustedes impuestos,  pues las autoridades están al servicio de Dios,  dedicadas precisamente a gobernar.",
+					"number": 6,
+					"id": "b90d762f-5e9a-4d98-a8f9-6607bf78cb23"
+				},
+				{
+					"verse": "Paguen a cada uno lo que le corresponda:  si deben impuestos,  paguen los impuestos;  si deben contribuciones,  paguen las contribuciones;  al que deban respeto,  muéstrenle respeto;  al que deban honor,  ríndanle honor.",
+					"number": 7,
+					"id": "56162010-dd3c-432b-aed4-73b1157d9cf3"
+				},
+				{
+					"verse": "No tengan deudas pendientes con nadie,  a no ser la de amarse unos a otros.  De hecho,  quien ama al prójimo ha cumplido la ley.",
+					"number": 8,
+					"id": "3bd314ad-fc41-46de-a677-b29a0dcff18b"
+				},
+				{
+					"verse": "Porque los mandamientos que dicen:  \"No cometas adulterio\",  \"No mates\",  \"No robes\",  \"No codicies\",* y todos los demás mandamientos,  se resumen en este precepto:  \"Ama a tu prójimo como a ti mismo.\"*",
+					"number": 9,
+					"id": "907f8b7c-e48a-4bfc-bbf4-fa13a657f911"
+				},
+				{
+					"verse": "El amor no perjudica al prójimo.  Así que el amor es el cumplimiento de la ley.",
+					"number": 10,
+					"id": "87ee8a40-f20f-4348-a475-e8c23eb39a9b"
+				},
+				{
+					"verse": "Hagan todo esto estando conscientes del tiempo en que vivimos.  Ya es hora de que despierten del sueño,  pues nuestra salvación está ahora más cerca que cuando inicialmente creímos.",
+					"number": 11,
+					"id": "86d82f7a-cf8f-4ece-ad5b-5374e9dd2f40"
+				},
+				{
+					"verse": "La noche está muy avanzada y ya se acerca el día.  Por eso,  dejemos a un lado las obras de la oscuridad y pongámonos la armadura de la luz.",
+					"number": 12,
+					"id": "8f94ac0b-475a-4b89-8225-c8625772bdc8"
+				},
+				{
+					"verse": "Vivamos decentemente,  como a la luz del día,  no en orgías y borracheras,  ni en inmoralidad sexual y libertinaje,  ni en disensiones y envidias.",
+					"number": 13,
+					"id": "64c1a188-cf51-47c1-a552-15d50b080768"
+				},
+				{
+					"verse": "Más bien,  revístanse ustedes del Señor Jesucristo,  y no se preocupen por satisfacer los deseos de la naturaleza pecaminosa.",
+					"number": 14,
+					"id": "fb7733ea-6819-42c0-8cb7-15fc0742e273"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "Reciban al que es débil en la fe,  pero no para entrar en discusiones.",
+					"number": 1,
+					"study": "Los débiles en la fe",
+					"id": "b9d50731-add7-4f88-9155-eb2419680c81"
+				},
+				{
+					"verse": "A algunos su fe les permite comer de todo,  pero hay quienes son débiles en la fe,  y sólo comen verduras.",
+					"number": 2,
+					"id": "737139b4-b6a6-4a87-94ca-1e6a2b811cc4"
+				},
+				{
+					"verse": "El que come de todo no debe menospreciar al que no come ciertas cosas,  y el que no come de todo no debe condenar al que lo hace,  pues Dios lo ha aceptado.",
+					"number": 3,
+					"id": "b51d453b-417e-4860-a36e-2b38dcfa139f"
+				},
+				{
+					"verse": "¿Quién eres tú para juzgar al siervo de otro?  Que se mantenga en pie,  o que caiga,  es asunto de su propio señor.  Y se mantendrá en pie,  porque el Señor tiene poder para sostenerlo.",
+					"number": 4,
+					"id": "59d18f97-d458-4055-b8f9-d07e23efa14e"
+				},
+				{
+					"verse": "Hay quien considera que un día tiene más importancia que otro,  pero hay quien considera iguales todos los días.  Cada uno debe estar firme en sus propias opiniones.",
+					"number": 5,
+					"id": "ead2e157-5ff3-4a41-8b4c-517f532bc03a"
+				},
+				{
+					"verse": "El que le da importancia especial a cierto día,  lo hace para el Señor.  El que come de todo,  come para el Señor,  y lo demuestra dándole gracias a Dios;  y el que no come,  para el Señor se abstiene,  y también da gracias a Dios.",
+					"number": 6,
+					"id": "0fb458ba-5662-4383-9f7e-cb38eefe5892"
+				},
+				{
+					"verse": "Porque ninguno de nosotros vive para sí mismo,  ni tampoco muere para sí.",
+					"number": 7,
+					"id": "bb0d2608-2f7f-4bfe-8079-ed692664d94b"
+				},
+				{
+					"verse": "Si vivimos,  para el Señor vivimos;  y si morimos,  para el Señor morimos.  Así pues,  sea que vivamos o que muramos,  del Señor somos.",
+					"number": 8,
+					"id": "772fe9a4-5d5a-45d0-9134-916aaf3f2d07"
+				},
+				{
+					"verse": "Para esto mismo murió Cristo,  y volvió a vivir,  para ser Señor tanto de los que han muerto como de los que aún viven.",
+					"number": 9,
+					"id": "f77fee6e-6b83-4941-85b9-8d89a7f32cfb"
+				},
+				{
+					"verse": "Tú,  entonces,  ¿por qué juzgas a tu hermano?  O tú,  ¿por qué lo menosprecias?  ¡Todos tendremos que comparecer ante el tribunal de Dios!",
+					"number": 10,
+					"id": "a4327e5e-4b55-4cf2-9178-786c0eb8539b"
+				},
+				{
+					"verse": "Está escrito:  \"Tan cierto como que yo vivo --dice el Señor--,  ante mí se doblará toda rodilla y toda lengua confesará a Dios.\"*",
+					"number": 11,
+					"id": "d2fb89c0-ec33-4311-bb7d-48d32a44eb52"
+				},
+				{
+					"verse": "Así que cada uno de nosotros tendrá que dar cuentas de sí a Dios.",
+					"number": 12,
+					"id": "2a2d707e-29d3-4744-867f-257eda6001aa"
+				},
+				{
+					"verse": "Por tanto,  dejemos de juzgarnos unos a otros.  Más bien,  propónganse no poner tropiezos ni obstáculos al hermano.",
+					"number": 13,
+					"id": "f29dba0d-b756-4674-b8da-27f08dc728d1"
+				},
+				{
+					"verse": "Yo,  de mi parte,  estoy plenamente convencido en el Señor Jesús de que no hay nada impuro en sí mismo.  Si algo es impuro,  lo es solamente para quien así lo considera.",
+					"number": 14,
+					"id": "4d450319-52ed-49c3-8595-49f19b80b3cf"
+				},
+				{
+					"verse": "Ahora bien,  si tu hermano se angustia por causa de lo que comes,  ya no te comportas con amor.  No destruyas,  por causa de la comida,  al hermano por quien Cristo murió.",
+					"number": 15,
+					"id": "c80ae27c-d098-49be-b45a-e475bcd80391"
+				},
+				{
+					"verse": "En una palabra,  no den lugar a que se hable mal del bien que ustedes practican,",
+					"number": 16,
+					"id": "203f51f3-2356-47c6-adf0-f047fff585a3"
+				},
+				{
+					"verse": "porque el reino de Dios no es cuestión de comidas o bebidas sino de justicia,  paz y alegría en el Espíritu Santo.",
+					"number": 17,
+					"id": "5c45429a-fef8-474c-91bd-05fc231f5480"
+				},
+				{
+					"verse": "El que de esta manera sirve a Cristo,  agrada a Dios y es aprobado por sus semejantes.",
+					"number": 18,
+					"id": "dffb5ca4-32ad-4781-8a54-950ca04fb9a4"
+				},
+				{
+					"verse": "Por lo tanto,  esforcémonos por promover todo lo que conduzca a la paz y a la mutua edificación.",
+					"number": 19,
+					"id": "1c58863e-1099-437a-a2e0-94f0c0007eb3"
+				},
+				{
+					"verse": "No destruyas la obra de Dios por causa de la comida.  Todo alimento es puro;  lo malo es hacer tropezar a otros por lo que uno come.",
+					"number": 20,
+					"id": "b105be66-99a5-44a2-9c37-97ddb29a1ccc"
+				},
+				{
+					"verse": "Más vale no comer carne ni beber vino,  ni hacer nada que haga caer a tu hermano.",
+					"number": 21,
+					"id": "15c91c58-c219-44f0-933d-c69cd192b476"
+				},
+				{
+					"verse": "Así que la convicción* que tengas tú al respecto,  manténla como algo entre Dios y tú.  Dichoso aquel a quien su conciencia no lo acusa por lo que hace.",
+					"number": 22,
+					"id": "eab1538b-1077-4812-a8e4-746fc9bfc420"
+				},
+				{
+					"verse": "Pero el que tiene dudas en cuanto a lo que come,  se condena;  porque no lo hace por convicción.  Y todo lo que no se hace por convicción es pecado.",
+					"number": 23,
+					"id": "695f0f5b-043f-4716-b41c-8b1550f0ff58"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "Los fuertes en la fe debemos apoyar a los débiles,  en vez de hacer lo que nos agrada.",
+					"number": 1,
+					"id": "ced55154-bb9a-47d6-b65b-f959f52f1dd0"
+				},
+				{
+					"verse": "Cada uno debe agradar al prójimo para su bien,  con el fin de edificarlo.",
+					"number": 2,
+					"id": "12602483-e49c-4269-8f37-c275680927c4"
+				},
+				{
+					"verse": "Porque ni siquiera Cristo se agradó a sí mismo sino que,  como está escrito:  \"Las ofensas de los que te insultan han caído sobre mí.\"*",
+					"number": 3,
+					"id": "7174f8f1-691f-4c0e-95d3-4cfb009782b5"
+				},
+				{
+					"verse": "De hecho,  todo lo que se escribió en el pasado se escribió para enseñarnos,  a fin de que,  alentados por las Escrituras,  perseveremos en mantener nuestra esperanza.",
+					"number": 4,
+					"id": "26241704-b2c9-40bd-a4c8-4e521edf2d0d"
+				},
+				{
+					"verse": "Que el Dios que infunde aliento y perseverancia les conceda vivir juntos en armonía,  conforme al ejemplo de Cristo Jesús,",
+					"number": 5,
+					"id": "167f8cbb-698a-48c0-a3da-f4af9e8cead4"
+				},
+				{
+					"verse": "para que con un solo corazón y a una sola voz glorifiquen al Dios y Padre de nuestro Señor Jesucristo.",
+					"number": 6,
+					"id": "3cb7af31-9690-45c0-8b5f-afa6451cf0ef"
+				},
+				{
+					"verse": "Por tanto,  acéptense mutuamente,  así como Cristo los aceptó a ustedes para gloria de Dios.",
+					"number": 7,
+					"study": "El evangelio a los gentiles",
+					"id": "aa362f9c-998e-43b6-819f-f06c2ea0e00e"
+				},
+				{
+					"verse": "Les digo que Cristo se hizo servidor de los judíos* para demostrar la fidelidad de Dios,  a fin de confirmar las promesas hechas a los patriarcas,",
+					"number": 8,
+					"id": "7c0e31f5-893b-4179-864e-3cecb445043e"
+				},
+				{
+					"verse": "y para que los gentiles glorifiquen a Dios por su compasión,  como está escrito:  \"Por eso te alabaré entre las naciones;  cantaré himnos a tu nombre.\"*",
+					"number": 9,
+					"id": "d83a7e62-081e-4f7f-850d-fa7bb6f17497"
+				},
+				{
+					"verse": "En otro pasaje dice:  \"Alégrense,  naciones,  con el pueblo de Dios.\"*",
+					"number": 10,
+					"id": "6e7d90d7-36a3-4c0f-9c33-84e0f8e7a4c8"
+				},
+				{
+					"verse": "Y en otra parte:  \"Alaben al Señor,  naciones todas;  pueblos todos,  cántenle alabanzas.\"*",
+					"number": 11,
+					"id": "7a8e4d16-95d9-48ba-81c0-f7f27940638d"
+				},
+				{
+					"verse": "A su vez,  Isaías afirma:  \"Brotará la raíz de Isaí,  el que se levantará para gobernar a las naciones;  en él los pueblos pondrán su esperanza.\"*",
+					"number": 12,
+					"id": "9fbef8b2-3b2d-406c-ba01-5cde3ad7c48e"
+				},
+				{
+					"verse": "Que el Dios de la esperanza los llene de toda alegría y paz a ustedes que creen en él,  para que rebosen de esperanza por el poder del Espíritu Santo.",
+					"number": 13,
+					"id": "dcea6b78-c087-48e2-8d21-212b0a7b3254"
+				},
+				{
+					"verse": "Por mi parte,  hermanos míos,  estoy seguro de que ustedes mismos rebosan de bondad,  abundan en conocimiento y están capacitados para instruirse unos a otros.",
+					"number": 14,
+					"id": "5ac58f3e-715c-471d-b87e-ea5f141af9e2"
+				},
+				{
+					"verse": "Sin embargo,  les he escrito con mucha franqueza sobre algunos asuntos,  como para refrescarles la memoria.  Me he atrevido a hacerlo por causa de la gracia que Dios me dio",
+					"number": 15,
+					"id": "6237ebe5-8594-4cb9-bde0-bc64c08aeb64"
+				},
+				{
+					"verse": "para ser ministro de Cristo Jesús a los gentiles.  Yo tengo el deber sacerdotal de proclamar el evangelio de Dios,  a fin de que los gentiles lleguen a ser una ofrenda aceptable a Dios,  santificada por el Espíritu Santo.",
+					"number": 16,
+					"id": "f7497085-f0b4-401c-bddf-ed65ec08e219"
+				},
+				{
+					"verse": "Por tanto,  mi servicio a Dios es para mí motivo de orgullo en Cristo Jesús.",
+					"number": 17,
+					"id": "20f97aa6-9664-4ab2-8d1e-2f7c49f80acf"
+				},
+				{
+					"verse": "No me atreveré a hablar de nada sino de lo que Cristo ha hecho por medio de mí para que los gentiles lleguen a obedecer a Dios.  Lo ha hecho con palabras y obras,",
+					"number": 18,
+					"id": "969da419-6014-4e5b-a903-e52c5e2723dd"
+				},
+				{
+					"verse": "mediante poderosas señales y milagros,  por el poder del Espíritu de Dios.  Así que,  habiendo comenzado en Jerusalén,  he completado la proclamación del evangelio de Cristo por todas partes,  hasta la región de Iliria.",
+					"number": 19,
+					"id": "fc83e19f-ff0c-4fef-860f-f20269bf1db8"
+				},
+				{
+					"verse": "En efecto,  mi propósito ha sido predicar el evangelio donde Cristo no sea conocido,  para no edificar sobre fundamento ajeno.",
+					"number": 20,
+					"id": "516f0077-cf18-4adf-b6a3-173c2ebd9103"
+				},
+				{
+					"verse": "Más bien,  como está escrito:  \"Los que nunca habían recibido noticia de él,  lo verán;  y entenderán los que no habían oído hablar de él.\"*",
+					"number": 21,
+					"id": "17176794-4857-48ae-91cd-eb48c7eded36"
+				},
+				{
+					"verse": "Este trabajo es lo que muchas veces me ha impedido ir a visitarlos.",
+					"number": 22,
+					"study": "Pablo se propone ir a Roma",
+					"id": "2a856f5a-154e-4ea8-b5b7-8506e194e54e"
+				},
+				{
+					"verse": "Pero ahora que ya no me queda un lugar dónde trabajar en estas regiones,  y como desde hace muchos años anhelo verlos,",
+					"number": 23,
+					"id": "aedc7801-f3cd-413b-9a8d-8c473d93771c"
+				},
+				{
+					"verse": "tengo planes de visitarlos cuando vaya rumbo a España.  Espero que,  después de que haya disfrutado de la compañía de ustedes por algún tiempo,  me ayuden a continuar el viaje.",
+					"number": 24,
+					"id": "7134c048-81f0-4d96-96f7-eebf47cec9f0"
+				},
+				{
+					"verse": "Por ahora,  voy a Jerusalén para llevar ayuda a los hermanos,",
+					"number": 25,
+					"id": "6fd78828-e8ac-4770-873e-d75981d0c94b"
+				},
+				{
+					"verse": "ya que Macedonia y Acaya tuvieron a bien hacer una colecta para los hermanos pobres de Jerusalén.",
+					"number": 26,
+					"id": "3652191f-edd7-49b9-ae2d-52b3355eb7be"
+				},
+				{
+					"verse": "Lo hicieron de buena voluntad,  aunque en realidad era su obligación hacerlo.  Porque si los gentiles han participado de las bendiciones espirituales de los judíos,  están en deuda con ellos para servirles con las bendiciones materiales.",
+					"number": 27,
+					"id": "998da3f2-5329-45d9-bec2-cdebbe673cb2"
+				},
+				{
+					"verse": "Así que,  una vez que yo haya cumplido esta tarea y entregado en sus manos este fruto,  saldré para España y de paso los visitaré a ustedes.",
+					"number": 28,
+					"id": "26f05ec7-4474-47ba-876a-017285b9dede"
+				},
+				{
+					"verse": "Sé que,  cuando los visite,  iré con la abundante bendición de Cristo.",
+					"number": 29,
+					"id": "6c3e89ee-e6ef-40fa-9dec-852bb7e41a9a"
+				},
+				{
+					"verse": "Les ruego,  hermanos,  por nuestro Señor Jesucristo y por el amor del Espíritu,  que se unan conmigo en esta lucha y que oren a Dios por mí.",
+					"number": 30,
+					"id": "66b59dc6-c39a-4911-952e-bae2fa6a3743"
+				},
+				{
+					"verse": "Pídanle que me libre de caer en manos de los incrédulos que están en Judea,  y que los hermanos de Jerusalén reciban bien la ayuda que les llevo.",
+					"number": 31,
+					"id": "6609bfc8-9b1f-4f15-879e-7a5af29128e1"
+				},
+				{
+					"verse": "De este modo,  por la voluntad de Dios,  llegaré a ustedes con alegría y podré descansar entre ustedes por algún tiempo.",
+					"number": 32,
+					"id": "f8943df1-29ff-435e-b476-d8c60f5dce0b"
+				},
+				{
+					"verse": "El Dios de paz sea con todos ustedes.  Amén.",
+					"number": 33,
+					"id": "86ba546b-91f6-419f-b949-7cd825992f02"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "Les recomiendo a nuestra hermana Febe,  diaconisa de la iglesia de Cencrea.",
+					"number": 1,
+					"study": "Saludos personales",
+					"id": "bff27f42-2f3c-45eb-a385-f0feb3eba30f"
+				},
+				{
+					"verse": "Les pido que la reciban dignamente en el Señor,  como conviene hacerlo entre hermanos en la fe;  préstenle toda la ayuda que necesite,  porque ella ha ayudado a muchas personas,  entre las que me cuento yo.",
+					"number": 2,
+					"id": "510393f3-1e0f-4a8d-89b4-605154f7cf93"
+				},
+				{
+					"verse": "Saluden a Priscila y a Aquila,  mis compañeros de trabajo en Cristo Jesús.",
+					"number": 3,
+					"id": "f7987b07-8b8e-448c-9d9a-249d6b402e47"
+				},
+				{
+					"verse": "Por salvarme la vida,  ellos arriesgaron la suya.  Tanto yo como todas las iglesias de los gentiles les estamos agradecidos.",
+					"number": 4,
+					"id": "b57018ab-7404-4a28-b997-a083fd2a5313"
+				},
+				{
+					"verse": "Saluden igualmente a la iglesia que se reúne en la casa de ellos.  Saluden a mi querido hermano Epeneto,  el primer convertido a Cristo en la provincia de Asia.*",
+					"number": 5,
+					"id": "4ad316e9-908c-4291-8199-248a7a922508"
+				},
+				{
+					"verse": "Saluden a María,  que tanto ha trabajado por ustedes.",
+					"number": 6,
+					"id": "4d94e9ad-93da-4b59-a35c-8c9331a9c0fe"
+				},
+				{
+					"verse": "Saluden a Andrónico y a Junías,* mis parientes y compañeros de cárcel,  destacados entre los apóstoles y convertidos a Cristo antes que yo.",
+					"number": 7,
+					"id": "2104f841-2ecf-4f66-bf19-0a4fe723c577"
+				},
+				{
+					"verse": "Saluden a Amplias,  mi querido hermano en el Señor.",
+					"number": 8,
+					"id": "162ecd1f-5c44-42b0-b8e0-05af417202d1"
+				},
+				{
+					"verse": "Saluden a Urbano,  nuestro compañero de trabajo en Cristo,  y a mi querido hermano Estaquis.",
+					"number": 9,
+					"id": "1bb948f8-2191-4051-96a8-175f916103ec"
+				},
+				{
+					"verse": "Saluden a Apeles,  que ha dado tantas pruebas de su fe en Cristo.  Saluden a los de la familia de Aristóbulo.",
+					"number": 10,
+					"id": "70a385c4-0f69-4d85-a5bc-598eac6119b4"
+				},
+				{
+					"verse": "Saluden a Herodión,  mi pariente.  Saluden a los de la familia de Narciso,  fieles en el Señor.",
+					"number": 11,
+					"id": "0cfdb864-7a30-4380-9bf0-e23054d9accc"
+				},
+				{
+					"verse": "Saluden a Trifena y a Trifosa,  las cuales se esfuerzan trabajando por el Señor.  Saluden a mi querida hermana Pérsida,  que ha trabajado muchísimo en el Señor.",
+					"number": 12,
+					"id": "36f9c2b3-df1a-4f98-9045-7a8a5dd894ba"
+				},
+				{
+					"verse": "Saluden a Rufo,  distinguido creyente,* y a su madre,  que ha sido también como una madre para mí.",
+					"number": 13,
+					"id": "616e2311-c929-43fc-839f-693248f7bd21"
+				},
+				{
+					"verse": "Saluden a Asíncrito,  a Flegonte,  a Hermes,  a Patrobas,  a Hermas y a los hermanos que están con ellos.",
+					"number": 14,
+					"id": "4f8d911a-4d34-43a2-9556-5fa0599fa035"
+				},
+				{
+					"verse": "Saluden a Filólogo,  a Julia,  a Nereo y a su hermana,  a Olimpas y a todos los hermanos que están con ellos.",
+					"number": 15,
+					"id": "ac470fbd-249e-4874-87d4-c4a146c102e3"
+				},
+				{
+					"verse": "Salúdense unos a otros con un beso santo.  Todas las iglesias de Cristo les mandan saludos.",
+					"number": 16,
+					"id": "f321841e-07df-4314-b3d5-74c398a0ad3e"
+				},
+				{
+					"verse": "Les ruego,  hermanos,  que se cuiden de los que causan divisiones y dificultades,  y van en contra de lo que a ustedes se les ha enseñado.  Apártense de ellos.",
+					"number": 17,
+					"id": "dba875eb-c840-4ef8-af94-f036f2878247"
+				},
+				{
+					"verse": "Tales individuos no sirven a Cristo nuestro Señor,  sino a sus propios deseos.* Con palabras suaves y lisonjeras engañan a los ingenuos.",
+					"number": 18,
+					"id": "93010954-cfdd-414d-ae0f-a52be8ce107c"
+				},
+				{
+					"verse": "Es cierto que ustedes viven en obediencia,  lo que es bien conocido de todos y me alegra mucho;  pero quiero que sean sagaces para el bien e inocentes para el mal.",
+					"number": 19,
+					"id": "36798b57-7238-4196-8696-14aad1dfb3c8"
+				},
+				{
+					"verse": "Muy pronto el Dios de paz aplastará a Satanás bajo los pies de ustedes.  Que la gracia de nuestro Señor Jesús sea con ustedes.",
+					"number": 20,
+					"id": "267be9ea-18b2-4c42-9ffe-750b43f7d819"
+				},
+				{
+					"verse": "Saludos de parte de Timoteo,  mi compañero de trabajo,  como también de Lucio,  Jasón y Sosípater,  mis parientes.",
+					"number": 21,
+					"id": "a6cac1ce-4c10-4677-b64f-480c9c4a207d"
+				},
+				{
+					"verse": "Yo,  Tercio,  que escribo esta carta,  los saludo en el Señor.",
+					"number": 22,
+					"id": "ce638ac7-f520-4a0d-84d6-ddabe189b3dd"
+				},
+				{
+					"verse": "Saludos de parte de Gayo,  de cuya hospitalidad disfrutamos yo y toda la iglesia de este lugar.  También les mandan saludos Erasto,  que es el tesorero de la ciudad,  y nuestro hermano Cuarto.*",
+					"number": 23,
+					"id": "ae5ed43f-4265-4905-8028-392c0726a70d"
+				},
+				{
+					"verse": "(OMITTED TEXT)",
+					"number": 24,
+					"id": "f3faf378-f04d-4778-8130-2169542d2859"
+				},
+				{
+					"verse": "El Dios eterno ocultó su misterio durante largos siglos,  pero ahora lo ha revelado por medio de los escritos proféticos,  según su propio mandato,  para que todas las naciones obedezcan a la fe.  ¡Al que puede fortalecerlos a ustedes conforme a mi evangelio y a la predicación acerca de Jesucristo,",
+					"number": 25,
+					"study": "Doxología final",
+					"id": "adea0ef2-c97c-4a3a-96a6-d84cd01866d8"
+				},
+				{
+					"verse": "(OMITTED TEXT)",
+					"number": 26,
+					"id": "ce74813f-407f-40a6-8193-ce8c2fae2140"
+				},
+				{
+					"verse": "al único sabio Dios,  sea la gloria para siempre por medio de Jesucristo!  Amén.",
+					"number": 27,
+					"id": "63fbc877-43b1-4c74-bcc4-fcc53fbb1821"
+				}
+			]
+		}
+	],
+	"book_id": "7e0ca906-3935-42c9-a3e7-7697b2ca0bdb"
+}

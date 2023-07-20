@@ -1,0 +1,92 @@
+{
+	"name": "3-Juan",
+	"num_chapters": 1,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "El anciano saluda al querido Gayo, a quien ama en verdad.",
+					"number": 1,
+					"study": "Salutación",
+					"id": "576f7a17-37ae-4317-8a20-2fe89694d728"
+				},
+				{
+					"verse": "Querido hermano, pido a Dios que, así como te va bien espiritualmente, te vaya bien en todo y tengas buena salud.",
+					"number": 2,
+					"id": "f5463b7c-8040-4c5e-94c8-e37eb2a5a6ff"
+				},
+				{
+					"verse": "Me alegré mucho cuando algunos hermanos vinieron y me contaron que te mantienes fiel a la verdad.",
+					"number": 3,
+					"id": "cc9ef7ef-3dac-4ec9-8a5e-c6c47ec4ae00"
+				},
+				{
+					"verse": "No hay para mí mayor alegría que saber que mis hijos viven de acuerdo con la verdad.",
+					"number": 4,
+					"id": "71ec0ac3-c83f-47ed-a4ff-e5cf6dde3da4"
+				},
+				{
+					"verse": "Querido hermano, te estás portando fielmente en el servicio que prestas a los demás hermanos, especialmente a los que llegan de otros lugares.",
+					"number": 5,
+					"study": "Elogio de la hospitalidad de Gayo",
+					"id": "7e9bb62a-193a-43a1-a41c-bf4951fb6252"
+				},
+				{
+					"verse": "Delante de la comunidad han hablado ellos de cuánto los amas. Por favor, ayúdalos en lo que necesiten para seguir su viaje, de manera agradable a Dios.",
+					"number": 6,
+					"id": "31127475-ac56-464f-945a-9d78478cbe5e"
+				},
+				{
+					"verse": "Pues ellos han emprendido su viaje en el servicio de Jesucristo, y no han aceptado ninguna ayuda de gente pagana.",
+					"number": 7,
+					"id": "c30e2928-2d1e-4a9f-9719-08eafddd4a09"
+				},
+				{
+					"verse": "Por eso nosotros debemos hacernos cargo de ellos, para ayudarlos en la predicación de la verdad.",
+					"number": 8,
+					"id": "12b8c528-230b-4fdc-b819-583e98814bf2"
+				},
+				{
+					"verse": "Yo escribí una carta a la comunidad, pero Diótrefes no acepta nuestra autoridad porque le gusta mandar.",
+					"number": 9,
+					"study": "La oposición de Diótrefes",
+					"id": "1f7cd443-887c-4ce0-9e01-f4536eeccc58"
+				},
+				{
+					"verse": "Por eso, cuando yo vaya le llamaré la atención, pues anda contando chismes y mentiras contra nosotros. Y, no contento con esto, no recibe a los hermanos que llegan, y a quienes quieren recibirlos les prohíbe hacerlo y los expulsa de la comunidad.",
+					"number": 10,
+					"id": "f08c5600-6077-48b7-9d8a-7461dc6f0931"
+				},
+				{
+					"verse": "Querido hermano, no sigas los malos ejemplos, sino los buenos. El que hace lo bueno es de Dios, pero el que hace lo malo no ha visto a Dios.",
+					"number": 11,
+					"study": "Buen testimonio acerca de Demetrio",
+					"id": "296c23a8-0fcb-4a3e-87b8-ac3524a883b7"
+				},
+				{
+					"verse": "Todos, incluso la verdad misma, hablan bien de Demetrio. También nosotros hablamos en favor suyo, y tú sabes que decimos la verdad.",
+					"number": 12,
+					"id": "afbe40ed-be49-4537-bb7a-30aa2748386c"
+				},
+				{
+					"verse": "Yo tenía mucho que decirte, pero no quiero hacerlo por escrito,",
+					"number": 13,
+					"study": "Salutaciones finales",
+					"id": "4950022f-70b1-4994-b399-35b62ca431ed"
+				},
+				{
+					"verse": "porque espero verte pronto y hablar contigo personalmente.",
+					"number": 14,
+					"id": "a67090a5-b69a-4da3-a14d-d35b45186c80"
+				},
+				{
+					"verse": "Que tengas paz. Los amigos te mandan saludos. Por favor, saluda a cada uno de nuestros amigos.",
+					"number": 15,
+					"id": "7a5bf0bb-f8c2-46ee-a8ad-a4e8b02d3787"
+				}
+			]
+		}
+	],
+	"book_id": "dbb49567-e86c-4e6f-a5dc-cedbe750ae1a"
+}

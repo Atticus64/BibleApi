@@ -1,0 +1,5557 @@
+{
+	"name": "Job",
+	"num_chapters": 42,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "En la región de Us había un hombre llamado Job, que vivía una vida recta y sin tacha, y que era un fiel servidor de Dios, cuidadoso de no hacer mal a nadie.",
+					"number": 1,
+					"study": "Las calamidades de Job",
+					"id": "62273e2b-ee6d-40ba-9098-2d848dc2c8a8"
+				},
+				{
+					"verse": "Job tenía siete hijos y tres hijas,",
+					"number": 2,
+					"id": "62e3c1e3-1ee2-4d54-bc02-cc4a3f1b2dc8"
+				},
+				{
+					"verse": "y era dueño de siete mil ovejas, tres mil camellos, quinientas yuntas de bueyes y quinientas asnas. Tenía también un gran número de esclavos. Era el hombre más rico de todo el oriente.",
+					"number": 3,
+					"id": "3e0c5f4d-f3c1-405e-8216-dd7db901a9e3"
+				},
+				{
+					"verse": "Los hijos de Job acostumbraban celebrar banquetes en casa de cada uno de ellos, por turno, y siempre invitaban a sus tres hermanas.",
+					"number": 4,
+					"id": "44af1c0a-59a2-4510-b1df-04585f922fd2"
+				},
+				{
+					"verse": "Terminados los días del banquete, Job llamaba a sus hijos y, levantándose de mañana, ofrecía holocaustos por cada uno de ellos, para purificarlos de su pecado. Esto lo hacía Job siempre, pensando que sus hijos podían haber pecado maldiciendo a Dios en su interior.",
+					"number": 5,
+					"id": "63ebef9d-e875-47fe-bf17-0eea817917ac"
+				},
+				{
+					"verse": "Un día en que debían presentarse ante el Señor sus servidores celestiales, se presentó también el ángel acusador entre ellos.",
+					"number": 6,
+					"id": "60a6b7b1-d4c6-4cea-95b6-9e9624a323d4"
+				},
+				{
+					"verse": "El Señor le preguntó:\n—¿De dónde vienes?\nY el acusador contestó:\n—He andado recorriendo la tierra de un lado a otro.",
+					"number": 7,
+					"id": "617124a5-ac9d-4e51-aba2-29c89cf6efca"
+				},
+				{
+					"verse": "Entonces le dijo el Señor:\n—¿Te has fijado en mi siervo Job? No hay nadie en la tierra como él, que me sirva tan fielmente y viva una vida tan recta y sin tacha, cuidando de no hacer mal a nadie.",
+					"number": 8,
+					"id": "1b7886aa-eedf-4fe8-8c00-b2739edf4039"
+				},
+				{
+					"verse": "Pero el acusador respondió:\n—Pues no de balde te sirve con tanta fidelidad.",
+					"number": 9,
+					"id": "335d8193-14eb-44c4-9299-9c9560652db2"
+				},
+				{
+					"verse": "Tú no dejas que nadie lo toque, ni a él ni a su familia ni a nada de lo que tiene; tú bendices todo lo que hace, y él es el hombre más rico en ganado de todo el país.",
+					"number": 10,
+					"id": "5911685e-554a-4382-9d19-84a51b0bb05a"
+				},
+				{
+					"verse": "Pero quítale todo lo que tiene y verás cómo te maldice en tu propia cara.",
+					"number": 11,
+					"id": "ed660c7f-26b7-468f-ab9a-a5adc04bf0ac"
+				},
+				{
+					"verse": "El Señor respondió al acusador:\n—Está bien. Haz lo que quieras con todas las cosas de Job, con tal de que a él mismo no le hagas ningún daño.\nEntonces el acusador se retiró de la presencia del Señor.",
+					"number": 12,
+					"id": "5f10640b-2e81-4e6f-921e-87acaeca3b2c"
+				},
+				{
+					"verse": "Un día, mientras los hijos y las hijas de Job estaban celebrando un banquete en casa del hermano mayor,",
+					"number": 13,
+					"id": "7a699e49-3a5c-47ca-9d55-4ce85a7475ac"
+				},
+				{
+					"verse": "un hombre llegó a casa de Job y le dio esta noticia:\n—Estábamos arando el campo con los bueyes, y las asnas estaban pastando cerca;",
+					"number": 14,
+					"id": "20c5f6e4-7c10-4087-b82a-750cf05f820a"
+				},
+				{
+					"verse": "de repente llegaron los sabeos, y se robaron el ganado y mataron a cuchillo a los hombres. Sólo yo pude escapar para venir a avisarte.",
+					"number": 15,
+					"id": "e4029138-45d2-4f38-975a-04a0ac5a37a5"
+				},
+				{
+					"verse": "Aún no había terminado de hablar aquel hombre, cuando llegó otro y dijo:\n—Cayó un rayo y mató a los pastores y las ovejas. Sólo yo pude escapar para venir a avisarte.",
+					"number": 16,
+					"id": "e3fb89ce-4c65-4e35-80a4-98d802197070"
+				},
+				{
+					"verse": "Aún no había terminado de hablar ese hombre, cuando llegó un tercero y dijo:\n—Tres grupos de caldeos nos atacaron y se robaron los camellos, y mataron a cuchillo a los hombres. Sólo yo pude escapar para venir a avisarte.",
+					"number": 17,
+					"id": "3349d5f8-5254-4d68-8efe-f86cb3b397e5"
+				},
+				{
+					"verse": "Aún no había terminado de hablar este hombre, cuando llegó uno más y dijo:\n—Tus hijos y tus hijas estaban celebrando un banquete en la casa de tu hijo mayor,",
+					"number": 18,
+					"id": "315409e9-4fb3-4b33-95c3-552b873303e3"
+				},
+				{
+					"verse": "cuando de pronto un viento del desierto vino y sacudió la casa por los cuatro costados, derrumbándola sobre tus hijos. Todos ellos murieron. Sólo yo pude escapar para venir a avisarte.",
+					"number": 19,
+					"id": "131da03e-b668-4757-88b0-a3639a4797a7"
+				},
+				{
+					"verse": "Entonces Job se levantó, y lleno de dolor se rasgó la ropa, se rapó la cabeza y se inclinó en actitud de adoración.",
+					"number": 20,
+					"id": "44634d8c-27a7-4727-9d57-6074a6f8b7e8"
+				},
+				{
+					"verse": "Entonces dijo:\n—Desnudo vine a este mundo, y desnudo saldré de él. El Señor me lo dio todo, y el Señor me lo quitó; ¡bendito sea el nombre del Señor!",
+					"number": 21,
+					"id": "de427ab3-85c8-43b1-b185-a0743eb17d35"
+				},
+				{
+					"verse": "Así pues, a pesar de todo, Job no pecó ni dijo nada malo contra Dios.",
+					"number": 22,
+					"id": "ed82a4cc-c666-44f5-865c-0cf45da69bfa"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Cuando llegó el día en que debían presentarse ante el Señor sus servidores celestiales, se presentó también el ángel acusador entre ellos.",
+					"number": 1,
+					"id": "9b7c5ab5-1d5d-4d98-98d0-eaa9d955795f"
+				},
+				{
+					"verse": "El Señor le preguntó:\n—¿De dónde vienes?\nY el acusador contestó:\n—He andado recorriendo la tierra de un lado a otro.",
+					"number": 2,
+					"id": "69e66888-5f50-4b7b-b999-d589054d68a3"
+				},
+				{
+					"verse": "Entonces el Señor le dijo:\n—¿Te has fijado en mi siervo Job? No hay nadie en la tierra como él, que me sirva tan fielmente y viva una vida tan recta y sin tacha, cuidando de no hacer mal a nadie. Y aunque tú me hiciste arruinarlo sin motivo alguno, él se mantiene firme en su conducta intachable.",
+					"number": 3,
+					"id": "2649607a-2ad7-43b0-8733-2c31457acbd8"
+				},
+				{
+					"verse": "Pero el acusador contestó al Señor:\n—Mientras no lo tocan a uno en su propio pellejo, todo va bien. El hombre está dispuesto a sacrificarlo todo por salvar su vida.",
+					"number": 4,
+					"id": "58c1632e-8635-4120-9e9f-83ae235b6238"
+				},
+				{
+					"verse": "Pero tócalo en su propia persona y verás cómo te maldice en tu propia cara.",
+					"number": 5,
+					"id": "a2d74d7a-586f-4374-b4f5-dca161cda2fe"
+				},
+				{
+					"verse": "El Señor respondió al acusador:\n—Está bien, haz con él lo que quieras, con tal de que respetes su vida.",
+					"number": 6,
+					"id": "dfa4aacf-669f-4a50-afc1-2262bf843d13"
+				},
+				{
+					"verse": "El acusador se alejó de la presencia del Señor, y envió sobre Job una terrible enfermedad de la piel que lo cubrió de pies a cabeza.",
+					"number": 7,
+					"id": "daae856b-1ed7-4eda-a187-038f4bda9720"
+				},
+				{
+					"verse": "Entonces Job fue a sentarse junto a un montón de basura, y tomó un pedazo de olla rota para rascarse.",
+					"number": 8,
+					"id": "41fd6b00-a9ba-4028-8864-19e7cc5981e0"
+				},
+				{
+					"verse": "Pero su mujer le dijo:\n—¿Todavía te empeñas en seguir siendo bueno? ¡Maldice a Dios y muérete!",
+					"number": 9,
+					"id": "4672a659-2770-4b01-89d8-9ba0b3ae4f0f"
+				},
+				{
+					"verse": "Job respondió:\n—¡Mujer, no digas tonterías! Si aceptamos los bienes que Dios nos envía, ¿por qué no vamos a aceptar también los males?\nAsí pues, a pesar de todo, Job no pecó ni siquiera de palabra.",
+					"number": 10,
+					"id": "f9fcaefd-554c-4057-bd8c-c0dc826f6b96"
+				},
+				{
+					"verse": "Ahora bien, Job tenía tres amigos: Elifaz, de la región de Temán, Bildad, de la región de Súah, y Sofar, de la región de Naamat. Al enterarse estos de todas las desgracias que le habían sucedido a Job, decidieron ir a consolarlo y acompañarlo en su dolor.",
+					"number": 11,
+					"id": "21e045f3-75f0-4924-bff2-c4590afdb6cf"
+				},
+				{
+					"verse": "A cierta distancia alcanzaron a ver a Job, y como apenas podían reconocerlo, empezaron a gritar y llorar, y llenos de dolor se rasgaron la ropa y lanzaron polvo al aire y sobre sus cabezas.",
+					"number": 12,
+					"id": "94e28b11-228e-46c5-8316-774116d8ec64"
+				},
+				{
+					"verse": "Luego se sentaron en el suelo con él, y durante siete días y siete noches estuvieron allí, sin decir una sola palabra, pues veían que el dolor de Job era muy grande.",
+					"number": 13,
+					"id": "6718b054-b725-4fb7-8f20-71d8fc346343"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por fin Job rompió el silencio, y maldijo el día en que había nacido.",
+					"number": 1,
+					"study": "Job maldice el día en que nació",
+					"id": "19828ce4-2b1a-44fe-8749-4a4a68bfd33a"
+				},
+				{
+					"verse": "Job",
+					"number": 2,
+					"id": "7a55dbc6-6166-4f0e-a9fa-b571a3039624"
+				},
+				{
+					"verse": "¡Maldita sea la noche en que fui concebido!\n¡Maldito sea el día en que nací!",
+					"number": 3,
+					"id": "5d0ee4cf-fab8-4c7f-bea8-cdc4ec6078b9"
+				},
+				{
+					"verse": "¡Ojalá aquel día se hubiera convertido en noche,\ny Dios lo hubiera pasado por alto\ny no hubiera amanecido!",
+					"number": 4,
+					"id": "81577a57-d20e-4e90-9e69-2b60e7bb1711"
+				},
+				{
+					"verse": "¡Ojalá una sombra espesa lo hubiera oscurecido,\no una nube negra lo hubiera envuelto,\no un eclipse lo hubiera llenado de terror!",
+					"number": 5,
+					"id": "f5b82421-f6fd-48bf-90a0-d1ee08b8e411"
+				},
+				{
+					"verse": "¡Ojalá aquella noche se hubiera perdido en las tinieblas\ny aquel día no se hubiera contado\nentre los días del mes y del año!",
+					"number": 6,
+					"id": "cec752b8-7f48-45f2-a9e7-86499a300057"
+				},
+				{
+					"verse": "¡Ojalá hubiera sido una noche estéril,\nen que faltaran los gritos de alegría!",
+					"number": 7,
+					"id": "b7048d4e-0091-4e75-995b-439842f95a4b"
+				},
+				{
+					"verse": "¡Ojalá la hubieran maldecido los hechiceros,\nque tienen poder sobre Leviatán!",
+					"number": 8,
+					"id": "a8371334-efee-4b57-860c-7107a2ade241"
+				},
+				{
+					"verse": "¡Ojalá aquella mañana no hubieran brillado los luceros,\nni hubiera llegado la luz tan esperada,\nni se hubiera visto parpadear la aurora!",
+					"number": 9,
+					"id": "979d7c82-dc30-4546-920f-fb781ad10337"
+				},
+				{
+					"verse": "¡Maldita sea aquella noche, que me dejó nacer\ny no me ahorró ver tanta miseria!",
+					"number": 10,
+					"id": "3ee86952-d37c-4a26-8688-59edaf405ae2"
+				},
+				{
+					"verse": "¿Por qué no habré muerto en el vientre de mi madre,\no en el momento mismo de nacer?",
+					"number": 11,
+					"id": "edf2dd85-26b7-4578-a2ff-8d1c729e9ebb"
+				},
+				{
+					"verse": "¿Por qué hubo rodillas que me recibieran\ny pechos que me alimentaran?",
+					"number": 12,
+					"id": "b3c9cea5-9a0c-40e0-bd9a-a53ec1b13fe0"
+				},
+				{
+					"verse": "Si yo hubiera muerto entonces,\nahora estaría durmiendo tranquilo,\ndescansando en paz,",
+					"number": 13,
+					"id": "3a532993-5591-47fb-b5d9-4477b9902086"
+				},
+				{
+					"verse": "con los reyes y ministros\nque se construyen grandes pirámides,",
+					"number": 14,
+					"id": "baa632b5-39e6-41b7-b7f0-4e88da181e25"
+				},
+				{
+					"verse": "o con los gobernantes\nque llenan sus palacios de oro y plata.",
+					"number": 15,
+					"id": "ae927f2f-148c-4015-90ec-d20ef6b311f7"
+				},
+				{
+					"verse": "¿Por qué no me enterraron como a los abortos,\ncomo a los niños muertos antes de nacer?",
+					"number": 16,
+					"id": "1e3f5879-c887-4b0d-a6a3-514fb8c24383"
+				},
+				{
+					"verse": "En la tumba tiene fin la agitación de los malvados,\ny los cansados alcanzan su reposo;",
+					"number": 17,
+					"id": "eee039a9-8ad9-4c35-85aa-2d336c8d41d8"
+				},
+				{
+					"verse": "allí encuentran paz los prisioneros,\ny dejan de escuchar los gritos del capataz;",
+					"number": 18,
+					"id": "c8d4ba92-3a8a-4b27-9039-8b6db28ec716"
+				},
+				{
+					"verse": "allí están grandes y pequeños por igual,\ny el esclavo se ve libre de su amo.",
+					"number": 19,
+					"id": "a0952f74-5db8-41cb-a25c-a933b4284860"
+				},
+				{
+					"verse": "¿Por qué deja Dios ver la luz al que sufre?\n¿Por qué le da vida al que está lleno de amargura,",
+					"number": 20,
+					"id": "923c3915-c69e-4349-8c38-e4d2b8e8e88a"
+				},
+				{
+					"verse": "al que espera la muerte y no le llega,\naunque la busque más que a un tesoro escondido?",
+					"number": 21,
+					"id": "61bf4a14-64d9-4a87-b2f0-a87e9d5c8d0b"
+				},
+				{
+					"verse": "La alegría de ese hombre llega\ncuando por fin baja a la tumba.",
+					"number": 22,
+					"id": "37573056-f280-4faa-8bd8-ebf8df866e01"
+				},
+				{
+					"verse": "Dios lo hace caminar a ciegas,\nle cierra el paso por todos lados.",
+					"number": 23,
+					"id": "cba83ce7-bda8-4043-a447-9b6160388b8a"
+				},
+				{
+					"verse": "Los gemidos son mi alimento;\nmi bebida, las quejas de dolor.",
+					"number": 24,
+					"id": "18359be4-7d67-4fd5-b6a9-4bf1dc45e475"
+				},
+				{
+					"verse": "Todo lo que yo temía,\nlo que más miedo me causaba,\nha caído sobre mí.",
+					"number": 25,
+					"id": "fc6e87ab-4242-4e06-82e9-cd226858f2a7"
+				},
+				{
+					"verse": "No tengo descanso ni sosiego;\nno encuentro paz, sino inquietud.",
+					"number": 26,
+					"id": "6b547e58-789c-40d7-8d0d-765c293a1313"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Elifaz",
+					"number": 1,
+					"study": "Elifaz reprende a Job",
+					"id": "eb09154e-45a8-4cef-a1cf-af34f4703619"
+				},
+				{
+					"verse": "Seguramente, Job, te será molesto\nque alguien se atreva a hablarte,\npero no es posible quedarse callado.",
+					"number": 2,
+					"id": "24cc11af-9548-4b4b-a583-34c93495ce76"
+				},
+				{
+					"verse": "Tú, que dabas lecciones a muchos\ny fortalecías al débil;",
+					"number": 3,
+					"id": "505c9ae9-8343-47a4-83c6-3f19b7e46c14"
+				},
+				{
+					"verse": "tú, que animabas a levantarse al que caía\ny sostenías al que estaba por caer,",
+					"number": 4,
+					"id": "4e7c221c-7d7a-4a91-9f24-1d5503c21fe0"
+				},
+				{
+					"verse": "¿te acobardas y pierdes el valor\nahora que te toca sufrir?",
+					"number": 5,
+					"id": "4e93b2ca-6968-4f25-8e8c-de6eee790f0d"
+				},
+				{
+					"verse": "Tú, que eres un fiel servidor de Dios,\nun hombre de recta conducta,\n¿cómo es que no tienes plena confianza?",
+					"number": 6,
+					"id": "f30a1af9-1c78-4624-9269-de2ab07c8d4e"
+				},
+				{
+					"verse": "Piensa, a ver si recuerdas un solo caso\nde un inocente que haya sido destruido.",
+					"number": 7,
+					"id": "5b2e762e-aa90-4bca-a841-01e545b1d414"
+				},
+				{
+					"verse": "La experiencia me ha enseñado\nque los que siembran crimen y maldad\ncosechan lo que antes sembraron.",
+					"number": 8,
+					"id": "978c5bdf-ac39-4ef0-8f19-4fe1dc0de8c9"
+				},
+				{
+					"verse": "Dios, en su furor, sopla sobre ellos\ny los destruye por completo.",
+					"number": 9,
+					"id": "7a4b6b78-ec04-40c3-9434-7d62d60df2a1"
+				},
+				{
+					"verse": "Por más que gruñan y rujan como leones,\nDios los hará callar rompiéndoles los dientes.",
+					"number": 10,
+					"id": "f7d614d8-fdb0-483d-9c5e-ada2481dc68f"
+				},
+				{
+					"verse": "Morirán como leones que no hallaron presa,\ny sus hijos serán dispersados.",
+					"number": 11,
+					"id": "95f81c8e-786e-409d-8fab-0c64fa00165b"
+				},
+				{
+					"verse": "Calladamente me llegó un mensaje,\ntan suave que apenas escuché un murmullo.",
+					"number": 12,
+					"id": "f0c35ebd-9ec8-44aa-8ce4-7e21ab449a2c"
+				},
+				{
+					"verse": "Por la noche, cuando el sueño cae sobre los hombres,\ntuve una inquietante pesadilla.",
+					"number": 13,
+					"id": "cd95d155-b855-4cf4-b5fc-60c8a9f840f1"
+				},
+				{
+					"verse": "El terror se apoderó de mí;\ntodos los huesos me temblaban.",
+					"number": 14,
+					"id": "bbbe5fb1-704d-439f-a25c-c77ba936d595"
+				},
+				{
+					"verse": "Un soplo me rozó la cara\ny la piel se me erizó.",
+					"number": 15,
+					"id": "a2d3cac0-f705-4227-a658-b9feccfa522b"
+				},
+				{
+					"verse": "Alguien estaba allí,\ny pude ver su silueta\npero no el aspecto que tenía.\nTodo en silencio... Luego oí una voz:",
+					"number": 16,
+					"id": "c5c5ff4b-c314-45ac-88e4-afd5228590b8"
+				},
+				{
+					"verse": "«¿Puede el hombre ser justo ante Dios?\n¿Puede ser puro ante su creador?",
+					"number": 17,
+					"id": "68895af1-81d2-4ca0-a28c-57a5ac392b9a"
+				},
+				{
+					"verse": "Ni aun sus servidores celestiales\nmerecen toda su confianza.\nSi hasta en sus ángeles encuentra Dios defectos,",
+					"number": 18,
+					"id": "0e7620cc-d1da-4a53-86d3-db73be775f1e"
+				},
+				{
+					"verse": "¡cuánto más en el hombre, ser tan débil\ncomo una casa de barro construida sobre el polvo,\ny que puede ser aplastado como la polilla!",
+					"number": 19,
+					"id": "1cda327d-ee41-4039-a71f-4a1b9014607a"
+				},
+				{
+					"verse": "Entre la mañana y la tarde es destruido;\nmuere para siempre, y a nadie le importa.",
+					"number": 20,
+					"id": "24e7ecfd-360c-4e3c-95e8-7cf7d1a5ecf2"
+				},
+				{
+					"verse": "Su vida acaba como un hilo que se corta;\nmuere sin haber alcanzado sabiduría.»",
+					"number": 21,
+					"id": "3c593342-eec4-45af-bcc0-604a4b099635"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Grita, Job, a ver quién te responde.\n¿A qué ángel vas a recurrir?",
+					"number": 1,
+					"id": "b13430df-0e12-4564-98aa-2045f079ba43"
+				},
+				{
+					"verse": "Entregarse a la amargura o a la pasión\nes una necedad que lleva a la muerte.",
+					"number": 2,
+					"id": "44d76b23-f49a-45d8-9cdf-677a0269b000"
+				},
+				{
+					"verse": "He visto al necio empezar a prosperar,\nmas su casa fue pronto destruida.",
+					"number": 3,
+					"id": "7fb0b211-0a21-413f-a637-feae1ca55ecc"
+				},
+				{
+					"verse": "Sus hijos no tienen quien los ayude;\nen los tribunales los tratan injustamente\ny no hay quien los defienda.",
+					"number": 4,
+					"id": "a30afd2d-be92-42b9-9312-8a9c04dcd601"
+				},
+				{
+					"verse": "Sus cosechas se las comen los hambrientos\nsacándolas de entre los espinos,\ny los sedientos les envidian sus riquezas.",
+					"number": 5,
+					"id": "18ab7685-0863-4edf-962b-73ac0b02f8d2"
+				},
+				{
+					"verse": "La maldad no brota del suelo;\nla desdicha no nace de la tierra:",
+					"number": 6,
+					"id": "afbc311a-422e-43ff-97e8-d0202ce294e3"
+				},
+				{
+					"verse": "es el hombre el que causa la desdicha,\nasí como del fuego salen volando las chispas.",
+					"number": 7,
+					"id": "281d1b66-f015-4a19-8545-a569e048c3b1"
+				},
+				{
+					"verse": "En tu lugar, yo me volvería hacia Dios\ny pondría mi causa en sus manos;",
+					"number": 8,
+					"id": "05b443bb-242d-4b4a-bc73-c6bdd26f3719"
+				},
+				{
+					"verse": "¡él hace tantas y tan grandes maravillas,\ncosas que nadie es capaz de comprender!",
+					"number": 9,
+					"id": "639b591f-1c52-4603-98a2-f89b31249bd8"
+				},
+				{
+					"verse": "Él envía la lluvia a la tierra,\ny con ella riega los campos;",
+					"number": 10,
+					"id": "c386117f-91d9-44b5-be66-b025e832ccb7"
+				},
+				{
+					"verse": "él enaltece a los humildes\ny da seguridad a los afligidos;",
+					"number": 11,
+					"id": "bd3f0a1f-f338-460b-8a43-47454095f4a4"
+				},
+				{
+					"verse": "él desbarata los planes del astuto\ny los hace fracasar.",
+					"number": 12,
+					"id": "b8cdf1b0-4ace-45b6-8a16-1c57b38ff6ae"
+				},
+				{
+					"verse": "Él atrapa al astuto en su propia astucia,\ny hace que fracasen sus planes malvados:",
+					"number": 13,
+					"id": "1a154f18-25ea-4e74-8079-c57ca6569f3f"
+				},
+				{
+					"verse": "¡a plena luz del día andan ellos a tientas,\nenvueltos en tinieblas, como si fuera de noche!",
+					"number": 14,
+					"id": "101b26e4-c5ae-4e92-a10d-09a48cd51fab"
+				},
+				{
+					"verse": "Dios salva al pobre y oprimido\ndel poder de los malvados;",
+					"number": 15,
+					"id": "3091e3b3-9379-431f-acc1-de549decadf0"
+				},
+				{
+					"verse": "él es la esperanza de los débiles,\n¡él les tapa la boca a los malvados!",
+					"number": 16,
+					"id": "61f1ba76-384b-4b07-ae77-852ed334e5b4"
+				},
+				{
+					"verse": "Feliz el hombre a quien Dios reprende;\nno rechaces la reprensión del Todopoderoso.",
+					"number": 17,
+					"id": "9a703af7-b04b-42d4-b326-275e86cbe691"
+				},
+				{
+					"verse": "Si él hace una herida, también la vendará;\nsi con su mano da el golpe, también da el alivio.",
+					"number": 18,
+					"id": "5dab993f-4f36-499b-aeb2-94d851ad29be"
+				},
+				{
+					"verse": "Una y otra vez te librará del peligro,\ny no dejará que el mal llegue a ti.",
+					"number": 19,
+					"id": "aa6ba4e3-b70a-4bff-b0c6-8846ccd5a098"
+				},
+				{
+					"verse": "En tiempo de hambre te librará de la muerte,\ny en tiempo de guerra te salvará de la espada.",
+					"number": 20,
+					"id": "85231843-4f12-41c8-86ca-db356e8db8d2"
+				},
+				{
+					"verse": "Te protegerá de las malas lenguas,\ny no habrás de temer cuando llegue el desastre.",
+					"number": 21,
+					"id": "7566ed79-40a1-49a6-bef8-b54de8aaaff8"
+				},
+				{
+					"verse": "Te reirás de hambres y calamidades,\ny no tendrás miedo a los animales salvajes.",
+					"number": 22,
+					"id": "0a67b519-bef8-4141-8fdb-09af3572cf2c"
+				},
+				{
+					"verse": "Las piedras no estorbarán en tus campos,\ny las fieras serán tus amigas.",
+					"number": 23,
+					"id": "a29c4edc-923f-4a7d-9e17-1cb7b2cccda6"
+				},
+				{
+					"verse": "En tu casa tendrás prosperidad,\ny al revisar tu ganado lo encontrarás completo.",
+					"number": 24,
+					"id": "55b74b1f-e28b-4755-abd6-879c4aab796f"
+				},
+				{
+					"verse": "Tendrás tanta descendencia\ncomo hierba hay en el campo.",
+					"number": 25,
+					"id": "71a74583-152e-401b-92c8-09e914aef8a0"
+				},
+				{
+					"verse": "Llegarás a la vejez en pleno vigor,\ncomo un manojo de espigas maduras.",
+					"number": 26,
+					"id": "e89fc208-4ba0-46ea-a968-3308aaae27b5"
+				},
+				{
+					"verse": "La experiencia nos enseña que esto es así;\nescucha esto, y compruébalo tú mismo.",
+					"number": 27,
+					"id": "e76564ec-de78-47e4-a398-05ab74130e44"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job reprocha la actitud de sus amigos",
+					"id": "868c0a65-5c77-46a6-901e-5ad82b06d2ff"
+				},
+				{
+					"verse": "Si todas mis penas y desgracias\npudieran pesarse en una balanza,",
+					"number": 2,
+					"id": "c06f30e7-87f8-45e3-b214-2ce86efeaf40"
+				},
+				{
+					"verse": "pesarían más que la arena del mar.\nPor eso he hablado con pasión.",
+					"number": 3,
+					"id": "3c52d9b3-c12f-49d9-b4ec-0a3968ee44a9"
+				},
+				{
+					"verse": "El Todopoderoso ha clavado en mí sus flechas,\ny el veneno de ellas me corre por el cuerpo.\nDios me ha llenado de terror con sus ataques.",
+					"number": 4,
+					"id": "08fb3bb5-cccb-428e-93cb-f6d5a5807eba"
+				},
+				{
+					"verse": "¿Acaso rebuzna el asno, si tiene hierba?\n¿O brama el toro, si tiene pasto?",
+					"number": 5,
+					"id": "c8351c33-1add-4c8f-bfdd-110bddaaf00b"
+				},
+				{
+					"verse": "¿Quién come sin sal una cosa desabrida?\n¿Qué gusto tiene una cosa sin sabor?",
+					"number": 6,
+					"id": "f27a546f-51ed-4491-9d03-1593fbf6bd2e"
+				},
+				{
+					"verse": "Pues lo que jamás quise comer\nes ahora mi alimento.",
+					"number": 7,
+					"id": "71c32b5c-3a66-4afe-beb8-a0a2098d92bb"
+				},
+				{
+					"verse": "¡Ojalá Dios me conceda lo que le pido;\nojalá me cumpla lo que deseo!",
+					"number": 8,
+					"id": "fcc42c42-c089-4962-8f0f-4ebbd51c9ebf"
+				},
+				{
+					"verse": "¡Ojalá Dios se decida por fin\na aplastarme y acabar con mi vida!",
+					"number": 9,
+					"id": "024d991e-2778-435e-b097-e2e2637915db"
+				},
+				{
+					"verse": "A pesar de la violencia del dolor,\neso sería un gran consuelo para mí,\npues siempre he respetado las leyes del Dios santo.",
+					"number": 10,
+					"id": "5c752afe-e007-4e04-90d1-df6a75e91dc8"
+				},
+				{
+					"verse": "Ya no me quedan fuerzas para resistir,\nni razón alguna para seguir viviendo.",
+					"number": 11,
+					"id": "bbf8e8a7-959b-41dc-8b86-91c2c58551df"
+				},
+				{
+					"verse": "No tengo la dureza de la roca,\nni la consistencia del bronce.",
+					"number": 12,
+					"id": "e145d1c0-9698-4450-8815-818a59df7a4f"
+				},
+				{
+					"verse": "No puedo valerme por mí mismo,\nni cuento con ningún apoyo.",
+					"number": 13,
+					"id": "74e031b0-698b-4f93-88af-4bcab6b78e23"
+				},
+				{
+					"verse": "Al amigo que sufre se le ama,\naun cuando no haya sido fiel al Todopoderoso.",
+					"number": 14,
+					"id": "76a2f4c7-80ca-46f6-aa75-fa0676c97f38"
+				},
+				{
+					"verse": "Pero ustedes, mis amigos, me han fallado,\ncomo arroyos que se quedan secos.",
+					"number": 15,
+					"id": "ab367fb4-a20f-4344-82cc-c3f4e4f7a953"
+				},
+				{
+					"verse": "El agua baja turbia,\nrevuelta con el hielo y la nieve;",
+					"number": 16,
+					"id": "4d46a82d-d504-4e70-8449-98571f79f6b3"
+				},
+				{
+					"verse": "pero pasa el deshielo y se secan los arroyos,\nviene el calor y se acaba el agua.",
+					"number": 17,
+					"id": "6c7a74a9-8358-437d-a2c9-64885197a5db"
+				},
+				{
+					"verse": "Hacen que las caravanas se desvíen de su camino,\ny que avancen por el desierto y mueran.",
+					"number": 18,
+					"id": "bcd48247-5742-4bd5-b1c9-6206184b2e0e"
+				},
+				{
+					"verse": "Las caravanas de Temá y de Sabá\nbuscan llenas de esperanza esos arroyos,",
+					"number": 19,
+					"id": "29d9b2d0-3efb-4374-8f1e-1cde22158ae4"
+				},
+				{
+					"verse": "pero al llegar se ven decepcionadas,\nqueda frustrada su esperanza.",
+					"number": 20,
+					"id": "939ad55f-5431-4a4a-b300-66e69fa83327"
+				},
+				{
+					"verse": "Así son ustedes para mí:\nven mi horrible situación, y sienten miedo.",
+					"number": 21,
+					"id": "6795e7e4-7418-48af-b2b9-ef697cc21337"
+				},
+				{
+					"verse": "Pero yo no les he pedido nada,\nni que den dinero por salvarme,",
+					"number": 22,
+					"id": "38fd488d-7056-4969-af68-a14997282aea"
+				},
+				{
+					"verse": "ni que me libren de un enemigo,\nni que me rescaten de las manos de los bandidos.",
+					"number": 23,
+					"id": "7e8c67cb-986a-4f88-b3e2-ac8b83cb0bed"
+				},
+				{
+					"verse": "Denme lecciones, y guardaré silencio:\nmuéstrenme el error que he cometido.",
+					"number": 24,
+					"id": "a56a8760-82fa-40b4-b1f5-b3512ec19e1c"
+				},
+				{
+					"verse": "Nadie puede rechazar un argumento correcto;\npero ustedes me acusaron sin razón.",
+					"number": 25,
+					"id": "c0ebfbe8-e870-4909-91df-786a12859e60"
+				},
+				{
+					"verse": "Ustedes me critican por mis palabras,\npalabras locas que se lleva el viento.",
+					"number": 26,
+					"id": "b237515d-50b5-4e14-9324-9e2f4c4e1b29"
+				},
+				{
+					"verse": "¡Capaces son de jugarse la vida de un huérfano\ny de vender aun a su propio amigo!",
+					"number": 27,
+					"id": "f7e0eb67-a5d6-49b3-a092-c3b22b3139dd"
+				},
+				{
+					"verse": "Mírenme ahora cara a cara;\ndíganme si miento.",
+					"number": 28,
+					"id": "c5266804-eb38-40fa-9b31-729c3c698495"
+				},
+				{
+					"verse": "Retiren lo dicho, no sean injustos;\nreconozcan que tengo razón.",
+					"number": 29,
+					"id": "6b132213-7f9e-4815-a496-8d565913edc5"
+				},
+				{
+					"verse": "¿Acaso creen que soy un mentiroso\nque no se da cuenta de lo que dice?",
+					"number": 30,
+					"id": "0a8a3875-7a34-4d3d-b394-5bd548f91df3"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "La vida del hombre aquí en la tierra\nes la de un soldado que cumple su servicio,",
+					"number": 1,
+					"study": "Job argumenta contra Dios",
+					"id": "54ec67a5-4b17-4888-bd8c-edbe92e4415b"
+				},
+				{
+					"verse": "la de un esclavo que suspira por la sombra,\nla de un peón que espera con ansias su salario.",
+					"number": 2,
+					"id": "631b941a-1c0d-4e81-95b9-08a39e902c19"
+				},
+				{
+					"verse": "Me ha tocado vivir meses enteros de desengaño,\nnoche tras noche de sufrimiento.",
+					"number": 3,
+					"id": "4a27384f-7759-469c-aa25-b69c6e9c501a"
+				},
+				{
+					"verse": "Me acuesto y la noche se me hace interminable;\nme canso de dar vueltas hasta el alba,\ny pienso: ¿Cuándo me levantaré?",
+					"number": 4,
+					"id": "8e9d9ded-adc7-4889-b021-bd0291956468"
+				},
+				{
+					"verse": "Tengo el cuerpo lleno de gusanos y de costras,\ny me supuran las heridas de la piel.",
+					"number": 5,
+					"id": "51440f2a-431e-449a-bec4-a0fc13d6dd32"
+				},
+				{
+					"verse": "Mis días se acercan a su fin, sin esperanza,\ncon la rapidez de una lanzadera de telar.",
+					"number": 6,
+					"id": "bac4f09e-52b8-4807-ba8c-8e40e72c4ae3"
+				},
+				{
+					"verse": "Recuerda, oh Dios, que mi vida es como un suspiro,\ny que nunca más tendré felicidad.",
+					"number": 7,
+					"id": "a747d461-c600-4eda-bd62-9f3d4c18bf0d"
+				},
+				{
+					"verse": "Nadie podrá volver a verme;\npondrás en mí tus ojos, y dejaré de existir.",
+					"number": 8,
+					"id": "8d9d87f9-21bf-446c-9f34-d82a8c24558e"
+				},
+				{
+					"verse": "Como nube que pasa y se deshace,\nasí es el que baja al sepulcro:\njamás regresa de allí,\nsus familiares no vuelven a verlo.",
+					"number": 9,
+					"id": "d4297cc2-9409-4f1c-be4d-e717e0a08842"
+				},
+				{
+					"verse": "Por eso no puedo quedarme callado.\nEn mi dolor y mi amargura\nvoy a dar rienda suelta a mis quejas.",
+					"number": 10,
+					"id": "b9129da4-1013-4ed8-bf82-39544d3382bc"
+				},
+				{
+					"verse": "¿Soy acaso un monstruo del mar\npara que así me vigiles?",
+					"number": 11,
+					"id": "9fb4e9e8-62f2-4ce1-b91a-44b7ef3e56dc"
+				},
+				{
+					"verse": "Cuando pienso que en la cama encontraré descanso\ny que el sueño aliviará mi pena,",
+					"number": 12,
+					"id": "cfebbda2-5fbb-4ac9-987a-9f80d2826e15"
+				},
+				{
+					"verse": "me llenas de terror en mis sueños;\n¡me espantas con pesadillas!",
+					"number": 13,
+					"id": "55bec5da-707c-4b89-8e8a-e3ca92bcfe00"
+				},
+				{
+					"verse": "Sería mejor que me estrangularas;\nprefiero la muerte a esta vida.",
+					"number": 14,
+					"id": "1d091947-49fa-451a-99b4-1f293d55e00b"
+				},
+				{
+					"verse": "No puedo más. No quiero seguir viviendo.\nDéjame en paz, que mi vida es como un suspiro.",
+					"number": 15,
+					"id": "a1225fad-182d-48da-a298-50dd6db2e8a2"
+				},
+				{
+					"verse": "¿Qué es el hombre, que le das tanta importancia?\n¿Por qué te preocupas por él?",
+					"number": 16,
+					"id": "1e8429bf-6173-4f73-b39f-b080a548e83a"
+				},
+				{
+					"verse": "¿Por qué lo vigilas día tras día,\ny lo pones a prueba a cada instante?",
+					"number": 17,
+					"id": "23fc907f-6664-4c23-b51c-599c53bc3eee"
+				},
+				{
+					"verse": "¿Por qué no apartas tu vista de mí,\ny me dejas siquiera tragar saliva?",
+					"number": 18,
+					"id": "151d729a-e605-477d-8d91-0daa1c25b509"
+				},
+				{
+					"verse": "Si peco, ¿qué perjuicio te causo,\nvigilante de los hombres?\n¿Por qué me tomas por blanco de tus flechas?\n¿Acaso soy una carga para ti?",
+					"number": 19,
+					"id": "fe40864e-656c-4768-aba9-c45a493d118f"
+				},
+				{
+					"verse": "¿No puedes perdonarme mi pecado?\n¿No puedes perdonar el mal que he cometido?\nPronto estaré tendido en el polvo:\nme buscarás, y ya no existiré.",
+					"number": 20,
+					"id": "5cc22f03-397a-416e-a8ba-22e8853cf98d"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Bildad",
+					"number": 1,
+					"study": "Bildad proclama la justicia de Dios",
+					"id": "a80545e7-568f-49c3-82fa-215510fe752a"
+				},
+				{
+					"verse": "¿Hasta cuándo vas a seguir hablando así,\nhablando como un viento huracanado?",
+					"number": 2,
+					"id": "2b71a7ae-4360-413f-a3b7-6849cfb62a2d"
+				},
+				{
+					"verse": "Dios, el Todopoderoso,\nnunca tuerce la justicia ni el derecho.",
+					"number": 3,
+					"id": "b0e126ca-9c2b-4cc5-a0e9-6e4c8d8b21c3"
+				},
+				{
+					"verse": "Seguramente tus hijos pecaron contra Dios,\ny él les dio el castigo merecido.",
+					"number": 4,
+					"id": "ce55dda0-17e8-449f-ac68-c40b187962d3"
+				},
+				{
+					"verse": "Busca a Dios, al Todopoderoso,\ny pídele que tenga compasión de ti.",
+					"number": 5,
+					"id": "d4a6d96b-6e3c-47ef-83db-75151148f1a4"
+				},
+				{
+					"verse": "Si tú actúas con pureza y rectitud,\nél velará por ti, y te dará\nel hogar que justamente mereces.",
+					"number": 6,
+					"id": "46cb00bb-7699-4243-96ea-52257bb995b7"
+				},
+				{
+					"verse": "La riqueza que tenías no será nada\ncomparada con lo que tendrás después.",
+					"number": 7,
+					"id": "671c131e-6f03-4cbb-9ad4-0e37f55acb89"
+				},
+				{
+					"verse": "Consulta a las generaciones pasadas,\naprende de la experiencia de los antiguos.",
+					"number": 8,
+					"id": "93261cd0-ae7d-4763-82e6-37c68f1f9d5d"
+				},
+				{
+					"verse": "Nosotros somos apenas de ayer, y nada sabemos;\nnuestros días en esta tierra pasan como una sombra.",
+					"number": 9,
+					"id": "1c6605b5-2336-4ea7-8a65-4a796d5997b9"
+				},
+				{
+					"verse": "Pero los antiguos podrán hablarte\ny enseñarte muchas cosas.",
+					"number": 10,
+					"id": "b13490a5-c31d-433e-9d01-a892923043f5"
+				},
+				{
+					"verse": "El junco y el papiro\ncrecen sólo donde abunda el agua;",
+					"number": 11,
+					"id": "d4fb75c2-0a0b-4a00-bf7b-a6e9e8c0138d"
+				},
+				{
+					"verse": "sin embargo, estando aún verdes y sin cortar,\nse secan antes que otras hierbas.",
+					"number": 12,
+					"id": "e1398d16-74c7-4994-888c-545266b4ec22"
+				},
+				{
+					"verse": "Lo mismo pasa con los malvados,\ncon los que se olvidan de Dios:\nsus esperanzas quedan frustradas.",
+					"number": 13,
+					"id": "f891c9dd-22de-4c49-95f0-f099d464fb08"
+				},
+				{
+					"verse": "Su confianza y su seguridad\nson como el hilo de una telaraña.",
+					"number": 14,
+					"id": "d43683af-e809-433e-bf48-cc4058cbdb7d"
+				},
+				{
+					"verse": "Querrán agarrarse al hilo, y no resistirá;\no apoyarse en la telaraña, y no los soportará.",
+					"number": 15,
+					"id": "b5c6fc6d-c4fa-4303-9653-a6e98bf5af24"
+				},
+				{
+					"verse": "Los malvados son como verdes hierbas al sol,\nque se extienden por todo el jardín;",
+					"number": 16,
+					"id": "9519137b-c48a-4481-9a93-e560c01fc12a"
+				},
+				{
+					"verse": "enredan sus raíces entre las rocas\ny se adhieren a las piedras,",
+					"number": 17,
+					"id": "88a01d85-2367-4ec3-b948-d45a92c36527"
+				},
+				{
+					"verse": "pero si alguien las arranca de su sitio\nnadie podrá saber que estuvieron allí.",
+					"number": 18,
+					"id": "c808343b-8c7b-467e-9b9a-d1171ce09640"
+				},
+				{
+					"verse": "Así termina su prosperidad,\ny en su lugar brotan otras hierbas.",
+					"number": 19,
+					"id": "f77e16d9-3ef9-4da8-a4fd-2035ab50a966"
+				},
+				{
+					"verse": "Dios no abandona al hombre intachable,\nni brinda su apoyo a los malvados.",
+					"number": 20,
+					"id": "8102be5c-7fb9-4c08-9f2f-5ce4adaa03a9"
+				},
+				{
+					"verse": "Él hará que vuelvas a reír\ny que grites de alegría;",
+					"number": 21,
+					"id": "b469efe8-15b3-4c27-8095-04910e5cb051"
+				},
+				{
+					"verse": "en cambio, tus enemigos se cubrirán de vergüenza\ny la casa de los malvados será destruida.",
+					"number": 22,
+					"id": "eccf7035-7884-41f0-b4ae-514eb00c1b07"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Incapacidad de Job para responder a Dios",
+					"id": "72e7539b-b2d9-44ab-ab84-eadaa8a7063d"
+				},
+				{
+					"verse": "Yo sé muy bien que esto es así,\ny que ante Dios el hombre no puede alegar inocencia.",
+					"number": 2,
+					"id": "54b47632-4073-4454-87db-899c2a82ad8e"
+				},
+				{
+					"verse": "Si alguno quisiera discutir con él,\nde mil argumentos no podría rebatirle uno solo.",
+					"number": 3,
+					"id": "4cb97636-6210-4ba4-8cb8-f315572b4c80"
+				},
+				{
+					"verse": "Dios es grande en poder y sabiduría,\n¿quién podrá hacerle frente y salir bien librado?",
+					"number": 4,
+					"id": "1a438e5c-52a0-4d29-b24b-44396280d178"
+				},
+				{
+					"verse": "Dios, en su furor, remueve las montañas;\nlas derrumba, y nadie se da cuenta.",
+					"number": 5,
+					"id": "8a3b20b6-bd1c-47ae-86f4-82589dfef8e9"
+				},
+				{
+					"verse": "Él hace que la tierra se sacuda\ny que sus bases se estremezcan.",
+					"number": 6,
+					"id": "4ed9c574-74f6-4cda-9fda-3e8ff0fb573b"
+				},
+				{
+					"verse": "Él ordena al sol que no salga,\ny a las estrellas, que no brillen.",
+					"number": 7,
+					"id": "c237a54c-a4f2-4e52-925a-e595f2cced89"
+				},
+				{
+					"verse": "Sin ayuda de nadie extendió el cielo\ny aplastó al monstruo del mar.",
+					"number": 8,
+					"id": "cf3f9f66-520a-4748-b98b-d0512fa8fda2"
+				},
+				{
+					"verse": "Él creó las constelaciones:\nla Osa Mayor, el Orión y las Pléyades,\ny el grupo de estrellas del sur.",
+					"number": 9,
+					"id": "57ff8500-1012-4f22-92bd-d58cba5373c2"
+				},
+				{
+					"verse": "¡Él hace tantas y tan grandes maravillas,\ncosas que nadie es capaz de comprender!",
+					"number": 10,
+					"id": "01c896c0-5c51-4713-ba76-a11ac31207b4"
+				},
+				{
+					"verse": "Si Dios pasa junto a mí, no lo podré ver;\npasará y no me daré cuenta.",
+					"number": 11,
+					"id": "da6b5b28-568a-47c1-b963-d62fc3b3c8d4"
+				},
+				{
+					"verse": "Si de algo se adueña, ¿quién podrá reclamárselo?\n¿Quién podrá pedirle cuentas de lo que hace?",
+					"number": 12,
+					"id": "fb170267-2e20-4be3-9aa3-dfed9f39dbd8"
+				},
+				{
+					"verse": "Si Dios se enoja, no se calma fácilmente;\na sus pies quedan humillados los aliados de Rahab.",
+					"number": 13,
+					"id": "a1e1efde-60f8-4d53-9260-9cb725d7c3e1"
+				},
+				{
+					"verse": "¿Cómo, pues, encontraré palabras\npara contradecir a Dios?",
+					"number": 14,
+					"id": "481d4938-604c-4e5c-88d7-a43db76c5e7a"
+				},
+				{
+					"verse": "Por muy inocente que yo sea, no puedo responderle;\nél es mi juez, y sólo puedo pedirle compasión.",
+					"number": 15,
+					"id": "568d42d5-1da4-41ff-92a0-47959ce93f95"
+				},
+				{
+					"verse": "Si yo lo llamara a juicio, y él se presentara,\nno creo que hiciera caso a mis palabras.",
+					"number": 16,
+					"id": "512fd426-3f55-4868-9819-9a01110bf565"
+				},
+				{
+					"verse": "Haría que me azotara una tempestad,\ny aumentaría mis heridas sin motivo;",
+					"number": 17,
+					"id": "36d36773-6567-43f7-a809-3667dd05d353"
+				},
+				{
+					"verse": "me llenaría de amargura\ny no me dejaría tomar aliento.",
+					"number": 18,
+					"id": "201b5358-9840-42ea-9444-a5414c130b77"
+				},
+				{
+					"verse": "¿Acudir a la fuerza? Él es más poderoso.\n¿Citarlo a juicio? ¿Y quién lo hará presentarse?",
+					"number": 19,
+					"id": "017d11bf-571a-4ec0-9961-0231f5c250d8"
+				},
+				{
+					"verse": "Por más recto e intachable que yo fuera,\nél me declararía culpable y malo.",
+					"number": 20,
+					"id": "ed2b6f0a-496b-4e31-b1f8-a79350308d20"
+				},
+				{
+					"verse": "Yo soy inocente, pero poco importa;\nya estoy cansado de vivir.",
+					"number": 21,
+					"id": "73b7dc41-81de-47ca-8ec8-e5eb4ed7311d"
+				},
+				{
+					"verse": "Todo es lo mismo. Y esto es lo que pienso:\nque él destruye lo mismo a culpables que a inocentes.",
+					"number": 22,
+					"id": "ec0a8b11-c405-43fa-bc6a-2d4b51974542"
+				},
+				{
+					"verse": "Si en un desastre muere gente inocente,\nDios se ríe de su desesperación.",
+					"number": 23,
+					"id": "757f600c-1f65-45dc-9c75-66b6e22f583d"
+				},
+				{
+					"verse": "Deja el mundo en manos de los malvados\ny a los jueces les venda los ojos.\nY si no ha sido Dios, ¿quién, entonces?",
+					"number": 24,
+					"id": "bf5d3183-c09c-45d8-b016-739680831930"
+				},
+				{
+					"verse": "Mis días huyen en veloz carrera,\nsin haber visto la felicidad.",
+					"number": 25,
+					"id": "5a4623b3-8f69-41e6-a4d7-cfc50426fda0"
+				},
+				{
+					"verse": "Se van como barcos ligeros,\ncomo águila que se lanza tras la presa.",
+					"number": 26,
+					"id": "e810323e-4768-470d-823a-c66b9110efac"
+				},
+				{
+					"verse": "Si trato de olvidar mis penas\ny de parecer alegre,",
+					"number": 27,
+					"id": "b1c35cf1-fe11-4df7-be4e-02b3c98fe83f"
+				},
+				{
+					"verse": "todo mi dolor vuelve a asustarme,\npues sé que Dios no me cree inocente.",
+					"number": 28,
+					"id": "29497203-7488-4a2a-9f1f-3632a7b8cd55"
+				},
+				{
+					"verse": "Y si él me tiene por culpable,\nde nada sirve que yo me esfuerce.",
+					"number": 29,
+					"id": "2cedc029-11fc-485e-ab72-ecebdff3e79a"
+				},
+				{
+					"verse": "Aunque me lave las manos con jabón\ny me las frote con lejía,",
+					"number": 30,
+					"id": "c5fa3d56-35c3-449e-83ea-55a1474a80de"
+				},
+				{
+					"verse": "Dios me hundirá en el fango,\ny hasta mi ropa sentirá asco de mí.",
+					"number": 31,
+					"id": "bd63e000-2eb9-49cd-a61c-20b6dd485dcc"
+				},
+				{
+					"verse": "Yo no puedo encararme con Dios como con otro hombre,\nni decirle que vayamos los dos a un tribunal.",
+					"number": 32,
+					"id": "47a60503-c47b-4b3b-b291-fa8b50faf976"
+				},
+				{
+					"verse": "¡Ojalá entre nosotros hubiera un juez\nque tuviera autoridad sobre los dos,",
+					"number": 33,
+					"id": "3b9f4351-3b58-40bf-8445-fddf378d937e"
+				},
+				{
+					"verse": "que impidiera que Dios me siga castigando\ny me siga llenando de terror!",
+					"number": 34,
+					"id": "2860ec44-e167-497c-a4d5-2d7e95bca777"
+				},
+				{
+					"verse": "Entonces yo hablaría sin tenerle miedo,\npues no creo haberle faltado.",
+					"number": 35,
+					"id": "b2138852-92b8-438e-be15-ba1b938331e7"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "¡Ya estoy cansado de vivir!\nVoy a desahogarme con mis quejas,\nvoy a dar rienda suelta a mi amargura.",
+					"number": 1,
+					"study": "Job lamenta su condición",
+					"id": "e489cc12-454d-47a9-99d5-a09af30d6c57"
+				},
+				{
+					"verse": "¡Oh Dios, no me declares culpable!\n¡Dime de qué me acusas!",
+					"number": 2,
+					"id": "e8c068e4-631f-4051-9453-81d5a78dbea8"
+				},
+				{
+					"verse": "Siendo así que tú mismo me creaste,\n¿te parece bien maltratarme y despreciarme,\ny mostrarte favorable a los planes de los malos?",
+					"number": 3,
+					"id": "3302a978-03df-4a7f-bc4f-2da8cb5b7e89"
+				},
+				{
+					"verse": "¿Acaso ves las cosas como las ven los hombres?",
+					"number": 4,
+					"id": "24f6fda0-0e7d-43d6-b9a7-a9667fa0dbd0"
+				},
+				{
+					"verse": "¿Acaso es tu vida tan corta como la de un mortal?",
+					"number": 5,
+					"id": "1b116afa-04b7-4f2c-8116-4caa43ddcec6"
+				},
+				{
+					"verse": "Entonces, ¿por qué andas\nbuscándome faltas y pecados,",
+					"number": 6,
+					"id": "80288e12-ca48-418e-83f4-184010fc00a7"
+				},
+				{
+					"verse": "aun cuando sabes que yo no soy culpable\ny que nadie me puede salvar de tu poder?",
+					"number": 7,
+					"id": "549e1bff-cfc5-4e9a-bf77-2a064e33adbe"
+				},
+				{
+					"verse": "Tú me formaste con tus propias manos,\n¡y ahora me quieres destruir!",
+					"number": 8,
+					"id": "0d96b2f8-fb7e-481d-9d56-132fd3f6801d"
+				},
+				{
+					"verse": "Recuerda que me hiciste de barro:\n¿vas ahora a convertirme otra vez en polvo?",
+					"number": 9,
+					"id": "74b60a50-d8b3-4cf0-bade-919aed64c564"
+				},
+				{
+					"verse": "Hiciste que mi cuerpo se formara\ncomo se forma el queso al cuajarse la leche;",
+					"number": 10,
+					"id": "e1c19c52-ce67-4796-9028-9c1db9203f2d"
+				},
+				{
+					"verse": "me revestiste de carne y de piel,\nentrelazaste mis huesos y tendones;",
+					"number": 11,
+					"id": "dc88a44a-5d8f-41a4-862c-fcb7ee9271a5"
+				},
+				{
+					"verse": "me diste vida, me brindaste amor,\ny con tus cuidados me has mantenido con vida.",
+					"number": 12,
+					"id": "97aa2b03-4992-4d70-a464-ff8d6987e5fd"
+				},
+				{
+					"verse": "Pero ahora veo que allá en tu corazón\ntenías una intención secreta:",
+					"number": 13,
+					"id": "37bb9365-4764-4046-ba9b-0964225bb956"
+				},
+				{
+					"verse": "me estabas observando para ver si yo pecaba,\ny así poder condenarme por mi falta.",
+					"number": 14,
+					"id": "3e99d9a7-b93a-4edb-9e4a-762b86304144"
+				},
+				{
+					"verse": "Si soy culpable, estoy perdido;\nsi soy inocente, de poco puedo alegrarme,\npues me tienes humillado y afligido.",
+					"number": 15,
+					"id": "a5ea5c4a-e251-497c-9d0b-adb8270b42da"
+				},
+				{
+					"verse": "Si me muestro arrogante, tú, como un león, me persigues\ny hasta haces milagros para destruirme.",
+					"number": 16,
+					"id": "11f8a527-fa5b-4c81-8d86-4bebe4a2cf09"
+				},
+				{
+					"verse": "Nunca te faltan testigos contra mí;\ntu ira contra mí va en aumento;\n¡como un ejército, me atacas sin cesar!",
+					"number": 17,
+					"id": "792ead37-cca9-4b00-a139-01483d360925"
+				},
+				{
+					"verse": "¿Por qué me dejaste nacer?\nDebí morir antes que nadie pudiera verme.",
+					"number": 18,
+					"id": "8e768868-e5c5-4ad5-b672-1ad7f2dde3bb"
+				},
+				{
+					"verse": "Habría pasado del seno de mi madre a la tumba;\nsería como si nunca hubiera existido.",
+					"number": 19,
+					"id": "bba26726-7cd3-4f0c-aa7a-a4ab1ed8d03b"
+				},
+				{
+					"verse": "Ya que mi vida es corta, ¡déjame en paz!\nDéjame tener un poco de alegría",
+					"number": 20,
+					"id": "383e16c7-5f3c-4960-86b5-62ffed5b22b7"
+				},
+				{
+					"verse": "antes de irme al viaje sin regreso,\nal país de la oscuridad y las tinieblas,",
+					"number": 21,
+					"id": "5a2cfe7d-d97f-41db-9415-15a3ddafb78a"
+				},
+				{
+					"verse": "al país de las sombras y la confusión,\ndonde la luz misma es igual a las tinieblas.",
+					"number": 22,
+					"id": "afaf918d-3d30-4553-bc64-6022a951c535"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Sofar",
+					"number": 1,
+					"study": "Zofar acusa de maldad a Job",
+					"id": "dc56b289-0355-46a3-b6cc-24dc00198b5b"
+				},
+				{
+					"verse": "Toda esa palabrería merece una respuesta,\npues no por hablar mucho se tiene la razón.",
+					"number": 2,
+					"id": "96619464-8f85-4889-928f-5c447c7aa54d"
+				},
+				{
+					"verse": "¿Crees que con tu verborrea nos vas a hacer callar,\ny que nadie es capaz de responder a tus burlas?",
+					"number": 3,
+					"id": "568b8dde-49e5-44be-8475-3cde7391d6ab"
+				},
+				{
+					"verse": "Tú dices que tu doctrina es recta,\ny tú mismo te consideras puro.",
+					"number": 4,
+					"id": "904f52f6-111b-412f-9df7-24989450882d"
+				},
+				{
+					"verse": "¡Ojalá Dios hablara para responderte!",
+					"number": 5,
+					"id": "a8783357-17e7-4e89-a50c-f3197c593e4a"
+				},
+				{
+					"verse": "Él te enseñaría los secretos de la sabiduría,\nque son muy difíciles de entender.\nAsí verías que Dios no te ha castigado\ntanto como mereces.",
+					"number": 6,
+					"id": "78e93881-7485-4fa6-8b39-186d167012c0"
+				},
+				{
+					"verse": "¿Crees que puedes penetrar en los misterios de Dios\ny llegar hasta lo más profundo de su ser?",
+					"number": 7,
+					"id": "4ff54531-21d8-4fc2-97ad-aec916291917"
+				},
+				{
+					"verse": "¿Qué puedes hacer,\nsi son más altos que el cielo?\n¿Qué sabes tú, si son más profundos que el abismo?",
+					"number": 8,
+					"id": "0b31c7eb-4a07-415e-9586-4d50e789938b"
+				},
+				{
+					"verse": "Son más grandes que la tierra\ny más anchos que el mar.",
+					"number": 9,
+					"id": "e838e616-3459-4fe6-9508-e8c6ef71001b"
+				},
+				{
+					"verse": "Si Dios viene, y arresta y llama a juicio,\n¿quién habrá que se lo impida?",
+					"number": 10,
+					"id": "f6fb8f67-21d8-481e-8c74-b71c196f7d5e"
+				},
+				{
+					"verse": "Él sabe quién es mentiroso;\nél ve la maldad, ¿o crees que no se da cuenta?",
+					"number": 11,
+					"id": "faf65ced-feb4-4bc9-9ca8-b4cee7412f11"
+				},
+				{
+					"verse": "El día que el asno salvaje deje de serlo,\nese día el necio entrará en razón.",
+					"number": 12,
+					"id": "1de4e49b-1840-4339-8cd3-105abe089515"
+				},
+				{
+					"verse": "Decídete a actuar con rectitud,\ny dirige tus súplicas a Dios.",
+					"number": 13,
+					"id": "07279bad-5fa5-459f-a96c-202ba4804fb9"
+				},
+				{
+					"verse": "Si estás cargado de pecado, aléjalo de ti;\nno des lugar en tu casa a la maldad.",
+					"number": 14,
+					"id": "74854c11-97d7-4ecb-bff3-095225ffc6d8"
+				},
+				{
+					"verse": "Así podrás alzar limpia la frente,\ny estarás tranquilo y sin temor;",
+					"number": 15,
+					"id": "032ab819-13fc-4343-984a-f62f58e0df33"
+				},
+				{
+					"verse": "echarás en el olvido tus sufrimientos;\nlos olvidarás como al agua que pasa.",
+					"number": 16,
+					"id": "8b33ebca-80f9-40fa-acfe-c9c4f9448199"
+				},
+				{
+					"verse": "Tu vida brillará más que el sol a mediodía;\ntus horas más oscuras serán como el amanecer.",
+					"number": 17,
+					"id": "559bc87b-4676-4bbc-b1c6-dbd6f3565356"
+				},
+				{
+					"verse": "Tendrás esperanza y podrás vivir confiado;\nbajo el cuidado de Dios dormirás tranquilo.",
+					"number": 18,
+					"id": "2d7f4831-6399-49f5-a768-bb0e97c0b15b"
+				},
+				{
+					"verse": "Nada te asustará cuando descanses.\nMuchos vendrán a buscar tu favor.",
+					"number": 19,
+					"id": "3731eb09-9f1d-4950-97de-e8b44dd33c81"
+				},
+				{
+					"verse": "Los malos, en cambio, buscarán ayuda en vano;\nno encontrarán lugar donde refugiarse,\ny la muerte será su única esperanza.",
+					"number": 20,
+					"id": "0a5639de-ef92-4fc2-9326-2db6d1711a2c"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job proclama el poder y la sabiduría de Dios",
+					"id": "f8870380-ca4a-4468-818a-bab6990af005"
+				},
+				{
+					"verse": "¡No hay duda de que ustedes son la voz del pueblo,\ny de que cuando mueran no habrá más sabiduría!",
+					"number": 2,
+					"id": "8b38af6d-6e36-4f27-9acd-493a8a995cf3"
+				},
+				{
+					"verse": "Pero también yo tengo entendimiento,\ny en nada soy inferior a ustedes.\n¿Quién no sabe todo esto?",
+					"number": 3,
+					"id": "dec932e2-72ca-4d1d-a231-6d66b6051f98"
+				},
+				{
+					"verse": "Aunque soy inocente e intachable,\ny en otro tiempo Dios oía mis súplicas,\nmis amigos se ríen de mí.",
+					"number": 4,
+					"id": "7e5798ce-728c-41e2-ab39-b3e80b7de520"
+				},
+				{
+					"verse": "El que está seguro desprecia al infeliz;\nno le importa empujar al que está a punto de caer.",
+					"number": 5,
+					"id": "c4fe6dce-9b2d-4c7d-9964-db4a5783260b"
+				},
+				{
+					"verse": "Los bandidos tienen paz en sus hogares;\nlos que ofenden a Dios viven tranquilos,\npensando que lo tienen en un puño.",
+					"number": 6,
+					"id": "18e02027-5d1b-4209-b21e-4d53b9136ad1"
+				},
+				{
+					"verse": "Pregunta a las bestias o a las aves:\nellas te pueden enseñar.",
+					"number": 7,
+					"id": "0bbcaa79-0670-4606-af46-e593fe77fac0"
+				},
+				{
+					"verse": "También a la tierra y a los peces del mar\npuedes pedirles que te instruyan.",
+					"number": 8,
+					"id": "51d28b01-992d-41c1-a71d-d5790d21a9ca"
+				},
+				{
+					"verse": "¿Hay alguien todavía que no sepa\nque Dios lo hizo todo con su mano?",
+					"number": 9,
+					"id": "6025b838-9e39-4e6a-9c53-650e486dd052"
+				},
+				{
+					"verse": "En su mano está la vida\nde todo ser viviente.",
+					"number": 10,
+					"id": "9df80845-85b8-4991-8077-168dae3d83af"
+				},
+				{
+					"verse": "El oído distingue las palabras,\nigual que el paladar reconoce los sabores.",
+					"number": 11,
+					"id": "e38b429f-7ce0-4c49-a0c4-9e3ee0809a17"
+				},
+				{
+					"verse": "Los ancianos tienen sabiduría;\nla edad les ha dado entendimiento.",
+					"number": 12,
+					"id": "2067f87a-d80f-413c-a176-2fcd08c02ec3"
+				},
+				{
+					"verse": "Pero Dios es sabio y poderoso;\nél hace planes, y los lleva a cabo.",
+					"number": 13,
+					"id": "a93bac69-2c49-4b13-b45d-fa4d913e2171"
+				},
+				{
+					"verse": "Lo que Dios destruye, nadie lo puede reconstruir;\nal que Dios encierra, nadie lo puede libertar.",
+					"number": 14,
+					"id": "6ab133d2-369b-4f73-a75e-ea086b6379ca"
+				},
+				{
+					"verse": "Si él retiene la lluvia, todo se seca;\nsi le da salida, se inunda la tierra.",
+					"number": 15,
+					"id": "e8f26b98-93d7-4a2c-bdd6-f0a257b70584"
+				},
+				{
+					"verse": "Su poder le da siempre la victoria.\nSujetos a él están el engañado y el que engaña.",
+					"number": 16,
+					"id": "78f76341-73ac-4f44-a203-12b25769756b"
+				},
+				{
+					"verse": "Él hace que los sabios pierdan su inteligencia\ny que los jueces se vuelvan locos.",
+					"number": 17,
+					"id": "9a9fd6dd-7807-44cb-b0f6-ed58c085f42d"
+				},
+				{
+					"verse": "Deja sin autoridad a los reyes\ny los hace ir cautivos y desnudos.",
+					"number": 18,
+					"id": "99668475-e25f-4862-aed0-c95973c35864"
+				},
+				{
+					"verse": "Quita a los sacerdotes de su oficio\ny derroca a los que están en el poder.",
+					"number": 19,
+					"id": "5dafc5a6-570e-4aa6-8980-0dba045114ce"
+				},
+				{
+					"verse": "A los consejeros de confianza deja sin palabra\ny quita el buen juicio a los ancianos.",
+					"number": 20,
+					"id": "acad7c12-6dc8-49e6-9768-653566c7ed4c"
+				},
+				{
+					"verse": "Hace que los señores queden sin honra\ny que los fuertes pierdan su fuerza.",
+					"number": 21,
+					"id": "cf96d342-9c92-4f89-bfe4-174ac942981f"
+				},
+				{
+					"verse": "Da a conocer los secretos más ocultos\ny saca a la luz las cosas más oscuras.",
+					"number": 22,
+					"id": "a12eb4eb-c809-4711-be43-fc10d11a0286"
+				},
+				{
+					"verse": "Él engrandece y destruye a las naciones,\nlas dispersa y las reúne.",
+					"number": 23,
+					"id": "60dfe597-cf99-4658-9ca1-f61bfbf740d2"
+				},
+				{
+					"verse": "Quita la inteligencia a los jefes de un país\ny los hace perderse en un desierto sin camino,",
+					"number": 24,
+					"id": "8faee70b-1da3-41d8-8f2c-96d2740549c2"
+				},
+				{
+					"verse": "donde andan a tientas en la oscuridad,\ntambaleándose como borrachos.",
+					"number": 25,
+					"id": "96cfd958-4de1-498f-8acf-74d3a4469177"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Todo esto lo he visto con mis propios ojos,\nlo he escuchado con mis propios oídos.",
+					"number": 1,
+					"study": "Job defiende su integridad",
+					"id": "6d0f19f3-af14-4077-baba-a55424b2e066"
+				},
+				{
+					"verse": "Lo que ustedes saben, también yo lo sé;\nen nada soy inferior a ustedes.",
+					"number": 2,
+					"id": "ce43e502-6f92-4d2d-884c-5119cf84cd3e"
+				},
+				{
+					"verse": "Pero prefiero hablar con Dios,\nprefiero discutir con el Todopoderoso.",
+					"number": 3,
+					"id": "f85b1297-41c6-4b77-97bd-b6a06ac0ac99"
+				},
+				{
+					"verse": "Ustedes cubren la verdad con sus mentiras;\nson médicos que a nadie curan.",
+					"number": 4,
+					"id": "7ebdd19d-777d-4989-9688-d0d33d65c9b5"
+				},
+				{
+					"verse": "¡Si al menos guardaran ustedes silencio,\npodrían pasar por personas sabias!",
+					"number": 5,
+					"id": "c16ed430-e756-4523-8b79-fc9394d9f2d9"
+				},
+				{
+					"verse": "Escuchen, por favor, con atención,\nmientras yo expongo mis razones.",
+					"number": 6,
+					"id": "30b04ad3-e3b6-4c9c-a766-1f14eca77da3"
+				},
+				{
+					"verse": "¿Creen acaso que defienden a Dios con sus mentiras,\ny que le hacen un servicio con palabras engañosas?",
+					"number": 7,
+					"id": "a3c7b2b3-603d-4fb7-b2a5-e92a6a0404fe"
+				},
+				{
+					"verse": "Ustedes se han puesto de su parte\ny quieren defender su causa,",
+					"number": 8,
+					"id": "36c87294-03d3-45c5-a146-d401a7418f62"
+				},
+				{
+					"verse": "pero, ¿qué pasará si Dios los examina?\n¿Podrán ustedes engañarlo como a un hombre?",
+					"number": 9,
+					"id": "148bfa4b-442c-4310-b812-82ca777564df"
+				},
+				{
+					"verse": "Si con disimulo se ponen de su parte,\nél los reprenderá duramente.",
+					"number": 10,
+					"id": "d8347056-b053-4cf4-a13b-45d2fa049e47"
+				},
+				{
+					"verse": "La grandeza de Dios\nlos llenará de espanto y de terror.",
+					"number": 11,
+					"id": "a23adab4-d5b4-4347-b0ac-667a5df65f4b"
+				},
+				{
+					"verse": "Sus anticuados argumentos son puro polvo;\nes como querer defenderse con murallas de barro.",
+					"number": 12,
+					"id": "d483c067-48d0-493c-97ad-e84db92399ba"
+				},
+				{
+					"verse": "Y ahora, ¡cállense, que voy a hablar,\npáseme lo que me pase!",
+					"number": 13,
+					"id": "a7c15dde-1b48-4ae9-8027-6a05e4067a99"
+				},
+				{
+					"verse": "Voy a arriesgar mi vida,\nvoy a jugarme el todo por el todo.",
+					"number": 14,
+					"id": "ad1ab41d-6972-406b-867a-d0a0edc5905f"
+				},
+				{
+					"verse": "Aunque él me mate, me mantendré firme,\ncon tal de presentarle mi defensa cara a cara.",
+					"number": 15,
+					"id": "bc968a0e-2a34-4ab1-ae13-78409005afcb"
+				},
+				{
+					"verse": "Quizá en eso esté mi salvación,\npues un malvado no entraría hasta su presencia.",
+					"number": 16,
+					"id": "33ddc94e-1ac5-4e1e-bb89-2bd869c52b59"
+				},
+				{
+					"verse": "Escuchen, pues, con atención\nla exposición que voy a hacerles.",
+					"number": 17,
+					"id": "030582d9-6274-42dc-8d1a-3e76c69d30cf"
+				},
+				{
+					"verse": "Voy a presentar mi defensa,\ny sé que tengo la razón.",
+					"number": 18,
+					"id": "eb28fe13-39cc-4c10-b33b-361de101ce6d"
+				},
+				{
+					"verse": "Si alguien tiene de qué acusarme,\nyo guardaré silencio y moriré.",
+					"number": 19,
+					"id": "dc50652d-d821-4898-b8c2-f4881aa99965"
+				},
+				{
+					"verse": "Concédeme sólo dos cosas, oh Dios,\ny no me esconderé de ti:",
+					"number": 20,
+					"id": "74190562-3595-4e6e-9bae-b5a38e40102f"
+				},
+				{
+					"verse": "Deja ya de castigarme\ny no me hagas sentir tanto miedo.",
+					"number": 21,
+					"id": "a9239aae-6cf0-46ad-aa6b-91e02f30d815"
+				},
+				{
+					"verse": "Llámame, y yo te responderé;\no yo hablaré primero, y tú me responderás.",
+					"number": 22,
+					"id": "7131886b-87c0-40d1-8ed8-f825f7b6854d"
+				},
+				{
+					"verse": "Dime, ¿cuáles son mis pecados y delitos?\n¿Cuáles son mis crímenes?",
+					"number": 23,
+					"id": "7fa5a69b-e4bd-446e-a6a9-e1b5b2524377"
+				},
+				{
+					"verse": "¿Por qué te escondes de mí?\n¿Por qué me tratas como a un enemigo?",
+					"number": 24,
+					"id": "b71ad964-ab47-46bc-ab0b-cce1da7ee135"
+				},
+				{
+					"verse": "Soy como una hoja al viento,\n¿por qué quieres destruirme?\nNo soy más que paja seca,\n¿por qué me persigues?",
+					"number": 25,
+					"id": "bc13561a-bcc1-4330-af83-fe5158544bfc"
+				},
+				{
+					"verse": "Traes amargas acusaciones contra mí;\nme pides cuentas de las faltas de mi juventud.",
+					"number": 26,
+					"id": "3e9e7604-e747-487f-bcd6-2117a097e9fe"
+				},
+				{
+					"verse": "Me pones cadenas en los pies,\nvigilas todos mis pasos\ny examinas todas mis pisadas.",
+					"number": 27,
+					"id": "0c8abf90-1904-4494-88ac-9e651c277a7b"
+				},
+				{
+					"verse": "Me voy deshaciendo, como algo podrido,\ncomo ropa que se come la polilla.",
+					"number": 28,
+					"id": "38e0cb43-0739-4379-93ef-144c7fbb11e5"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "El hombre, nacido de mujer,\ntiene una vida corta y llena de zozobras.",
+					"number": 1,
+					"study": "Job discurre sobre la brevedad de la vida",
+					"id": "3eb35380-d307-4c3d-b214-46143c2eb16c"
+				},
+				{
+					"verse": "Es como una flor que se abre y luego se marchita;\npasa y desaparece como una sombra.",
+					"number": 2,
+					"id": "2fb25a50-6b46-4997-a26e-ceb12491d28d"
+				},
+				{
+					"verse": "¿Y en este hombre has puesto los ojos,\ny contra él quieres entablar un juicio?",
+					"number": 3,
+					"id": "2f91904b-651e-4cc3-91b5-61ca68584ddc"
+				},
+				{
+					"verse": "No hay nadie que pueda sacar\npureza de la impureza.",
+					"number": 4,
+					"id": "f4b96a9e-9758-490e-88fe-3602679cf029"
+				},
+				{
+					"verse": "Si tú eres quien determina\ncuánto ha de vivir el hombre,\ny le pones un límite que no puede pasar,",
+					"number": 5,
+					"id": "a3cec424-e039-468d-997b-c22a7c59ba0f"
+				},
+				{
+					"verse": "aparta de él tus ojos y déjalo en paz;\n¡déjalo disfrutar de su vida de asalariado!",
+					"number": 6,
+					"id": "56c92f44-1c27-4cbe-873d-215bbf5d5eaa"
+				},
+				{
+					"verse": "Cuando se corta un árbol,\nqueda aún la esperanza de que retoñe\ny de que jamás le falten renuevos.",
+					"number": 7,
+					"id": "0451f8ad-24df-4bed-b319-2dd49cba6593"
+				},
+				{
+					"verse": "Aunque ya esté vieja la raíz\ny el tronco se esté pudriendo en el suelo,",
+					"number": 8,
+					"id": "4da3e8c4-0c80-4641-a846-86ce2e6d332f"
+				},
+				{
+					"verse": "al sentir la frescura del agua, reverdecerá;\nechará ramas como una planta tierna.",
+					"number": 9,
+					"id": "d4947718-f910-4207-9859-f58d1ff9c1cf"
+				},
+				{
+					"verse": "En cambio, el hombre muere sin remedio;\ny al morir, ¿a dónde va?",
+					"number": 10,
+					"id": "1bcd1da8-07f1-463a-8f0e-763e4cdd648e"
+				},
+				{
+					"verse": "El agua del mar podrá evaporarse,\ny los ríos quedarse secos;",
+					"number": 11,
+					"id": "99936dcd-fd15-4165-8523-19e8c85210e5"
+				},
+				{
+					"verse": "pero mientras el cielo exista,\nel hombre no se levantará de su tumba,\nno despertará de su sueño.",
+					"number": 12,
+					"id": "bd061e0b-1ce1-449d-9b4e-faa2c1695fdb"
+				},
+				{
+					"verse": "¡Ojalá me escondieras en el reino de la muerte\nmientras pasa tu ira,\ny fijaras un plazo para acordarte de mí!",
+					"number": 13,
+					"id": "069a762e-b7bf-452b-adaa-d5852128e91c"
+				},
+				{
+					"verse": "Si un hombre muere, ¿volverá a vivir?\nYo esperaría todo el tiempo que durara mi servicio\nhasta que viniera el alivio de mis penas.",
+					"number": 14,
+					"id": "8e2e8e88-2e1b-44f9-8599-e1f0d5240285"
+				},
+				{
+					"verse": "Tú me llamarías, y yo te respondería;\nme mirarías con afecto, pues eres mi creador.",
+					"number": 15,
+					"id": "dae7d83d-f4e3-4142-87f2-329121d1f8bf"
+				},
+				{
+					"verse": "Si ahora vigilas cada uno de mis pasos,\nentonces no te fijarías en mis pecados;",
+					"number": 16,
+					"id": "30926bb8-72ee-488a-9790-b695c202d634"
+				},
+				{
+					"verse": "echarías mis faltas al olvido\ny me limpiarías de mis delitos.",
+					"number": 17,
+					"id": "5a821e32-89ee-469e-8f32-57408f76f90d"
+				},
+				{
+					"verse": "Aun las montañas acaban por derrumbarse,\ny los peñascos por cambiar de sitio.",
+					"number": 18,
+					"id": "909a17d6-d842-43ab-b0c0-49430c1bbbcc"
+				},
+				{
+					"verse": "Así como el agua desgasta la piedra\ny las lluvias arrastran el polvo del suelo,\nasí destruyes tú la esperanza del hombre.",
+					"number": 19,
+					"id": "f6747ae5-0b79-407a-bc84-a0e7e8bdbcfc"
+				},
+				{
+					"verse": "Lo derrotas para siempre, lo echas de su tierra,\ny él se va desfigurado.",
+					"number": 20,
+					"id": "9767de70-605e-4644-9506-eebf967d44f5"
+				},
+				{
+					"verse": "Si sus hijos alcanzan honores, él no se entera;\nsi caen en desgracia, él no se da cuenta;",
+					"number": 21,
+					"id": "fe396036-49f9-4203-a36c-d5501920f909"
+				},
+				{
+					"verse": "sólo siente los dolores de su propio cuerpo,\nel sufrimiento de su propio ser.",
+					"number": 22,
+					"id": "6a6db76e-0345-402d-ac0d-f04d03aa175b"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "Elifaz",
+					"number": 1,
+					"study": "Elifaz reprende a Job",
+					"id": "91587caa-1bad-423c-ba1e-8a67339c18e6"
+				},
+				{
+					"verse": "El que es sabio no responde con palabras huecas\nni se hincha con razones que sólo son viento;",
+					"number": 2,
+					"id": "67363469-28b5-406d-a57c-b2927722160e"
+				},
+				{
+					"verse": "no habla sólo por hablar\nni usa argumentos sin valor.",
+					"number": 3,
+					"id": "8bba6dad-7dcc-43b8-ae73-ca0058046946"
+				},
+				{
+					"verse": "Pero tú acabas con la reverencia a Dios:\n¡destruyes la devoción sincera!",
+					"number": 4,
+					"id": "9b8119b0-1b00-4eef-9460-7b030e39b394"
+				},
+				{
+					"verse": "Tu mala conciencia hace que hables así\ny que uses palabras engañosas.",
+					"number": 5,
+					"id": "b4e57e4e-cc72-4922-a309-a6b715c94cae"
+				},
+				{
+					"verse": "No hace falta que yo te acuse,\npues tu propia boca te condena.",
+					"number": 6,
+					"id": "0f365d7d-9bd5-4725-b1b0-9d5525373a05"
+				},
+				{
+					"verse": "¿Piensas que antes de ti no hubo ningún hombre,\ny que ni siquiera existían las montañas?",
+					"number": 7,
+					"id": "1ecb136c-e65d-466e-a7d1-05a808f566f2"
+				},
+				{
+					"verse": "¿Acaso te crees el consejero privado de Dios,\no el único sabio del mundo?",
+					"number": 8,
+					"id": "de32fe20-31ea-461c-8f3d-00cdaa306fc0"
+				},
+				{
+					"verse": "¿Qué sabes tú que nosotros no sepamos?\n¿Qué conoces tú que nosotros ignoremos?",
+					"number": 9,
+					"id": "3b98fe03-f845-4f45-aea6-22467efd4b80"
+				},
+				{
+					"verse": "¡Nosotros somos gente ya madura,\ncon más experiencia que tu propio padre!",
+					"number": 10,
+					"id": "a679b61b-b0de-4097-9b27-3e68c68656d6"
+				},
+				{
+					"verse": "¿No te basta con que Dios mismo te consuele\ny con que te hablemos suavemente?",
+					"number": 11,
+					"id": "47c4e8f1-06de-4db7-ae55-58cf4c1a7094"
+				},
+				{
+					"verse": "¿Por qué te dejas llevar de la pasión\ny echas chispas por los ojos?",
+					"number": 12,
+					"id": "5a2f6dc6-448c-4326-a70c-33411c7c4389"
+				},
+				{
+					"verse": "¿Por qué te enfureces contra Dios\ny das rienda suelta a tus protestas?",
+					"number": 13,
+					"id": "17831f96-a399-4f9b-9a7f-4c3336a0f8cf"
+				},
+				{
+					"verse": "No hay hombre que sea puro\nni que esté libre de culpa.",
+					"number": 14,
+					"id": "69372795-49dc-45fb-99bd-780eae37ef1b"
+				},
+				{
+					"verse": "Si ni aun los ángeles merecen toda su confianza,\nsi ni siquiera el cielo es puro a sus ojos,",
+					"number": 15,
+					"id": "2e5ae0b2-a505-422d-a661-22bf29317b91"
+				},
+				{
+					"verse": "¡mucho menos el hombre, corrompido y despreciable,\nque hace el mal como quien bebe agua!",
+					"number": 16,
+					"id": "16c343b2-a82e-457f-b00a-5244bff4176c"
+				},
+				{
+					"verse": "Escúchame, pues te voy a decir\nalgo que sé por experiencia,",
+					"number": 17,
+					"id": "5266487b-d17a-4cc5-aa46-8609096d9fc0"
+				},
+				{
+					"verse": "algo que los sabios nos enseñan.\nEllos lo aprendieron de sus antepasados,",
+					"number": 18,
+					"id": "40c6a491-a1a0-462d-bf7e-df2a4a1eaf9e"
+				},
+				{
+					"verse": "a quienes fue dada la tierra\ny entre quienes no hubo mezcla de extranjeros.",
+					"number": 19,
+					"id": "538841d1-045c-4f18-ada9-8f2528de68eb"
+				},
+				{
+					"verse": "La vida del hombre malvado y violento\nes corta y llena de tormentos.",
+					"number": 20,
+					"id": "1afa4f1b-d40b-4ac6-ae77-42a35e3d2147"
+				},
+				{
+					"verse": "Oye ruidos que lo asustan;\ncuando más seguro está, lo asaltan los ladrones.",
+					"number": 21,
+					"id": "db6c7b61-4c86-4b70-9923-caf1ed8caa99"
+				},
+				{
+					"verse": "No tiene esperanza de escapar de la oscuridad:\n¡un puñal está en espera de matarlo!",
+					"number": 22,
+					"id": "8488b8f1-2f28-41fb-bc25-5cc57b851048"
+				},
+				{
+					"verse": "Su cadáver servirá de alimento a los buitres;\nél sabe que su ruina es inevitable.",
+					"number": 23,
+					"id": "1593c44c-5e89-4c2c-ab7b-529fa8047a20"
+				},
+				{
+					"verse": "La oscuridad lo llenará de terror,\ny lo asaltarán la angustia y la desgracia,\ncomo cuando un rey ataca en la batalla.",
+					"number": 24,
+					"id": "e32ac689-f6ba-46d7-a8d0-6b025f7fda8f"
+				},
+				{
+					"verse": "Esto le pasa al que levanta su mano contra Dios,\nal que se atreve a desafiar al Todopoderoso,",
+					"number": 25,
+					"id": "541a83b5-c463-440d-b388-c2de79011b3f"
+				},
+				{
+					"verse": "al que, protegido con un escudo,\nse lanza en forma insolente contra Dios.",
+					"number": 26,
+					"id": "5a7e9557-32ef-4217-aad5-fa03c7760f4f"
+				},
+				{
+					"verse": "Llenos de grasa tiene\nla cara y los costados.",
+					"number": 27,
+					"id": "e8fb7745-d653-46dd-828b-7e6c2b646a0d"
+				},
+				{
+					"verse": "Las ciudades donde viva quedarán en ruinas;\nlas casas quedarán abandonadas\ny convertidas en un montón de escombros.",
+					"number": 28,
+					"id": "56d56fc8-5624-4b72-b2c2-7378f50caa47"
+				},
+				{
+					"verse": "No será rico por mucho tiempo,\nni se extenderán sus posesiones en la tierra.",
+					"number": 29,
+					"id": "2002ece9-585c-4f2b-811e-bae4443e32c0"
+				},
+				{
+					"verse": "No podrá escapar de las tinieblas.\nSerá como una planta cuyos retoños quema el fuego\no cuyas flores arranca el viento.",
+					"number": 30,
+					"id": "20bc03dc-bc59-410b-b655-3fe039a7caac"
+				},
+				{
+					"verse": "Que no confíe tontamente en el engaño,\npues no logrará más que ser engañado.",
+					"number": 31,
+					"id": "c645551c-5d4d-47eb-9bff-2f32344f07c4"
+				},
+				{
+					"verse": "Antes de tiempo se marchitarán sus ramas\ny no volverán a reverdecer.",
+					"number": 32,
+					"id": "53c4a738-984a-4555-9743-ea4ca25ea196"
+				},
+				{
+					"verse": "Será como una vid cuyas uvas no maduran,\ncomo un olivo cuyas flores se caen.",
+					"number": 33,
+					"id": "1e8d4f25-0300-48da-99d8-4d96db45321a"
+				},
+				{
+					"verse": "Los impíos no tendrán descendencia,\ny sus casas, enriquecidas con soborno,\narderán en el fuego.",
+					"number": 34,
+					"id": "8e066597-bf8c-4145-a0a1-b199e3f6d8e5"
+				},
+				{
+					"verse": "Están preñados de maldad y dan a luz desdicha;\nel fruto que producen es el engaño.",
+					"number": 35,
+					"id": "f07d03f9-83ed-4ed4-92d1-287468927a4d"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job se queja contra Dios",
+					"id": "56be7727-75f7-4d48-ad66-22f50f132e8b"
+				},
+				{
+					"verse": "Ya he oído muchas veces cosas parecidas.\nUstedes, en vez de consolarme, me atormentan.",
+					"number": 2,
+					"id": "65018b24-fde4-4c3a-b751-96ce63d909a0"
+				},
+				{
+					"verse": "¿Es que no hay fin para las palabras huecas?\n¿Qué manía es ésa de contradecirme?",
+					"number": 3,
+					"id": "9b3caa86-acb6-4f5f-8c61-28bbe54a9163"
+				},
+				{
+					"verse": "Si ustedes estuvieran ahora en mi lugar,\ntambién yo hablaría como ustedes;\nmovería burlonamente la cabeza\ny les lanzaría un torrente de palabras,",
+					"number": 4,
+					"id": "946f0318-ea32-4456-8163-43b06b052c00"
+				},
+				{
+					"verse": "palabras amables y consoladoras,\npara darles ánimo y valor.",
+					"number": 5,
+					"id": "8e7a4f82-21d0-4088-b8ff-b0501572d160"
+				},
+				{
+					"verse": "Pero ni el hablar calma mi dolor,\nni el callar me trae alivio.",
+					"number": 6,
+					"id": "13e7575e-bac7-4c42-a9ce-93bd9507fe4d"
+				},
+				{
+					"verse": "Dios ha acabado con mis fuerzas;\nme ha quitado todos mis amigos",
+					"number": 7,
+					"id": "733d526f-950e-4b72-ac1b-1c687ec023cc"
+				},
+				{
+					"verse": "y me ha puesto en prisión.\nHa levantado testimonios contra mí;\ncontra mí ha presentado acusaciones falsas.",
+					"number": 8,
+					"id": "c793e456-6fc5-4f8e-aac5-66d5011fbf2a"
+				},
+				{
+					"verse": "El Señor me persigue y me desgarra,\nme amenaza como una fiera,\nme clava los ojos cual si fuera mi enemigo.",
+					"number": 9,
+					"id": "bde0e47a-9d8c-46b9-a22d-5ded4b6d8e2b"
+				},
+				{
+					"verse": "La gente se amontona contra mí,\nme hace muecas\ny me da de bofetadas para humillarme.",
+					"number": 10,
+					"id": "65be1a94-24eb-4664-9016-0aa80a69ecf0"
+				},
+				{
+					"verse": "Dios me ha puesto en manos\nde gente malvada y criminal.",
+					"number": 11,
+					"id": "338ee639-1143-416c-8e4e-8a0a3e8a57c3"
+				},
+				{
+					"verse": "Yo estaba en paz, y él me agarró del cuello;\nme estrujó, me hizo pedazos.\nMe convirtió en el blanco de sus flechas.",
+					"number": 12,
+					"id": "8a3d6835-d64f-4031-8f6e-629152359be4"
+				},
+				{
+					"verse": "De todos lados me dispara;\natraviesa mi cuerpo sin ninguna compasión,\ny se esparcen mis entrañas por el suelo.",
+					"number": 13,
+					"id": "ffa3e86f-dbb1-4847-a61c-fee99a63879f"
+				},
+				{
+					"verse": "Me abre herida tras herida,\nse lanza contra mí como un guerrero.",
+					"number": 14,
+					"id": "3a7fdb85-693d-4bf0-97b2-3e5516bcf8a4"
+				},
+				{
+					"verse": "Lleno de tristeza, me puse ásperas ropas\ny hundí en el polvo mi cabeza.",
+					"number": 15,
+					"id": "aa53aa48-4cbb-4a15-b9db-a55e247c2720"
+				},
+				{
+					"verse": "La cara se me ha hinchado de llorar;\nse me ha nublado la vista,",
+					"number": 16,
+					"id": "33484431-81f3-4690-b509-08b23210808d"
+				},
+				{
+					"verse": "a pesar de que nunca hice violencia a nadie\ny de que ha sido pura mi oración.",
+					"number": 17,
+					"id": "c68d404f-1456-438e-b4f4-7859320e5ade"
+				},
+				{
+					"verse": "Este crimen contra mí, clama justicia;\n¡tierra, no sepultes mi clamor!",
+					"number": 18,
+					"id": "ce7b4227-89e3-47fd-8034-9a541ad918f3"
+				},
+				{
+					"verse": "Alguien debe de haber en el cielo\nque declare en mi favor,",
+					"number": 19,
+					"id": "6eac9ec4-8b1a-4312-b69f-2eb6215981c5"
+				},
+				{
+					"verse": "que interprete ante Dios mis pensamientos,\npara que él vea mis lágrimas;",
+					"number": 20,
+					"id": "0fddd587-e187-457b-ae52-ec1dbb1c4798"
+				},
+				{
+					"verse": "alguien que hable ante Dios en mi favor,\ncomo se habla ante un hombre en favor de otro.",
+					"number": 21,
+					"id": "7ceefc5c-75cc-44ae-a88a-baba156e296a"
+				},
+				{
+					"verse": "Los pocos años que me quedan van pasando,\ny pronto emprenderé el viaje sin regreso.",
+					"number": 22,
+					"id": "f75890a4-61de-4ca7-b59c-3e2aac1af924"
+				}
+			]
+		},
+		{
+			"chapter": "17",
+			"vers": [
+				{
+					"verse": "Me estoy quedando sin aliento;\nmi vida va acercándose a su fin; me está esperando la tumba.",
+					"number": 1,
+					"id": "4d482485-8d10-45f6-9ca5-9cf024d46509"
+				},
+				{
+					"verse": "Junto a mí no hay más que gente burlona;\ndía y noche veo sus provocaciones.",
+					"number": 2,
+					"id": "ae88619b-2692-4197-9049-d9ca805f70e0"
+				},
+				{
+					"verse": "Pero tú, Señor, puedes responder por mí;\n¿quién sino tú puede hacerlo?",
+					"number": 3,
+					"id": "af5616d1-4b82-42da-a1b7-be6127b75f0b"
+				},
+				{
+					"verse": "Tú, que les has entorpecido el entendimiento,\nno dejes que me venzan.",
+					"number": 4,
+					"id": "59cee6d3-01cc-4b38-9b4c-1676ff1b2d19"
+				},
+				{
+					"verse": "Sufrirán hambre los hijos de quienes,\npor una recompensa, traicionan a sus amigos.",
+					"number": 5,
+					"id": "cbd63cf7-3ab3-4ccc-b543-fa2b55e9cd7d"
+				},
+				{
+					"verse": "Tú has hecho que todos hablen mal de mí\ny que me escupan en la cara.",
+					"number": 6,
+					"id": "a19fb45d-ea60-44fd-92ba-a46e4a44d6e7"
+				},
+				{
+					"verse": "Los ojos se me nublan de dolor;\nmi cuerpo es apenas una sombra.",
+					"number": 7,
+					"id": "f32a7c83-4759-49fe-b6f6-2911ea93e82d"
+				},
+				{
+					"verse": "Al ver esto, los buenos se quedan asombrados;\nse enojan y me tienen por impío.",
+					"number": 8,
+					"id": "4b5eb9d1-5dc2-4cd5-bf00-b197c62a11c5"
+				},
+				{
+					"verse": "Insisten en que ellos son justos,\nen que tienen limpias las manos.",
+					"number": 9,
+					"id": "c2f7c20a-5ce2-4e4c-ba97-dc27157e8a4b"
+				},
+				{
+					"verse": "Pero vengan aquí, todos ustedes,\ny no encontraré entre ustedes un solo sabio.",
+					"number": 10,
+					"id": "ffe149f3-a2d0-4f83-8016-f6383252b2e7"
+				},
+				{
+					"verse": "Van pasando los días de mi vida,\ny mis planes y deseos se ven frustrados.",
+					"number": 11,
+					"id": "4007874b-a85e-4e80-85ff-5ec4e33adf1e"
+				},
+				{
+					"verse": "Pero ustedes convierten la noche en día;\n¡a pesar de la oscuridad, dicen que la luz se acerca!",
+					"number": 12,
+					"id": "c50e4310-09d8-463f-a4ff-495649e9637f"
+				},
+				{
+					"verse": "Lo único que puedo esperar es la muerte,\ny tenderme a dormir en las tinieblas.",
+					"number": 13,
+					"id": "fb54cc9f-1fa4-4000-898f-8dc05fe3ebf0"
+				},
+				{
+					"verse": "¡Mi padre, mi madre, mis hermanos,\nson los gusanos y el sepulcro!",
+					"number": 14,
+					"id": "a520e697-15e6-459f-ae85-e8d1144617c5"
+				},
+				{
+					"verse": "¿Dónde ha quedado mi esperanza?\n¿Dónde está mi bienestar?",
+					"number": 15,
+					"id": "b7ea24e6-a113-4af1-910a-d3d7a9cd9913"
+				},
+				{
+					"verse": "¿Bajarán conmigo al reino de la muerte,\npara que juntos reposemos en el polvo?",
+					"number": 16,
+					"id": "357cf97a-67f3-4885-92a0-556ce5a9b292"
+				}
+			]
+		},
+		{
+			"chapter": "18",
+			"vers": [
+				{
+					"verse": "Bildad",
+					"number": 1,
+					"study": "Bildad describe la suerte de los malos",
+					"id": "b27ee906-66b8-48df-80cc-fe44db9309b7"
+				},
+				{
+					"verse": "¿Cuándo va a dejar de hablar esta gente?\nSi fuera razonable, podríamos hablar.",
+					"number": 2,
+					"id": "fb2c3c6b-58a8-430f-a2b3-5df3c4eaa036"
+				},
+				{
+					"verse": "¿Por qué se nos trata como animales\ny se nos considera estúpidos?",
+					"number": 3,
+					"id": "0474f542-08c8-4599-b4b4-d89b2a633539"
+				},
+				{
+					"verse": "¿Crees tú que por desgarrarte rabiosamente\nva a quedar desierta la tierra\no las rocas van a cambiar de lugar?",
+					"number": 4,
+					"id": "fb2a1a3f-eeec-4426-b92d-1f722ad71c20"
+				},
+				{
+					"verse": "Al malvado se le apagará la luz,\ny su fuego no volverá a dar llama.",
+					"number": 5,
+					"id": "4babd71e-f0e3-4c1c-a77f-05e2e2d0c39e"
+				},
+				{
+					"verse": "Su lámpara se apagará;\nen su casa no brillará la luz.",
+					"number": 6,
+					"id": "8d51e62f-0fd0-49a0-9eeb-6cd9fd0edb57"
+				},
+				{
+					"verse": "Su paso firme perderá fuerza,\ny quedará atrapado en su propia trampa.",
+					"number": 7,
+					"id": "99f69995-b7e5-418b-a674-65ccc8f78f84"
+				},
+				{
+					"verse": "Se pondrá una red a su paso,\ny en esa red quedará atrapado.",
+					"number": 8,
+					"id": "df3860b4-a072-4e78-9cd1-606e4dc19537"
+				},
+				{
+					"verse": "Se tenderá un lazo a sus pies,\ny alrededor del tobillo se le cerrará el nudo.",
+					"number": 9,
+					"id": "ae090fd5-e8de-484e-a8b7-d59e171fee48"
+				},
+				{
+					"verse": "La trampa estará oculta en el camino\npara atraparle cuando pase.",
+					"number": 10,
+					"id": "4987fa29-ec54-483b-b382-c090f4acba25"
+				},
+				{
+					"verse": "Por todas partes se siente amenazado;\nse siente perseguido a cada paso.",
+					"number": 11,
+					"id": "c3ac4d00-59ba-4c20-9d1e-6449fde8d647"
+				},
+				{
+					"verse": "Sus fuerzas se acaban por el hambre;\nla desgracia está lista a caerle encima.",
+					"number": 12,
+					"id": "d8c471cf-6d23-427f-bc5f-6ec9ba7783ae"
+				},
+				{
+					"verse": "La enfermedad, hija preferida de la muerte,\nle devora la carne poco a poco.",
+					"number": 13,
+					"id": "85ec9038-7b5e-4676-b459-ee2cdf8c031e"
+				},
+				{
+					"verse": "Arrancado es también de la paz de su hogar\ny llevado a rastras ante el rey del terror.",
+					"number": 14,
+					"id": "5ef24234-f539-4b28-9bfd-1be01c389dcf"
+				},
+				{
+					"verse": "Se prende fuego a su casa;\nsus posesiones son rociadas con azufre.",
+					"number": 15,
+					"id": "8ae3f4a8-58cb-45c0-87ec-d0cdaffc36a6"
+				},
+				{
+					"verse": "Es como un árbol de raíces secas\ny ramas marchitas.",
+					"number": 16,
+					"id": "83a0f52a-e64f-4be2-a06f-0571f52091c0"
+				},
+				{
+					"verse": "Su recuerdo se borrará de la tierra\ny no se volverá a pronunciar su nombre.",
+					"number": 17,
+					"id": "23bd7c25-b156-4b59-8880-f545d980072e"
+				},
+				{
+					"verse": "Lo arrojarán de la luz a las tinieblas;\nlo expulsarán de este mundo.",
+					"number": 18,
+					"id": "93a66a0d-c9f3-4064-952c-5ce9fd88601f"
+				},
+				{
+					"verse": "No tendrá descendientes en su pueblo;\nnadie en su casa quedará con vida.",
+					"number": 19,
+					"id": "6e0cbbe2-4550-458c-947c-681b4fc3b911"
+				},
+				{
+					"verse": "Cuando sepan su destino, en oriente y occidente\nquedarán espantados, llenos de terror.",
+					"number": 20,
+					"id": "f5a59f41-809b-43af-bddf-05d0767d2232"
+				},
+				{
+					"verse": "En eso acaba la vida del malvado,\ndel hombre que desprecia a Dios.",
+					"number": 21,
+					"id": "321d9241-a2f7-4d1d-a657-84cce2e22e14"
+				}
+			]
+		},
+		{
+			"chapter": "19",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job confía en que Dios lo justificará",
+					"id": "e6fab524-c4e1-48f0-90e0-9aa0c1a9a0fb"
+				},
+				{
+					"verse": "¿Hasta cuándo van a atormentarme\ny herirme con sus palabras?",
+					"number": 2,
+					"id": "7a1a11a7-bcbb-401d-bf1d-a7fa11ba7635"
+				},
+				{
+					"verse": "Una y otra vez me insultan;\n¿no se avergüenzan de tratarme así?",
+					"number": 3,
+					"id": "c9e97174-f408-4f4e-8826-d53c5aa2cc3c"
+				},
+				{
+					"verse": "Aun cuando yo fuera culpable,\nmi culpa sólo a mí me afectaría.",
+					"number": 4,
+					"id": "09515333-1ff6-48af-91fe-e70c6819eb39"
+				},
+				{
+					"verse": "Ustedes se creen mejores que yo,\ny me echan en cara mi desgracia.",
+					"number": 5,
+					"id": "0b5c2806-a943-4174-87af-7e2e9e6a681f"
+				},
+				{
+					"verse": "Pues sepan bien que Dios me ha derribado,\nque es él quien me ha hecho caer en la trampa.",
+					"number": 6,
+					"id": "d52533da-9524-43dc-b61c-575c38b5209c"
+				},
+				{
+					"verse": "Yo grito: «¡Me matan!», y nadie responde;\npido ayuda, y nadie me hace justicia.",
+					"number": 7,
+					"id": "11fecee9-5764-4552-9458-8609f5ea4f1c"
+				},
+				{
+					"verse": "Dios me ha cerrado el camino para que yo no pase;\nha envuelto mis caminos en oscuridad.",
+					"number": 8,
+					"id": "44bf3a8b-ea13-4638-82d2-95f71d0d4fe6"
+				},
+				{
+					"verse": "Me ha despojado de mis riquezas;\nme ha quitado mi corona.",
+					"number": 9,
+					"id": "ed6d5626-cb4a-4c38-b68d-4998a84305ca"
+				},
+				{
+					"verse": "Me ha dejado en la más completa ruina;\n¡ha dejado sin raíces mi esperanza!",
+					"number": 10,
+					"id": "a9236178-b572-4199-a9cf-ca09f1eac1cc"
+				},
+				{
+					"verse": "Descargó su ira contra mí\ny me trató como a un enemigo.",
+					"number": 11,
+					"id": "0ed4f469-d3a0-4c80-b151-5d71a8853f1d"
+				},
+				{
+					"verse": "Todas sus tropas se lanzaron contra mí;\nacamparon alrededor de mi casa\ny prepararon el ataque.",
+					"number": 12,
+					"id": "937a0726-44df-4490-89d2-3527c1cbe7b9"
+				},
+				{
+					"verse": "Dios ha hecho que mis hermanos y amigos\nse alejen de mí y me traten como a un extraño.",
+					"number": 13,
+					"id": "48bf478d-1bab-4f36-a0b5-9a43778b4880"
+				},
+				{
+					"verse": "Mis parientes y amigos me han abandonado;\nlos que vivían en mi casa me han olvidado.\nMis criadas me tienen por un extraño;\nya no me reconocen.",
+					"number": 14,
+					"id": "4b039e6c-77c6-44f3-bfe3-67e26d8d4fbb"
+				},
+				{
+					"verse": "Si llamo a un criado, no contesta,\npor más que se lo ruegue.",
+					"number": 15,
+					"id": "f588856f-208a-4a33-b306-04054dd32c3f"
+				},
+				{
+					"verse": "Si me acerco a mi esposa, me rechaza;\na mis propios hijos les repugno.",
+					"number": 16,
+					"id": "b9ac9622-27ec-4cd5-9d93-f9daf9f13c47"
+				},
+				{
+					"verse": "Aun los niños me desprecian;\napenas me levanto, hablan mal de mí.",
+					"number": 17,
+					"id": "2ea6ca57-ee8c-486c-958c-419191e39611"
+				},
+				{
+					"verse": "Mis más íntimos amigos me aborrecen;\nlos que más estimo se han vuelto contra mí.",
+					"number": 18,
+					"id": "01ea8e4a-20be-4ee2-865b-ec26aaf14bbf"
+				},
+				{
+					"verse": "La piel se me pega a los huesos,\ny a duras penas logro seguir con vida.",
+					"number": 19,
+					"id": "80f26a23-0f83-495d-8103-bed85d07ee68"
+				},
+				{
+					"verse": "Tengan compasión de mí, ustedes mis amigos,\nporque Dios ha dejado caer su mano sobre mí.",
+					"number": 20,
+					"id": "2514fe12-cf8e-4103-b1ce-10e7bb6696bd"
+				},
+				{
+					"verse": "¿Por qué me persiguen ustedes como Dios?\n¿No me han mordido ya bastante?",
+					"number": 21,
+					"id": "6c0f8526-c777-4c8f-92aa-b88e333c4c60"
+				},
+				{
+					"verse": "¡Ojalá alguien escribiera mis palabras\ny las dejara grabadas en metal!",
+					"number": 22,
+					"id": "4f711d78-6265-4e14-b702-79364591f0f0"
+				},
+				{
+					"verse": "¡Ojalá alguien con un cincel de hierro\nlas grabara en plomo o en piedra para siempre!",
+					"number": 23,
+					"id": "3fe57453-cee7-4946-86f6-1ebde3950ad3"
+				},
+				{
+					"verse": "Yo sé que mi defensor vive,\ny que él será mi abogado aquí en la tierra.",
+					"number": 24,
+					"id": "d82a2255-3fbc-4c5a-ba65-52a049eb071c"
+				},
+				{
+					"verse": "Y aunque la piel se me caiga a pedazos,\nyo, en persona, veré a Dios.",
+					"number": 25,
+					"id": "2a83cc7b-1408-43a4-a808-b5d81e1dfa5a"
+				},
+				{
+					"verse": "Con mis propios ojos he de verlo,\nyo mismo y no un extraño.\nLas fuerzas me fallaron",
+					"number": 26,
+					"id": "aae5e0ee-f617-45ba-aa5e-526a9eb12e2c"
+				},
+				{
+					"verse": "al oír que ustedes decían:\n«¿Cómo podremos perseguirlo?\nLa raíz de sus males está en él mismo.»",
+					"number": 27,
+					"id": "9f447440-d722-459d-8043-d55031c8ada8"
+				},
+				{
+					"verse": "Pero tengan miedo a la espada,\nla espada con que Dios castiga el mal.\nSepan que hay uno que juzga.",
+					"number": 28,
+					"id": "4d2a660b-ef46-4a47-a854-a746629cd35a"
+				}
+			]
+		},
+		{
+			"chapter": "20",
+			"vers": [
+				{
+					"verse": "Sofar",
+					"number": 1,
+					"study": "Zofar describe las calamidades de los malos",
+					"id": "bb1d7f5a-cf64-425d-a7f5-a0cb6344cbd5"
+				},
+				{
+					"verse": "Tú me pones inquieto e impaciente;\npor eso quiero contestarte.",
+					"number": 2,
+					"id": "b52efcf8-6ecf-4647-9020-92ca47d40853"
+				},
+				{
+					"verse": "Con tus reproches me insultas,\npero yo sé cómo responderte.",
+					"number": 3,
+					"id": "60d6d191-ed02-478a-8499-319ded258707"
+				},
+				{
+					"verse": "Tú sabes que siempre ha sido así\ndesde que el hombre existe sobre la tierra:",
+					"number": 4,
+					"id": "598fc492-c022-4874-97cb-c87d448c9a15"
+				},
+				{
+					"verse": "la alegría del malvado dura poco;\nsu gozo es sólo por un momento.",
+					"number": 5,
+					"id": "8bd13865-8279-4895-8ff7-cb4cc0a21a89"
+				},
+				{
+					"verse": "Aunque sea tan alto como el cielo\ny su cabeza llegue hasta las nubes,",
+					"number": 6,
+					"id": "731fad96-15ad-42cd-a4e8-efbec4c14a92"
+				},
+				{
+					"verse": "acabará como el estiércol\ny sus amigos no sabrán su paradero.",
+					"number": 7,
+					"id": "eb9f939b-c173-489d-ac02-504aab262f07"
+				},
+				{
+					"verse": "Desaparecerá como un sueño, como una visión nocturna,\ny nadie podrá encontrarlo.",
+					"number": 8,
+					"id": "6014292d-bf57-4d35-b9a1-41fbe466ef33"
+				},
+				{
+					"verse": "Los que vivían con él y lo veían,\nno lo volverán a ver.",
+					"number": 9,
+					"id": "35560424-8ae0-4525-9264-d497448eac5c"
+				},
+				{
+					"verse": "Sus hijos tendrán que devolver a los pobres\nlo que él había robado.",
+					"number": 10,
+					"id": "fcf9c9c2-5687-42e2-a874-48d7ea8bbc2c"
+				},
+				{
+					"verse": "En pleno vigor y juventud\nbajará a la tumba.",
+					"number": 11,
+					"id": "a47fe30d-4756-439d-91ba-87eea452f75a"
+				},
+				{
+					"verse": "El mal le parece tan delicioso\nque lo saborea con la lengua;",
+					"number": 12,
+					"id": "bc0699d7-6279-4441-94f4-0a1fee70ea3c"
+				},
+				{
+					"verse": "retiene su sabor en la boca\ny lo paladea lentamente.",
+					"number": 13,
+					"id": "0399a243-6993-4bae-8987-ed2de94a7669"
+				},
+				{
+					"verse": "Pero luego, en el estómago,\nse le convierte en veneno de serpiente.",
+					"number": 14,
+					"id": "db12e1ad-7c58-4397-b0be-26040e2783c2"
+				},
+				{
+					"verse": "Vomita las riquezas que había devorado;\nDios se las saca del estómago.",
+					"number": 15,
+					"id": "963497e1-112c-402c-8a4c-accf232a6cc9"
+				},
+				{
+					"verse": "Estaba chupando veneno de serpiente,\ny ese veneno lo matará.",
+					"number": 16,
+					"id": "c7654c34-5ffa-45d8-963e-2afa593bb801"
+				},
+				{
+					"verse": "No podrá disfrutar de la abundancia\nde la leche y la miel, que corren como ríos.",
+					"number": 17,
+					"id": "96fd776f-5c1b-4a67-aabc-dcfcacb4f635"
+				},
+				{
+					"verse": "Todo lo que había ganado, tendrá que devolverlo;\nno podrá aprovecharlo ni gozar de sus riquezas.",
+					"number": 18,
+					"id": "0a103d4a-158c-4cdc-8440-50d630fcad27"
+				},
+				{
+					"verse": "Explotó y abandonó a los pobres;\nse adueñó de casas que no había construido.",
+					"number": 19,
+					"id": "ee13eaca-accd-4888-9284-e9750a987149"
+				},
+				{
+					"verse": "Nunca quedaba satisfecho su apetito,\nni nada se libraba de su ambición;",
+					"number": 20,
+					"id": "6e462d6f-f6f7-45ba-8920-2822e04a4287"
+				},
+				{
+					"verse": "nada escapaba a su voracidad.\nPor eso no podrá durar su dicha.",
+					"number": 21,
+					"id": "6342b669-8e7e-4792-936e-35af2a8a4a18"
+				},
+				{
+					"verse": "Cuanta más abundancia tenga, más infeliz será;\nsobre él caerá la mano de los malvados.",
+					"number": 22,
+					"id": "e5e7d84e-33dd-460c-9233-c7b28d7917cb"
+				},
+				{
+					"verse": "Cuando trate de llenar su estómago,\nDios descargará su ira sobre él:\nhará llover sobre él su enojo.",
+					"number": 23,
+					"id": "dd02c93b-dce4-4b76-aa86-fe0a07893b31"
+				},
+				{
+					"verse": "Si escapa de un arma de hierro,\nlo alcanzarán con un arco de bronce.",
+					"number": 24,
+					"id": "d8df5721-3ffe-41dd-b936-e92ed9825901"
+				},
+				{
+					"verse": "La flecha le atravesará el cuerpo,\ny la punta le saldrá por el hígado.\nSe llenará de terror;",
+					"number": 25,
+					"id": "ac9e9b1a-6672-4255-903b-184b507c9d92"
+				},
+				{
+					"verse": "total oscuridad lo envolverá.\nUn fuego que no hará falta avivar\nacabará con él y con toda su casa.",
+					"number": 26,
+					"id": "785094c8-101e-4457-b654-2793e016db1b"
+				},
+				{
+					"verse": "El cielo pondrá al descubierto su pecado,\ny la tierra se levantará para acusarlo.",
+					"number": 27,
+					"id": "309075f6-d53b-449e-8022-5232b6713850"
+				},
+				{
+					"verse": "Cuando la ira de Dios se desborde sobre él,\nse perderán todas sus riquezas.",
+					"number": 28,
+					"id": "0754a731-aee3-47b7-8464-e0dec24f3867"
+				},
+				{
+					"verse": "Esto es lo que Dios ha destinado para el malo;\nésta es la suerte que le tiene preparada.",
+					"number": 29,
+					"id": "991b1775-1c74-49d2-b2c0-3119eb6db85a"
+				}
+			]
+		},
+		{
+			"chapter": "21",
+			"vers": [
+				{
+					"verse": "El mejor consuelo que ustedes pueden darme\nes escuchar mis palabras.",
+					"number": 1,
+					"study": "Job afirma que los malos prosperan",
+					"id": "8b227f8e-1c23-4c81-b01c-bab21020d4ba"
+				},
+				{
+					"verse": "Tengan paciencia mientras hablo,\ny después, ríanse si quieren.",
+					"number": 2,
+					"id": "97712214-c7fe-479e-9e19-aba3131e5ba5"
+				},
+				{
+					"verse": "Mi pleito no es con ningún hombre;\npor eso estoy tan impaciente.",
+					"number": 3,
+					"id": "2730c35f-fe11-4add-9b17-bdee5978b086"
+				},
+				{
+					"verse": "Si me ponen atención,\nse quedarán mudos de miedo.",
+					"number": 4,
+					"id": "322910a0-92e1-4d1d-9d9f-744abe6be5ca"
+				},
+				{
+					"verse": "Si yo mismo pienso en ello, me espanto;\nmi cuerpo se estremece.",
+					"number": 5,
+					"id": "22efcc3b-ea97-406e-8aaa-dbda3fa143e4"
+				},
+				{
+					"verse": "¿Por qué siguen con vida los malvados,\ny llegan a viejos, llenos de poder?",
+					"number": 6,
+					"id": "1dcf8eef-5201-4d51-bb99-2837511b3d69"
+				},
+				{
+					"verse": "Ven crecer a sus hijos y a sus nietos,\nque a su lado gozan de seguridad.",
+					"number": 7,
+					"id": "99e7b6ec-f94c-49ff-ba4c-868e420f2e88"
+				},
+				{
+					"verse": "Nada amenaza la paz de sus hogares;\nDios no los castiga.",
+					"number": 8,
+					"id": "50335e28-1725-4580-b361-551ac0dcfb4a"
+				},
+				{
+					"verse": "Su ganado es siempre fecundo;\nlas crías nunca se malogran.",
+					"number": 9,
+					"id": "d7a5c3ce-34d4-4c8b-ac7c-d7b9fa82bb53"
+				},
+				{
+					"verse": "Sus hijos corretean y juegan como corderitos,",
+					"number": 10,
+					"id": "058f2fb0-068d-49cd-9010-2fd91789a038"
+				},
+				{
+					"verse": "y alegres bailan y saltan\nal son del arpa, los tambores y las flautas.",
+					"number": 11,
+					"id": "3cc798fe-8cb8-4f77-b47e-ddb6fb57e5ba"
+				},
+				{
+					"verse": "Terminan su vida en la prosperidad;\nbajan tranquilos a la tumba.",
+					"number": 12,
+					"id": "548e8e0d-740d-432f-aa17-3fbba1064d4a"
+				},
+				{
+					"verse": "A Dios le dicen: «¡Déjanos en paz,\nno queremos conocer tus leyes!",
+					"number": 13,
+					"id": "e27dc059-876e-4870-ba90-fb8576bc22a9"
+				},
+				{
+					"verse": "¿Quién es el Todopoderoso, para que le sirvamos?\n¿Qué ganamos con orar ante él?»",
+					"number": 14,
+					"id": "792751bf-bc70-42da-b11b-2960230f7e24"
+				},
+				{
+					"verse": "(Pero los malvados no son dueños de su bienestar.\n¡Lejos de mí pensar como ellos!)",
+					"number": 15,
+					"id": "ba8d33ac-e51b-4294-aaea-d4473b85bcf2"
+				},
+				{
+					"verse": "¿Cuándo se ha apagado la luz de los malvados?\n¿Cuándo han caído en la desgracia?\n¿Cuándo se ha enojado Dios con ellos\ny los ha hecho sufrir?",
+					"number": 16,
+					"id": "5231998a-ec68-43ac-8eb2-af234c61e89f"
+				},
+				{
+					"verse": "¿Cuándo han sido dispersados como paja\nque arrastra el viento en sus torbellinos?",
+					"number": 17,
+					"id": "7eff14b1-9930-4220-b517-cd33f1c9fb49"
+				},
+				{
+					"verse": "Se dice que Dios hace pagar a los hijos\npor las faltas de sus padres.\nPero es el propio malvado\nquien debe pagar y escarmentar.",
+					"number": 18,
+					"id": "c3d5cf2c-c215-40c0-8609-abb7bdec0201"
+				},
+				{
+					"verse": "Él debe recibir el castigo\nde la ira del Todopoderoso.",
+					"number": 19,
+					"id": "90a00b7d-f289-405d-9227-b4144b4a041b"
+				},
+				{
+					"verse": "¿Qué le importa lo que pueda pasarle a su familia\nuna vez que él haya muerto?",
+					"number": 20,
+					"id": "e5084d10-e777-4e56-b244-ab803c4831a6"
+				},
+				{
+					"verse": "(Pero, ¿quién puede dar lecciones a Dios,\nque juzga aun a los habitantes del cielo?)",
+					"number": 21,
+					"id": "55df80e7-c214-4da4-bc51-a8ac84f93582"
+				},
+				{
+					"verse": "Hay quienes llegan a la muerte\nllenos de vigor, felices y tranquilos,",
+					"number": 22,
+					"id": "752ce4dd-bbdc-46e6-83c5-1abde3fbcc29"
+				},
+				{
+					"verse": "llenos de prosperidad y de salud.",
+					"number": 23,
+					"id": "6d302068-5e93-479d-840a-782a7dcee0e7"
+				},
+				{
+					"verse": "Otros, en cambio, viven amargados\ny mueren sin haber probado la felicidad.",
+					"number": 24,
+					"id": "b8b0a2ee-6959-48d2-82c0-77962424020f"
+				},
+				{
+					"verse": "Sin embargo, todos en la tumba son iguales;\na unos y a otros se los comen los gusanos.",
+					"number": 25,
+					"id": "172d35ce-fee0-43dd-9c73-92dcd5ab768f"
+				},
+				{
+					"verse": "Yo sé lo que ustedes piensan de mí\ny las ideas perversas que tienen.",
+					"number": 26,
+					"id": "b4ecbb7a-aefe-494b-8416-911840e1d0a1"
+				},
+				{
+					"verse": "Se preguntan: «¿Dónde ha quedado la casa\nde aquel malvado tirano?»",
+					"number": 27,
+					"id": "d293fe45-05c8-466d-8291-a26ba45f02d2"
+				},
+				{
+					"verse": "¿No han hablado ustedes con la gente que viaja?\n¿No han oído las cosas que ellos cuentan:",
+					"number": 28,
+					"id": "19dd5510-c914-4a1c-bd70-fc1c61c6a21e"
+				},
+				{
+					"verse": "que cuando Dios se enoja, manda una desgracia\ny al malvado no le pasa nada?",
+					"number": 29,
+					"id": "bfd604fb-953b-428f-9231-6f937aee488c"
+				},
+				{
+					"verse": "Nadie le echa en cara su conducta,\nnadie le da su merecido.",
+					"number": 30,
+					"id": "67e89165-d520-4fa9-8ae7-e59f0d621c8c"
+				},
+				{
+					"verse": "Y cuando al fin lo llevan a enterrar,\ntodos en cortejo lo acompañan,\nunos delante y otros detrás,\ny hacen guardia en el sepulcro,\ny hasta la tierra es suave para él.",
+					"number": 31,
+					"id": "4c8c6781-16be-45a4-9114-f1aaf98af5b9"
+				},
+				{
+					"verse": "¡Es absurdo que ustedes quieran consolarme!\n¡Es mentira todo lo que dicen!\nElifaz",
+					"number": 32,
+					"id": "b1130550-0b6c-4e95-af10-13253527684a"
+				}
+			]
+		},
+		{
+			"chapter": "22",
+			"vers": [
+				{
+					"verse": "¿Crees tú que el hombre, por muy sabio que sea,\npuede serle a Dios de alguna utilidad?",
+					"number": 1,
+					"study": "Elifaz acusa a Job de gran maldad",
+					"id": "bf7b8081-9aa7-43dc-82dc-95225409945f"
+				},
+				{
+					"verse": "¿Qué interés o beneficio obtiene el Todopoderoso\nde que tú seas recto e intachable?",
+					"number": 2,
+					"id": "8fe15a02-deb7-4a9e-a73f-c0d49e720f69"
+				},
+				{
+					"verse": "Si él te corrige y te llama a juicio,\nno es porque tú le sirvas con fidelidad,",
+					"number": 3,
+					"id": "f8764878-5b98-49dd-9324-d0e512c39f9c"
+				},
+				{
+					"verse": "sino porque tu maldad es mucha\ny tus pecados no tienen límite.",
+					"number": 4,
+					"id": "bdbd8a17-b1ed-4127-b7d5-049009323aa7"
+				},
+				{
+					"verse": "Tú, sin necesitarlo, exigías prenda a tus hermanos;\nles quitabas su ropa y los dejabas desnudos.",
+					"number": 5,
+					"id": "5ee9fa5c-1667-409c-8c2f-917c8122dae8"
+				},
+				{
+					"verse": "A quien tenía sed, no le dabas agua;\na quien tenía hambre, no le dabas de comer.",
+					"number": 6,
+					"id": "1561da99-5726-436d-a52c-be0a3ec809f3"
+				},
+				{
+					"verse": "¡Como eras poderoso y respetable,\nte creías el dueño de la tierra!",
+					"number": 7,
+					"id": "4ce67f35-5700-4407-b019-7c2b4267836c"
+				},
+				{
+					"verse": "Dejabas ir a las viudas con las manos vacías,\ny maltratabas a los huérfanos.",
+					"number": 8,
+					"id": "814c25d9-050b-41e9-814b-57fa93f89692"
+				},
+				{
+					"verse": "Por eso ahora el peligro te rodea\ny te sientes de pronto lleno de terror.",
+					"number": 9,
+					"id": "40c4380a-ae71-45a6-957c-48433847f8cf"
+				},
+				{
+					"verse": "Todo es oscuridad, no puedes ver nada;\nun torrente de agua te inunda.",
+					"number": 10,
+					"id": "0dc5f434-fb3e-48e6-822b-3017f73c4659"
+				},
+				{
+					"verse": "Dios está en lo más alto del cielo;\nlas estrellas más altas quedan a sus pies.",
+					"number": 11,
+					"id": "f93ea470-406d-4012-a167-7fac659ba068"
+				},
+				{
+					"verse": "¿Cómo puedes decir que Dios no se da cuenta,\nque las densas nubes le impiden juzgar?\n¿Cómo puedes decir que Dios no ve\nporque anda paseando de un lado a otro del cielo?",
+					"number": 12,
+					"id": "00200e5b-8036-4351-b9c1-80dc5e9e6321"
+				},
+				{
+					"verse": "¿Piensas seguir por el camino oscuro\nque han seguido los malvados?",
+					"number": 13,
+					"id": "14f57fc4-b6aa-4d20-8eaa-7e4c51594cc3"
+				},
+				{
+					"verse": "Ellos murieron muy pronto\ncomo arrebatados por un río crecido.",
+					"number": 14,
+					"id": "7513745e-cac7-458e-8d05-14b64924d3c1"
+				},
+				{
+					"verse": "Decían a Dios: «¡Déjanos en paz!\n¿Qué puede hacer el Todopoderoso por nosotros?»",
+					"number": 15,
+					"id": "f6678065-7a07-4b50-9f4f-b08a8ce51052"
+				},
+				{
+					"verse": "(Y sin embargo, él fue quien llenó sus casas de bienes.\n¡Lejos de mí pensar como los malos!)",
+					"number": 16,
+					"id": "aa7dbf41-227c-4899-807a-00719e6950f8"
+				},
+				{
+					"verse": "Los justos ven esto y se alegran;\nlos inocentes se ríen",
+					"number": 17,
+					"id": "837b3449-f080-48d4-9c8b-8d91e70c5263"
+				},
+				{
+					"verse": "al ver que las riquezas de los malos\nacaban devoradas por el fuego.",
+					"number": 18,
+					"id": "2f5515bb-16a0-4183-82ad-28d5dc04ff4a"
+				},
+				{
+					"verse": "Ponte de nuevo en paz con Dios,\ny volverás a tener prosperidad.",
+					"number": 19,
+					"id": "8deba003-63e6-46e6-a071-af5c85ca5340"
+				},
+				{
+					"verse": "Deja que él te instruya,\ngrábate en la mente sus palabras.",
+					"number": 20,
+					"id": "2e10737f-2b12-4af3-8bd8-380d1ba75d69"
+				},
+				{
+					"verse": "Si te humillas, y te vuelves al Todopoderoso,\ny alejas el mal de tu casa,",
+					"number": 21,
+					"id": "7d6aaa36-f86d-4845-8749-b80b4f0a0ff5"
+				},
+				{
+					"verse": "y si miras aun el oro más precioso\ncomo si fuera polvo, como piedras del arroyo,",
+					"number": 22,
+					"id": "a8cd0bd2-2031-479d-a04f-5090a0fe98f6"
+				},
+				{
+					"verse": "el Todopoderoso será entonces\ntu oro y tu plata en abundancia.",
+					"number": 23,
+					"id": "88926ee8-7831-4761-962b-2738e5390735"
+				},
+				{
+					"verse": "Él será tu alegría,\ny podrás mirarlo con confianza.",
+					"number": 24,
+					"id": "d7cfcb18-8415-40fb-b442-7cee5ee99ccf"
+				},
+				{
+					"verse": "Si le pides algo, él te escuchará,\ny tú cumplirás las promesas que le hagas.",
+					"number": 25,
+					"id": "ee71cb55-ba7d-4ead-99bc-7a3239c6b39e"
+				},
+				{
+					"verse": "Tendrás éxito en todo lo que emprendas;\nla luz brillará en tu camino.",
+					"number": 26,
+					"id": "d0c34821-6d25-46ff-9833-72a689296592"
+				},
+				{
+					"verse": "Porque Dios humilla al orgulloso\ny salva al humilde.",
+					"number": 27,
+					"id": "a952c807-6ec9-4548-8115-da2821c75760"
+				},
+				{
+					"verse": "Él te librará, si eres inocente,\nsi estás limpio de pecado.",
+					"number": 28,
+					"id": "c0bb5f9a-615a-4931-a9ff-f747af3c0440"
+				}
+			]
+		},
+		{
+			"chapter": "23",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job desea abogar su causa delante de Dios",
+					"id": "045dc876-0f6c-46fa-b751-827b48405801"
+				},
+				{
+					"verse": "Una vez más mis quejas son amargas\nporque Dios ha descargado su mano sobre mí.",
+					"number": 2,
+					"id": "c8b59246-9085-4b31-bc4d-3d39242e0b7f"
+				},
+				{
+					"verse": "¡Ojalá supiera yo dónde encontrarlo,\ny cómo llegar a donde vive!",
+					"number": 3,
+					"id": "4c4d21db-f9d3-4d6c-bb12-73b205fd078f"
+				},
+				{
+					"verse": "Presentaría ante él mi caso,\npues me sobran argumentos.",
+					"number": 4,
+					"id": "92f614b2-8a59-4fa6-a29b-196706caeb8e"
+				},
+				{
+					"verse": "¡Ya sabría cómo responder\na lo que él me contestara!",
+					"number": 5,
+					"id": "c6d41793-56e4-4546-8650-83f684a5a77d"
+				},
+				{
+					"verse": "Pero él no usaría la fuerza como argumento,\nsino que me escucharía",
+					"number": 6,
+					"id": "b857759b-5df1-4b78-b580-fdd6af8991bd"
+				},
+				{
+					"verse": "y reconocería que tengo la razón;\nme declararía inocente,\n¡me dejaría libre para siempre!",
+					"number": 7,
+					"id": "1ceb8427-33c1-477a-a713-1dcad4b56c95"
+				},
+				{
+					"verse": "Pero busco a Dios en el oriente, y no está allí;\nlo busco en el occidente, y no lo encuentro.",
+					"number": 8,
+					"id": "3007679d-3249-4a0d-a7a5-9f7411d1f225"
+				},
+				{
+					"verse": "Me dirijo al norte, y no lo veo;\nme vuelvo al sur, y no lo percibo.",
+					"number": 9,
+					"id": "4e67c8b3-320b-4413-9de4-7278ed4870f0"
+				},
+				{
+					"verse": "Él conoce cada uno de mis pasos;\npuesto a prueba, saldré puro como el oro.",
+					"number": 10,
+					"id": "51c52686-0358-4846-99bb-4ca3fab4da9d"
+				},
+				{
+					"verse": "Yo siempre he seguido sin desviarme\nel camino que él me ha señalado.",
+					"number": 11,
+					"id": "3ac201b8-fefd-4ba9-b81a-d0a2fc931b7d"
+				},
+				{
+					"verse": "Siempre he cumplido sus leyes y mandatos,\ny no mi propia voluntad.",
+					"number": 12,
+					"id": "2b7cf635-76d8-4b6d-b91e-62d3ff324f7f"
+				},
+				{
+					"verse": "Cuando él decide realizar algo, lo realiza;\nnada le hace cambiar de parecer.",
+					"number": 13,
+					"id": "8fa68e82-dbc1-459c-8d45-1733448c5a8b"
+				},
+				{
+					"verse": "Lo que él ha dispuesto hacer conmigo, eso hará,\njunto con otras cosas semejantes.",
+					"number": 14,
+					"id": "9a51a020-887d-4ae3-81fa-5020d81a95ad"
+				},
+				{
+					"verse": "Por eso le tengo miedo;\nsólo el pensarlo me llena de terror.",
+					"number": 15,
+					"id": "eb976f63-65f5-4588-b8c5-e40dfd8d9da0"
+				},
+				{
+					"verse": "Dios, el Todopoderoso,\nme tiene acobardado.",
+					"number": 16,
+					"id": "72d882eb-ddbb-4dbf-936a-5a6fe0110ed4"
+				},
+				{
+					"verse": "¡Ojala la noche me hiciera desaparecer\ny me envolviera la oscuridad!",
+					"number": 17,
+					"id": "bfdd99a7-7fb6-4c75-aa80-540bc912fc69"
+				}
+			]
+		},
+		{
+			"chapter": "24",
+			"vers": [
+				{
+					"verse": "¿Por qué el Todopoderoso no señala fechas para actuar,\nde modo que sus amigos puedan verlas?",
+					"number": 1,
+					"study": "Job se queja de que Dios es indiferente ante la maldad",
+					"id": "3a62dd04-f595-4f4f-9696-3f2032bfa8ee"
+				},
+				{
+					"verse": "Los malvados cambian los linderos de los campos,\nroban ovejas para aumentar sus rebaños,",
+					"number": 2,
+					"id": "a9d6856c-8178-4194-a097-8fd1b0e14cd2"
+				},
+				{
+					"verse": "despojan de sus animales\na los huérfanos y las viudas.",
+					"number": 3,
+					"id": "ebc472b0-25b6-4f34-b34d-967add0e04b0"
+				},
+				{
+					"verse": "Apartan a los pobres del camino,\ny la gente humilde tiene que esconderse.",
+					"number": 4,
+					"id": "c05d1e15-2056-444f-8c6a-a161469d3d7b"
+				},
+				{
+					"verse": "Los pobres, como asnos salvajes del desierto,\nsalen a buscar con trabajo su comida,\ny del desierto sacan alimento para sus hijos.",
+					"number": 5,
+					"id": "19ffabd9-5be1-4146-9bc3-62a1740b4d66"
+				},
+				{
+					"verse": "Van a recoger espigas en campos ajenos\no a rebuscar en los viñedos de los malos.",
+					"number": 6,
+					"id": "06daecac-3384-4451-ac7d-9ed6b390c15f"
+				},
+				{
+					"verse": "Pasan la noche sin nada con que cubrirse,\nsin nada que los proteja del frío.",
+					"number": 7,
+					"id": "fb056092-623f-45c9-95e6-9dc939b460aa"
+				},
+				{
+					"verse": "La lluvia de las montañas los empapa,\ny se abrazan a las rocas en busca de refugio.",
+					"number": 8,
+					"id": "d85509a2-029f-4a4c-a0fb-6f07505bdbad"
+				},
+				{
+					"verse": "Les quitan a las viudas sus recién nacidos,\ny a los pobres les exigen prendas.",
+					"number": 9,
+					"id": "caedfd07-0488-412c-9e56-35ca374907cc"
+				},
+				{
+					"verse": "Los pobres andan casi desnudos,\ncargando trigo mientras se mueren de hambre.",
+					"number": 10,
+					"id": "e6e81701-c887-425c-9385-2be2d3de3f8c"
+				},
+				{
+					"verse": "Mueven las piedras del molino para sacar aceite;\npisan las uvas para hacer vino,\ny mientras tanto se mueren de sed.",
+					"number": 11,
+					"id": "3a71269e-d422-492e-8a03-ce5d7e0867e8"
+				},
+				{
+					"verse": "Lejos de la ciudad, los que agonizan\nlloran y lanzan gemidos,\npero Dios no escucha su oración.",
+					"number": 12,
+					"id": "0f67c1ba-58f1-4de6-b1aa-43b71276e52a"
+				},
+				{
+					"verse": "Hay algunos que odian la luz,\ny en todos sus caminos se apartan de ella.",
+					"number": 13,
+					"id": "a5da3ed1-db35-49de-a20e-b3664d82b58d"
+				},
+				{
+					"verse": "El asesino madruga para matar al pobre,\ny al anochecer se convierte en ladrón.",
+					"number": 14,
+					"id": "5e580d84-2a6d-4c77-b5e1-3688cf6a5f9d"
+				},
+				{
+					"verse": "El adúltero espera a que oscurezca,\ny se tapa bien la cara,\npensando: «Así nadie me ve.»",
+					"number": 15,
+					"id": "c306a102-dc4b-40ca-a3c6-26dcb426d1cd"
+				},
+				{
+					"verse": "El ladrón se mete de noche en las casas.\nTodos ellos se encierran de día;\nson enemigos de la luz.",
+					"number": 16,
+					"id": "692f7034-9629-43cc-af3a-57b612de2693"
+				},
+				{
+					"verse": "La luz del día es para ellos densa oscuridad;\nprefieren los horrores de la noche.\nSofar",
+					"number": 17,
+					"id": "d40e6588-f2aa-4793-b299-14b6e3f56e9f"
+				},
+				{
+					"verse": "El malvado es arrastrado por el agua.\nSus tierras quedan bajo maldición\ny nadie vuelve a trabajar en sus viñedos.",
+					"number": 18,
+					"id": "20aafbc4-99b4-4136-b547-9cda157d2383"
+				},
+				{
+					"verse": "Con el calor de la sequía, la nieve se derrite;\ny en el sepulcro, el pecador desaparece.",
+					"number": 19,
+					"id": "00daec6c-5d83-4e17-9454-fd89e2a07d52"
+				},
+				{
+					"verse": "Su propia madre se olvidará de él;\nlos gusanos se lo comerán,\ny nadie volverá a acordarse de él.\nEl malo caerá como un árbol cortado.",
+					"number": 20,
+					"id": "5a324fd6-73a2-444b-a063-fb412396275f"
+				},
+				{
+					"verse": "Con las mujeres sin hijos y con las viudas\nfue siempre cruel; jamás las ayudó.",
+					"number": 21,
+					"id": "c74836be-7f1b-4140-98af-01b705c0c8b1"
+				},
+				{
+					"verse": "Pero Dios, con su fuerza, derriba a los poderosos;\ncuando él actúa, nadie tiene segura la vida.",
+					"number": 22,
+					"id": "f448591a-365c-430b-9fce-13e7478f8759"
+				},
+				{
+					"verse": "Dios los deja vivir confiados,\npero vigila cada uno de sus pasos.",
+					"number": 23,
+					"id": "df31661a-806c-4881-82c9-b50c4f890b84"
+				},
+				{
+					"verse": "Por un momento se levanta el malo,\npero pronto deja de existir.\nSe marchita como hierba arrancada,\ncomo espiga que se dobla.",
+					"number": 24,
+					"id": "0ab0390d-5f9a-421e-bceb-5f303f57e52f"
+				},
+				{
+					"verse": "Y si esto no es así, ¿quién podrá desmentirme\ny probar que estoy equivocado?",
+					"number": 25,
+					"id": "e6e31e04-432b-46a9-93bc-3900c6ffa3e6"
+				}
+			]
+		},
+		{
+			"chapter": "25",
+			"vers": [
+				{
+					"verse": "Bildad",
+					"number": 1,
+					"study": "Bildad niega que el hombre pueda ser justificado delante de Dios",
+					"id": "128a67d4-b3c6-41db-8bd2-9330a29d64a4"
+				},
+				{
+					"verse": "Dios es poderoso y temible;\nél establece la paz en el cielo.",
+					"number": 2,
+					"id": "9fa577b2-c0f2-46df-8b48-3d33023eeb3f"
+				},
+				{
+					"verse": "Sus ejércitos son incontables,\nsu luz brilla sobre todos.",
+					"number": 3,
+					"id": "9bbe0c19-af08-4ac1-81c6-3097d9291653"
+				},
+				{
+					"verse": "¿Podrá, pues, un simple hombre\nser puro e inocente frente a Dios?",
+					"number": 4,
+					"id": "f68ede76-145b-4132-89aa-ff4e7ef0581b"
+				},
+				{
+					"verse": "A sus ojos, ni la luna tiene brillo\nni son puras las estrellas,",
+					"number": 5,
+					"id": "f8afde69-8807-4d65-8ca7-7c916cb91046"
+				},
+				{
+					"verse": "¡mucho menos el hombre;\neste gusano miserable!",
+					"number": 6,
+					"id": "de29309e-618a-4767-bc78-894c073130f8"
+				}
+			]
+		},
+		{
+			"chapter": "26",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job proclama la soberanía de Dios",
+					"id": "cb03c6b0-7c65-4d2e-bf97-bc574a2654eb"
+				},
+				{
+					"verse": "¡Qué manera de ayudar al débil,\nde salvar al que ya no tiene fuerzas!",
+					"number": 2,
+					"id": "d22d9528-7551-4aff-b87c-6648bbe1f515"
+				},
+				{
+					"verse": "¡Qué bien sabes dar consejos\ne instruir al ignorante!",
+					"number": 3,
+					"id": "3b673e5a-17b5-46ed-9a45-ba5ee2968788"
+				},
+				{
+					"verse": "¿Con ayuda de quién has dicho esas palabras?\n¿Quién te ha inspirado para hablar así?\nBildad",
+					"number": 4,
+					"id": "eeca82ab-cde3-4417-a500-5d2cbc1c6ac3"
+				},
+				{
+					"verse": "Los muertos, que habitan el mar profundo,\ntiemblan de miedo en el fondo del mar.",
+					"number": 5,
+					"id": "59975dd4-8394-4bb8-9a4d-e0cefef8c5a7"
+				},
+				{
+					"verse": "El sepulcro, reino de la muerte,\nno encierra misterios para Dios.",
+					"number": 6,
+					"id": "1304fecf-3013-4cb4-9ae3-80d4a9a0dbdc"
+				},
+				{
+					"verse": "Dios extendió el cielo sobre el vacío\ny colgó la tierra sobre la nada.",
+					"number": 7,
+					"id": "bfba92a4-90a4-4979-ba7e-b389c9e2c01f"
+				},
+				{
+					"verse": "Él encierra el agua en las nubes\nsin que las nubes revienten con el peso;",
+					"number": 8,
+					"id": "025319cd-3820-48f8-9561-a2f0e732d9b2"
+				},
+				{
+					"verse": "oscurece la cara de la luna\ncubriéndola con una nube;",
+					"number": 9,
+					"id": "86e2ac5e-7391-488d-b058-49855acfcec7"
+				},
+				{
+					"verse": "ha puesto el horizonte del mar\ncomo límite entre la luz y las tinieblas.",
+					"number": 10,
+					"id": "83842be7-bf0d-43df-b60a-de3a90e12ea9"
+				},
+				{
+					"verse": "Cuando Dios amenaza, tiemblan de miedo\nlos montes en que se apoya el cielo.",
+					"number": 11,
+					"id": "469956e8-d606-4d41-9d72-be2d27292b19"
+				},
+				{
+					"verse": "Con su fuerza dominó al mar;\ncon su habilidad derrotó al monstruo Rahab.",
+					"number": 12,
+					"id": "576e624f-ac3d-42e6-a328-d50858d4b4df"
+				},
+				{
+					"verse": "Con su soplo dejó el cielo despejado;\ncon su mano mató a la serpiente escurridiza.",
+					"number": 13,
+					"id": "da3e6d77-3d3c-4387-8b65-122806a92eb4"
+				},
+				{
+					"verse": "Y esto no es más que una parte de sus obras;\nlo que hemos oído es apenas un murmullo.\n¿Quién podrá entender su trueno poderoso?",
+					"number": 14,
+					"id": "e6ffdc46-60f3-4baa-b838-cbbcdbf0116c"
+				}
+			]
+		},
+		{
+			"chapter": "27",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job describe el castigo de los malos",
+					"id": "c9aad5a3-b7d0-4a0e-8d10-347a71d1133b"
+				},
+				{
+					"verse": "¡Juro por Dios, por el Todopoderoso,\nquien se niega a hacerme justicia\ny me llena de amargura,",
+					"number": 2,
+					"id": "f9ae7fd0-1113-4ca1-bb44-b078a5e72edb"
+				},
+				{
+					"verse": "que mientras él me dé fuerza para respirar,",
+					"number": 3,
+					"id": "2d75971b-6396-4ae0-8728-a827c2690ac3"
+				},
+				{
+					"verse": "jamás diré mentiras\nni pronunciaré palabras falsas!",
+					"number": 4,
+					"id": "2e7060af-73ff-4e1f-85fb-1335c6bf68fd"
+				},
+				{
+					"verse": "Mientras yo viva, insistiré en mi inocencia;\n¡no admitiré que ustedes tengan razón al acusarme!",
+					"number": 5,
+					"id": "40e79f95-5287-4a22-a096-98982ce358ef"
+				},
+				{
+					"verse": "No dejaré de insistir en mi honradez,\npues no tengo nada que reprocharme.",
+					"number": 6,
+					"id": "85feed45-fda2-4d2f-8228-a03145b2fea4"
+				},
+				{
+					"verse": "¡Que todo el que se declare mi enemigo\ncorra la suerte del malvado y del injusto!",
+					"number": 7,
+					"id": "5e60b9ba-3914-48bb-b0bf-1ead29335b3a"
+				},
+				{
+					"verse": "¿Qué esperanza habrá para el impío\ncuando Dios le quite la vida?",
+					"number": 8,
+					"id": "d52a9460-fccd-47ff-b07f-6084a57d9751"
+				},
+				{
+					"verse": "Cuando se encuentre en dificultades,\nDios no hará caso de sus ruegos.",
+					"number": 9,
+					"id": "050434cd-ff71-4c85-82ce-836a913fae71"
+				},
+				{
+					"verse": "Pues él no encuentra su alegría en el Todopoderoso,\nni lo invoca en ningún momento.",
+					"number": 10,
+					"id": "f6100896-1729-4dd2-a78f-ab2897c0dabe"
+				},
+				{
+					"verse": "Voy a mostrarles el gran poder de Dios,\nlos planes del Todopoderoso.",
+					"number": 11,
+					"id": "64d3ab8b-43ce-4584-a3c7-e70bd67828fd"
+				},
+				{
+					"verse": "Y si todos ustedes ya lo han visto,\n¿por qué dicen cosas absurdas?\nSofar",
+					"number": 12,
+					"id": "b49e5cfe-1d60-4218-b3cf-fdaa29de5ee8"
+				},
+				{
+					"verse": "Éste es el castigo que Dios, el Todopoderoso,\ndará a los hombres crueles y malvados:",
+					"number": 13,
+					"id": "356b3356-c293-43e9-82c8-0fb2e5c5747b"
+				},
+				{
+					"verse": "aunque sus hijos sean muchos,\nmorirán en la guerra o por no encontrar qué comer.",
+					"number": 14,
+					"id": "b6bb162d-84b4-4fe1-8c65-bb8c4778cb00"
+				},
+				{
+					"verse": "A los que queden con vida, los matará la peste,\ny sus viudas no los llorarán.",
+					"number": 15,
+					"id": "05a50524-67f0-4f91-86b3-d4ef7cd7f994"
+				},
+				{
+					"verse": "Aunque el malvado amontone plata como tierra,\ny tenga ropa en grandes cantidades,",
+					"number": 16,
+					"id": "5234fa5c-6c26-4171-9dc4-12e19e142b82"
+				},
+				{
+					"verse": "será un hombre honrado el que use esa ropa\ny algún hombre honrado el que disfrute de esa plata.",
+					"number": 17,
+					"id": "0467e453-fa2a-4f8b-8ba2-b59a07295058"
+				},
+				{
+					"verse": "La casa del malvado es frágil como un nido,\ncomo la choza de quien cuida los campos.",
+					"number": 18,
+					"id": "847fb29a-78f2-4aa3-8733-5c764b1e0674"
+				},
+				{
+					"verse": "Se acostará rico por última vez,\ny al despertar, ya no tendrá nada.",
+					"number": 19,
+					"id": "abe20054-538e-496b-a848-438cd28b40c0"
+				},
+				{
+					"verse": "El terror le llegará de día,\nla tempestad se lo llevará de noche.",
+					"number": 20,
+					"id": "17970af9-549d-4a4e-a2c7-73428416b8b4"
+				},
+				{
+					"verse": "El viento huracanado del oriente\nlo arrancará de su casa;",
+					"number": 21,
+					"id": "7d0a4e1b-86e7-48df-afbc-eca1c67085b0"
+				},
+				{
+					"verse": "soplará contra él sin compasión,\npor más que trate de escapar.",
+					"number": 22,
+					"id": "656377f8-9e70-48a7-9875-29676315299b"
+				},
+				{
+					"verse": "El viento lo perseguirá con estruendos y silbidos.",
+					"number": 23,
+					"id": "cb20fb88-a902-40a0-b1a9-634bdd4f12af"
+				}
+			]
+		},
+		{
+			"chapter": "28",
+			"vers": [
+				{
+					"verse": "Hay minas de donde se saca la plata\ny lugares donde se refina el oro.",
+					"number": 1,
+					"study": "El hombre en busca de la sabiduría",
+					"id": "7f10674d-1b7e-43d0-babd-d090745a5317"
+				},
+				{
+					"verse": "El hierro se saca de la tierra,\ny las piedras, al fundirse, producen el cobre.",
+					"number": 2,
+					"id": "0bcc977c-e004-4751-9212-d7ae582b6478"
+				},
+				{
+					"verse": "El hombre ha puesto fin a las tinieblas:\nbaja a los lugares más profundos\ny allí, en la oscuridad, busca piedras.",
+					"number": 3,
+					"id": "9644e176-c9b4-45d3-bcd2-f91eb8f03d50"
+				},
+				{
+					"verse": "Balanceándose suspendidos de una soga,\nabren minas en lugares solitarios,\nen lugares por donde nadie pasa,\nlejos de las ciudades.",
+					"number": 4,
+					"id": "d0fe0a6f-8c2c-45ea-8a9f-b45ce935aaa1"
+				},
+				{
+					"verse": "La tierra, por encima, produce trigo,\ny por debajo está revuelta como por fuego.",
+					"number": 5,
+					"id": "59e60b97-690b-4df6-a607-d1038c1b86a0"
+				},
+				{
+					"verse": "Allí se encuentran zafiros,\ny oro mezclado con tierra.",
+					"number": 6,
+					"id": "f28792fb-7a71-41c0-ade3-fe61ffe97ba2"
+				},
+				{
+					"verse": "Ni los halcones ni otras aves de rapiña\nhan visto jamás esos senderos.",
+					"number": 7,
+					"id": "4cab0b57-677d-41bf-a66e-9df1ee763877"
+				},
+				{
+					"verse": "Las fieras no pasan por ellos\nni los frecuentan los leones.",
+					"number": 8,
+					"id": "410e5aca-c179-47a3-89b7-c1a124abe57a"
+				},
+				{
+					"verse": "El hombre pone la mano en el pedernal\ny arranca de raíz las montañas.",
+					"number": 9,
+					"id": "33344a5b-bd1a-4233-9e36-2431b3813bd2"
+				},
+				{
+					"verse": "Abre túneles en los peñascos\ny descubre toda clase de tesoros.",
+					"number": 10,
+					"id": "2d4c162a-8518-430f-8d6d-82fd1720e123"
+				},
+				{
+					"verse": "Explora los nacimientos de los ríos\ny saca a la luz cosas escondidas.",
+					"number": 11,
+					"id": "4f7837a3-cc9b-4cf6-9418-a84db0f34052"
+				},
+				{
+					"verse": "¿Pero de dónde viene la sabiduría?\n¿En qué lugar está la inteligencia?",
+					"number": 12,
+					"id": "b08e5f34-3c36-4eb3-8320-ee308e2a2e24"
+				},
+				{
+					"verse": "El hombre no sabe lo que ella vale,\nni la encuentra en este mundo.",
+					"number": 13,
+					"id": "47baf1ac-226e-4a4d-a42f-cc05e6e884b5"
+				},
+				{
+					"verse": "El océano dice: «Aquí no está»,\ny el mar: «Yo no la tengo.»",
+					"number": 14,
+					"id": "3c7fc33d-7a39-477c-b03e-ec5e8a4519a4"
+				},
+				{
+					"verse": "No se puede conseguir con oro,\nni se puede comprar con plata.",
+					"number": 15,
+					"id": "ac2db31c-7bc5-4e0e-b9ef-58a26dd59915"
+				},
+				{
+					"verse": "No se puede pagar con el oro más precioso,\nni con joyas de cornalina o de zafiro.",
+					"number": 16,
+					"id": "8b97df5e-fde6-4a8d-a4cb-47c848e95e01"
+				},
+				{
+					"verse": "Vale más que el oro y el cristal;\nno se puede cambiar por objetos de oro puro.",
+					"number": 17,
+					"id": "79bf9e79-aec5-4e9e-acd7-2966d008500a"
+				},
+				{
+					"verse": "La sabiduría es más preciosa que el coral,\ny que el cristal de roca y las perlas.",
+					"number": 18,
+					"id": "b373b093-15bc-4d8f-9052-e0e39c98428d"
+				},
+				{
+					"verse": "El crisólito de Etiopía no la iguala,\nni se puede pagar con el oro más fino.",
+					"number": 19,
+					"id": "91d7b529-eb06-4f7d-beb1-0d4b070ab47d"
+				},
+				{
+					"verse": "¿De dónde, pues, viene la sabiduría?\n¿En qué lugar está la inteligencia?",
+					"number": 20,
+					"id": "3aa08a38-fc4d-437f-affb-9c67493bf904"
+				},
+				{
+					"verse": "Está escondida a la vista de las fieras,\noculta a las aves del cielo.",
+					"number": 21,
+					"id": "3cf1b6d3-ab47-4fc4-a818-5fe25b1a5a36"
+				},
+				{
+					"verse": "Aun la destrucción y la muerte dicen:\n«Sólo de oídas hemos sabido de ella.»",
+					"number": 22,
+					"id": "edb76af0-9b73-49d6-b2de-bf90767eae56"
+				},
+				{
+					"verse": "Pero Dios conoce el camino de la sabiduría;\nsólo él sabe dónde encontrarla,",
+					"number": 23,
+					"id": "0c1dce3a-eb66-4880-a3fd-53abcff3b11a"
+				},
+				{
+					"verse": "pues él ve hasta el último rincón de la tierra\ny todo lo que hay debajo del cielo.",
+					"number": 24,
+					"id": "6a71feba-7313-465b-a13e-90a361e5a2c9"
+				},
+				{
+					"verse": "Cuando Dios le fijó la fuerza al viento\ny puso un límite al agua,",
+					"number": 25,
+					"id": "6ccc1b31-0184-4c81-b4d5-1ad161f9aa70"
+				},
+				{
+					"verse": "cuando estableció las leyes de la lluvia\ny señaló el camino a la tormenta,",
+					"number": 26,
+					"id": "bb175026-8680-41f9-aaa6-371f37f67391"
+				},
+				{
+					"verse": "también vio a la sabiduría, vio su justo valor,\nla examinó y le dio su aprobación.",
+					"number": 27,
+					"id": "1fc0c7c0-080d-4c03-9b03-649c949bd2ca"
+				},
+				{
+					"verse": "Y dijo Dios a los hombres:\n«Servir fielmente al Señor: eso es sabiduría;\napartarse del mal: eso es inteligencia.»",
+					"number": 28,
+					"id": "8e767cdc-8dc0-439d-a82f-2d92ac25f497"
+				}
+			]
+		},
+		{
+			"chapter": "29",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Job recuerda su fidelidad anterior",
+					"id": "d91939c7-0e28-477b-9ea7-cb4adab34fc0"
+				},
+				{
+					"verse": "¡Ojalá pudiera yo volver a aquellos tiempos\nen que Dios me protegía!",
+					"number": 2,
+					"id": "9d615d24-219b-406d-867b-469fbca54528"
+				},
+				{
+					"verse": "Cuando él me iluminaba con su luz\ny yo podía andar en la oscuridad;",
+					"number": 3,
+					"id": "48403630-d936-4932-9f40-de563aba8765"
+				},
+				{
+					"verse": "cuando yo estaba en plena madurez\ny Dios cuidaba de mi hogar;",
+					"number": 4,
+					"id": "b8b6bd6b-9ee0-4a00-9402-1abd30ca38be"
+				},
+				{
+					"verse": "cuando el Todopoderoso estaba a mi lado\ny mis hijos me hacían compañía;",
+					"number": 5,
+					"id": "60110ccd-5ef8-4e6b-938d-ff32ebaa6768"
+				},
+				{
+					"verse": "cuando la leche corría por el suelo\ny el aceite brotaba de las rocas;",
+					"number": 6,
+					"id": "6dd64544-f6ce-4646-89f5-3d619efa87c6"
+				},
+				{
+					"verse": "cuando yo tomaba asiento\nen el lugar de reunión de la ciudad.",
+					"number": 7,
+					"id": "6bcc1971-f156-433a-8d3e-3150b992fce9"
+				},
+				{
+					"verse": "Los jóvenes, al verme, se hacían a un lado\ny los ancianos se ponían de pie.",
+					"number": 8,
+					"id": "089ea301-2018-41aa-a61d-0e3df8660f33"
+				},
+				{
+					"verse": "Aun los hombres importantes dejaban de hablar\ny hacían señas de guardar silencio.",
+					"number": 9,
+					"id": "ec9f2cca-2b1e-4961-837e-41e4357f16d4"
+				},
+				{
+					"verse": "Los gobernantes bajaban la voz;\nse les pegaba la lengua al paladar.",
+					"number": 10,
+					"id": "55213fe4-c22c-4631-8cc4-46970679fe44"
+				},
+				{
+					"verse": "La gente, al verme o escucharme,\nme felicitaba y hablaba bien de mí,",
+					"number": 11,
+					"id": "8b0e255e-8572-4cf4-b65a-8093051eb7ea"
+				},
+				{
+					"verse": "pues yo socorría al huérfano y al pobre,\ngente a la que nadie ayudaba.",
+					"number": 12,
+					"id": "5263a175-f336-4d92-8967-08cd51612d78"
+				},
+				{
+					"verse": "El que estaba en la ruina me daba las gracias;\nmi ayuda era a las viudas motivo de alegría.",
+					"number": 13,
+					"id": "e8a19168-2bbe-423b-a28d-6c74b10d9900"
+				},
+				{
+					"verse": "La justicia y la honradez eran parte de mí mismo:\neran mi ropa de todos los días.",
+					"number": 14,
+					"id": "48c52007-4513-4cdb-80d5-b1cc1364d750"
+				},
+				{
+					"verse": "¡Yo era ojos para el ciego\ny pies para el lisiado,",
+					"number": 15,
+					"id": "fea555f0-ebb4-4bf4-a305-ae74da73202b"
+				},
+				{
+					"verse": "padre de los necesitados\ny defensor de los extranjeros!",
+					"number": 16,
+					"id": "cfa40a34-1f03-4c65-b559-857e26c70b9d"
+				},
+				{
+					"verse": "Yo les rompía la quijada a los malvados\ny les quitaba la presa de los dientes.",
+					"number": 17,
+					"id": "ac707da8-931d-4ca5-bc9d-7a6aa93c6905"
+				},
+				{
+					"verse": "Yo pensaba: «Mis días serán tantos como la arena;\nmoriré anciano y en mi propio hogar.",
+					"number": 18,
+					"id": "28a189c5-82d7-490c-bbb1-51b108c4e5a9"
+				},
+				{
+					"verse": "Soy como un árbol plantado junto al agua,\ncuyas ramas baña el rocío de la noche.",
+					"number": 19,
+					"id": "ea3b8c36-a594-4d4f-8c2a-767957e8f0aa"
+				},
+				{
+					"verse": "Mi esplendor se renovará conmigo,\ny no me faltarán las fuerzas.»",
+					"number": 20,
+					"id": "e6a45129-9868-4604-aea9-4a0179cb8883"
+				},
+				{
+					"verse": "Todos me escuchaban\ny esperaban en silencio mis consejos.",
+					"number": 21,
+					"id": "c7b4f1aa-0946-44f2-811c-9f10c8ed8916"
+				},
+				{
+					"verse": "Después de hablar yo, ninguno replicaba.\nMis palabras caían gota a gota sobre ellos,",
+					"number": 22,
+					"id": "0b942b6d-8870-4d51-9079-0d260cdfca9c"
+				},
+				{
+					"verse": "y ellos las esperaban ansiosos,\ncomo se espera la lluvia en tiempo de calor.",
+					"number": 23,
+					"id": "69d17527-a117-44e2-940d-7b603b400227"
+				},
+				{
+					"verse": "Cuando yo les sonreía, apenas lo creían,\ny no dejaban de mirar mi rostro alegre.",
+					"number": 24,
+					"id": "343b51c1-38ce-4f0f-8385-5c1ba8f5b785"
+				},
+				{
+					"verse": "Yo establecía mi autoridad sobre ellos\ny decidía lo que ellos debían hacer,\ncomo un rey al frente de sus tropas.\nCuando estaban tristes, yo los consolaba.",
+					"number": 25,
+					"id": "8ebba4d3-7ff3-47d5-91e7-b5256b10de17"
+				}
+			]
+		},
+		{
+			"chapter": "30",
+			"vers": [
+				{
+					"verse": "Pero ahora se ríen de mí\nmuchachos más jóvenes que yo,\ncuyos padres no hubiera yo aceptado\npara estar con los perros que cuidaban mis rebaños.",
+					"number": 1,
+					"study": "Job lamenta su desdicha actual",
+					"id": "70c41692-8bfd-4048-b96e-dd13c262573d"
+				},
+				{
+					"verse": "¿De qué me hubiera servido la fuerza de sus brazos?\nEllos eran gente desgastada",
+					"number": 2,
+					"id": "90498192-7f1e-40f1-a5cb-a21ff7e4d1e2"
+				},
+				{
+					"verse": "por el hambre terrible y la necesidad.\nDe noche, en el desierto solitario,\ntenían que roer raíces secas;",
+					"number": 3,
+					"id": "99e7bf4c-89d3-407d-989d-023ad1f6b451"
+				},
+				{
+					"verse": "arrancaban hierbas amargas de los matorrales,\ny hasta raíces de retama comían.",
+					"number": 4,
+					"id": "b8ee33b8-952a-43e7-a158-d0dc9fbd26c4"
+				},
+				{
+					"verse": "Eran gente rechazada por la sociedad,\nperseguida a gritos como los ladrones;",
+					"number": 5,
+					"id": "beedee1e-7be0-4de5-92d0-7ec6c4300729"
+				},
+				{
+					"verse": "tenían que vivir en cuevas,\nen los barrancos y entre los peñascos;",
+					"number": 6,
+					"id": "70d57b19-301f-46cf-bdea-312416f0985a"
+				},
+				{
+					"verse": "aullaban en la maleza,\namontonados bajo los matorrales.",
+					"number": 7,
+					"id": "a893b52a-ac63-46ee-ad31-8046a613ff4e"
+				},
+				{
+					"verse": "Gente inútil, hijos de nadie,\nindignos de vivir en el país.",
+					"number": 8,
+					"id": "fbc6dd7a-de8e-4f21-881c-179676507fda"
+				},
+				{
+					"verse": "Pero ahora ellos se burlan\ny hacen chistes a costa mía.",
+					"number": 9,
+					"id": "f985e029-905c-4d76-a4a4-0db9a36914fb"
+				},
+				{
+					"verse": "Con repugnancia se alejan de mí,\ny hasta me escupen en la cara.",
+					"number": 10,
+					"id": "af674d3f-13fc-4830-b21e-8911b6ff3efe"
+				},
+				{
+					"verse": "Ahora que estoy desarmado y humillado,\nno me tienen ningún respeto.",
+					"number": 11,
+					"id": "e6e6f843-691a-46fd-9ae3-f9c7cfbd1665"
+				},
+				{
+					"verse": "A mi lado se presentan en montón,\nme hacen caer, me atacan\ny procuran darme muerte.",
+					"number": 12,
+					"id": "71398188-56ab-49aa-b524-9e8a12b886ce"
+				},
+				{
+					"verse": "Me cierran el camino, para destruirme,\ny nadie los detiene.",
+					"number": 13,
+					"id": "8f08ac71-bd41-489f-b1bd-a7c2ba3e36c7"
+				},
+				{
+					"verse": "Como por un boquete abierto en la muralla,\nse lanzan sobre mí con gran estruendo.",
+					"number": 14,
+					"id": "42e7c681-0be7-4fd1-a34e-4e92487b9085"
+				},
+				{
+					"verse": "El terror cayó sobre mí;\nmi dignidad huyó como el viento;\nmi prosperidad, como una nube.",
+					"number": 15,
+					"id": "8f898225-f7ad-438f-bca3-e0d7b2a7ac1c"
+				},
+				{
+					"verse": "Ya no tengo ganas de vivir;\nla aflicción se ha apoderado de mí.",
+					"number": 16,
+					"id": "91471e6e-83c9-4c8d-a4d3-27878c0514e9"
+				},
+				{
+					"verse": "El dolor me penetra hasta los huesos;\nsin cesar me atormenta por las noches.",
+					"number": 17,
+					"id": "70fb5840-d024-4241-975f-50e88414c04f"
+				},
+				{
+					"verse": "Dios me ha agarrado por el cuello,\ny con fuerza me sacude la ropa.",
+					"number": 18,
+					"id": "84c0fdc2-e8f9-41cd-a18a-d20ae0837c3c"
+				},
+				{
+					"verse": "Me ha arrojado en el lodo,\ncomo si yo fuera polvo y ceniza.",
+					"number": 19,
+					"id": "9cdf7828-d913-4807-a7f8-2e558fbe39fc"
+				},
+				{
+					"verse": "Te pido ayuda, oh Dios, y no respondes,\nte suplico y no me haces caso.",
+					"number": 20,
+					"id": "c3e42f0d-bbb3-41c3-8e3a-43c4319d11ba"
+				},
+				{
+					"verse": "Te has vuelto cruel conmigo,\nme persigues con rigor.",
+					"number": 21,
+					"id": "713f96b8-6dd9-4ff1-bc04-06bc5d5645c5"
+				},
+				{
+					"verse": "Haces que el viento me arrebate,\nque la tempestad me sacuda.",
+					"number": 22,
+					"id": "ae35d6fb-3037-4d33-b6e1-a40d9fa3138f"
+				},
+				{
+					"verse": "Ya sé que tú quieres llevarme a la muerte,\nal destino reservado a todo ser viviente.",
+					"number": 23,
+					"id": "6fce39e1-cc7e-4d9d-b203-dc460b43f0e7"
+				},
+				{
+					"verse": "¿Acaso no he ayudado al pobre\ny lo he salvado de su miseria?",
+					"number": 24,
+					"id": "f0dc3b49-786c-44d1-99d7-dfca392cfee2"
+				},
+				{
+					"verse": "¿Acaso no he llorado por el que sufre,\nni tenido compasión del necesitado?",
+					"number": 25,
+					"id": "96f71b87-4e93-4f80-b929-8cae3ad382a5"
+				},
+				{
+					"verse": "Yo esperaba la felicidad, y vino la desdicha;\naguardaba la luz, y llegó la oscuridad.",
+					"number": 26,
+					"id": "d12df3aa-5fe2-44b0-8c19-83c763649b74"
+				},
+				{
+					"verse": "Mi corazón se agita sin descanso;\nsólo me esperan días de aflicción.",
+					"number": 27,
+					"id": "a10ded24-ff42-4b7d-9f44-6f90d995bf2e"
+				},
+				{
+					"verse": "Llevo una vida triste, sin luz de sol;\ndelante de todos pido ayuda.",
+					"number": 28,
+					"id": "0a9fe63e-fa2c-4505-88f6-d8c61dd9bae0"
+				},
+				{
+					"verse": "Parezco hermano de los chacales,\namigo de los avestruces.",
+					"number": 29,
+					"id": "e37c2a98-1201-450a-aca6-9a2c8d0947f8"
+				},
+				{
+					"verse": "Mi piel se ha vuelto negra,\nmi cuerpo arde a causa de la fiebre.",
+					"number": 30,
+					"id": "d24120b0-c9ed-4f95-825c-0e884d2a4077"
+				},
+				{
+					"verse": "La música de las arpas y las flautas\nse convirtió para mí en llanto de dolor.",
+					"number": 31,
+					"id": "a6001d93-f210-4851-aba3-68d1af9c2a49"
+				}
+			]
+		},
+		{
+			"chapter": "31",
+			"vers": [
+				{
+					"verse": "Yo me he impuesto la norma\nde no codiciar ni siquiera a las solteras.",
+					"number": 1,
+					"study": "Job afirma su integridad",
+					"id": "a0ad6bd8-2f58-4374-80d0-f0f5febee37b"
+				},
+				{
+					"verse": "¿Cuál es la recompensa que el Todopoderoso\nda a cada hombre desde lo alto del cielo?",
+					"number": 2,
+					"id": "8af0202b-6bed-4e88-b9f7-5e3b6655ef07"
+				},
+				{
+					"verse": "¿No es acaso al malvado y pecador\na quien corresponde la desgracia?",
+					"number": 3,
+					"id": "777ec7ab-ca88-440c-a5f3-7b94f5c2760b"
+				},
+				{
+					"verse": "¿O es que Dios no ve lo que hago\nni observa cada uno de mis pasos?",
+					"number": 4,
+					"id": "ae752478-a6a0-404f-8ac2-f63785fd2618"
+				},
+				{
+					"verse": "Juro que nunca he procedido con malicia\nni he intentado engañar a nadie.",
+					"number": 5,
+					"id": "035af59a-eb4e-4dd5-a2e9-ca612886b221"
+				},
+				{
+					"verse": "¡Que Dios me pese con balanza justa,\ny se convencerá de mi inocencia!",
+					"number": 6,
+					"id": "7763ecb4-1e77-435e-a098-7c2a698dfbe8"
+				},
+				{
+					"verse": "Si me he desviado del camino recto,\nsi me he dejado llevar de la codicia,\nsi algo ajeno se ha encontrado en mi poder,",
+					"number": 7,
+					"id": "fa983763-00e3-4f46-8027-55cf9dafb5f7"
+				},
+				{
+					"verse": "que otros se coman lo que yo he sembrado\ny arranquen de raíz lo que planté.",
+					"number": 8,
+					"id": "c5dbc9e2-875d-4d2a-bdbf-7cdc19850b5c"
+				},
+				{
+					"verse": "Si me he dejado seducir de una mujer\no me he puesto a espiar a la mujer de mi vecino,",
+					"number": 9,
+					"id": "267d5b65-b556-4e88-8e5f-3785e09f49b1"
+				},
+				{
+					"verse": "que mi esposa sea esclava de otros\ny que extraños se acuesten con ella.",
+					"number": 10,
+					"id": "09b03400-56fe-48ca-a0a2-f62281245ad9"
+				},
+				{
+					"verse": "Pues mis acciones serían infames;\nserían actos dignos de castigo.",
+					"number": 11,
+					"id": "b83e79e6-0296-4405-ba4c-3d8b32ba18ab"
+				},
+				{
+					"verse": "Serían como un incendio destructor\nque destruiría todo lo que tengo.",
+					"number": 12,
+					"id": "1105120e-063c-42c3-8c5f-8c78e68a91f7"
+				},
+				{
+					"verse": "Si mis criados me reclamaban algo,\nyo siempre atendía a sus peticiones.",
+					"number": 13,
+					"id": "916735e5-af14-4f68-85aa-90c6bd4c12f9"
+				},
+				{
+					"verse": "¿De qué otra manera podría yo presentarme ante Dios?\n¿Qué le respondería cuando él me pidiera cuentas?",
+					"number": 14,
+					"id": "6a1c138f-3039-4db7-9b6b-24da41baf7d9"
+				},
+				{
+					"verse": "Un mismo Dios nos formó en el vientre,\ny tanto a ellos como a mí nos dio la vida.",
+					"number": 15,
+					"id": "c3325019-0b12-40f2-b684-6e4856141749"
+				},
+				{
+					"verse": "Nunca dejé de socorrer al pobre en su necesidad,\nni permití que las viudas pasaran hambre.",
+					"number": 16,
+					"id": "394e20f9-4b68-476d-9236-9606ce7b996d"
+				},
+				{
+					"verse": "Nunca comí yo solo mi bocado\nsin compartirlo con el huérfano.",
+					"number": 17,
+					"id": "78919b32-fbc2-4917-87c8-06fb4af8ad38"
+				},
+				{
+					"verse": "Siempre traté al huérfano como un padre;\nsiempre fui protector de las viudas.",
+					"number": 18,
+					"id": "8a865058-4a49-4f07-ac2d-d8002d69f0e1"
+				},
+				{
+					"verse": "Cuando yo veía que alguien moría por falta de ropa,\no que un pobre no tenía con qué cubrirse,",
+					"number": 19,
+					"id": "cd7047ab-e79c-47b2-b652-875accd328ab"
+				},
+				{
+					"verse": "con la lana de mis propias ovejas le daba calor,\ny él me quedaba agradecido.",
+					"number": 20,
+					"id": "e7087097-032c-4dca-82c5-cdeb2525d547"
+				},
+				{
+					"verse": "Jamás amenacé a un huérfano\nvaliéndome de mi influencia con los jueces.",
+					"number": 21,
+					"id": "e7f91e2b-aa75-4c83-b019-8e194b227b9b"
+				},
+				{
+					"verse": "Y si esto no es verdad,\nque los brazos se me rompan;\nque se me caigan de los hombros.",
+					"number": 22,
+					"id": "b829e91e-b3b7-4949-9265-76df81f5136f"
+				},
+				{
+					"verse": "Yo temía el castigo de Dios;\n¡no habría podido resistir su majestad!",
+					"number": 23,
+					"id": "4fece19a-79a7-4fe5-80d2-53b47a98b89c"
+				},
+				{
+					"verse": "Jamás el oro ha sido para mí\nla base de mi confianza y seguridad.",
+					"number": 24,
+					"id": "acdbb59e-1c7f-4562-9652-a40b10c07bb3"
+				},
+				{
+					"verse": "Jamás mi dicha ha consistido en tener grandes riquezas\no en ganar mucho dinero.",
+					"number": 25,
+					"id": "d504d1d9-9dad-450b-aceb-d7318d8efb02"
+				},
+				{
+					"verse": "He visto brillar el sol\ny avanzar la luna en todo su esplendor,",
+					"number": 26,
+					"id": "15e45a7a-e123-4bab-aac8-6936b6ee0766"
+				},
+				{
+					"verse": "pero jamás los adoré en secreto\nni les envié besos con la mano.",
+					"number": 27,
+					"id": "140ff377-0e62-44cf-b198-0588abbd9feb"
+				},
+				{
+					"verse": "Esto habría sido digno de castigo;\n¡habría sido negar al Dios del cielo!",
+					"number": 28,
+					"id": "80c00d14-e3f3-4686-81d5-7257c617f9df"
+				},
+				{
+					"verse": "Nunca me alegré del mal de mi enemigo,\nni de que le hubiera venido una desgracia.",
+					"number": 29,
+					"id": "fbb1dca9-e4fa-4352-8733-9a9ede7cde1e"
+				},
+				{
+					"verse": "Jamás lancé sobre él una maldición\nni le deseé la muerte.",
+					"number": 30,
+					"id": "0c2be979-5ec1-42af-8024-d30006dabef5"
+				},
+				{
+					"verse": "Si algunos de los que vivían conmigo\nquerían abusar de un extranjero,",
+					"number": 31,
+					"id": "27322fdf-6185-4e90-a0a1-9aa3619d5f12"
+				},
+				{
+					"verse": "yo no lo dejaba pasar la noche en la calle.\nSiempre abrí las puertas de mi casa a los viajeros.",
+					"number": 32,
+					"id": "70c7a17f-0421-4c2e-8168-cc9ef3c13910"
+				},
+				{
+					"verse": "Jamás he ocultado mis faltas, como hacen otros,\nni he tratado de tenerlas en secreto",
+					"number": 33,
+					"id": "19fba726-ca48-47c2-9f78-872dc0079fa6"
+				},
+				{
+					"verse": "por miedo de la gente.\nJamás me he quedado encerrado y en silencio\npor temor al desprecio de mis familiares.",
+					"number": 34,
+					"id": "4f6c8a8e-078c-417e-80b0-7bf4bdfeb3b9"
+				},
+				{
+					"verse": "¡Ojalá que alguien me escuchara!\nCon mi firma respaldo lo que he dicho;\nahora, ¡que el Todopoderoso me responda!\nLas acusaciones que me hagan por escrito,",
+					"number": 35,
+					"id": "93b4f2dc-aad2-48b6-bf55-055c0eeff4d1"
+				},
+				{
+					"verse": "las llevaré conmigo honrosamente;\nme las pondré por corona.",
+					"number": 36,
+					"id": "91b293db-ba66-4264-8871-28237aff0f66"
+				},
+				{
+					"verse": "Yo daré cuenta a Dios de todas mis acciones,\nme acercaré con dignidad a su presencia.",
+					"number": 37,
+					"id": "4a4aea98-c266-4564-8b96-fecb50af1b87"
+				},
+				{
+					"verse": "Mis tierras no claman al cielo contra mí,\nni sus surcos lloran afligidos.",
+					"number": 38,
+					"id": "cc437b38-3ef9-4d12-8f5c-d90d72c47c68"
+				},
+				{
+					"verse": "Pero si a alguien le he robado sus productos,\no si he explotado a los campesinos,",
+					"number": 39,
+					"id": "efa7867c-d14e-47fd-8fd5-555ade7d2c27"
+				},
+				{
+					"verse": "¡que mis tierras produzcan espinos en vez de trigo,\ny mala hierba en vez de cebada!\nCon esto terminó Job su defensa.",
+					"number": 40,
+					"id": "61c505af-e42d-439a-b4ce-b8351ad7f2f0"
+				}
+			]
+		},
+		{
+			"chapter": "32",
+			"vers": [
+				{
+					"verse": "Al ver los tres hombres que Job insistía en que era inocente, dejaron de discutir con él.",
+					"number": 1,
+					"study": "Eliú justifica su derecho de contestar a Job",
+					"id": "6efcde7b-2d59-4592-911b-a7b60c69e521"
+				},
+				{
+					"verse": "Entonces un hombre llamado Elihú, hijo de Baraquel el buzita, descendiente de Ram, no pudo contener más su enojo contra Job, al ver que insistía en su inocencia y culpaba a Dios.",
+					"number": 2,
+					"id": "92150b31-b8ca-41e0-a83b-e57864913275"
+				},
+				{
+					"verse": "Pero también se enojó con los tres amigos de Job, porque, al no haber sabido responderle, habían hecho quedar mal a Dios.",
+					"number": 3,
+					"id": "d37ebb41-c07b-445d-b850-37b70f622f16"
+				},
+				{
+					"verse": "Como Elihú era el más joven de todos, esperó a que los otros terminaran de hablar con Job;",
+					"number": 4,
+					"id": "9f723bff-8583-4670-a30e-30c6c29cfda7"
+				},
+				{
+					"verse": "pero al ver que ellos no sabían ya cómo responderle, no se pudo contener",
+					"number": 5,
+					"id": "892b709a-778a-4fca-b4b5-1a9a5ab891ab"
+				},
+				{
+					"verse": "y comenzó a hablar.\nElihú\nComo yo soy joven y ustedes ancianos,\nno me atrevía a expresarles mi opinión.",
+					"number": 6,
+					"id": "497e03ca-fd17-4436-9432-6bd554df652f"
+				},
+				{
+					"verse": "Y pensé: «Que hable la voz de la experiencia;\nque muestren los muchos años su sabiduría.»",
+					"number": 7,
+					"id": "13a29e89-86df-469f-9db5-3692bc24d865"
+				},
+				{
+					"verse": "Aunque en realidad todo hombre tiene entendimiento,\npues el Todopoderoso le infundió su espíritu.",
+					"number": 8,
+					"id": "7b0b7f91-6321-47a4-ab77-6bfc731223b4"
+				},
+				{
+					"verse": "Los muchos años no hacen sabio a nadie,\nni las barbas traen consigo una recta comprensión.",
+					"number": 9,
+					"id": "ccccf0e3-3949-4c82-9bc2-da77926a8f22"
+				},
+				{
+					"verse": "Por eso dije: «Ahora, que me escuchen,\npues yo también tengo algo que decir.»",
+					"number": 10,
+					"id": "10465e66-699d-4ee8-8931-230d77c21874"
+				},
+				{
+					"verse": "Yo he estado atento y he escuchado\nlos argumentos presentados por ustedes.\nLes he visto buscar las mejores palabras,",
+					"number": 11,
+					"id": "7b16b48f-b810-4caf-b7e4-f69f0a1b97c0"
+				},
+				{
+					"verse": "y he visto también que ninguno de ustedes\nha podido darle a Job la debida respuesta.",
+					"number": 12,
+					"id": "9af0e5e0-a303-4823-a5cd-94081a077866"
+				},
+				{
+					"verse": "Pues para que no se crean ustedes tan sabios,\nDios, y no un hombre, le responderá.",
+					"number": 13,
+					"id": "a6d93dfa-2f31-4204-a915-da792bd802ab"
+				},
+				{
+					"verse": "Pero, ni Job se ha dirigido a mí,\nni yo voy a contestarle como ustedes.",
+					"number": 14,
+					"id": "da1e58af-ff9e-4600-bba2-a5876f17c7e0"
+				},
+				{
+					"verse": "Job, estos tres están confundidos\ny les faltan palabras para responderte;",
+					"number": 15,
+					"id": "1c557e63-6bd3-4a08-95b8-9c381ff131e0"
+				},
+				{
+					"verse": "pero no creas que yo voy a callar porque ellos callan,\nporque se quedan sin responderte.",
+					"number": 16,
+					"id": "a49e8865-9b3c-469f-8028-d346c0d913c1"
+				},
+				{
+					"verse": "Voy a tomar parte en el asunto\ny diré lo que tengo que decir.",
+					"number": 17,
+					"id": "c77bda2b-9b22-4af9-b36f-fac25fdebd1f"
+				},
+				{
+					"verse": "Estoy tan lleno de palabras\nque ya no puedo contenerme;",
+					"number": 18,
+					"id": "062cb791-5be3-49fe-b14b-865402e8d74d"
+				},
+				{
+					"verse": "estoy a punto de estallar,\ncomo el vino encerrado en cueros nuevos.",
+					"number": 19,
+					"id": "2217a2c2-cb5f-43fe-ad53-b7353b48b94c"
+				},
+				{
+					"verse": "Tengo que hablar para desahogarme,\ntengo que darte una respuesta.",
+					"number": 20,
+					"id": "72ee804e-63f9-482b-bd40-fc815f0789fe"
+				},
+				{
+					"verse": "No voy a halagar a nadie;\ntrataré a todos por igual.",
+					"number": 21,
+					"id": "adc4be10-d823-46ff-95eb-5862248396eb"
+				},
+				{
+					"verse": "En realidad, yo no acostumbro hacer halagos;\n¡el Creador me castigaría en seguida si los hiciera!",
+					"number": 22,
+					"id": "6a9602d5-fbe8-49b7-bfe5-8380d63ab1ce"
+				}
+			]
+		},
+		{
+			"chapter": "33",
+			"vers": [
+				{
+					"verse": "Por lo tanto, Job, escucha mis palabras;\npon atención a lo que voy a decirte.",
+					"number": 1,
+					"study": "Eliú censura a Job",
+					"id": "7a080af8-9fc4-4f26-a83e-2727f0774e26"
+				},
+				{
+					"verse": "Ya tengo en los labios la respuesta:",
+					"number": 2,
+					"id": "8df4d441-cbf6-45cf-a07f-db7c918586cb"
+				},
+				{
+					"verse": "voy a hablar con sinceridad\ny a decir francamente lo que pienso.",
+					"number": 3,
+					"id": "5652f295-6601-4838-8512-968b56436997"
+				},
+				{
+					"verse": "Dios, el Todopoderoso, me hizo,\ne infundió en mí su aliento.",
+					"number": 4,
+					"id": "955e16c9-8835-430f-abbd-6a9e54c584eb"
+				},
+				{
+					"verse": "Respóndeme, si puedes;\nprepárate a hacerme frente.",
+					"number": 5,
+					"id": "eade5a36-e668-401c-815f-64225f9b818e"
+				},
+				{
+					"verse": "Tú y yo somos iguales ante Dios;\nyo también fui formado de barro.",
+					"number": 6,
+					"id": "b37694ab-f6da-4c29-a291-01e35521fdd4"
+				},
+				{
+					"verse": "Así que no tienes por qué asustarte de mí,\npues no te voy a imponer mi autoridad.",
+					"number": 7,
+					"id": "8b5cb515-167e-4e33-a176-cec2039b089e"
+				},
+				{
+					"verse": "Me parece que te oí decir\n(tales son las palabras que escuché):",
+					"number": 8,
+					"id": "509190fd-2a52-4752-8d68-01e900ea8818"
+				},
+				{
+					"verse": "«Yo soy puro e inocente,\ny no tengo falta ni pecado.",
+					"number": 9,
+					"id": "6ae53b8f-5fdc-48cb-89c8-86862f759319"
+				},
+				{
+					"verse": "Pero Dios busca de qué acusarme,\ny me trata como a su enemigo;",
+					"number": 10,
+					"id": "3d1d9b73-c5d7-496a-baf0-260527415e00"
+				},
+				{
+					"verse": "me ha puesto cadenas en los pies,\ny vigila cada uno de mis pasos.»",
+					"number": 11,
+					"id": "42a0ceea-ee8f-45b4-850a-e2736ad8144d"
+				},
+				{
+					"verse": "Pero tal afirmación es incorrecta,\npues Dios es más grande que los hombres.",
+					"number": 12,
+					"id": "803f5492-5791-402c-8853-2444c7c4ee14"
+				},
+				{
+					"verse": "¿Por qué le echas en cara\nque no conteste a ninguno de tus argumentos?",
+					"number": 13,
+					"id": "34371449-cbd2-48f4-baeb-ae711033bf99"
+				},
+				{
+					"verse": "Dios habla de muchas maneras,\npero no nos damos cuenta.",
+					"number": 14,
+					"id": "0eb6a2ff-a20e-4bcf-b668-d0ae07e18fcb"
+				},
+				{
+					"verse": "A veces lo hace en las noches,\nen un sueño o una visión,\ncuando los hombres ya duermen,\ncuando el sueño los domina.",
+					"number": 15,
+					"id": "50cc56b2-f220-4002-9e72-493192f0962e"
+				},
+				{
+					"verse": "Dios habla al oído de los hombres;\nlos reprende y los llena de miedo,",
+					"number": 16,
+					"id": "3b97b115-e973-4780-8856-e68a00241954"
+				},
+				{
+					"verse": "para apartarlos de sus malas obras\ny prevenirlos contra el orgullo.",
+					"number": 17,
+					"id": "ccec866f-7c22-472e-81f9-bc65c2943730"
+				},
+				{
+					"verse": "Así los libra de la tumba,\nlos salva de la muerte.",
+					"number": 18,
+					"id": "b6f27759-cee5-48fb-a587-42e64e9a4261"
+				},
+				{
+					"verse": "Otras veces Dios corrige al hombre con enfermedades,\ncon fuertes dolores en todo su cuerpo.",
+					"number": 19,
+					"id": "a6e8537c-963b-4a39-9069-ddec7236df95"
+				},
+				{
+					"verse": "Todo alimento, aun el más delicioso,\nle resulta entonces insoportable.",
+					"number": 20,
+					"id": "1debbc1d-9dfc-4bc1-81ba-2d5037cb5c23"
+				},
+				{
+					"verse": "La carne se le va desgastando,\nse le pueden ver los huesos.",
+					"number": 21,
+					"id": "3b48fcd9-9c6d-42de-b0d8-98d53930b2d9"
+				},
+				{
+					"verse": "Su vida está al borde del sepulcro,\na las puertas de la muerte.",
+					"number": 22,
+					"id": "d74c362e-8f4d-42ed-99f1-03e8b68b5cb9"
+				},
+				{
+					"verse": "Pero si hay cerca de él un ángel,\nuno entre mil que hable en su favor\ny dé testimonio de su rectitud,",
+					"number": 23,
+					"id": "d7dbf60d-3a20-4570-b2f7-f6c56dcc109e"
+				},
+				{
+					"verse": "que le tenga compasión y diga a Dios:\n«Líbralo de la muerte,\npues he encontrado su rescate»,",
+					"number": 24,
+					"id": "28bb0719-5419-4a65-b2ad-e8fa09e1fac0"
+				},
+				{
+					"verse": "entonces su cuerpo recobrará la salud\ny volverá a ser como en su juventud.",
+					"number": 25,
+					"id": "bf04c01b-6fc6-48c3-8ec1-c7c97c460c45"
+				},
+				{
+					"verse": "Hará súplicas a Dios, y él lo atenderá;\ncon alegría verá a Dios cara a cara,\ny cantará a los hombres la bondad de Dios.",
+					"number": 26,
+					"id": "89371f12-0a6b-4e52-a6d6-f620907b64a2"
+				},
+				{
+					"verse": "Dirá: «Pequé, cometí injusticias,\npero Dios no quiso castigarme;",
+					"number": 27,
+					"id": "88edb708-0dbc-4bfa-bd6a-269b424fbf9a"
+				},
+				{
+					"verse": "por el contrario, me salvó de la muerte\ny todavía puedo ver la luz.»",
+					"number": 28,
+					"id": "093e7ab1-f88f-4a51-9824-069ae41b1824"
+				},
+				{
+					"verse": "Así trata Dios al hombre\nuna y otra vez;",
+					"number": 29,
+					"id": "f7c0a5f8-c782-4a43-91e7-593ed7ff3d8f"
+				},
+				{
+					"verse": "lo salva de la muerte,\nlo deja seguir viendo la luz.",
+					"number": 30,
+					"id": "191aa25e-23a6-4a41-b99c-9d990dffa7e4"
+				},
+				{
+					"verse": "Escúchame, Job, con atención;\nguarda silencio mientras hablo.",
+					"number": 31,
+					"id": "bdbdab55-8443-41e9-a7dd-0444957e1ee7"
+				},
+				{
+					"verse": "Si tienes algo que decir, respóndeme;\nsi tienes razón, lo admitiré con gusto;",
+					"number": 32,
+					"id": "02d076c3-a6d4-44ec-9e89-3231aaaebace"
+				},
+				{
+					"verse": "pero si no, escúchame en silencio,\ny yo te enseñaré a ser sabio.",
+					"number": 33,
+					"id": "55e34502-a658-4115-b9cd-7747f21e7be3"
+				}
+			]
+		},
+		{
+			"chapter": "34",
+			"vers": [
+				{
+					"verse": "Elihú",
+					"number": 1,
+					"study": "Eliú justifica a Dios",
+					"id": "df1c8228-bc6f-4cbe-8eee-ad9dc12febcb"
+				},
+				{
+					"verse": "Ustedes, sabios e instruidos,\nescuchen mis palabras.",
+					"number": 2,
+					"id": "ee4859be-1550-4803-8a01-0b1bc3d43706"
+				},
+				{
+					"verse": "El oído distingue las palabras,\nigual que el paladar reconoce los sabores.",
+					"number": 3,
+					"id": "97547e37-d19c-4281-bb3c-5e5be0a9712c"
+				},
+				{
+					"verse": "Así también, examinemos nosotros el caso\ny decidamos lo que nos parezca mejor.",
+					"number": 4,
+					"id": "a798c1bd-6167-4e8a-8377-09252c2c6059"
+				},
+				{
+					"verse": "Job afirma: «Yo soy inocente,\npero Dios se niega a hacerme justicia.",
+					"number": 5,
+					"id": "c63cc539-edba-418f-9c08-44bc50fa6b1c"
+				},
+				{
+					"verse": "Sería una mentira el admitir que soy culpable;\nmi herida no sana, aun cuando no he pecado.»",
+					"number": 6,
+					"id": "e8c6ef6a-4fa6-47ff-9cce-7d9dfe590c9f"
+				},
+				{
+					"verse": "¡No hay nadie como Job!\nSe burla de Dios como quien bebe agua;",
+					"number": 7,
+					"id": "94871376-ee2a-461b-aff6-256cf384b8a8"
+				},
+				{
+					"verse": "le gusta juntarse con los malvados,\nandar con la gente mala.",
+					"number": 8,
+					"id": "f3501239-bf98-467c-8126-4768f1a36a03"
+				},
+				{
+					"verse": "Dice que nada gana el hombre\ncon tratar de agradar a Dios.",
+					"number": 9,
+					"id": "798cdfd6-b07c-4ee9-9557-516321d7f7b5"
+				},
+				{
+					"verse": "Pero ustedes, gente sensata, escúchenme.\n¡Ni pensar que Dios, el Todopoderoso,\nhaga el mal o cometa injusticias!",
+					"number": 10,
+					"id": "accd969c-8ca9-4615-966c-70d8ec4815eb"
+				},
+				{
+					"verse": "Él paga a cada uno según sus obras;\nhace que cada cual reciba lo que merece.",
+					"number": 11,
+					"id": "4a7805b9-39c7-407a-b093-445ecb7ecbec"
+				},
+				{
+					"verse": "En verdad, Dios, el Todopoderoso,\nno hace nada malo ni injusto;",
+					"number": 12,
+					"id": "eea98027-06dd-4899-8862-fb94bb828509"
+				},
+				{
+					"verse": "de nadie recibió el poder\npara gobernar al mundo entero.",
+					"number": 13,
+					"id": "996efafb-b246-4928-b37a-0a3e21625378"
+				},
+				{
+					"verse": "Si les quita a los hombres\nel aliento de vida,\ntodos ellos mueren por igual\ny otra vez vuelven al polvo.",
+					"number": 14,
+					"id": "8507f7aa-e89f-4cf3-a9cc-c610af10cd7e"
+				},
+				{
+					"verse": "Si tú eres sensato, escúchame;\npon atención a mis palabras.",
+					"number": 15,
+					"id": "4af2192b-005b-4645-8579-e13fb16cfd25"
+				},
+				{
+					"verse": "Si Dios odiara la justicia, no podría gobernar.\n¿Cómo puedes condenar a quien es inmensamente justo?",
+					"number": 16,
+					"id": "7a9e6845-edda-437f-968c-d8567dca6d5a"
+				},
+				{
+					"verse": "Si los reyes y los nobles son malvados,\nDios no duda en echárselo en cara.",
+					"number": 17,
+					"id": "349e63a5-7b60-4576-a915-39c9ac54f130"
+				},
+				{
+					"verse": "Él no se pone de parte de los gobernantes,\nni favorece más a los ricos que a los pobres,\npues él fue quien los hizo a todos.",
+					"number": 18,
+					"id": "563f556c-56e9-4d50-a196-2ce22a48d0bf"
+				},
+				{
+					"verse": "Los hombres mueren en un instante,\nen medio de la noche;\nla gente se alborota y desaparece;\nel poderoso es eliminado sin esfuerzo humano.",
+					"number": 19,
+					"id": "00290b3b-0cd3-4983-8c5c-9525b2dd72dd"
+				},
+				{
+					"verse": "Dios vigila los pasos del hombre\ny conoce todas sus andanzas.",
+					"number": 20,
+					"id": "0800343c-64b1-4212-9150-8d7d01516d19"
+				},
+				{
+					"verse": "No hay tinieblas tan oscuras\nque puedan ocultar a un malhechor.",
+					"number": 21,
+					"id": "6d90d0d1-f928-432e-9581-e7791e1358ce"
+				},
+				{
+					"verse": "Dios no fija un plazo al hombre\npara que se presente ante él a juicio.",
+					"number": 22,
+					"id": "c16d5f11-e9c1-481c-9a30-21c8f039175b"
+				},
+				{
+					"verse": "No necesita investigar\npara derribar a los grandes\ny dar a otros su lugar.",
+					"number": 23,
+					"id": "99381323-abb1-474a-acc4-daf5daf99d7c"
+				},
+				{
+					"verse": "Dios conoce lo que hacen,\nllega de noche y los destroza.",
+					"number": 24,
+					"id": "199f6a08-0909-408b-8e33-fe2e1c5b6f4b"
+				},
+				{
+					"verse": "Los azota como a criminales,\na la vista de todos,",
+					"number": 25,
+					"id": "2f2dc923-5bc7-4378-aed9-293ea4ac1228"
+				},
+				{
+					"verse": "porque no quisieron obedecerle\nni aceptar sus normas de conducta.",
+					"number": 26,
+					"id": "07054b45-9344-438c-9cca-8545d7f136e9"
+				},
+				{
+					"verse": "Hicieron que los gritos de los pobres y oprimidos\nllegaran hasta Dios, y él los escuchó.",
+					"number": 27,
+					"id": "927ca58e-144d-409c-9419-230df0a7a035"
+				},
+				{
+					"verse": "Pero si Dios calla, ¿quién podrá condenarlo?\nSi oculta su rostro, ¿quién podrá verlo?\nÉl vigila a pueblos e individuos",
+					"number": 28,
+					"id": "1f8cc930-0500-4a3b-95d8-af76136cc990"
+				},
+				{
+					"verse": "para que no gobierne al pueblo\nun malvado que lo engañe.",
+					"number": 29,
+					"id": "97d2f779-7abc-4ea3-a3f9-57f20ef2c3c3"
+				},
+				{
+					"verse": "¿Acaso le has dicho a Dios:\n«Me dejé engañar; no volveré a pecar.",
+					"number": 30,
+					"id": "14de0d8e-93e5-4055-839b-fb249895a356"
+				},
+				{
+					"verse": "Muéstrame las faltas que yo no veo.\nSi he actuado mal, no lo volveré a hacer»?",
+					"number": 31,
+					"id": "9356fa48-8e30-4e45-b8fb-b0cf1d01dbe4"
+				},
+				{
+					"verse": "¿Acaso quieres que Dios te recompense\ncomo mejor te parezca,\naunque tú lo hayas rechazado?\nYa que eres tú quien decide, y no yo,\ndinos lo que sabes.",
+					"number": 32,
+					"id": "32431f51-5aff-408f-a772-c3f642fbb362"
+				},
+				{
+					"verse": "Los hombres sabios que me escuchan,\ny las personas sensatas, me dirán:",
+					"number": 33,
+					"id": "a5cfa4d3-4295-434c-bb23-510065ac5509"
+				},
+				{
+					"verse": "«Job está hablando sin saber;\nsus palabras no tienen sentido.",
+					"number": 34,
+					"id": "6ec2aad8-a626-4999-9d3a-46ab52bfd0b5"
+				},
+				{
+					"verse": "¡Que se examine a fondo a Job,\npues sus respuestas son las de un malvado!",
+					"number": 35,
+					"id": "3274b5ba-1083-44f8-8361-f2c18802ab6c"
+				},
+				{
+					"verse": "Job no sólo es pecador, sino rebelde;\ndelante de nosotros se burla de Dios\ny se pone a discutir con él.»",
+					"number": 36,
+					"id": "342383d3-1e0a-41a7-a263-02d032ccbcbd"
+				}
+			]
+		},
+		{
+			"chapter": "35",
+			"vers": [
+				{
+					"verse": "Elihú",
+					"number": 1,
+					"id": "5a92ec2b-190b-4aca-9375-f9a37ff5d2eb"
+				},
+				{
+					"verse": "¿Te parece justo, Job, afirmar\nque Dios debe darte la razón?",
+					"number": 2,
+					"id": "3afc4aee-91f9-48c1-ad77-863c853854f2"
+				},
+				{
+					"verse": "Pues le has dicho a Dios:\n«¿Qué te importa si yo peco?\n¿En que te perjudica mi pecado?»",
+					"number": 3,
+					"id": "95698c96-b575-425c-a60b-1c73557d9e18"
+				},
+				{
+					"verse": "Pues yo te voy a responder\na ti, y también a tus amigos.",
+					"number": 4,
+					"id": "f9eab838-9854-45ac-9f71-0269cd8030a3"
+				},
+				{
+					"verse": "Fíjate en el cielo,\ny mira qué altas están las nubes sobre ti.",
+					"number": 5,
+					"id": "43e14c38-5e32-43f2-93d3-ab95c6a2b360"
+				},
+				{
+					"verse": "Si pecas, eso no afecta a Dios;\npor muchos pecados que cometas, no le haces nada.",
+					"number": 6,
+					"id": "36a262a4-7015-4f5d-b82e-916f5e5b4db0"
+				},
+				{
+					"verse": "Y si actúas bien, nada le das;\nno le haces ningún beneficio.",
+					"number": 7,
+					"id": "54286864-14ca-4ce2-b18f-c216f70c54b6"
+				},
+				{
+					"verse": "Es a los hombres como tú a quienes afecta tu pecado\ny a quienes benefician tus buenas acciones.",
+					"number": 8,
+					"id": "1447567a-ca0d-4467-8837-72294d315f07"
+				},
+				{
+					"verse": "Bajo el peso de la opresión, los hombres gritan\ny buscan quien los salve de los poderosos;",
+					"number": 9,
+					"id": "c784a67a-d79a-41fa-9baa-f0fa011b5b24"
+				},
+				{
+					"verse": "pero no buscan al Dios que los creó,\nal que da fuerzas en las horas más oscuras,",
+					"number": 10,
+					"id": "5cd16e38-c4db-4d41-8c4e-49ca94683367"
+				},
+				{
+					"verse": "al que nos instruye y nos enseña\npor medio de los animales y las aves.",
+					"number": 11,
+					"id": "995db1f9-c342-4181-9f88-4a9036368ad4"
+				},
+				{
+					"verse": "Gritan, pero Dios no les contesta,\nporque son hombres malos y orgullosos.",
+					"number": 12,
+					"id": "c837b204-bfb1-4eb0-9239-3bb89b535936"
+				},
+				{
+					"verse": "Dios, el Todopoderoso,\nno hace caso a las falsedades.",
+					"number": 13,
+					"id": "de7de205-94f0-435d-bcd6-18b414cef6f2"
+				},
+				{
+					"verse": "Aun cuando dices que no ves a Dios,\nespéralo, pues tu caso está en su presencia.",
+					"number": 14,
+					"id": "eded4750-a07e-4528-b14f-d41ec6d9a3c2"
+				},
+				{
+					"verse": "Dices que él no se enoja ni castiga,\nque no presta mucha atención al pecado.",
+					"number": 15,
+					"id": "b12549a4-e29b-4928-a5d2-23f43cc2c33f"
+				},
+				{
+					"verse": "¡Pero, Job, estás diciendo cosas sin sentido,\nestás hablando mucho y sin inteligencia!",
+					"number": 16,
+					"id": "7e1a3a03-d2e5-45a6-b6cd-b45c5cfb6af4"
+				}
+			]
+		},
+		{
+			"chapter": "36",
+			"vers": [
+				{
+					"verse": "Elihú",
+					"number": 1,
+					"study": "Eliú exalta la grandeza de Dios",
+					"id": "036019db-4058-47fc-a23d-5b4eb68b0e30"
+				},
+				{
+					"verse": "Ten un poco de paciencia, y te instruiré,\npues aún tengo argumentos a favor de Dios.",
+					"number": 2,
+					"id": "62ac29c0-832c-42a7-ac89-10ed697863fc"
+				},
+				{
+					"verse": "Usaré mis amplios conocimientos\npara mostrar que mi Creador tiene razón.",
+					"number": 3,
+					"id": "a22053fa-2559-40da-b04c-39530eced237"
+				},
+				{
+					"verse": "Te aseguro que no diré nada falso;\ntienes delante a un sabio consumado.",
+					"number": 4,
+					"id": "d85cf626-9d3c-4d00-aa22-9797747e2f16"
+				},
+				{
+					"verse": "Dios es poderoso e inmensamente sabio,\ny no desprecia al inocente.",
+					"number": 5,
+					"id": "6964450f-d47e-453f-a6bb-26f3d106d65b"
+				},
+				{
+					"verse": "No perdona la vida al malvado,\npero hace justicia a los pobres;",
+					"number": 6,
+					"id": "5de6467b-8d92-4369-8ab0-f459483519b3"
+				},
+				{
+					"verse": "siempre protege a los hombres rectos;\nafirma a los reyes en sus tronos,\ny los mantiene en alta posición.",
+					"number": 7,
+					"id": "7d26497d-8d09-4673-8fbb-34a3a6debf05"
+				},
+				{
+					"verse": "Pero si son sujetados con cadenas\ny el dolor los atormenta,",
+					"number": 8,
+					"id": "f54d4069-e52e-49e0-8030-144ea815041e"
+				},
+				{
+					"verse": "Dios les hace ver el mal que cometieron\ny cómo se dejaron llevar por el orgullo.",
+					"number": 9,
+					"id": "1314e997-399b-452d-b332-55fe1718c77a"
+				},
+				{
+					"verse": "Les habla para corregirlos\ny pedirles que dejen su maldad.",
+					"number": 10,
+					"id": "a790fba7-a231-4280-9b3b-aff6c544c8c7"
+				},
+				{
+					"verse": "Si le hacen caso y se someten,\ngozan de dicha y felicidad\npor el resto de sus días.",
+					"number": 11,
+					"id": "273fc079-ce58-4086-ba71-03666841615d"
+				},
+				{
+					"verse": "Pero si no hacen caso,\nmueren y bajan al sepulcro\nantes de que puedan darse cuenta.",
+					"number": 12,
+					"id": "689d1b36-504d-4e50-a78f-b8418796e09f"
+				},
+				{
+					"verse": "Los impíos se llenan de furor,\ny ni aun estando presos piden ayuda.",
+					"number": 13,
+					"id": "4d84e0b1-099c-40fb-8fb8-80791e374198"
+				},
+				{
+					"verse": "Mueren en plena juventud;\nsu vida termina en forma vergonzosa.",
+					"number": 14,
+					"id": "f2e7bbbe-06ea-48cd-9097-0b41a4d3cf1c"
+				},
+				{
+					"verse": "Por medio del sufrimiento, Dios salva al que sufre;\npor medio del dolor lo hace entender.",
+					"number": 15,
+					"id": "5c1427ba-4f61-41ae-abc9-439ce5f19d71"
+				},
+				{
+					"verse": "A ti también te libró de los peligros,\ny te dio abundancia y libertad;\nllenó tu mesa de comidas deliciosas.",
+					"number": 16,
+					"id": "c0520a45-873a-4027-8cf2-10defc646bd9"
+				},
+				{
+					"verse": "En ti se cumple la sentencia del malvado,\ny no podrás evitar que se te juzgue y condene.",
+					"number": 17,
+					"id": "997e7d25-beb8-4d89-bc1b-b049e215ebae"
+				},
+				{
+					"verse": "Cuida de no dejarte sobornar,\nde no dejarte seducir por el mucho dinero.",
+					"number": 18,
+					"id": "772a7bd4-4adb-476e-b017-d5195aa9c4a3"
+				},
+				{
+					"verse": "En la angustia no te servirán de nada\ntus gritos ni todo tu poder.",
+					"number": 19,
+					"id": "6252af0d-e008-453c-b404-ce49b2deb729"
+				},
+				{
+					"verse": "No suspires por que llegue la noche,\ncuando los pueblos desaparecen.",
+					"number": 20,
+					"id": "97cf63a9-1f5b-4564-95a0-0c2db45ce26a"
+				},
+				{
+					"verse": "Cuida de no volver a la maldad,\ntú que fuiste probado por el sufrimiento.",
+					"number": 21,
+					"id": "4afd7a54-0c7c-4619-80c4-aad41de33664"
+				},
+				{
+					"verse": "Fíjate en el gran poder de Dios.\nNingún maestro es comparable a él;",
+					"number": 22,
+					"id": "780a2952-0602-4c35-804b-c49df474267e"
+				},
+				{
+					"verse": "nadie puede decirle lo que tiene que hacer,\nni echarle en cara el haber hecho mal.",
+					"number": 23,
+					"id": "9b01a289-2b12-4d77-b3dc-8570173d90ee"
+				},
+				{
+					"verse": "Todo el mundo alaba sus obras;\nacuérdate también tú de alabarlas.",
+					"number": 24,
+					"id": "4a8aad1e-5e91-4cc0-ad55-b68d9f5929a2"
+				},
+				{
+					"verse": "Todo hombre puede verlas,\naunque sea de lejos.",
+					"number": 25,
+					"id": "00c94215-a525-4d3d-8726-aac90d82b4b3"
+				},
+				{
+					"verse": "Dios es tan grande, que no podemos comprenderlo;\ntampoco podemos contar sus años.",
+					"number": 26,
+					"id": "37fd884f-be40-4005-a930-b8526476b1a7"
+				},
+				{
+					"verse": "Él recoge en un depósito las gotas de agua,\ny luego las convierte en lluvia.",
+					"number": 27,
+					"id": "9a99d206-6799-4874-bde1-941a62e75152"
+				},
+				{
+					"verse": "La lluvia chorrea de las nubes\ny cae en aguaceros sobre la gente.",
+					"number": 28,
+					"id": "916f3c08-0ccc-4057-ab7e-86c55d926d8f"
+				},
+				{
+					"verse": "¿Quién entiende por qué avanzan las nubes,\no por qué resuena el trueno en el cielo?",
+					"number": 29,
+					"id": "8ddf41c2-f7dd-4193-8ad7-4bae75cbf649"
+				},
+				{
+					"verse": "Dios extiende el relámpago sobre el mar,\ndejando oculto el fondo del océano.",
+					"number": 30,
+					"id": "c1c88caa-98fe-4086-9542-939df609c58e"
+				},
+				{
+					"verse": "Así alimenta a los pueblos\ny les da comida en abundancia.",
+					"number": 31,
+					"id": "ddac79b9-6a75-44ed-b5b8-bb932473382e"
+				},
+				{
+					"verse": "Sujeta el rayo entre sus manos,\ny éste da en el blanco, tal como él lo ordena.",
+					"number": 32,
+					"id": "d389529e-992a-42d1-b30d-2f04f8c06dd6"
+				},
+				{
+					"verse": "El trueno anuncia a Dios,\nla tempestad proclama su ira.",
+					"number": 33,
+					"id": "a1cfe171-61e6-4b43-8fcb-abe01d126fe2"
+				}
+			]
+		},
+		{
+			"chapter": "37",
+			"vers": [
+				{
+					"verse": "Al ver la tempestad, mi corazón palpita\ncomo si fuera a salírseme del pecho.",
+					"number": 1,
+					"id": "0120873e-e036-4074-b991-0b1062b86f46"
+				},
+				{
+					"verse": "Escuchen el estruendo de la voz de Dios,\nel trueno que sale de su boca.",
+					"number": 2,
+					"id": "00bad3ac-1b9c-4bb1-814f-0cbfde7167a7"
+				},
+				{
+					"verse": "Él lanza el relámpago por todo el cielo\ny de un extremo a otro de la tierra.",
+					"number": 3,
+					"id": "9b78832f-fadd-49fb-8574-01b57be37d86"
+				},
+				{
+					"verse": "Luego se oye un estruendo,\ncuando hace resonar su voz majestuosa;\ny mientras se oye el trueno,\nlos relámpagos no cesan.",
+					"number": 4,
+					"id": "a19b1b53-a444-49f7-a201-097d96a87611"
+				},
+				{
+					"verse": "Cuando Dios hace tronar su voz,\nse producen maravillas;\nsuceden grandes cosas que nadie puede comprender.",
+					"number": 5,
+					"id": "f60f46ca-7771-4749-bfc4-7e635c4a3755"
+				},
+				{
+					"verse": "Ordena a la nieve caer sobre la tierra\ny hace que la lluvia caiga con violencia.",
+					"number": 6,
+					"id": "6ba2ae7d-8b6f-4bc4-9a03-1460a10f3d97"
+				},
+				{
+					"verse": "Hace que los hombres se queden en sus casas,\ny que todos reconozcan que él es quien actúa.",
+					"number": 7,
+					"id": "c65f87d5-1c82-43d3-8512-256f5410bae1"
+				},
+				{
+					"verse": "Los animales entran en sus cuevas,\ny allí se quedan escondidos.",
+					"number": 8,
+					"id": "530fde44-6730-4a67-9ab1-b9ddc3887dea"
+				},
+				{
+					"verse": "Del sur viene el huracán,\ny del norte viene el frío.",
+					"number": 9,
+					"id": "eec9f118-4bc0-4e00-a621-ce5563488753"
+				},
+				{
+					"verse": "Por el soplo de Dios se forma el hielo\ny las aguas extensas se congelan.",
+					"number": 10,
+					"id": "5ad17901-49be-40ed-8fde-36b296c2f3e2"
+				},
+				{
+					"verse": "Él carga de humedad las nubes,\ny hace que de ellas surja el rayo;",
+					"number": 11,
+					"id": "f1c1f84e-f63f-4216-ab1e-7c75a9a4d86e"
+				},
+				{
+					"verse": "y el rayo va, zigzagueando por el cielo,\ncumpliendo así las órdenes de Dios\nen toda la superficie de la tierra.",
+					"number": 12,
+					"id": "47ca7b51-b13e-4a55-8aed-58b6111af262"
+				},
+				{
+					"verse": "De todo ello se vale Dios para castigar a la tierra\no para mostrarle su bondad.",
+					"number": 13,
+					"id": "e00a9202-1d7c-4eee-9c83-d4d21e5fec69"
+				},
+				{
+					"verse": "Job, ten paciencia y escucha,\nconsidera las cosas admirables que hace Dios.",
+					"number": 14,
+					"id": "b5a189d8-4b77-4c47-ab26-84f432dda0ef"
+				},
+				{
+					"verse": "¿Sabes tú cómo Dios dispone todo esto,\ny cómo brilla el relámpago en la nube?",
+					"number": 15,
+					"id": "8e7703dc-650f-434f-a919-2cb22e3ee487"
+				},
+				{
+					"verse": "¿Sabes tú cómo flotan las nubes en el aire,\nprueba admirable de su perfecta inteligencia?",
+					"number": 16,
+					"id": "57bdb1f7-f738-4712-b87a-20042e1ef363"
+				},
+				{
+					"verse": "Tú te sofocas de calor entre tu ropa\ncuando el viento del sur adormece la tierra.",
+					"number": 17,
+					"id": "f4ea8fc4-1922-4b3f-b4a2-5da56b3132de"
+				},
+				{
+					"verse": "¿Puedes tú ayudar a Dios a extender el cielo\ny dejarlo firme como una hoja de metal?",
+					"number": 18,
+					"id": "4b5abbd8-5862-425c-a5c9-0c01f2d93d51"
+				},
+				{
+					"verse": "Enséñanos qué debemos decirle a Dios,\npues estamos a oscuras y sin argumentos.",
+					"number": 19,
+					"id": "a863689a-865f-44cb-a090-67ff068e5f3d"
+				},
+				{
+					"verse": "Yo ni siquiera le diría que quiero hablar,\npues sería como querer que me destruya.",
+					"number": 20,
+					"id": "20a60726-f9ab-4137-8914-c037fe20a25a"
+				},
+				{
+					"verse": "No es posible ver la luz del sol\ncuando las nubes lo ocultan;\npero si el viento sopla, el cielo se aclara.",
+					"number": 21,
+					"id": "32260776-e510-46b1-b5b0-3c8863db0680"
+				},
+				{
+					"verse": "Resplandores de oro aparecen por el norte,\ncuando Dios se rodea de terrible majestad.",
+					"number": 22,
+					"id": "d8308170-4108-4af0-833a-5516ec11bc96"
+				},
+				{
+					"verse": "No podemos comprender al Todopoderoso,\npues él es inmensamente fuerte y justo;\nes recto y no oprime a nadie.",
+					"number": 23,
+					"id": "09904583-a48a-45ca-89ac-5d187ff85f77"
+				},
+				{
+					"verse": "Por eso los hombres le temen;\nnada significan los sabios para él.",
+					"number": 24,
+					"id": "06d17146-58d0-449c-8bdc-ccfd599fc1cc"
+				}
+			]
+		},
+		{
+			"chapter": "38",
+			"vers": [
+				{
+					"verse": "Entonces el Señor le habló a Job de en medio de la tempestad.\nEl Señor",
+					"number": 1,
+					"study": "Jehová convence a Job de su ignorancia",
+					"id": "a1614ab9-2c13-4b14-82fb-45ef0b1e4588"
+				},
+				{
+					"verse": "¿Quién eres tú para dudar de mi providencia\ny mostrar con tus palabras tu ignorancia?",
+					"number": 2,
+					"id": "9bfd269c-cd47-4acc-a392-a7df3a59ffa3"
+				},
+				{
+					"verse": "Muéstrame ahora tu valentía,\ny respóndeme a estas preguntas:",
+					"number": 3,
+					"id": "60379637-fc9d-49f6-9c37-22930f7890d5"
+				},
+				{
+					"verse": "¿Dónde estabas cuando yo afirmé la tierra?\n¡Dímelo, si de veras sabes tanto!",
+					"number": 4,
+					"id": "a5f0b0f5-2bcc-4015-85ae-9fe565f78a63"
+				},
+				{
+					"verse": "¿Sabes quién decidió cuánto habría de medir,\ny quién fue el arquitecto que la hizo?",
+					"number": 5,
+					"id": "d1302986-ba53-42ec-987b-e8e7a6b8290b"
+				},
+				{
+					"verse": "¿Sobre qué descansan sus cimientos?\n¿Quién le puso la piedra principal de apoyo,",
+					"number": 6,
+					"id": "4b3351a9-da2e-414f-8022-9404a6e14ec6"
+				},
+				{
+					"verse": "mientras cantaban a coro las estrellas de la aurora\nentre la alegría de mis servidores celestiales?",
+					"number": 7,
+					"id": "b8d2736f-8558-4a8a-860f-427e3270cf84"
+				},
+				{
+					"verse": "Cuando el mar brotó del seno de la tierra,\n¿quién le puso compuertas para contenerlo?",
+					"number": 8,
+					"id": "4ee5ce15-7bd2-4369-9013-3ea51c5182c7"
+				},
+				{
+					"verse": "Yo le di una nube por vestido\ny la niebla por pañales.",
+					"number": 9,
+					"id": "3ca855cb-aacb-4473-8f1b-5592697a47a9"
+				},
+				{
+					"verse": "Yo le puse un límite al mar\ny cerré con llave sus compuertas.",
+					"number": 10,
+					"id": "8c27a7d4-5fc5-4218-b49b-1ca8fe555b95"
+				},
+				{
+					"verse": "Y le dije: «Llegarás hasta aquí,\ny de aquí no pasarás;\naquí se romperán tus olas arrogantes.»",
+					"number": 11,
+					"id": "225b3ea5-4c58-4a30-b13a-3626de278d60"
+				},
+				{
+					"verse": "¿Alguna vez en tu vida has dado órdenes\nde que salga la aurora y amanezca el día?",
+					"number": 12,
+					"id": "d8b7b9cc-f075-4497-9664-90e2d3838dcf"
+				},
+				{
+					"verse": "¿Y de que la luz se difunda por la tierra\ny los malvados vayan a esconderse?",
+					"number": 13,
+					"id": "ca3f029c-4131-46d2-a31b-f49a054691a6"
+				},
+				{
+					"verse": "Entonces aparecen los relieves de la tierra y se tiñen de color como un vestido;",
+					"number": 14,
+					"id": "9c16e34b-c060-4295-a8b4-c2874c7794ea"
+				},
+				{
+					"verse": "se les niega la luz a los malvados\ny se pone fin a su amenaza.",
+					"number": 15,
+					"id": "2a3bf66d-a67a-4ba2-a9e4-976671d5f43d"
+				},
+				{
+					"verse": "¿Has visitado el misterioso abismo\ndonde tiene sus fuentes el océano?",
+					"number": 16,
+					"id": "a22e2d4a-ff82-478d-ba68-fad4132249d1"
+				},
+				{
+					"verse": "¿Has visto dónde están las puertas\ndel tenebroso reino de la muerte?",
+					"number": 17,
+					"id": "a0f8901c-6c8b-47ae-bd66-bb23503993b5"
+				},
+				{
+					"verse": "¿Tienes idea de la anchura de la tierra?\n¡Dímelo, si en verdad lo sabes todo!",
+					"number": 18,
+					"id": "90f949c4-7271-478a-b952-bba0bcf48f24"
+				},
+				{
+					"verse": "¿En dónde están guardadas\nla luz y las tinieblas?",
+					"number": 19,
+					"id": "4da632e8-005f-4dd4-b609-d0dea9b15f32"
+				},
+				{
+					"verse": "¿Sabes hacerlas llegar hasta el último rincón\ny que luego regresen a su casa?",
+					"number": 20,
+					"id": "71354bb8-b687-4f17-9a36-eea8a9209e65"
+				},
+				{
+					"verse": "¡Debes de saberlo, pues tienes tantos años\nque para entonces ya habrías nacido!",
+					"number": 21,
+					"id": "eb5c1001-f07f-4439-9e72-f00caf264eb2"
+				},
+				{
+					"verse": "¿Has visitado los depósitos\ndonde guardo la nieve y el granizo",
+					"number": 22,
+					"id": "303571f4-0d64-4099-8a0d-a860d830f86a"
+				},
+				{
+					"verse": "para enviarlos en tiempos de desgracia,\nen tiempos de batallas y de guerra?",
+					"number": 23,
+					"id": "3560a78f-0a0a-4556-aa62-a82b3080a5f1"
+				},
+				{
+					"verse": "¿Qué caminos sigue la luz al repartirse?\n¿Cómo se extiende el viento del este sobre el mundo?",
+					"number": 24,
+					"id": "b12a9cd3-2104-44c7-96e5-865b026da384"
+				},
+				{
+					"verse": "¿Quién abre una salida al aguacero\ny señala el camino a la tormenta,",
+					"number": 25,
+					"id": "8e3f996f-265a-42a8-854d-218594a1ae37"
+				},
+				{
+					"verse": "para que llueva en el desierto,\nen lugares donde nadie vive,",
+					"number": 26,
+					"id": "e92e803a-6261-4a39-bf4f-2536655bc420"
+				},
+				{
+					"verse": "para que riegue la tierra desolada\ny haga brotar la hierba?",
+					"number": 27,
+					"id": "03bc121d-523a-4dc8-9c0a-953346613925"
+				},
+				{
+					"verse": "¿Quién es el padre de la lluvia y del rocío?",
+					"number": 28,
+					"id": "9cb1e585-9b8b-4d88-9103-1c86d32f2fcf"
+				},
+				{
+					"verse": "¿Quién es la madre del hielo y de la escarcha?",
+					"number": 29,
+					"id": "fedd66fa-76f1-4312-866b-5c0afc5b08ce"
+				},
+				{
+					"verse": "¿Quién vuelve el agua dura como la piedra\ny congela la superficie del océano?",
+					"number": 30,
+					"id": "1535ca5d-f025-47d2-9d36-cdbe991134dd"
+				},
+				{
+					"verse": "¿Eres tú quien mantiene juntas a las Pléyades\ny separadas las estrellas de Orión?",
+					"number": 31,
+					"id": "f6b207aa-6105-4be0-a9c9-17bbe54e6e1f"
+				},
+				{
+					"verse": "¿Eres tú quien saca a su hora al lucero de la mañana?\n¿Eres tú quien guía a las estrellas\nde la Osa Mayor y de la Osa Menor?",
+					"number": 32,
+					"id": "b0dbb716-19f4-40b8-ae7c-6710dfdd4978"
+				},
+				{
+					"verse": "¿Conoces tú las leyes que gobiernan el cielo?\n¿Eres tú quien aplica esas leyes en la tierra?",
+					"number": 33,
+					"id": "2febfe72-622c-42c3-9154-4aedd1fb026f"
+				},
+				{
+					"verse": "¿Puedes dar órdenes a las nubes\nde que te inunden con agua?",
+					"number": 34,
+					"id": "bcac7d55-a3c8-4e9b-a429-3fcb5f3b8442"
+				},
+				{
+					"verse": "Si mandas al rayo que vaya a alguna parte,\n¿acaso te responde: «Aquí estoy, a tus órdenes»?",
+					"number": 35,
+					"id": "a3fdd40e-2ce9-4025-a25c-30037ba64068"
+				},
+				{
+					"verse": "¿Quién dio instinto inteligente\na aves como el ibis o el gallo?",
+					"number": 36,
+					"id": "c8947359-0ea5-4078-b013-f42f78d470c0"
+				},
+				{
+					"verse": "¿Quién es tan sabio que sepa cuántas nubes hay?\n¿Quién puede vaciarlas para que den su lluvia,",
+					"number": 37,
+					"id": "0757fb2f-e6ed-4568-b139-b069dade48e8"
+				},
+				{
+					"verse": "para que el polvo se convierta en barro\ny se peguen los terrones entre sí?",
+					"number": 38,
+					"id": "0ba068fd-0d5b-4579-a3c9-82b75c1b81c3"
+				},
+				{
+					"verse": "¿Eres tú quien busca presa para las leonas,\npara que coman sus cachorros hasta llenarse,",
+					"number": 39,
+					"id": "055b7c4c-f270-46e1-ab3f-a54bc485a3d4"
+				},
+				{
+					"verse": "cuando se esconden en su guarida\no se ponen al acecho en la maleza?",
+					"number": 40,
+					"id": "20b9cd4d-8305-4ab1-a4c6-168ee88ce016"
+				},
+				{
+					"verse": "¿Quién da de comer a los cuervos,\ncuando sus crías andan buscando comida\ny con grandes chillidos me la piden?",
+					"number": 41,
+					"id": "a4e1c5c8-6755-412e-a88d-73539f330e8c"
+				}
+			]
+		},
+		{
+			"chapter": "39",
+			"vers": [
+				{
+					"verse": "¿Sabes cuándo dan a luz las cabras monteses?\n¿Has visto parir a las hembras del venado?",
+					"number": 1,
+					"id": "15bc7ef4-5852-4d11-b6ed-73c0797db570"
+				},
+				{
+					"verse": "¿Sabes cuántos meses necesitan\npara que den a luz?",
+					"number": 2,
+					"id": "3a34fd53-4148-425e-8b44-0a20b9c14f5e"
+				},
+				{
+					"verse": "Al dar a luz se encorvan,\ny entonces nacen sus crías.",
+					"number": 3,
+					"id": "57ba8c26-734f-49c7-9a0a-95bbb60b95a8"
+				},
+				{
+					"verse": "Luego éstas se hacen fuertes, crecen en el campo,\ny al fin se van y no regresan.",
+					"number": 4,
+					"id": "d3e5d7a6-7031-4e59-8427-22cd179c269b"
+				},
+				{
+					"verse": "¿Quién dio libertad al asno salvaje?\n¿Quién lo dejó andar suelto?",
+					"number": 5,
+					"id": "81030fb1-1403-4b86-9097-51d60e45393b"
+				},
+				{
+					"verse": "Yo le señalé, como lugar donde vivir,\nel desierto y las llanuras salitrosas.",
+					"number": 6,
+					"id": "ae92cf57-8b87-4e1f-bcf3-3bf1b69dcd22"
+				},
+				{
+					"verse": "No le gusta el ruido de la ciudad,\nni obedece a los gritos del arriero.",
+					"number": 7,
+					"id": "4bab2bbf-3bbd-4774-888b-1099b72cd4f2"
+				},
+				{
+					"verse": "Recorre las lomas en busca de pasto,\nbuscando cualquier hierba verde para comer.",
+					"number": 8,
+					"id": "c6144242-5d77-4d43-8b53-9986d74b601a"
+				},
+				{
+					"verse": "¿Crees que el toro salvaje querrá servirte\ny pasar la noche en tu establo?",
+					"number": 9,
+					"id": "e7e5fc22-829b-4fda-8f93-67ca3bd99509"
+				},
+				{
+					"verse": "¿Podrás atarlo al yugo y obligarlo a arar,\no a ir detrás de ti rastrillando el campo?",
+					"number": 10,
+					"id": "93643dee-1fde-4287-8696-e7889614210e"
+				},
+				{
+					"verse": "¿Podrás confiar en él porque es tan fuerte,\ny dejar que te haga tus trabajos?",
+					"number": 11,
+					"id": "854bfebc-6cac-4bf8-9da5-980376401199"
+				},
+				{
+					"verse": "¿Crees que te servirá para recoger tu cosecha\ny para juntar el grano en tu era?",
+					"number": 12,
+					"id": "0bd2e210-92b4-4138-9413-0f35ae4918bd"
+				},
+				{
+					"verse": "Ahí tienes al avestruz: aletea alegremente,\ncomo si tuviera alas de cigüeña,",
+					"number": 13,
+					"id": "57af74ac-aa72-406b-a523-4a73d3be2535"
+				},
+				{
+					"verse": "y abandona los huevos en la arena\npara que se incuben al calor del sol.",
+					"number": 14,
+					"id": "d7d70e11-8485-4850-9acd-55f062c26ce3"
+				},
+				{
+					"verse": "No piensa que alguien puede aplastarlos,\nque algún animal puede pisotearlos.",
+					"number": 15,
+					"id": "93c15918-acb7-4559-a8e8-1a7537a767d4"
+				},
+				{
+					"verse": "Es cruel con sus crías, como si no fueran suyas,\ny no le importa que resulte inútil su trabajo.",
+					"number": 16,
+					"id": "f05bc7ef-1d44-4369-837b-7080cbedf27f"
+				},
+				{
+					"verse": "Es que yo no le di inteligencia;\nle negué el buen sentido.",
+					"number": 17,
+					"id": "8834b0a3-80e2-4dab-b328-dbf9e88b4bfa"
+				},
+				{
+					"verse": "Pero cuando se levanta y echa a correr,\nse ríe de caballos y jinetes.",
+					"number": 18,
+					"id": "4a3fb0a4-bf77-48ae-afd8-be5a892ab56b"
+				},
+				{
+					"verse": "¿Acaso fuiste tú quien dio fuerza al caballo,\nquien adornó su cuello con la crin?",
+					"number": 19,
+					"id": "5fe5666b-857a-4ce9-a0bb-a58c970a81fd"
+				},
+				{
+					"verse": "¿Acaso tú lo haces saltar como langosta,\ncon ese soberbio resoplido que impone terror?",
+					"number": 20,
+					"id": "aae7c819-726e-4f33-97d0-2717a164d8b9"
+				},
+				{
+					"verse": "Escarba arrogante en la llanura,\ny sin temor se lanza a la batalla.",
+					"number": 21,
+					"id": "1ff5ec58-94cb-468e-a47b-3f1751622ac3"
+				},
+				{
+					"verse": "Se ríe del terror y no se asusta,\nni se acobarda ante la espada,",
+					"number": 22,
+					"id": "cbd5cf30-7f21-4014-bc9d-95b3cfdffa14"
+				},
+				{
+					"verse": "por más que resuene la aljaba del jinete\ny lancen chispas las lanzas y las jabalinas.",
+					"number": 23,
+					"id": "06f31de1-ad24-4948-84d1-5a02efa26bf6"
+				},
+				{
+					"verse": "Con ímpetu incontenible devora las distancias;\nsuena la trompeta y ya no puede estarse quieto.",
+					"number": 24,
+					"id": "dc29f243-dd3e-4e23-900e-40990d53fc59"
+				},
+				{
+					"verse": "Contesta con relinchos al toque de trompeta;\ndesde lejos siente el olor de la batalla\ny oye las voces de mando y el griterío.",
+					"number": 25,
+					"id": "1c898c38-b5c4-45f0-bfd6-eb028e115b24"
+				},
+				{
+					"verse": "¿Acaso eres tan sabio que enseñas a volar al halcón,\ny a tender su vuelo hacia el sur?",
+					"number": 26,
+					"id": "83082982-8cd1-453c-82a2-d32b1dd40097"
+				},
+				{
+					"verse": "¿Eres tú quien ha ordenado al águila\nque ponga su nido en las alturas?",
+					"number": 27,
+					"id": "75af3e17-0f07-4a06-8a10-407fda9628c4"
+				},
+				{
+					"verse": "Ella vive día y noche en los peñascos,\nlevanta su fortaleza en un picacho.",
+					"number": 28,
+					"id": "7b0af247-9ea6-4b42-baf4-5f8ac23c303b"
+				},
+				{
+					"verse": "Desde allá arriba mira\ny acecha a su presa.",
+					"number": 29,
+					"id": "9c272323-c8fb-42f9-903a-96958084aedc"
+				},
+				{
+					"verse": "Sus crías se alimentan de sangre,\ny donde hay cadáveres, allí se la encuentra.",
+					"number": 30,
+					"id": "ecf2a78b-6398-4c78-be09-369b326e7140"
+				}
+			]
+		},
+		{
+			"chapter": "40",
+			"vers": [
+				{
+					"verse": "El Señor",
+					"number": 1,
+					"id": "a174fa8e-4c59-41f3-8f01-2c4472d971e0"
+				},
+				{
+					"verse": "Tú, que querías entablarme juicio\na mí, al Todopoderoso,\n¿insistes todavía en responder?\nJob",
+					"number": 2,
+					"id": "59ddc2f5-ee5c-4c0c-b606-c31480226764"
+				},
+				{
+					"verse": "¿Qué puedo responder yo, que soy tan poca cosa?\nPrefiero guardar silencio.",
+					"number": 3,
+					"id": "8dc6031c-0126-4c3b-a738-73ba48785647"
+				},
+				{
+					"verse": "Ya he hablado una y otra vez,\ny no tengo nada que añadir.",
+					"number": 4,
+					"id": "9923ddab-fc27-40fd-a9df-b3e9cc6370f5"
+				},
+				{
+					"verse": "Volvió el Señor a hablarle a Job de en medio de la tempestad.\nEl Señor",
+					"number": 5,
+					"id": "bb1ece27-60cd-49c9-8002-98bdf546e3ab"
+				},
+				{
+					"verse": "Muéstrame ahora tu valentía,\ny respóndeme a estas preguntas:",
+					"number": 6,
+					"id": "79ebeb86-ceb9-4444-8fc3-2eb014c1b2e5"
+				},
+				{
+					"verse": "¿Pretendes declararme injusto y culpable,\na fin de que tú aparezcas inocente?",
+					"number": 7,
+					"id": "4177c0e5-5655-40f3-af53-8e3e85a9211c"
+				},
+				{
+					"verse": "¿Acaso eres tan fuerte como yo?\n¿Es tu voz de trueno, como la mía?",
+					"number": 8,
+					"id": "56881fcf-9a4e-4840-b17e-3bdbcc5b13a0"
+				},
+				{
+					"verse": "Revístete entonces de grandeza y majestad,\ncúbrete de gloria y esplendor.",
+					"number": 9,
+					"id": "aa60c726-1090-408f-a86e-fc0019df2964"
+				},
+				{
+					"verse": "Mira a todos los orgullosos:\nda rienda suelta a tu furor y humíllalos.",
+					"number": 10,
+					"id": "49e42298-667e-4465-a068-9faef6f3be3c"
+				},
+				{
+					"verse": "Sí, derríbalos con tu mirada,\naplasta a los malvados donde se encuentren.",
+					"number": 11,
+					"id": "cd95e668-bef1-4cf1-b9f7-e77a9d4fba28"
+				},
+				{
+					"verse": "Sepúltalos a todos en la tierra,\nenciérralos en la prisión de los muertos.",
+					"number": 12,
+					"id": "6779f5c3-e1ac-477b-849a-ea4e087e36b3"
+				},
+				{
+					"verse": "Entonces yo mismo reconoceré\nque fue tu poder el que te dio la victoria.",
+					"number": 13,
+					"id": "06e9ba96-8f75-4b70-903a-6d0a6a0627c5"
+				},
+				{
+					"verse": "Fíjate en el monstruo Behemot,\ncriatura mía igual que tú:\ncome hierba, como los bueyes;",
+					"number": 14,
+					"id": "cb9ea7ad-a706-4ee1-b57d-db700f1f605b"
+				},
+				{
+					"verse": "mira qué fuertes son sus lomos,\ny qué poderosos sus músculos.",
+					"number": 15,
+					"id": "3dfadfa4-feeb-4ae0-b26c-6d1fcc86db70"
+				},
+				{
+					"verse": "Su cola es dura como el cedro,\nlos tendones de sus patas forman nudos.",
+					"number": 16,
+					"id": "be91ba09-9311-408a-ba3b-15dc1b51fd13"
+				},
+				{
+					"verse": "Sus huesos son como tubos de bronce, como barras de hierro.",
+					"number": 17,
+					"id": "3fa59d73-f47b-439c-a735-b4a0b613cfa5"
+				},
+				{
+					"verse": "Es mi obra maestra;\nsólo yo, su creador, puedo derrotarlo.",
+					"number": 18,
+					"id": "e6feb4cb-4c01-480f-9cc2-8f4dcb324655"
+				},
+				{
+					"verse": "De los montes, donde juegan las fieras,\nle traen hierba para que coma.",
+					"number": 19,
+					"id": "f4e93af0-ff7e-4e3e-a19b-08ce82d62022"
+				},
+				{
+					"verse": "Se echa debajo de los lotos,\nse esconde entre las cañas del pantano.",
+					"number": 20,
+					"id": "bbc35398-de16-4ca7-b1db-9db0976465e7"
+				},
+				{
+					"verse": "Los lotos le dan sombra,\nlos álamos del arroyo lo rodean.",
+					"number": 21,
+					"id": "5b968651-0d4e-40e5-b3cf-14c2b4d1d889"
+				},
+				{
+					"verse": "Si el río crece, no se asusta;\naunque el agua le llegue al hocico, está tranquilo.",
+					"number": 22,
+					"id": "ef705385-ba6c-48ef-86c3-f0eff6112d9b"
+				},
+				{
+					"verse": "¿Quién es capaz de agarrarlo y sacarle los ojos,\no de pasarle un lazo por la nariz?",
+					"number": 23,
+					"id": "0d7fd469-9305-4064-8c16-3618285b5e06"
+				}
+			]
+		},
+		{
+			"chapter": "41",
+			"vers": [
+				{
+					"verse": "Y a Leviatán, ¿lo pescarás con un anzuelo?\n¿Podrás atarle la lengua con una cuerda?",
+					"number": 1,
+					"id": "eb5ebafb-0a6b-4cf2-b6d1-7221a499e84d"
+				},
+				{
+					"verse": "¿Podrás pasarle un cordel por las narices\no atravesarle con un gancho la quijada?",
+					"number": 2,
+					"id": "2ab8d5f4-4aac-4187-a7be-1182144e4538"
+				},
+				{
+					"verse": "¿Acaso va a rogarte que le tengas compasión,\ny a suplicarte con palabras tiernas?",
+					"number": 3,
+					"id": "cebdddcc-883c-46ca-af56-1a155179b548"
+				},
+				{
+					"verse": "¿Acaso harás que te prometa\nser tu esclavo toda la vida?",
+					"number": 4,
+					"id": "d9625fb2-fcec-4eec-b1d3-48fa70d14c76"
+				},
+				{
+					"verse": "¿Jugarás con él como con un pajarito?\n¿Lo atarás como juguete de tus hijas?",
+					"number": 5,
+					"id": "4ee7bc87-1930-4f7a-b77c-6f6aacab66d6"
+				},
+				{
+					"verse": "¿Se pondrán a regatear por él en el mercado?\n¿Lo cortarán en pedazos para venderlo?",
+					"number": 6,
+					"id": "1b398a0f-8958-46c5-9ec7-a68acd34986c"
+				},
+				{
+					"verse": "¿Podrás atravesarle el cuero con flechas,\no la cabeza con arpones?",
+					"number": 7,
+					"id": "c3e88a57-f617-43a3-b0de-dadebd3e9e5d"
+				},
+				{
+					"verse": "Si llegas a ponerle la mano encima,\nte dará tal batalla que no la olvidarás,\ny nunca volverás a hacerlo.",
+					"number": 8,
+					"id": "320e9330-e502-4b13-b2d7-adf3aae5059c"
+				},
+				{
+					"verse": "Con sólo ver a Leviatán,\ncualquiera se desmaya de miedo.",
+					"number": 9,
+					"id": "39e44def-bfcb-4266-919e-de36f5638f38"
+				},
+				{
+					"verse": "Si alguien lo provoca, se pone furioso;\nnadie es capaz de hacerle frente.",
+					"number": 10,
+					"id": "505beef8-e301-479d-9ac4-19749abf1229"
+				},
+				{
+					"verse": "¿Quién, que se le enfrente, saldrá sano y salvo?\n¡Nadie en todo el mundo!",
+					"number": 11,
+					"id": "d4fa78e1-9223-4cf8-926e-cc6594316c5d"
+				},
+				{
+					"verse": "No dejaré de mencionar sus patas\ny su fuerza sin igual.",
+					"number": 12,
+					"id": "b5eae6e4-a7f7-4cdf-bb1b-67f0cbd726f3"
+				},
+				{
+					"verse": "¿Quién puede quitarle el cuero que lo cubre,\no atravesar su doble coraza protectora?",
+					"number": 13,
+					"id": "75e48650-87a3-4052-a966-62b652705cb1"
+				},
+				{
+					"verse": "¿Quién puede abrirle el hocico,\ncon su cerco de terribles dientes?",
+					"number": 14,
+					"id": "944da654-919e-41be-8c56-e29326b0b1bd"
+				},
+				{
+					"verse": "Sus lomos son hileras de escudos\ncerrados y duros como la piedra.",
+					"number": 15,
+					"id": "0f5e9767-5c30-402d-9020-d0862225afa8"
+				},
+				{
+					"verse": "Tan apretados están unos contra otros,\nque ni el aire puede pasar entre ellos.",
+					"number": 16,
+					"id": "fce77fe0-af5d-4570-a470-08eb326f345f"
+				},
+				{
+					"verse": "Tan unidos y trabados están,\nque nadie puede separarlos.",
+					"number": 17,
+					"id": "0f17cc8d-9558-4b42-9676-b8eda1fcfaac"
+				},
+				{
+					"verse": "Sus estornudos son como relámpagos;\nsus ojos brillan como el sol cuando amanece.",
+					"number": 18,
+					"id": "bbe04ed9-7b2c-4f70-91b1-57ffad50eba1"
+				},
+				{
+					"verse": "De su hocico salen llamaradas\ny se escapan chispas de fuego.",
+					"number": 19,
+					"id": "e6071f7a-18a3-408d-935c-61c26210a3c4"
+				},
+				{
+					"verse": "De sus narices sale humo,\ncomo de una caldera que hierve al fuego.",
+					"number": 20,
+					"id": "8b9a59a5-3269-430e-91d9-36a9e9db7eb8"
+				},
+				{
+					"verse": "Su aliento enciende las brasas,\nde su hocico salen llamas.",
+					"number": 21,
+					"id": "c29f13cd-801c-4de0-ae75-6a9c4c3651a1"
+				},
+				{
+					"verse": "Su cuello es tan fuerte\nque ante él todos se llenan de miedo.",
+					"number": 22,
+					"id": "2a713999-4933-40f0-bf72-713fb6e49abe"
+				},
+				{
+					"verse": "Aun la parte carnosa de su cuerpo\nes dura e impenetrable, como hierro fundido.",
+					"number": 23,
+					"id": "f0a0e987-0659-48df-8884-eaf003c5e938"
+				},
+				{
+					"verse": "Tiene el corazón duro como la roca,\nduro como piedra de moler.",
+					"number": 24,
+					"id": "710325ab-c101-46e0-b601-613562f933db"
+				},
+				{
+					"verse": "Cuando él se levanta, los dioses se espantan\ny huyen llenos de terror.",
+					"number": 25,
+					"id": "3333fbab-2435-4c15-9e81-6f9ecafd5018"
+				},
+				{
+					"verse": "Ni espada ni lanza ni flecha ni dardo\nsirven de nada para atacarlo.",
+					"number": 26,
+					"id": "59e366e5-b1ee-4a7d-992a-38a923f2a82e"
+				},
+				{
+					"verse": "Para él, el hierro es como paja,\ny el bronce como madera podrida.",
+					"number": 27,
+					"id": "bf04af25-b9fb-4bb8-9f46-38cdcc75588d"
+				},
+				{
+					"verse": "Las flechas no lo hacen huir;\nlanzarle piedras es como lanzarle paja.",
+					"number": 28,
+					"id": "ca8800d2-0419-4078-8286-b55d221c8f54"
+				},
+				{
+					"verse": "Un golpe de mazo le es como un golpe de caña;\nse ríe al oír silbar las jabalinas.",
+					"number": 29,
+					"id": "4242ec4a-3f2d-4cab-beff-db26ae20e9b5"
+				},
+				{
+					"verse": "Cuando se arrastra, abre surcos en el barro,\ncomo si lo hiciera con afilados trillos.",
+					"number": 30,
+					"id": "bc38d76a-4ba4-4065-8b99-51110f7b3d91"
+				},
+				{
+					"verse": "Hace hervir como una olla al mar profundo;\ncomo una caldera para mezclar ungüentos.",
+					"number": 31,
+					"id": "37ae59cd-aece-4684-beed-e817b98cb1fb"
+				},
+				{
+					"verse": "Va dejando en el agua una estela\nblanca y brillante como melena de canas.",
+					"number": 32,
+					"id": "0bffc715-9863-4e88-b3f9-76f0a45e714b"
+				},
+				{
+					"verse": "No hay en la tierra nada que se le parezca;\nfue hecho para no sentir miedo jamás.",
+					"number": 33,
+					"id": "d553aabe-d19a-4f80-ac20-c4771d0c69c2"
+				},
+				{
+					"verse": "Hace frente aun a los más arrogantes,\ny es el rey de todas las fieras.",
+					"number": 34,
+					"id": "20a10298-bf48-46b7-9279-ad9f3eb2a0cd"
+				}
+			]
+		},
+		{
+			"chapter": "42",
+			"vers": [
+				{
+					"verse": "Job",
+					"number": 1,
+					"study": "Confesión y justificación de Job",
+					"id": "fd62bb85-0b0e-45ab-ac8d-b0f9ea8672ec"
+				},
+				{
+					"verse": "Yo sé que tú lo puedes todo\ny que no hay nada que no puedas realizar.",
+					"number": 2,
+					"id": "a3adc038-5f01-4460-9797-16cdb3903fd1"
+				},
+				{
+					"verse": "¿Quién soy yo para dudar de tu providencia,\nmostrando así mi ignorancia?\nYo estaba hablando de cosas que no entiendo,\ncosas tan maravillosas que no las puedo comprender.",
+					"number": 3,
+					"id": "d4dc8913-271b-4b9a-8dec-940b24992854"
+				},
+				{
+					"verse": "Tú me dijiste: «Escucha, que quiero hablarte;\nrespóndeme a estas preguntas.»",
+					"number": 4,
+					"id": "a9e6badc-7378-49ad-bc4d-c511424521dd"
+				},
+				{
+					"verse": "Hasta ahora, sólo de oídas te conocía,\npero ahora te veo con mis propios ojos.",
+					"number": 5,
+					"id": "f8191965-cef8-4485-b03f-4caa5bbba393"
+				},
+				{
+					"verse": "Por eso me retracto arrepentido,\nsentado en el polvo y la ceniza.",
+					"number": 6,
+					"id": "92535cbf-1f5f-4fcf-9962-3c78f83ecfa5"
+				},
+				{
+					"verse": "Después que el Señor dijo estas cosas a Job, dijo también a Elifaz: «Estoy muy enojado contigo y con tus dos amigos, porque no dijeron la verdad acerca de mí, como lo hizo mi siervo Job.",
+					"number": 7,
+					"id": "bc0d919d-ab6b-48dd-9b2c-fa1712aea15f"
+				},
+				{
+					"verse": "Tomen ahora siete toros y siete carneros y vayan a ver a mi siervo Job, y ofrézcanlos como holocausto por ustedes. Mi siervo Job orará por ustedes, y yo aceptaré su oración y no les haré ningún daño, aunque se lo merecen por no haber dicho la verdad acerca de mí, como lo hizo mi siervo Job.»",
+					"number": 8,
+					"id": "fcff7ab9-5ac1-4839-a9a5-a270863f1fd2"
+				},
+				{
+					"verse": "Elifaz, Bildad y Sofar fueron e hicieron lo que el Señor les ordenó, y el Señor aceptó la oración de Job.",
+					"number": 9,
+					"id": "77802fe5-78d3-4569-81cc-a157c0a6b45d"
+				},
+				{
+					"verse": "Después que Job oró por sus amigos, Dios le devolvió su prosperidad anterior, y aun le dio dos veces más de lo que antes tenía.",
+					"number": 10,
+					"study": "Restauración de la prosperidad de Job",
+					"id": "1cabba44-60a2-43fd-8220-670505e2fe9c"
+				},
+				{
+					"verse": "Entonces fueron a visitarlo todos sus hermanos, hermanas y amigos, y todos sus antiguos conocidos, y en su compañía celebraron un banquete en su casa. Le ofrecieron sus condolencias y lo consolaron por todas las calamidades que el Señor le había enviado, y cada uno de ellos le dio una cantidad de dinero y un anillo de oro.",
+					"number": 11,
+					"id": "d4a7c694-5586-468a-95e9-b6296f8f5fbf"
+				},
+				{
+					"verse": "Dios bendijo a Job en sus últimos años más abundantemente que en los anteriores. Llegó a tener catorce mil ovejas, seis mil camellos, mil yuntas de bueyes y mil asnas.",
+					"number": 12,
+					"id": "90a840ae-0601-4997-a5f7-943f5c645df5"
+				},
+				{
+					"verse": "También tuvo catorce hijos y tres hijas.",
+					"number": 13,
+					"id": "5d681db3-03ff-4e4a-b007-2e0a937d491b"
+				},
+				{
+					"verse": "A la mayor la llamó Jemimá, a la segunda, Quesiá y a la tercera, Queren-hapuc.",
+					"number": 14,
+					"id": "450075f6-14a7-4c1c-8c99-783382135d6d"
+				},
+				{
+					"verse": "No había en todo el mundo mujeres tan bonitas como las hijas de Job. Su padre las hizo herederas de sus bienes, junto con sus hermanos.",
+					"number": 15,
+					"id": "d1f7bbfd-78ff-431e-91d8-a0e3e640a21f"
+				},
+				{
+					"verse": "Después de esto, Job vivió ciento cuarenta años, y murió a una edad muy avanzada, llegando a ver a sus hijos, nietos, bisnietos y tataranietos.",
+					"number": 16,
+					"id": "c02ab22a-81fc-43aa-87b6-87e2a7c1aca9"
+				}
+			]
+		}
+	],
+	"book_id": "8f157aa7-5fcd-41b8-bf72-c9092c92dabb"
+}

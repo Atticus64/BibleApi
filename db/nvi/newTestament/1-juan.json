@@ -1,0 +1,568 @@
+{
+	"name": "1-Juan",
+	"num_chapters": 5,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Lo que ha sido desde el principio,  lo que hemos oído,  lo que hemos visto con nuestros propios ojos,  lo que hemos contemplado,  lo que hemos tocado con las manos,  esto les anunciamos respecto al Verbo que es vida.",
+					"number": 1,
+					"study": "La palabra de vida",
+					"id": "8bcb1d26-5b7f-4671-818b-01ec5c45d7b8"
+				},
+				{
+					"verse": "Esta vida se manifestó.  Nosotros la hemos visto y damos testimonio de ella,  y les anunciamos a ustedes la vida eterna que estaba con el Padre y que se nos ha manifestado.",
+					"number": 2,
+					"id": "8f56aa6f-71b7-4877-8b1c-0b6f23afb64b"
+				},
+				{
+					"verse": "Les anunciamos lo que hemos visto y oído,  para que también ustedes tengan comunión con nosotros.  Y nuestra comunión es con el Padre y con su Hijo Jesucristo.",
+					"number": 3,
+					"id": "5b6fc3e4-b1ee-4617-b88c-f79ae2da4517"
+				},
+				{
+					"verse": "Les escribimos estas cosas para que nuestra alegría* sea completa.",
+					"number": 4,
+					"id": "30f533b8-0721-46f1-8c8e-22efbf663e7b"
+				},
+				{
+					"verse": "Este es el mensaje que hemos oído de él y que les anunciamos:  Dios es luz y en él no hay ninguna oscuridad.",
+					"number": 5,
+					"study": "Dios es luz",
+					"id": "30a097a6-b8bf-4a69-b02a-0fcbe77df6df"
+				},
+				{
+					"verse": "Si afirmamos que tenemos comunión con él,  pero vivimos en la oscuridad,  mentimos y no ponemos en práctica la verdad.",
+					"number": 6,
+					"id": "08873b14-dded-4208-905f-8b6266b9ecb7"
+				},
+				{
+					"verse": "Pero si vivimos en la luz,  así como él está en la luz,  tenemos comunión unos con otros,  y la sangre de su Hijo Jesucristo nos limpia de todo pecado.",
+					"number": 7,
+					"id": "9630d331-66b0-4de7-aa4f-3e6c67b41933"
+				},
+				{
+					"verse": "Si afirmamos que no tenemos pecado,  nos engañamos a nosotros mismos y no tenemos la verdad.",
+					"number": 8,
+					"id": "ffb81c88-9ef7-49ee-b1eb-6ce70d84f8bf"
+				},
+				{
+					"verse": "Si confesamos nuestros pecados,  Dios,  que es fiel y justo,  nos los perdonará y nos limpiará de toda maldad.",
+					"number": 9,
+					"id": "d1fd2711-1c88-4ee4-8eed-d4f261ba3bf0"
+				},
+				{
+					"verse": "Si afirmamos que no hemos pecado,  lo hacemos pasar por mentiroso y su palabra no habita en nosotros.",
+					"number": 10,
+					"id": "a009fe26-aa2e-4f88-bcba-959a442fcc17"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Mis queridos hijos,  les escribo estas cosas para que no pequen.  Pero si alguno peca,  tenemos ante el Padre a un intercesor,  a Jesucristo,  el Justo.",
+					"number": 1,
+					"study": "Cristo, nuestro abogado",
+					"id": "333fa333-315d-4b96-8914-538f808bd193"
+				},
+				{
+					"verse": "Él es el sacrificio por el perdón de* nuestros pecados,  y no sólo por los nuestros sino por los de todo el mundo.",
+					"number": 2,
+					"id": "db6e846a-1243-4900-8f1f-1d3c94449e1c"
+				},
+				{
+					"verse": "¿Cómo sabemos si hemos llegado a conocer a Dios?  Si obedecemos sus mandamientos.",
+					"number": 3,
+					"id": "d3e7f622-667c-45c9-abe8-bc2d0de18e63"
+				},
+				{
+					"verse": "El que afirma:  \"Lo conozco\",  pero no obedece sus mandamientos,  es un mentiroso y no tiene la verdad.",
+					"number": 4,
+					"id": "6c8909ff-9e8b-40f0-987f-91c8bdc79b7e"
+				},
+				{
+					"verse": "En cambio,  el amor de Dios se manifiesta plenamente* en la vida del que obedece su palabra.  De este modo sabemos que estamos unidos a él:",
+					"number": 5,
+					"id": "73a4be14-51d9-49f4-a0a8-212a2233983a"
+				},
+				{
+					"verse": "el que afirma que permanece en él,  debe vivir como él vivió.",
+					"number": 6,
+					"id": "a9cb3794-a928-491c-a820-e7ba9c3d3a24"
+				},
+				{
+					"verse": "Queridos hermanos,  lo que les escribo no es un mandamiento nuevo,  sino uno antiguo que han tenido desde el principio.  Este mandamiento antiguo es el mensaje que ya oyeron.",
+					"number": 7,
+					"study": "El nuevo mandamiento",
+					"id": "410d8011-0cfa-45a3-ab2b-7e00c34e39d4"
+				},
+				{
+					"verse": "Por otra parte,  lo que les escribo es un mandamiento nuevo,  cuya verdad se manifiesta tanto en la vida de Cristo como en la de ustedes,  porque la oscuridad se va desvaneciendo y ya brilla la luz verdadera.",
+					"number": 8,
+					"id": "2445e9f1-79da-41e9-a094-c8f79c43b19a"
+				},
+				{
+					"verse": "El que afirma que está en la luz,  pero odia a su hermano,  todavía está en la oscuridad.",
+					"number": 9,
+					"id": "ec684352-6095-4cfe-9653-136d6087aaf9"
+				},
+				{
+					"verse": "El que ama a su hermano permanece en la luz,  y no hay nada en su vida* que lo haga tropezar.",
+					"number": 10,
+					"id": "7a01623d-73cf-4538-92ac-6176bc08ceed"
+				},
+				{
+					"verse": "Pero el que odia a su hermano está en la oscuridad y en ella vive,  y no sabe a dónde va porque la oscuridad no lo deja ver.",
+					"number": 11,
+					"id": "ecf9be3e-05b8-494c-a1f7-6f01d0c2532c"
+				},
+				{
+					"verse": "Les escribo a ustedes,  queridos hijos,  porque sus pecados han sido perdonados por el nombre de Cristo.",
+					"number": 12,
+					"id": "1d4cf588-f18d-45a4-9e29-adb8dd5d6195"
+				},
+				{
+					"verse": "Les escribo a ustedes,  padres,  porque han conocido al que es desde el principio.  Les escribo a ustedes,  jóvenes,  porque han vencido al maligno.  Les he escrito a ustedes,  queridos hijos,  porque han conocido al Padre.",
+					"number": 13,
+					"id": "3398ac95-0452-4437-ab08-d8f929eaf5a1"
+				},
+				{
+					"verse": "Les he escrito a ustedes,  padres,  porque han conocido al que es desde el principio.  Les he escrito a ustedes,  jóvenes,  porque son fuertes,  y la palabra de Dios permanece en ustedes,  y han vencido al maligno.",
+					"number": 14,
+					"id": "925c59d0-2260-4b7b-aed3-f3fdc86bc242"
+				},
+				{
+					"verse": "No amen al mundo ni nada de lo que hay en él.  Si alguien ama al mundo,  no tiene el amor del Padre.",
+					"number": 15,
+					"id": "c5fbdf47-2337-4ccf-bf9b-c2e794b099a9"
+				},
+				{
+					"verse": "Porque nada de lo que hay en el mundo --los malos deseos del cuerpo,  la codicia de los ojos y la arrogancia de la vida-- proviene del Padre sino del mundo.",
+					"number": 16,
+					"id": "a3056128-963c-4fd9-bb4e-5db6618e47ff"
+				},
+				{
+					"verse": "El mundo se acaba con sus malos deseos,  pero el que hace la voluntad de Dios permanece para siempre.",
+					"number": 17,
+					"id": "c9124c43-2cbd-4f5b-8f5b-ff4008007d0f"
+				},
+				{
+					"verse": "Queridos hijos,  ésta es la hora final,  y así como ustedes oyeron que el anticristo vendría,  muchos son los anticristos que han surgido ya.  Por eso nos damos cuenta de que ésta es la hora final.",
+					"number": 18,
+					"study": "El anticristo",
+					"id": "db314dc2-9e03-49c6-aceb-1f4266e62ed8"
+				},
+				{
+					"verse": "Aunque salieron de entre nosotros,  en realidad no eran de los nuestros;  si lo hubieran sido,  se habrían quedado con nosotros.  Su salida sirvió para comprobar que ninguno de ellos era de los nuestros.",
+					"number": 19,
+					"id": "09e26972-a8cb-423a-8027-e1e27179c61a"
+				},
+				{
+					"verse": "Todos ustedes,  en cambio,  han recibido unción del Santo,  de manera que conocen la verdad.*",
+					"number": 20,
+					"id": "2db8dcf0-d0ab-4a2e-b08c-bde6cc6ea725"
+				},
+				{
+					"verse": "No les escribo porque ignoren la verdad,  sino porque la conocen y porque ninguna mentira procede de la verdad.",
+					"number": 21,
+					"id": "1412df7f-d388-4391-a0f1-e3a9152ccc28"
+				},
+				{
+					"verse": "¿Quién es el mentiroso sino el que niega que Jesús es el Cristo?  Es el anticristo,  el que niega al Padre y al Hijo.",
+					"number": 22,
+					"id": "dce362ba-9a2b-4e50-b2b6-8c78641d2a26"
+				},
+				{
+					"verse": "Todo el que niega al Hijo no tiene al Padre;  el que reconoce al Hijo tiene también al Padre.",
+					"number": 23,
+					"id": "e7889cfb-0d49-40ba-9e81-015156d5498c"
+				},
+				{
+					"verse": "Permanezca en ustedes lo que han oído desde el principio,  y así ustedes* permanecerán también en el Hijo y en el Padre.",
+					"number": 24,
+					"id": "6986b782-7a16-4b19-bc46-614e4d671f09"
+				},
+				{
+					"verse": "Ésta es la promesa que él nos dio:  la vida eterna.",
+					"number": 25,
+					"id": "a44cfc93-256c-40dc-acc9-f1eeb9c7b40e"
+				},
+				{
+					"verse": "Estas cosas les escribo acerca de los que procuran engañarlos.",
+					"number": 26,
+					"id": "5a6cb5d4-089c-4202-a27d-8c582448fc2c"
+				},
+				{
+					"verse": "En cuanto a ustedes,  la unción que de él recibieron permanece en ustedes,  y no necesitan que nadie les enseñe.  Esa unción es auténtica --no es falsa-- y les enseña todas las cosas.  Permanezcan en él,  tal y como él les enseñó.",
+					"number": 27,
+					"id": "aa8ee649-fd95-4fb0-a4a1-db37349b2ca3"
+				},
+				{
+					"verse": "Y ahora,  queridos hijos,  permanezcamos* en él para que,  cuando se manifieste,  podamos presentarnos ante él confiadamente,  seguros de no ser avergonzados en su venida.",
+					"number": 28,
+					"id": "24aca8af-6700-4718-b32b-e48db784953e"
+				},
+				{
+					"verse": "Si reconocen que Jesucristo es justo,  reconozcan también que todo el que practica la justicia ha nacido de él.",
+					"number": 29,
+					"id": "88b2d001-fc6a-4279-849f-bff339754390"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "¡Fíjense qué gran amor nos ha dado el Padre,  que se nos llame hijos de Dios!  ¡Y lo somos!  El mundo no nos conoce,  precisamente porque no lo conoció a él.",
+					"number": 1,
+					"study": "Hijos de Dios",
+					"id": "13610566-96c6-466a-83a8-5c878eeeaf25"
+				},
+				{
+					"verse": "Queridos hermanos,  ahora somos hijos de Dios,  pero todavía no se ha manifestado lo que habremos de ser.  Sabemos,  sin embargo,  que cuando Cristo venga seremos semejantes a él,  porque lo veremos tal como él es.",
+					"number": 2,
+					"id": "a5eb0f4f-453f-4340-9363-8aedce0bebd5"
+				},
+				{
+					"verse": "Todo el que tiene esta esperanza en Cristo,  se purifica a sí mismo,  así como él es puro.",
+					"number": 3,
+					"id": "64132280-e7d2-403a-9605-7c2e72c424b1"
+				},
+				{
+					"verse": "Todo el que comete pecado quebranta la ley;  de hecho,  el pecado es transgresión de la ley.",
+					"number": 4,
+					"id": "3c9b6e2f-5171-49a4-9ebc-f20589299e55"
+				},
+				{
+					"verse": "Pero ustedes saben que Jesucristo se manifestó para quitar nuestros pecados.  Y él no tiene pecado.",
+					"number": 5,
+					"id": "98009ff4-1cbe-4104-a688-89b97d5214e3"
+				},
+				{
+					"verse": "Todo el que permanece en él,  no practica el pecado.* Todo el que practica el pecado,  no lo ha visto ni lo ha conocido.",
+					"number": 6,
+					"id": "88b126bd-3fcb-426a-aca1-2b61f39fb94e"
+				},
+				{
+					"verse": "Queridos hijos,  que nadie los engañe.  El que practica la justicia es justo,  así como él es justo.",
+					"number": 7,
+					"id": "520c54b9-bbea-4cd9-93da-e4714edec8dd"
+				},
+				{
+					"verse": "El que practica el pecado es del diablo,  porque el diablo ha estado pecando desde el principio.  El Hijo de Dios fue enviado precisamente para destruir las obras del diablo.",
+					"number": 8,
+					"id": "ca611319-785e-4a83-a450-9595b86d0a36"
+				},
+				{
+					"verse": "Ninguno que haya nacido de Dios practica el pecado,  porque la semilla de Dios permanece en él;  no puede practicar el pecado,* porque ha nacido de Dios.",
+					"number": 9,
+					"id": "b9bb1927-d1db-449f-8d25-256dc7fc455f"
+				},
+				{
+					"verse": "Así distinguimos entre los hijos de Dios y los hijos del diablo:  el que no practica la justicia no es hijo de Dios;  ni tampoco lo es el que no ama a su hermano.",
+					"number": 10,
+					"id": "73ad82a9-fe85-4967-a1b1-43335b182ce5"
+				},
+				{
+					"verse": "Éste es el mensaje que han oído desde el principio:  que nos amemos los unos a los otros.",
+					"number": 11,
+					"id": "46bbbb46-65a0-4219-bb5e-276111b44a70"
+				},
+				{
+					"verse": "No seamos como Caín que,  por ser del maligno,  asesinó a su hermano.  ¿Y por qué lo hizo?  Porque sus propias obras eran malas,  y las de su hermano justas.",
+					"number": 12,
+					"id": "c9791e6c-0bf9-47d7-87ad-d94dc21b1e0d"
+				},
+				{
+					"verse": "Hermanos,  no se extrañen si el mundo los odia.",
+					"number": 13,
+					"id": "1a37dc70-340e-4684-b880-b3438523f97c"
+				},
+				{
+					"verse": "Nosotros sabemos que hemos pasado de la muerte a la vida porque amamos a nuestros hermanos.  El que no ama permanece en la muerte.",
+					"number": 14,
+					"id": "18d923ca-25e9-4758-9f9b-6eefc2be2995"
+				},
+				{
+					"verse": "Todo el que odia a su hermano es un asesino,  y ustedes saben que en ningún asesino permanece la vida eterna.",
+					"number": 15,
+					"id": "083c59a2-ada8-4cae-b658-a83fd2ca8b41"
+				},
+				{
+					"verse": "En esto conocemos lo que es el amor:  en que Jesucristo entregó su vida por nosotros.  Así también nosotros debemos entregar la vida por nuestros hermanos.",
+					"number": 16,
+					"id": "736e978e-efb0-476c-9797-b79bb12021f5"
+				},
+				{
+					"verse": "Si alguien que posee bienes materiales ve que su hermano está pasando necesidad,  y no tiene compasión de él,  ¿cómo se puede decir que el amor de Dios habita en él?",
+					"number": 17,
+					"id": "0249c555-c141-4f85-8ee8-e76b8f27eb55"
+				},
+				{
+					"verse": "Queridos hijos,  no amemos de palabra ni de labios para afuera,  sino con hechos y de verdad.",
+					"number": 18,
+					"id": "18df4c82-a36c-4923-9e23-a3bfb8a95eb1"
+				},
+				{
+					"verse": "En esto sabremos que somos de la verdad,  y nos sentiremos seguros delante de él:",
+					"number": 19,
+					"id": "129c9f85-c400-4938-8e38-d9710981c7f6"
+				},
+				{
+					"verse": "que aunque nuestro corazón nos condene,  Dios es más grande que nuestro corazón y lo sabe todo.",
+					"number": 20,
+					"id": "1f6f65af-86b2-4f5a-a0ad-2840891b7b12"
+				},
+				{
+					"verse": "Queridos hermanos,  si el corazón no nos condena,  tenemos confianza delante de Dios,",
+					"number": 21,
+					"id": "54d8c693-0bbe-4213-8ca3-08d2b4663bd8"
+				},
+				{
+					"verse": "y recibimos todo lo que le pedimos porque obedecemos sus mandamientos y hacemos lo que le agrada.",
+					"number": 22,
+					"id": "0576d4a6-7f2d-45a0-be64-fc16d76c592b"
+				},
+				{
+					"verse": "Y éste es su mandamiento:  que creamos en el nombre de su Hijo Jesucristo,  y que nos amemos los unos a los otros,  pues así lo ha dispuesto.",
+					"number": 23,
+					"id": "1e2832ac-b606-4dcb-a079-8c346911a750"
+				},
+				{
+					"verse": "El que obedece sus mandamientos permanece en Dios,  y Dios en él.  ¿Cómo sabemos que él permanece en nosotros?  Por el Espíritu que nos dio.",
+					"number": 24,
+					"id": "e01d17e0-177b-4766-9b3e-53db342c98bb"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Queridos hermanos,  no crean a cualquiera que pretenda estar inspirado por el Espíritu,* sino sométanlo a prueba para ver si es de Dios,  porque han salido por el mundo muchos falsos profetas.",
+					"number": 1,
+					"study": "El Espíritu de Dios y el espíritu del anticristo",
+					"id": "511ce1e9-dd46-459d-add3-68c1ac6cb385"
+				},
+				{
+					"verse": "En esto pueden discernir quién tiene el Espíritu de Dios:  todo profeta* que reconoce que Jesucristo ha venido en cuerpo humano,  es de Dios;",
+					"number": 2,
+					"id": "63d6da56-8f0c-4e61-9e2f-90f12030f74c"
+				},
+				{
+					"verse": "todo profeta que no reconoce a Jesús,  no es de Dios sino del anticristo.  Ustedes han oído que éste viene;  en efecto,  ya está en el mundo.",
+					"number": 3,
+					"id": "693b41bd-18a2-4e7c-9c54-c3671a6f9433"
+				},
+				{
+					"verse": "Ustedes,  queridos hijos,  son de Dios y han vencido a esos falsos profetas,  porque el que está en ustedes es más poderoso que el que está en el mundo.",
+					"number": 4,
+					"id": "bffcb01c-c9b8-48b3-8ab7-467f7e5d5cbd"
+				},
+				{
+					"verse": "Ellos son del mundo;  por eso hablan desde el punto de vista del mundo,  y el mundo los escucha.",
+					"number": 5,
+					"id": "2c81af5b-c7ce-4535-a721-bcc402b0cc8e"
+				},
+				{
+					"verse": "Nosotros somos de Dios,  y todo el que conoce a Dios nos escucha;  pero el que no es de Dios no nos escucha.  Así distinguimos entre el Espíritu de la verdad y el espíritu del engaño.",
+					"number": 6,
+					"id": "fa9f84b1-8de2-49e4-aec4-f25e52392fd7"
+				},
+				{
+					"verse": "Queridos hermanos,  amémonos los unos a los otros,  porque el amor viene de Dios,  y todo el que ama ha nacido de él y lo conoce.",
+					"number": 7,
+					"study": "Dios es amor",
+					"id": "c9e5aa9b-4160-42fc-989c-920c64db6e60"
+				},
+				{
+					"verse": "El que no ama no conoce a Dios,  porque Dios es amor.",
+					"number": 8,
+					"id": "bd6db1ad-ea7e-4fe4-b3fb-aa5af8a939fb"
+				},
+				{
+					"verse": "Así manifestó Dios su amor entre nosotros:  en que envió a su Hijo unigénito al mundo para que vivamos por medio de él.",
+					"number": 9,
+					"id": "4f27d96d-0bd5-4d2f-9fbf-5af4e678c07e"
+				},
+				{
+					"verse": "En esto consiste el amor:  no en que nosotros hayamos amado a Dios,  sino en que él nos amó y envió a su Hijo para que fuera ofrecido como sacrificio por el perdón de* nuestros pecados.",
+					"number": 10,
+					"id": "f6e84b73-4230-4279-a708-4e317af58f48"
+				},
+				{
+					"verse": "Queridos hermanos,  ya que Dios nos ha amado así,  también nosotros debemos amarnos los unos a los otros.",
+					"number": 11,
+					"id": "124164e8-68fd-4b1b-bbab-794bda6b3dda"
+				},
+				{
+					"verse": "Nadie ha visto jamás a Dios,  pero si nos amamos los unos a los otros,  Dios permanece entre nosotros,  y entre* nosotros su amor se ha manifestado plenamente.*",
+					"number": 12,
+					"id": "3c300e54-4e93-4893-9de4-cdfcccc233ff"
+				},
+				{
+					"verse": "¿Cómo sabemos que permanecemos en él,  y que él permanece en nosotros?  Porque nos ha dado de su Espíritu.",
+					"number": 13,
+					"id": "0dcdb798-e360-4b17-a12c-37a6ae8bce3f"
+				},
+				{
+					"verse": "Y nosotros hemos visto y declaramos que el Padre envió a su Hijo para ser el Salvador del mundo.",
+					"number": 14,
+					"id": "43940584-2b47-4318-ad03-ab863fbbccb3"
+				},
+				{
+					"verse": "Si alguien reconoce que Jesús es el Hijo de Dios,  Dios permanece en él,  y él en Dios.",
+					"number": 15,
+					"id": "66202d64-7be2-4bbd-aeee-34edbf1554b5"
+				},
+				{
+					"verse": "Y nosotros hemos llegado a saber y creer que Dios nos ama.  Dios es amor.  El que permanece en amor,  permanece en Dios,  y Dios en él.",
+					"number": 16,
+					"id": "12dba086-aced-4679-8a26-3d3a8555a1ac"
+				},
+				{
+					"verse": "Ese amor se manifiesta plenamente* entre nosotros para que en el día del juicio comparezcamos con toda confianza,  porque en este mundo hemos vivido como vivió Jesús.  En el amor no hay temor,",
+					"number": 17,
+					"id": "5e00ae41-b299-4ca2-b5e0-0f4be7a7b06c"
+				},
+				{
+					"verse": "sino que el amor perfecto echa fuera el temor.  El que teme espera el castigo,  así que no ha sido perfeccionado en el amor.",
+					"number": 18,
+					"id": "0b0af59b-3d1e-40ed-bbf7-2d4779058bb2"
+				},
+				{
+					"verse": "Nosotros amamos a Dios porque él nos amó primero.",
+					"number": 19,
+					"id": "d2c2f98c-3dcd-4c25-87eb-bbafddcb1b83"
+				},
+				{
+					"verse": "Si alguien afirma:  \"Yo amo a Dios\",  pero odia a su hermano,  es un mentiroso;  pues el que no ama a su hermano,  a quien ha visto,  no puede amar a Dios,  a quien no ha visto.",
+					"number": 20,
+					"id": "987a3e80-1f1c-4992-ba1c-da57a4a929eb"
+				},
+				{
+					"verse": "Y él nos ha dado este mandamiento:  el que ama a Dios,  ame también a su hermano.",
+					"number": 21,
+					"id": "34a80d6a-97fb-456a-88e5-3f04c27707be"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Todo el que cree que Jesús es el Cristo,  ha nacido de Dios,  y todo el que ama al padre,  ama también a sus hijos.",
+					"number": 1,
+					"study": "La fe que vence al mundo",
+					"id": "c63471a8-99b2-4e9e-9487-e38b6ada6131"
+				},
+				{
+					"verse": "Así,  cuando amamos a Dios y cumplimos sus mandamientos,  sabemos que amamos a los hijos de Dios.",
+					"number": 2,
+					"id": "e7db6c72-a284-4479-8043-3b439bd44530"
+				},
+				{
+					"verse": "En esto consiste el amor a Dios:  en que obedezcamos sus mandamientos.  Y éstos no son difíciles de cumplir,",
+					"number": 3,
+					"id": "84823471-4494-4857-b414-377bc148ba8b"
+				},
+				{
+					"verse": "porque todo el que ha nacido de Dios vence al mundo.  Ésta es la victoria que vence al mundo:  nuestra fe.",
+					"number": 4,
+					"id": "29b73fca-de2b-4c12-950c-fce9b579a9de"
+				},
+				{
+					"verse": "¿Quién es el que vence al mundo sino el que cree que Jesús es el Hijo de Dios?",
+					"number": 5,
+					"id": "d24a4221-15c1-400c-8fa9-f276024f7028"
+				},
+				{
+					"verse": "Éste es el que vino mediante agua y sangre,  Jesucristo;  no sólo mediante agua,  sino mediante agua y sangre.  El Espíritu es quien da testimonio de esto,  porque el Espíritu es la verdad.",
+					"number": 6,
+					"study": "El testimonio del Espíritu",
+					"id": "c3889389-3ceb-4a31-8b4b-7b4781216f66"
+				},
+				{
+					"verse": "Tres son los que dan testimonio,",
+					"number": 7,
+					"id": "2e8132a6-92d1-4ce8-9921-d8ec6308dbd3"
+				},
+				{
+					"verse": "y los tres están de acuerdo:  el* Espíritu,  el agua y la sangre.",
+					"number": 8,
+					"id": "278596c9-758a-4b5d-85b3-e37fa0261b25"
+				},
+				{
+					"verse": "Aceptamos el testimonio humano,  pero el testimonio de Dios vale mucho más,  precisamente porque es el testimonio de Dios,  que él ha dado acerca de su Hijo.",
+					"number": 9,
+					"id": "924387bb-8791-4cd4-a100-e4d58003e801"
+				},
+				{
+					"verse": "El que cree en el Hijo de Dios acepta este testimonio.  El que no cree a Dios lo hace pasar por mentiroso,  por no haber creído el testimonio que Dios ha dado acerca de su Hijo.",
+					"number": 10,
+					"id": "0e04b88c-cde3-46d0-bef8-f0f0bf0f3615"
+				},
+				{
+					"verse": "Y el testimonio es éste:  que Dios nos ha dado vida eterna,  y esa vida está en su Hijo.",
+					"number": 11,
+					"id": "a9e405ac-3a02-406f-be05-7d6ec3030229"
+				},
+				{
+					"verse": "El que tiene al Hijo,  tiene la vida;  el que no tiene al Hijo de Dios,  no tiene la vida.",
+					"number": 12,
+					"id": "ef0608ea-bba6-4400-be37-4efb59f24678"
+				},
+				{
+					"verse": "Les escribo estas cosas a ustedes que creen en el nombre del Hijo de Dios,  para que sepan que tienen vida eterna.",
+					"number": 13,
+					"study": "El conocimiento de la vida eterna",
+					"id": "1b550d3e-fba7-4301-8315-a683bbe7a019"
+				},
+				{
+					"verse": "Ésta es la confianza que tenemos al acercarnos a Dios:  que si pedimos conforme a su voluntad,  él nos oye.",
+					"number": 14,
+					"id": "ea0a89fe-38c3-453c-b681-cc5ea6fd119e"
+				},
+				{
+					"verse": "Y si sabemos que Dios oye todas nuestras oraciones,  podemos estar seguros de que ya tenemos lo que le hemos pedido.",
+					"number": 15,
+					"id": "84145411-55b5-4382-b9b5-6c95fa954ba9"
+				},
+				{
+					"verse": "Si alguno ve a su hermano cometer un pecado que no lleva a la muerte,  ore por él y Dios le dará vida.  Me refiero a quien comete un pecado que no lleva a la muerte.  Hay un pecado que sí lleva a la muerte,  y en ese caso no digo que se ore por él.",
+					"number": 16,
+					"id": "d3c1af2f-3b55-487d-9b09-6a15ff222bdf"
+				},
+				{
+					"verse": "Toda maldad es pecado,  pero hay pecado que no lleva a la muerte.",
+					"number": 17,
+					"id": "51c7d01c-e7cf-4d54-a3bc-83fcb3b9e05e"
+				},
+				{
+					"verse": "Sabemos que el que ha nacido de Dios no está en pecado:  Jesucristo,  que nació de Dios,  lo protege,  y el maligno no llega a tocarlo.",
+					"number": 18,
+					"id": "028ee775-177e-4814-a1e8-93f20e719115"
+				},
+				{
+					"verse": "Sabemos que somos hijos de Dios,  y que el mundo entero está bajo el control del maligno.",
+					"number": 19,
+					"id": "869a0ed7-754c-4010-bcc6-0e4df017302d"
+				},
+				{
+					"verse": "También sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento para que conozcamos al Dios verdadero.  Y estamos con el Verdadero,  con* su Hijo Jesucristo.  Éste es el Dios verdadero y la vida eterna.",
+					"number": 20,
+					"id": "9ff2d791-1126-495c-abfc-94b5fe025e9a"
+				},
+				{
+					"verse": "Queridos hijos,  apártense de los ídolos.",
+					"number": 21,
+					"id": "49e98763-b9b7-4ed5-bd3b-374fd4d6ba95"
+				}
+			]
+		}
+	],
+	"book_id": "4ffe1db6-a039-4a52-b29d-f9a1815c5488"
+}

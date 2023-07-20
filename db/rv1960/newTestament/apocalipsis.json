@@ -1,0 +1,2173 @@
+{
+	"name": "Apocalipsis",
+	"num_chapters": 22,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "La revelación de Jesucristo, que Dios le dio, para manifestar a sus siervos las cosas que deben suceder pronto; y la declaró enviándola por medio de su ángel a su siervo Juan,",
+					"number": 1,
+					"study": "La revelación de Jesucristo",
+					"id": "1cebbed8-fda4-4bf7-8e46-71c143feb955"
+				},
+				{
+					"verse": "que ha dado testimonio de la palabra de Dios, y del testimonio de Jesucristo, y de todas las cosas que ha visto.",
+					"number": 2,
+					"id": "88afcfe5-1278-4347-8132-43e57d7f2868"
+				},
+				{
+					"verse": "Bienaventurado el que lee, y los que oyen las palabras de esta profecía, y guardan las cosas en ella escritas; porque el tiempo está cerca.",
+					"number": 3,
+					"id": "f7f862f8-bb9e-4386-a4d7-5ca408380f0c"
+				},
+				{
+					"verse": "Juan, a las siete iglesias que están en Asia: Gracia y paz a vosotros, del que es y que era y que ha de venir, y de los siete espíritus que están delante de su trono;",
+					"number": 4,
+					"study": "Salutaciones a las siete iglesias",
+					"id": "31bc698c-2fa4-41a8-b437-d9f1d2a33bb3"
+				},
+				{
+					"verse": "y de Jesucristo el testigo fiel, el primogénito de los muertos, y el soberano de los reyes de la tierra. Al que nos amó, y nos lavó de nuestros pecados con su sangre,",
+					"number": 5,
+					"id": "2aab5a1d-3f3f-4eb6-9085-db0d518df044"
+				},
+				{
+					"verse": "y nos hizo reyes y sacerdotes para Dios, su Padre; a él sea gloria e imperio por los siglos de los siglos. Amén.",
+					"number": 6,
+					"id": "09945425-57d6-458d-9e25-78defa451dd4"
+				},
+				{
+					"verse": "He aquí que viene con las nubes, y todo ojo le verá, y los que le traspasaron; y todos los linajes de la tierra harán lamentación por él. Sí, amén.",
+					"number": 7,
+					"id": "0f26fe80-fa17-4c39-94c8-1ea27c49abb9"
+				},
+				{
+					"verse": "Yo soy el Alfa y la Omega, principio y fin, dice el Señor, el que es y que era y que ha de venir, el Todopoderoso.",
+					"number": 8,
+					"id": "2e1b1a52-c0d6-4e2f-9868-396e5961a38d"
+				},
+				{
+					"verse": "Yo Juan, vuestro hermano, y copartícipe vuestro en la tribulación, en el reino y en la paciencia de Jesucristo, estaba en la isla llamada Patmos, por causa de la palabra de Dios y el testimonio de Jesucristo.",
+					"number": 9,
+					"study": "Una visión del Hijo del Hombre",
+					"id": "9cb69c5a-b01a-44a0-aeb2-5b7e8c00189e"
+				},
+				{
+					"verse": "Yo estaba en el Espíritu en el día del Señor, y oí detrás de mí una gran voz como de trompeta,",
+					"number": 10,
+					"id": "b07baaff-f15e-4fcc-bcef-77b2865e29cd"
+				},
+				{
+					"verse": "que decía: Yo soy el Alfa y la Omega, el primero y el último. Escribe en un libro lo que ves, y envíalo a las siete iglesias que están en Asia: a Efeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea.",
+					"number": 11,
+					"id": "73e2a0f4-fd30-453f-8f4b-62668b9053e2"
+				},
+				{
+					"verse": "Y me volví para ver la voz que hablaba conmigo; y vuelto, vi siete candeleros de oro,",
+					"number": 12,
+					"id": "ec223591-4dab-4d72-855d-133c387c763b"
+				},
+				{
+					"verse": "y en medio de los siete candeleros, a uno semejante al Hijo del Hombre, vestido de una ropa que llegaba hasta los pies, y ceñido por el pecho con un cinto de oro.",
+					"number": 13,
+					"id": "6beb55d4-dffa-4b12-b3a1-f462234f3686"
+				},
+				{
+					"verse": "Su cabeza y sus cabellos eran blancos como blanca lana, como nieve; sus ojos como llama de fuego;",
+					"number": 14,
+					"id": "7eb49f5c-3035-494b-96ea-dd353afecfcc"
+				},
+				{
+					"verse": "y sus pies semejantes al bronce bruñido, refulgente como en un horno; y su voz como estruendo de muchas aguas.",
+					"number": 15,
+					"id": "3c68dc9f-2f48-4921-b683-758f8d5a9001"
+				},
+				{
+					"verse": "Tenía en su diestra siete estrellas; de su boca salía una espada aguda de dos filos; y su rostro era como el sol cuando resplandece en su fuerza.",
+					"number": 16,
+					"id": "85470207-20a4-4af7-bb18-af6862ebb5f7"
+				},
+				{
+					"verse": "Cuando le vi, caí como muerto a sus pies. Y él puso su diestra sobre mí, diciéndome: No temas; yo soy el primero y el último;",
+					"number": 17,
+					"id": "e7640fe3-b9fc-4b8c-83d2-09924da6b768"
+				},
+				{
+					"verse": "y el que vivo, y estuve muerto; mas he aquí que vivo por los siglos de los siglos, amén. Y tengo las llaves de la muerte y del Hades.",
+					"number": 18,
+					"id": "c1b77b3e-d341-4e88-af79-9c1d6b263f3b"
+				},
+				{
+					"verse": "Escribe las cosas que has visto, y las que son, y las que han de ser después de estas.",
+					"number": 19,
+					"id": "4149cea2-2c69-469a-9c33-b36d36481c23"
+				},
+				{
+					"verse": "El misterio de las siete estrellas que has visto en mi diestra, y de los siete candeleros de oro: las siete estrellas son los ángeles de las siete iglesias, y los siete candeleros que has visto, son las siete iglesias.",
+					"number": 20,
+					"id": "58963718-abfe-4f4b-a1da-cca464a960b8"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Escribe al ángel de la iglesia en Efeso: El que tiene las siete estrellas en su diestra, el que anda en medio de los siete candeleros de oro, dice esto:",
+					"number": 1,
+					"study": "Mensajes a las siete iglesias: El mensaje a Efeso",
+					"id": "ef47ff74-f184-4a59-9db5-7f80e29c0729"
+				},
+				{
+					"verse": "Yo conozco tus obras, y tu arduo trabajo y paciencia; y que no puedes soportar a los malos, y has probado a los que se dicen ser apóstoles, y no lo son, y los has hallado mentirosos;",
+					"number": 2,
+					"id": "7b1c38d9-3c19-45af-846e-9492b812a087"
+				},
+				{
+					"verse": "y has sufrido, y has tenido paciencia, y has trabajado arduamente por amor de mi nombre, y no has desmayado.",
+					"number": 3,
+					"id": "b26fbe8d-dea6-4d75-80aa-dde24dc2044d"
+				},
+				{
+					"verse": "Pero tengo contra ti, que has dejado tu primer amor.",
+					"number": 4,
+					"id": "4369d3c1-7bbe-45f2-8e28-a35bc2b1cc0d"
+				},
+				{
+					"verse": "Recuerda, por tanto, de dónde has caído, y arrepiéntete, y haz las primeras obras; pues si no, vendré pronto a ti, y quitaré tu candelero de su lugar, si no te hubieres arrepentido.",
+					"number": 5,
+					"id": "e10a1dc7-4d90-4f65-b772-c4dfd9eeffea"
+				},
+				{
+					"verse": "Pero tienes esto, que aborreces las obras de los nicolaítas, las cuales yo también aborrezco.",
+					"number": 6,
+					"id": "ddd1e355-8c6a-4afc-bb73-6e6e275fec8a"
+				},
+				{
+					"verse": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, le daré a comer del árbol de la vida, el cual está en medio del paraíso de Dios.",
+					"number": 7,
+					"id": "46605278-9f59-4679-b388-1ea62ccbe2dc"
+				},
+				{
+					"verse": "Y escribe al ángel de la iglesia en Esmirna: El primero y el postrero, el que estuvo muerto y vivió, dice esto:",
+					"number": 8,
+					"study": "El mensaje a Esmirna",
+					"id": "8653ca60-0d91-49ed-9f13-b744159c7502"
+				},
+				{
+					"verse": "Yo conozco tus obras, y tu tribulación, y tu pobreza (pero tú eres rico), y la blasfemia de los que se dicen ser judíos, y no lo son, sino sinagoga de Satanás.",
+					"number": 9,
+					"id": "f3e73a3b-9c7f-422e-b0ae-fddfbfd3b0ac"
+				},
+				{
+					"verse": "No temas en nada lo que vas a padecer. He aquí, el diablo echará a algunos de vosotros en la cárcel, para que seáis probados, y tendréis tribulación por diez días. Sé fiel hasta la muerte, y yo te daré la corona de la vida.",
+					"number": 10,
+					"id": "67d2cfb1-81b6-4704-b688-433c786d045b"
+				},
+				{
+					"verse": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. El que venciere, no sufrirá daño de la segunda muerte.",
+					"number": 11,
+					"id": "3b904bb4-760c-4b8b-a54b-4e01bf459953"
+				},
+				{
+					"verse": "Y escribe al ángel de la iglesia en Pérgamo: El que tiene la espada aguda de dos filos dice esto:",
+					"number": 12,
+					"study": "El mensaje a Pérgamo",
+					"id": "a055a101-ac42-432f-ac32-11c2b37715f6"
+				},
+				{
+					"verse": "Yo conozco tus obras, y dónde moras, donde está el trono de Satanás; pero retienes mi nombre, y no has negado mi fe, ni aun en los días en que Antipas mi testigo fiel fue muerto entre vosotros, donde mora Satanás.",
+					"number": 13,
+					"id": "90b79ac3-e692-4272-a3f9-fb21fe6995db"
+				},
+				{
+					"verse": "Pero tengo unas pocas cosas contra ti: que tienes ahí a los que retienen la doctrina de Balaam, que enseñaba a Balac a poner tropiezo ante los hijos de Israel, a comer de cosas sacrificadas a los ídolos, y a cometer fornicación.",
+					"number": 14,
+					"id": "21b640d3-e700-4b2c-a6a0-ac09bd24f45e"
+				},
+				{
+					"verse": "Y también tienes a los que retienen la doctrina de los nicolaítas, la que yo aborrezco.",
+					"number": 15,
+					"id": "af2f346b-de0f-4022-9875-5fdcbd409e5f"
+				},
+				{
+					"verse": "Por tanto, arrepiéntete; pues si no, vendré a ti pronto, y pelearé contra ellos con la espada de mi boca.",
+					"number": 16,
+					"id": "39b1d87e-3fa8-4ce0-91cc-4f530f2f2bc5"
+				},
+				{
+					"verse": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias. Al que venciere, daré a comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita escrito un nombre nuevo, el cual ninguno conoce sino aquel que lo recibe.",
+					"number": 17,
+					"id": "68cd15fe-7301-4278-b155-f2783a5dd014"
+				},
+				{
+					"verse": "Y escribe al ángel de la iglesia en Tiatira: El Hijo de Dios, el que tiene ojos como llama de fuego, y pies semejantes al bronce bruñido, dice esto:",
+					"number": 18,
+					"study": "El mensaje a Tiatira",
+					"id": "7ac0c8ed-4c37-482d-944c-0037f500bb34"
+				},
+				{
+					"verse": "Yo conozco tus obras, y amor, y fe, y servicio, y tu paciencia, y que tus obras postreras son más que las primeras.",
+					"number": 19,
+					"id": "5fe17ae6-c99c-4af7-b021-549d402d07c3"
+				},
+				{
+					"verse": "Pero tengo unas pocas cosas contra ti: que toleras que esa mujer Jezabel, que se dice profetisa, enseñe y seduzca a mis siervos a fornicar y a comer cosas sacrificadas a los ídolos.",
+					"number": 20,
+					"id": "357e81c2-26a2-4fd2-a1ec-f06698cabe0a"
+				},
+				{
+					"verse": "Y le he dado tiempo para que se arrepienta, pero no quiere arrepentirse de su fornicación.",
+					"number": 21,
+					"id": "88b52cec-e52f-4bc4-9f8a-cd6c728e3e55"
+				},
+				{
+					"verse": "He aquí, yo la arrojo en cama, y en gran tribulación a los que con ella adulteran, si no se arrepienten de las obras de ella.",
+					"number": 22,
+					"id": "aae481de-a952-48f0-aa80-ea14af3b880d"
+				},
+				{
+					"verse": "Y a sus hijos heriré de muerte, y todas las iglesias sabrán que yo soy el que escudriña la mente y el corazón; y os daré a cada uno según vuestras obras.",
+					"number": 23,
+					"id": "9e11c5e5-791b-4a19-90bc-f258166a7136"
+				},
+				{
+					"verse": "Pero a vosotros y a los demás que están en Tiatira, a cuantos no tienen esa doctrina, y no han conocido lo que ellos llaman las profundidades de Satanás, yo os digo: No os impondré otra carga;",
+					"number": 24,
+					"id": "c4202886-bd1b-49c4-aea0-588ad189c00c"
+				},
+				{
+					"verse": "pero lo que tenéis, retenedlo hasta que yo venga.",
+					"number": 25,
+					"id": "1bb0e57c-18b2-42ba-a6f9-dd3be5d5e7fc"
+				},
+				{
+					"verse": "Al que venciere y guardare mis obras hasta el fin, yo le daré autoridad sobre las naciones,",
+					"number": 26,
+					"id": "a9174d66-33bd-474b-90d9-cdb2cbe584d3"
+				},
+				{
+					"verse": "y las regirá con vara de hierro, y serán quebradas como vaso de alfarero; como yo también la he recibido de mi Padre;",
+					"number": 27,
+					"id": "95488e0e-964d-44dc-b530-6b432c4698aa"
+				},
+				{
+					"verse": "y le daré la estrella de la mañana.",
+					"number": 28,
+					"id": "6c815615-3752-442f-b720-d7aa817b7f23"
+				},
+				{
+					"verse": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+					"number": 29,
+					"id": "657ca123-eaf8-4f12-8c2a-f67443dd57c9"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Escribe al ángel de la iglesia en Sardis: El que tiene los siete espíritus de Dios, y las siete estrellas, dice esto: Yo conozco tus obras, que tienes nombre de que vives, y estás muerto.",
+					"number": 1,
+					"study": "El mensaje a Sardis",
+					"id": "ae16d3c9-2bd4-4edb-b8a2-0a70e677cd89"
+				},
+				{
+					"verse": "Sé vigilante, y afirma las otras cosas que están para morir; porque no he hallado tus obras perfectas delante de Dios.",
+					"number": 2,
+					"id": "ff75b020-7c1e-487c-9336-5d5bcdb11e84"
+				},
+				{
+					"verse": "Acuérdate, pues, de lo que has recibido y oído; y guárdalo, y arrepiéntete. Pues si no velas, vendré sobre ti como ladrón, y no sabrás a qué hora vendré sobre ti.",
+					"number": 3,
+					"id": "9f8f65af-c48e-408e-976d-cef67bf752b1"
+				},
+				{
+					"verse": "Pero tienes unas pocas personas en Sardis que no han manchado sus vestiduras; y andarán conmigo en vestiduras blancas, porque son dignas.",
+					"number": 4,
+					"id": "6fb9a68e-1fd3-4e7d-a30c-6355919525fb"
+				},
+				{
+					"verse": "El que venciere será vestido de vestiduras blancas; y no borraré su nombre del libro de la vida, y confesaré su nombre delante de mi Padre, y delante de sus ángeles.",
+					"number": 5,
+					"id": "30f95c45-afe8-40ee-ac1d-ad59236d6cdc"
+				},
+				{
+					"verse": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+					"number": 6,
+					"id": "f3fd5380-c3c8-4b54-b964-a537d3e69a2a"
+				},
+				{
+					"verse": "Escribe al ángel de la iglesia en Filadelfia: Esto dice el Santo, el Verdadero, el que tiene la llave de David, el que abre y ninguno cierra, y cierra y ninguno abre:",
+					"number": 7,
+					"study": "El mensaje a Filadelfia",
+					"id": "553ffe75-ee8a-4e97-8b01-e24391271ba2"
+				},
+				{
+					"verse": "Yo conozco tus obras; he aquí, he puesto delante de ti una puerta abierta, la cual nadie puede cerrar; porque aunque tienes poca fuerza, has guardado mi palabra, y no has negado mi nombre.",
+					"number": 8,
+					"id": "7da5e807-d165-44a0-9d98-781ab584e6fd"
+				},
+				{
+					"verse": "He aquí, yo entrego de la sinagoga de Satanás a los que se dicen ser judíos y no lo son, sino que mienten; he aquí, yo haré que vengan y se postren a tus pies, y reconozcan que yo te he amado.",
+					"number": 9,
+					"id": "4b3a560c-e15c-44f9-bab2-09adb14fb870"
+				},
+				{
+					"verse": "Por cuanto has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la prueba que ha de venir sobre el mundo entero, para probar a los que moran sobre la tierra.",
+					"number": 10,
+					"id": "6062fefa-e8b7-4d03-8334-ccba8965b567"
+				},
+				{
+					"verse": "He aquí, yo vengo pronto; retén lo que tienes, para que ninguno tome tu corona.",
+					"number": 11,
+					"id": "da3c0989-5b48-4ce7-bac6-a58dc37b31ad"
+				},
+				{
+					"verse": "Al que venciere, yo lo haré columna en el templo de mi Dios, y nunca más saldrá de allí; y escribiré sobre él el nombre de mi Dios, y el nombre de la ciudad de mi Dios, la nueva Jerusalén, la cual desciende del cielo, de mi Dios, y mi nombre nuevo.",
+					"number": 12,
+					"id": "fabbfa5b-d669-49b3-aa72-48425304210c"
+				},
+				{
+					"verse": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+					"number": 13,
+					"id": "5cc05d3a-acf1-4af5-a5b3-2a472b273c1a"
+				},
+				{
+					"verse": "Y escribe al ángel de la iglesia en Laodicea: He aquí el Amén, el testigo fiel y verdadero, el principio de la creación de Dios, dice esto:",
+					"number": 14,
+					"study": "El mensaje a Laodicea",
+					"id": "b6c95617-d43e-4ce6-8fb8-e51e72d85081"
+				},
+				{
+					"verse": "Yo conozco tus obras, que ni eres frío ni caliente. ¡Ojalá fueses frío o caliente!",
+					"number": 15,
+					"id": "9b2ed96b-dd1e-4daf-b8af-f6bc557f2b48"
+				},
+				{
+					"verse": "Pero por cuanto eres tibio, y no frío ni caliente, te vomitaré de mi boca.",
+					"number": 16,
+					"id": "f4076d4e-02c8-41f4-bd1f-e37890f0d8b3"
+				},
+				{
+					"verse": "Porque tú dices: Yo soy rico, y me he enriquecido, y de ninguna cosa tengo necesidad; y no sabes que tú eres un desventurado, miserable, pobre, ciego y desnudo.",
+					"number": 17,
+					"id": "311bf5d6-883a-47cc-9e4e-bbab8978bc17"
+				},
+				{
+					"verse": "Por tanto, yo te aconsejo que de mí compres oro refinado en fuego, para que seas rico, y vestiduras blancas para vestirte, y que no se descubra la vergüenza de tu desnudez; y unge tus ojos con colirio, para que veas.",
+					"number": 18,
+					"id": "e2d19135-b903-41f0-81b2-9edd3750a7ed"
+				},
+				{
+					"verse": "Yo reprendo y castigo a todos los que amo; sé, pues, celoso, y arrepiéntete.",
+					"number": 19,
+					"id": "54c1bd74-7dcd-4327-ac07-72c97a163d30"
+				},
+				{
+					"verse": "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo.",
+					"number": 20,
+					"id": "8eaf90a2-08cb-4203-b0ad-873b7e5d70a9"
+				},
+				{
+					"verse": "Al que venciere, le daré que se siente conmigo en mi trono, así como yo he vencido, y me he sentado con mi Padre en su trono.",
+					"number": 21,
+					"id": "99bbd6a9-8f51-4d5b-b47f-f440f79323b5"
+				},
+				{
+					"verse": "El que tiene oído, oiga lo que el Espíritu dice a las iglesias.",
+					"number": 22,
+					"id": "19b5b09f-058c-4b9e-8627-eec47c9dd8da"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Después de esto miré, y he aquí una puerta abierta en el cielo; y la primera voz que oí, como de trompeta, hablando conmigo, dijo: Sube acá, y yo te mostraré las cosas que sucederán después de estas.",
+					"number": 1,
+					"study": "La adoración celestial",
+					"id": "75b252f6-e196-417f-9fe7-347362f6ed09"
+				},
+				{
+					"verse": "Y al instante yo estaba en el Espíritu; y he aquí, un trono establecido en el cielo, y en el trono, uno sentado.",
+					"number": 2,
+					"id": "5ac6b4cd-8b8a-4568-870d-6b979c677cb2"
+				},
+				{
+					"verse": "Y el aspecto del que estaba sentado era semejante a piedra de jaspe y de cornalina; y había alrededor del trono un arco iris, semejante en aspecto a la esmeralda.",
+					"number": 3,
+					"id": "f35bd98c-387b-4fe5-b3c7-59f20310e75e"
+				},
+				{
+					"verse": "Y alrededor del trono había veinticuatro tronos; y vi sentados en los tronos a veinticuatro ancianos, vestidos de ropas blancas, con coronas de oro en sus cabezas.",
+					"number": 4,
+					"id": "69fff0ba-9e9f-4447-a57c-54b532a49ec1"
+				},
+				{
+					"verse": "Y del trono salían relámpagos y truenos y voces; y delante del trono ardían siete lámparas de fuego, las cuales son los siete espíritus de Dios.",
+					"number": 5,
+					"id": "8681b32c-425c-421b-8621-2b985dc35238"
+				},
+				{
+					"verse": "Y delante del trono había como un mar de vidrio semejante al cristal; y junto al trono, y alrededor del trono, cuatro seres vivientes llenos de ojos delante y detrás.",
+					"number": 6,
+					"id": "406252eb-bfc6-4716-afbb-717c5228a590"
+				},
+				{
+					"verse": "El primer ser viviente era semejante a un león; el segundo era semejante a un becerro; el tercero tenía rostro como de hombre; y el cuarto era semejante a un águila volando.",
+					"number": 7,
+					"id": "d8facbba-cf89-4a6c-9c37-f5abc168c84c"
+				},
+				{
+					"verse": "Y los cuatro seres vivientes tenían cada uno seis alas, y alrededor y por dentro estaban llenos de ojos; y no cesaban día y noche de decir: Santo, santo, santo es el Señor Dios Todopoderoso, el que era, el que es, y el que ha de venir.",
+					"number": 8,
+					"id": "ebb0239f-a1de-4ae5-bef2-b04cca44f785"
+				},
+				{
+					"verse": "Y siempre que aquellos seres vivientes dan gloria y honra y acción de gracias al que está sentado en el trono, al que vive por los siglos de los siglos,",
+					"number": 9,
+					"id": "8a500a97-26d9-4818-b5f3-74ebc27fe899"
+				},
+				{
+					"verse": "los veinticuatro ancianos se postran delante del que está sentado en el trono, y adoran al que vive por los siglos de los siglos, y echan sus coronas delante del trono, diciendo:",
+					"number": 10,
+					"id": "de28ae42-fbd0-4aeb-bc52-8abcd3ae972d"
+				},
+				{
+					"verse": "Señor, digno eres de recibir la gloria y la honra y el poder; porque tú creaste todas las cosas, y por tu voluntad existen y fueron creadas.",
+					"number": 11,
+					"id": "ed19cb0f-fde3-4011-a9f7-3460d05d5906"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Y vi en la mano derecha del que estaba sentado en el trono un libro escrito por dentro y por fuera, sellado con siete sellos.",
+					"number": 1,
+					"study": "El rollo y el Cordero",
+					"id": "2e523435-08b2-49df-87bb-410cc7182eae"
+				},
+				{
+					"verse": "Y vi a un ángel fuerte que pregonaba a gran voz: ¿Quién es digno de abrir el libro y desatar sus sellos?",
+					"number": 2,
+					"id": "b0d5c26c-3ba9-478c-8a35-93e3fe18d4fd"
+				},
+				{
+					"verse": "Y ninguno, ni en el cielo ni en la tierra ni debajo de la tierra, podía abrir el libro, ni aun mirarlo.",
+					"number": 3,
+					"id": "97b9cdcf-6ecb-42ad-a8af-79f57116b049"
+				},
+				{
+					"verse": "Y lloraba yo mucho, porque no se había hallado a ninguno digno de abrir el libro, ni de leerlo, ni de mirarlo.",
+					"number": 4,
+					"id": "05b3beff-136c-4139-bc84-6c683b9c7106"
+				},
+				{
+					"verse": "Y uno de los ancianos me dijo: No llores. He aquí que el León de la tribu de Judá, la raíz de David, ha vencido para abrir el libro y desatar sus siete sellos.",
+					"number": 5,
+					"id": "aee882e8-a30b-4564-810f-508d155c6f3b"
+				},
+				{
+					"verse": "Y miré, y vi que en medio del trono y de los cuatro seres vivientes, y en medio de los ancianos, estaba en pie un Cordero como inmolado, que tenía siete cuernos, y siete ojos, los cuales son los siete espíritus de Dios enviados por toda la tierra.",
+					"number": 6,
+					"id": "86c412b7-c06b-4185-b968-7fbf67a06c84"
+				},
+				{
+					"verse": "Y vino, y tomó el libro de la mano derecha del que estaba sentado en el trono.",
+					"number": 7,
+					"id": "1db1574f-d51e-47f1-ab90-455a38e0c549"
+				},
+				{
+					"verse": "Y cuando hubo tomado el libro, los cuatro seres vivientes y los veinticuatro ancianos se postraron delante del Cordero; todos tenían arpas, y copas de oro llenas de incienso, que son las oraciones de los santos;",
+					"number": 8,
+					"id": "57a33284-acb6-4efc-905a-62c31b4321a9"
+				},
+				{
+					"verse": "y cantaban un nuevo cántico, diciendo: Digno eres de tomar el libro y de abrir sus sellos; porque tú fuiste inmolado, y con tu sangre nos has redimido para Dios, de todo linaje y lengua y pueblo y nación;",
+					"number": 9,
+					"id": "93eee3a7-bc93-49c0-aa1f-188003faba83"
+				},
+				{
+					"verse": "y nos has hecho para nuestro Dios reyes y sacerdotes, y reinaremos sobre la tierra.",
+					"number": 10,
+					"id": "d6ab9a9e-f0b8-49ea-9e67-5eddb5571be6"
+				},
+				{
+					"verse": "Y miré, y oí la voz de muchos ángeles alrededor del trono, y de los seres vivientes, y de los ancianos; y su número era millones de millones,",
+					"number": 11,
+					"id": "31337c20-61cd-4e80-b251-fd3790b5373b"
+				},
+				{
+					"verse": "que decían a gran voz: El Cordero que fue inmolado es digno de tomar el poder, las riquezas, la sabiduría, la fortaleza, la honra, la gloria y la alabanza.",
+					"number": 12,
+					"id": "dc822a84-705d-451c-b0b9-581c8a722cf7"
+				},
+				{
+					"verse": "Y a todo lo creado que está en el cielo, y sobre la tierra, y debajo de la tierra, y en el mar, y a todas las cosas que en ellos hay, oí decir: Al que está sentado en el trono, y al Cordero, sea la alabanza, la honra, la gloria y el poder, por los siglos de los siglos.",
+					"number": 13,
+					"id": "9b0cb7df-2156-472a-a15d-98f5ee05ef76"
+				},
+				{
+					"verse": "Los cuatro seres vivientes decían: Amén; y los veinticuatro ancianos se postraron sobre sus rostros y adoraron al que vive por los siglos de los siglos.",
+					"number": 14,
+					"id": "2008f7ad-325e-4d57-9fab-e83168332d51"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Vi cuando el Cordero abrió uno de los sellos, y oí a uno de los cuatro seres vivientes decir como con voz de trueno: Ven y mira.",
+					"number": 1,
+					"study": "Los sellos",
+					"id": "c946fade-820c-4524-98de-10d1a8d344e0"
+				},
+				{
+					"verse": "Y miré, y he aquí un caballo blanco; y el que lo montaba tenía un arco; y le fue dada una corona, y salió venciendo, y para vencer.",
+					"number": 2,
+					"id": "d8f3cefd-8746-48d6-adce-512a12614caa"
+				},
+				{
+					"verse": "Cuando abrió el segundo sello, oí al segundo ser viviente, que decía: Ven y mira.",
+					"number": 3,
+					"id": "677078bb-25ec-406e-a9ee-68839d3e1910"
+				},
+				{
+					"verse": "Y salió otro caballo, bermejo; y al que lo montaba le fue dado poder de quitar de la tierra la paz, y que se matasen unos a otros; y se le dio una gran espada.",
+					"number": 4,
+					"id": "741ad3b7-3104-4d2d-b6aa-5c86b133c6eb"
+				},
+				{
+					"verse": "Cuando abrió el tercer sello, oí al tercer ser viviente, que decía: Ven y mira. Y miré, y he aquí un caballo negro; y el que lo montaba tenía una balanza en la mano.",
+					"number": 5,
+					"id": "e63eb78e-262e-48be-910a-662ff08edc0e"
+				},
+				{
+					"verse": "Y oí una voz de en medio de los cuatro seres vivientes, que decía: Dos libras de trigo por un denario, y seis libras de cebada por un denario; pero no dañes el aceite ni el vino.",
+					"number": 6,
+					"id": "05e7d699-51b7-437a-a0b9-d2467522bae7"
+				},
+				{
+					"verse": "Cuando abrió el cuarto sello, oí la voz del cuarto ser viviente, que decía: Ven y mira.",
+					"number": 7,
+					"id": "55b5be32-3d72-438e-9adf-c684e1be5d5a"
+				},
+				{
+					"verse": "Miré, y he aquí un caballo amarillo, y el que lo montaba tenía por nombre Muerte, y el Hades le seguía; y le fue dada potestad sobre la cuarta parte de la tierra, para matar con espada, con hambre, con mortandad, y con las fieras de la tierra.",
+					"number": 8,
+					"id": "37265c9f-61b0-425d-83dc-928018af8bcd"
+				},
+				{
+					"verse": "Cuando abrió el quinto sello, vi bajo el altar las almas de los que habían sido muertos por causa de la palabra de Dios y por el testimonio que tenían.",
+					"number": 9,
+					"id": "487164ef-2c2c-4aa0-84ff-88264bf32bed"
+				},
+				{
+					"verse": "Y clamaban a gran voz, diciendo: ¿Hasta cuándo, Señor, santo y verdadero, no juzgas y vengas nuestra sangre en los que moran en la tierra?",
+					"number": 10,
+					"id": "10d1bd2b-f307-4f1a-899e-9b525ad3d2f6"
+				},
+				{
+					"verse": "Y se les dieron vestiduras blancas, y se les dijo que descansasen todavía un poco de tiempo, hasta que se completara el número de sus consiervos y sus hermanos, que también habían de ser muertos como ellos.",
+					"number": 11,
+					"id": "27022314-0044-4fbb-b243-5aad19fd635a"
+				},
+				{
+					"verse": "Miré cuando abrió el sexto sello, y he aquí hubo un gran terremoto; y el sol se puso negro como tela de cilicio, y la luna se volvió toda como sangre;",
+					"number": 12,
+					"id": "7e5a8447-7065-46df-9f78-6df164913c33"
+				},
+				{
+					"verse": "y las estrellas del cielo cayeron sobre la tierra, como la higuera deja caer sus higos cuando es sacudida por un fuerte viento.",
+					"number": 13,
+					"id": "0320d0af-b729-406e-94d1-ddd817e1e219"
+				},
+				{
+					"verse": "Y el cielo se desvaneció como un pergamino que se enrolla; y todo monte y toda isla se removió de su lugar.",
+					"number": 14,
+					"id": "33c3d5b2-8aa4-42ad-9310-66e56c56211c"
+				},
+				{
+					"verse": "Y los reyes de la tierra, y los grandes, los ricos, los capitanes, los poderosos, y todo siervo y todo libre, se escondieron en las cuevas y entre las peñas de los montes;",
+					"number": 15,
+					"id": "9881e0e8-28e6-4566-8969-7456ae47d475"
+				},
+				{
+					"verse": "y decían a los montes y a las peñas: Caed sobre nosotros, y escondednos del rostro de aquel que está sentado sobre el trono, y de la ira del Cordero;",
+					"number": 16,
+					"id": "58dbf977-4a75-47ef-a699-d94b94685bbe"
+				},
+				{
+					"verse": "porque el gran día de su ira ha llegado; ¿y quién podrá sostenerse en pie?",
+					"number": 17,
+					"id": "926b2fc3-d821-4721-989d-7ecce90b0b6f"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Después de esto vi a cuatro ángeles en pie sobre los cuatro ángulos de la tierra, que detenían los cuatro vientos de la tierra, para que no soplase viento alguno sobre la tierra, ni sobre el mar, ni sobre ningún árbol.",
+					"number": 1,
+					"study": "Los 144.000 sellados",
+					"id": "c5f9c0f5-a174-467c-b289-cbdcabf3c7e2"
+				},
+				{
+					"verse": "Vi también a otro ángel que subía de donde sale el sol, y tenía el sello del Dios vivo; y clamó a gran voz a los cuatro ángeles, a quienes se les había dado el poder de hacer daño a la tierra y al mar,",
+					"number": 2,
+					"id": "b8762d1d-4c07-4fcf-b340-f555ae091136"
+				},
+				{
+					"verse": "diciendo: No hagáis daño a la tierra, ni al mar, ni a los árboles, hasta que hayamos sellado en sus frentes a los siervos de nuestro Dios.",
+					"number": 3,
+					"id": "c73fb970-9edb-4623-8c44-26736063c52d"
+				},
+				{
+					"verse": "Y oí el número de los sellados: ciento cuarenta y cuatro mil sellados de todas las tribus de los hijos de Israel.",
+					"number": 4,
+					"id": "faf24967-0b40-409f-bab7-f504d0b157b0"
+				},
+				{
+					"verse": "De la tribu de Judá, doce mil sellados. De la tribu de Rubén, doce mil sellados. De la tribu de Gad, doce mil sellados.",
+					"number": 5,
+					"id": "7138c790-87fa-44dd-b708-6d4b745017c5"
+				},
+				{
+					"verse": "De la tribu de Aser, doce mil sellados. De la tribu de Neftalí, doce mil sellados. De la tribu de Manasés, doce mil sellados.",
+					"number": 6,
+					"id": "67a51837-e301-4bf6-ad49-35d8237569bb"
+				},
+				{
+					"verse": "De la tribu de Simeón, doce mil sellados. De la tribu de Leví, doce mil sellados. De la tribu de Isacar, doce mil sellados.",
+					"number": 7,
+					"id": "59a0fc6d-5740-4ec2-ae2c-b8482cf693d2"
+				},
+				{
+					"verse": "De la tribu de Zabulón, doce mil sellados. De la tribu de José, doce mil sellados. De la tribu de Benjamín, doce mil sellados.",
+					"number": 8,
+					"id": "66cbe863-ca3f-4c50-985a-41670b056cbc"
+				},
+				{
+					"verse": "Después de esto miré, y he aquí una gran multitud, la cual nadie podía contar, de todas naciones y tribus y pueblos y lenguas, que estaban delante del trono y en la presencia del Cordero, vestidos de ropas blancas, y con palmas en las manos;",
+					"number": 9,
+					"study": "La multitud vestida de ropas blancas",
+					"id": "55b5438f-1f8a-4353-924a-207d4f8d7c0a"
+				},
+				{
+					"verse": "y clamaban a gran voz, diciendo: La salvación pertenece a nuestro Dios que está sentado en el trono, y al Cordero.",
+					"number": 10,
+					"id": "8525a943-13c0-49f3-a309-36a8854c16e2"
+				},
+				{
+					"verse": "Y todos los ángeles estaban en pie alrededor del trono, y de los ancianos y de los cuatro seres vivientes; y se postraron sobre sus rostros delante del trono, y adoraron a Dios,",
+					"number": 11,
+					"id": "bc24f4f3-ba69-45ce-87d1-65d356ccb868"
+				},
+				{
+					"verse": "diciendo: Amén. La bendición y la gloria y la sabiduría y la acción de gracias y la honra y el poder y la fortaleza, sean a nuestro Dios por los siglos de los siglos. Amén.",
+					"number": 12,
+					"id": "a062c446-a80d-449f-a509-1f134f240170"
+				},
+				{
+					"verse": "Entonces uno de los ancianos habló, diciéndome: Estos que están vestidos de ropas blancas, ¿quiénes son, y de dónde han venido?",
+					"number": 13,
+					"id": "99d6f30c-5aff-499e-9b31-5077dc40992a"
+				},
+				{
+					"verse": "Yo le dije: Señor, tú lo sabes. Y él me dijo: Estos son los que han salido de la gran tribulación, y han lavado sus ropas, y las han emblanquecido en la sangre del Cordero.",
+					"number": 14,
+					"id": "01ad9c1d-db85-4d2f-8e4c-a78a6259b7e3"
+				},
+				{
+					"verse": "Por esto están delante del trono de Dios, y le sirven día y noche en su templo; y el que está sentado sobre el trono extenderá su tabernáculo sobre ellos.",
+					"number": 15,
+					"id": "7b59754e-3d49-42fc-98a4-c4c1c373e4ed"
+				},
+				{
+					"verse": "Ya no tendrán hambre ni sed, y el sol no caerá más sobre ellos, ni calor alguno;",
+					"number": 16,
+					"id": "2a4682c6-f071-494e-b75d-6aa790c4a5f3"
+				},
+				{
+					"verse": "porque el Cordero que está en medio del trono los pastoreará, y los guiará a fuentes de aguas de vida; y Dios enjugará toda lágrima de los ojos de ellos.",
+					"number": 17,
+					"id": "9ba2b704-5949-4a2f-a6c7-db3233101964"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Cuando abrió el séptimo sello, se hizo silencio en el cielo como por media hora.",
+					"number": 1,
+					"study": "El séptimo sello",
+					"id": "9998c568-dea0-425f-a053-46a1ee7b97a2"
+				},
+				{
+					"verse": "Y vi a los siete ángeles que estaban en pie ante Dios; y se les dieron siete trompetas.",
+					"number": 2,
+					"id": "b4a12f91-79f4-4ac4-8bc9-9049d62cf155"
+				},
+				{
+					"verse": "Otro ángel vino entonces y se paró ante el altar, con un incensario de oro; y se le dio mucho incienso para añadirlo a las oraciones de todos los santos, sobre el altar de oro que estaba delante del trono.",
+					"number": 3,
+					"id": "65460218-f5ab-4e66-bc12-3b56429a473c"
+				},
+				{
+					"verse": "Y de la mano del ángel subió a la presencia de Dios el humo del incienso con las oraciones de los santos.",
+					"number": 4,
+					"id": "45cace35-5c6d-4025-b623-f07dfa60fafa"
+				},
+				{
+					"verse": "Y el ángel tomó el incensario, y lo llenó del fuego del altar, y lo arrojó a la tierra; y hubo truenos, y voces, y relámpagos, y un terremoto.",
+					"number": 5,
+					"id": "135521da-8ece-4607-b785-fa6806693dd9"
+				},
+				{
+					"verse": "Y los siete ángeles que tenían las siete trompetas se dispusieron a tocarlas.",
+					"number": 6,
+					"study": "Las trompetas",
+					"id": "c64e690c-55ca-4197-844f-8762cecd6169"
+				},
+				{
+					"verse": "El primer ángel tocó la trompeta, y hubo granizo y fuego mezclados con sangre, que fueron lanzados sobre la tierra; y la tercera parte de los árboles se quemó, y se quemó toda la hierba verde.",
+					"number": 7,
+					"id": "af837835-aebb-4c7b-8bb7-67173c834378"
+				},
+				{
+					"verse": "El segundo ángel tocó la trompeta, y como una gran montaña ardiendo en fuego fue precipitada en el mar; y la tercera parte del mar se convirtió en sangre.",
+					"number": 8,
+					"id": "058b56dd-e9cf-4ef4-bcaf-183910f7ee19"
+				},
+				{
+					"verse": "Y murió la tercera parte de los seres vivientes que estaban en el mar, y la tercera parte de las naves fue destruida.",
+					"number": 9,
+					"id": "e6096863-c57c-4dbf-8110-8fea642afdc1"
+				},
+				{
+					"verse": "El tercer ángel tocó la trompeta, y cayó del cielo una gran estrella, ardiendo como una antorcha, y cayó sobre la tercera parte de los ríos, y sobre las fuentes de las aguas.",
+					"number": 10,
+					"id": "5c4250e8-fbb8-4db0-96c4-2d91d99d75f1"
+				},
+				{
+					"verse": "Y el nombre de la estrella es Ajenjo. Y la tercera parte de las aguas se convirtió en ajenjo; y muchos hombres murieron a causa de esas aguas, porque se hicieron amargas.",
+					"number": 11,
+					"id": "88adbbb4-71bd-4f64-8a0b-a996b1e56cf1"
+				},
+				{
+					"verse": "El cuarto ángel tocó la trompeta, y fue herida la tercera parte del sol, y la tercera parte de la luna, y la tercera parte de las estrellas, para que se oscureciese la tercera parte de ellos, y no hubiese luz en la tercera parte del día, y asimismo de la noche.",
+					"number": 12,
+					"id": "9935fd57-5618-423b-82d9-37655e5ac8f6"
+				},
+				{
+					"verse": "Y miré, y oí a un ángel volar por en medio del cielo, diciendo a gran voz: ¡Ay, ay, ay, de los que moran en la tierra, a causa de los otros toques de trompeta que están para sonar los tres ángeles!",
+					"number": 13,
+					"id": "f8d3ffa7-1fd5-4f85-b0a5-11a5369ce2be"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "El quinto ángel tocó la trompeta, y vi una estrella que cayó del cielo a la tierra; y se le dio la llave del pozo del abismo.",
+					"number": 1,
+					"id": "79b7dac1-09ab-451c-aec0-6aeedb9857f4"
+				},
+				{
+					"verse": "Y abrió el pozo del abismo, y subió humo del pozo como humo de un gran horno; y se oscureció el sol y el aire por el humo del pozo.",
+					"number": 2,
+					"id": "4e0c2bab-5859-428e-b2bb-4319fdfa58b4"
+				},
+				{
+					"verse": "Y del humo salieron langostas sobre la tierra; y se les dio poder, como tienen poder los escorpiones de la tierra.",
+					"number": 3,
+					"id": "e205508d-e5dc-4012-9979-f4b2a38e964a"
+				},
+				{
+					"verse": "Y se les mandó que no dañasen a la hierba de la tierra, ni a cosa verde alguna, ni a ningún árbol, sino solamente a los hombres que no tuviesen el sello de Dios en sus frentes.",
+					"number": 4,
+					"id": "5aafa464-6c0f-4d71-937c-6955e4b8d6c0"
+				},
+				{
+					"verse": "Y les fue dado, no que los matasen, sino que los atormentasen cinco meses; y su tormento era como tormento de escorpión cuando hiere al hombre.",
+					"number": 5,
+					"id": "d4a81ba3-2d98-4d5c-b26e-22bf0f04cd73"
+				},
+				{
+					"verse": "Y en aquellos días los hombres buscarán la muerte, pero no la hallarán; y ansiarán morir, pero la muerte huirá de ellos.",
+					"number": 6,
+					"id": "9ec6bcda-4a71-4dda-bfee-23e32404bf6e"
+				},
+				{
+					"verse": "El aspecto de las langostas era semejante a caballos preparados para la guerra; en las cabezas tenían como coronas de oro; sus caras eran como caras humanas;",
+					"number": 7,
+					"id": "65ae6048-e57d-49db-ab9b-356ab67660c7"
+				},
+				{
+					"verse": "tenían cabello como cabello de mujer; sus dientes eran como de leones;",
+					"number": 8,
+					"id": "f6ecb1c1-0e71-4c36-9170-1c9b26621270"
+				},
+				{
+					"verse": "tenían corazas como corazas de hierro; el ruido de sus alas era como el estruendo de muchos carros de caballos corriendo a la batalla;",
+					"number": 9,
+					"id": "c2267b6c-9f79-452c-be32-cc416259aea8"
+				},
+				{
+					"verse": "tenían colas como de escorpiones, y también aguijones; y en sus colas tenían poder para dañar a los hombres durante cinco meses.",
+					"number": 10,
+					"id": "02b0a33a-35f8-4744-8474-7887985fcd81"
+				},
+				{
+					"verse": "Y tienen por rey sobre ellos al ángel del abismo, cuyo nombre en hebreo es Abadón, y en griego, Apolión.",
+					"number": 11,
+					"id": "a0ac0415-fd68-4593-b63b-8c38403eda17"
+				},
+				{
+					"verse": "El primer ay pasó; he aquí, vienen aún dos ayes después de esto.",
+					"number": 12,
+					"id": "7d23aa9c-791c-4f7c-9d70-83da0a33a4d9"
+				},
+				{
+					"verse": "El sexto ángel tocó la trompeta, y oí una voz de entre los cuatro cuernos del altar de oro que estaba delante de Dios,",
+					"number": 13,
+					"id": "a05b6e06-9442-4af8-ae42-26fda7d83513"
+				},
+				{
+					"verse": "diciendo al sexto ángel que tenía la trompeta: Desata a los cuatro ángeles que están atados junto al gran río Eufrates.",
+					"number": 14,
+					"id": "bea04f9d-a0dc-4d28-9c11-3c95ef63d412"
+				},
+				{
+					"verse": "Y fueron desatados los cuatro ángeles que estaban preparados para la hora, día, mes y año, a fin de matar a la tercera parte de los hombres.",
+					"number": 15,
+					"id": "2f80c62b-4f0a-4984-9aa2-710b506509d5"
+				},
+				{
+					"verse": "Y el número de los ejércitos de los jinetes era doscientos millones. Yo oí su número.",
+					"number": 16,
+					"id": "174c05f0-060c-4176-ae64-752aa1753432"
+				},
+				{
+					"verse": "Así vi en visión los caballos y a sus jinetes, los cuales tenían corazas de fuego, de zafiro y de azufre. Y las cabezas de los caballos eran como cabezas de leones; y de su boca salían fuego, humo y azufre.",
+					"number": 17,
+					"id": "c8738ee2-11a7-4d4d-a9b3-eda3678b884e"
+				},
+				{
+					"verse": "Por estas tres plagas fue muerta la tercera parte de los hombres; por el fuego, el humo y el azufre que salían de su boca.",
+					"number": 18,
+					"id": "775da12e-e1ed-4e02-870c-66420f748a34"
+				},
+				{
+					"verse": "Pues el poder de los caballos estaba en su boca y en sus colas; porque sus colas, semejantes a serpientes, tenían cabezas, y con ellas dañaban.",
+					"number": 19,
+					"id": "5fa6fead-bbc9-40c6-8f7e-f3587e78ef2c"
+				},
+				{
+					"verse": "Y los otros hombres que no fueron muertos con estas plagas, ni aun así se arrepintieron de las obras de sus manos, ni dejaron de adorar a los demonios, y a las imágenes de oro, de plata, de bronce, de piedra y de madera, las cuales no pueden ver, ni oír, ni andar;",
+					"number": 20,
+					"id": "cfa1fae3-e239-44d5-b82d-155257364f0d"
+				},
+				{
+					"verse": "y no se arrepintieron de sus homicidios, ni de sus hechicerías, ni de su fornicación, ni de sus hurtos.",
+					"number": 21,
+					"id": "f29cfb9a-9358-4446-8938-5c817127f92b"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Vi descender del cielo a otro ángel fuerte, envuelto en una nube, con el arco iris sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego.",
+					"number": 1,
+					"study": "El ángel con el librito",
+					"id": "d27852e5-6d1b-4c7f-bdd4-2f7297817949"
+				},
+				{
+					"verse": "Tenía en su mano un librito abierto; y puso su pie derecho sobre el mar, y el izquierdo sobre la tierra;",
+					"number": 2,
+					"id": "8e3ceaee-3afd-45af-b126-8fc5f4332e38"
+				},
+				{
+					"verse": "y clamó a gran voz, como ruge un león; y cuando hubo clamado, siete truenos emitieron sus voces.",
+					"number": 3,
+					"id": "27334369-1076-44f8-b213-50f413a09aa7"
+				},
+				{
+					"verse": "Cuando los siete truenos hubieron emitido sus voces, yo iba a escribir; pero oí una voz del cielo que me decía: Sella las cosas que los siete truenos han dicho, y no las escribas.",
+					"number": 4,
+					"id": "c975e4ba-31a7-4b00-bb9b-38115ada276d"
+				},
+				{
+					"verse": "Y el ángel que vi en pie sobre el mar y sobre la tierra, levantó su mano al cielo,",
+					"number": 5,
+					"id": "738cee85-9a1e-49ef-ab2c-ea8a438fa46d"
+				},
+				{
+					"verse": "y juró por el que vive por los siglos de los siglos, que creó el cielo y las cosas que están en él, y la tierra y las cosas que están en ella, y el mar y las cosas que están en él, que el tiempo no sería más,",
+					"number": 6,
+					"id": "cd00bd02-1755-49d3-8036-1484e973cda7"
+				},
+				{
+					"verse": "sino que en los días de la voz del séptimo ángel, cuando él comience a tocar la trompeta, el misterio de Dios se consumará, como él lo anunció a sus siervos los profetas.",
+					"number": 7,
+					"id": "51381ee5-679a-4b2d-8b7d-a65bd13464e5"
+				},
+				{
+					"verse": "La voz que oí del cielo habló otra vez conmigo, y dijo: Ve y toma el librito que está abierto en la mano del ángel que está en pie sobre el mar y sobre la tierra.",
+					"number": 8,
+					"id": "7857b227-734a-4bda-b9e0-0fc7149e6399"
+				},
+				{
+					"verse": "Y fui al ángel, diciéndole que me diese el librito. Y él me dijo: Toma, y cómelo; y te amargará el vientre, pero en tu boca será dulce como la miel.",
+					"number": 9,
+					"id": "a5f931ad-cb93-4cab-98b4-4e0725292188"
+				},
+				{
+					"verse": "Entonces tomé el librito de la mano del ángel, y lo comí; y era dulce en mi boca como la miel, pero cuando lo hube comido, amargó mi vientre.",
+					"number": 10,
+					"id": "b50fd67b-360d-4f5b-a6ca-809df510477f"
+				},
+				{
+					"verse": "Y él me dijo: Es necesario que profetices otra vez sobre muchos pueblos, naciones, lenguas y reyes.",
+					"number": 11,
+					"id": "6a57640d-a1f7-4512-b99a-719930a85b6e"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Entonces me fue dada una caña semejante a una vara de medir, y se me dijo: Levántate, y mide el templo de Dios, y el altar, y a los que adoran en él.",
+					"number": 1,
+					"study": "Los dos testigos",
+					"id": "f41f1cef-59df-4611-8af8-7fd7ff86fde5"
+				},
+				{
+					"verse": "Pero el patio que está fuera del templo déjalo aparte, y no lo midas, porque ha sido entregado a los gentiles; y ellos hollarán la ciudad santa cuarenta y dos meses.",
+					"number": 2,
+					"id": "1de6cbb9-f9b1-49bd-b0d4-1ad21ffca26e"
+				},
+				{
+					"verse": "Y daré a mis dos testigos que profeticen por mil doscientos sesenta días, vestidos de cilicio.",
+					"number": 3,
+					"id": "00d1b163-3322-445c-977a-1b3e0de1a70e"
+				},
+				{
+					"verse": "Estos testigos son los dos olivos, y los dos candeleros que están en pie delante del Dios de la tierra.",
+					"number": 4,
+					"id": "9b0ce6d6-f180-4996-8eab-b440c959f39a"
+				},
+				{
+					"verse": "Si alguno quiere dañarlos, sale fuego de la boca de ellos, y devora a sus enemigos; y si alguno quiere hacerles daño, debe morir él de la misma manera.",
+					"number": 5,
+					"id": "07af98f7-56a2-4e8f-bd82-d98c120b2aa8"
+				},
+				{
+					"verse": "Estos tienen poder para cerrar el cielo, a fin de que no llueva en los días de su profecía; y tienen poder sobre las aguas para convertirlas en sangre, y para herir la tierra con toda plaga, cuantas veces quieran.",
+					"number": 6,
+					"id": "4d80568c-c4d8-4921-a6a4-1c496b4f1abe"
+				},
+				{
+					"verse": "Cuando hayan acabado su testimonio, la bestia que sube del abismo hará guerra contra ellos, y los vencerá y los matará.",
+					"number": 7,
+					"id": "c4199b97-21f1-41ba-be01-67fedf84c93e"
+				},
+				{
+					"verse": "Y sus cadáveres estarán en la plaza de la grande ciudad que en sentido espiritual se llama Sodoma y Egipto, donde también nuestro Señor fue crucificado.",
+					"number": 8,
+					"id": "19fd064b-b542-43c9-9b3c-888a3c6fd21a"
+				},
+				{
+					"verse": "Y los de los pueblos, tribus, lenguas y naciones verán sus cadáveres por tres días y medio, y no permitirán que sean sepultados.",
+					"number": 9,
+					"id": "1a1a17ce-bd9a-487e-ac1a-36912e5c200a"
+				},
+				{
+					"verse": "Y los moradores de la tierra se regocijarán sobre ellos y se alegrarán, y se enviarán regalos unos a otros; porque estos dos profetas habían atormentado a los moradores de la tierra.",
+					"number": 10,
+					"id": "0e532a38-8964-4f97-9dfb-5413c8d6d3fb"
+				},
+				{
+					"verse": "Pero después de tres días y medio entró en ellos el espíritu de vida enviado por Dios, y se levantaron sobre sus pies, y cayó gran temor sobre los que los vieron.",
+					"number": 11,
+					"id": "46139b5c-ce58-417b-96fc-f0299e52e909"
+				},
+				{
+					"verse": "Y oyeron una gran voz del cielo, que les decía: Subid acá. Y subieron al cielo en una nube; y sus enemigos los vieron.",
+					"number": 12,
+					"id": "8935a835-d310-4fcc-a5e4-f53aef5e313c"
+				},
+				{
+					"verse": "En aquella hora hubo un gran terremoto, y la décima parte de la ciudad se derrumbó, y por el terremoto murieron en número de siete mil hombres; y los demás se aterrorizaron, y dieron gloria al Dios del cielo.",
+					"number": 13,
+					"id": "a0d32220-8f32-4f02-9990-1635d20ee5ce"
+				},
+				{
+					"verse": "El segundo ay pasó; he aquí, el tercer ay viene pronto.",
+					"number": 14,
+					"id": "199698a8-f731-40bb-b5e5-22783d9ce14f"
+				},
+				{
+					"verse": "El séptimo ángel tocó la trompeta, y hubo grandes voces en el cielo, que decían: Los reinos del mundo han venido a ser de nuestro Señor y de su Cristo; y él reinará por los siglos de los siglos.",
+					"number": 15,
+					"study": "La séptima trompeta",
+					"id": "21c69578-fa8e-4273-b597-33e69b3853dd"
+				},
+				{
+					"verse": "Y los veinticuatro ancianos que estaban sentados delante de Dios en sus tronos, se postraron sobre sus rostros, y adoraron a Dios,",
+					"number": 16,
+					"id": "0b8ac9ba-741c-4e77-a228-f3ad08115b27"
+				},
+				{
+					"verse": "diciendo: Te damos gracias, Señor Dios Todopoderoso, el que eres y que eras y que has de venir, porque has tomado tu gran poder, y has reinado.",
+					"number": 17,
+					"id": "d1a2af71-c9f8-4633-a07f-b2a2a40c5524"
+				},
+				{
+					"verse": "Y se airaron las naciones, y tu ira ha venido, y el tiempo de juzgar a los muertos, y de dar el galardón a tus siervos los profetas, a los santos, y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra.",
+					"number": 18,
+					"id": "cec72366-1400-463f-bd9d-72435ef1b120"
+				},
+				{
+					"verse": "Y el templo de Dios fue abierto en el cielo, y el arca de su pacto se veía en el templo. Y hubo relámpagos, voces, truenos, un terremoto y grande granizo.",
+					"number": 19,
+					"id": "61aa9546-5938-4933-a421-bfd293b0d64c"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Apareció en el cielo una gran señal: una mujer vestida del sol, con la luna debajo de sus pies, y sobre su cabeza una corona de doce estrellas.",
+					"number": 1,
+					"study": "La mujer y el dragón",
+					"id": "e90c3bbd-091a-43c5-8d25-ac44d96ed6a6"
+				},
+				{
+					"verse": "Y estando encinta, clamaba con dolores de parto, en la angustia del alumbramiento.",
+					"number": 2,
+					"id": "e246bef1-37c2-409c-8e95-1d7d01aea922"
+				},
+				{
+					"verse": "También apareció otra señal en el cielo: he aquí un gran dragón escarlata, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas;",
+					"number": 3,
+					"id": "c37facdc-1d53-44ec-b028-c5b623c3dfb9"
+				},
+				{
+					"verse": "y su cola arrastraba la tercera parte de las estrellas del cielo, y las arrojó sobre la tierra. Y el dragón se paró frente a la mujer que estaba para dar a luz, a fin de devorar a su hijo tan pronto como naciese.",
+					"number": 4,
+					"id": "2ebae4a4-5471-41ad-a956-af3ea99c84f4"
+				},
+				{
+					"verse": "Y ella dio a luz un hijo varón, que regirá con vara de hierro a todas las naciones; y su hijo fue arrebatado para Dios y para su trono.",
+					"number": 5,
+					"id": "21be3ce7-a97b-450a-9857-79a0476fefb2"
+				},
+				{
+					"verse": "Y la mujer huyó al desierto, donde tiene lugar preparado por Dios, para que allí la sustenten por mil doscientos sesenta días.",
+					"number": 6,
+					"id": "12a3037e-ef65-4064-9ea9-61771d305ec1"
+				},
+				{
+					"verse": "Después hubo una gran batalla en el cielo: Miguel y sus ángeles luchaban contra el dragón; y luchaban el dragón y sus ángeles;",
+					"number": 7,
+					"id": "613cc1a2-eede-467c-be1f-4864763c0783"
+				},
+				{
+					"verse": "pero no prevalecieron, ni se halló ya lugar para ellos en el cielo.",
+					"number": 8,
+					"id": "84ed05ad-2edd-401d-9dd0-a876e219ef47"
+				},
+				{
+					"verse": "Y fue lanzado fuera el gran dragón, la serpiente antigua, que se llama diablo y Satanás, el cual engaña al mundo entero; fue arrojado a la tierra, y sus ángeles fueron arrojados con él.",
+					"number": 9,
+					"id": "f43792d1-67e9-4916-b5da-93bd2a8b2727"
+				},
+				{
+					"verse": "Entonces oí una gran voz en el cielo, que decía: Ahora ha venido la salvación, el poder, y el reino de nuestro Dios, y la autoridad de su Cristo; porque ha sido lanzado fuera el acusador de nuestros hermanos, el que los acusaba delante de nuestro Dios día y noche.",
+					"number": 10,
+					"id": "1af92622-8c10-400b-9625-9752a3154b4a"
+				},
+				{
+					"verse": "Y ellos le han vencido por medio de la sangre del Cordero y de la palabra del testimonio de ellos, y menospreciaron sus vidas hasta la muerte.",
+					"number": 11,
+					"id": "617935a1-a11a-478c-8a82-4635dbc07c74"
+				},
+				{
+					"verse": "Por lo cual alegraos, cielos, y los que moráis en ellos. ¡Ay de los moradores de la tierra y del mar! porque el diablo ha descendido a vosotros con gran ira, sabiendo que tiene poco tiempo.",
+					"number": 12,
+					"id": "8732af82-b9d5-4610-a112-b7bc7ca82652"
+				},
+				{
+					"verse": "Y cuando vio el dragón que había sido arrojado a la tierra, persiguió a la mujer que había dado a luz al hijo varón.",
+					"number": 13,
+					"id": "b599d113-0a81-464a-88cc-fa6331842d26"
+				},
+				{
+					"verse": "Y se le dieron a la mujer las dos alas de la gran águila, para que volase de delante de la serpiente al desierto, a su lugar, donde es sustentada por un tiempo, y tiempos, y la mitad de un tiempo.",
+					"number": 14,
+					"id": "3152a1c1-fbb7-4f55-a98e-0d84a56711b8"
+				},
+				{
+					"verse": "Y la serpiente arrojó de su boca, tras la mujer, agua como un río, para que fuese arrastrada por el río.",
+					"number": 15,
+					"id": "2a2bedbb-a0e5-421f-9113-e1953b6fa01b"
+				},
+				{
+					"verse": "Pero la tierra ayudó a la mujer, pues la tierra abrió su boca y tragó el río que el dragón había echado de su boca.",
+					"number": 16,
+					"id": "5a4eb2ea-68e4-45fc-98dc-b36571f8462a"
+				},
+				{
+					"verse": "Entonces el dragón se llenó de ira contra la mujer; y se fue a hacer guerra contra el resto de la descendencia de ella, los que guardan los mandamientos de Dios y tienen el testimonio de Jesucristo.",
+					"number": 17,
+					"id": "ac57f046-f43c-46be-9dc9-a896f9048426"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Me paré sobre la arena del mar, y vi subir del mar una bestia que tenía siete cabezas y diez cuernos; y en sus cuernos diez diademas; y sobre sus cabezas, un nombre blasfemo.",
+					"number": 1,
+					"study": "Las dos bestias",
+					"id": "62bda6b3-efc7-41d5-a4e8-2b6d88b96695"
+				},
+				{
+					"verse": "Y la bestia que vi era semejante a un leopardo, y sus pies como de oso, y su boca como boca de león. Y el dragón le dio su poder y su trono, y grande autoridad.",
+					"number": 2,
+					"id": "613007e0-8dc9-49b8-9a29-e6913942e5dd"
+				},
+				{
+					"verse": "Vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada; y se maravilló toda la tierra en pos de la bestia,",
+					"number": 3,
+					"id": "1e0bda45-903e-4786-a3d4-4450c4d7f3c9"
+				},
+				{
+					"verse": "y adoraron al dragón que había dado autoridad a la bestia, y adoraron a la bestia, diciendo: ¿Quién como la bestia, y quién podrá luchar contra ella?",
+					"number": 4,
+					"id": "fbd5d2e5-3741-49ed-aa96-51d55d570ffc"
+				},
+				{
+					"verse": "También se le dio boca que hablaba grandes cosas y blasfemias; y se le dio autoridad para actuar cuarenta y dos meses.",
+					"number": 5,
+					"id": "3f520c01-252b-4ef7-a0eb-84f7303bb45e"
+				},
+				{
+					"verse": "Y abrió su boca en blasfemias contra Dios, para blasfemar de su nombre, de su tabernáculo, y de los que moran en el cielo.",
+					"number": 6,
+					"id": "7d4d7f30-3292-4d1a-aab4-62840cd77a6f"
+				},
+				{
+					"verse": "Y se le permitió hacer guerra contra los santos, y vencerlos. También se le dio autoridad sobre toda tribu, pueblo, lengua y nación.",
+					"number": 7,
+					"id": "b7dd06e7-2b56-4af0-81f0-480870ebb4b9"
+				},
+				{
+					"verse": "Y la adoraron todos los moradores de la tierra cuyos nombres no estaban escritos en el libro de la vida del Cordero que fue inmolado desde el principio del mundo.",
+					"number": 8,
+					"id": "49a09a23-8018-4b93-af20-b697bc2007f1"
+				},
+				{
+					"verse": "Si alguno tiene oído, oiga.",
+					"number": 9,
+					"id": "572b1d2c-9eed-48f8-9918-24273158be26"
+				},
+				{
+					"verse": "Si alguno lleva en cautividad, va en cautividad; si alguno mata a espada, a espada debe ser muerto. Aquí está la paciencia y la fe de los santos.",
+					"number": 10,
+					"id": "55098ba5-4563-4084-84b6-3c4351562186"
+				},
+				{
+					"verse": "Después vi otra bestia que subía de la tierra; y tenía dos cuernos semejantes a los de un cordero, pero hablaba como dragón.",
+					"number": 11,
+					"id": "8a36fd23-e97f-47e9-b2d7-d74305e8b366"
+				},
+				{
+					"verse": "Y ejerce toda la autoridad de la primera bestia en presencia de ella, y hace que la tierra y los moradores de ella adoren a la primera bestia, cuya herida mortal fue sanada.",
+					"number": 12,
+					"id": "49dbd915-4a14-48a9-b263-1a902ef72013"
+				},
+				{
+					"verse": "También hace grandes señales, de tal manera que aun hace descender fuego del cielo a la tierra delante de los hombres.",
+					"number": 13,
+					"id": "28b315c6-5880-4bdb-8179-a3831aba5746"
+				},
+				{
+					"verse": "Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió.",
+					"number": 14,
+					"id": "790a9c90-0d98-4736-8496-1d8d42fc29c7"
+				},
+				{
+					"verse": "Y se le permitió infundir aliento a la imagen de la bestia, para que la imagen hablase e hiciese matar a todo el que no la adorase.",
+					"number": 15,
+					"id": "63e00e7c-22a5-49b4-8370-c2286f2dac33"
+				},
+				{
+					"verse": "Y hacía que a todos, pequeños y grandes, ricos y pobres, libres y esclavos, se les pusiese una marca en la mano derecha, o en la frente;",
+					"number": 16,
+					"id": "c969ce23-53d2-4778-942a-b387880e6d8f"
+				},
+				{
+					"verse": "y que ninguno pudiese comprar ni vender, sino el que tuviese la marca o el nombre de la bestia, o el número de su nombre.",
+					"number": 17,
+					"id": "6e5d5d73-e675-4d3d-b07d-e40a7ddc874c"
+				},
+				{
+					"verse": "Aquí hay sabiduría. El que tiene entendimiento, cuente el número de la bestia, pues es número de hombre. Y su número es seiscientos sesenta y seis.",
+					"number": 18,
+					"id": "5b963e0d-51aa-4dfa-a07f-a7d97b7934b8"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "Después miré, y he aquí el Cordero estaba en pie sobre el monte de Sion, y con él ciento cuarenta y cuatro mil, que tenían el nombre de él y el de su Padre escrito en la frente.",
+					"number": 1,
+					"study": "El cántico de los 144.000",
+					"id": "f83fb437-c3fe-4c3a-af1a-68be816a987d"
+				},
+				{
+					"verse": "Y oí una voz del cielo como estruendo de muchas aguas, y como sonido de un gran trueno; y la voz que oí era como de arpistas que tocaban sus arpas.",
+					"number": 2,
+					"id": "331a48d9-3826-4980-a280-169c36b02d11"
+				},
+				{
+					"verse": "Y cantaban un cántico nuevo delante del trono, y delante de los cuatro seres vivientes, y de los ancianos; y nadie podía aprender el cántico sino aquellos ciento cuarenta y cuatro mil que fueron redimidos de entre los de la tierra.",
+					"number": 3,
+					"id": "28ffd328-5459-4622-801c-7d97f96c7850"
+				},
+				{
+					"verse": "Estos son los que no se contaminaron con mujeres, pues son vírgenes. Estos son los que siguen al Cordero por dondequiera que va. Estos fueron redimidos de entre los hombres como primicias para Dios y para el Cordero;",
+					"number": 4,
+					"id": "343d2773-7eaa-42cc-ba0c-86b29736ed8b"
+				},
+				{
+					"verse": "y en sus bocas no fue hallada mentira, pues son sin mancha delante del trono de Dios.",
+					"number": 5,
+					"id": "fe91ae37-ac1b-47c4-90b6-d62649e4e779"
+				},
+				{
+					"verse": "Vi volar por en medio del cielo a otro ángel, que tenía el evangelio eterno para predicarlo a los moradores de la tierra, a toda nación, tribu, lengua y pueblo,",
+					"number": 6,
+					"study": "El mensaje de los tres ángeles",
+					"id": "bdade0d6-a22e-4c56-8f4d-3dcf290a2f8e"
+				},
+				{
+					"verse": "diciendo a gran voz: Temed a Dios, y dadle gloria, porque la hora de su juicio ha llegado; y adorad a aquel que hizo el cielo y la tierra, el mar y las fuentes de las aguas.",
+					"number": 7,
+					"id": "b45a09f6-1df5-482d-8b38-33d40c7cff1b"
+				},
+				{
+					"verse": "Otro ángel le siguió, diciendo: Ha caído, ha caído Babilonia, la gran ciudad, porque ha hecho beber a todas las naciones del vino del furor de su fornicación.",
+					"number": 8,
+					"id": "92094eea-bff5-4768-b626-826a7c40d089"
+				},
+				{
+					"verse": "Y el tercer ángel los siguió, diciendo a gran voz: Si alguno adora a la bestia y a su imagen, y recibe la marca en su frente o en su mano,",
+					"number": 9,
+					"id": "9d68a93b-20be-4b48-956f-b512a454f868"
+				},
+				{
+					"verse": "él también beberá del vino de la ira de Dios, que ha sido vaciado puro en el cáliz de su ira; y será atormentado con fuego y azufre delante de los santos ángeles y del Cordero;",
+					"number": 10,
+					"id": "a3faa29f-71ff-4264-8d35-32d4bea2fbd5"
+				},
+				{
+					"verse": "y el humo de su tormento sube por los siglos de los siglos. Y no tienen reposo de día ni de noche los que adoran a la bestia y a su imagen, ni nadie que reciba la marca de su nombre.",
+					"number": 11,
+					"id": "3a768a0b-4d56-42e9-8293-1bbeee514942"
+				},
+				{
+					"verse": "Aquí está la paciencia de los santos, los que guardan los mandamientos de Dios y la fe de Jesús.",
+					"number": 12,
+					"id": "5d62afff-be2a-4ef9-a302-23ddc284228e"
+				},
+				{
+					"verse": "Oí una voz que desde el cielo me decía: Escribe: Bienaventurados de aquí en adelante los muertos que mueren en el Señor. Sí, dice el Espíritu, descansarán de sus trabajos, porque sus obras con ellos siguen.",
+					"number": 13,
+					"id": "13da89dd-deca-48f5-aee9-523161f1e989"
+				},
+				{
+					"verse": "Miré, y he aquí una nube blanca; y sobre la nube uno sentado semejante al Hijo del Hombre, que tenía en la cabeza una corona de oro, y en la mano una hoz aguda.",
+					"number": 14,
+					"study": "La tierra es segada",
+					"id": "f9ca37f1-93a3-4038-9307-76b97852f842"
+				},
+				{
+					"verse": "Y del templo salió otro ángel, clamando a gran voz al que estaba sentado sobre la nube: Mete tu hoz, y siega; porque la hora de segar ha llegado, pues la mies de la tierra está madura.",
+					"number": 15,
+					"id": "93a6730a-0d04-4944-9677-c3736f9423bf"
+				},
+				{
+					"verse": "Y el que estaba sentado sobre la nube metió su hoz en la tierra, y la tierra fue segada.",
+					"number": 16,
+					"id": "5bef39d2-fa5e-4685-bf51-e02ae3df30cf"
+				},
+				{
+					"verse": "Salió otro ángel del templo que está en el cielo, teniendo también una hoz aguda.",
+					"number": 17,
+					"id": "ec3bf607-b96b-4a8c-89d1-76f6207a2f64"
+				},
+				{
+					"verse": "Y salió del altar otro ángel, que tenía poder sobre el fuego, y llamó a gran voz al que tenía la hoz aguda, diciendo: Mete tu hoz aguda, y vendimia los racimos de la tierra, porque sus uvas están maduras.",
+					"number": 18,
+					"id": "dcce737d-7dba-421e-a77d-60f79e024aeb"
+				},
+				{
+					"verse": "Y el ángel arrojó su hoz en la tierra, y vendimió la viña de la tierra, y echó las uvas en el gran lagar de la ira de Dios.",
+					"number": 19,
+					"id": "4e03798b-2411-4f59-95de-28aa41dc6bd6"
+				},
+				{
+					"verse": "Y fue pisado el lagar fuera de la ciudad, y del lagar salió sangre hasta los frenos de los caballos, por mil seiscientos estadios.",
+					"number": 20,
+					"id": "2c19f2e0-9f00-413a-969d-0a0cde2f8315"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "Vi en el cielo otra señal, grande y admirable: siete ángeles que tenían las siete plagas postreras; porque en ellas se consumaba la ira de Dios.",
+					"number": 1,
+					"study": "Los ángeles con las siete postreras plagas",
+					"id": "3eb75003-27c1-46ee-bf7f-d5988a0ea8ca"
+				},
+				{
+					"verse": "Vi también como un mar de vidrio mezclado con fuego; y a los que habían alcanzado la victoria sobre la bestia y su imagen, y su marca y el número de su nombre, en pie sobre el mar de vidrio, con las arpas de Dios.",
+					"number": 2,
+					"id": "5154bb52-d636-4361-8940-e8847a534f96"
+				},
+				{
+					"verse": "Y cantan el cántico de Moisés siervo de Dios, y el cántico del Cordero, diciendo: Grandes y maravillosas son tus obras, Señor Dios Todopoderoso; justos y verdaderos son tus caminos, Rey de los santos.",
+					"number": 3,
+					"id": "db6d95a0-6f77-4caa-8872-bdcc4aaa1ec2"
+				},
+				{
+					"verse": "¿Quién no te temerá, oh Señor, y glorificará tu nombre? pues sólo tú eres santo; por lo cual todas las naciones vendrán y te adorarán, porque tus juicios se han manifestado.",
+					"number": 4,
+					"id": "d9e5df91-a13f-4d68-a2c4-407671f959fd"
+				},
+				{
+					"verse": "Después de estas cosas miré, y he aquí fue abierto en el cielo el templo del tabernáculo del testimonio;",
+					"number": 5,
+					"id": "00def2e2-2026-4fb9-b1a2-2a7385b040e6"
+				},
+				{
+					"verse": "y del templo salieron los siete ángeles que tenían las siete plagas, vestidos de lino limpio y resplandeciente, y ceñidos alrededor del pecho con cintos de oro.",
+					"number": 6,
+					"id": "89a36b34-1266-4ceb-aaf1-4c81b1e88109"
+				},
+				{
+					"verse": "Y uno de los cuatro seres vivientes dio a los siete ángeles siete copas de oro, llenas de la ira de Dios, que vive por los siglos de los siglos.",
+					"number": 7,
+					"id": "706af613-8033-4ba7-b4c1-04af45487b54"
+				},
+				{
+					"verse": "Y el templo se llenó de humo por la gloria de Dios, y por su poder; y nadie podía entrar en el templo hasta que se hubiesen cumplido las siete plagas de los siete ángeles.",
+					"number": 8,
+					"id": "c72e8786-d488-4b9e-a599-621fbd3a15cd"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "Oí una gran voz que decía desde el templo a los siete ángeles: Id y derramad sobre la tierra las siete copas de la ira de Dios.",
+					"number": 1,
+					"study": "Las copas de ira",
+					"id": "b0718228-ac3f-4f45-9257-09cd28240bc4"
+				},
+				{
+					"verse": "Fue el primero, y derramó su copa sobre la tierra, y vino una úlcera maligna y pestilente sobre los hombres que tenían la marca de la bestia, y que adoraban su imagen.",
+					"number": 2,
+					"id": "b38da5e0-37b1-4411-9437-fd5824972085"
+				},
+				{
+					"verse": "El segundo ángel derramó su copa sobre el mar, y éste se convirtió en sangre como de muerto; y murió todo ser vivo que había en el mar.",
+					"number": 3,
+					"id": "d690ac7c-6417-42f9-8c0d-719b653e7e44"
+				},
+				{
+					"verse": "El tercer ángel derramó su copa sobre los ríos, y sobre las fuentes de las aguas, y se convirtieron en sangre.",
+					"number": 4,
+					"id": "04b28a76-35f3-4ea4-87cc-1d31bfd5c1ed"
+				},
+				{
+					"verse": "Y oí al ángel de las aguas, que decía: Justo eres tú, oh Señor, el que eres y que eras, el Santo, porque has juzgado estas cosas.",
+					"number": 5,
+					"id": "17d5c5d7-6363-423e-9b82-26f214550408"
+				},
+				{
+					"verse": "Por cuanto derramaron la sangre de los santos y de los profetas, también tú les has dado a beber sangre; pues lo merecen.",
+					"number": 6,
+					"id": "4dbb90b5-e7cc-49ac-a69b-8ee2403b8b14"
+				},
+				{
+					"verse": "También oí a otro, que desde el altar decía: Ciertamente, Señor Dios Todopoderoso, tus juicios son verdaderos y justos.",
+					"number": 7,
+					"id": "eada8eef-e9c8-44f6-8403-74e046306d98"
+				},
+				{
+					"verse": "El cuarto ángel derramó su copa sobre el sol, al cual fue dado quemar a los hombres con fuego.",
+					"number": 8,
+					"id": "d63da7bf-4980-44f3-bc43-f7edd220307b"
+				},
+				{
+					"verse": "Y los hombres se quemaron con el gran calor, y blasfemaron el nombre de Dios, que tiene poder sobre estas plagas, y no se arrepintieron para darle gloria.",
+					"number": 9,
+					"id": "8f6bd025-34c8-4bd7-b9d5-380287998ab5"
+				},
+				{
+					"verse": "El quinto ángel derramó su copa sobre el trono de la bestia; y su reino se cubrió de tinieblas, y mordían de dolor sus lenguas,",
+					"number": 10,
+					"id": "61b947b5-a80d-4200-9e2b-9b29384e1aa1"
+				},
+				{
+					"verse": "y blasfemaron contra el Dios del cielo por sus dolores y por sus úlceras, y no se arrepintieron de sus obras.",
+					"number": 11,
+					"id": "1a2fb92f-c282-45bc-b9a4-75e9c94d85f6"
+				},
+				{
+					"verse": "El sexto ángel derramó su copa sobre el gran río Eufrates; y el agua de éste se secó, para que estuviese preparado el camino a los reyes del oriente.",
+					"number": 12,
+					"id": "2eabeea1-2a00-4ae7-ab74-21e2681ddc78"
+				},
+				{
+					"verse": "Y vi salir de la boca del dragón, y de la boca de la bestia, y de la boca del falso profeta, tres espíritus inmundos a manera de ranas;",
+					"number": 13,
+					"id": "31d4552b-f49b-4ab6-85cc-fdd38db10134"
+				},
+				{
+					"verse": "pues son espíritus de demonios, que hacen señales, y van a los reyes de la tierra en todo el mundo, para reunirlos a la batalla de aquel gran día del Dios Todopoderoso.",
+					"number": 14,
+					"id": "815731c0-9934-44e8-b2b3-9c31827a7189"
+				},
+				{
+					"verse": "He aquí, yo vengo como ladrón. Bienaventurado el que vela, y guarda sus ropas, para que no ande desnudo, y vean su vergüenza.",
+					"number": 15,
+					"id": "7729b24c-c2f2-4e39-b2ca-a794b127b270"
+				},
+				{
+					"verse": "Y los reunió en el lugar que en hebreo se llama Armagedón.",
+					"number": 16,
+					"id": "19487b0e-af7a-4435-8c87-dd85de14183f"
+				},
+				{
+					"verse": "El séptimo ángel derramó su copa por el aire; y salió una gran voz del templo del cielo, del trono, diciendo: Hecho está.",
+					"number": 17,
+					"id": "f5f560a2-217f-42e4-bda5-b64ad63be2ce"
+				},
+				{
+					"verse": "Entonces hubo relámpagos y voces y truenos, y un gran temblor de tierra, un terremoto tan grande, cual no lo hubo jamás desde que los hombres han estado sobre la tierra.",
+					"number": 18,
+					"id": "9f3f173e-7fab-48ab-a6a4-e74fa85f4e5b"
+				},
+				{
+					"verse": "Y la gran ciudad fue dividida en tres partes, y las ciudades de las naciones cayeron; y la gran Babilonia vino en memoria delante de Dios, para darle el cáliz del vino del ardor de su ira.",
+					"number": 19,
+					"id": "308ab706-aae4-4dfd-b6da-0f413c7ce9cc"
+				},
+				{
+					"verse": "Y toda isla huyó, y los montes no fueron hallados.",
+					"number": 20,
+					"id": "08b479cd-e567-433f-ad20-49acbaba411e"
+				},
+				{
+					"verse": "Y cayó del cielo sobre los hombres un enorme granizo como del peso de un talento; y los hombres blasfemaron contra Dios por la plaga del granizo; porque su plaga fue sobremanera grande.",
+					"number": 21,
+					"id": "d374e96c-3b98-4f7d-a9c6-b9832050c2ce"
+				}
+			]
+		},
+		{
+			"chapter": "17",
+			"vers": [
+				{
+					"verse": "Vino entonces uno de los siete ángeles que tenían las siete copas, y habló conmigo diciéndome: Ven acá, y te mostraré la sentencia contra la gran ramera, la que está sentada sobre muchas aguas;",
+					"number": 1,
+					"study": "Condenación de la gran ramera",
+					"id": "4f5b32b4-7542-4c6d-82e0-be8922ac12a6"
+				},
+				{
+					"verse": "con la cual han fornicado los reyes de la tierra, y los moradores de la tierra se han embriagado con el vino de su fornicación.",
+					"number": 2,
+					"id": "e3cd9234-eacc-436f-881e-34b22ba94b20"
+				},
+				{
+					"verse": "Y me llevó en el Espíritu al desierto; y vi a una mujer sentada sobre una bestia escarlata llena de nombres de blasfemia, que tenía siete cabezas y diez cuernos.",
+					"number": 3,
+					"id": "ea7c3ff0-7812-4e98-a28b-f32787250ace"
+				},
+				{
+					"verse": "Y la mujer estaba vestida de púrpura y escarlata, y adornada de oro de piedras preciosas y de perlas, y tenía en la mano un cáliz de oro lleno de abominaciones y de la inmundicia de su fornicación;",
+					"number": 4,
+					"id": "71d8f4de-55bd-43b4-8494-514e5cf4d7b4"
+				},
+				{
+					"verse": "y en su frente un nombre escrito, un misterio: BABILONIA LA GRANDE, LA MADRE DE LAS RAMERAS Y DE LAS ABOMINACIONES DE LA TIERRA.",
+					"number": 5,
+					"id": "4c38d45c-dd50-4080-a7b8-4b5d011ae3ac"
+				},
+				{
+					"verse": "Vi a la mujer ebria de la sangre de los santos, y de la sangre de los mártires de Jesús; y cuando la vi, quedé asombrado con gran asombro.",
+					"number": 6,
+					"id": "9ae25ad3-5d55-476e-a85f-46cdccda61eb"
+				},
+				{
+					"verse": "Y el ángel me dijo: ¿Por qué te asombras? Yo te diré el misterio de la mujer, y de la bestia que la trae, la cual tiene las siete cabezas y los diez cuernos.",
+					"number": 7,
+					"id": "b4724c7b-67d9-4ef0-aaa1-761f2ab07ad3"
+				},
+				{
+					"verse": "La bestia que has visto, era, y no es; y está para subir del abismo e ir a perdición; y los moradores de la tierra, aquellos cuyos nombres no están escritos desde la fundación del mundo en el libro de la vida, se asombrarán viendo la bestia que era y no es, y será.",
+					"number": 8,
+					"id": "be47db82-2d1a-4973-901c-9c0d82600db6"
+				},
+				{
+					"verse": "Esto, para la mente que tenga sabiduría: Las siete cabezas son siete montes, sobre los cuales se sienta la mujer,",
+					"number": 9,
+					"id": "ee028433-575f-442a-8e5c-defe85bd5432"
+				},
+				{
+					"verse": "y son siete reyes. Cinco de ellos han caído; uno es, y el otro aún no ha venido; y cuando venga, es necesario que dure breve tiempo.",
+					"number": 10,
+					"id": "9b299be7-c40b-485b-83bd-f0f1e35d6df7"
+				},
+				{
+					"verse": "La bestia que era, y no es, es también el octavo; y es de entre los siete, y va a la perdición.",
+					"number": 11,
+					"id": "937944c8-24ff-4729-b568-2ed472120be8"
+				},
+				{
+					"verse": "Y los diez cuernos que has visto, son diez reyes, que aún no han recibido reino; pero por una hora recibirán autoridad como reyes juntamente con la bestia.",
+					"number": 12,
+					"id": "060aaa88-e95d-45bd-bb54-59e25f089c99"
+				},
+				{
+					"verse": "Estos tienen un mismo propósito, y entregarán su poder y su autoridad a la bestia.",
+					"number": 13,
+					"id": "99dc6fc3-42c8-4e4f-b834-09e972f3d91f"
+				},
+				{
+					"verse": "Pelearán contra el Cordero, y el Cordero los vencerá, porque él es Señor de señores y Rey de reyes; y los que están con él son llamados y elegidos y fieles.",
+					"number": 14,
+					"id": "8ce1b0de-20a2-4d1d-b6b3-d7c20c1c0bff"
+				},
+				{
+					"verse": "Me dijo también: Las aguas que has visto donde la ramera se sienta, son pueblos, muchedumbres, naciones y lenguas.",
+					"number": 15,
+					"id": "45acc44c-0712-4c16-ae56-29ad303e578f"
+				},
+				{
+					"verse": "Y los diez cuernos que viste en la bestia, éstos aborrecerán a la ramera, y la dejarán desolada y desnuda; y devorarán sus carnes, y la quemarán con fuego;",
+					"number": 16,
+					"id": "2413189b-22b8-49fd-9bdc-20bf20533da9"
+				},
+				{
+					"verse": "porque Dios ha puesto en sus corazones el ejecutar lo que él quiso: ponerse de acuerdo, y dar su reino a la bestia, hasta que se cumplan las palabras de Dios.",
+					"number": 17,
+					"id": "80105bd8-e5fd-4432-99a9-0537959cbda2"
+				},
+				{
+					"verse": "Y la mujer que has visto es la gran ciudad que reina sobre los reyes de la tierra.",
+					"number": 18,
+					"id": "27fe90c0-8a1a-4bdb-a37b-0b772c1eab6f"
+				}
+			]
+		},
+		{
+			"chapter": "18",
+			"vers": [
+				{
+					"verse": "Después de esto vi a otro ángel descender del cielo con gran poder; y la tierra fue alumbrada con su gloria.",
+					"number": 1,
+					"study": "La caída de Babilonia",
+					"id": "2503189c-ad6e-4842-9177-9ceb4f0eebe5"
+				},
+				{
+					"verse": "Y clamó con voz potente, diciendo: Ha caído, ha caído la gran Babilonia, y se ha hecho habitación de demonios y guarida de todo espíritu inmundo, y albergue de toda ave inmunda y aborrecible.",
+					"number": 2,
+					"id": "58cb950c-a7c2-42aa-908d-b56cc828e095"
+				},
+				{
+					"verse": "Porque todas las naciones han bebido del vino del furor de su fornicación; y los reyes de la tierra han fornicado con ella, y los mercaderes de la tierra se han enriquecido de la potencia de sus deleites.",
+					"number": 3,
+					"id": "99e112ae-5c93-4446-b492-433271e82d6c"
+				},
+				{
+					"verse": "Y oí otra voz del cielo, que decía: Salid de ella, pueblo mío, para que no seáis partícipes de sus pecados, ni recibáis parte de sus plagas;",
+					"number": 4,
+					"id": "582b7000-587b-4893-9b2d-6122812d1c36"
+				},
+				{
+					"verse": "porque sus pecados han llegado hasta el cielo, y Dios se ha acordado de sus maldades.",
+					"number": 5,
+					"id": "aa315e8d-b8ee-4816-94f2-ca26e95ba838"
+				},
+				{
+					"verse": "Dadle a ella como ella os ha dado, y pagadle doble según sus obras; en el cáliz en que ella preparó bebida, preparadle a ella el doble.",
+					"number": 6,
+					"id": "349ad433-922e-4ad4-9fff-1f74a27c117b"
+				},
+				{
+					"verse": "Cuanto ella se ha glorificado y ha vivido en deleites, tanto dadle de tormento y llanto; porque dice en su corazón: Yo estoy sentada como reina, y no soy viuda, y no veré llanto;",
+					"number": 7,
+					"id": "02596c99-5bc9-4477-adec-e05ee43b3500"
+				},
+				{
+					"verse": "por lo cual en un solo día vendrán sus plagas; muerte, llanto y hambre, y será quemada con fuego; porque poderoso es Dios el Señor, que la juzga.",
+					"number": 8,
+					"id": "87a5771a-6214-4a9f-8787-b905ccfd81b7"
+				},
+				{
+					"verse": "Y los reyes de la tierra que han fornicado con ella, y con ella han vivido en deleites, llorarán y harán lamentación sobre ella, cuando vean el humo de su incendio,",
+					"number": 9,
+					"id": "8ba9ccfd-a092-40c7-ad05-f936488668ff"
+				},
+				{
+					"verse": "parándose lejos por el temor de su tormento, diciendo: ¡Ay, ay, de la gran ciudad de Babilonia, la ciudad fuerte; porque en una hora vino tu juicio!",
+					"number": 10,
+					"id": "310bd2ad-387d-439c-8e3c-fc137cdbb06d"
+				},
+				{
+					"verse": "Y los mercaderes de la tierra lloran y hacen lamentación sobre ella, porque ninguno compra más sus mercaderías;",
+					"number": 11,
+					"id": "e1499e93-4dc2-4f87-aa09-ae0b2f5c5852"
+				},
+				{
+					"verse": "mercadería de oro, de plata, de piedras preciosas, de perlas, de lino fino, de púrpura, de seda, de escarlata, de toda madera olorosa, de todo objeto de marfil, de todo objeto de madera preciosa, de cobre, de hierro y de mármol;",
+					"number": 12,
+					"id": "6bfde706-db22-49db-bc36-8e5f70fc4df4"
+				},
+				{
+					"verse": "y canela, especias aromáticas, incienso, mirra, olíbano, vino, aceite, flor de harina, trigo, bestias, ovejas, caballos y carros, y esclavos, almas de hombres.",
+					"number": 13,
+					"id": "40760c79-c4e7-4446-b977-517c224a433c"
+				},
+				{
+					"verse": "Los frutos codiciados por tu alma se apartaron de ti, y todas las cosas exquisitas y espléndidas te han faltado, y nunca más las hallarás.",
+					"number": 14,
+					"id": "222c7c4e-8bd3-4eb9-8688-a16a9ad88876"
+				},
+				{
+					"verse": "Los mercaderes de estas cosas, que se han enriquecido a costa de ella, se pararán lejos por el temor de su tormento, llorando y lamentando,",
+					"number": 15,
+					"id": "d626fe2e-24e1-4af7-b0e0-b71d0e277bf3"
+				},
+				{
+					"verse": "y diciendo: ¡Ay, ay, de la gran ciudad, que estaba vestida de lino fino, de púrpura y de escarlata, y estaba adornada de oro, de piedras preciosas y de perlas!",
+					"number": 16,
+					"id": "2ab0fd8e-b8ee-4614-bab0-77256f96c60d"
+				},
+				{
+					"verse": "Porque en una hora han sido consumidas tantas riquezas. Y todo piloto, y todos los que viajan en naves, y marineros, y todos los que trabajan en el mar, se pararon lejos;",
+					"number": 17,
+					"id": "d1b3ad7c-bba0-4622-a907-790486f9c905"
+				},
+				{
+					"verse": "y viendo el humo de su incendio, dieron voces, diciendo: ¿Qué ciudad era semejante a esta gran ciudad?",
+					"number": 18,
+					"id": "711a6976-9bfc-496a-a98d-ed4fdf24969c"
+				},
+				{
+					"verse": "Y echaron polvo sobre sus cabezas, y dieron voces, llorando y lamentando, diciendo: ¡Ay, ay de la gran ciudad, en la cual todos los que tenían naves en el mar se habían enriquecido de sus riquezas; pues en una hora ha sido desolada!",
+					"number": 19,
+					"id": "9250618f-920c-4da6-aafe-9c735f323e48"
+				},
+				{
+					"verse": "Alégrate sobre ella, cielo, y vosotros, santos, apóstoles y profetas; porque Dios os ha hecho justicia en ella.",
+					"number": 20,
+					"id": "c742fe7e-8d1a-4664-a2c7-b5262b58edf2"
+				},
+				{
+					"verse": "Y un ángel poderoso tomó una piedra, como una gran piedra de molino, y la arrojó en el mar, diciendo: Con el mismo ímpetu será derribada Babilonia, la gran ciudad, y nunca más será hallada.",
+					"number": 21,
+					"id": "f2281cb8-1e70-4c77-b3cf-e277eadd05cf"
+				},
+				{
+					"verse": "Y voz de arpistas, de músicos, de flautistas y de trompeteros no se oirá más en ti; y ningún artífice de oficio alguno se hallará más en ti, ni ruido de molino se oirá más en ti.",
+					"number": 22,
+					"id": "36123f39-70f1-4f18-9c89-f604fe046201"
+				},
+				{
+					"verse": "Luz de lámpara no alumbrará más en ti, ni voz de esposo y de esposa se oirá más en ti; porque tus mercaderes eran los grandes de la tierra; pues por tus hechicerías fueron engañadas todas las naciones.",
+					"number": 23,
+					"id": "75f8f292-1ccb-4360-b18e-5af4fbaaceb5"
+				},
+				{
+					"verse": "Y en ella se halló la sangre de los profetas y de los santos, y de todos los que han sido muertos en la tierra.",
+					"number": 24,
+					"id": "b6270b75-306b-4168-a508-7d4e08ff8ebc"
+				}
+			]
+		},
+		{
+			"chapter": "19",
+			"vers": [
+				{
+					"verse": "Después de esto oí una gran voz de gran multitud en el cielo, que decía: ¡Aleluya! Salvación y honra y gloria y poder son del Señor Dios nuestro;",
+					"number": 1,
+					"study": "Alabanzas en el cielo",
+					"id": "7c1de223-1902-43f3-bdb6-151a6db1cf95"
+				},
+				{
+					"verse": "porque sus juicios son verdaderos y justos; pues ha juzgado a la gran ramera que ha corrompido a la tierra con su fornicación, y ha vengado la sangre de sus siervos de la mano de ella.",
+					"number": 2,
+					"id": "389c58a5-2677-4386-ada3-2519ff779a87"
+				},
+				{
+					"verse": "Otra vez dijeron: ¡Aleluya! Y el humo de ella sube por los siglos de los siglos.",
+					"number": 3,
+					"id": "b6642be4-669c-4b9b-8e23-7553a2fd4969"
+				},
+				{
+					"verse": "Y los veinticuatro ancianos y los cuatro seres vivientes se postraron en tierra y adoraron a Dios, que estaba sentado en el trono, y decían: ¡Amén! ¡Aleluya!",
+					"number": 4,
+					"id": "af6d027c-e6ba-4741-9a95-4f98591df36e"
+				},
+				{
+					"verse": "Y salió del trono una voz que decía: Alabad a nuestro Dios todos sus siervos, y los que le teméis, así pequeños como grandes.",
+					"number": 5,
+					"id": "b703f042-c4a5-4c38-91f8-40ceec7ada54"
+				},
+				{
+					"verse": "Y oí como la voz de una gran multitud, como el estruendo de muchas aguas, y como la voz de grandes truenos, que decía: ¡Aleluya, porque el Señor nuestro Dios Todopoderoso reina!",
+					"number": 6,
+					"id": "08d25b8b-7eb0-4f79-bb2e-cbbf0a1fa8f7"
+				},
+				{
+					"verse": "Gocémonos y alegrémonos y démosle gloria; porque han llegado las bodas del Cordero, y su esposa se ha preparado.",
+					"number": 7,
+					"id": "4623e602-071f-4675-98eb-6fb7e9937c8a"
+				},
+				{
+					"verse": "Y a ella se le ha concedido que se vista de lino fino, limpio y resplandeciente; porque el lino fino es las acciones justas de los santos.",
+					"number": 8,
+					"id": "0fe638cd-7243-4514-85ce-73ffef6e098d"
+				},
+				{
+					"verse": "Y el ángel me dijo: Escribe: Bienaventurados los que son llamados a la cena de las bodas del Cordero. Y me dijo: Estas son palabras verdaderas de Dios.",
+					"number": 9,
+					"id": "3617ce20-22c6-4e9c-bce8-602a46c5a756"
+				},
+				{
+					"verse": "Yo me postré a sus pies para adorarle. Y él me dijo: Mira, no lo hagas; yo soy consiervo tuyo, y de tus hermanos que retienen el testimonio de Jesús. Adora a Dios; porque el testimonio de Jesús es el espíritu de la profecía.",
+					"number": 10,
+					"id": "eda88063-1d0b-43c6-bfd2-817d494a1c0e"
+				},
+				{
+					"verse": "Entonces vi el cielo abierto; y he aquí un caballo blanco, y el que lo montaba se llamaba Fiel y Verdadero, y con justicia juzga y pelea.",
+					"number": 11,
+					"study": "El jinete del caballo blanco",
+					"id": "a0a5018d-3671-4d44-8db6-53934ac738ee"
+				},
+				{
+					"verse": "Sus ojos eran como llama de fuego, y había en su cabeza muchas diademas; y tenía un nombre escrito que ninguno conocía sino él mismo.",
+					"number": 12,
+					"id": "e9d5ee45-97c9-405c-babb-14dd74bce370"
+				},
+				{
+					"verse": "Estaba vestido de una ropa teñida en sangre; y su nombre es: EL VERBO DE DIOS.",
+					"number": 13,
+					"id": "00356605-6022-4593-96ad-e59b0d90b640"
+				},
+				{
+					"verse": "Y los ejércitos celestiales, vestidos de lino finísimo, blanco y limpio, le seguían en caballos blancos.",
+					"number": 14,
+					"id": "2df5cceb-641b-4034-9e14-bf19cce7a007"
+				},
+				{
+					"verse": "De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso.",
+					"number": 15,
+					"id": "918d6b5d-350a-4475-9f4a-4b57551cf96d"
+				},
+				{
+					"verse": "Y en su vestidura y en su muslo tiene escrito este nombre: REY DE REYES Y SEÑOR DE SEÑORES.",
+					"number": 16,
+					"id": "f0327429-6796-496f-a58d-36e9ce962872"
+				},
+				{
+					"verse": "Y vi a un ángel que estaba en pie en el sol, y clamó a gran voz, diciendo a todas las aves que vuelan en medio del cielo: Venid, y congregaos a la gran cena de Dios,",
+					"number": 17,
+					"id": "9a3209a8-b283-45fa-acf8-3d673b45222c"
+				},
+				{
+					"verse": "para que comáis carnes de reyes y de capitanes, y carnes de fuertes, carnes de caballos y de sus jinetes, y carnes de todos, libres y esclavos, pequeños y grandes.",
+					"number": 18,
+					"id": "e0b375d7-e451-4303-b558-98a8f3a7b8eb"
+				},
+				{
+					"verse": "Y vi a la bestia, a los reyes de la tierra y a sus ejércitos, reunidos para guerrear contra el que montaba el caballo, y contra su ejército.",
+					"number": 19,
+					"id": "e19ef332-8f1e-4172-9965-9d6f20ae2fa9"
+				},
+				{
+					"verse": "Y la bestia fue apresada, y con ella el falso profeta que había hecho delante de ella las señales con las cuales había engañado a los que recibieron la marca de la bestia, y habían adorado su imagen. Estos dos fueron lanzados vivos dentro de un lago de fuego que arde con azufre.",
+					"number": 20,
+					"id": "2e2dfed2-77cf-46e1-9c3c-4f964d464a78"
+				},
+				{
+					"verse": "Y los demás fueron muertos con la espada que salía de la boca del que montaba el caballo, y todas las aves se saciaron de las carnes de ellos.",
+					"number": 21,
+					"id": "2322ecdf-5ae1-4176-87a5-3f2efa77739c"
+				}
+			]
+		},
+		{
+			"chapter": "20",
+			"vers": [
+				{
+					"verse": "Vi a un ángel que descendía del cielo, con la llave del abismo, y una gran cadena en la mano.",
+					"number": 1,
+					"study": "Los mil años",
+					"id": "f0c4ab89-24dd-4782-bde6-553b56c91c79"
+				},
+				{
+					"verse": "Y prendió al dragón, la serpiente antigua, que es el diablo y Satanás, y lo ató por mil años;",
+					"number": 2,
+					"id": "f8738b66-cd59-4382-a9ef-a63347654f57"
+				},
+				{
+					"verse": "y lo arrojó al abismo, y lo encerró, y puso su sello sobre él, para que no engañase más a las naciones, hasta que fuesen cumplidos mil años; y después de esto debe ser desatado por un poco de tiempo.",
+					"number": 3,
+					"id": "79ee2cff-c072-4f77-aa95-3820aa1de81e"
+				},
+				{
+					"verse": "Y vi tronos, y se sentaron sobre ellos los que recibieron facultad de juzgar; y vi las almas de los decapitados por causa del testimonio de Jesús y por la palabra de Dios, los que no habían adorado a la bestia ni a su imagen, y que no recibieron la marca en sus frentes ni en sus manos; y vivieron y reinaron con Cristo mil años.",
+					"number": 4,
+					"id": "4af49f15-6723-4f1d-9586-259f10e5a27c"
+				},
+				{
+					"verse": "Pero los otros muertos no volvieron a vivir hasta que se cumplieron mil años. Esta es la primera resurrección.",
+					"number": 5,
+					"id": "4c16fde0-7a79-496e-ba67-e49b81d9543b"
+				},
+				{
+					"verse": "Bienaventurado y santo el que tiene parte en la primera resurrección; la segunda muerte no tiene potestad sobre éstos, sino que serán sacerdotes de Dios y de Cristo, y reinarán con él mil años.",
+					"number": 6,
+					"id": "6528262b-c7ef-43f6-ae37-73f8ab56f410"
+				},
+				{
+					"verse": "Cuando los mil años se cumplan, Satanás será suelto de su prisión,",
+					"number": 7,
+					"id": "be8ee75f-3e62-4c37-a4d8-54f08f225454"
+				},
+				{
+					"verse": "y saldrá a engañar a las naciones que están en los cuatro ángulos de la tierra, a Gog y a Magog, a fin de reunirlos para la batalla; el número de los cuales es como la arena del mar.",
+					"number": 8,
+					"id": "a21b0eed-e8de-4304-92d1-1618da938e24"
+				},
+				{
+					"verse": "Y subieron sobre la anchura de la tierra, y rodearon el campamento de los santos y la ciudad amada; y de Dios descendió fuego del cielo, y los consumió.",
+					"number": 9,
+					"id": "917cfc2f-2f97-4486-93d3-fb57fcffd7a3"
+				},
+				{
+					"verse": "Y el diablo que los engañaba fue lanzado en el lago de fuego y azufre, donde estaban la bestia y el falso profeta; y serán atormentados día y noche por los siglos de los siglos.",
+					"number": 10,
+					"id": "b70ce690-0e2d-4c68-a43e-9232ace95b63"
+				},
+				{
+					"verse": "Y vi un gran trono blanco y al que estaba sentado en él, de delante del cual huyeron la tierra y el cielo, y ningún lugar se encontró para ellos.",
+					"number": 11,
+					"study": "El juicio ante el gran trono blanco",
+					"id": "a3e7ed4e-58f6-455e-ba7e-8559be14de23"
+				},
+				{
+					"verse": "Y vi a los muertos, grandes y pequeños, de pie ante Dios; y los libros fueron abiertos, y otro libro fue abierto, el cual es el libro de la vida; y fueron juzgados los muertos por las cosas que estaban escritas en los libros, según sus obras.",
+					"number": 12,
+					"id": "4011c431-abed-44b4-a129-de2111ba9967"
+				},
+				{
+					"verse": "Y el mar entregó los muertos que había en él; y la muerte y el Hades entregaron los muertos que había en ellos; y fueron juzgados cada uno según sus obras.",
+					"number": 13,
+					"id": "5075490d-acd5-4f74-8f54-7519b68f352b"
+				},
+				{
+					"verse": "Y la muerte y el Hades fueron lanzados al lago de fuego. Esta es la muerte segunda.",
+					"number": 14,
+					"id": "d833720c-8881-4e02-a68a-cc889c886188"
+				},
+				{
+					"verse": "Y el que no se halló inscrito en el libro de la vida fue lanzado al lago de fuego.",
+					"number": 15,
+					"id": "0d22ae15-f866-4318-982d-de163abdb182"
+				}
+			]
+		},
+		{
+			"chapter": "21",
+			"vers": [
+				{
+					"verse": "Vi un cielo nuevo y una tierra nueva; porque el primer cielo y la primera tierra pasaron, y el mar ya no existía más.",
+					"number": 1,
+					"study": "Cielo nuevo y tierra nueva",
+					"id": "b7361b39-a00b-455a-848f-b1eceb2be145"
+				},
+				{
+					"verse": "Y yo Juan vi la santa ciudad, la nueva Jerusalén, descender del cielo, de Dios, dispuesta como una esposa ataviada para su marido.",
+					"number": 2,
+					"id": "a1d77922-487a-4df4-8736-55e777f15baf"
+				},
+				{
+					"verse": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y Dios mismo estará con ellos como su Dios.",
+					"number": 3,
+					"id": "e6880e97-6430-499f-972c-7673d27969e4"
+				},
+				{
+					"verse": "Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron.",
+					"number": 4,
+					"id": "b95633e0-806f-4c9c-aa06-0136ae0b0efc"
+				},
+				{
+					"verse": "Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y me dijo: Escribe; porque estas palabras son fieles y verdaderas.",
+					"number": 5,
+					"id": "7ca562ec-5a57-48e6-8905-eb3f3d0c86b1"
+				},
+				{
+					"verse": "Y me dijo: Hecho está. Yo soy el Alfa y la Omega, el principio y el fin. Al que tuviere sed, yo le daré gratuitamente de la fuente del agua de la vida.",
+					"number": 6,
+					"id": "582bd432-c18e-4aa8-a2c3-aef1dd320771"
+				},
+				{
+					"verse": "El que venciere heredará todas las cosas, y yo seré su Dios, y él será mi hijo.",
+					"number": 7,
+					"id": "5297505f-3f34-4379-af7c-f5b4d24d2492"
+				},
+				{
+					"verse": "Pero los cobardes e incrédulos, los abominables y homicidas, los fornicarios y hechiceros, los idólatras y todos los mentirosos tendrán su parte en el lago que arde con fuego y azufre, que es la muerte segunda.",
+					"number": 8,
+					"id": "f0ea284c-69fd-417b-845e-8913d31376c3"
+				},
+				{
+					"verse": "Vino entonces a mí uno de los siete ángeles que tenían las siete copas llenas de las siete plagas postreras, y habló conmigo, diciendo: Ven acá, yo te mostraré la desposada, la esposa del Cordero.",
+					"number": 9,
+					"study": "La nueva Jerusalén",
+					"id": "8d75c29f-9f65-412b-9027-1288a85bc389"
+				},
+				{
+					"verse": "Y me llevó en el Espíritu a un monte grande y alto, y me mostró la gran ciudad santa de Jerusalén, que descendía del cielo, de Dios,",
+					"number": 10,
+					"id": "ca396ac6-a02d-4df1-af91-b5cca2d120cf"
+				},
+				{
+					"verse": "teniendo la gloria de Dios. Y su fulgor era semejante al de una piedra preciosísima, como piedra de jaspe, diáfana como el cristal.",
+					"number": 11,
+					"id": "0405d0d3-beb0-4a57-9047-f7423cc42369"
+				},
+				{
+					"verse": "Tenía un muro grande y alto con doce puertas; y en las puertas, doce ángeles, y nombres inscritos, que son los de las doce tribus de los hijos de Israel;",
+					"number": 12,
+					"id": "67400344-5c1c-4b64-b3b9-11c998b22e9c"
+				},
+				{
+					"verse": "al oriente tres puertas; al norte tres puertas; al sur tres puertas; al occidente tres puertas.",
+					"number": 13,
+					"id": "b2606a80-f522-424d-b8fa-263c71a75254"
+				},
+				{
+					"verse": "Y el muro de la ciudad tenía doce cimientos, y sobre ellos los doce nombres de los doce apóstoles del Cordero.",
+					"number": 14,
+					"id": "07b14fa8-a26a-4289-8d9b-f2aabedcd943"
+				},
+				{
+					"verse": "El que hablaba conmigo tenía una caña de medir, de oro, para medir la ciudad, sus puertas y su muro.",
+					"number": 15,
+					"id": "1fb82767-6e7b-457d-9a9b-3a81eea5fa8a"
+				},
+				{
+					"verse": "La ciudad se halla establecida en cuadro, y su longitud es igual a su anchura; y él midió la ciudad con la caña, doce mil estadios; la longitud, la altura y la anchura de ella son iguales.",
+					"number": 16,
+					"id": "dde68142-d9fa-46d6-a571-3593639d6435"
+				},
+				{
+					"verse": "Y midió su muro, ciento cuarenta y cuatro codos, de medida de hombre, la cual es de ángel.",
+					"number": 17,
+					"id": "7475ce0b-eb31-435d-a52e-6da80827f3cd"
+				},
+				{
+					"verse": "El material de su muro era de jaspe; pero la ciudad era de oro puro, semejante al vidrio limpio;",
+					"number": 18,
+					"id": "c9e9c3cd-58f1-440a-9f4b-1e0b2b62bde6"
+				},
+				{
+					"verse": "y los cimientos del muro de la ciudad estaban adornados con toda piedra preciosa. El primer cimiento era jaspe; el segundo, zafiro; el tercero, ágata; el cuarto, esmeralda;",
+					"number": 19,
+					"id": "964d572a-6775-4b93-a3d1-58f2996d977f"
+				},
+				{
+					"verse": "el quinto, ónice; el sexto, cornalina; el séptimo, crisólito; el octavo, berilo; el noveno, topacio; el décimo, crisopraso; el undécimo, jacinto; el duodécimo, amatista.",
+					"number": 20,
+					"id": "72be15d6-e679-44a8-97f6-41d478077092"
+				},
+				{
+					"verse": "Las doce puertas eran doce perlas; cada una de las puertas era una perla. Y la calle de la ciudad era de oro puro, transparente como vidrio.",
+					"number": 21,
+					"id": "b451d6f8-c010-4eec-b33d-fe89dfec7571"
+				},
+				{
+					"verse": "Y no vi en ella templo; porque el Señor Dios Todopoderoso es el templo de ella, y el Cordero.",
+					"number": 22,
+					"id": "9418e4a9-1ecd-46b1-9b85-85829bdb3856"
+				},
+				{
+					"verse": "La ciudad no tiene necesidad de sol ni de luna que brillen en ella; porque la gloria de Dios la ilumina, y el Cordero es su lumbrera.",
+					"number": 23,
+					"id": "b7e05489-9222-4422-a92d-335c222876a3"
+				},
+				{
+					"verse": "Y las naciones que hubieren sido salvas andarán a la luz de ella; y los reyes de la tierra traerán su gloria y honor a ella.",
+					"number": 24,
+					"id": "4b0311e7-8b30-4db4-970c-7b9ce851f28a"
+				},
+				{
+					"verse": "Sus puertas nunca serán cerradas de día, pues allí no habrá noche.",
+					"number": 25,
+					"id": "b950823e-a4e8-4a75-b1cf-162a91f76d34"
+				},
+				{
+					"verse": "Y llevarán la gloria y la honra de las naciones a ella.",
+					"number": 26,
+					"id": "d401f2c7-0294-4723-91bf-6206ec24d6f5"
+				},
+				{
+					"verse": "No entrará en ella ninguna cosa inmunda, o que hace abominación y mentira, sino solamente los que están inscritos en el libro de la vida del Cordero.",
+					"number": 27,
+					"id": "9220c633-7cbb-41b0-b71d-3e0a8274681f"
+				}
+			]
+		},
+		{
+			"chapter": "22",
+			"vers": [
+				{
+					"verse": "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero.",
+					"number": 1,
+					"id": "cc46fc35-e1db-4a38-941b-29a63ae6fbf1"
+				},
+				{
+					"verse": "En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones.",
+					"number": 2,
+					"id": "c137743a-ffd6-4c40-a94b-e1e5d63d2730"
+				},
+				{
+					"verse": "Y no habrá más maldición; y el trono de Dios y del Cordero estará en ella, y sus siervos le servirán,",
+					"number": 3,
+					"id": "658d1487-a3da-4954-a74b-8678fa9c95c0"
+				},
+				{
+					"verse": "y verán su rostro, y su nombre estará en sus frentes.",
+					"number": 4,
+					"id": "ec0c332d-685c-42db-b851-c458a3089fbc"
+				},
+				{
+					"verse": "No habrá allí más noche; y no tienen necesidad de luz de lámpara, ni de luz del sol, porque Dios el Señor los iluminará; y reinarán por los siglos de los siglos.",
+					"number": 5,
+					"id": "db1113b5-a0f0-46a2-9613-20481aac9d1a"
+				},
+				{
+					"verse": "Y me dijo: Estas palabras son fieles y verdaderas. Y el Señor, el Dios de los espíritus de los profetas, ha enviado su ángel, para mostrar a sus siervos las cosas que deben suceder pronto.",
+					"number": 6,
+					"study": "La venida de Cristo está cerca",
+					"id": "736572da-2895-49f8-9a75-fbb45dbaf257"
+				},
+				{
+					"verse": "¡He aquí, vengo pronto! Bienaventurado el que guarda las palabras de la profecía de este libro.",
+					"number": 7,
+					"id": "2cc4665a-aad5-4e60-906e-b0b09d4730a7"
+				},
+				{
+					"verse": "Yo Juan soy el que oyó y vio estas cosas. Y después que las hube oído y visto, me postré para adorar a los pies del ángel que me mostraba estas cosas.",
+					"number": 8,
+					"id": "7759dcc7-8cfc-4034-af47-ff6edc11f994"
+				},
+				{
+					"verse": "Pero él me dijo: Mira, no lo hagas; porque yo soy consiervo tuyo, de tus hermanos los profetas, y de los que guardan las palabras de este libro. Adora a Dios.",
+					"number": 9,
+					"id": "a0e45e3d-0cbf-4ccc-9473-6314893d9b31"
+				},
+				{
+					"verse": "Y me dijo: No selles las palabras de la profecía de este libro, porque el tiempo está cerca.",
+					"number": 10,
+					"id": "cd9951d9-ca7b-48ef-a087-20cffa5152ba"
+				},
+				{
+					"verse": "El que es injusto, sea injusto todavía; y el que es inmundo, sea inmundo todavía; y el que es justo, practique la justicia todavía; y el que es santo, santifíquese todavía.",
+					"number": 11,
+					"id": "25f42884-8902-4378-bcc6-00ba8aae0eeb"
+				},
+				{
+					"verse": "He aquí yo vengo pronto, y mi galardón conmigo, para recompensar a cada uno según sea su obra.",
+					"number": 12,
+					"id": "c2af551f-87b8-489e-9322-49257f64471a"
+				},
+				{
+					"verse": "Yo soy el Alfa y la Omega, el principio y el fin, el primero y el último.",
+					"number": 13,
+					"id": "73115c25-a5bf-46c9-9de2-323174b5fbf2"
+				},
+				{
+					"verse": "Bienaventurados los que lavan sus ropas, para tener derecho al árbol de la vida, y para entrar por las puertas en la ciudad.",
+					"number": 14,
+					"id": "848eefdf-63da-4217-885b-02ef215e89a5"
+				},
+				{
+					"verse": "Mas los perros estarán fuera, y los hechiceros, los fornicarios, los homicidas, los idólatras, y todo aquel que ama y hace mentira.",
+					"number": 15,
+					"id": "4a14f1e0-42c4-4cbb-bbd5-7c89b05e9f3b"
+				},
+				{
+					"verse": "Yo Jesús he enviado mi ángel para daros testimonio de estas cosas en las iglesias. Yo soy la raíz y el linaje de David, la estrella resplandeciente de la mañana.",
+					"number": 16,
+					"id": "28b6eb76-17fa-43bf-90e5-b07597061ef7"
+				},
+				{
+					"verse": "Y el Espíritu y la Esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente.",
+					"number": 17,
+					"id": "10f26941-ed18-4fed-981b-40f451220c24"
+				},
+				{
+					"verse": "Yo testifico a todo aquel que oye las palabras de la profecía de este libro: Si alguno añadiere a estas cosas, Dios traerá sobre él las plagas que están escritas en este libro.",
+					"number": 18,
+					"id": "0af620fe-ae66-447f-814e-42279b848add"
+				},
+				{
+					"verse": "Y si alguno quitare de las palabras del libro de esta profecía, Dios quitará su parte del libro de la vida, y de la santa ciudad y de las cosas que están escritas en este libro.",
+					"number": 19,
+					"id": "310c42ca-4e4b-4081-88f6-e8a7a1c3e0b5"
+				},
+				{
+					"verse": "El que da testimonio de estas cosas dice: Ciertamente vengo en breve. Amén; sí, ven, Señor Jesús.",
+					"number": 20,
+					"id": "5cdf9645-73b9-4bd5-88a2-e893e6a52b9e"
+				},
+				{
+					"verse": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén.",
+					"number": 21,
+					"id": "a829c848-68b0-462b-9023-c1d4c3a37410"
+				}
+			]
+		}
+	],
+	"book_id": "2a02a129-4ed9-4d1e-8d65-d55456417850"
+}

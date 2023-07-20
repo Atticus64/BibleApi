@@ -1,0 +1,4589 @@
+{
+	"name": "Juan",
+	"num_chapters": 21,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "En el principio era el Verbo, el Verbo estaba con Dios y el Verbo era Dios.",
+					"number": 1,
+					"study": "El Verbo hecho carne",
+					"id": "6a5bb198-420a-4814-9bf8-398d90035f3f"
+				},
+				{
+					"verse": "Este estaba en el principio con Dios.",
+					"number": 2,
+					"id": "0c493c2b-4e1b-4ee6-8a91-a4bace28d371"
+				},
+				{
+					"verse": "Todas las cosas por medio de élfueron hechas, y sin él nada de lo que ha sido hechofue hecho.",
+					"number": 3,
+					"id": "463bb43a-df50-4981-a630-53334aca72f2"
+				},
+				{
+					"verse": "En él estaba la vida, y la vida era la luz de los hombres.",
+					"number": 4,
+					"id": "9a4c6a63-bde0-47ba-ab36-b060da9c90f3"
+				},
+				{
+					"verse": "La luz resplandece en las tinieblas, y las tinieblas no la dominaron.",
+					"number": 5,
+					"id": "ab7b2352-1840-400f-a46b-9737bf3e25ce"
+				},
+				{
+					"verse": "Hubo un hombre enviado por Dios, el cual se llamaba Juan.",
+					"number": 6,
+					"id": "92587567-e3cf-4523-86a6-3f2e16b7ae62"
+				},
+				{
+					"verse": "Este vino como testigo, para dar testimonio de la luz, a fin de que todos creyeran por medio de él.",
+					"number": 7,
+					"id": "2acc4e74-f106-4cec-8e2a-222e077cf56b"
+				},
+				{
+					"verse": "Él no era la luz, sino un testigo de la luz.",
+					"number": 8,
+					"id": "850cbb3f-f337-4a39-989d-c55ab1f22649"
+				},
+				{
+					"verse": "La luz verdaderaque alumbra a todo hombre venía a este mundo.",
+					"number": 9,
+					"id": "b0bd3058-c0f2-44cc-884a-d75ba2d320ae"
+				},
+				{
+					"verse": "En el mundo estaba, y el mundo fue hecho por medio de él; pero el mundo no lo conoció.",
+					"number": 10,
+					"id": "c913a3cd-a5cd-4af1-8f2b-2f0ed50ab85d"
+				},
+				{
+					"verse": "A lo suyo vino, pero los suyos no lo recibieron.",
+					"number": 11,
+					"id": "2bad9897-7885-4eba-9d07-6d4adf672f75"
+				},
+				{
+					"verse": "Mas a todos los que lo recibieron, a quienes creen en su nombre, les dio potestad de ser hechoshijos de Dios.",
+					"number": 12,
+					"id": "28f3051e-dea4-44a3-8f7f-bcccc5da0a1e"
+				},
+				{
+					"verse": "Estos no nacieron de sangre, ni por voluntad de carne, ni por voluntad de varón, sino de Dios.",
+					"number": 13,
+					"id": "37e7d143-9697-4e76-aad9-07095c86c47e"
+				},
+				{
+					"verse": "Y el Verbo se hizo carne y habitó entre nosotros lleno de graciay de verdad; y vimos su gloria, gloria como del unigénito del Padre.",
+					"number": 14,
+					"id": "7fa524a1-9024-4009-a23a-038d97e79308"
+				},
+				{
+					"verse": "Juan testificó de él diciendo: \"Este es de quien yo decía: \"El que viene después de mí es antes de mí, porque era primero que yo\"\".",
+					"number": 15,
+					"id": "3571dc47-8494-416f-b35f-5894882e5a41"
+				},
+				{
+					"verse": "De su plenitud recibimos todos, y gracia sobre gracia,",
+					"number": 16,
+					"id": "8a02fb1a-4b67-48fa-9f78-be27064d4ab4"
+				},
+				{
+					"verse": "porque la Ley fue dadapor medio de Moisés, pero la gracia y la verdadvinieron por medio de Jesucristo.",
+					"number": 17,
+					"id": "c64f2fd9-b7f7-493e-9c7e-2bfd76f2b5f0"
+				},
+				{
+					"verse": "A Dios nadie lo ha visto jamás; el unigénito Hijo, que estáen el seno del Padre, él lo ha dado a conocer.",
+					"number": 18,
+					"id": "6b5d9c44-c2d3-4f99-bc0b-1f2e55f028f3"
+				},
+				{
+					"verse": "Este es el testimonio de Juan, cuando los judíos enviaron de Jerusalén sacerdotes y levitas a preguntarle: --¿Quién eres tú?",
+					"number": 19,
+					"study": "Testimonio de Juan el Bautista",
+					"id": "7189953d-061a-479b-bfee-e7c95d3a5e92"
+				},
+				{
+					"verse": "Él confesó y no negó. Confesó: --Yo no soy el Cristo.",
+					"number": 20,
+					"id": "b75902ad-644a-420a-aa59-4e2ba5a19d42"
+				},
+				{
+					"verse": "Y le preguntaron: --¿Qué, pues? ¿Eres tú Elías? Dijo: --No soy. --¿Eres tú el Profeta? Y respondió: --No.",
+					"number": 21,
+					"id": "d0fc9057-7ec2-40ed-8df6-942c5e0d2692"
+				},
+				{
+					"verse": "Entonces le dijeron: --¿Quién eres? Tenemos que dar respuesta a los que nos enviaron. ¿Qué dices de ti mismo?",
+					"number": 22,
+					"id": "e9dd2185-d94f-48c1-84b5-b6aa8b597901"
+				},
+				{
+					"verse": "Dijo: --Yo soy \"la voz de uno que clama en el desierto: Enderezad el camino del Señor\", como dijo el profeta Isaías.",
+					"number": 23,
+					"id": "d878a1d9-3768-40d5-80d3-e22c9b705c66"
+				},
+				{
+					"verse": "Los que habían sido enviados eran de los fariseos.",
+					"number": 24,
+					"id": "5b1cad19-84b5-47cc-ace8-e4ff628234d8"
+				},
+				{
+					"verse": "Y le preguntaron diciendo: --¿Por qué, pues, bautizas, si tú no eres el Cristo, ni Elías, ni el Profeta?",
+					"number": 25,
+					"id": "fd825b78-f779-47cc-b03e-ea078a6a063c"
+				},
+				{
+					"verse": "Juan les respondió diciendo: --Yo bautizo con agua, pero en medio de vosotros está uno a quien vosotros no conocéis.",
+					"number": 26,
+					"id": "8ae0aeae-a719-4ecf-8af2-b9f48ab2332d"
+				},
+				{
+					"verse": "Este es el que viene después de mí, quien es antes de mí, del cual yo no soy digno de desatar la correa del calzado.",
+					"number": 27,
+					"id": "5d77eb80-642f-4d7c-ab68-52affee2e9dc"
+				},
+				{
+					"verse": "Estas cosas sucedieron en Betábara, al otro lado del Jordán, donde Juan estaba bautizando.",
+					"number": 28,
+					"id": "9e591a54-38e3-4e4a-b6fa-05943630b9ea"
+				},
+				{
+					"verse": "Al siguiente día vio Juan a Jesús que venía a él, y dijo: \"¡Este es el Cordero de Dios, que quita el pecado del mundo!",
+					"number": 29,
+					"study": "El Cordero de Dios",
+					"id": "6130c41c-12fd-4da8-94e3-52d1ca9c2c9f"
+				},
+				{
+					"verse": "Este es de quien yo dije: \"Después de mí viene un hombre que es antes de mí, porque era primero que yo\".",
+					"number": 30,
+					"id": "c256a002-a194-447d-9624-30643f329d78"
+				},
+				{
+					"verse": "Y yo no lo conocía; pero por esto vine bautizando con agua: para que él fuera manifestado a Israel\".",
+					"number": 31,
+					"id": "5f07076a-547b-452d-9f71-a1fbff6901cc"
+				},
+				{
+					"verse": "Además, Juan testificó, diciendo: \"Vi al Espíritu que descendía del cielo como paloma, y que permaneció sobre él.",
+					"number": 32,
+					"id": "8ec4c009-cfd5-4fdb-abcd-a9aff196353f"
+				},
+				{
+					"verse": "Yo no lo conocía; pero el que me envió a bautizar con agua me dijo: \"Sobre quien veas descender el Espíritu y permanecer sobre él, ese es el que bautiza con Espíritu Santo\".",
+					"number": 33,
+					"id": "682acb69-1dfa-44bb-a45c-0a5c1489266e"
+				},
+				{
+					"verse": "Y yo lo he visto y testifico que este es el Hijo de Dios\".",
+					"number": 34,
+					"id": "5cc08679-66f2-4c6d-8be3-1a2ef9338cd9"
+				},
+				{
+					"verse": "Al siguiente día estaba otra vez Juan, y con él dos de sus discípulos.",
+					"number": 35,
+					"study": "Los primeros discípulos",
+					"id": "6539e5d1-a062-4017-ae79-bb1a9287745f"
+				},
+				{
+					"verse": "Y mirando a Jesús que andaba por allí, dijo: \"¡Este es el Cordero de Dios!\"",
+					"number": 36,
+					"id": "d712a751-bfb1-4dcb-8b9c-a1fc03620a06"
+				},
+				{
+					"verse": "Los dos discípulos lo oyeron hablar y siguieron a Jesús.",
+					"number": 37,
+					"id": "18d6c7a3-ae13-42eb-81c9-a798ed2d826d"
+				},
+				{
+					"verse": "Volviéndose Jesús y viendo que lo seguían, les dijo: --¿Qué buscáis? Ellos le dijeron: --Rabí --que significa \"Maestro\"--, ¿dónde vives?",
+					"number": 38,
+					"id": "b562db6f-c04f-4277-a37c-add26523094a"
+				},
+				{
+					"verse": "Les dijo: --Venid y ved. Fueron y vieron dónde vivía, y se quedaron aquel día con él, porque era como la hora décima.",
+					"number": 39,
+					"id": "e82a0353-5540-4857-85aa-421cc353d384"
+				},
+				{
+					"verse": "Andrés, hermano de Simón Pedro, era uno de los dos que habían oído a Juan y habían seguido a Jesús.",
+					"number": 40,
+					"id": "e846a71d-1bf6-401b-96b9-c637e98203d0"
+				},
+				{
+					"verse": "Aquel encontró primero a su hermano Simón, y le dijo: --Hemos encontrado al Mesías --que significa \"Cristo\"--.",
+					"number": 41,
+					"id": "b32fc129-d4fb-487c-9eb7-2b13288339c7"
+				},
+				{
+					"verse": "Y lo trajo a Jesús. Mirándolo Jesús, dijo: --Tú eres Simón hijo de Jonás; tú serás llamado Cefas --es decir, Pedro--.",
+					"number": 42,
+					"id": "99b79297-e103-4225-93af-959a37b34fc0"
+				},
+				{
+					"verse": "Al siguiente día, Jesús quiso ir a Galilea; encontró a Felipe y le dijo: --Sígueme.",
+					"number": 43,
+					"study": "Jesús llama a Felipe y a Natanael",
+					"id": "5dffab1f-19d9-411c-b2ca-dde8e77c36f8"
+				},
+				{
+					"verse": "Felipe era de Betsaida, la ciudad de Andrés y Pedro.",
+					"number": 44,
+					"id": "f96a738e-486d-48c7-8728-277f906ec8c1"
+				},
+				{
+					"verse": "Felipe encontró a Natanael y le dijo: --Hemos encontrado a aquel de quien escribieron Moisés, en la Ley, y también los Profetas: a Jesús hijo de José, de Nazaret.",
+					"number": 45,
+					"id": "e317eb61-13ec-4e70-9c25-55f4835cab58"
+				},
+				{
+					"verse": "Natanael le dijo: --¿De Nazaret puede salir algo bueno? Respondió Felipe: --Ven y ve.",
+					"number": 46,
+					"id": "cf2bd5e3-84b4-474e-ba56-63b1c8c43c9d"
+				},
+				{
+					"verse": "Cuando Jesús vio a Natanael que se le acercaba, dijo de él: --¡Aquí está un verdadero israelita en quien no hay engaño!",
+					"number": 47,
+					"id": "af68852f-c2c1-4d58-b66a-a5fd29bab6cd"
+				},
+				{
+					"verse": "Le dijo Natanael: --¿De dónde me conoces? Jesús le respondió: --Antes que Felipe te llamara, cuando estabas debajo de la higuera, te vi.",
+					"number": 48,
+					"id": "7be4e2f5-c0be-4f63-804b-07fbeb9bf14d"
+				},
+				{
+					"verse": "Natanael exclamó: --¡Rabí, tú eres el Hijo de Dios! ¡Tú eres el Rey de Israel!",
+					"number": 49,
+					"id": "c562a91e-8002-4c1e-a520-4227fb7b4e9b"
+				},
+				{
+					"verse": "Le contestó Jesús: --¿Crees porque te dije: \"Te vi debajo de la higuera\"? Cosas mayores que estas verás.",
+					"number": 50,
+					"id": "1052bddf-5f8d-4827-8720-20b2e03331ff"
+				},
+				{
+					"verse": "Y agregó: --De cierto, de cierto os digo: Desde ahora veréis el cielo abierto y a los ángeles de Dios subiendo y bajando sobre el Hijo del hombre.",
+					"number": 51,
+					"id": "37f15c1b-140d-4fab-9ded-954998e2e94d"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Al tercer día se celebraron unas bodas en Caná de Galilea, y estaba allí la madre de Jesús.",
+					"number": 1,
+					"study": "Las bodas de Caná",
+					"id": "5fce005c-f178-4618-9754-5b6d43d3519a"
+				},
+				{
+					"verse": "También fueron invitados a las bodas Jesús y sus discípulos.",
+					"number": 2,
+					"id": "2fcd1f86-d200-4598-8d52-a05f5b8e81c1"
+				},
+				{
+					"verse": "Y faltó vino. Entonces la madre de Jesús le dijo: --No tienen vino.",
+					"number": 3,
+					"id": "09710289-7bb4-4c96-a9aa-0d18e2d83fc5"
+				},
+				{
+					"verse": "Jesús le dijo: --¿Qué tiene que ver esto con nosotros, mujer? Aún no ha llegado mi hora.",
+					"number": 4,
+					"id": "d1c43480-0345-4783-86f5-d1977317a198"
+				},
+				{
+					"verse": "Su madre dijo a los que servían: --Haced todo lo que él os diga.",
+					"number": 5,
+					"id": "c023638f-92a0-4b9e-984d-5b7742cabca7"
+				},
+				{
+					"verse": "Había allí seis tinajas de piedra para agua, dispuestas para el rito de purificación de los judíos; en cada una de ellas cabían dos o tres cántaros.",
+					"number": 6,
+					"id": "ca7605af-9802-457d-9895-d5a01a10181f"
+				},
+				{
+					"verse": "Jesús les dijo: --Llenad de agua estas tinajas. Y las llenaron hasta arriba.",
+					"number": 7,
+					"id": "596ba2f0-3980-4438-89ae-a49b8cd3947d"
+				},
+				{
+					"verse": "Entonces les dijo: --Sacad ahora un poco y presentadlo al encargado del banquete. Y se lo presentaron.",
+					"number": 8,
+					"id": "c18c4e03-170b-4693-be38-c1b566b68e29"
+				},
+				{
+					"verse": "Cuando el encargado del banquete probó el agua hecha vino, sin saber de dónde era (aunque sí lo sabían los sirvientes que habían sacado el agua), llamó al esposo",
+					"number": 9,
+					"id": "95243120-9754-4b82-a477-2ca97ff57fc0"
+				},
+				{
+					"verse": "y le dijo: --Todo hombre sirve primero el buen vino, y cuando han bebido mucho, el inferior; sin embargo, tú has reservado el buen vino hasta ahora.",
+					"number": 10,
+					"id": "d57e81b7-dc9b-4f5c-b94a-30d05b997de7"
+				},
+				{
+					"verse": "Este principio de señales hizo Jesús en Caná de Galilea, y manifestó su gloria; y sus discípulos creyeron en él.",
+					"number": 11,
+					"id": "ef4457c6-7dcd-4ab5-b01f-77c9d1ee0f6c"
+				},
+				{
+					"verse": "Después de esto descendieron a Capernaúm él, su madre, sus hermanos y sus discípulos; y se quedaron allí no muchos días.",
+					"number": 12,
+					"id": "8033a72d-7348-490e-b5fc-4520366e1f31"
+				},
+				{
+					"verse": "Estaba cerca la Pascua de los judíos, y subió Jesús a Jerusalén.",
+					"number": 13,
+					"study": "Jesús purifica el templo",
+					"id": "bdd6bee3-921a-4bba-97dc-fb637ef67038"
+				},
+				{
+					"verse": "Encontró en el templo a los que vendían bueyes, ovejas y palomas, y a los cambistas que estaban allí sentados",
+					"number": 14,
+					"id": "a25ee0be-3d6c-49e2-9f62-59b0745075f8"
+				},
+				{
+					"verse": "e hizo un azote de cuerdas y echó fuera del templo a todos, con las ovejas y los bueyes; también desparramó las monedas de los cambistas y volcó las mesas;",
+					"number": 15,
+					"id": "798fd461-6b15-4ce2-9fb8-9e195f129ec6"
+				},
+				{
+					"verse": "y dijo a los que vendían palomas: --Quitad esto de aquí, y no convirtáis la casa de mi Padre en casa de mercado.",
+					"number": 16,
+					"id": "9d9614db-5971-4ba8-be85-3e4543646b0d"
+				},
+				{
+					"verse": "Entonces recordaron sus discípulos que está escrito: \"El celo de tu casa me consumirá\".",
+					"number": 17,
+					"id": "f15d4e34-61e1-48dd-8799-92a30ab99cda"
+				},
+				{
+					"verse": "Los judíos respondieron y le dijeron: --Ya que haces esto, ¿qué señal nos muestras?",
+					"number": 18,
+					"id": "212e76d3-578d-43e9-b116-6fb17158f5f5"
+				},
+				{
+					"verse": "Respondió Jesús y les dijo: --Destruid este templo y en tres días lo levantaré.",
+					"number": 19,
+					"id": "b85acb9a-ffbd-40de-8b5f-2a1ffda255a4"
+				},
+				{
+					"verse": "Entonces los judíos dijeron: --En cuarenta y seis años fue edificado este templo, ¿y tú en tres días lo levantarás?",
+					"number": 20,
+					"id": "d10f7761-27de-4a25-bc21-e43adedee05b"
+				},
+				{
+					"verse": "Pero él hablaba del templo de su cuerpo.",
+					"number": 21,
+					"id": "d43fd520-8b3d-4d05-9a96-a16cb6eb1c9e"
+				},
+				{
+					"verse": "Por tanto, cuando resucitó de entre los muertos, sus discípulos recordaron que había dicho esto, y creyeron en la Escritura y en la palabra que Jesús había dicho.",
+					"number": 22,
+					"id": "4a4380ec-0fbc-4919-ad39-d13141292f9d"
+				},
+				{
+					"verse": "Mientras estaba en Jerusalén, en la fiesta de la Pascua, muchos creyeron en su nombre al ver las señales que hacía.",
+					"number": 23,
+					"study": "Jesús conoce a todos los hombres",
+					"id": "79b0dc82-5dcb-4d95-ab54-05aa65b003eb"
+				},
+				{
+					"verse": "Pero Jesús mismo no se fiaba de ellos, porque los conocía a todos;",
+					"number": 24,
+					"id": "1600b40a-2f9b-4253-8afd-66f4a6db2025"
+				},
+				{
+					"verse": "y no necesitaba que nadie le explicara nada acerca del hombre, pues él sabía lo que hay en el hombre.",
+					"number": 25,
+					"id": "56eb8eaa-755c-4b43-a3db-4dd6991f5f6c"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Había un hombre de los fariseos que se llamaba Nicodemo, dignatario de los judíos.",
+					"number": 1,
+					"study": "Jesús y Nicodemo",
+					"id": "ab51b66b-c7a4-427d-a0ba-d215633f2661"
+				},
+				{
+					"verse": "Este vino a Jesús de noche y le dijo: --Rabí, sabemos que has venido de Dios como maestro, porque nadie puede hacer estas señales que tú haces, si no está Dios con él.",
+					"number": 2,
+					"id": "b04bb2c2-8e90-47af-a995-bc58e8f7d59e"
+				},
+				{
+					"verse": "Le respondió Jesús: --De cierto, de cierto te digo que el que no nace de nuevo no puede ver el reino de Dios.",
+					"number": 3,
+					"id": "7ae98845-c5db-4307-a70a-f62bb27d5f7f"
+				},
+				{
+					"verse": "Nicodemo le preguntó: --¿Cómo puede un hombre nacer siendo viejo? ¿Puede acaso entrar por segunda vez en el vientre de su madre y nacer?",
+					"number": 4,
+					"id": "f4446f49-bdc6-49cf-94be-e69110460a31"
+				},
+				{
+					"verse": "Respondió Jesús: --De cierto, de cierto te digo que el que no nace de agua y del Espíritu no puede entrar en el reino de Dios.",
+					"number": 5,
+					"id": "61e332ab-6b33-4ab6-8eff-c3f3ca09d763"
+				},
+				{
+					"verse": "Lo que nace de la carne, carne es; y lo que nace del Espíritu, espíritu es.",
+					"number": 6,
+					"id": "a03ca16b-2b03-4d1e-9899-8a33a5331f0e"
+				},
+				{
+					"verse": "No te maravilles de que te dije: \"Os es necesario nacer de nuevo\".",
+					"number": 7,
+					"id": "102984bd-8d52-49df-bbf9-f51a0871b68c"
+				},
+				{
+					"verse": "El viento sopla de donde quiere, y oyes su sonido, pero no sabes de dónde viene ni a dónde va. Así es todo aquel que nace del Espíritu.",
+					"number": 8,
+					"id": "d226f9a2-b123-4008-9e36-e36ef6985087"
+				},
+				{
+					"verse": "Le preguntó Nicodemo: --¿Cómo puede hacerse esto?",
+					"number": 9,
+					"id": "7a45f0fb-09fa-4c29-a745-b597ab00130b"
+				},
+				{
+					"verse": "Jesús le respondió: --Tú, que eres el maestro de Israel, ¿no sabes esto?",
+					"number": 10,
+					"id": "0dc56d68-d37e-4a1d-b815-52935fdace7f"
+				},
+				{
+					"verse": "De cierto, de cierto te digo que de lo que sabemos, hablamos, y de lo que hemos visto, testificamos; pero no recibís nuestro testimonio.",
+					"number": 11,
+					"id": "c7a4b972-c929-484b-abaf-26989064a9fd"
+				},
+				{
+					"verse": "Si os he dicho cosas terrenales y no creéis, ¿cómo creeréis si os digo las celestiales?",
+					"number": 12,
+					"id": "1de8bd7d-c773-474c-be1a-105b9b03b962"
+				},
+				{
+					"verse": "Nadie subió al cielo sino el que descendió del cielo, el Hijo del hombre, que está en el cielo.",
+					"number": 13,
+					"id": "4a05c47f-cd56-47d4-8c66-0b652c9a30c2"
+				},
+				{
+					"verse": "Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del hombre sea levantado,",
+					"number": 14,
+					"id": "600923d8-29db-4a6c-8412-2dc6a4ada32a"
+				},
+				{
+					"verse": "para que todo aquel que en él cree no se pierda, sino que tenga vida eterna.",
+					"number": 15,
+					"id": "fcb0c2ad-d2d5-4823-a38d-df9a6459d996"
+				},
+				{
+					"verse": "\"De tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree no se pierda, sino que tenga vida eterna.",
+					"number": 16,
+					"study": "De tal manera amó Dios al mundo",
+					"id": "d8ef5999-8164-4d42-bfbf-98d416c16d23"
+				},
+				{
+					"verse": "Dios no envió a su Hijo al mundo para condenar al mundo, sino para que el mundo sea salvo por él.",
+					"number": 17,
+					"id": "91d46839-d5f5-4a27-acab-e2ab3ac2e152"
+				},
+				{
+					"verse": "El que en él cree no es condenado; pero el que no cree ya ha sido condenado, porque no ha creído en el nombre del unigénito Hijo de Dios.",
+					"number": 18,
+					"id": "20329567-9771-4f3d-8e70-75e9d4d79441"
+				},
+				{
+					"verse": "Y esta es la condenación: la luz vino al mundo, pero los hombres amaron más las tinieblas que la luz, porque sus obras eran malas,",
+					"number": 19,
+					"id": "ecb9b7e3-8a34-48d0-add3-9e5ea3af12e5"
+				},
+				{
+					"verse": "pues todo aquel que hace lo malo detesta la luz y no viene a la luz, para que sus obras no sean puestas al descubierto.",
+					"number": 20,
+					"id": "1edb12e7-4214-4b4a-b380-fba20f7f3c0e"
+				},
+				{
+					"verse": "Pero el que practica la verdad viene a la luz, para que se ponga de manifiesto que sus obras son hechas en Dios.",
+					"number": 21,
+					"id": "a32d7bdd-3af8-4581-bd84-c1e49aa92a6a"
+				},
+				{
+					"verse": "Después de esto vino Jesús con sus discípulos a tierras de Judea, y estuvo allí con ellos y bautizaba.",
+					"number": 22,
+					"study": "El amigo del esposo",
+					"id": "3c9a38ef-b0c4-48bc-a82d-bf279f93ddf8"
+				},
+				{
+					"verse": "También Juan bautizaba en Enón, junto a Salim, porque había allí muchas aguas. Y la gente llegaba y se bautizaba,",
+					"number": 23,
+					"id": "3e09681d-0c00-4ebd-b690-0e5388f78957"
+				},
+				{
+					"verse": "pues aún no habían encarcelado a Juan.",
+					"number": 24,
+					"id": "13864bc9-bc8f-4b5d-b2dd-f1c3ebaa2c25"
+				},
+				{
+					"verse": "Entonces se produjo una discusión entre los discípulos de Juan y algunos judíos acerca de la purificación.",
+					"number": 25,
+					"id": "898dd7a2-69e4-4c57-975a-e7ea8d99f711"
+				},
+				{
+					"verse": "Y vinieron a Juan y le dijeron: --Rabí, el que estaba contigo al otro lado del Jordán, de quien tú diste testimonio, él también bautiza, y todos van a él.",
+					"number": 26,
+					"id": "d4a67b49-f760-4ec7-906b-9b017d624ba5"
+				},
+				{
+					"verse": "Respondió Juan: --No puede el hombre recibir nada a menos que le sea dado del cielo.",
+					"number": 27,
+					"id": "f17be5b3-abd3-45ea-8048-2fe98837fe0d"
+				},
+				{
+					"verse": "Vosotros mismos me sois testigos de que dije: \"Yo no soy el Cristo, sino que soy enviado delante de él\".",
+					"number": 28,
+					"id": "a270059c-470b-4bd8-8469-c58aac53a9b5"
+				},
+				{
+					"verse": "El que tiene a la esposa es el esposo; pero el amigo del esposo, el que está a su lado y lo oye, se goza grandemente de la voz del esposo. Por eso, mi gozo está completo.",
+					"number": 29,
+					"id": "b2ef2dbb-8eca-4a1d-a60b-221e86bab39b"
+				},
+				{
+					"verse": "Es necesario que él crezca, y que yo disminuya.",
+					"number": 30,
+					"id": "085d2a12-2f6b-4a2c-b9e0-0fcf275d7861"
+				},
+				{
+					"verse": "El que viene de arriba está por encima de todos; el que es de la tierra es terrenal y habla de cosas terrenales. El que viene del cielo está por encima de todos,",
+					"number": 31,
+					"study": "El que viene de arriba",
+					"id": "262c4302-6b86-44b4-ab82-a0da1b978ba1"
+				},
+				{
+					"verse": "y de lo que ha visto y oído testifica, pero nadie recibe su testimonio.",
+					"number": 32,
+					"id": "70181bd0-3e52-4624-b01c-4fafb39a2a06"
+				},
+				{
+					"verse": "El que recibe su testimonio, ese atestigua que Dios es veraz,",
+					"number": 33,
+					"id": "3dc3bb03-85eb-46cb-b2be-811e47e9c1a8"
+				},
+				{
+					"verse": "porque aquel a quien Dios envió, las palabras de Dios habla, pues Dios no da el Espíritu por medida.",
+					"number": 34,
+					"id": "69fa7805-5c98-4fe2-a972-9761076998a0"
+				},
+				{
+					"verse": "El Padre ama al Hijo y ha entregado todas las cosas en su mano.",
+					"number": 35,
+					"id": "d5af51d0-cb8b-4d3c-a43b-573b14750b30"
+				},
+				{
+					"verse": "El que cree en el Hijo tiene vida eterna; pero el que se niega a creer en el Hijo no verá la vida, sino que la ira de Dios está sobre él.",
+					"number": 36,
+					"id": "2a2fbae8-18b8-4239-bdc2-057c17c961e5"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Cuando, pues, el Señor supo que los fariseos habían oído decir: \"Jesús hace y bautiza más discípulos que Juan\"",
+					"number": 1,
+					"study": "Jesús y la mujer samaritana",
+					"id": "0810ac65-dd6f-4b4e-afc4-ba3dd7c21c03"
+				},
+				{
+					"verse": "(aunque Jesús no bautizaba, sino sus discípulos),",
+					"number": 2,
+					"id": "e833cd6c-799d-4e1a-97de-4853fe3267f0"
+				},
+				{
+					"verse": "salió de Judea y se fue otra vez a Galilea.",
+					"number": 3,
+					"id": "28c4eaeb-223a-4332-ab82-a46a0bbbeadb"
+				},
+				{
+					"verse": "Y le era necesario pasar por Samaria.",
+					"number": 4,
+					"id": "81885545-8e27-4316-b598-3362a1248f2f"
+				},
+				{
+					"verse": "Fue, pues, a una ciudad de Samaria llamada Sicar, junto a la heredad que Jacob dio a su hijo José.",
+					"number": 5,
+					"id": "99231e1d-a522-4138-9d01-13c49461cc83"
+				},
+				{
+					"verse": "Y estaba allí el pozo de Jacob. Entonces Jesús, cansado del viaje, se sentó junto al pozo. Era como la hora sexta.",
+					"number": 6,
+					"id": "df48b483-4d41-419f-8b35-45a0f2daebd9"
+				},
+				{
+					"verse": "Llegó una mujer de Samaria a sacar agua; y Jesús le dijo: --Dame de beber",
+					"number": 7,
+					"id": "c7d73b3a-147f-49f8-8c99-f2ebc317311b"
+				},
+				{
+					"verse": "--pues sus discípulos habían ido a la ciudad a comprar alimentos--.",
+					"number": 8,
+					"id": "ae2c79a1-ade5-4c8a-8ace-7b42c7a3cd23"
+				},
+				{
+					"verse": "La mujer samaritana le dijo: --¿Cómo tú, siendo judío, me pides a mí de beber, que soy mujer samaritana? --porque judíos y samaritanos no se tratan entre sí--.",
+					"number": 9,
+					"id": "285b88bc-6765-4eda-a1b3-637de7bac6bc"
+				},
+				{
+					"verse": "Respondió Jesús y le dijo: --Si conocieras el don de Dios, y quién es el que te dice: \"Dame de beber\", tú le pedirías, y él te daría agua viva.",
+					"number": 10,
+					"id": "1b8da077-ccc4-4c7c-9de7-27410eaf3989"
+				},
+				{
+					"verse": "La mujer le dijo: --Señor, no tienes con qué sacarla, y el pozo es hondo. ¿De dónde, pues, tienes el agua viva?",
+					"number": 11,
+					"id": "b530f453-c337-4b88-9614-04e4f8fc3866"
+				},
+				{
+					"verse": "¿Acaso eres tú mayor que nuestro padre Jacob, que nos dio este pozo, del cual bebieron él, sus hijos y sus ganados?",
+					"number": 12,
+					"id": "53be5bec-c86d-4f49-b9ca-1092b1f5f17c"
+				},
+				{
+					"verse": "Jesús le contestó: --Cualquiera que beba de esta agua volverá a tener sed;",
+					"number": 13,
+					"id": "4b31d2a9-1c17-4d5c-89c0-676bb04c1836"
+				},
+				{
+					"verse": "pero el que beba del agua que yo le daré no tendrá sed jamás, sino que el agua que yo le daré será en él una fuente de agua que salte para vida eterna.",
+					"number": 14,
+					"id": "53d85a6d-0af6-4914-9a95-a208abf023ca"
+				},
+				{
+					"verse": "La mujer le dijo: --Señor, dame esa agua, para que no tenga yo sed ni venga aquí a sacarla.",
+					"number": 15,
+					"id": "8f7e8ab8-754e-478d-8717-4b6a76694f2f"
+				},
+				{
+					"verse": "Jesús le dijo: --Ve, llama a tu marido, y ven acá.",
+					"number": 16,
+					"id": "bf41f786-de66-47b2-8f37-9bc700bf3ca3"
+				},
+				{
+					"verse": "Respondió la mujer y dijo: --No tengo marido. Jesús le dijo: --Bien has dicho: \"No tengo marido\",",
+					"number": 17,
+					"id": "113ce925-b3e7-4254-aa2e-576d112b4c7b"
+				},
+				{
+					"verse": "porque cinco maridos has tenido y el que ahora tienes no es tu marido. Esto has dicho con verdad.",
+					"number": 18,
+					"id": "8196d5f9-4ad5-4662-8573-739129be1f93"
+				},
+				{
+					"verse": "Le dijo la mujer: --Señor, me parece que tú eres profeta.",
+					"number": 19,
+					"id": "39dc3a34-828e-4f01-8566-f8a769a89b4e"
+				},
+				{
+					"verse": "Nuestros padres adoraron en este monte, pero vosotros decís que en Jerusalén es el lugar donde se debe adorar.",
+					"number": 20,
+					"id": "edbc548b-fbde-4201-bfaa-7f4a7d48478a"
+				},
+				{
+					"verse": "Jesús le dijo: --Mujer, créeme que la hora viene cuando ni en este monte ni en Jerusalén adoraréis al Padre.",
+					"number": 21,
+					"id": "cd7c2278-27dc-4444-b39a-316cad8047dc"
+				},
+				{
+					"verse": "Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos, porque la salvación viene de los judíos.",
+					"number": 22,
+					"id": "e1a8e1ab-8163-4fa4-9e06-124f56d727aa"
+				},
+				{
+					"verse": "Pero la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad, porque también el Padre tales adoradores busca que lo adoren.",
+					"number": 23,
+					"id": "61353043-4aa1-4a40-b02f-14728ee3a2dd"
+				},
+				{
+					"verse": "Dios es Espíritu, y los que lo adoran, en espíritu y en verdad es necesario que lo adoren.",
+					"number": 24,
+					"id": "b77c097d-b63a-4c8a-8f2b-edb442e7e1da"
+				},
+				{
+					"verse": "Le dijo la mujer: --Sé que ha de venir el Mesías, llamado el Cristo; cuando él venga nos declarará todas las cosas.",
+					"number": 25,
+					"id": "f43cbd93-d906-4612-9d00-e62955667c3f"
+				},
+				{
+					"verse": "Jesús le dijo: --Yo soy, el que habla contigo.",
+					"number": 26,
+					"id": "a8988d7b-3c36-41eb-9321-b0f1cda7cefe"
+				},
+				{
+					"verse": "En esto llegaron sus discípulos y se asombraron de que hablara con una mujer; sin embargo, ninguno dijo: \"¿Qué preguntas?\" o \"¿Qué hablas con ella?\"",
+					"number": 27,
+					"id": "971e25db-8fb4-45eb-9fa2-4ca11adc6e5e"
+				},
+				{
+					"verse": "Entonces la mujer dejó su cántaro, fue a la ciudad y dijo a los hombres:",
+					"number": 28,
+					"id": "8cb3fc68-6e85-4c18-a0aa-6dc48cdcee76"
+				},
+				{
+					"verse": "--Venid, ved a un hombre que me ha dicho todo cuanto he hecho. ¿No será este el Cristo?",
+					"number": 29,
+					"id": "d7ce7aa3-d9d2-410b-853d-01528ace4e25"
+				},
+				{
+					"verse": "Entonces salieron de la ciudad y vinieron a él.",
+					"number": 30,
+					"id": "af4fd3ab-e879-4888-9123-4802a8b30e02"
+				},
+				{
+					"verse": "Entre tanto, los discípulos le rogaban, diciendo: --Rabí, come.",
+					"number": 31,
+					"id": "8dd96380-1f5f-446c-8f8e-0c9fc8863e17"
+				},
+				{
+					"verse": "Él les dijo: --Yo tengo una comida que comer, que vosotros no sabéis.",
+					"number": 32,
+					"id": "cc25d2ca-6740-4d57-b884-dae62d432691"
+				},
+				{
+					"verse": "Entonces los discípulos se decían entre sí: --¿Le habrá traído alguien de comer?",
+					"number": 33,
+					"id": "4a7e2d4e-ae0c-4926-a0dc-bcafef0fee07"
+				},
+				{
+					"verse": "Jesús les dijo: --Mi comida es que haga la voluntad del que me envió y que acabe su obra.",
+					"number": 34,
+					"id": "f5a7121f-dd9d-4f6c-859c-520edca279c7"
+				},
+				{
+					"verse": "¿No decís vosotros: \"Aún faltan cuatro meses para que llegue la siega\"? Yo os digo: Alzad vuestros ojos y mirad los campos, porque ya están blancos para la siega.",
+					"number": 35,
+					"id": "d6aac9a7-3bb4-4611-9323-fe95d92ed094"
+				},
+				{
+					"verse": "Y el que siega recibe salario y recoge fruto para vida eterna, para que el que siembra se goce juntamente con el que siega.",
+					"number": 36,
+					"id": "40eead38-08a4-413b-b429-9152444761ad"
+				},
+				{
+					"verse": "En esto es verdadero el dicho: \"Uno es el que siembra y otro es el que siega\".",
+					"number": 37,
+					"id": "4f63411b-cfa0-4774-9bcd-a801e421c037"
+				},
+				{
+					"verse": "Yo os he enviado a segar lo que vosotros no labrasteis; otros labraron y vosotros habéis entrado en sus labores.",
+					"number": 38,
+					"id": "9e3bfbba-a449-45a2-bc0d-7297d0499325"
+				},
+				{
+					"verse": "Muchos de los samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio diciendo: \"Me dijo todo lo que he hecho\".",
+					"number": 39,
+					"id": "6a92fde5-beee-486b-b6cc-c8490f965c57"
+				},
+				{
+					"verse": "Entonces vinieron los samaritanos a él y le rogaron que se quedara con ellos, y se quedó allí dos días.",
+					"number": 40,
+					"id": "bb30eef5-4b36-423b-9ee0-851e95be38ce"
+				},
+				{
+					"verse": "Muchos más creyeron por la palabra de él,",
+					"number": 41,
+					"id": "10c67e75-1169-432c-ac38-4c64876b40b2"
+				},
+				{
+					"verse": "y decían a la mujer: --Ya no creemos solamente por lo que has dicho, pues nosotros mismos hemos oído y sabemos que verdaderamente este es el Salvador del mundo, el Cristo.",
+					"number": 42,
+					"id": "cee9733f-761d-4a38-9c8b-bea5f8479b2c"
+				},
+				{
+					"verse": "Dos días después salió de allí y fue a Galilea,",
+					"number": 43,
+					"study": "Jesús sana al hijo de un noble",
+					"id": "44bc652f-1454-4518-a4b2-45c790f69cf9"
+				},
+				{
+					"verse": "pues Jesús mismo dio testimonio de que al profeta no se le honra en su propia tierra.",
+					"number": 44,
+					"id": "34cfd456-30c3-4391-95b0-a1bd6e65cb80"
+				},
+				{
+					"verse": "Cuando llegó a Galilea, los galileos lo recibieron, pues habían visto todas las cosas que había hecho en Jerusalén, en la fiesta, porque también ellos habían ido a la fiesta.",
+					"number": 45,
+					"id": "dbced3b9-5357-45a8-a59f-ffdd5e9b8673"
+				},
+				{
+					"verse": "Fue, pues, Jesús otra vez a Caná de Galilea, donde había convertido el agua en vino. Había en Capernaúm un oficial del rey, cuyo hijo estaba enfermo.",
+					"number": 46,
+					"id": "340b024f-87e0-4f17-b900-5c1ece34f109"
+				},
+				{
+					"verse": "Cuando oyó aquel que Jesús había llegado de Judea a Galilea, fue a él y le rogó que descendiera y sanara a su hijo, que estaba a punto de morir.",
+					"number": 47,
+					"id": "37445ae2-bb85-40a5-95bb-39e71f7b8ba9"
+				},
+				{
+					"verse": "Entonces Jesús le dijo: --Si no veis señales y prodigios, no creeréis.",
+					"number": 48,
+					"id": "c3fef346-0f30-45be-9459-c36ef0b2f880"
+				},
+				{
+					"verse": "El oficial del rey le dijo: --Señor, desciende antes que mi hijo muera.",
+					"number": 49,
+					"id": "0ce7a696-a45f-47ef-9003-14dc6272a1bd"
+				},
+				{
+					"verse": "Jesús le dijo: --Vete, tu hijo vive. El hombre creyó la palabra que Jesús le dijo, y se fue.",
+					"number": 50,
+					"id": "7f2d923c-9c70-4df9-980f-0d12067dbbc3"
+				},
+				{
+					"verse": "Cuando ya él descendía, sus siervos salieron a recibirlo, y le informaron diciendo: --Tu hijo vive.",
+					"number": 51,
+					"id": "8b0e55e2-0977-48ce-b2eb-42bca956d623"
+				},
+				{
+					"verse": "Entonces él les preguntó a qué hora había comenzado a mejorar. Le dijeron: --Ayer, a la hora séptima, se le pasó la fiebre.",
+					"number": 52,
+					"id": "88c4c982-6d88-4fd4-beb5-f1575898f7c0"
+				},
+				{
+					"verse": "El padre entonces entendió que aquella era la hora en que Jesús le había dicho: \"Tu hijo vive\". Y creyó él con toda su casa.",
+					"number": 53,
+					"id": "a2a17143-b5c4-4f40-a42e-a3ba739f1606"
+				},
+				{
+					"verse": "Esta segunda señal hizo Jesús cuando fue de Judea a Galilea.",
+					"number": 54,
+					"id": "d96ef607-2053-4aba-993d-cab8ea20f0b2"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Después de esto había una fiesta de los judíos, y Jesús subió a Jerusalén.",
+					"number": 1,
+					"study": "El paralítico de Betesda",
+					"id": "a9bcb432-e546-4191-920f-bb909e7846bc"
+				},
+				{
+					"verse": "Hay en Jerusalén, cerca de la Puerta de las Ovejas, un estanque, llamado en hebreo Betesda, el cual tiene cinco pórticos.",
+					"number": 2,
+					"id": "39053bd1-f89b-4180-97f6-2f43d0fc8dc8"
+				},
+				{
+					"verse": "En estos yacía una multitud de enfermos, ciegos, cojos y paralíticos, que esperaban el movimiento del agua,",
+					"number": 3,
+					"id": "050b6d3e-85d1-4492-ae61-a18081eb21d8"
+				},
+				{
+					"verse": "porque un ángel descendía de tiempo en tiempo al estanque y agitaba el agua; el que primero descendía al estanque después del movimiento del agua quedaba sano de cualquier enfermedad que tuviera.",
+					"number": 4,
+					"id": "282a462e-621d-47fd-ab56-001d9b1b606f"
+				},
+				{
+					"verse": "Había allí un hombre que hacía treinta y ocho años que estaba enfermo.",
+					"number": 5,
+					"id": "4519a637-f27d-465f-ab94-4cbb9466dd40"
+				},
+				{
+					"verse": "Cuando Jesús lo vio acostado y supo que llevaba ya mucho tiempo así, le dijo: --¿Quieres ser sano?",
+					"number": 6,
+					"id": "68b08490-647d-495e-b709-5b77a1a6331d"
+				},
+				{
+					"verse": "El enfermo le respondió: --Señor, no tengo quien me meta en el estanque cuando se agita el agua; mientras yo voy, otro desciende antes que yo.",
+					"number": 7,
+					"id": "964626c6-33db-47f8-9213-e55c9bbdb182"
+				},
+				{
+					"verse": "Jesús le dijo: --Levántate, toma tu camilla y anda.",
+					"number": 8,
+					"id": "ce0c4356-43f9-4e72-8489-230c7f23e6d8"
+				},
+				{
+					"verse": "Al instante aquel hombre fue sanado, y tomó su camilla y anduvo. Era sábado aquel día.",
+					"number": 9,
+					"id": "35e76a8c-13fe-4f2e-abc2-c74138d4b10a"
+				},
+				{
+					"verse": "Entonces los judíos dijeron a aquel que había sido sanado: --Es sábado; no te es permitido cargar tu camilla.",
+					"number": 10,
+					"id": "5556ac92-3aea-4cc1-9f9b-c0b1c09ee93e"
+				},
+				{
+					"verse": "Él les respondió: --El que me sanó, él mismo me dijo: \"Toma tu camilla y anda\".",
+					"number": 11,
+					"id": "902c3012-7b07-4cf7-9951-2035327f0af0"
+				},
+				{
+					"verse": "Entonces le preguntaron: --¿Quién es el que te dijo: \"Toma tu camilla y anda\"?",
+					"number": 12,
+					"id": "10756f95-1a9c-4532-a17b-e4f1224db939"
+				},
+				{
+					"verse": "Pero el que había sido sanado no sabía quién era, porque Jesús se había apartado de la gente que estaba en aquel lugar.",
+					"number": 13,
+					"id": "7c704bf8-31a2-419b-b746-99dfae781041"
+				},
+				{
+					"verse": "Después lo halló Jesús en el templo y le dijo: --Mira, has sido sanado; no peques más, para que no te suceda algo peor.",
+					"number": 14,
+					"id": "4e93d28c-3131-4f5a-943f-5f3472ff8d1f"
+				},
+				{
+					"verse": "El hombre se fue y contó a los judíos que Jesús era quien lo había sanado.",
+					"number": 15,
+					"id": "fb255553-5bca-4fd6-a4c7-9f6d4e2c6c5c"
+				},
+				{
+					"verse": "Por esta causa los judíos perseguían a Jesús e intentaban matarlo, porque hacía estas cosas en sábado.",
+					"number": 16,
+					"id": "ea7e4952-5c6b-470b-afa7-9d6ed23d25d2"
+				},
+				{
+					"verse": "Jesús les respondió: --Mi Padre hasta ahora trabaja, y yo trabajo.",
+					"number": 17,
+					"id": "25a6bb71-f8c5-416a-a6b0-9822d19e9317"
+				},
+				{
+					"verse": "Por esto los judíos aun más intentaban matarlo, porque no solo quebrantaba el sábado, sino que también decía que Dios era su propio Padre, haciéndose igual a Dios.",
+					"number": 18,
+					"id": "db9c9a08-bcb4-4f4d-8508-61d7d16c0ae2"
+				},
+				{
+					"verse": "Respondió entonces Jesús y les dijo: --De cierto, de cierto os digo: No puede el Hijo hacer nada por sí mismo, sino lo que ve hacer al Padre. Todo lo que el Padre hace, también lo hace el Hijo igualmente,",
+					"number": 19,
+					"study": "La autoridad del Hijo",
+					"id": "86c90db4-7719-4dea-94be-a7b9efc0380e"
+				},
+				{
+					"verse": "porque el Padre ama al Hijo y le muestra todas las cosas que él hace; y mayores obras que estas le mostrará, de modo que vosotros os admiréis.",
+					"number": 20,
+					"id": "aa72d727-db5b-467f-ab69-959a6472fe7d"
+				},
+				{
+					"verse": "Como el Padre levanta a los muertos y les da vida, así también el Hijo a los que quiere da vida,",
+					"number": 21,
+					"id": "53afeaf5-7b65-484d-91ac-0b7f809d7134"
+				},
+				{
+					"verse": "porque el Padre a nadie juzga, sino que todo el juicio dio al Hijo,",
+					"number": 22,
+					"id": "6b06620f-45a0-43d2-9da6-0fb776eed439"
+				},
+				{
+					"verse": "para que todos honren al Hijo como honran al Padre. El que no honra al Hijo no honra al Padre, que lo envió.",
+					"number": 23,
+					"id": "ef9a7ed6-fa9e-4ec6-bc51-938af17f3379"
+				},
+				{
+					"verse": "\"De cierto, de cierto os digo: El que oye mi palabra y cree al que me envió tiene vida eterna, y no vendrá a condenación, sino que ha pasado de muerte a vida.",
+					"number": 24,
+					"id": "1141a7d8-5887-4386-96ae-3f615e42a298"
+				},
+				{
+					"verse": "De cierto, de cierto os digo: Viene la hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios, y los que la oigan vivirán.",
+					"number": 25,
+					"id": "f0966624-fc81-476b-a552-0ea45be8a3d5"
+				},
+				{
+					"verse": "Como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo;",
+					"number": 26,
+					"id": "12375aab-6bc8-4150-8d5d-b697c77f9117"
+				},
+				{
+					"verse": "y, además, le dio autoridad de hacer juicio, por cuanto es el Hijo del hombre.",
+					"number": 27,
+					"id": "55ff9f14-0df6-4f1e-9827-de81e25e08b8"
+				},
+				{
+					"verse": "No os asombréis de esto, porque llegará la hora cuando todos los que están en los sepulcros oirán su voz;",
+					"number": 28,
+					"id": "fab79c30-a62d-448b-a7fa-9c96dd9136af"
+				},
+				{
+					"verse": "y los que hicieron lo bueno saldrán a resurrección de vida; pero los que hicieron lo malo, a resurrección de condenación.",
+					"number": 29,
+					"id": "2121ecd1-57cd-48b3-ba93-6ff1cb482786"
+				},
+				{
+					"verse": "\"No puedo yo hacer nada por mí mismo; según oigo, así juzgo, y mi juicio es justo, porque no busco mi voluntad, sino la voluntad del Padre, que me envió.",
+					"number": 30,
+					"study": "Testigos de Cristo",
+					"id": "3b7eec1c-a1cc-4dfa-9b51-874ba4b6831d"
+				},
+				{
+					"verse": "Si yo doy testimonio acerca de mí mismo, mi testimonio no es verdadero.",
+					"number": 31,
+					"id": "cb36a753-a50c-456e-991e-ad7b697cbc83"
+				},
+				{
+					"verse": "Otro es el que da testimonio acerca de mí, y sé que el testimonio que da de mí es verdadero.",
+					"number": 32,
+					"id": "64aa6a0d-4106-40c5-b47e-0c55c42b870e"
+				},
+				{
+					"verse": "Vosotros enviasteis mensajeros a Juan, y él dio testimonio de la verdad.",
+					"number": 33,
+					"id": "71796b11-fbbe-466d-af1d-21037913bacb"
+				},
+				{
+					"verse": "Pero yo no recibo testimonio de hombre alguno; sin embargo, digo esto para que vosotros seáis salvos.",
+					"number": 34,
+					"id": "295cfce9-6b3e-428d-b533-fd1ed1782b17"
+				},
+				{
+					"verse": "Él era antorcha que ardía y alumbraba, y vosotros quisisteis regocijaros por un tiempo en su luz.",
+					"number": 35,
+					"id": "5f506841-423a-4493-80f1-491d652e79b7"
+				},
+				{
+					"verse": "Pero yo tengo un testimonio mayor que el de Juan: las obras que el Padre me dio para que cumpliera, las mismas obras que yo hago, dan testimonio de mí, de que el Padre me ha enviado.",
+					"number": 36,
+					"id": "39e326ac-e547-42c1-9819-12598a297dee"
+				},
+				{
+					"verse": "También el Padre, que me envió, ha dado testimonio de mí. Nunca habéis oído su voz, ni habéis visto su aspecto,",
+					"number": 37,
+					"id": "31037247-7219-49c4-8cd6-267257eb990c"
+				},
+				{
+					"verse": "ni tenéis su palabra morando en vosotros, porque no creéis a quien él envió.",
+					"number": 38,
+					"id": "92f4e591-e5d9-4744-9a9b-491566f71c14"
+				},
+				{
+					"verse": "Escudriñad las Escrituras, porque a vosotros os parece que en ellas tenéis la vida eterna, y ellas son las que dan testimonio de mí;",
+					"number": 39,
+					"id": "54b4ad3d-fb6e-4754-84dc-6d2745e0cfde"
+				},
+				{
+					"verse": "y no queréis venir a mí para que tengáis vida.",
+					"number": 40,
+					"id": "54c1c26a-5684-4359-bd72-27ef9be31c83"
+				},
+				{
+					"verse": "\"Gloria de los hombres no recibo.",
+					"number": 41,
+					"id": "2f54639f-4bac-49c1-871e-1935ccc7e528"
+				},
+				{
+					"verse": "Pero yo os conozco, que no tenéis el amor de Dios en vosotros.",
+					"number": 42,
+					"id": "273e2e03-711d-4fad-ab5f-047741fcc4ab"
+				},
+				{
+					"verse": "Yo he venido en nombre de mi Padre y no me recibís; si otro viniera en su propio nombre, a ese recibiríais.",
+					"number": 43,
+					"id": "330bc407-c90a-4d6f-86fc-b13b7a2a416a"
+				},
+				{
+					"verse": "¿Cómo podéis vosotros creer, pues recibís gloria los unos de los otros y no buscáis la gloria que viene del Dios único?",
+					"number": 44,
+					"id": "aa068942-9457-44d9-8c35-1d2e86115e1b"
+				},
+				{
+					"verse": "No penséis que yo voy a acusaros delante del Padre. Moisés, en quien tenéis vuestra esperanza, es quien os acusa,",
+					"number": 45,
+					"id": "7bbba614-25db-430d-a18b-a2d46e64ab10"
+				},
+				{
+					"verse": "porque si creyerais a Moisés, me creeríais a mí, porque de mí escribió él.",
+					"number": 46,
+					"id": "0934562f-2bf7-4577-807b-f05954fcbf38"
+				},
+				{
+					"verse": "Pero si no creéis a sus escritos, ¿cómo creeréis a mis palabras?",
+					"number": 47,
+					"id": "cb647465-1b51-4dc3-a64b-14077c213f26"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Después de esto, Jesús fue al otro lado del Mar de Galilea, el de Tiberias.",
+					"number": 1,
+					"study": "Alimentación de los cinco mil",
+					"id": "939ca470-1e50-44d0-9078-4f9781bec3aa"
+				},
+				{
+					"verse": "Y lo seguía una gran multitud, porque veían las señales que hacía en los enfermos.",
+					"number": 2,
+					"id": "e1f4e765-3c4d-4b54-a9a9-83bc173fd61a"
+				},
+				{
+					"verse": "Entonces subió Jesús a un monte y se sentó allí con sus discípulos.",
+					"number": 3,
+					"id": "0d2339b2-4cc1-478e-a76e-44beeae169d0"
+				},
+				{
+					"verse": "Y estaba cerca la Pascua, la fiesta de los judíos.",
+					"number": 4,
+					"id": "f062036d-5c3c-46ee-a3ed-c537e2fe0392"
+				},
+				{
+					"verse": "Cuando alzó Jesús los ojos y vio que había venido a él una gran multitud, dijo a Felipe: --¿De dónde compraremos pan para que coman estos?",
+					"number": 5,
+					"id": "8170d5fa-1ba0-4e6b-8d05-1d9e9159fd70"
+				},
+				{
+					"verse": "Pero esto decía para probarlo, porque él sabía lo que iba a hacer.",
+					"number": 6,
+					"id": "c9572c2f-ea0b-49cf-9ead-798ccde9d1e5"
+				},
+				{
+					"verse": "Felipe le respondió: --Doscientos denarios de pan no bastarían para que cada uno de ellos tomara un poco.",
+					"number": 7,
+					"id": "c7346ffe-43fc-49ad-be19-60eda28d550f"
+				},
+				{
+					"verse": "Uno de sus discípulos, Andrés, hermano de Simón Pedro, le dijo:",
+					"number": 8,
+					"id": "f2a1b9d8-250e-4e3e-af50-3a4bf15e6014"
+				},
+				{
+					"verse": "--Aquí hay un muchacho que tiene cinco panes de cebada y dos pescados; pero ¿qué es esto para tantos?",
+					"number": 9,
+					"id": "67576b21-0545-4970-9248-8613cbc6c46c"
+				},
+				{
+					"verse": "Entonces Jesús dijo: --Haced recostar a la gente. Había mucha hierba en aquel lugar, y se recostaron como en número de cinco mil hombres.",
+					"number": 10,
+					"id": "2c157861-5f93-4aea-a3f8-b992c984de54"
+				},
+				{
+					"verse": "Tomó Jesús aquellos panes y, después de dar gracias, los repartió entre los discípulos, y los discípulos entre los que estaban recostados; de igual manera hizo con los pescados, dándoles cuanto querían.",
+					"number": 11,
+					"id": "89eb0b87-b751-42ca-8bf3-f5ebcb32c245"
+				},
+				{
+					"verse": "Y cuando se saciaron, dijo a sus discípulos: --Recoged los pedazos que sobraron, para que no se pierda nada.",
+					"number": 12,
+					"id": "a172f4a5-b4dc-457f-91ef-f14764c478e9"
+				},
+				{
+					"verse": "Recogieron, pues, y llenaron doce cestas de pedazos que de los cinco panes de cebada sobraron a los que habían comido.",
+					"number": 13,
+					"id": "ffb515dc-7aa8-4f3a-a417-5a255f7983ff"
+				},
+				{
+					"verse": "Entonces aquellos hombres, al ver la señal que Jesús había hecho, dijeron: \"Verdaderamente este es el Profeta que había de venir al mundo\".",
+					"number": 14,
+					"id": "98b901e8-fd8a-4d73-80e8-a22d000c46e8"
+				},
+				{
+					"verse": "Pero entendiendo Jesús que iban a venir para apoderarse de él y hacerlo rey, volvió a retirarse al monte él solo.",
+					"number": 15,
+					"id": "95472ae6-3dfe-49ce-b8a7-f811b0370242"
+				},
+				{
+					"verse": "Al anochecer descendieron sus discípulos al mar,",
+					"number": 16,
+					"study": "Jesús anda sobre el mar",
+					"id": "eec0728d-0249-4497-b380-f1e6c5befd2b"
+				},
+				{
+					"verse": "y entrando en una barca iban cruzando el mar hacia Capernaúm. Ya había oscurecido, y Jesús todavía no había venido a ellos.",
+					"number": 17,
+					"id": "16b31abe-0838-44b1-9a30-3ffff6059103"
+				},
+				{
+					"verse": "El mar estaba agitado, porque soplaba un fuerte viento.",
+					"number": 18,
+					"id": "43c88b33-fd20-4873-83f9-bb34c01c6d43"
+				},
+				{
+					"verse": "Cuando habían remado como veinticinco o treinta estadios, vieron a Jesús que andaba sobre el mar y se acercaba a la barca, y tuvieron miedo.",
+					"number": 19,
+					"id": "7a7f46dc-4334-40dc-b15c-39081a540e0d"
+				},
+				{
+					"verse": "Pero él les dijo: --Yo soy; no temáis.",
+					"number": 20,
+					"id": "f76f89c6-2c8a-41e5-bc03-7d5008330920"
+				},
+				{
+					"verse": "Entonces ellos lo recibieron con gusto en la barca, la cual llegó en seguida a la tierra a donde iban.",
+					"number": 21,
+					"id": "ebdb92f7-44be-444d-8a18-3979266797df"
+				},
+				{
+					"verse": "Al día siguiente, la gente que estaba al otro lado del mar se dio cuenta de que no había habido allí más que una sola barca, y que Jesús no había entrado en ella con sus discípulos, sino que estos se habían ido solos.",
+					"number": 22,
+					"study": "La gente busca a Jesús",
+					"id": "81e49aa0-ca92-40ae-b532-220c455c2a0e"
+				},
+				{
+					"verse": "Pero otras barcas habían llegado de Tiberias junto al lugar donde habían comido el pan después de haber dado gracias el Señor.",
+					"number": 23,
+					"id": "40874845-b4d0-4d12-bd1f-8ef80bf3d03f"
+				},
+				{
+					"verse": "Cuando vio, pues, la gente que Jesús no estaba allí, ni sus discípulos, entraron en las barcas y fueron a Capernaúm, buscando a Jesús.",
+					"number": 24,
+					"id": "475ac58d-6ccc-413b-898f-e295521bc80f"
+				},
+				{
+					"verse": "Y hallándolo al otro lado del mar, le preguntaron: --Rabí, ¿cuándo llegaste acá?",
+					"number": 25,
+					"study": "Jesús, el pan de vida",
+					"id": "39ffe2f5-7594-4014-84c0-5c38e3abcdfb"
+				},
+				{
+					"verse": "Respondió Jesús y les dijo: --De cierto, de cierto os digo que me buscáis, no porque habéis visto las señales, sino porque comisteis el pan y os saciasteis.",
+					"number": 26,
+					"id": "4b9063f1-8468-4e4b-b131-4dd032e0c97d"
+				},
+				{
+					"verse": "Trabajad, no por la comida que perece, sino por la comida que permanece para vida eterna, la cual os dará el Hijo del hombre, porque a este señaló Dios, el Padre.",
+					"number": 27,
+					"id": "248c5b36-730f-452c-8eae-8a5d910be9c8"
+				},
+				{
+					"verse": "Entonces le preguntaron: --¿Qué debemos hacer para poner en práctica las obras de Dios?",
+					"number": 28,
+					"id": "9c8a2a49-ed85-4c31-b8f7-aa0c77af9dd6"
+				},
+				{
+					"verse": "Respondió Jesús y les dijo: --Esta es la obra de Dios, que creáis en aquel que él ha enviado.",
+					"number": 29,
+					"id": "a7ad8fe2-0c62-4b2d-8f1c-319ba4ba8355"
+				},
+				{
+					"verse": "Entonces le dijeron: --¿Qué señal, pues, haces tú, para que veamos y te creamos? ¿Qué obra haces?",
+					"number": 30,
+					"id": "3e779e0c-32a0-438f-a4cc-af63c06c4dd1"
+				},
+				{
+					"verse": "Nuestros padres comieron el maná en el desierto, como está escrito: \"Les dio a comer pan del cielo\".",
+					"number": 31,
+					"id": "25fe145a-1ca3-4af0-b6be-69f69904cc0a"
+				},
+				{
+					"verse": "Y Jesús les dijo: --De cierto, de cierto os digo: Moisés no os dio el pan del cielo, pero mi Padre os da el verdadero pan del cielo,",
+					"number": 32,
+					"id": "6a6680d7-4f48-4778-bc08-17c3104c2237"
+				},
+				{
+					"verse": "porque el pan de Dios es aquel que descendió del cielo y da vida al mundo.",
+					"number": 33,
+					"id": "b734df53-0f08-4556-b89f-36369cee8935"
+				},
+				{
+					"verse": "Le dijeron: --Señor, danos siempre este pan.",
+					"number": 34,
+					"id": "82ec6baa-8980-4323-9a59-ddd6237cf1b1"
+				},
+				{
+					"verse": "Jesús les respondió: --Yo soy el pan de vida. El que a mí viene nunca tendrá hambre, y el que en mí cree no tendrá sed jamás.",
+					"number": 35,
+					"id": "6c811f64-9262-4025-ab6a-8c2e81d9ee5e"
+				},
+				{
+					"verse": "Pero ya os he dicho que, aunque me habéis visto, no creéis.",
+					"number": 36,
+					"id": "13b196c0-a94d-4320-836a-256191cb57b6"
+				},
+				{
+					"verse": "Todo lo que el Padre me da, vendrá a mí, y al que a mí viene, no lo echo fuera.",
+					"number": 37,
+					"id": "460a2ef8-4144-4fc1-a046-a7f860315e88"
+				},
+				{
+					"verse": "He descendido del cielo, no para hacer mi voluntad, sino la voluntad del que me envió.",
+					"number": 38,
+					"id": "ee1a2ee5-43d5-4aa4-89e7-c7d154791850"
+				},
+				{
+					"verse": "Y la voluntad del Padre, que me envió, es que no pierda yo nada de todo lo que él me da, sino que lo resucite en el día final.",
+					"number": 39,
+					"id": "4c1001f2-afb9-4744-88f0-538dd8f74e0a"
+				},
+				{
+					"verse": "Y esta es la voluntad del que me ha enviado: que todo aquel que ve al Hijo y cree en él tenga vida eterna; y yo lo resucitaré en el día final.",
+					"number": 40,
+					"id": "8675bc8c-3716-4060-be5c-450036d540ed"
+				},
+				{
+					"verse": "Murmuraban entonces de él los judíos, porque había dicho: \"Yo soy el pan que descendió del cielo\",",
+					"number": 41,
+					"id": "36bcc03d-42e8-48f3-887d-3a73a36be233"
+				},
+				{
+					"verse": "y decían: --Este, ¿no es Jesús el hijo de José, cuyo padre y madre nosotros conocemos? ¿Cómo dice ahora: \"Del cielo he descendido\"?",
+					"number": 42,
+					"id": "dac29844-5ee5-49ac-b86f-40f4963b91a8"
+				},
+				{
+					"verse": "Jesús respondió y les dijo: --No murmuréis entre vosotros.",
+					"number": 43,
+					"id": "9b4e9844-e182-42aa-bef9-d8f7bf9a7ebb"
+				},
+				{
+					"verse": "Nadie puede venir a mí, si el Padre, que me envió, no lo atrae; y yo lo resucitaré en el día final.",
+					"number": 44,
+					"id": "77c78c38-b975-4dfd-b92a-5caab321a66e"
+				},
+				{
+					"verse": "Escrito está en los Profetas: \"Y todos serán enseñados por Dios\". Así que, todo aquel que oye al Padre y aprende de él, viene a mí.",
+					"number": 45,
+					"id": "c1efe502-6e7c-495c-a448-a80ffffa5be8"
+				},
+				{
+					"verse": "No que alguien haya visto al Padre; solo aquel que viene de Dios, ese ha visto al Padre.",
+					"number": 46,
+					"id": "473d956f-3440-4c2c-a687-b7810c75f85d"
+				},
+				{
+					"verse": "De cierto, de cierto os digo: El que cree en mí tiene vida eterna.",
+					"number": 47,
+					"id": "9a23fb5e-5f27-4b8c-8db4-d2191746cc44"
+				},
+				{
+					"verse": "Yo soy el pan de vida.",
+					"number": 48,
+					"id": "e20fc455-dea2-4a7f-95c9-7e4171a30d37"
+				},
+				{
+					"verse": "Vuestros padres comieron el maná en el desierto, y aun así murieron.",
+					"number": 49,
+					"id": "fd9b4417-10a8-4d55-9789-6de517624be1"
+				},
+				{
+					"verse": "Este es el pan que desciende del cielo para que no muera quien coma de él.",
+					"number": 50,
+					"id": "4d52c668-4ffd-42e4-a563-a1d57ac2790d"
+				},
+				{
+					"verse": "Yo soy el pan vivo que descendió del cielo; si alguien come de este pan, vivirá para siempre; y el pan que yo daré es mi carne, la cual yo daré por la vida del mundo.",
+					"number": 51,
+					"id": "278bc055-c719-4fdc-bf01-c24e54ec0491"
+				},
+				{
+					"verse": "Entonces los judíos discutían entre sí, diciendo: --¿Cómo puede este darnos a comer su carne?",
+					"number": 52,
+					"id": "756c3ec0-bcc1-4ecb-9217-c704cf5e334f"
+				},
+				{
+					"verse": "Jesús les dijo: --De cierto, de cierto os digo: Si no coméis la carne del Hijo del hombre y bebéis su sangre, no tenéis vida en vosotros.",
+					"number": 53,
+					"id": "57fba119-5245-4d89-bac6-0d8ea472f429"
+				},
+				{
+					"verse": "El que come mi carne y bebe mi sangre tiene vida eterna, y yo lo resucitaré en el día final,",
+					"number": 54,
+					"id": "1547d0d3-65d7-4e6f-a483-2419121484c8"
+				},
+				{
+					"verse": "porque mi carne es verdadera comida y mi sangre es verdadera bebida.",
+					"number": 55,
+					"id": "701893df-4b66-48c7-9739-fd934cf65c30"
+				},
+				{
+					"verse": "El que come mi carne y bebe mi sangre permanece en mí y yo en él.",
+					"number": 56,
+					"id": "a448776b-4075-489a-91fc-d488d2988c3c"
+				},
+				{
+					"verse": "Así como me envió el Padre viviente y yo vivo por el Padre, también el que me come vivirá por mí.",
+					"number": 57,
+					"id": "b96cffe2-65e7-46e9-ba83-570761d5d1ca"
+				},
+				{
+					"verse": "Este es el pan que descendió del cielo; no como vuestros padres, que comieron el maná y murieron; el que come este pan vivirá eternamente.",
+					"number": 58,
+					"id": "8c5c62e2-ac75-48ec-bf84-f537ddb369ce"
+				},
+				{
+					"verse": "Estas cosas dijo en Capernaúm, enseñando en una sinagoga.",
+					"number": 59,
+					"id": "67bd1bf3-7764-4597-8e5f-4362628ebeed"
+				},
+				{
+					"verse": "Al oir esto, muchos de sus discípulos dijeron: --Dura es esta palabra; ¿quién la puede oir?",
+					"number": 60,
+					"study": "Palabras de vida eterna",
+					"id": "fd133981-0089-4324-b714-ace25bfba20d"
+				},
+				{
+					"verse": "Sabiendo Jesús en sí mismo que sus discípulos murmuraban de esto, les dijo: --¿Esto os escandaliza?",
+					"number": 61,
+					"id": "5ac27277-945d-422c-86ad-b57087c80247"
+				},
+				{
+					"verse": "¿Pues qué, si vierais al Hijo del hombre subir a donde estaba primero?",
+					"number": 62,
+					"id": "497a7554-71d0-40f2-bebd-5fb4aef564b0"
+				},
+				{
+					"verse": "El espíritu es el que da vida; la carne para nada aprovecha. Las palabras que yo os he hablado son espíritu y son vida.",
+					"number": 63,
+					"id": "72757201-3ff9-4d7f-bd3b-830e8e9c47cc"
+				},
+				{
+					"verse": "Pero hay algunos de vosotros que no creen --porque Jesús sabía desde el principio quiénes eran los que no creían y quién lo había de entregar--.",
+					"number": 64,
+					"id": "3b108b01-274f-4de2-a73e-04417fec0b29"
+				},
+				{
+					"verse": "Y dijo: --Por eso os he dicho que ninguno puede venir a mí, si no le es dado del Padre.",
+					"number": 65,
+					"id": "4e514552-2fec-410a-9dbd-63ca6ad4d242"
+				},
+				{
+					"verse": "Desde entonces muchos de sus discípulos volvieron atrás y ya no andaban con él.",
+					"number": 66,
+					"id": "ade2267c-1483-4f71-abc3-b7c426819f3f"
+				},
+				{
+					"verse": "Dijo entonces Jesús a los doce: --¿Queréis acaso iros también vosotros?",
+					"number": 67,
+					"id": "9f704a1a-d179-45cb-a90b-1c6b80e1f7e3"
+				},
+				{
+					"verse": "Le respondió Simón Pedro: --Señor, ¿a quién iremos? Tú tienes palabras de vida eterna.",
+					"number": 68,
+					"id": "a28374c1-f012-40f6-a45f-7c7a1fc05b03"
+				},
+				{
+					"verse": "Y nosotros hemos creído y conocido que tú eres el Cristo, el Hijo del Dios viviente.",
+					"number": 69,
+					"id": "ecf72e06-a86a-4d26-bab1-874eec0144a5"
+				},
+				{
+					"verse": "Jesús les respondió: --¿No os he escogido yo a vosotros los doce, y uno de vosotros es diablo?",
+					"number": 70,
+					"id": "16ae3551-7576-46e9-8376-aab4a0b42e93"
+				},
+				{
+					"verse": "Hablaba de Judas Iscariote hijo de Simón, porque él era el que lo iba a entregar, y era uno de los doce.",
+					"number": 71,
+					"id": "7b34bed0-964d-42fe-bb86-c0e302480e1f"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Después de esto andaba Jesús en Galilea, pues no quería andar en Judea, porque los judíos intentaban matarlo.",
+					"number": 1,
+					"study": "Incredulidad de los hermanos de Jesús",
+					"id": "c7f12d1d-f759-44d5-8830-103347ba4246"
+				},
+				{
+					"verse": "Estaba cerca la fiesta de los judíos, la de los Tabernáculos,",
+					"number": 2,
+					"id": "a1289728-3ca8-42c6-9901-2bf756f870eb"
+				},
+				{
+					"verse": "y le dijeron sus hermanos: --Sal de aquí, y vete a Judea, para que también tus discípulos vean las obras que haces,",
+					"number": 3,
+					"id": "0f9e74c6-0f9b-4e7a-b1a3-e6f902505e16"
+				},
+				{
+					"verse": "porque ninguno que procura darse a conocer hace algo en secreto. Si estas cosas haces, manifiéstate al mundo.",
+					"number": 4,
+					"id": "1f57b6c2-fbc0-4ef3-b890-a9578fe152c4"
+				},
+				{
+					"verse": "Ni aun sus hermanos creían en él.",
+					"number": 5,
+					"id": "fbc3ac2f-f484-4e8c-984e-c610a54d7d80"
+				},
+				{
+					"verse": "Entonces Jesús les dijo: --Mi tiempo aún no ha llegado, pero vuestro tiempo siempre está preparado.",
+					"number": 6,
+					"id": "6b7e5509-1c33-44c9-b61c-c0e0722bbb20"
+				},
+				{
+					"verse": "No puede el mundo odiaros a vosotros; pero a mí me odia, porque yo testifico de él, que sus obras son malas.",
+					"number": 7,
+					"id": "52f00d8e-a33e-41e5-9b07-6e8294429c57"
+				},
+				{
+					"verse": "Subid vosotros a la fiesta; yo no subo todavía a esa fiesta, porque mi tiempo aún no se ha cumplido.",
+					"number": 8,
+					"id": "97557f94-12d8-466b-94f1-f84b1ecd40db"
+				},
+				{
+					"verse": "Y habiéndoles dicho esto se quedó en Galilea.",
+					"number": 9,
+					"id": "c2ea042c-2c86-428d-993f-0308c0fb5526"
+				},
+				{
+					"verse": "Pero después que sus hermanos subieron, entonces él también subió a la fiesta, no abiertamente, sino como en secreto.",
+					"number": 10,
+					"study": "Jesús en la fiesta de los tabernáculos",
+					"id": "16e00314-6db5-4c98-af63-b995a1ee4379"
+				},
+				{
+					"verse": "Y lo buscaban los judíos en la fiesta, y decían: --¿Dónde estará aquel?",
+					"number": 11,
+					"id": "92189317-8d02-4af0-862f-85ce05a87a4f"
+				},
+				{
+					"verse": "Y había mucha murmuración acerca de él entre la multitud, pues unos decían: \"Es bueno\"; pero otros decían: \"No, sino que engaña al pueblo\".",
+					"number": 12,
+					"id": "6f1fc50f-b376-4d84-9378-f6258f87ea82"
+				},
+				{
+					"verse": "Sin embargo, ninguno hablaba abiertamente de él por miedo a los judíos.",
+					"number": 13,
+					"id": "885ee28b-fcae-4127-a8af-3ad93142b26b"
+				},
+				{
+					"verse": "Pero a la mitad de la fiesta subió Jesús al templo, y enseñaba.",
+					"number": 14,
+					"id": "b6c3a125-b60e-4fc6-9466-0f04c1aa9633"
+				},
+				{
+					"verse": "Y se admiraban los judíos, diciendo: --¿Cómo sabe este letras sin haber estudiado?",
+					"number": 15,
+					"id": "ea3e3d9d-7ecc-4e41-99c7-381c3fae9bfb"
+				},
+				{
+					"verse": "Jesús les respondió y dijo: --Mi doctrina no es mía, sino de aquel que me envió.",
+					"number": 16,
+					"id": "709b3247-d86c-4f1c-82b9-741865cd2b95"
+				},
+				{
+					"verse": "El que quiera hacer la voluntad de Dios, conocerá si la doctrina es de Dios o si yo hablo por mi propia cuenta.",
+					"number": 17,
+					"id": "70a564c5-e3a7-4774-92cb-183c24a9304e"
+				},
+				{
+					"verse": "El que habla por su propia cuenta, su propia gloria busca; pero el que busca la gloria del que lo envió, este es verdadero y no hay en él injusticia.",
+					"number": 18,
+					"id": "e956d45c-8f63-41d9-8579-95bfba1b569d"
+				},
+				{
+					"verse": "¿No os dio Moisés la Ley? Sin embargo, ninguno de vosotros la cumple. ¿Por qué intentáis matarme?",
+					"number": 19,
+					"id": "6a748fd5-07b9-486a-bb90-fed7bb86d995"
+				},
+				{
+					"verse": "Respondió la multitud y dijo: --Demonio tienes, ¿quién intenta matarte?",
+					"number": 20,
+					"id": "0073acff-c107-4274-9aab-eaf712344485"
+				},
+				{
+					"verse": "Jesús respondió y les dijo: --Una obra hice y todos os admiráis.",
+					"number": 21,
+					"id": "4ad206da-b084-4c9d-a5ca-0f64a31d96f8"
+				},
+				{
+					"verse": "Por cierto, Moisés os dio la circuncisión --no porque sea de Moisés, sino de los padres-- y en sábado circuncidáis al hombre.",
+					"number": 22,
+					"id": "192fe250-2590-4b58-95cd-90c8f2ec2f6a"
+				},
+				{
+					"verse": "Si recibe el hombre la circuncisión en sábado, para que la Ley de Moisés no sea quebrantada, ¿os enojáis conmigo porque en sábado sané completamente a un hombre?",
+					"number": 23,
+					"id": "a956753f-fa4f-44df-8a00-74121cda8935"
+				},
+				{
+					"verse": "No juzguéis según las apariencias, sino juzgad con justo juicio.",
+					"number": 24,
+					"id": "4d1eda2b-9621-4969-89aa-3fac5479aeb8"
+				},
+				{
+					"verse": "Decían entonces unos de Jerusalén: --¿No es a este a quien buscan para matarlo?",
+					"number": 25,
+					"study": "¿Es éste el Cristo?",
+					"id": "926abf92-7ae2-46a6-949c-72c13ae92243"
+				},
+				{
+					"verse": "Pues mirad, habla públicamente y no le dicen nada. ¿Habrán reconocido en verdad las autoridades que este es el Cristo?",
+					"number": 26,
+					"id": "42a601a6-9c42-46b2-8579-073b5f592455"
+				},
+				{
+					"verse": "Pero este, sabemos de dónde es; sin embargo, cuando venga el Cristo, nadie sabrá de dónde es.",
+					"number": 27,
+					"id": "34e5ce29-1881-4429-9cef-aef499fbe407"
+				},
+				{
+					"verse": "Jesús entonces, enseñando en el templo, alzó la voz y dijo: --A mí me conocéis y sabéis de dónde soy; no he venido de mí mismo, pero el que me envió, a quien vosotros no conocéis, es verdadero.",
+					"number": 28,
+					"id": "eef47e51-6c0e-40a1-9d6f-514c6b6c8709"
+				},
+				{
+					"verse": "Pero yo lo conozco, porque de él procedo, y él me envió.",
+					"number": 29,
+					"id": "1d14fd5b-3d3e-446c-9ecc-acc0ae3bd90a"
+				},
+				{
+					"verse": "Entonces intentaban prenderlo; pero ninguno le echó mano, porque aún no había llegado su hora.",
+					"number": 30,
+					"id": "ea8b6f3f-8e70-4c32-a52a-3a8cf3b8f2c1"
+				},
+				{
+					"verse": "Y muchos de la multitud creyeron en él y decían: --El Cristo, cuando venga, ¿hará más señales que las que este hace?",
+					"number": 31,
+					"id": "2e4250d3-a7ff-479e-bc38-6ba1b6f31cc1"
+				},
+				{
+					"verse": "Los fariseos oyeron a la gente que murmuraba de él estas cosas. Entonces los principales sacerdotes y los fariseos enviaron guardias para que lo prendieran.",
+					"number": 32,
+					"study": "Los fariseos envían alguaciles para prender a Jesús",
+					"id": "684ce211-6c61-41b8-ac1c-eed32648bb7f"
+				},
+				{
+					"verse": "Y Jesús dijo: --Todavía estaré con vosotros algún tiempo, y luego iré al que me envió.",
+					"number": 33,
+					"id": "42f6112e-6a9f-4f68-b3d9-5b8c23f13f15"
+				},
+				{
+					"verse": "Me buscaréis, pero no me hallaréis, y a donde yo estaré, vosotros no podréis ir.",
+					"number": 34,
+					"id": "e046a46d-a141-4d11-8881-2cdb741c45ad"
+				},
+				{
+					"verse": "Entonces los judíos dijeron entre sí: --¿Adónde se irá este, que no lo hallaremos? ¿Se irá a los dispersos entre los griegos y enseñará a los griegos?",
+					"number": 35,
+					"id": "68c7a2f4-a8e6-4399-955e-374d8bcf7a53"
+				},
+				{
+					"verse": "¿Qué significa esto que dijo: \"Me buscaréis, pero no me hallaréis, y a donde yo estaré, vosotros no podréis ir\"?",
+					"number": 36,
+					"id": "8773a98f-0af5-4341-b065-331feeb2c0c5"
+				},
+				{
+					"verse": "En el último y gran día de la fiesta, Jesús se puso en pie y alzó la voz, diciendo: --Si alguien tiene sed, venga a mí y beba.",
+					"number": 37,
+					"study": "Ríos de agua viva",
+					"id": "63889c39-a366-46d1-a3ba-9f81df47aa9e"
+				},
+				{
+					"verse": "El que cree en mí, como dice la Escritura, de su interior brotarán ríos de agua viva.",
+					"number": 38,
+					"id": "3d01bd87-d95d-471b-8322-3eef25f72041"
+				},
+				{
+					"verse": "Esto dijo del Espíritu que habían de recibir los que creyeran en él, pues aún no había venido el Espíritu Santo, porque Jesús no había sido aún glorificado.",
+					"number": 39,
+					"id": "ae77092b-ecd7-4638-a439-ccb1d238589c"
+				},
+				{
+					"verse": "Entonces algunos de la multitud, oyendo estas palabras, decían: \"Verdaderamente este es el Profeta\".",
+					"number": 40,
+					"study": "División entre la gente",
+					"id": "ac262730-97b4-45e1-824d-664f7c37eacf"
+				},
+				{
+					"verse": "Otros decían: \"Este es el Cristo\". Pero algunos decían: \"¿De Galilea ha de venir el Cristo?",
+					"number": 41,
+					"id": "11c821ff-a5a1-449b-8df1-56abfc756cc8"
+				},
+				{
+					"verse": "¿No dice la Escritura que de la descendencia de David, y de la aldea de Belén, de donde era David, ha de venir el Cristo?\"",
+					"number": 42,
+					"id": "9b064bae-e28e-4c2e-a2e2-39d415af4faf"
+				},
+				{
+					"verse": "Hubo entonces división entre la gente a causa de él.",
+					"number": 43,
+					"id": "ac0df95a-ec4c-4dfd-b760-ae6e01adcb9a"
+				},
+				{
+					"verse": "Y algunos de ellos querían prenderlo, pero ninguno le echó mano.",
+					"number": 44,
+					"id": "d526461b-65ac-4d7d-96f7-b8258a68268d"
+				},
+				{
+					"verse": "Los guardias vinieron a los principales sacerdotes y a los fariseos. Entonces estos les preguntaron: --¿Por qué no lo habéis traído?",
+					"number": 45,
+					"study": "¡Nunca ha hablado hombre así!",
+					"id": "145a1540-fd46-4cda-8a25-915780deb4fa"
+				},
+				{
+					"verse": "Los guardias respondieron: --¡Jamás hombre alguno ha hablado como este hombre!",
+					"number": 46,
+					"id": "d1591952-5ae2-4381-af53-34dd5c02a7e8"
+				},
+				{
+					"verse": "Entonces los fariseos les preguntaron: --¿También vosotros habéis sido engañados?",
+					"number": 47,
+					"id": "a5b1c1e7-eb9e-4f58-9c37-95d4f5145120"
+				},
+				{
+					"verse": "¿Acaso ha creído en él alguno de los gobernantes o de los fariseos?",
+					"number": 48,
+					"id": "315d785d-2392-47d5-b730-bdf5b065f643"
+				},
+				{
+					"verse": "Pero esta gente que no sabe la Ley, maldita es.",
+					"number": 49,
+					"id": "4526fe5b-b858-43af-b3b4-da406f2efc54"
+				},
+				{
+					"verse": "Les dijo Nicodemo, el que vino a él de noche, el cual era uno de ellos:",
+					"number": 50,
+					"id": "d6b0c60c-db4c-4ff9-be6e-f180b9a41dab"
+				},
+				{
+					"verse": "--¿Juzga acaso nuestra Ley a un hombre si primero no lo oye y sabe lo que ha hecho?",
+					"number": 51,
+					"id": "8e8f1c1d-fa1b-4f16-a93b-328cbb9cc11d"
+				},
+				{
+					"verse": "Respondieron y le dijeron: --¿Eres tú también galileo? Escudriña y ve que de Galilea nunca se ha levantado un profeta.",
+					"number": 52,
+					"id": "f71b8342-2b18-40f2-8643-b756bef8a5f5"
+				},
+				{
+					"verse": "pero Jesús se fue al Monte de los Olivos.",
+					"number": 53,
+					"id": "2adb19e8-dd10-4154-b237-a499e9495c77"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Por la mañana volvió al templo, y todo el pueblo vino a él; y sentándose, les enseñaba.",
+					"number": 1,
+					"study": "La mujer adúltera",
+					"id": "2bcc83fb-09ab-4207-914e-d0a78adf732c"
+				},
+				{
+					"verse": "Entonces los escribas y los fariseos le trajeron una mujer sorprendida en adulterio y, poniéndola en medio,",
+					"number": 2,
+					"id": "520446dc-3786-4da1-ae86-84af3b3b827d"
+				},
+				{
+					"verse": "le dijeron: --Maestro, esta mujer ha sido sorprendida en el acto mismo de adulterio,",
+					"number": 3,
+					"id": "5f797288-bdda-4746-a432-7516abc601d9"
+				},
+				{
+					"verse": "y en la Ley nos mandó Moisés apedrear a tales mujeres. Tú, pues, ¿qué dices?",
+					"number": 4,
+					"id": "9fdcac95-6487-4f3d-a488-39fd4f54274c"
+				},
+				{
+					"verse": "Esto decían probándolo, para tener de qué acusarlo. Pero Jesús, inclinado hacia el suelo, escribía en tierra con el dedo.",
+					"number": 5,
+					"id": "abf65427-a958-41bc-bd87-834394f5425f"
+				},
+				{
+					"verse": "Y como insistieran en preguntarle, se enderezó y les dijo: --El que de vosotros esté sin pecado sea el primero en arrojar la piedra contra ella.",
+					"number": 6,
+					"id": "401fe77f-4646-431f-b931-c182d59e6126"
+				},
+				{
+					"verse": "E inclinándose de nuevo hacia el suelo, siguió escribiendo en tierra.",
+					"number": 7,
+					"id": "70f06903-0d59-47f9-84d8-b39b2c4197b6"
+				},
+				{
+					"verse": "Pero ellos, al oir esto, acusados por su conciencia, fueron saliendo uno a uno, comenzando desde los más viejos hasta los más jóvenes; solo quedaron Jesús y la mujer que estaba en medio.",
+					"number": 8,
+					"id": "f7d58532-2f48-40a2-af4e-754536440d51"
+				},
+				{
+					"verse": "Enderezándose Jesús y no viendo a nadie sino a la mujer, le dijo: --Mujer, ¿dónde están los que te acusaban? ¿Ninguno te condenó?",
+					"number": 9,
+					"id": "f650d4cf-2138-4555-b72a-343ef4066f2d"
+				},
+				{
+					"verse": "Ella dijo: --Ninguno, Señor. Entonces Jesús le dijo: --Ni yo te condeno; vete y no peques más.",
+					"number": 10,
+					"id": "5292404e-6873-46c4-a137-c6d1dd22cdcb"
+				},
+				{
+					"verse": "Otra vez Jesús les habló, diciendo: --Yo soy la luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la luz de la vida.",
+					"number": 11,
+					"id": "0e566fcf-0dd9-432f-ad32-08a0842c8505"
+				},
+				{
+					"verse": "Entonces los fariseos le dijeron: --Tú das testimonio acerca de ti mismo; tu testimonio no es válido.",
+					"number": 12,
+					"study": "Jesús, la luz del mundo",
+					"id": "fbc8dfbb-f21e-48b5-9b69-c4b6a02ca218"
+				},
+				{
+					"verse": "Respondió Jesús y les dijo: --Aunque yo doy testimonio acerca de mí mismo, mi testimonio es válido, porque sé de dónde he venido y a dónde voy; pero vosotros no sabéis de dónde vengo ni a dónde voy.",
+					"number": 13,
+					"id": "7d4c7b46-e672-4651-b578-c7c96e906721"
+				},
+				{
+					"verse": "Vosotros juzgáis según la carne; yo no juzgo a nadie.",
+					"number": 14,
+					"id": "3498d317-875d-4932-a8c0-73fa879b46ff"
+				},
+				{
+					"verse": "Y si yo juzgo, mi juicio es según la verdad, porque no soy yo solo, sino yo y el Padre que me envió.",
+					"number": 15,
+					"id": "7cff923f-acc9-4cff-8e86-38e4ebd1c706"
+				},
+				{
+					"verse": "Y en vuestra Ley está escrito que el testimonio de dos hombres es válido.",
+					"number": 16,
+					"id": "e409fe58-09a8-4836-ba69-0c7c85a8d38a"
+				},
+				{
+					"verse": "Yo soy el que doy testimonio de mí mismo. También el Padre que me envió da testimonio de mí.",
+					"number": 17,
+					"id": "8e08df17-89ee-46b5-8d65-fb4031e260b2"
+				},
+				{
+					"verse": "Ellos le dijeron: --¿Dónde está tu padre? Respondió Jesús: --Ni a mí me conocéis, ni a mi Padre; si a mí me conocierais, también a mi Padre conoceríais.",
+					"number": 18,
+					"id": "86e38474-2b7b-4e50-abfe-65c7674d1c43"
+				},
+				{
+					"verse": "Estas palabras habló Jesús en el lugar de las ofrendas, enseñando en el templo; y nadie lo prendió, porque aún no había llegado su hora.",
+					"number": 19,
+					"id": "820fda83-189e-4714-8b72-4138451d4263"
+				},
+				{
+					"verse": "Otra vez les dijo Jesús: --Yo me voy, y me buscaréis, pero en vuestro pecado moriréis; a donde yo voy, vosotros no podéis ir.",
+					"number": 20,
+					"id": "5f68f733-a43e-44d5-b45d-ca58ad57cfa8"
+				},
+				{
+					"verse": "Decían entonces los judíos: --¿Acaso pensará matarse, que dice: \"A donde yo voy, vosotros no podéis ir\"?",
+					"number": 21,
+					"study": "A donde yo voy, vosotros no podéis venir",
+					"id": "79e1c6ed-bb53-44cf-802e-d9cc9e33319a"
+				},
+				{
+					"verse": "Y les dijo: --Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo.",
+					"number": 22,
+					"id": "8501e1a3-84d3-4bd4-8919-869ab12d2b16"
+				},
+				{
+					"verse": "Por eso os dije que moriréis en vuestros pecados; si no creéis que yo soy, en vuestros pecados moriréis.",
+					"number": 23,
+					"id": "67cc5aab-e34d-4377-acdc-a32cb208b90c"
+				},
+				{
+					"verse": "Entonces le dijeron: --Tú, ¿quién eres? Entonces Jesús les dijo: --Lo que desde el principio os he dicho.",
+					"number": 24,
+					"id": "ea421da3-ca84-4f81-8498-e3061e18a09a"
+				},
+				{
+					"verse": "Muchas cosas tengo que decir y juzgar de vosotros; pero el que me envió es verdadero, y yo, lo que he oído de él, esto hablo al mundo.",
+					"number": 25,
+					"id": "75b996d4-0560-49f6-9081-9678be9e38a3"
+				},
+				{
+					"verse": "Pero no entendieron que les hablaba del Padre.",
+					"number": 26,
+					"id": "7f86bd89-c547-41c6-b70a-1560a01c58f2"
+				},
+				{
+					"verse": "Les dijo, pues, Jesús: --Cuando hayáis levantado al Hijo del hombre, entonces conoceréis que yo soy y que nada hago por mí mismo, sino que, según me enseñó el Padre, así hablo,",
+					"number": 27,
+					"id": "b8497389-6795-458b-9ab2-7d4c7af3358d"
+				},
+				{
+					"verse": "porque el que me envió, conmigo está; no me ha dejado solo el Padre, porque yo hago siempre lo que le agrada.",
+					"number": 28,
+					"id": "e835001c-5224-4780-8953-a56a78f737e5"
+				},
+				{
+					"verse": "Al hablar él estas cosas, muchos creyeron en él.",
+					"number": 29,
+					"id": "ea31c7c6-7ead-4c41-a5e0-98ce545265c5"
+				},
+				{
+					"verse": "Dijo entonces Jesús a los judíos que habían creído en él: --Si vosotros permanecéis en mi palabra, seréis verdaderamente mis discípulos;",
+					"number": 30,
+					"id": "1149d7a3-8c63-4bb2-b359-a8f14e1a72e2"
+				},
+				{
+					"verse": "y conoceréis la verdad y la verdad os hará libres.",
+					"number": 31,
+					"study": "La verdad os hará libres",
+					"id": "1a6633cb-329a-4b41-af24-c109ef22477e"
+				},
+				{
+					"verse": "Le respondieron: --Descendientes de Abraham somos y jamás hemos sido esclavos de nadie. ¿Cómo dices tú: \"Seréis libres\"?",
+					"number": 32,
+					"id": "b5792880-6356-4f3d-82e1-86747ede9888"
+				},
+				{
+					"verse": "Jesús les respondió: --De cierto, de cierto os digo que todo aquel que practica el pecado, esclavo es del pecado.",
+					"number": 33,
+					"id": "ede23bb6-1294-48ba-9190-fa130e12071a"
+				},
+				{
+					"verse": "Y el esclavo no queda en la casa para siempre; el hijo sí queda para siempre.",
+					"number": 34,
+					"id": "6fe7b336-f988-48ac-bfeb-fc3043cb798d"
+				},
+				{
+					"verse": "Así que, si el Hijo os liberta, seréis verdaderamente libres.",
+					"number": 35,
+					"id": "ec7c41a0-a525-43c3-a65c-4b786982145d"
+				},
+				{
+					"verse": "Sé que sois descendientes de Abraham; sin embargo intentáis matarme, porque mi palabra no halla cabida en vosotros.",
+					"number": 36,
+					"id": "38feba7f-9852-4372-80bb-7e54f2af1316"
+				},
+				{
+					"verse": "Yo hablo lo que he visto estando junto al Padre, y vosotros hacéis lo que habéis oído junto a vuestro padre.",
+					"number": 37,
+					"id": "78e755e5-ea07-4314-88f9-41d702604f07"
+				},
+				{
+					"verse": "Respondieron y le dijeron: --Nuestro padre es Abraham. Jesús les dijo: --Si fuerais hijos de Abraham, las obras de Abraham haríais.",
+					"number": 38,
+					"id": "8cefbb8c-42de-43b1-831d-7ab63b0f8f5b"
+				},
+				{
+					"verse": "Pero ahora intentáis matarme a mí, que os he hablado la verdad, la cual he oído de Dios. No hizo esto Abraham.",
+					"number": 39,
+					"study": "Sois de vuestro padre el diablo",
+					"id": "3a5211f3-b9d6-489a-aad1-4d8052188c90"
+				},
+				{
+					"verse": "Vosotros hacéis las obras de vuestro padre. Entonces le dijeron: --¡Nosotros no hemos nacido de fornicación! ¡Un padre tenemos: Dios!",
+					"number": 40,
+					"id": "b4781065-cf0b-4420-9c99-76a464b82398"
+				},
+				{
+					"verse": "Jesús entonces les dijo: --Si vuestro padre fuera Dios, entonces me amaríais, porque yo de Dios he salido y he venido, pues no he venido de mí mismo, sino que él me envió.",
+					"number": 41,
+					"id": "73da760c-73bb-47c3-982c-ea51647bb9a2"
+				},
+				{
+					"verse": "¿Por qué no entendéis mi lenguaje? Porque no podéis escuchar mi palabra.",
+					"number": 42,
+					"id": "06045a75-c97f-4a89-9a1e-c3be1840bfcb"
+				},
+				{
+					"verse": "Vosotros sois de vuestro padre el diablo, y los deseos de vuestro padre queréis hacer. Él ha sido homicida desde el principio y no ha permanecido en la verdad, porque no hay verdad en él. Cuando habla mentira, de suyo habla, pues es mentiroso y padre de mentira.",
+					"number": 43,
+					"id": "b98907ab-5674-4422-9be8-b48bf4155c43"
+				},
+				{
+					"verse": "Pero a mí, que digo la verdad, no me creéis.",
+					"number": 44,
+					"id": "71b70ebb-4923-4db8-b906-26e639bb51bb"
+				},
+				{
+					"verse": "¿Quién de vosotros puede acusarme de pecado? Y si digo la verdad, ¿por qué vosotros no me creéis?",
+					"number": 45,
+					"id": "7a0ccebd-20c9-42a4-81fc-cb882f57acda"
+				},
+				{
+					"verse": "El que es de Dios, las palabras de Dios oye; por esto no las oís vosotros, porque no sois de Dios.",
+					"number": 46,
+					"id": "eeaeb5d8-58c3-4a72-8e3a-1158a1d9bc9f"
+				},
+				{
+					"verse": "Respondieron entonces los judíos, y le dijeron: --¿No decimos bien nosotros, que tú eres samaritano y que tienes demonio?",
+					"number": 47,
+					"id": "df9b0476-e585-4ad2-bf7e-3135a92c75d1"
+				},
+				{
+					"verse": "Respondió Jesús: --Yo no tengo demonio, antes honro a mi Padre; y vosotros me deshonráis.",
+					"number": 48,
+					"study": "La preexistencia de Cristo",
+					"id": "4068b4d3-8743-4db3-90d9-018c78ae5585"
+				},
+				{
+					"verse": "Pero yo no busco mi gloria; hay quien la busca y juzga.",
+					"number": 49,
+					"id": "af4cffba-a8d1-4bf4-9948-7b0a45a18d03"
+				},
+				{
+					"verse": "De cierto, de cierto os digo que el que guarda mi palabra nunca verá muerte.",
+					"number": 50,
+					"id": "43c8d181-150a-4a7a-abcb-5e115f037289"
+				},
+				{
+					"verse": "Entonces los judíos le dijeron: --Ahora nos convencemos de que tienes demonio. Abraham murió, y los profetas; y tú dices: \"El que guarda mi palabra nunca sufrirá muerte\".",
+					"number": 51,
+					"id": "bc9ec3c5-3100-42ec-9f2d-c0f5f164ffca"
+				},
+				{
+					"verse": "Y cada uno se fue a su casa,",
+					"number": 52,
+					"id": "8eb4c0db-e960-4827-bc37-b40f2e208740"
+				},
+				{
+					"verse": "¿Eres tú acaso mayor que nuestro padre Abraham, el cual murió? ¡También los profetas murieron! ¿Quién crees que eres?",
+					"number": 53,
+					"id": "1c160445-6ac9-4e99-98ad-bffde454f933"
+				},
+				{
+					"verse": "Respondió Jesús: --Si yo me glorifico a mí mismo, mi gloria nada es; mi Padre es el que me glorifica, el que vosotros decís que es vuestro Dios.",
+					"number": 54,
+					"id": "465a9f34-f133-40f1-9c2d-74026ff1ba53"
+				},
+				{
+					"verse": "Vosotros no lo conocéis. Yo sí lo conozco y, si digo que no lo conozco, sería mentiroso como vosotros; pero lo conozco y guardo su palabra.",
+					"number": 55,
+					"id": "8852f0be-1fc2-410f-aeae-1a1feebca09a"
+				},
+				{
+					"verse": "Abraham, vuestro padre, se gozó de que había de ver mi día; y lo vio y se gozó.",
+					"number": 56,
+					"id": "f622df2a-39d5-45e4-90b0-597789b0fa60"
+				},
+				{
+					"verse": "Entonces le dijeron los judíos: --Aún no tienes cincuenta años, ¿y has visto a Abraham?",
+					"number": 57,
+					"id": "7c5b7069-ffe8-404e-a6b6-7d7ef90e5639"
+				},
+				{
+					"verse": "Jesús les dijo: --De cierto, de cierto os digo: Antes que Abraham fuera, yo soy.",
+					"number": 58,
+					"id": "33d9231f-4b41-4300-b6d1-a19fcc769731"
+				},
+				{
+					"verse": "Tomaron entonces piedras para arrojárselas, pero Jesús se escondió y salió del templo y, atravesando por en medio de ellos, se fue.",
+					"number": 59,
+					"id": "d740d610-4593-4e7c-bc22-836cc3c27f54"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Al pasar Jesús vio a un hombre ciego de nacimiento.",
+					"number": 1,
+					"study": "Jesús sana a un ciego de nacimiento",
+					"id": "5236540f-d6d0-4616-8c0e-0666dd2e7fb1"
+				},
+				{
+					"verse": "Y le preguntaron sus discípulos, diciendo: --Rabí, ¿quién pecó, este o sus padres, para que haya nacido ciego?",
+					"number": 2,
+					"id": "60d3fd9b-f6d7-4bf0-8c7f-e49986199f02"
+				},
+				{
+					"verse": "Respondió Jesús: --No es que pecó este, ni sus padres, sino para que las obras de Dios se manifiesten en él.",
+					"number": 3,
+					"id": "d831c988-e042-491e-bfaf-c5f5477e6aa8"
+				},
+				{
+					"verse": "Me es necesario hacer las obras del que me envió, mientras dura el día; la noche viene, cuando nadie puede trabajar.",
+					"number": 4,
+					"id": "3436fb53-68c2-44f5-8bb0-e484fa66c97f"
+				},
+				{
+					"verse": "Mientras estoy en el mundo, luz soy del mundo.",
+					"number": 5,
+					"id": "44b78cc2-3b4a-4e4b-bd9d-d3d0821b7432"
+				},
+				{
+					"verse": "Dicho esto, escupió en tierra, hizo lodo con la saliva y untó con el lodo los ojos del ciego,",
+					"number": 6,
+					"id": "02ea42cd-33d8-4d0a-a185-261ba04c3660"
+				},
+				{
+					"verse": "y le dijo: --Ve a lavarte en el estanque de Siloé --que significa \"Enviado\"--. Entonces fue, se lavó y regresó viendo.",
+					"number": 7,
+					"id": "60f2b40b-0585-4da6-b14a-092fae99c607"
+				},
+				{
+					"verse": "Por eso, los vecinos y los que antes lo habían visto que era ciego, decían: --¿No es este el que se sentaba y mendigaba?",
+					"number": 8,
+					"id": "2daae0c2-a250-4519-80b4-bbbbf9ce32e5"
+				},
+				{
+					"verse": "Unos decían: \"Él es\". Otros: \"A él se parece\". Él decía: \"Yo soy\".",
+					"number": 9,
+					"id": "bbca9ace-f139-4863-9e0c-57e8425153d0"
+				},
+				{
+					"verse": "Entonces le preguntaron: --¿Cómo te fueron abiertos los ojos?",
+					"number": 10,
+					"id": "7f31ffb6-bec5-478f-b2ae-6d22e1a984f8"
+				},
+				{
+					"verse": "Respondió él y dijo: --Aquel hombre que se llama Jesús hizo lodo, me untó los ojos y me dijo: \"Ve al Siloé y lávate\". Fui, pues, me lavé y recibí la vista.",
+					"number": 11,
+					"id": "c801abd0-6f13-4c78-9f69-4f79b0074ab4"
+				},
+				{
+					"verse": "Entonces le dijeron: --¿Dónde está él? Él dijo: --No sé.",
+					"number": 12,
+					"id": "da744b3b-64b2-4ac0-9126-b5d25d2b8624"
+				},
+				{
+					"verse": "Llevaron ante los fariseos al que había sido ciego.",
+					"number": 13,
+					"study": "Los fariseos interrogan al ciego sanado",
+					"id": "6ff8221b-d1e0-4ff8-9cb1-fbfd9aae0f4c"
+				},
+				{
+					"verse": "Y era sábado cuando Jesús había hecho el lodo y le había abierto los ojos.",
+					"number": 14,
+					"id": "67f8e0b8-c9a9-44a4-9a1e-8086c40222d5"
+				},
+				{
+					"verse": "Volvieron, pues, a preguntarle también los fariseos cómo había recibido la vista. Él les dijo: --Me puso lodo sobre los ojos, me lavé y veo.",
+					"number": 15,
+					"id": "d93be294-a64e-448a-9197-a3e1da8850e1"
+				},
+				{
+					"verse": "Entonces algunos de los fariseos decían: --Ese hombre no procede de Dios, porque no guarda el sábado. Otros decían: --¿Cómo puede un hombre pecador hacer estas señales? Y había división entre ellos.",
+					"number": 16,
+					"id": "c9f81638-b4e7-472e-8fe4-f2c14257f4c2"
+				},
+				{
+					"verse": "Entonces le preguntaron otra vez al ciego: --¿Qué dices tú del que te abrió los ojos? Él contestó: --Que es profeta.",
+					"number": 17,
+					"id": "8b214d17-3360-480a-8a0e-a8a79bfdb079"
+				},
+				{
+					"verse": "Pero los judíos no creyeron que él había sido ciego y que había recibido la vista, hasta que llamaron a los padres del que había recibido la vista,",
+					"number": 18,
+					"id": "e261f9a3-d172-432d-8bd4-340f2761f450"
+				},
+				{
+					"verse": "y les preguntaron, diciendo: --¿Es este vuestro hijo, el que vosotros decís que nació ciego? ¿Cómo, pues, ve ahora?",
+					"number": 19,
+					"id": "338df9c3-7c66-4cac-a45f-afc0495af192"
+				},
+				{
+					"verse": "Sus padres respondieron y les dijeron: --Sabemos que este es nuestro hijo y que nació ciego;",
+					"number": 20,
+					"id": "bca291b9-20c8-4a99-b7cc-0caf512ee93a"
+				},
+				{
+					"verse": "pero cómo ve ahora, no lo sabemos, o quién le haya abierto los ojos, nosotros tampoco lo sabemos; edad tiene, preguntadle a él; él hablará por sí mismo.",
+					"number": 21,
+					"id": "c5cfca5a-ab2d-4321-8c72-b0a91bf23c05"
+				},
+				{
+					"verse": "Esto dijeron sus padres porque tenían miedo de los judíos, por cuanto los judíos ya habían acordado que si alguno confesaba que Jesús era el Mesías, fuera expulsado de la sinagoga.",
+					"number": 22,
+					"id": "2c1ce085-1e70-4b6b-bfec-07b4a5a6a788"
+				},
+				{
+					"verse": "Por eso dijeron sus padres: \"Edad tiene, preguntadle a él\".",
+					"number": 23,
+					"id": "62e81af7-e519-4ab3-b0b2-77035179b058"
+				},
+				{
+					"verse": "Llamaron nuevamente al hombre que había sido ciego, y le dijeron: --¡Da gloria a Dios! Nosotros sabemos que ese hombre es pecador.",
+					"number": 24,
+					"id": "4fd9a8d6-1333-4ed9-abd9-0ad62f4edac0"
+				},
+				{
+					"verse": "Entonces él respondió y dijo: --Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo.",
+					"number": 25,
+					"id": "3a4b6c5a-f1e1-4eb1-98ca-275c800f984d"
+				},
+				{
+					"verse": "Le volvieron a decir: --¿Qué te hizo? ¿Cómo te abrió los ojos?",
+					"number": 26,
+					"id": "4abf76ce-37be-498a-a0e2-80839a1ce865"
+				},
+				{
+					"verse": "Él les respondió: --Ya os lo he dicho y no habéis escuchado, ¿por qué lo queréis oir otra vez? ¿Queréis también vosotros haceros sus discípulos?",
+					"number": 27,
+					"id": "69a0ab71-3138-471b-b6ae-4b149363f03f"
+				},
+				{
+					"verse": "Entonces lo insultaron, y dijeron: --Tú eres su discípulo, pero nosotros, discípulos de Moisés somos.",
+					"number": 28,
+					"id": "358a30fa-0222-45a1-8972-32542e23326c"
+				},
+				{
+					"verse": "Nosotros sabemos que Dios ha hablado a Moisés, pero respecto a ese, no sabemos de dónde ha salido.",
+					"number": 29,
+					"id": "9b5c5858-1cbf-41b5-be51-77ce092b9d92"
+				},
+				{
+					"verse": "Respondió el hombre y les dijo: --Pues esto es lo maravilloso, que vosotros no sepáis de dónde ha salido, y a mí me abrió los ojos.",
+					"number": 30,
+					"id": "c88209c0-d406-498a-82aa-eee76d5046b5"
+				},
+				{
+					"verse": "Y sabemos que Dios no oye a los pecadores; pero si alguno es temeroso de Dios y hace su voluntad, a ese oye.",
+					"number": 31,
+					"id": "a67df070-f032-435e-b583-3d6aa1e42ff2"
+				},
+				{
+					"verse": "Nunca se ha oído decir que alguien abriera los ojos a uno que nació ciego.",
+					"number": 32,
+					"id": "74c40bd8-915e-4472-b99a-5161e4f28eb1"
+				},
+				{
+					"verse": "Si este no viniera de Dios, nada podría hacer.",
+					"number": 33,
+					"id": "619c5e19-df29-40bd-b03f-9f798486d17e"
+				},
+				{
+					"verse": "Respondieron y le dijeron: --Tú naciste del todo en pecado, ¿y nos enseñas a nosotros? Y lo expulsaron.",
+					"number": 34,
+					"id": "989387b0-6e03-4c4e-bd05-b827cd93d069"
+				},
+				{
+					"verse": "Oyó Jesús que lo habían expulsado y, hallándolo, le dijo: --¿Crees tú en el Hijo de Dios?",
+					"number": 35,
+					"study": "Ceguera espiritual",
+					"id": "e956267c-537f-4432-b4ec-fd34f440b0f2"
+				},
+				{
+					"verse": "Respondió él y dijo: --¿Quién es, Señor, para que crea en él?",
+					"number": 36,
+					"id": "dae52da7-6960-4e47-a933-31d472ad23b2"
+				},
+				{
+					"verse": "Le dijo Jesús: --Pues lo has visto; el que habla contigo, ese es.",
+					"number": 37,
+					"id": "f51f0fec-6e07-42a0-a878-67379e30718f"
+				},
+				{
+					"verse": "Y él dijo: --Creo, Señor --y lo adoró.",
+					"number": 38,
+					"id": "fcbf9d2b-1f97-4bd9-a124-1c3953c30ccb"
+				},
+				{
+					"verse": "Dijo Jesús: --Para juicio he venido yo a este mundo, para que los que no ven, vean, y los que ven, sean cegados.",
+					"number": 39,
+					"id": "ab3866ab-b1f9-4aff-84fc-89e7abc1e136"
+				},
+				{
+					"verse": "Entonces algunos de los fariseos que estaban con él, al oir esto, le dijeron: --¿Acaso también nosotros somos ciegos?",
+					"number": 40,
+					"id": "480e0f91-f852-4019-ab34-57de332b35eb"
+				},
+				{
+					"verse": "Jesús les respondió: --Si fuerais ciegos no tendríais pecado, pero ahora, porque decís: \"Vemos\", vuestro pecado permanece.",
+					"number": 41,
+					"id": "bcf74b9b-cb60-4ed3-8d19-0d27dd2f341d"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "\"De cierto, de cierto os digo: El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ese es ladrón y salteador.",
+					"number": 1,
+					"study": "Parábola del redil",
+					"id": "0076f28e-bc4f-45f9-a92a-296c91d0feed"
+				},
+				{
+					"verse": "Pero el que entra por la puerta, el pastor de las ovejas es.",
+					"number": 2,
+					"id": "1d0cc54f-522c-4f29-926f-d2a614a0e91d"
+				},
+				{
+					"verse": "A este abre el portero, y las ovejas oyen su voz; y a sus ovejas llama por nombre y las saca.",
+					"number": 3,
+					"id": "e41baad4-d497-4605-bdd9-a4a694090fe7"
+				},
+				{
+					"verse": "Y cuando ha sacado fuera todas las propias, va delante de ellas; y las ovejas lo siguen porque conocen su voz.",
+					"number": 4,
+					"id": "95ea8ae2-0d72-4c35-b0de-2ee6efddd3d9"
+				},
+				{
+					"verse": "Pero al extraño no seguirán, sino que huirán de él, porque no conocen la voz de los extraños.",
+					"number": 5,
+					"id": "1d628706-be4a-4c3a-a33b-8c41de2089eb"
+				},
+				{
+					"verse": "Esta alegoría les dijo Jesús, pero ellos no entendieron qué era lo que les quería decir.",
+					"number": 6,
+					"id": "677e4e1a-aef9-4b14-8c04-42ff732bda1e"
+				},
+				{
+					"verse": "Volvió, pues, Jesús a decirles: --De cierto, de cierto os digo: Yo soy la puerta de las ovejas.",
+					"number": 7,
+					"study": "Jesús, el buen pastor",
+					"id": "02ef7800-cc3a-41e8-8c4f-3e26671dbeeb"
+				},
+				{
+					"verse": "Todos los que antes de mí vinieron, ladrones son y salteadores, pero no los oyeron las ovejas.",
+					"number": 8,
+					"id": "0500f180-efc6-459c-aad9-083bf3588292"
+				},
+				{
+					"verse": "Yo soy la puerta: el que por mí entre será salvo; entrará y saldrá, y hallará pastos.",
+					"number": 9,
+					"id": "1c6ad0c7-a648-4986-a3e1-846a24ef6f70"
+				},
+				{
+					"verse": "El ladrón no viene sino para hurtar, matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia.",
+					"number": 10,
+					"id": "aff6008f-4808-49f1-90f6-72c24b7c9244"
+				},
+				{
+					"verse": "\"Yo soy el buen pastor; el buen pastor su vida da por las ovejas.",
+					"number": 11,
+					"id": "2b211810-7d59-42dc-9816-6c906f7170df"
+				},
+				{
+					"verse": "Pero el asalariado, que no es el pastor, de quien no son propias las ovejas, ve venir al lobo y deja las ovejas y huye, y el lobo arrebata las ovejas y las dispersa.",
+					"number": 12,
+					"id": "f4eeae53-92dd-4454-bb0e-3b92f32b618a"
+				},
+				{
+					"verse": "Así que el asalariado huye porque es asalariado y no le importan las ovejas.",
+					"number": 13,
+					"id": "7c5f4d33-a312-4338-ba12-3d8231b0042e"
+				},
+				{
+					"verse": "\"Yo soy el buen pastor y conozco mis ovejas, y las mías me conocen,",
+					"number": 14,
+					"id": "e960e7b9-79f1-42ca-b432-6009028d21f4"
+				},
+				{
+					"verse": "así como el Padre me conoce y yo conozco al Padre; y pongo mi vida por las ovejas.",
+					"number": 15,
+					"id": "8565304c-2f0d-43e0-9ee9-a61721b009f0"
+				},
+				{
+					"verse": "Tengo, además, otras ovejas que no son de este redil; a esas también debo atraer y oirán mi voz, y habrá un rebaño y un pastor.",
+					"number": 16,
+					"id": "f25eebac-bce9-49f3-b93f-0ac9a996709c"
+				},
+				{
+					"verse": "Por eso me ama el Padre, porque yo pongo mi vida para volverla a tomar.",
+					"number": 17,
+					"id": "634aed8a-56b3-46da-a36b-f7ae3735b56f"
+				},
+				{
+					"verse": "Nadie me la quita, sino que yo de mí mismo la pongo. Tengo poder para ponerla y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre.",
+					"number": 18,
+					"id": "3db8f88f-6b74-4007-8eb9-04dfbc591bdd"
+				},
+				{
+					"verse": "Volvió a haber división entre los judíos por estas palabras.",
+					"number": 19,
+					"id": "119b277f-46cb-42bf-9987-47b3f5ff08c7"
+				},
+				{
+					"verse": "Muchos de ellos decían: --Demonio tiene y está fuera de sí. ¿Por qué lo oís?",
+					"number": 20,
+					"id": "69c024f6-965d-43f5-9542-111fc02413ec"
+				},
+				{
+					"verse": "Decían otros: --Estas palabras no son de endemoniado. ¿Puede acaso el demonio abrir los ojos de los ciegos?",
+					"number": 21,
+					"id": "cf272b67-d9b5-4105-806c-de32ee530c61"
+				},
+				{
+					"verse": "Se celebraba en Jerusalén la fiesta de la Dedicación. Era invierno,",
+					"number": 22,
+					"study": "Los judíos rechazan a Jesús",
+					"id": "c5d760c0-3b44-4dd1-9fee-16101b6be406"
+				},
+				{
+					"verse": "y Jesús andaba en el templo por el pórtico de Salomón.",
+					"number": 23,
+					"id": "812694f5-23ba-4b9d-85ab-c7cdbb3d2d4e"
+				},
+				{
+					"verse": "Lo rodearon los judíos y le dijeron: --¿Hasta cuándo nos tendrás en suspenso? Si tú eres el Cristo, dínoslo abiertamente.",
+					"number": 24,
+					"id": "cb087223-5f91-4a34-80d8-da1fd3848e5d"
+				},
+				{
+					"verse": "Jesús les respondió: --Os lo he dicho, y no creéis. Las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí;",
+					"number": 25,
+					"id": "c387c8c5-fb4e-4807-ae8e-9e017410ca4b"
+				},
+				{
+					"verse": "pero vosotros no creéis, porque no sois de mis ovejas, como os he dicho.",
+					"number": 26,
+					"id": "844734c9-ca99-4788-bbd0-d7488d4caae1"
+				},
+				{
+					"verse": "Mis ovejas oyen mi voz y yo las conozco, y me siguen;",
+					"number": 27,
+					"id": "170986db-e911-4ce0-a89f-4dc9d3539aed"
+				},
+				{
+					"verse": "yo les doy vida eterna y no perecerán jamás, ni nadie las arrebatará de mi mano.",
+					"number": 28,
+					"id": "bba43910-7b90-45b3-a448-718e5ead31d9"
+				},
+				{
+					"verse": "Mi Padre, que me las dio, mayor que todos es, y nadie las puede arrebatar de la mano de mi Padre.",
+					"number": 29,
+					"id": "7f20b4d7-8d7c-43f2-8300-0e14999394b3"
+				},
+				{
+					"verse": "El Padre y yo uno somos.",
+					"number": 30,
+					"id": "f69f8c37-bade-4254-86eb-4843a0b0e7b7"
+				},
+				{
+					"verse": "Entonces los judíos volvieron a tomar piedras para apedrearlo.",
+					"number": 31,
+					"id": "9dabdc96-0dd8-43bf-afd0-34ee0ddb7b26"
+				},
+				{
+					"verse": "Jesús les respondió: --Muchas buenas obras os he mostrado de mi Padre; ¿por cuál de ellas me apedreáis?",
+					"number": 32,
+					"id": "81eefe0e-06d3-46f2-a1c0-17c6428082e2"
+				},
+				{
+					"verse": "Le respondieron los judíos, diciendo: --Por buena obra no te apedreamos, sino por la blasfemia, porque tú, siendo hombre, te haces Dios.",
+					"number": 33,
+					"id": "d43a4fda-705b-415d-99cd-0725d4c5e24b"
+				},
+				{
+					"verse": "Jesús les respondió: --¿No está escrito en vuestra Ley: \"Yo dije, dioses sois\"?",
+					"number": 34,
+					"id": "39aad337-4ac2-4b37-9eba-8738281e639d"
+				},
+				{
+					"verse": "Si llamó dioses a aquellos a quienes vino la palabra de Dios (y la Escritura no puede ser quebrantada),",
+					"number": 35,
+					"id": "1ad9bbed-a36c-4990-a029-a367f8d19179"
+				},
+				{
+					"verse": "¿al que el Padre santificó y envió al mundo, vosotros decís: \"Tú blasfemas\", porque dije: \"Hijo de Dios soy\"?",
+					"number": 36,
+					"id": "fcbe4501-d574-4c93-8570-51e21ab5e309"
+				},
+				{
+					"verse": "Si no hago las obras de mi Padre, no me creáis.",
+					"number": 37,
+					"id": "160c4161-a36d-4783-91cd-e36069ed7b40"
+				},
+				{
+					"verse": "Pero si las hago, aunque no me creáis a mí, creed a las obras, para que conozcáis y creáis que el Padre está en mí y yo en el Padre.",
+					"number": 38,
+					"id": "947043b9-13c2-43bd-877e-4264d98f9655"
+				},
+				{
+					"verse": "Intentaron otra vez prenderlo, pero él se escapó de sus manos.",
+					"number": 39,
+					"id": "33b1862f-82e9-449a-a5ce-490957ff3646"
+				},
+				{
+					"verse": "Y se fue de nuevo al otro lado del Jordán, al lugar donde primero había estado bautizando Juan, y se quedó allí.",
+					"number": 40,
+					"id": "2bf64268-8892-47bb-8d9c-6275fffd8f2d"
+				},
+				{
+					"verse": "Muchos acudían a él, y decían: --Juan, a la verdad, ninguna señal hizo; pero todo lo que Juan dijo de este era verdad.",
+					"number": 41,
+					"id": "a16c79e1-09c1-4c22-acea-1ea588fb5ecd"
+				},
+				{
+					"verse": "Y muchos creyeron en él allí.",
+					"number": 42,
+					"id": "b412f855-06f6-4c12-9f86-27249082ed2f"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Estaba enfermo uno llamado Lázaro, de Betania, la aldea de María y de Marta, su hermana.",
+					"number": 1,
+					"study": "Muerte de Lázaro",
+					"id": "ffebef40-a262-4ecf-b810-65d2f829f9d2"
+				},
+				{
+					"verse": "(María, cuyo hermano Lázaro estaba enfermo, fue la que ungió al Señor con perfume y le secó los pies con sus cabellos).",
+					"number": 2,
+					"id": "d7085946-4506-4583-ad79-f59962c1185c"
+				},
+				{
+					"verse": "Enviaron, pues, las hermanas a decir a Jesús: --Señor, el que amas está enfermo.",
+					"number": 3,
+					"id": "f47f2d99-0aee-420e-ba57-935223006c0b"
+				},
+				{
+					"verse": "Jesús, al oírlo, dijo: --Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella.",
+					"number": 4,
+					"id": "59fe1dff-66e7-435f-859f-79b87d6782dc"
+				},
+				{
+					"verse": "Y amaba Jesús a Marta, a su hermana y a Lázaro.",
+					"number": 5,
+					"id": "7e8cae81-0199-4d56-8328-d26bd6d4c204"
+				},
+				{
+					"verse": "Cuando oyó, pues, que estaba enfermo, se quedó dos días más en el lugar donde estaba.",
+					"number": 6,
+					"id": "5d67f5d6-73dd-407b-baab-21052a630de4"
+				},
+				{
+					"verse": "Luego, después de esto, dijo a los discípulos: --Vamos de nuevo a Judea.",
+					"number": 7,
+					"id": "153fb46a-f19c-4395-8927-648a5b5f5293"
+				},
+				{
+					"verse": "Le dijeron los discípulos: --Rabí, hace poco los judíos intentaban apedrearte, ¿y otra vez vas allá?",
+					"number": 8,
+					"id": "ff1cad69-762c-4dbd-901c-f9f869269103"
+				},
+				{
+					"verse": "Respondió Jesús: --¿No tiene el día doce horas? El que anda de día no tropieza, porque ve la luz de este mundo;",
+					"number": 9,
+					"id": "a0f4fe96-358e-4951-9d27-d58df309bc26"
+				},
+				{
+					"verse": "pero el que anda de noche, tropieza, porque no hay luz en él.",
+					"number": 10,
+					"id": "01aeb600-60a6-4466-8451-5ae0936b0547"
+				},
+				{
+					"verse": "Dicho esto, agregó: --Nuestro amigo Lázaro duerme, pero voy a despertarlo.",
+					"number": 11,
+					"id": "99fd19ca-8520-45cc-96ef-84e2b52d6d26"
+				},
+				{
+					"verse": "Dijeron entonces sus discípulos: --Señor, si duerme, sanará.",
+					"number": 12,
+					"id": "6881d962-ae08-4c04-ad8a-9ef73165cd65"
+				},
+				{
+					"verse": "Jesús decía esto de la muerte de Lázaro, pero ellos pensaron que hablaba del reposar del sueño.",
+					"number": 13,
+					"id": "eab73850-bf80-4c5d-8b5e-b56c68e6ddfd"
+				},
+				{
+					"verse": "Entonces Jesús les dijo claramente: --Lázaro ha muerto,",
+					"number": 14,
+					"id": "08853468-5d96-45cd-a9e2-4c2498815508"
+				},
+				{
+					"verse": "y me alegro por vosotros de no haber estado allí, para que creáis; pero vamos a él.",
+					"number": 15,
+					"id": "b341aaf3-4c3c-493e-8006-04d9fb071a4a"
+				},
+				{
+					"verse": "Dijo entonces Tomás, llamado Dídimo, a sus condiscípulos: --Vamos también nosotros, para que muramos con él.",
+					"number": 16,
+					"id": "8dd85ad7-bb01-4e3d-9615-d36248066d4b"
+				},
+				{
+					"verse": "Llegó, pues, Jesús y halló que hacía ya cuatro días que Lázaro estaba en el sepulcro.",
+					"number": 17,
+					"study": "Jesús, la resurrección y la vida",
+					"id": "0a607758-3dd8-4075-b2a1-e6d05b78db7e"
+				},
+				{
+					"verse": "Betania estaba cerca de Jerusalén, como a quince estadios,",
+					"number": 18,
+					"id": "fd861a27-53ef-430f-8b86-243704875e8a"
+				},
+				{
+					"verse": "y muchos de los judíos habían venido a Marta y a María, para consolarlas por su hermano.",
+					"number": 19,
+					"id": "6dd4a631-f780-442c-9a63-128b405cc7d7"
+				},
+				{
+					"verse": "Entonces Marta, cuando oyó que Jesús llegaba, salió a encontrarlo, pero María se quedó en casa.",
+					"number": 20,
+					"id": "b162386c-c539-488b-b81a-c1ebcc2fba8b"
+				},
+				{
+					"verse": "Marta dijo a Jesús: --Señor, si hubieras estado aquí, mi hermano no habría muerto.",
+					"number": 21,
+					"id": "40472645-7846-418a-b57b-23281cd522b5"
+				},
+				{
+					"verse": "Pero también sé ahora que todo lo que pidas a Dios, Dios te lo dará.",
+					"number": 22,
+					"id": "c847c451-0f7d-4117-937b-8899f82ded81"
+				},
+				{
+					"verse": "Jesús le dijo: --Tu hermano resucitará.",
+					"number": 23,
+					"id": "816507ca-68af-4dfa-bbe5-460f368a56f0"
+				},
+				{
+					"verse": "Marta le dijo: --Yo sé que resucitará en la resurrección, en el día final.",
+					"number": 24,
+					"id": "301d1a9f-87b9-49ed-8f78-9a8dc7710329"
+				},
+				{
+					"verse": "Le dijo Jesús: --Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.",
+					"number": 25,
+					"id": "17519961-285d-49b1-ad11-02fc0ae37538"
+				},
+				{
+					"verse": "Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?",
+					"number": 26,
+					"id": "55c10e05-38f3-42d8-b311-9fff3f9282cf"
+				},
+				{
+					"verse": "Le dijo: --Sí, Señor; yo he creído que tú eres el Cristo, el Hijo de Dios, que has venido al mundo.",
+					"number": 27,
+					"id": "8c9fdeb7-7d86-4f7b-8c1b-9c47dd9140b7"
+				},
+				{
+					"verse": "Habiendo dicho esto, fue y llamó a María su hermana, diciéndole en secreto: --El Maestro está aquí, y te llama.",
+					"number": 28,
+					"study": "Jesús llora ante la tumba de Lázaro",
+					"id": "c422d264-fa4c-4c03-86b9-effd4e513031"
+				},
+				{
+					"verse": "Ella, cuando lo oyó, se levantó de prisa y fue a él.",
+					"number": 29,
+					"id": "779f2b82-841c-44fd-a320-f68aea3b47ae"
+				},
+				{
+					"verse": "Jesús todavía no había entrado en la aldea, sino que estaba en el lugar donde Marta lo había encontrado.",
+					"number": 30,
+					"id": "7d69b1dd-c1e5-4b32-95f2-a43e042fbd6c"
+				},
+				{
+					"verse": "Entonces los judíos que estaban en casa con ella y la consolaban, cuando vieron que María se había levantado de prisa y había salido, la siguieron, diciendo: --Va al sepulcro, a llorar allí.",
+					"number": 31,
+					"id": "7f24b97e-38e2-4912-b1d2-d893e4d24bb5"
+				},
+				{
+					"verse": "María, cuando llegó a donde estaba Jesús, al verlo, se postró a sus pies, diciéndole: --Señor, si hubieras estado aquí, no habría muerto mi hermano.",
+					"number": 32,
+					"id": "f5e9640c-604b-4c2a-990b-c0ac305d0a0c"
+				},
+				{
+					"verse": "Jesús entonces, al verla llorando y a los judíos que la acompañaban, también llorando, se estremeció en espíritu y se conmovió,",
+					"number": 33,
+					"id": "6bac4861-4b84-4186-ac5c-61663eaec180"
+				},
+				{
+					"verse": "y preguntó: --¿Dónde lo pusisteis? Le dijeron: --Señor, ven y ve.",
+					"number": 34,
+					"id": "16fdf730-e0f9-4e4f-9db9-1c0b2566c04d"
+				},
+				{
+					"verse": "Jesús lloró.",
+					"number": 35,
+					"id": "75033193-c0b4-4268-b81c-84d42a60685e"
+				},
+				{
+					"verse": "Dijeron entonces los judíos: --¡Mirad cuánto lo amaba!",
+					"number": 36,
+					"id": "0d974df6-d05b-4f16-9cb4-38a529d052af"
+				},
+				{
+					"verse": "Y algunos de ellos dijeron: --¿No podía este, que abrió los ojos al ciego, haber hecho también que Lázaro no muriera?",
+					"number": 37,
+					"id": "3451c08a-b3bf-4946-9404-9066922d1b35"
+				},
+				{
+					"verse": "Jesús, profundamente conmovido otra vez, vino al sepulcro. Era una cueva y tenía una piedra puesta encima.",
+					"number": 38,
+					"study": "Resurrección de Lázaro",
+					"id": "b9d0bc08-c011-4904-833f-478057cdc128"
+				},
+				{
+					"verse": "Dijo Jesús: --Quitad la piedra. Marta, la hermana del que había muerto, le dijo: --Señor, hiede ya, porque lleva cuatro días.",
+					"number": 39,
+					"id": "0b11b744-4a95-495a-a727-420c5f8449a0"
+				},
+				{
+					"verse": "Jesús le dijo: --¿No te he dicho que si crees verás la gloria de Dios?",
+					"number": 40,
+					"id": "fc8aba01-07e3-402a-a106-96a74d7d449f"
+				},
+				{
+					"verse": "Entonces quitaron la piedra de donde había sido puesto el muerto. Y Jesús, alzando los ojos a lo alto, dijo: --Padre, gracias te doy por haberme oído.",
+					"number": 41,
+					"id": "cd59cbf5-0299-4d76-8d91-6b49a3788184"
+				},
+				{
+					"verse": "Yo sé que siempre me oyes; pero lo dije por causa de la multitud que está alrededor, para que crean que tú me has enviado.",
+					"number": 42,
+					"id": "d5d2763f-dfa8-4a5b-9b2e-91f2532beae4"
+				},
+				{
+					"verse": "Y habiendo dicho esto, clamó a gran voz: --¡Lázaro, ven fuera!",
+					"number": 43,
+					"id": "ab17fdd0-38d9-4e4d-95e1-0e2f4aaa2d5b"
+				},
+				{
+					"verse": "Y el que había muerto salió, atadas las manos y los pies con vendas, y el rostro envuelto en un sudario. Jesús les dijo: --Desatadlo y dejadlo ir.",
+					"number": 44,
+					"id": "985b6692-0936-4b55-91dd-c6ea5fd799bd"
+				},
+				{
+					"verse": "Entonces muchos de los judíos que habían ido para acompañar a María y vieron lo que había hecho Jesús, creyeron en él.",
+					"number": 45,
+					"study": "El complot para matar a Jesús",
+					"id": "4d4a42f4-4763-4f7e-8553-7eca449f3a61"
+				},
+				{
+					"verse": "Pero algunos de ellos fueron a los fariseos y les dijeron lo que Jesús había hecho.",
+					"number": 46,
+					"id": "571ee649-5ce7-4852-b96e-dc8fd4c24b68"
+				},
+				{
+					"verse": "Entonces los principales sacerdotes y los fariseos reunieron el Concilio, y dijeron: --¿Qué haremos?, pues este hombre hace muchas señales.",
+					"number": 47,
+					"id": "cd70a98f-f25f-40fd-8955-1d72bbc9b5dd"
+				},
+				{
+					"verse": "Si lo dejamos así, todos creerán en él, y vendrán los romanos y destruirán nuestro lugar santo y nuestra nación.",
+					"number": 48,
+					"id": "5a37e6de-7173-41f1-8539-4d7b016a8518"
+				},
+				{
+					"verse": "Entonces Caifás, uno de ellos, Sumo sacerdote aquel año, les dijo: --Vosotros no sabéis nada,",
+					"number": 49,
+					"id": "132b64a4-43b9-45ae-a1f5-130ca3f784bb"
+				},
+				{
+					"verse": "ni os dais cuenta de que nos conviene que un hombre muera por el pueblo, y no que toda la nación perezca.",
+					"number": 50,
+					"id": "bec2c73d-22fd-477d-b2c7-6ad21b2bad24"
+				},
+				{
+					"verse": "Esto no lo dijo por sí mismo, sino que como era el Sumo sacerdote aquel año, profetizó que Jesús había de morir por la nación;",
+					"number": 51,
+					"id": "6046e30e-6927-4c79-8ea6-5ddd8dc42b3d"
+				},
+				{
+					"verse": "y no solamente por la nación, sino también para congregar en uno a los hijos de Dios que estaban dispersos.",
+					"number": 52,
+					"id": "1036821d-fc93-4d32-b102-fec5161aa173"
+				},
+				{
+					"verse": "Así que desde aquel día acordaron matarlo.",
+					"number": 53,
+					"id": "d0f4cc4f-e24a-474d-b79f-d0479824c8e4"
+				},
+				{
+					"verse": "Por eso, Jesús ya no andaba abiertamente entre los judíos, sino que se alejó de allí a la región contigua al desierto, a una ciudad llamada Efraín, y se quedó allí con sus discípulos.",
+					"number": 54,
+					"id": "c3a569db-be56-4d16-a0c3-4bf9545cb1a3"
+				},
+				{
+					"verse": "Se acercaba la Pascua de los judíos, y muchos subieron de aquella región a Jerusalén, antes de la Pascua, para purificarse.",
+					"number": 55,
+					"id": "796655c5-c8a9-4c54-8b7a-cb523307fa4e"
+				},
+				{
+					"verse": "Buscaban a Jesús y se preguntaban unos a otros en el templo: --¿Qué os parece? ¿No vendrá a la fiesta?",
+					"number": 56,
+					"id": "391aa9dd-a534-484c-af16-e4de5fabf2cf"
+				},
+				{
+					"verse": "Los principales sacerdotes y los fariseos habían dado orden de que si alguno se enteraba de dónde estaba, informara de ello, para prenderlo.",
+					"number": 57,
+					"id": "454e750a-2cbf-4f7f-8b6d-c0a9542caf34"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Seis días antes de la Pascua fue Jesús a Betania, donde estaba Lázaro, el que había estado muerto y a quien había resucitado de los muertos.",
+					"number": 1,
+					"study": "Jesús es ungido en Betania",
+					"id": "03c18968-4cac-45ef-9c0e-fc45428d20ac"
+				},
+				{
+					"verse": "Y le hicieron allí una cena; Marta servía y Lázaro era uno de los que estaban sentados a la mesa con él.",
+					"number": 2,
+					"id": "65d18703-52e8-42f4-8781-5399f6642489"
+				},
+				{
+					"verse": "Entonces María tomó una libra de perfume de nardo puro, de mucho precio, y ungió los pies de Jesús y los secó con sus cabellos; y la casa se llenó del olor del perfume.",
+					"number": 3,
+					"id": "14994abe-a418-4748-a13d-91cd69d03d84"
+				},
+				{
+					"verse": "Dijo uno de sus discípulos, Judas Iscariote hijo de Simón, el que lo había de entregar:",
+					"number": 4,
+					"id": "a7ef4c77-2d72-454f-97a7-67f5f1be9eef"
+				},
+				{
+					"verse": "--¿Por qué no se vendió este perfume por trescientos denarios y se les dio a los pobres?",
+					"number": 5,
+					"id": "cd1df6fb-2f01-4168-9464-a76b694ae924"
+				},
+				{
+					"verse": "Pero dijo esto, no porque se preocupara por los pobres, sino porque era ladrón y, teniendo la bolsa, sustraía de lo que se echaba en ella.",
+					"number": 6,
+					"id": "0fc75add-e6c0-4336-b015-758df0e1838c"
+				},
+				{
+					"verse": "Entonces Jesús dijo: --Déjala, para el día de mi sepultura ha guardado esto.",
+					"number": 7,
+					"id": "5cd1d195-39c2-4fcc-a3af-3c4d7388249b"
+				},
+				{
+					"verse": "A los pobres siempre los tendréis con vosotros, pero a mí no siempre me tendréis.",
+					"number": 8,
+					"id": "854bb847-2a25-4b8f-bf84-f9c293167603"
+				},
+				{
+					"verse": "Gran multitud de los judíos supieron entonces que él estaba allí, y fueron, no solamente por causa de Jesús, sino también para ver a Lázaro, a quien había resucitado de los muertos.",
+					"number": 9,
+					"study": "El complot contra Lázaro",
+					"id": "4c13c79b-b52f-47b2-b4c0-4a86a131306f"
+				},
+				{
+					"verse": "Pero los principales sacerdotes acordaron dar muerte también a Lázaro,",
+					"number": 10,
+					"id": "7ea87e1b-bcf6-493a-b4c2-c257c12a5c66"
+				},
+				{
+					"verse": "porque a causa de él muchos de los judíos se apartaban y creían en Jesús.",
+					"number": 11,
+					"id": "79a645f7-3eb5-4ca9-8d91-fbdecfbf3f0b"
+				},
+				{
+					"verse": "El siguiente día, grandes multitudes que habían ido a la fiesta, al oir que Jesús llegaba a Jerusalén,",
+					"number": 12,
+					"study": "La entrada triunfal en Jerusalén",
+					"id": "103120c2-ef7b-494b-b502-e24de0c92832"
+				},
+				{
+					"verse": "tomaron ramas de palmera y salieron a recibirlo, y clamaban: --¡Hosana! ¡Bendito el que viene en el nombre del Señor, el Rey de Israel!",
+					"number": 13,
+					"id": "cab674a6-133b-4daa-97c0-2be5e41ea38a"
+				},
+				{
+					"verse": "Halló Jesús un asnillo y montó sobre él, como está escrito:",
+					"number": 14,
+					"id": "abf2b236-ca28-4055-8184-7fba3811986d"
+				},
+				{
+					"verse": "\"No temas, hija de Sión; tu Rey viene, montado sobre un pollino de asna\".",
+					"number": 15,
+					"id": "5162c76d-decf-47b4-8107-61d0ea902504"
+				},
+				{
+					"verse": "Estas cosas no las entendieron sus discípulos al principio, pero cuando Jesús fue glorificado, entonces se acordaron de que estas cosas estaban escritas acerca de él, y de que se las habían hecho.",
+					"number": 16,
+					"id": "00b34e0b-bad0-4a0c-9cfc-da51881e01a6"
+				},
+				{
+					"verse": "Y daba testimonio la gente que estaba con él cuando llamó a Lázaro del sepulcro y lo resucitó de los muertos.",
+					"number": 17,
+					"id": "2df38785-7dd3-4963-886e-b10f24c48aaa"
+				},
+				{
+					"verse": "Por lo cual también había salido la gente a recibirlo, porque había oído que él había hecho esta señal.",
+					"number": 18,
+					"id": "b21f5e1f-3a83-46a2-8f10-5f799912adf8"
+				},
+				{
+					"verse": "Pero los fariseos dijeron entre sí: --Ya veis que no conseguís nada. Mirad, el mundo se va tras él.",
+					"number": 19,
+					"id": "548346e3-6275-42e3-bca8-23d3721b046f"
+				},
+				{
+					"verse": "Había ciertos griegos entre los que habían subido a adorar en la fiesta.",
+					"number": 20,
+					"study": "Unos griegos buscan a Jesús",
+					"id": "aa0ee213-cf4d-4a9f-9b8d-c31ec7124348"
+				},
+				{
+					"verse": "Estos, pues, se acercaron a Felipe, que era de Betsaida de Galilea, y le rogaron, diciendo: --Señor, queremos ver a Jesús.",
+					"number": 21,
+					"id": "c19f403a-2229-4498-87e1-590f546650db"
+				},
+				{
+					"verse": "Felipe fue y se lo dijo a Andrés; entonces Andrés y Felipe se lo dijeron a Jesús.",
+					"number": 22,
+					"id": "15759e77-7027-4051-99c2-c360d417f105"
+				},
+				{
+					"verse": "Jesús les respondió diciendo: --Ha llegado la hora para que el Hijo del hombre sea glorificado.",
+					"number": 23,
+					"id": "e33e83c2-dcf5-41a7-961c-bb89ac36cdda"
+				},
+				{
+					"verse": "De cierto, de cierto os digo que si el grano de trigo que cae en la tierra no muere, queda solo, pero si muere, lleva mucho fruto.",
+					"number": 24,
+					"id": "d463913d-8b0f-415f-ba51-3ef3bdd16284"
+				},
+				{
+					"verse": "El que ama su vida, la perderá; y el que odia su vida en este mundo, para vida eterna la guardará.",
+					"number": 25,
+					"id": "73569490-b469-43ad-9c33-480b0f18ea2c"
+				},
+				{
+					"verse": "Si alguno me sirve, sígame; y donde yo esté, allí también estará mi servidor. Si alguno me sirve, mi Padre lo honrará.",
+					"number": 26,
+					"id": "2922f80e-e630-43c3-a857-04fecfed87d9"
+				},
+				{
+					"verse": "\"Ahora está turbada mi alma, ¿y qué diré? ¿Padre, sálvame de esta hora? Pero para esto he llegado a esta hora.",
+					"number": 27,
+					"study": "Jesús anuncia su muerte",
+					"id": "9b511d0f-3aaf-4135-a4f9-b2ee59d59c59"
+				},
+				{
+					"verse": "Padre, glorifica tu nombre. Entonces vino una voz del cielo: \"Lo he glorificado, y lo glorificaré otra vez\".",
+					"number": 28,
+					"id": "a2445e31-867c-4b13-bfb3-17f3abef81a8"
+				},
+				{
+					"verse": "Y la multitud que estaba allí y había oído la voz, decía que había sido un trueno. Otros decían: --Un ángel le ha hablado.",
+					"number": 29,
+					"id": "1a28869f-c115-48f3-9d0e-bbf0046996a3"
+				},
+				{
+					"verse": "Respondió Jesús y dijo: --No ha venido esta voz por causa mía, sino por causa de vosotros.",
+					"number": 30,
+					"id": "a0b51576-f97e-49fe-8eeb-e9b0f3a94498"
+				},
+				{
+					"verse": "Ahora es el juicio de este mundo; ahora el príncipe de este mundo será echado fuera.",
+					"number": 31,
+					"id": "3906c8e2-c0d5-426d-be38-f5341e45c325"
+				},
+				{
+					"verse": "Y yo, cuando sea levantado de la tierra, a todos atraeré a mí mismo.",
+					"number": 32,
+					"id": "9e83466f-1f8c-4f2d-bd0b-6ffad9445a36"
+				},
+				{
+					"verse": "Esto decía dando a entender de qué muerte iba a morir.",
+					"number": 33,
+					"id": "83421430-ad8a-4cfc-a80f-48ee474924ad"
+				},
+				{
+					"verse": "Le respondió la gente: --Nosotros hemos oído que, según la Ley, el Cristo permanece para siempre. ¿Cómo, pues, dices tú que es necesario que el Hijo del hombre sea levantado? ¿Quién es este Hijo del hombre?",
+					"number": 34,
+					"id": "9744d942-31f7-4e8b-91cf-b8b5e4240ae9"
+				},
+				{
+					"verse": "Entonces Jesús les dijo: --Aún por un poco de tiempo la luz está entre vosotros; andad entretanto que tenéis luz, para que no os sorprendan las tinieblas, porque el que anda en tinieblas no sabe a dónde va.",
+					"number": 35,
+					"id": "1b19467a-dd43-4f85-9fae-35904129d768"
+				},
+				{
+					"verse": "Entre tanto que tenéis la luz, creed en la luz, para que seáis hijos de luz. Habiendo dicho Jesús esto, se fue y se ocultó de ellos.",
+					"number": 36,
+					"id": "839e6b95-64d9-4f37-b643-057d93aed065"
+				},
+				{
+					"verse": "Pero a pesar de que había hecho tantas señales delante de ellos, no creían en él,",
+					"number": 37,
+					"study": "Incredulidad de los judíos",
+					"id": "39c1858f-51ae-4663-b6f4-029375ff5d95"
+				},
+				{
+					"verse": "para que se cumpliera la palabra del profeta Isaías, que dijo: \"Señor, ¿quién ha creídoa nuestro anuncio? ¿Y a quién se ha reveladoel brazo del Señor?\"",
+					"number": 38,
+					"id": "9025d61d-a2db-4597-b0f6-c931d9c0a911"
+				},
+				{
+					"verse": "Por esto no podían creer, porque también dijo Isaías:",
+					"number": 39,
+					"id": "6bf0e75f-ca7a-4e63-a1e4-8d16c337f121"
+				},
+				{
+					"verse": "\"Cegó los ojos de ellosy endureció su corazón, para que no vean con los ojos, ni entiendan con el corazón, ni se conviertan, y yo los sane\".",
+					"number": 40,
+					"id": "b4ef3d60-9c05-4509-8684-0682d6a8a930"
+				},
+				{
+					"verse": "Isaías dijo esto cuando vio su gloria, y habló acerca de él.",
+					"number": 41,
+					"id": "6e682b96-d7aa-40eb-96d1-0f4992d5f605"
+				},
+				{
+					"verse": "A pesar de eso, muchos, incluso de los gobernantes, creyeron en él, pero no lo confesaban por temor a los fariseos, para no ser expulsados de la sinagoga,",
+					"number": 42,
+					"id": "f14fbb63-0917-4b5f-ad44-589e0c6a634f"
+				},
+				{
+					"verse": "porque amaban más la gloria de los hombres que la gloria de Dios.",
+					"number": 43,
+					"id": "a13c6ef5-7b35-4f85-bf41-34e663c38473"
+				},
+				{
+					"verse": "Jesús clamó y dijo: \"El que cree en mí, no cree en mí, sino en el que me envió;",
+					"number": 44,
+					"study": "Las palabras de Jesús juzgarán a los hombres",
+					"id": "134ab6d8-fedd-430b-a780-0b7bc9ba3e6e"
+				},
+				{
+					"verse": "y el que me ve, ve al que me envió.",
+					"number": 45,
+					"id": "b3f1ee33-a55a-49f1-a15f-f2d0b004d34d"
+				},
+				{
+					"verse": "Yo, la luz, he venido al mundo, para que todo aquel que cree en mí no permanezca en tinieblas.",
+					"number": 46,
+					"id": "bc02393f-5c30-4bea-85d6-08ff82efbe51"
+				},
+				{
+					"verse": "Al que oye mis palabras y no las guarda, yo no lo juzgo, porque no he venido a juzgar al mundo, sino a salvar al mundo.",
+					"number": 47,
+					"id": "16060366-8f4c-4b61-ad89-e5a86a3d7c17"
+				},
+				{
+					"verse": "El que me rechaza y no recibe mis palabras, tiene quien lo juzgue: la palabra que he hablado, ella lo juzgará en el día final.",
+					"number": 48,
+					"id": "fd6aa138-4665-4782-8f5d-4d76f6cd97b6"
+				},
+				{
+					"verse": "Yo no he hablado por mi propia cuenta; el Padre, que me envió, él me dio mandamiento de lo que he de decir y de lo que he de hablar.",
+					"number": 49,
+					"id": "e83a0600-9369-42b8-954f-f9337682db7d"
+				},
+				{
+					"verse": "Y sé que su mandamiento es vida eterna. Así pues, lo que yo hablo, lo hablo como el Padre me lo ha dicho\".",
+					"number": 50,
+					"id": "ee073a3a-11cd-49c0-a304-daa3b5013da1"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Antes de la fiesta de la Pascua, sabiendo Jesús que su hora había llegado para que pasara de este mundo al Padre, como había amado a los suyos que estaban en el mundo, los amó hasta el fin.",
+					"number": 1,
+					"study": "Jesús lava los pies de sus discípulos",
+					"id": "0765a2f8-48d7-4e04-ac13-f8b35e0eedb0"
+				},
+				{
+					"verse": "Y cuando cenaban, como el diablo ya había puesto en el corazón de Judas Iscariote hijo de Simón que lo entregara,",
+					"number": 2,
+					"id": "9d28e952-a13f-4d73-9ab5-f4229aa617e0"
+				},
+				{
+					"verse": "sabiendo Jesús que el Padre le había dado todas las cosas en las manos, y que había salido de Dios y a Dios iba,",
+					"number": 3,
+					"id": "0a60aa5d-0965-4776-89dc-d7c26b14e35d"
+				},
+				{
+					"verse": "se levantó de la cena, se quitó su manto y, tomando una toalla, se la ciñó.",
+					"number": 4,
+					"id": "286fe7fc-a1f1-4259-b1ef-649eb86e1a1a"
+				},
+				{
+					"verse": "Luego puso agua en una vasija y comenzó a lavar los pies de los discípulos y a secarlos con la toalla con que estaba ceñido.",
+					"number": 5,
+					"id": "6fad5b64-8eee-47d6-ba7c-a34cdeb98f3c"
+				},
+				{
+					"verse": "Cuando llegó a Simón Pedro, este le dijo: --Señor, ¿tú me lavarás los pies?",
+					"number": 6,
+					"id": "8a795dbd-93da-4a78-9705-7f16b6b54dd4"
+				},
+				{
+					"verse": "Respondió Jesús y le dijo: --Lo que yo hago, tú no lo comprendes ahora, pero lo entenderás después.",
+					"number": 7,
+					"id": "0d75af09-8518-4c80-904f-4a5cf7da8311"
+				},
+				{
+					"verse": "Pedro le dijo: --No me lavarás los pies jamás. Jesús le respondió: --Si no te lavo, no tendrás parte conmigo.",
+					"number": 8,
+					"id": "80725e23-0996-438b-ac38-916537316825"
+				},
+				{
+					"verse": "Le dijo Simón Pedro: --Señor, no solo mis pies, sino también las manos y la cabeza.",
+					"number": 9,
+					"id": "66803289-b16e-4cb5-acf4-b57f4d6b5032"
+				},
+				{
+					"verse": "Jesús le dijo: --El que está lavado no necesita sino lavarse los pies, pues está todo limpio; y vosotros limpios estáis, aunque no todos.",
+					"number": 10,
+					"id": "2749e329-9f8e-4913-bc32-21ac3a81d9fa"
+				},
+				{
+					"verse": "Él sabía quién lo iba a entregar; por eso dijo: \"No estáis limpios todos\".",
+					"number": 11,
+					"id": "75e8daf1-7a60-4c66-ab53-18f6477affbb"
+				},
+				{
+					"verse": "Así que, después que les lavó los pies, tomó su manto, volvió a la mesa y les dijo: --¿Sabéis lo que os he hecho?",
+					"number": 12,
+					"id": "fa10bc78-4fcf-424f-8b9d-55bc1441d4ea"
+				},
+				{
+					"verse": "Vosotros me llamáis Maestro y Señor, y decís bien, porque lo soy.",
+					"number": 13,
+					"id": "6b3bdce0-c87a-4373-9a6e-448b76126287"
+				},
+				{
+					"verse": "Pues si yo, el Señor y el Maestro, he lavado vuestros pies, vosotros también debéis lavaros los pies los unos a los otros,",
+					"number": 14,
+					"id": "64138485-c995-4e9d-92ae-e6e7ed00d95c"
+				},
+				{
+					"verse": "porque ejemplo os he dado para que, como yo os he hecho, vosotros también hagáis.",
+					"number": 15,
+					"id": "48a61ccf-2f81-4940-b944-e1a3efc7d529"
+				},
+				{
+					"verse": "De cierto, de cierto os digo: El siervo no es mayor que su señor, ni el enviado es mayor que el que lo envió.",
+					"number": 16,
+					"id": "934782fb-32b0-48c4-b0ff-630a4343f96c"
+				},
+				{
+					"verse": "Si sabéis estas cosas, bienaventurados sois si las hacéis.",
+					"number": 17,
+					"id": "3fd6cfce-de63-417d-b24c-2d48b43a0d1f"
+				},
+				{
+					"verse": "\"No hablo de todos vosotros; yo sé a quienes he elegido. Pero debe cumplirse la Escritura: \"El que come pan conmigo alzó el pie contra mí\".",
+					"number": 18,
+					"id": "54eae061-37d6-44da-b541-f88fb5dc03ad"
+				},
+				{
+					"verse": "Desde ahora os lo digo antes que suceda, para que cuando suceda creáis que yo soy.",
+					"number": 19,
+					"id": "0efb1633-c8c8-481b-91c5-49f5617550f9"
+				},
+				{
+					"verse": "De cierto, de cierto os digo: El que reciba al que yo envíe, me recibe a mí; y el que me recibe a mí, recibe al que me envió.",
+					"number": 20,
+					"id": "d0f22868-2960-4a7d-b3e0-61785ea0fffe"
+				},
+				{
+					"verse": "Habiendo dicho Jesús esto, se conmovió en espíritu y declaró: --De cierto, de cierto os digo que uno de vosotros me va a entregar.",
+					"number": 21,
+					"study": "Jesús anuncia la traición de Judas",
+					"id": "28c49932-5605-4f9b-b999-7a5b1c760fef"
+				},
+				{
+					"verse": "Entonces los discípulos se miraron unos a otros, dudando de quién hablaba.",
+					"number": 22,
+					"id": "f873555d-b48f-4c13-bb27-491fca465920"
+				},
+				{
+					"verse": "Y uno de sus discípulos, al cual Jesús amaba, estaba recostado al lado de Jesús.",
+					"number": 23,
+					"id": "20eba401-ce6b-4afc-8ee3-149c61d0f10a"
+				},
+				{
+					"verse": "A este, pues, hizo señas Simón Pedro para que preguntara quién era aquel de quien hablaba.",
+					"number": 24,
+					"id": "dea7554f-0308-46f3-82f1-65f4f2d9741d"
+				},
+				{
+					"verse": "Él entonces, recostándose sobre el pecho de Jesús, le preguntó: --Señor, ¿quién es?",
+					"number": 25,
+					"id": "8c268176-8989-4dca-9b7a-0e3fbd09be89"
+				},
+				{
+					"verse": "Respondió Jesús: --A quien yo le dé el pan mojado, ese es. Y, mojando el pan, lo dio a Judas Iscariote hijo de Simón.",
+					"number": 26,
+					"id": "a4376e8e-cea5-4aed-a0b4-a27e5bac5983"
+				},
+				{
+					"verse": "Y después del bocado, Satanás entró en él. Entonces Jesús le dijo: --Lo que vas a hacer, hazlo pronto.",
+					"number": 27,
+					"id": "358997c9-6ada-4593-beb1-cc3ed282050d"
+				},
+				{
+					"verse": "Pero ninguno de los que estaban a la mesa entendió por qué le dijo esto.",
+					"number": 28,
+					"id": "34e89890-d228-4dfe-84d7-a42925252e49"
+				},
+				{
+					"verse": "Algunos pensaban, puesto que Judas tenía la bolsa, que Jesús le decía: \"Compra lo que necesitamos para la fiesta\"; o que diera algo a los pobres.",
+					"number": 29,
+					"id": "fa540489-b219-4a4a-84b8-ef1376e19393"
+				},
+				{
+					"verse": "Cuando él tomó el bocado, salió en seguida. Era ya de noche.",
+					"number": 30,
+					"id": "45906005-9fcb-4318-9404-cefe9e15533d"
+				},
+				{
+					"verse": "Entonces, cuando salió, dijo Jesús: --Ahora es glorificado el Hijo del hombre, y Dios es glorificado en él.",
+					"number": 31,
+					"study": "El nuevo mandamiento",
+					"id": "2b8ed8bf-8c7e-4bf0-a56f-d7f85c57d87d"
+				},
+				{
+					"verse": "Si Dios es glorificado en él, Dios también lo glorificará en sí mismo, y en seguida lo glorificará.",
+					"number": 32,
+					"id": "570c951a-b5d6-491e-9b3c-a68ad6a64d5d"
+				},
+				{
+					"verse": "Hijitos, aún estaré con vosotros un poco. Me buscaréis, pero, como dije a los judíos, así os digo ahora a vosotros: A donde yo voy, vosotros no podéis ir.",
+					"number": 33,
+					"id": "a3fde371-4859-44a2-9f84-fb5b09ab0342"
+				},
+				{
+					"verse": "Un mandamiento nuevo os doy: Que os améis unos a otros; como yo os he amado, que también os améis unos a otros.",
+					"number": 34,
+					"id": "d2a15d81-3863-41a0-abb0-d22c3e87f791"
+				},
+				{
+					"verse": "En esto conocerán todos que sois mis discípulos, si tenéis amor los unos por los otros.",
+					"number": 35,
+					"id": "12bd3e98-ff0a-40da-b071-7b23779fedd0"
+				},
+				{
+					"verse": "Le dijo Simón Pedro: --Señor, ¿a dónde vas? Jesús le respondió: --A donde voy, no me puedes seguir ahora, pero me seguirás después.",
+					"number": 36,
+					"study": "Jesús anuncia la negación de Pedro",
+					"id": "0d808d54-bf05-4954-b690-32b824f5c9df"
+				},
+				{
+					"verse": "Le dijo Pedro: --Señor, ¿por qué no te puedo seguir ahora? ¡Mi vida daré por ti!",
+					"number": 37,
+					"id": "e5a62f4a-76da-4710-bd53-ce7ad2fa566c"
+				},
+				{
+					"verse": "Jesús le respondió: --¿Tu vida darás por mí? De cierto, de cierto te digo: No cantará el gallo sin que me hayas negado tres veces.",
+					"number": 38,
+					"id": "3e6fec7b-d5fe-468b-b9b0-e03d32ba2216"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "\"No se turbe vuestro corazón; creéis en Dios, creed también en mí.",
+					"number": 1,
+					"study": "Jesús, el camino al Padre",
+					"id": "50462c7a-a599-48e0-b772-71e176a0811e"
+				},
+				{
+					"verse": "En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros.",
+					"number": 2,
+					"id": "d65262b6-1a5c-469b-8625-b7578875b146"
+				},
+				{
+					"verse": "Y si me voy y os preparo lugar, vendré otra vez y os tomaré a mí mismo, para que donde yo esté, vosotros también estéis.",
+					"number": 3,
+					"id": "ea568808-1aeb-42c8-aa76-74a22c42a543"
+				},
+				{
+					"verse": "Y sabéis a dónde voy, y sabéis el camino.",
+					"number": 4,
+					"id": "3d002abc-ca22-45f2-9839-ddf4256e0899"
+				},
+				{
+					"verse": "Le dijo Tomás: --Señor, no sabemos a dónde vas; ¿cómo, pues, podemos saber el camino?",
+					"number": 5,
+					"id": "7e4dc1bd-a398-4937-9ab4-dfe8ef8faa2e"
+				},
+				{
+					"verse": "Jesús le dijo: --Yo soy el camino, la verdad y la vida; nadie viene al Padre sino por mí.",
+					"number": 6,
+					"id": "54385e44-4d5c-4f1e-a651-386bb5616c72"
+				},
+				{
+					"verse": "Si me conocierais, también a mi Padre conoceríais; y desde ahora lo conocéis y lo habéis visto.",
+					"number": 7,
+					"id": "0244abfe-79ab-4193-94ec-1011d3234904"
+				},
+				{
+					"verse": "Felipe le dijo: --Señor, muéstranos el Padre y nos basta.",
+					"number": 8,
+					"id": "f8706360-2a4d-4db3-a5bb-807bf83baa4b"
+				},
+				{
+					"verse": "Jesús le dijo: --¿Tanto tiempo hace que estoy con vosotros y no me has conocido, Felipe? El que me ha visto a mí ha visto al Padre; ¿cómo, pues, dices tú: \"Muéstranos el Padre\"?",
+					"number": 9,
+					"id": "e253c7f7-1b15-4796-b86c-d2700e8d85d5"
+				},
+				{
+					"verse": "¿No crees que yo soy en el Padre y el Padre en mí? Las palabras que yo os hablo, no las hablo por mi propia cuenta, sino que el Padre, que vive en mí, él hace las obras.",
+					"number": 10,
+					"id": "8e465c43-8f77-4321-8ff3-58435c46ec8b"
+				},
+				{
+					"verse": "Creedme que yo soy en el Padre, y el Padre en mí; de otra manera, creedme por las mismas obras.",
+					"number": 11,
+					"id": "70fa0029-b933-4e18-a965-7891e153da7e"
+				},
+				{
+					"verse": "\"De cierto, de cierto os digo: El que en mí cree, las obras que yo hago, él también las hará; y aun mayores hará, porque yo voy al Padre.",
+					"number": 12,
+					"id": "984fe33c-3cd5-4793-b32d-8944dd1188d5"
+				},
+				{
+					"verse": "Todo lo que pidáis al Padre en mi nombre, lo haré, para que el Padre sea glorificado en el Hijo.",
+					"number": 13,
+					"id": "b5ffd554-4256-4a50-8331-9c98733e166d"
+				},
+				{
+					"verse": "Si algo pedís en mi nombre, yo lo haré.",
+					"number": 14,
+					"id": "90c11fd1-0bc0-4ec9-8778-00066dc12681"
+				},
+				{
+					"verse": "\"Si me amáis, guardad mis mandamientos.",
+					"number": 15,
+					"study": "La promesa del Espíritu Santo",
+					"id": "ba671d76-6aa4-4eca-954b-dc5e1fc31e32"
+				},
+				{
+					"verse": "Y yo rogaré al Padre y os dará otro Consolador, para que esté con vosotros para siempre:",
+					"number": 16,
+					"id": "281af295-bf65-4da5-9336-25133cc7de5f"
+				},
+				{
+					"verse": "el Espíritu de verdad, al cual el mundo no puede recibir, porque no lo ve ni lo conoce; pero vosotros lo conocéis, porque vive con vosotros y estará en vosotros.",
+					"number": 17,
+					"id": "c3973741-9f85-4bb1-828e-ef2096ae75d3"
+				},
+				{
+					"verse": "\"No os dejaré huérfanos; volveré a vosotros.",
+					"number": 18,
+					"id": "3a490d41-651a-459b-8959-25be84f86d8d"
+				},
+				{
+					"verse": "Todavía un poco, y el mundo no me verá más, pero vosotros me veréis; porque yo vivo, vosotros también viviréis.",
+					"number": 19,
+					"id": "f2a6a278-b5dc-4d37-8cbf-e5fd4ec90ba1"
+				},
+				{
+					"verse": "En aquel día vosotros conoceréis que yo estoy en mi Padre, y vosotros en mí y yo en vosotros.",
+					"number": 20,
+					"id": "f80023b4-2551-41d8-99fd-d3d90a9ce876"
+				},
+				{
+					"verse": "El que tiene mis mandamientos y los guarda, ese es el que me ama; y el que me ama será amado por mi Padre, y yo lo amaré y me manifestaré a él.",
+					"number": 21,
+					"id": "ff019c8d-2939-41ce-9d68-eb57253ee1d1"
+				},
+				{
+					"verse": "Le dijo Judas (no el Iscariote): --Señor, ¿cómo es que te manifestarás a nosotros y no al mundo?",
+					"number": 22,
+					"id": "474c2333-0a2d-4ea7-a694-4f216b18dfaf"
+				},
+				{
+					"verse": "Respondió Jesús y le dijo: --El que me ama, mi palabra guardará; y mi Padre lo amará, y vendremos a él y haremos morada con él.",
+					"number": 23,
+					"id": "9434eb19-4fbf-4407-bef4-26d15d0ddfe6"
+				},
+				{
+					"verse": "El que no me ama no guarda mis palabras; y la palabra que habéis oído no es mía, sino del Padre que me envió.",
+					"number": 24,
+					"id": "1aa246b4-c8d4-4e89-86d1-5e5019009078"
+				},
+				{
+					"verse": "\"Os he dicho estas cosas estando con vosotros.",
+					"number": 25,
+					"id": "7b67b8a7-0162-4820-a082-4100e966a5e3"
+				},
+				{
+					"verse": "Pero el Consolador, el Espíritu Santo, a quien el Padre enviará en mi nombre, él os enseñará todas las cosas y os recordará todo lo que yo os he dicho.",
+					"number": 26,
+					"id": "d8a383fb-8d09-43ad-b6e3-d9daea86cb5e"
+				},
+				{
+					"verse": "\"La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón ni tenga miedo.",
+					"number": 27,
+					"id": "be4226ff-fea0-4b19-8e8d-c6fa31a581fc"
+				},
+				{
+					"verse": "Habéis oído que yo os he dicho: \"Voy, y vuelvo a vosotros\". Si me amarais, os habríais regocijado, porque he dicho que voy al Padre, porque el Padre mayor es que yo.",
+					"number": 28,
+					"id": "29b552f2-adc2-4c6b-aa2a-428310fa10c2"
+				},
+				{
+					"verse": "Y ahora os lo he dicho antes que suceda, para que, cuando suceda, creáis.",
+					"number": 29,
+					"id": "8c2706e4-8608-4079-a6a2-a9b968c3ef87"
+				},
+				{
+					"verse": "No hablaré ya mucho con vosotros, porque viene el príncipe de este mundo y él nada tiene en mí.",
+					"number": 30,
+					"id": "5f721de1-0c6d-4280-8ebe-c26035d7acde"
+				},
+				{
+					"verse": "Pero para que el mundo conozca que amo al Padre, y como el Padre me mandó, así hago. \"¡Levantaos, vámonos de aquí!",
+					"number": 31,
+					"id": "ab658c91-8b5f-43dc-8fe5-5762cd55f00a"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "\"Yo soy la vid verdadera y mi Padre es el labrador.",
+					"number": 1,
+					"study": "Jesús, la vid verdadera",
+					"id": "65157508-741c-45f8-b533-5ec43c2a13fc"
+				},
+				{
+					"verse": "Todo pámpano que en mí no lleva fruto, lo quitará; y todo aquel que lleva fruto, lo limpiará, para que lleve más fruto.",
+					"number": 2,
+					"id": "37d4acfa-073a-450f-addb-70600de81304"
+				},
+				{
+					"verse": "Ya vosotros estáis limpios por la palabra que os he hablado.",
+					"number": 3,
+					"id": "cddf63f5-5eda-486e-941d-c2000c652aba"
+				},
+				{
+					"verse": "Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto por sí mismo, si no permanece en la vid, así tampoco vosotros, si no permanecéis en mí.",
+					"number": 4,
+					"id": "6e5eb6ed-60c4-4766-9407-dce9a04fa060"
+				},
+				{
+					"verse": "\"Yo soy la vid, vosotros los pámpanos; el que permanece en mí y yo en él, este lleva mucho fruto, porque separados de mí nada podéis hacer.",
+					"number": 5,
+					"id": "bf22bbba-4482-47bd-9a3f-cab6f576b1a2"
+				},
+				{
+					"verse": "El que en mí no permanece, será echado fuera como pámpano, y se secará; y los recogen, los echan en el fuego y arden.",
+					"number": 6,
+					"id": "7e528196-394a-45ac-8d5b-70169983067d"
+				},
+				{
+					"verse": "Si permanecéis en mí y mis palabras permanecen en vosotros, pedid todo lo que queráis y os será hecho.",
+					"number": 7,
+					"id": "cf19f4c6-22ff-4527-aa28-0fc526bf67bd"
+				},
+				{
+					"verse": "En esto es glorificado mi Padre: en que llevéis mucho fruto y seáis así mis discípulos.",
+					"number": 8,
+					"id": "8e6f82a4-afd8-4482-aa1a-8fe69d4e66e8"
+				},
+				{
+					"verse": "Como el Padre me ha amado, así también yo os he amado; permaneced en mi amor.",
+					"number": 9,
+					"id": "1e935dea-6dfb-423d-9466-0cd9108b732f"
+				},
+				{
+					"verse": "Si guardáis mis mandamientos, permaneceréis en mi amor; así como yo he guardado los mandamientos de mi Padre y permanezco en su amor.",
+					"number": 10,
+					"id": "50996b7f-f6c3-4c4b-a9c2-afe6c081dcfc"
+				},
+				{
+					"verse": "\"Estas cosas os he hablado para que mi gozo esté en vosotros, y vuestro gozo sea completo.",
+					"number": 11,
+					"id": "1376fe4d-f3bf-4909-8325-4bff048739d9"
+				},
+				{
+					"verse": "\"Este es mi mandamiento: Que os améis unos a otros, como yo os he amado.",
+					"number": 12,
+					"id": "71e92c2a-c865-4c5d-8a72-ca0154344f0a"
+				},
+				{
+					"verse": "Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos.",
+					"number": 13,
+					"id": "55332367-b5c7-4c03-b270-b62623c8bdf7"
+				},
+				{
+					"verse": "Vosotros sois mis amigos si hacéis lo que yo os mando.",
+					"number": 14,
+					"id": "ed6097ff-a2f1-4e87-b0f8-006d15229da5"
+				},
+				{
+					"verse": "Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor; pero os he llamado amigos, porque todas las cosas que oí de mi Padre os las he dado a conocer.",
+					"number": 15,
+					"id": "78981918-dfa0-4625-a0c3-e4f258d40b81"
+				},
+				{
+					"verse": "No me elegisteis vosotros a mí, sino que yo os elegí a vosotros y os he puesto para que vayáis y llevéis fruto, y vuestro fruto permanezca; para que todo lo que pidáis al Padre en mi nombre, él os lo dé.",
+					"number": 16,
+					"id": "5614fbe7-dd5d-4b15-a428-b33e4d525bc4"
+				},
+				{
+					"verse": "Esto os mando: Que os améis unos a otros.",
+					"number": 17,
+					"id": "f76f9226-cfe2-49dd-ab6e-09fac8254688"
+				},
+				{
+					"verse": "\"Si el mundo os odia, sabed que a mí me ha odiado antes que a vosotros.",
+					"number": 18,
+					"study": "El mundo os aborrecerá",
+					"id": "ea4814e5-7e89-4a3a-acde-b876ed6990b2"
+				},
+				{
+					"verse": "Si fuerais del mundo, el mundo amaría lo suyo; pero porque no sois del mundo, antes yo os elegí del mundo, por eso el mundo os odia.",
+					"number": 19,
+					"id": "2b1562ff-92e5-4b7b-8d3f-bac0862a2659"
+				},
+				{
+					"verse": "Acordaos de la palabra que yo os he dicho: \"El siervo no es mayor que su señor\". Si a mí me han perseguido, también a vosotros os perseguirán; si han guardado mi palabra, también guardarán la vuestra.",
+					"number": 20,
+					"id": "b5808f76-bec0-4908-8191-960f6f4e8844"
+				},
+				{
+					"verse": "Pero todo esto os harán por causa de mi nombre, porque no conocen al que me ha enviado.",
+					"number": 21,
+					"id": "3e20fb9a-0f33-4012-9b36-d33dca325d29"
+				},
+				{
+					"verse": "\"Si yo no hubiera venido, ni les hubiera hablado, no tendrían pecado; pero ahora no tienen excusa por su pecado.",
+					"number": 22,
+					"id": "e7f79359-289c-40ed-acac-09e3efc0b422"
+				},
+				{
+					"verse": "El que me odia a mí, también a mi Padre odia.",
+					"number": 23,
+					"id": "3033cff9-92ae-4dbc-be72-d1076605fcaa"
+				},
+				{
+					"verse": "Si yo no hubiera hecho entre ellos obras que ningún otro ha hecho, no tendrían pecado; pero ahora han visto, y me han odiado a mí y a mi Padre.",
+					"number": 24,
+					"id": "ff359496-74bc-45d4-92e6-a75a4b2a3d5e"
+				},
+				{
+					"verse": "Pero esto es para que se cumpla la palabra que está escrita en su Ley: \"Sin causa me odian\".",
+					"number": 25,
+					"id": "4207f322-6bb6-4fa0-a1ab-0d0ce793e6c8"
+				},
+				{
+					"verse": "\"Pero cuando venga el Consolador, a quien yo os enviaré del Padre, el Espíritu de verdad, el cual procede del Padre, él dará testimonio acerca de mí.",
+					"number": 26,
+					"id": "9dec9f22-89af-4eb6-8158-ba56bef10ec7"
+				},
+				{
+					"verse": "Y vosotros daréis testimonio también, porque habéis estado conmigo desde el principio.",
+					"number": 27,
+					"id": "7d34307f-d6bf-4aec-8c2c-a9ce4d4af3a0"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "\"Estas cosas os he hablado para que no tengáis tropiezo.",
+					"number": 1,
+					"id": "d12b4a09-a868-4879-98cd-404e6c3ca6e5"
+				},
+				{
+					"verse": "Os expulsarán de las sinagogas, y aun viene la hora cuando cualquiera que os mate pensará que rinde servicio a Dios.",
+					"number": 2,
+					"id": "54f16a19-4c5f-4fcb-ae17-df3b8e0ae423"
+				},
+				{
+					"verse": "Y harán esto porque no conocen al Padre ni a mí.",
+					"number": 3,
+					"id": "2039ab09-03cf-42ef-beff-aed23f86c55b"
+				},
+				{
+					"verse": "Pero os he dicho estas cosas para que, cuando llegue la hora, os acordéis de que ya os lo había dicho. \"Esto no os lo dije al principio, porque yo estaba con vosotros.",
+					"number": 4,
+					"study": "La obra del Espíritu Santo",
+					"id": "f660bafe-0990-4954-b11d-a27796abfedc"
+				},
+				{
+					"verse": "Pero ahora voy al que me envió, y ninguno de vosotros me pregunta: \"¿A dónde vas?\"",
+					"number": 5,
+					"id": "0e5e9651-f592-4d81-8e81-18f63df07ec2"
+				},
+				{
+					"verse": "Antes, porque os he dicho estas cosas, tristeza ha llenado vuestro corazón.",
+					"number": 6,
+					"id": "f6457f6b-9d51-4e0e-a818-c174d7e62698"
+				},
+				{
+					"verse": "Pero yo os digo la verdad: Os conviene que yo me vaya, porque si no me voy, el Consolador no vendrá a vosotros; pero si me voy, os lo enviaré.",
+					"number": 7,
+					"id": "ec0ea32d-1843-4f21-bd76-f00b27c4f280"
+				},
+				{
+					"verse": "Y cuando él venga, convencerá al mundo de pecado, de justicia y de juicio.",
+					"number": 8,
+					"id": "f9217512-8d37-493f-b173-71f44fce1083"
+				},
+				{
+					"verse": "De pecado, por cuanto no creen en mí;",
+					"number": 9,
+					"id": "8a683133-7b6a-484e-99b9-e6fd4a89a562"
+				},
+				{
+					"verse": "de justicia, por cuanto voy al Padre y no me veréis más;",
+					"number": 10,
+					"id": "31af7748-7736-4b3c-8cc0-cb69de986869"
+				},
+				{
+					"verse": "y de juicio, por cuanto el príncipe de este mundo ha sido ya juzgado.",
+					"number": 11,
+					"id": "6471e98c-2609-4b10-bdff-5bb8d299c42a"
+				},
+				{
+					"verse": "\"Aún tengo muchas cosas que deciros, pero ahora no las podéis sobrellevar.",
+					"number": 12,
+					"id": "694c9e19-fd75-408d-a4bc-781f58c2842f"
+				},
+				{
+					"verse": "Pero cuando venga el Espíritu de verdad, él os guiará a toda la verdad, porque no hablará por su propia cuenta, sino que hablará todo lo que oiga y os hará saber las cosas que habrán de venir.",
+					"number": 13,
+					"id": "c3739991-71ea-4a48-9378-582ab83318a7"
+				},
+				{
+					"verse": "Él me glorificará, porque tomará de lo mío y os lo hará saber.",
+					"number": 14,
+					"id": "a876496b-e14a-4702-86f4-b252db6d4963"
+				},
+				{
+					"verse": "Todo lo que tiene el Padre es mío; por eso dije que tomará de lo mío y os lo hará saber.",
+					"number": 15,
+					"id": "e1e999ad-6d91-4bfb-bf27-f64e9fa0bfd0"
+				},
+				{
+					"verse": "\"Todavía un poco y no me veréis, y de nuevo un poco y me veréis, porque yo voy al Padre.",
+					"number": 16,
+					"study": "La tristeza se convertirá en gozo",
+					"id": "6f10d83c-633b-48d4-9437-b7cc0475146b"
+				},
+				{
+					"verse": "Entonces algunos de sus discípulos se decían entre sí: --¿Qué es esto que nos dice: \"Todavía un poco y no me veréis, y de nuevo un poco y me veréis\"; y \"porque yo voy al Padre\"?",
+					"number": 17,
+					"id": "3500ad34-8aa6-40bd-bdd4-4a008cf3ff87"
+				},
+				{
+					"verse": "Decían, pues: --¿Qué quiere decir con: \"Todavía un poco\"? No entendemos lo que dice.",
+					"number": 18,
+					"id": "8dcde00e-95ea-4e93-ade9-73d3bd9ffddd"
+				},
+				{
+					"verse": "Jesús comprendió que querían preguntarle, y les dijo: --¿Preguntáis entre vosotros acerca de esto que dije: \"Todavía un poco y no me veréis, y de nuevo un poco y me veréis\"?",
+					"number": 19,
+					"id": "8685b54c-6a37-40a6-8ae8-16147794dbd8"
+				},
+				{
+					"verse": "De cierto, de cierto os digo que vosotros lloraréis y lamentaréis, y en cambio el mundo se alegrará; pero aunque vosotros estéis tristes, vuestra tristeza se convertirá en gozo.",
+					"number": 20,
+					"id": "cc22c4c8-5ccd-4a6c-9e69-649f9ec8b4c1"
+				},
+				{
+					"verse": "La mujer cuando da a luz tiene dolor, porque ha llegado su hora; pero después que ha dado a luz a un niño, ya no se acuerda de la angustia, por el gozo de que haya nacido un hombre en el mundo.",
+					"number": 21,
+					"id": "24aee93f-15e9-4fa0-91b4-ef37f878be12"
+				},
+				{
+					"verse": "También vosotros ahora tenéis tristeza, pero os volveré a ver y se gozará vuestro corazón, y nadie os quitará vuestro gozo.",
+					"number": 22,
+					"id": "19b75c60-1169-4116-85ac-547171938651"
+				},
+				{
+					"verse": "En aquel día no me preguntaréis nada. De cierto, de cierto os digo que todo cuanto pidáis al Padre en mi nombre, os lo dará.",
+					"number": 23,
+					"id": "51189b58-76cc-40d6-8fa7-d5855725c92c"
+				},
+				{
+					"verse": "Hasta ahora nada habéis pedido en mi nombre; pedid, y recibiréis, para que vuestro gozo sea completo.",
+					"number": 24,
+					"id": "0010d0ea-54c2-4ce3-95ed-141f12263db6"
+				},
+				{
+					"verse": "\"Estas cosas os he hablado en alegorías; la hora viene cuando ya no os hablaré en alegorías, sino que claramente os anunciaré acerca del Padre.",
+					"number": 25,
+					"study": "Yo he vencido al mundo",
+					"id": "e982f07b-b39e-4e3c-966d-1c579d778887"
+				},
+				{
+					"verse": "En aquel día pediréis en mi nombre, y no os digo que yo rogaré al Padre por vosotros,",
+					"number": 26,
+					"id": "044bb1bf-fcda-4960-a1a1-b79cfab9b124"
+				},
+				{
+					"verse": "pues el Padre mismo os ama, porque vosotros me habéis amado y habéis creído que yo salí de Dios.",
+					"number": 27,
+					"id": "36aa2d6c-9b53-4e76-b877-b4143251419a"
+				},
+				{
+					"verse": "Salí del Padre y he venido al mundo; otra vez dejo el mundo y regreso al Padre.",
+					"number": 28,
+					"id": "03aa7af6-9b3a-4729-a1f7-265336769311"
+				},
+				{
+					"verse": "Le dijeron sus discípulos: --Ahora hablas claramente y ninguna alegoría dices.",
+					"number": 29,
+					"id": "8328278e-c427-4d09-b9d0-982ee190b692"
+				},
+				{
+					"verse": "Ahora entendemos que sabes todas las cosas y no necesitas que nadie te pregunte; por esto creemos que has salido de Dios.",
+					"number": 30,
+					"id": "93f386c0-55b9-4958-97e0-205d4d765ccc"
+				},
+				{
+					"verse": "Jesús les respondió: --¿Ahora creéis?",
+					"number": 31,
+					"id": "979f8524-73ce-4f8b-97c3-55de4d9c88a7"
+				},
+				{
+					"verse": "La hora viene, y ha venido ya, en que seréis esparcidos cada uno por su lado y me dejaréis solo; pero no estoy solo, porque el Padre está conmigo.",
+					"number": 32,
+					"id": "95e90bca-05d2-4283-9316-3001a80813ca"
+				},
+				{
+					"verse": "Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción, pero confiad, yo he vencido al mundo.",
+					"number": 33,
+					"id": "f005236f-743c-46c1-a632-a03a0dc96e9d"
+				}
+			]
+		},
+		{
+			"chapter": "17",
+			"vers": [
+				{
+					"verse": "Estas cosas habló Jesús, y levantando los ojos al cielo, dijo: --Padre, la hora ha llegado: glorifica a tu Hijo, para que también tu Hijo te glorifique a ti,",
+					"number": 1,
+					"study": "Jesús ora por sus discípulos",
+					"id": "4a72448e-ab49-4e2e-b7c6-7decafa338af"
+				},
+				{
+					"verse": "pues le has dado potestad sobre toda carne para que dé vida eterna a todos los que le diste.",
+					"number": 2,
+					"id": "e99f383f-2419-4fc4-be0b-2e69cf6842c5"
+				},
+				{
+					"verse": "Y esta es la vida eterna: que te conozcan a ti, el único Dios verdadero, y a Jesucristo, a quien has enviado.",
+					"number": 3,
+					"id": "7f5deac4-d5d2-448d-9a81-7988e9a7f0f9"
+				},
+				{
+					"verse": "\"Yo te he glorificado en la tierra; he acabado la obra que me diste que hiciera.",
+					"number": 4,
+					"id": "1b46bf79-d3b2-4d3b-9a8f-64ecc4d3f52a"
+				},
+				{
+					"verse": "Ahora pues, Padre, glorifícame tú al lado tuyo, con aquella gloria que tuve contigo antes que el mundo existiera.",
+					"number": 5,
+					"id": "b7e2ddb5-fbef-4d77-85ad-bc27f93b7c15"
+				},
+				{
+					"verse": "\"He manifestado tu nombre a los hombres que del mundo me diste; tuyos eran, y me los diste, y han guardado tu palabra.",
+					"number": 6,
+					"id": "c42210b3-454e-4c0a-ac19-bf6484bf9b64"
+				},
+				{
+					"verse": "Ahora han conocido que todas las cosas que me has dado proceden de ti,",
+					"number": 7,
+					"id": "801d0603-2563-42ca-9e6d-9879990a3640"
+				},
+				{
+					"verse": "porque las palabras que me diste les he dado; y ellos las recibieron y han conocido verdaderamente que salí de ti, y han creído que tú me enviaste.",
+					"number": 8,
+					"id": "4598f54a-fdc1-41d3-a189-7a044e9f110b"
+				},
+				{
+					"verse": "\"Yo ruego por ellos; no ruego por el mundo, sino por los que me diste, porque tuyos son,",
+					"number": 9,
+					"id": "41cff8a8-819e-4043-b953-54291f0f185c"
+				},
+				{
+					"verse": "y todo lo mío es tuyo y lo tuyo mío; y he sido glorificado en ellos.",
+					"number": 10,
+					"id": "7d56c692-64b1-4df2-a941-2d224dfd98fe"
+				},
+				{
+					"verse": "\"Ya no estoy en el mundo; pero estos están en el mundo, y yo voy a ti. Padre santo, a los que me has dado, guárdalos en tu nombre, para que sean uno, así como nosotros.",
+					"number": 11,
+					"id": "df64a5a1-cbed-4da4-8a11-39acbc02b052"
+				},
+				{
+					"verse": "Cuando estaba con ellos en el mundo, yo los guardaba en tu nombre; a los que me diste, yo los guardé y ninguno de ellos se perdió, sino el hijo de perdición, para que la Escritura se cumpliera.",
+					"number": 12,
+					"id": "5ca0a183-49aa-45b0-be17-9474c6f97433"
+				},
+				{
+					"verse": "\"Pero ahora vuelvo a ti, y hablo esto en el mundo para que tengan mi gozo completo en sí mismos.",
+					"number": 13,
+					"id": "b206fc21-fc30-4fa1-9807-b2ecf6bad6da"
+				},
+				{
+					"verse": "Yo les he dado tu palabra, y el mundo los odió porque no son del mundo, como tampoco yo soy del mundo.",
+					"number": 14,
+					"id": "9b96636b-3806-4c29-906c-693b72c790c1"
+				},
+				{
+					"verse": "No ruego que los quites del mundo, sino que los guardes del mal.",
+					"number": 15,
+					"id": "a04ddd12-5c97-4c09-b59c-648b981c1c94"
+				},
+				{
+					"verse": "No son del mundo, como tampoco yo soy del mundo.",
+					"number": 16,
+					"id": "ca3c096c-6cf3-44e0-995d-441054a5811e"
+				},
+				{
+					"verse": "Santifícalos en tu verdad: tu palabra es verdad.",
+					"number": 17,
+					"id": "f7c65f6b-442f-4fcb-9240-a36b16e65f12"
+				},
+				{
+					"verse": "Como tú me enviaste al mundo, así yo los he enviado al mundo.",
+					"number": 18,
+					"id": "b4c5f471-d1cb-41c5-a6c4-386db7fa69c3"
+				},
+				{
+					"verse": "Por ellos yo me santifico a mí mismo, para que también ellos sean santificados en la verdad.",
+					"number": 19,
+					"id": "5ff9c467-a539-4bf0-aa33-8064b9f3fddb"
+				},
+				{
+					"verse": "\"Pero no ruego solamente por estos, sino también por los que han de creer en mí por la palabra de ellos,",
+					"number": 20,
+					"id": "5513bef0-51fb-496b-8737-f9fe177fef0d"
+				},
+				{
+					"verse": "para que todos sean uno; como tú, Padre, en mí y yo en ti, que también ellos sean uno en nosotros, para que el mundo crea que tú me enviaste.",
+					"number": 21,
+					"id": "087865d6-6793-4b85-ad8e-9d9807786727"
+				},
+				{
+					"verse": "Yo les he dado la gloria que me diste, para que sean uno, así como nosotros somos uno.",
+					"number": 22,
+					"id": "77792f75-a931-48ed-9122-bf66e05f4c57"
+				},
+				{
+					"verse": "Yo en ellos y tú en mí, para que sean perfectos en unidad, para que el mundo conozca que tú me enviaste, y que los has amado a ellos como también a mí me has amado.",
+					"number": 23,
+					"id": "c0898083-7270-4aaa-8f01-0bab6aa0a4c1"
+				},
+				{
+					"verse": "\"Padre, aquellos que me has dado, quiero que donde yo esté, también ellos estén conmigo, para que vean mi gloria que me has dado, pues me has amado desde antes de la fundación del mundo.",
+					"number": 24,
+					"id": "a10907e6-afab-4ee7-bb8b-953e99d35332"
+				},
+				{
+					"verse": "Padre justo, el mundo no te ha conocido, pero yo te he conocido, y estos han conocido que tú me enviaste.",
+					"number": 25,
+					"id": "0082a3f6-da4b-48ec-b3b0-6b4d30107b0d"
+				},
+				{
+					"verse": "Les he dado a conocer tu nombre y lo daré a conocer aún, para que el amor con que me has amado esté en ellos y yo en ellos.",
+					"number": 26,
+					"id": "36630311-3af1-4162-8162-d5680c286d2b"
+				}
+			]
+		},
+		{
+			"chapter": "18",
+			"vers": [
+				{
+					"verse": "Habiendo dicho Jesús estas cosas, salió con sus discípulos al otro lado del torrente Cedrón, donde había un huerto en el cual entró con sus discípulos.",
+					"number": 1,
+					"study": "Arresto de Jesús",
+					"id": "72b9798c-01e0-4cdc-b2c2-ef2120b7ceae"
+				},
+				{
+					"verse": "Y también Judas, el que lo entregaba, conocía aquel lugar, porque muchas veces Jesús se había reunido allí con sus discípulos.",
+					"number": 2,
+					"id": "dd5e9959-2221-4bcb-b0c0-0fab704ff029"
+				},
+				{
+					"verse": "Judas, pues, tomando una compañía de soldados y guardias de los principales sacerdotes y de los fariseos, fue allí con linternas, antorchas y armas.",
+					"number": 3,
+					"id": "d90e676d-ca82-4967-b5e3-e638e99fe833"
+				},
+				{
+					"verse": "Pero Jesús, sabiendo todas las cosas que le habían de sobrevenir, se adelantó y les preguntó: --¿A quién buscáis?",
+					"number": 4,
+					"id": "bd3b986a-0a8b-4875-99e6-6aaa67765853"
+				},
+				{
+					"verse": "Le respondieron: --A Jesús nazareno. Jesús les dijo: --Yo soy. Estaba también con ellos Judas, el que lo entregaba.",
+					"number": 5,
+					"id": "61e2db82-179c-4e41-828b-14295083e537"
+				},
+				{
+					"verse": "Cuando les dijo: \"Yo soy\", retrocedieron y cayeron a tierra.",
+					"number": 6,
+					"id": "d583161c-5577-493f-a486-44da4ddadd6d"
+				},
+				{
+					"verse": "Volvió, pues, a preguntarles: --¿A quién buscáis? Y ellos dijeron: --A Jesús nazareno.",
+					"number": 7,
+					"id": "ed64cd44-b5d3-4cb5-a5dd-f723213eb924"
+				},
+				{
+					"verse": "Respondió Jesús: --Os he dicho que yo soy. Si me buscáis a mí, dejad ir a estos.",
+					"number": 8,
+					"id": "eb64677e-9156-4ac4-8479-3e4771fa0156"
+				},
+				{
+					"verse": "Esto dijo para que se cumpliera aquello que había dicho: \"De los que me diste, no perdí ninguno\".",
+					"number": 9,
+					"id": "790a053e-e75e-410a-b6c8-9287a5bffcc5"
+				},
+				{
+					"verse": "Entonces Simón Pedro, que tenía una espada, la desenvainó, hirió al siervo del Sumo sacerdote y le cortó la oreja derecha. El siervo se llamaba Malco.",
+					"number": 10,
+					"id": "0e647cb7-7dee-40ca-b35d-3d30efbbdf32"
+				},
+				{
+					"verse": "Jesús entonces dijo a Pedro: --Mete tu espada en la vaina. La copa que el Padre me ha dado, ¿no la he de beber?",
+					"number": 11,
+					"id": "bd9f4a79-b605-4886-af69-fb4bcaf36cde"
+				},
+				{
+					"verse": "Entonces la compañía de soldados, el comandante y los guardias de los judíos prendieron a Jesús, lo ataron",
+					"number": 12,
+					"study": "Jesús ante el sumo sacerdote",
+					"id": "9a032353-7220-4834-84ed-026fe3207a71"
+				},
+				{
+					"verse": "y lo llevaron primeramente ante Anás, porque era suegro de Caifás, que era Sumo sacerdote aquel año.",
+					"number": 13,
+					"id": "d688817e-9db7-46ac-9d23-0670ad408d43"
+				},
+				{
+					"verse": "Caifás fue quien explicó a los judíos que convenía que un solo hombre muriera por el pueblo.",
+					"number": 14,
+					"id": "a90348ec-b76a-4609-bb9b-90bf16d5d43b"
+				},
+				{
+					"verse": "Seguían a Jesús Simón Pedro y otro discípulo. Este discípulo era conocido del Sumo sacerdote, y entró con Jesús al patio del Sumo sacerdote;",
+					"number": 15,
+					"study": "Pedro en el patio de Anás",
+					"id": "8a434593-a71d-4348-bc9a-5e0a34f5c76a"
+				},
+				{
+					"verse": "pero Pedro estaba fuera, a la puerta. Salió, pues, el discípulo que era conocido del Sumo sacerdote, y habló a la portera e hizo entrar a Pedro.",
+					"number": 16,
+					"id": "485726eb-f84c-40a8-96bf-0c32ba621a69"
+				},
+				{
+					"verse": "Entonces la criada portera dijo a Pedro: --¿No eres tú también de los discípulos de este hombre? Dijo él: --¡No lo soy!",
+					"number": 17,
+					"id": "4ac34327-6b49-43e6-9e10-855ee4b4856e"
+				},
+				{
+					"verse": "Estaban en pie los siervos y los guardias que habían encendido un fuego, porque hacía frío y se calentaban. También con ellos estaba Pedro en pie, calentándose.",
+					"number": 18,
+					"id": "3b839012-a308-4299-bfa7-e940c77a0365"
+				},
+				{
+					"verse": "El Sumo sacerdote preguntó a Jesús acerca de sus discípulos y de su doctrina.",
+					"number": 19,
+					"study": "Anás interroga a Jesús",
+					"id": "0e0908ac-3754-45a8-8864-18869823e5a3"
+				},
+				{
+					"verse": "Jesús le respondió: --Yo públicamente he hablado al mundo. Siempre he enseñado en la sinagoga y en el templo, donde se reúnen todos los judíos, y nada he hablado en oculto.",
+					"number": 20,
+					"id": "bdb8a869-240c-4595-8d22-2a19d1b326d9"
+				},
+				{
+					"verse": "¿Por qué me preguntas a mí? Pregunta, a los que han oído, de qué les he hablado; ellos saben lo que yo he dicho.",
+					"number": 21,
+					"id": "08f6aa18-5fda-41e0-884e-83ced6cb754f"
+				},
+				{
+					"verse": "Cuando Jesús dijo esto, uno de los guardias que estaba allí le dio una bofetada, diciendo: --¿Así respondes al Sumo sacerdote?",
+					"number": 22,
+					"id": "c7e01ea5-51c4-4fac-8e32-e6122b657095"
+				},
+				{
+					"verse": "Jesús le respondió: --Si he hablado mal, testifica en qué está el mal; pero si bien, ¿por qué me golpeas?",
+					"number": 23,
+					"id": "08f13f0f-025c-4abc-b51c-1f3b912db3e3"
+				},
+				{
+					"verse": "Anás entonces lo envió atado a Caifás, el Sumo sacerdote.",
+					"number": 24,
+					"id": "8d5d6097-7449-4dfa-9ddf-2a4e516975ee"
+				},
+				{
+					"verse": "Estaba, pues, Pedro en pie, calentándose, y le preguntaron: --¿No eres tú de sus discípulos? Él negó y dijo: --¡No lo soy!",
+					"number": 25,
+					"study": "Pedro niega a Jesús",
+					"id": "8784b961-66a3-4555-8b98-202dacc3df57"
+				},
+				{
+					"verse": "Uno de los siervos del Sumo sacerdote, pariente de aquel a quien Pedro había cortado la oreja, le dijo: --¿No te vi yo en el huerto con él?",
+					"number": 26,
+					"id": "9d2d80e8-3c6b-4897-aa43-b15fe90f496e"
+				},
+				{
+					"verse": "Negó Pedro otra vez, y en seguida cantó el gallo.",
+					"number": 27,
+					"id": "46addca1-14a2-408b-8d1a-4b94f8e79fc5"
+				},
+				{
+					"verse": "Llevaron a Jesús de casa de Caifás al pretorio. Era de mañana, y ellos no entraron en el pretorio para no contaminarse y así poder comer la Pascua.",
+					"number": 28,
+					"study": "Jesús ante Pilato",
+					"id": "cf627b8c-1826-40e0-b06a-15e8758f4908"
+				},
+				{
+					"verse": "Entonces salió Pilato a donde ellos estaban, y les dijo: --¿Qué acusación traéis contra este hombre?",
+					"number": 29,
+					"id": "96fb736e-e974-424b-a63e-515c7752dc8a"
+				},
+				{
+					"verse": "Respondieron y le dijeron: --Si este no fuera malhechor, no te lo habríamos entregado.",
+					"number": 30,
+					"id": "8676fbee-c38c-4c49-8515-dc63c5e460a1"
+				},
+				{
+					"verse": "Entonces les dijo Pilato: --Tomadlo vosotros y juzgadlo según vuestra ley. Los judíos le dijeron: --A nosotros no nos está permitido dar muerte a nadie.",
+					"number": 31,
+					"id": "dbea93d4-f523-4258-9177-7bf8d9c24673"
+				},
+				{
+					"verse": "Dijeron esto para que se cumpliera la palabra que Jesús había dicho, dando a entender de qué muerte iba a morir.",
+					"number": 32,
+					"id": "6eff7824-ac7f-4c5e-b359-24af74784fc3"
+				},
+				{
+					"verse": "Entonces Pilato volvió a entrar en el pretorio, llamó a Jesús y le dijo: --¿Eres tú el Rey de los judíos?",
+					"number": 33,
+					"id": "cd1d02da-fdcb-42f9-840a-bd998f6de073"
+				},
+				{
+					"verse": "Jesús le respondió: --¿Dices tú esto por ti mismo o te lo han dicho otros de mí?",
+					"number": 34,
+					"id": "24d2a6ef-0418-4855-94d4-4c51f5ce0073"
+				},
+				{
+					"verse": "Pilato le respondió: --¿Soy yo acaso judío? Tu nación y los principales sacerdotes te han entregado a mí. ¿Qué has hecho?",
+					"number": 35,
+					"id": "5cbee04e-e4af-4757-9ce2-fe7e80d9562d"
+				},
+				{
+					"verse": "Respondió Jesús: --Mi Reino no es de este mundo; si mi Reino fuera de este mundo, mis servidores pelearían para que yo no fuera entregado a los judíos; pero mi Reino no es de aquí.",
+					"number": 36,
+					"id": "4d4121fe-d666-4bc1-87c0-37802dd13d36"
+				},
+				{
+					"verse": "Le dijo entonces Pilato: --Luego, ¿eres tú rey? Respondió Jesús: --Tú dices que yo soy rey. Yo para esto he nacido y para esto he venido al mundo: para dar testimonio de la verdad. Todo aquel que es de la verdad, oye mi voz.",
+					"number": 37,
+					"id": "ea0e2ac9-f518-4210-bbe4-3a7845adbe40"
+				},
+				{
+					"verse": "Le dijo Pilato: --¿Qué es la verdad? Y dicho esto, salió otra vez a donde estaban los judíos, y les dijo: --Yo no hallo en él ningún delito.",
+					"number": 38,
+					"id": "9bb36586-43ab-4adf-88d1-bc5ccd664981"
+				},
+				{
+					"verse": "Pero vosotros tenéis la costumbre de que os suelte a un preso en la Pascua. ¿Queréis, pues, que os suelte al Rey de los judíos?",
+					"number": 39,
+					"id": "e56f582a-01e3-4c23-a061-ee30793eba53"
+				},
+				{
+					"verse": "Entonces todos dieron voces de nuevo, diciendo: --¡A éste no! ¡A Barrabás! --y Barrabás era ladrón--.",
+					"number": 40,
+					"id": "260b5210-a26e-4634-a44f-c86366cdad03"
+				}
+			]
+		},
+		{
+			"chapter": "19",
+			"vers": [
+				{
+					"verse": "Así que tomó entonces Pilato a Jesús y lo azotó.",
+					"number": 1,
+					"id": "a02c492f-0204-4653-ac0b-067c2953155e"
+				},
+				{
+					"verse": "Los soldados entretejieron una corona de espinas y la pusieron sobre su cabeza, y lo vistieron con un manto de púrpura,",
+					"number": 2,
+					"id": "5b140137-9e91-450e-8dd3-d8ce7abdd50e"
+				},
+				{
+					"verse": "y le decían: --¡Salve, Rey de los judíos! --y le daban bofetadas.",
+					"number": 3,
+					"id": "d5d947ce-0245-4cff-8c82-9a3db88dc8ec"
+				},
+				{
+					"verse": "Entonces Pilato salió otra vez, y les dijo: --Mirad, os lo traigo fuera para que entendáis que ningún delito hallo en él.",
+					"number": 4,
+					"id": "6df59f9f-736f-44fd-959e-c7c87876024b"
+				},
+				{
+					"verse": "Y salió Jesús llevando la corona de espinas y el manto de púrpura. Pilato les dijo: --¡Este es el hombre!",
+					"number": 5,
+					"id": "fe33fe37-6ef2-482b-87d8-448662eae7a7"
+				},
+				{
+					"verse": "Cuando lo vieron los principales sacerdotes y los guardias, dieron voces diciendo: --¡Crucifícalo! ¡Crucifícalo! Pilato les dijo: --Tomadlo vosotros y crucificadlo, porque yo no hallo delito en él.",
+					"number": 6,
+					"id": "a93bcf6d-6866-4128-846c-d05bc86a49ef"
+				},
+				{
+					"verse": "Los judíos le respondieron: --Nosotros tenemos una ley y, según nuestra ley, debe morir, porque se hizo a sí mismo Hijo de Dios.",
+					"number": 7,
+					"id": "9cf8ad6f-140d-4398-91a3-67c97f04193e"
+				},
+				{
+					"verse": "Cuando Pilato oyó decir esto, tuvo más miedo.",
+					"number": 8,
+					"id": "5414a2c9-4d5d-4664-944b-d087129dfd7d"
+				},
+				{
+					"verse": "Entró otra vez en el pretorio, y dijo a Jesús: --¿De dónde eres tú? Pero Jesús no le respondió.",
+					"number": 9,
+					"id": "d2f4b186-485a-4a5b-a09b-0496a5a0e703"
+				},
+				{
+					"verse": "Entonces le dijo Pilato: --¿A mí no me hablas? ¿No sabes que tengo autoridad para crucificarte y autoridad para soltarte?",
+					"number": 10,
+					"id": "fa2ea32c-2914-4802-86c8-ea1b2dad2c5d"
+				},
+				{
+					"verse": "Respondió Jesús: --Ninguna autoridad tendrías contra mí si no te fuera dada de arriba; por tanto, el que a ti me ha entregado, mayor pecado tiene.",
+					"number": 11,
+					"id": "b05ed22a-88d1-4bd3-96cb-4f65c77b1a6a"
+				},
+				{
+					"verse": "Desde entonces procuraba Pilato soltarlo, pero los judíos daban voces diciendo: --Si a este sueltas, no eres amigo de César; todo el que se hace rey, a César se opone.",
+					"number": 12,
+					"id": "f6fbd622-46be-4d6b-ae79-9d32e72e110d"
+				},
+				{
+					"verse": "Entonces Pilato, oyendo esto, llevó fuera a Jesús, y se sentó en el tribunal, en el lugar llamado El Enlosado, en hebreo, Gábata.",
+					"number": 13,
+					"id": "4051df26-516b-45a2-b46d-32001c7e13fb"
+				},
+				{
+					"verse": "Era la preparación de la Pascua y como la hora sexta. Entonces dijo a los judíos: --¡Aquí tenéis a vuestro Rey!",
+					"number": 14,
+					"id": "117ac588-fb9b-4485-b9ba-89fb87489ebc"
+				},
+				{
+					"verse": "Pero ellos gritaron: --¡Fuera! ¡Fuera! ¡Crucifícalo! Pilato les dijo: --¿A vuestro Rey he de crucificar? Respondieron los principales sacerdotes: --¡No tenemos más rey que César!",
+					"number": 15,
+					"id": "186524ea-2bdf-4a0a-929e-161c50324bb0"
+				},
+				{
+					"verse": "Así que entonces lo entregó a ellos para que fuera crucificado. Tomaron, pues, a Jesús y se lo llevaron.",
+					"number": 16,
+					"id": "7a1083ea-e1c9-419d-9868-f88b13e6f45c"
+				},
+				{
+					"verse": "Él, cargando su cruz, salió al lugar llamado de la Calavera, en hebreo, Gólgota.",
+					"number": 17,
+					"study": "Crucifixión y muerte de Jesús",
+					"id": "6c48d4e9-860e-44e2-8a78-0c267589356e"
+				},
+				{
+					"verse": "Allí lo crucificaron con otros dos, uno a cada lado, y Jesús en medio.",
+					"number": 18,
+					"id": "4cd4a347-9612-4a7b-a0a4-e5331db098fa"
+				},
+				{
+					"verse": "Escribió también Pilato un título, que puso sobre la cruz, el cual decía: \"Jesús Nazareno, Rey de los judíos\".",
+					"number": 19,
+					"id": "db1506c3-22fc-4be2-92f0-df7d31e54b74"
+				},
+				{
+					"verse": "Muchos de los judíos leyeron este título, porque el lugar donde Jesús fue crucificado estaba cerca de la ciudad, y el título estaba escrito en hebreo, en griego y en latín.",
+					"number": 20,
+					"id": "978174ec-b621-408f-9c0a-389329f90a6b"
+				},
+				{
+					"verse": "Dijeron a Pilato los principales sacerdotes de los judíos: --No escribas: \"Rey de los judíos\", sino: \"Este dijo: Soy rey de los judíos\".",
+					"number": 21,
+					"id": "3160a327-146a-4b14-bf0c-870378ab6042"
+				},
+				{
+					"verse": "Respondió Pilato: --Lo que he escrito, he escrito.",
+					"number": 22,
+					"id": "1f8ec907-8a56-48ca-9ed3-93cf53e151cb"
+				},
+				{
+					"verse": "Cuando los soldados crucificaron a Jesús, tomaron sus vestidos e hicieron cuatro partes, una para cada soldado. Tomaron también su túnica, la cual era sin costura, de un solo tejido de arriba abajo.",
+					"number": 23,
+					"id": "94700eec-4de9-42bf-b03b-756f7611b430"
+				},
+				{
+					"verse": "Entonces dijeron entre sí: --No la partamos, sino echemos suertes sobre ella, a ver de quién será. Esto sucedió para que se cumpliera la Escritura, que dice: \"Repartieron entre sí mis vestidos, y sobre mi ropa echaron suertes\". Y así lo hicieron los soldados.",
+					"number": 24,
+					"id": "1073dcce-4ec4-4362-877b-10ec05af2b9a"
+				},
+				{
+					"verse": "Estaban junto a la cruz de Jesús su madre y la hermana de su madre, María mujer de Cleofas, y María Magdalena.",
+					"number": 25,
+					"id": "95a03f9f-3e98-41f3-b375-738c3dcba506"
+				},
+				{
+					"verse": "Cuando vio Jesús a su madre y al discípulo a quien él amaba, que estaba presente, dijo a su madre: --Mujer, he ahí tu hijo.",
+					"number": 26,
+					"id": "c657b4b8-a818-4d01-b1c5-a9aabd5124f9"
+				},
+				{
+					"verse": "Después dijo al discípulo: --He ahí tu madre. Y desde aquella hora el discípulo la recibió en su casa.",
+					"number": 27,
+					"id": "ad10ea76-b81e-4373-800c-e5a7a89f0cf6"
+				},
+				{
+					"verse": "Después de esto, sabiendo Jesús que ya todo estaba consumado, dijo, para que la Escritura se cumpliera: --¡Tengo sed!",
+					"number": 28,
+					"id": "2b17d93b-33a4-43da-9a13-39a9d6bb5de5"
+				},
+				{
+					"verse": "Había allí una vasija llena de vinagre; entonces ellos empaparon en vinagre una esponja y, poniéndola en un hisopo, se la acercaron a la boca.",
+					"number": 29,
+					"id": "c689ef87-9b52-436e-9bee-476abad5b73b"
+				},
+				{
+					"verse": "Cuando Jesús tomó el vinagre, dijo: --¡Consumado es! E inclinando la cabeza, entregó el espíritu.",
+					"number": 30,
+					"id": "2c5a1ef2-5992-4ae1-bbdb-4b0ca28482d2"
+				},
+				{
+					"verse": "Entonces los judíos, por cuanto era la preparación de la Pascua, a fin de que los cuerpos no quedaran en la cruz el sábado (pues aquel sábado era de gran solemnidad), rogaron a Pilato que se les quebraran las piernas y fueran quitados de allí.",
+					"number": 31,
+					"study": "El costado de Jesús traspasado",
+					"id": "898b22f3-5385-4cda-9b1e-98f5e2ad0c4e"
+				},
+				{
+					"verse": "Fueron, pues, los soldados y quebraron las piernas al primero y asimismo al otro que había sido crucificado con él.",
+					"number": 32,
+					"id": "81079106-a0d6-47e2-9655-d21d490bbe4b"
+				},
+				{
+					"verse": "Pero cuando llegaron a Jesús, como lo vieron ya muerto, no le quebraron las piernas.",
+					"number": 33,
+					"id": "64470fa6-d946-472f-bd61-8bcc46c359d2"
+				},
+				{
+					"verse": "Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua.",
+					"number": 34,
+					"id": "1d4e73c7-bf93-496f-8b65-1bb7d15a8d17"
+				},
+				{
+					"verse": "Y el que lo vio da testimonio, y su testimonio es verdadero; y él sabe que dice verdad, para que vosotros también creáis,",
+					"number": 35,
+					"id": "cb7892d5-a150-4d2c-b481-91da91eff7d6"
+				},
+				{
+					"verse": "pues estas cosas sucedieron para que se cumpliera la Escritura: \"No será quebrado hueso suyo\".",
+					"number": 36,
+					"id": "4c3e2e2d-aae3-4e8e-9f3a-fd446a8ad255"
+				},
+				{
+					"verse": "Y también otra Escritura dice: \"Mirarán al que traspasaron\".",
+					"number": 37,
+					"id": "82866519-48ca-4eab-938e-117ebd2ef057"
+				},
+				{
+					"verse": "Después de todo esto, José de Arimatea, que era discípulo de Jesús, pero secretamente por miedo de los judíos, rogó a Pilato que le permitiera llevarse el cuerpo de Jesús; y Pilato se lo concedió. Entonces fue y se llevó el cuerpo de Jesús.",
+					"number": 38,
+					"study": "Jesús es sepultado",
+					"id": "c1625d99-96b2-4e65-a25a-c81a59d51003"
+				},
+				{
+					"verse": "Vino también Nicodemo, el que antes había visitado a Jesús de noche, trayendo un compuesto de mirra y de áloes, como cien libras.",
+					"number": 39,
+					"id": "d5008ce1-3041-461e-8498-670cf0da83b9"
+				},
+				{
+					"verse": "Tomaron, pues, el cuerpo de Jesús y lo envolvieron en lienzos con especias aromáticas, según la costumbre judía de sepultar.",
+					"number": 40,
+					"id": "29fec365-52a3-4aaa-a165-7b524194ea34"
+				},
+				{
+					"verse": "En el lugar donde fue crucificado había un huerto, y en el huerto un sepulcro nuevo, en el cual aún no se había puesto a nadie.",
+					"number": 41,
+					"id": "bdfdb900-1149-4f3e-8ae5-b4bafcd78b05"
+				},
+				{
+					"verse": "Allí, pues, por causa de la preparación de la Pascua de los judíos, y porque aquel sepulcro estaba cerca, pusieron a Jesús.",
+					"number": 42,
+					"id": "6b1862fb-23c2-4808-a7ac-a400a8d8a556"
+				}
+			]
+		},
+		{
+			"chapter": "20",
+			"vers": [
+				{
+					"verse": "El primer día de la semana, María Magdalena fue de mañana, siendo aún oscuro, al sepulcro, y vio quitada la piedra del sepulcro.",
+					"number": 1,
+					"study": "La resurrección",
+					"id": "0c6989e9-98eb-43a6-9e2a-5b81c1a8f774"
+				},
+				{
+					"verse": "Entonces corrió y fue a Simón Pedro y al otro discípulo, aquel a quien amaba Jesús, y les dijo: --Se han llevado del sepulcro al Señor y no sabemos dónde lo han puesto.",
+					"number": 2,
+					"id": "9797118f-2d43-45ee-b034-ba3836ed18e8"
+				},
+				{
+					"verse": "Salieron Pedro y el otro discípulo y fueron al sepulcro.",
+					"number": 3,
+					"id": "b29c34aa-b963-466a-8029-da7f14cec216"
+				},
+				{
+					"verse": "Corrían los dos juntos, pero el otro discípulo corrió más aprisa que Pedro y llegó primero al sepulcro.",
+					"number": 4,
+					"id": "6583cec8-849f-4969-8e76-412ada43a190"
+				},
+				{
+					"verse": "Y, asomándose, vio los lienzos puestos allí, pero no entró.",
+					"number": 5,
+					"id": "fd9e0bc1-f9b5-4802-af3f-2fa1c9a7f304"
+				},
+				{
+					"verse": "Luego llegó Simón Pedro tras él, entró en el sepulcro y vio los lienzos puestos allí,",
+					"number": 6,
+					"id": "e43c3aa3-7a24-4e16-bbf7-479ce4631331"
+				},
+				{
+					"verse": "y el sudario, que había estado sobre la cabeza de Jesús, no puesto con los lienzos, sino enrollado en un lugar aparte.",
+					"number": 7,
+					"id": "c1f18d93-542e-4788-a84f-0cf1b2d75dc8"
+				},
+				{
+					"verse": "Entonces entró también el otro discípulo que había venido primero al sepulcro; y vio, y creyó,",
+					"number": 8,
+					"id": "3ae47452-976b-4912-8ae6-f34c67c8535f"
+				},
+				{
+					"verse": "pues aún no habían entendido la Escritura: que era necesario que él resucitara de los muertos.",
+					"number": 9,
+					"id": "d0b46747-95f5-4046-9d3e-3793f9fef055"
+				},
+				{
+					"verse": "Y volvieron los discípulos a los suyos.",
+					"number": 10,
+					"id": "35c1486c-c0b9-4f7e-97cb-a0f6c06d6e90"
+				},
+				{
+					"verse": "Pero María estaba fuera llorando junto al sepulcro; mientras lloraba, se inclinó para mirar dentro del sepulcro,",
+					"number": 11,
+					"study": "Jesús se aparece a María Magdalena",
+					"id": "838c6522-d329-4f21-8c88-06e73871d7b5"
+				},
+				{
+					"verse": "y vio a dos ángeles con vestiduras blancas, que estaban sentados el uno a la cabecera y el otro a los pies, donde el cuerpo de Jesús había sido puesto.",
+					"number": 12,
+					"id": "b4997fec-de0d-42cb-97ab-b387e596373e"
+				},
+				{
+					"verse": "Y le dijeron: --Mujer, ¿por qué lloras? Les dijo: --Porque se han llevado a mi Señor y no sé dónde lo han puesto.",
+					"number": 13,
+					"id": "7eba68c3-cac6-471e-89b8-402b8e9d4a5c"
+				},
+				{
+					"verse": "Dicho esto, se volvió y vio a Jesús que estaba allí; pero no sabía que era Jesús.",
+					"number": 14,
+					"id": "5b0f17f8-5e97-42aa-8536-13b7dab6dca9"
+				},
+				{
+					"verse": "Jesús le dijo: --Mujer, ¿por qué lloras? ¿A quién buscas? Ella, pensando que era el jardinero, le dijo: --Señor, si tú lo has llevado, dime dónde lo has puesto y yo lo llevaré.",
+					"number": 15,
+					"id": "d1221b2b-4772-4905-b309-4a169c492404"
+				},
+				{
+					"verse": "Jesús le dijo: --¡María! Volviéndose ella, le dijo: --¡Raboni! --que significa: \"Maestro\"--.",
+					"number": 16,
+					"id": "82863e58-3e4b-4da6-ad0d-3227ab1fa014"
+				},
+				{
+					"verse": "Jesús le dijo: --¡Suéltame!, porque aún no he subido a mi Padre; pero ve a mis hermanos y diles: \"Subo a mi Padre y a vuestro Padre, a mi Dios y a vuestro Dios\".",
+					"number": 17,
+					"id": "60964988-5d35-48f4-abc7-a14b0829febd"
+				},
+				{
+					"verse": "Fue entonces María Magdalena para dar a los discípulos la noticia de que había visto al Señor, y que él le había dicho estas cosas.",
+					"number": 18,
+					"id": "d324c089-8ce6-4859-98d3-569630be58a0"
+				},
+				{
+					"verse": "Cuando llegó la noche de aquel mismo día, el primero de la semana, estando las puertas cerradas en el lugar donde los discípulos estaban reunidos por miedo de los judíos, llegó Jesús y, puesto en medio, les dijo: --¡Paz a vosotros!",
+					"number": 19,
+					"study": "Jesús se aparece a los discípulos",
+					"id": "c83e6cf5-2dc0-4a8d-b7f6-144622e41e92"
+				},
+				{
+					"verse": "Dicho esto, les mostró las manos y el costado. Y los discípulos se regocijaron viendo al Señor.",
+					"number": 20,
+					"id": "990d8da7-f0ce-47ef-a441-9461b6b91e0f"
+				},
+				{
+					"verse": "Entonces Jesús les dijo otra vez: --¡Paz a vosotros! Como me envió el Padre, así también yo os envío.",
+					"number": 21,
+					"id": "d80a3f23-3286-4a05-a770-664eba09c2f8"
+				},
+				{
+					"verse": "Y al decir esto, sopló y les dijo: --Recibid el Espíritu Santo.",
+					"number": 22,
+					"id": "cdd3289c-39fa-4198-9af8-b9ef7412fa79"
+				},
+				{
+					"verse": "A quienes perdonéis los pecados, les serán perdonados, y a quienes se los retengáis, les serán retenidos.",
+					"number": 23,
+					"id": "9f610511-5538-4bdb-ae35-fa2afefca4a9"
+				},
+				{
+					"verse": "Pero Tomás, uno de los doce, llamado Dídimo, no estaba con ellos cuando Jesús se presentó.",
+					"number": 24,
+					"study": "Incredulidad de Tomás",
+					"id": "a56c47a8-5bf5-41cb-8e2d-f98434249f43"
+				},
+				{
+					"verse": "Le dijeron, pues, los otros discípulos: --¡Hemos visto al Señor! Él les dijo: --Si no veo en sus manos la señal de los clavos y meto mi dedo en el lugar de los clavos, y meto mi mano en su costado, no creeré.",
+					"number": 25,
+					"id": "841b2a24-593d-458f-bdae-0b63555a4905"
+				},
+				{
+					"verse": "Ocho días después estaban otra vez sus discípulos dentro, y con ellos Tomás. Llegó Jesús, estando las puertas cerradas, se puso en medio y les dijo: --¡Paz a vosotros!",
+					"number": 26,
+					"id": "2556cef4-4783-4383-b04b-bfe27754b196"
+				},
+				{
+					"verse": "Luego dijo a Tomás: --Pon aquí tu dedo y mira mis manos; acerca tu mano y métela en mi costado; y no seas incrédulo, sino creyente.",
+					"number": 27,
+					"id": "4ab952a0-22f7-4b0e-818a-9622713094de"
+				},
+				{
+					"verse": "Entonces Tomás respondió y le dijo: --¡Señor mío y Dios mío!",
+					"number": 28,
+					"id": "5a85307c-a545-4a01-afca-571bdf68f115"
+				},
+				{
+					"verse": "Jesús le dijo: --Porque me has visto, Tomás, creíste; bienaventurados los que no vieron y creyeron.",
+					"number": 29,
+					"id": "6ea4673d-aa17-4666-86e4-3bcc6ccf0f84"
+				},
+				{
+					"verse": "Hizo además Jesús muchas otras señales en presencia de sus discípulos, las cuales no están escritas en este libro.",
+					"number": 30,
+					"study": "El propósito del libro",
+					"id": "c559a0b3-6fc6-4784-bd0d-0356b8f13bf8"
+				},
+				{
+					"verse": "Pero estas se han escrito para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que, creyendo, tengáis vida en su nombre.",
+					"number": 31,
+					"id": "0dc9effe-481e-49bc-b36a-9cad8bf7b286"
+				}
+			]
+		},
+		{
+			"chapter": "21",
+			"vers": [
+				{
+					"verse": "Después de esto, Jesús se manifestó otra vez a sus discípulos junto al Mar de Tiberias; y se manifestó de esta manera:",
+					"number": 1,
+					"study": "Jesús se aparece a siete de sus discípulos",
+					"id": "20b2544d-d6cf-44c4-acc3-803c79315156"
+				},
+				{
+					"verse": "Estaban juntos Simón Pedro, Tomás, llamado el Dídimo, Natanael, el de Caná de Galilea, los hijos de Zebedeo y otros dos de sus discípulos.",
+					"number": 2,
+					"id": "6e78ae33-9df3-443e-92cd-3aae6c1c2523"
+				},
+				{
+					"verse": "Simón Pedro les dijo: --Voy a pescar. Ellos le dijeron: --Vamos nosotros también contigo. Salieron, pues, y entraron en una barca; pero aquella noche no pescaron nada.",
+					"number": 3,
+					"id": "8b011847-2541-4c77-886a-11989e397045"
+				},
+				{
+					"verse": "Cuando ya iba amaneciendo, se presentó Jesús en la playa, pero los discípulos no sabían que era Jesús.",
+					"number": 4,
+					"id": "93a4a1b6-7a6a-427a-b7e5-80195b69a89a"
+				},
+				{
+					"verse": "Y les dijo: --Hijitos, ¿tenéis algo de comer? Le respondieron: --¡No!",
+					"number": 5,
+					"id": "c6d0475f-fcbf-41a1-82d6-c91185363d6f"
+				},
+				{
+					"verse": "Él les dijo: --Echad la red a la derecha de la barca y hallaréis. Entonces la echaron, y ya no la podían sacar, por la gran cantidad de peces.",
+					"number": 6,
+					"id": "6cc46335-d0fa-4b8d-8039-1308cef64c18"
+				},
+				{
+					"verse": "Entonces aquel discípulo a quien Jesús amaba dijo a Pedro: --¡Es el Señor! Simón Pedro, cuando oyó que era el Señor, se ciñó la ropa (porque se había despojado de ella) y se tiró al mar.",
+					"number": 7,
+					"id": "16bffda1-cc70-4d07-bdec-c0debcbff76d"
+				},
+				{
+					"verse": "Los otros discípulos fueron con la barca, arrastrando la red llena de peces, pues no distaban de tierra sino como doscientos codos.",
+					"number": 8,
+					"id": "9a243d49-b57d-46a3-894b-6c797d617350"
+				},
+				{
+					"verse": "Al descender a tierra, vieron brasas puestas y un pescado encima de ellas, y pan.",
+					"number": 9,
+					"id": "225d9e71-33b1-4d4c-b49d-d252bffa987f"
+				},
+				{
+					"verse": "Jesús les dijo: --Traed de los peces que acabáis de sacar.",
+					"number": 10,
+					"id": "620fe6c9-3f83-4c67-8b29-2ef6fa817cba"
+				},
+				{
+					"verse": "Subió Simón Pedro y sacó la red a tierra, llena de grandes peces, ciento cincuenta y tres; y aun siendo tantos, la red no se rompió.",
+					"number": 11,
+					"id": "7a0e321a-5c7f-404e-b8e4-565bb1fcfb20"
+				},
+				{
+					"verse": "Les dijo Jesús: --Venid, comed. Y ninguno de los discípulos se atrevía a preguntarle: \"¿Tú, quién eres?\", sabiendo que era el Señor.",
+					"number": 12,
+					"id": "08f3840c-8111-4a2b-b8e3-63f29b170b63"
+				},
+				{
+					"verse": "Vino, pues, Jesús, y tomó el pan y les dio, y asimismo del pescado.",
+					"number": 13,
+					"id": "2de01cbf-3aa5-4346-a4b9-f586431035c2"
+				},
+				{
+					"verse": "Esta era ya la tercera vez que Jesús se manifestaba a sus discípulos, después de haber resucitado de los muertos.",
+					"number": 14,
+					"id": "62f97ac2-e883-4b48-8a8a-77650f57e1fd"
+				},
+				{
+					"verse": "Después de comer, Jesús dijo a Simón Pedro: --Simón, hijo de Jonás, ¿me amas más que estos? Le respondió: --Sí, Señor; tú sabes que te quiero. Él le dijo: --Apacienta mis corderos.",
+					"number": 15,
+					"study": "Apacienta mis ovejas",
+					"id": "c708f4ab-9f57-492b-9fb2-a67cb72a2f88"
+				},
+				{
+					"verse": "Volvió a decirle la segunda vez: --Simón, hijo de Jonás, ¿me amas? Pedro le respondió: --Sí, Señor; tú sabes que te quiero. Le dijo: --Pastorea mis ovejas.",
+					"number": 16,
+					"id": "217003a8-34e7-4b4f-b0b2-9d6b1779e411"
+				},
+				{
+					"verse": "Le dijo la tercera vez: --Simón, hijo de Jonás, ¿me quieres? Pedro se entristeció de que le dijera por tercera vez: \"¿Me quieres?\", y le respondió: --Señor, tú lo sabes todo; tú sabes que te quiero. Jesús le dijo: --Apacienta mis ovejas.",
+					"number": 17,
+					"id": "d7576dd0-f269-4bd2-804a-03b1ec47a2ad"
+				},
+				{
+					"verse": "De cierto, de cierto te digo: Cuando eras más joven, te ceñías e ibas a donde querías; pero cuando ya seas viejo, extenderás tus manos y te ceñirá otro, y te llevará a donde no quieras.",
+					"number": 18,
+					"id": "aa670392-7b79-4821-9725-eb041395e10b"
+				},
+				{
+					"verse": "Esto dijo dando a entender con qué muerte había de glorificar a Dios. Y dicho esto, añadió: --Sígueme.",
+					"number": 19,
+					"id": "24059944-b5e1-48f7-a5a7-d2d32db63ce1"
+				},
+				{
+					"verse": "Volviéndose Pedro, vio que los seguía el discípulo a quien amaba Jesús, el mismo que en la cena se había recostado al lado de él y le había dicho: \"Señor, ¿quién es el que te ha de entregar?\"",
+					"number": 20,
+					"study": "El discípulo amado",
+					"id": "c3b3dffc-2953-4056-bb9d-02d04d95dbff"
+				},
+				{
+					"verse": "Cuando Pedro lo vio, dijo a Jesús: --Señor, ¿y qué de este?",
+					"number": 21,
+					"id": "641cd2d0-0b1a-479a-9e7c-ec587ce9c3ce"
+				},
+				{
+					"verse": "Jesús le dijo: --Si quiero que él quede hasta que yo vuelva, ¿qué a ti? Sígueme tú.",
+					"number": 22,
+					"id": "b803e025-f90b-42d1-ade6-a49907217ac6"
+				},
+				{
+					"verse": "Se extendió entonces entre los hermanos el rumor de que aquel discípulo no moriría. Pero Jesús no le dijo que no moriría, sino: \"Si quiero que él quede hasta que yo vuelva, ¿qué a ti?\"",
+					"number": 23,
+					"id": "6be0508e-e727-4aaf-a838-90669dd2b765"
+				},
+				{
+					"verse": "Este es el discípulo que da testimonio de estas cosas, y escribió estas cosas; y sabemos que su testimonio es verdadero.",
+					"number": 24,
+					"id": "c2443743-778e-4873-b5c1-dbe4b14ce13f"
+				},
+				{
+					"verse": "Hay también otras muchas cosas que hizo Jesús, las cuales, si se escribieran una por una, pienso que ni aun en el mundo cabrían los libros que se habrían de escribir. Amén.",
+					"number": 25,
+					"id": "50707f5a-a694-4c03-a9f1-7c6d9695cfff"
+				}
+			]
+		}
+	],
+	"book_id": "3d8b42a5-46ce-4d25-8570-7dd68e34193d"
+}

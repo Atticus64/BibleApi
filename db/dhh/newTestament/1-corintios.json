@@ -1,0 +1,2283 @@
+{
+	"name": "1-Corintios",
+	"num_chapters": 16,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo, llamado por la voluntad de Dios a ser apóstol de Cristo Jesús, saluda, junto con el hermano Sóstenes, a los que forman la iglesia de Dios que está en Corinto, que en Cristo Jesús fueron santificados y llamados a formar su pueblo santo, junto con todos los que en todas partes invocan el nombre de nuestro Señor Jesucristo, Señor nuestro y del pueblo santo.",
+					"number": 1,
+					"study": "Salutación",
+					"id": "d3992c36-c757-454e-b937-7735cf1f2bf9"
+				},
+				{
+					"verse": "Que Dios nuestro Padre y el Señor Jesucristo derramen sobre ustedes su gracia y su paz.",
+					"number": 2,
+					"id": "d7417d13-b5a2-4540-bbfb-911bd080236a"
+				},
+				{
+					"verse": "Siempre doy gracias a mi Dios por ustedes, por la gracia que Dios ha derramado sobre ustedes por medio de Cristo Jesús.",
+					"number": 3,
+					"id": "89dc0d7b-af48-432d-bd64-c6fc0815a2bf"
+				},
+				{
+					"verse": "Pues por medio de él Dios les ha dado toda riqueza espiritual, así de palabra como de conocimiento,",
+					"number": 4,
+					"study": "Acción de gracias por dones espirituales",
+					"id": "5c0b68d1-69d7-4778-8b3d-0f26e264b8d8"
+				},
+				{
+					"verse": "ya que el mensaje acerca de Cristo se estableció firmemente entre ustedes.",
+					"number": 5,
+					"id": "44b59b9c-992f-4d33-8930-8b6f5470371a"
+				},
+				{
+					"verse": "De este modo no les falta ningún don de Dios mientras esperan el día en que aparezca nuestro Señor Jesucristo.",
+					"number": 6,
+					"id": "6c9f3dab-a4bd-4431-98d3-35a5ed2be828"
+				},
+				{
+					"verse": "Dios los mantendrá firmes hasta el fin, para que nadie pueda reprocharles nada cuando nuestro Señor Jesucristo regrese.",
+					"number": 7,
+					"id": "7db59636-7714-4f59-b0d9-8e1211c8f5cf"
+				},
+				{
+					"verse": "Dios siempre cumple sus promesas, y él es quien los llamó a vivir en unión con su Hijo Jesucristo, nuestro Señor.",
+					"number": 8,
+					"id": "b8c47b23-732f-469d-a25e-93907b5d46d5"
+				},
+				{
+					"verse": "Hermanos, en el nombre de nuestro Señor Jesucristo les ruego que todos estén siempre de acuerdo y que no haya divisiones entre ustedes. Vivan en armonía, pensando y sintiendo de la misma manera.",
+					"number": 9,
+					"id": "8cc1b4b0-3090-44c9-b616-bc5155738044"
+				},
+				{
+					"verse": "Digo esto, hermanos míos, porque he sabido por los de la familia de Cloe que hay discordias entre ustedes.",
+					"number": 10,
+					"study": "¿Está dividido Cristo?",
+					"id": "834db171-9b82-4a79-aa40-96835e41474e"
+				},
+				{
+					"verse": "Quiero decir, que algunos de ustedes afirman: «Yo soy de Pablo»; otros: «Yo soy de Apolo»; otros: «Yo soy de Cefas»; y otros: «Yo soy de Cristo.»",
+					"number": 11,
+					"id": "431ea497-98c5-4e77-b4f9-88f4c8058b56"
+				},
+				{
+					"verse": "¿Acaso Cristo está dividido? ¿Fue crucificado Pablo en favor de ustedes? ¿O fueron ustedes bautizados en el nombre de Pablo?",
+					"number": 12,
+					"id": "7dd83754-cf08-485f-84dc-725977134b47"
+				},
+				{
+					"verse": "¡Gracias a Dios que yo no bauticé a ninguno de ustedes, aparte de Crispo y de Gayo!",
+					"number": 13,
+					"id": "9a6bdf91-3d7d-4ede-aa09-e490f9d7844b"
+				},
+				{
+					"verse": "Así nadie puede decir que fue bautizado en mi nombre.",
+					"number": 14,
+					"id": "1e754551-c8e9-45b7-a122-5ed1f4045d51"
+				},
+				{
+					"verse": "También bauticé a la familia de Estéfanas, pero no recuerdo haber bautizado a ningún otro,",
+					"number": 15,
+					"id": "7b0aa02f-27c4-44b8-8233-99c42a60ae74"
+				},
+				{
+					"verse": "pues Cristo no me mandó a bautizar, sino a anunciar el evangelio, y no con alardes de sabiduría y retórica, para no quitarle valor a la muerte de Cristo en la cruz.",
+					"number": 16,
+					"id": "cddcd195-2ad7-4082-b9b8-1cb073919c72"
+				},
+				{
+					"verse": "El mensaje de la muerte de Cristo en la cruz parece una tontería a los que van a la perdición; pero este mensaje es poder de Dios para los que vamos a la salvación.",
+					"number": 17,
+					"id": "c6283f8a-fa25-461c-ae8d-cf889fb400fb"
+				},
+				{
+					"verse": "Como dice la Escritura:\n«Haré que los sabios pierdan su sabiduría\ny que desaparezca la inteligencia de los inteligentes.»",
+					"number": 18,
+					"study": "Cristo, poder y sabiduría de Dios",
+					"id": "9c27f570-711d-407e-903e-a693580d959e"
+				},
+				{
+					"verse": "¿En qué pararon el sabio, y el maestro, y el que sabe discutir sobre cosas de este mundo? ¡Dios ha convertido en tontería la sabiduría de este mundo!",
+					"number": 19,
+					"id": "9d101981-315a-4906-ad11-d12ac4c1640e"
+				},
+				{
+					"verse": "Puesto que el mundo no usó su sabiduría para reconocer a Dios donde él ha mostrado su sabiduría, dispuso Dios en su bondad salvar por medio de su mensaje a los que tienen fe, aunque este mensaje parezca una tontería.",
+					"number": 20,
+					"id": "9e1679f1-d2dd-42b8-a20c-efe28cd7d54a"
+				},
+				{
+					"verse": "Los judíos quieren ver señales milagrosas, y los griegos buscan sabiduría;",
+					"number": 21,
+					"id": "3a7715a5-bf6d-45a6-a1ac-592b6f64f1c1"
+				},
+				{
+					"verse": "pero nosotros anunciamos a un Mesías crucificado. Esto les resulta ofensivo a los judíos, y a los no judíos les parece una tontería;",
+					"number": 22,
+					"id": "efef152b-9570-4651-b6ac-a69222b7e6df"
+				},
+				{
+					"verse": "pero para los que Dios ha llamado, sean judíos o griegos, este Mesías es el poder y la sabiduría de Dios.",
+					"number": 23,
+					"id": "bae4a139-9ff0-43bd-a16b-60bdfe5b12e3"
+				},
+				{
+					"verse": "Pues lo que en Dios puede parecer una tontería, es mucho más sabio que toda sabiduría humana; y lo que en Dios puede parecer debilidad, es más fuerte que toda fuerza humana.",
+					"number": 24,
+					"id": "be972d67-679c-4a81-9db7-1fc37974bfb7"
+				},
+				{
+					"verse": "Hermanos, deben darse cuenta de que Dios los ha llamado a pesar de que pocos de ustedes son sabios según los criterios humanos, y pocos de ustedes son gente con autoridad o pertenecientes a familias importantes.",
+					"number": 25,
+					"id": "65432af0-cf5e-4e2f-8317-8aa56db444dd"
+				},
+				{
+					"verse": "Y es que, para avergonzar a los sabios, Dios ha escogido a los que el mundo tiene por tontos; y para avergonzar a los fuertes, ha escogido a los que el mundo tiene por débiles.",
+					"number": 26,
+					"id": "abef7bf9-87cf-4359-8d44-0909c3ce97f3"
+				},
+				{
+					"verse": "Dios ha escogido a la gente despreciada y sin importancia de este mundo, es decir, a los que no son nada, para anular a los que son algo.",
+					"number": 27,
+					"id": "558e35d9-b4ff-4f37-8456-203eedab4589"
+				},
+				{
+					"verse": "Así nadie podrá presumir delante de Dios.",
+					"number": 28,
+					"id": "c06ff514-b653-4292-bf5f-29e5e215091f"
+				},
+				{
+					"verse": "Pero Dios mismo los ha unido a ustedes con Cristo Jesús, y ha hecho también que Cristo sea nuestra sabiduría, nuestra justicia, nuestra santificación y nuestra liberación.",
+					"number": 29,
+					"id": "f95cf316-da5e-4f0e-9223-73ee8aab4a3d"
+				},
+				{
+					"verse": "De esta manera, como dice la Escritura: «Si alguno quiere enorgullecerse, que se enorgullezca del Señor.»",
+					"number": 30,
+					"id": "ac8b8641-6cf8-4c2b-b5fc-9a5e54a7f7cc"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Pero hermanos, cuando yo fui a hablarles del designio secreto de Dios, lo hice sin hacer alardes de retórica o de sabiduría.",
+					"number": 1,
+					"study": "Proclamando a Cristo crucificado",
+					"id": "916c1105-4c9e-459f-b0b3-faa725e874cd"
+				},
+				{
+					"verse": "Y, estando entre ustedes, no quise saber de otra cosa sino de Jesucristo y, más estrictamente, de Jesucristo crucificado.",
+					"number": 2,
+					"id": "f404fc85-cf5e-4866-a947-f98faddf116e"
+				},
+				{
+					"verse": "Me presenté ante ustedes débil y temblando de miedo,",
+					"number": 3,
+					"id": "d163468a-4df1-45e3-8630-ab6e0f9b1056"
+				},
+				{
+					"verse": "y cuando les hablé y les prediqué el mensaje, no usé palabras sabias para convencerlos. Al contrario, los convencí haciendo demostración del Espíritu y del poder de Dios,",
+					"number": 4,
+					"id": "369be79e-9c4a-4dbd-aa2d-d935ad8acd15"
+				},
+				{
+					"verse": "para que la fe de ustedes dependiera del poder de Dios y no de la sabiduría de los hombres.",
+					"number": 5,
+					"id": "f4bf1240-6cf7-4cdd-96cb-edf8272c123e"
+				},
+				{
+					"verse": "Sin embargo, entre los que ya han alcanzado la madurez en su fe sí usamos palabras de sabiduría. Pero no se trata de una sabiduría propia de este mundo ni de quienes lo gobiernan, los cuales ya están perdiendo su poder.",
+					"number": 6,
+					"study": "La revelación por el Espíritu de Dios",
+					"id": "27faf648-6d85-4dcc-9d5f-313b57770ada"
+				},
+				{
+					"verse": "Se trata más bien de la sabiduría oculta de Dios, del designio secreto que él, desde la eternidad, ha tenido para nuestra gloria.",
+					"number": 7,
+					"id": "584c5d96-f888-499d-aa1b-51547934a553"
+				},
+				{
+					"verse": "Esto es algo que no han entendido los gobernantes del mundo presente, pues si lo hubieran entendido no habrían crucificado al Señor de la gloria.",
+					"number": 8,
+					"id": "9de236db-ffaa-44a7-8d21-6ebf699e26fa"
+				},
+				{
+					"verse": "Pero, como se dice en la Escritura:\n«Dios ha preparado para los que lo aman\ncosas que nadie ha visto ni oído,\ny ni siquiera pensado.»",
+					"number": 9,
+					"id": "696ca6ee-6828-4d9c-8699-2b0addb313b9"
+				},
+				{
+					"verse": "Éstas son las cosas que Dios nos ha hecho conocer por medio del Espíritu, pues el Espíritu lo examina todo, hasta las cosas más profundas de Dios.",
+					"number": 10,
+					"id": "523ff3fe-c8ac-402f-b595-6a46111353b7"
+				},
+				{
+					"verse": "¿Quién entre los hombres puede saber lo que hay en el corazón del hombre, sino sólo el espíritu que está dentro del hombre? De la misma manera, solamente el Espíritu de Dios sabe lo que hay en Dios.",
+					"number": 11,
+					"id": "99dc0971-0232-4bb9-82d2-a30779ca8a50"
+				},
+				{
+					"verse": "Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que viene de Dios, para que entendamos las cosas que Dios en su bondad nos ha dado.",
+					"number": 12,
+					"id": "db42ba59-853a-4258-8841-6960674bd853"
+				},
+				{
+					"verse": "Hablamos de estas cosas con palabras que el Espíritu de Dios nos ha enseñado, y no con palabras que hayamos aprendido por nuestra propia sabiduría. Así explicamos las cosas espirituales con términos espirituales.",
+					"number": 13,
+					"id": "c5421b93-95d7-42db-925f-7e18ff5b2b3c"
+				},
+				{
+					"verse": "El que no es espiritual no acepta las cosas que son del Espíritu de Dios, porque para él son tonterías. Y tampoco las puede entender, porque son cosas que tienen que juzgarse espiritualmente.",
+					"number": 14,
+					"id": "a0dee363-e0f8-445c-8498-71274caf307c"
+				},
+				{
+					"verse": "Pero aquel que tiene el Espíritu puede juzgar todas las cosas, y nadie lo puede juzgar a él.",
+					"number": 15,
+					"id": "6863d15b-f04a-4723-9527-03d2345c17c7"
+				},
+				{
+					"verse": "Pues la Escritura dice: «¿Quién conoce la mente del Señor? ¿Quién podrá instruirle?» Sin embargo, nosotros tenemos la mente de Cristo.",
+					"number": 16,
+					"id": "31e72263-fcdb-4fe6-bb0c-c15f8ff87ae4"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Yo, hermanos, no pude hablarles entonces como a gente madura espiritualmente, sino como a personas débiles, como a niños en cuanto a las cosas de Cristo.",
+					"number": 1,
+					"study": "Colaboradores de Dios",
+					"id": "e2b1ce92-475d-4b9e-97bb-604d7ac54a5a"
+				},
+				{
+					"verse": "Les di una enseñanza sencilla, igual que a un niño de pecho se le da leche en vez de alimento sólido, porque ustedes todavía no podían digerir la comida fuerte. ¡Y ni siquiera pueden digerirla ahora,",
+					"number": 2,
+					"id": "3aade735-b4f6-4661-b7f8-5b88f6705deb"
+				},
+				{
+					"verse": "porque todavía son débiles! Mientras haya entre ustedes envidias y discordias, es que todavía son débiles y actúan con criterios puramente humanos.",
+					"number": 3,
+					"id": "d145c20d-6a9a-4b32-9a90-fbcb21e8eb3d"
+				},
+				{
+					"verse": "Porque cuando uno afirma: «Yo soy de Pablo», y otro: «Yo soy de Apolo», están manteniendo criterios puramente humanos.",
+					"number": 4,
+					"id": "cb4b422b-6650-4187-aa42-901cecaf97d4"
+				},
+				{
+					"verse": "A fin de cuentas, ¿qué es Apolo?, ¿qué es Pablo? Simplemente servidores, por medio de los cuales ustedes han llegado a la fe. Cada uno de nosotros hizo el trabajo que el Señor le señaló:",
+					"number": 5,
+					"id": "56c8a8e6-4f42-4c7f-aa45-924e6369c4fc"
+				},
+				{
+					"verse": "yo sembré y Apolo regó, pero Dios es quien hizo crecer lo sembrado.",
+					"number": 6,
+					"id": "27ecaf54-fd9d-4af5-b9a8-102871d7e307"
+				},
+				{
+					"verse": "De manera que ni el que siembra ni el que riega son nada, sino que Dios lo es todo, pues él es quien hace crecer lo sembrado.",
+					"number": 7,
+					"id": "015493a5-7b12-4fa2-9908-75b940b8014a"
+				},
+				{
+					"verse": "Los que siembran y los que riegan son iguales, aunque Dios pagará a cada uno según su trabajo.",
+					"number": 8,
+					"id": "1166f35b-d1ab-46ba-90b5-ea85d7b68de4"
+				},
+				{
+					"verse": "Somos compañeros de trabajo al servicio de Dios, y ustedes son un sembrado y una construcción que pertenecen a Dios.",
+					"number": 9,
+					"id": "9938d5b1-edab-4543-abd9-da3caa87e440"
+				},
+				{
+					"verse": "Yo fui el maestro albañil al cual Dios en su bondad encargó poner los fundamentos, y otro está construyendo sobre ellos. Pero cada uno debe tener cuidado de cómo construye,",
+					"number": 10,
+					"id": "9cf57e6f-2489-4765-9c53-b31e81ff36d7"
+				},
+				{
+					"verse": "pues nadie puede poner otro fundamento que el que ya está puesto, que es Jesucristo.",
+					"number": 11,
+					"id": "ae6def96-7ff8-4e7c-846a-b6aa7e4980a8"
+				},
+				{
+					"verse": "Sobre este fundamento, uno puede construir con oro, plata y piedras preciosas, o con madera, paja y cañas;",
+					"number": 12,
+					"id": "ddcb048b-ce85-4c33-9cf1-78b764fcf64b"
+				},
+				{
+					"verse": "pero el trabajo de cada cual se verá claramente en el día del juicio; porque ese día vendrá con fuego, y el fuego probará la clase de trabajo que cada uno haya hecho.",
+					"number": 13,
+					"id": "e3dd5b7e-9d80-4d50-a69f-53e656dc419b"
+				},
+				{
+					"verse": "Si lo que uno construyó es resistente, recibirá su pago;",
+					"number": 14,
+					"id": "c62a79e2-6f81-4316-9571-248e1192b082"
+				},
+				{
+					"verse": "pero si lo que construyó llega a quemarse, perderá su trabajo, aunque él mismo logrará salvarse como quien escapa del fuego.",
+					"number": 15,
+					"id": "6f373dd9-637b-412f-b49b-063120f3a6c8"
+				},
+				{
+					"verse": "¿Acaso no saben ustedes que son templo de Dios, y que el Espíritu de Dios vive en ustedes?",
+					"number": 16,
+					"id": "726891e8-4ae5-4312-97b8-a0a06ec5fcd8"
+				},
+				{
+					"verse": "Si alguno destruye el templo de Dios, Dios lo destruirá a él, porque el templo de Dios es santo, y ese templo son ustedes mismos.",
+					"number": 17,
+					"id": "37d4a3b3-9e7a-48d0-a325-3569652bd38e"
+				},
+				{
+					"verse": "Que nadie se engañe: si alguno de ustedes se cree sabio según la sabiduría de este mundo, vuélvase como un ignorante, para así llegar a ser verdaderamente sabio.",
+					"number": 18,
+					"id": "b285ab80-7463-4625-b62e-f14980cd53b2"
+				},
+				{
+					"verse": "Pues la sabiduría de este mundo es pura tontería para Dios. En efecto, la Escritura dice: «Dios atrapa a los sabios en la propia astucia de ellos.»",
+					"number": 19,
+					"id": "bf6d12ad-73b1-4a67-bd4d-c564227bcbfb"
+				},
+				{
+					"verse": "Y dice también: «El Señor sabe que los pensamientos de los sabios son tonterías.»",
+					"number": 20,
+					"id": "5a697aec-f76f-4fca-9889-6db86b57425c"
+				},
+				{
+					"verse": "Por eso, nadie debe sentirse orgulloso de lo que es propio de los hombres; pues todas las cosas son de ustedes:",
+					"number": 21,
+					"id": "1a460da5-42a5-4ec5-99a6-2d64319c56cd"
+				},
+				{
+					"verse": "Pablo, Apolo, Cefas, el mundo, la vida, la muerte, el presente y el futuro; todo es de ustedes, y",
+					"number": 22,
+					"id": "82c17675-ab64-4941-8c73-4f640bffbe5c"
+				},
+				{
+					"verse": "ustedes son de Cristo, y Cristo es de Dios.",
+					"number": 23,
+					"id": "2948dd8c-d190-4324-9dae-50f2596f89af"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Ustedes deben considerarnos simplemente como ayudantes de Cristo, encargados de enseñar los designios secretos de Dios.",
+					"number": 1,
+					"study": "El ministerio de los apóstoles",
+					"id": "06b588c0-cd16-4d45-b3b6-2b810f406a27"
+				},
+				{
+					"verse": "Ahora bien, el que recibe un encargo debe demostrar que es digno de confianza.",
+					"number": 2,
+					"id": "7dbc70f0-7b4e-4031-98cb-b6300b7c8f83"
+				},
+				{
+					"verse": "En cuanto a mí respecta, muy poco me preocupa ser juzgado por ustedes o por algún tribunal humano. Ni siquiera yo mismo me juzgo.",
+					"number": 3,
+					"id": "f92784ff-6765-4b24-8d65-1dfc029c7e85"
+				},
+				{
+					"verse": "Sin embargo, el que mi conciencia no me acuse de nada no significa que yo por esto sea inocente. Pues el que me juzga es el Señor.",
+					"number": 4,
+					"id": "3511e814-7f7c-4a85-b5bf-951797335980"
+				},
+				{
+					"verse": "Por lo tanto, no juzguen ustedes nada antes de tiempo; esperen a que el Señor venga y saque a la luz lo que ahora está en la oscuridad y dé a conocer las intenciones del corazón. Entonces Dios dará a cada uno la alabanza que merezca.",
+					"number": 5,
+					"id": "4b4c4be7-2fa8-4381-8ec2-a4d5ae1fe26f"
+				},
+				{
+					"verse": "Hermanos, les hablo de estas cosas por su propio bien y poniendo como ejemplo a Apolo y a mí mismo. Lo digo para que por nuestro ejemplo aprendan ustedes a no ir más allá de lo que está escrito, y para que nadie se hinche de orgullo, favoreciendo a uno en perjuicio de otro.",
+					"number": 6,
+					"id": "b78f60a3-406f-4c85-921d-925ae7859b62"
+				},
+				{
+					"verse": "Pues, ¿quién te da privilegios sobre los demás? ¿Y qué tienes que Dios no te haya dado? Y si él te lo ha dado, ¿por qué presumes, como si lo hubieras conseguido por ti mismo?",
+					"number": 7,
+					"id": "e6a750d1-9cee-4645-b862-2ae8dae626d6"
+				},
+				{
+					"verse": "Al parecer, ustedes ya son ricos, y tienen todo lo que pueden desear, y se sienten como reyes que nada necesitan de nosotros. ¡Ojalá fueran reyes de verdad, para que nosotros tuviéramos parte en su reino!",
+					"number": 8,
+					"id": "ef462010-90ee-423e-a981-5a667ea2053a"
+				},
+				{
+					"verse": "Pues me parece que a nosotros, los apóstoles, Dios nos ha puesto en el último lugar, como si fuéramos condenados a muerte. Hemos llegado a ser un espectáculo para el mundo, para los ángeles y para los hombres.",
+					"number": 9,
+					"id": "43f550c2-9bfe-4a49-95b5-b95ae36894a7"
+				},
+				{
+					"verse": "Nosotros, por causa de Cristo, pasamos por tontos; mientras que ustedes, gracias a Cristo, pasan por inteligentes. Nosotros somos débiles, mientras que ustedes son fuertes. A nosotros se nos desprecia, y a ustedes se les respeta.",
+					"number": 10,
+					"id": "e294bc21-8a69-478e-9ce2-725fbf8a3387"
+				},
+				{
+					"verse": "Hasta hoy mismo no hemos dejado de sufrir hambre, sed y falta de ropa; la gente nos maltrata, no tenemos hogar propio",
+					"number": 11,
+					"id": "5fc38c0a-2dc3-4e07-af51-56d3e0b09b6a"
+				},
+				{
+					"verse": "y nos cansamos trabajando con nuestras propias manos. A las maldiciones respondemos con bendiciones; somos perseguidos, y lo soportamos.",
+					"number": 12,
+					"id": "a47b9ac3-70c1-4c1b-bece-a6cb87f20c59"
+				},
+				{
+					"verse": "Nos injurian, y contestamos con bondad. Nos tratan como a basura del mundo, como a desperdicio de la humanidad. Y así hasta el día de hoy.",
+					"number": 13,
+					"id": "6ce7fa6f-c2b9-4e84-a798-d69d7a0eff5c"
+				},
+				{
+					"verse": "No les escribo esto para avergonzarlos, sino para darles un consejo, como a mis propios hijos, pues los amo.",
+					"number": 14,
+					"id": "910f36a1-36e0-4bb0-b48f-f0e333d639fd"
+				},
+				{
+					"verse": "Pues aunque ustedes, como cristianos, tengan diez mil instructores, padres no tienen muchos. Padre de ustedes soy yo, pues les anuncié el evangelio por el cual quedaron incorporados a Cristo Jesús.",
+					"number": 15,
+					"id": "d3d5ec24-5959-4f48-b6a2-c48bcb9a85dc"
+				},
+				{
+					"verse": "Así pues, les ruego que sigan mi ejemplo.",
+					"number": 16,
+					"id": "8691a4d5-8711-4a1b-981b-fb2789e398bf"
+				},
+				{
+					"verse": "Por esto les envié a Timoteo, mi querido y fiel hijo en el Señor. Él los hará recordar mi conducta como creyente en Cristo Jesús, conforme a lo que enseño en todas las iglesias por donde paso.",
+					"number": 17,
+					"id": "42be886e-3bc9-4047-9f1c-f902f54e0a71"
+				},
+				{
+					"verse": "Algunos de ustedes ya se sienten muy confiados pensando que no iré a verlos;",
+					"number": 18,
+					"id": "3fe93b05-929f-4d11-8481-1bb30bfbfcc8"
+				},
+				{
+					"verse": "pero, si el Señor quiere, espero visitarlos pronto. Entonces veré lo que son capaces de hacer esos que se hinchan de orgullo, y no solamente lo que son capaces de decir.",
+					"number": 19,
+					"id": "b13e76ba-bf83-47e8-9f03-16cdc579bd51"
+				},
+				{
+					"verse": "Porque el reino de Dios no es cuestión de palabras, sino de poder.",
+					"number": 20,
+					"id": "29b64c56-0482-4147-beac-55473700fbb2"
+				},
+				{
+					"verse": "¿Qué prefieren ustedes: que vaya dispuesto a castigarlos, o que vaya a verlos con amor y ternura?",
+					"number": 21,
+					"id": "1a5de085-3eab-4065-bb4b-77ef43fed26c"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Se ha sabido que uno de ustedes tiene como mujer a su propia madrastra. Este caso de inmoralidad es tan grave, que ni siquiera se da entre los paganos.",
+					"number": 1,
+					"study": "Un caso de inmoralidad juzgado",
+					"id": "76ad3397-5fb6-4681-b5fe-df1cc48424dc"
+				},
+				{
+					"verse": "¡Y aún se hinchan ustedes de orgullo! ¡Deberían llenarse de tristeza! El hombre que vive en semejante situación debe ser expulsado de entre ustedes.",
+					"number": 2,
+					"id": "ded65b33-d7aa-4a9b-b2ae-6d38f09f8782"
+				},
+				{
+					"verse": "En cuanto a mí, aunque en el cuerpo no estoy presente entre ustedes, lo estoy en el espíritu; y, como si estuviera presente, he dado ya mi sentencia sobre aquel que así actúa.",
+					"number": 3,
+					"id": "bfd84408-669b-4ce0-893e-5d3bfa27db84"
+				},
+				{
+					"verse": "Cuando ustedes se reúnan, yo estaré con ustedes en espíritu, y también el poder de nuestro Señor Jesús estará con ustedes. Entonces, en el nombre de nuestro Señor Jesús,",
+					"number": 4,
+					"id": "1094ffd7-0667-426d-8a2d-b5f8f82c36cd"
+				},
+				{
+					"verse": "ese hombre deberá ser entregado a Satanás, para que su cuerpo sea destruido y su espíritu se salve cuando el Señor venga.",
+					"number": 5,
+					"id": "121ba3e6-3eb3-456c-bcd5-cfb9ced1ae9d"
+				},
+				{
+					"verse": "Ustedes no tienen razón para sentirse orgullosos. Ya conocen el dicho: «Un poco de levadura hace fermentar toda la masa.»",
+					"number": 6,
+					"id": "3f43a244-f9c0-4e33-9779-0f0f2ab78845"
+				},
+				{
+					"verse": "Así que echen fuera esa vieja levadura que los corrompe, para que sean como el pan hecho de masa nueva. Ustedes son, en realidad, como el pan sin levadura que se come en los días de la Pascua. Porque Cristo, que es el Cordero de nuestra Pascua, fue muerto en sacrificio por nosotros.",
+					"number": 7,
+					"id": "2fe5589f-d0b5-4077-a390-c97f0ada73ef"
+				},
+				{
+					"verse": "Así que debemos celebrar nuestra Pascua con el pan sin levadura que es la sinceridad y la verdad, y no con la vieja levadura ni con la corrupción de la maldad y la perversidad.",
+					"number": 8,
+					"id": "5f8ee766-e882-4c26-9111-8030595a49d2"
+				},
+				{
+					"verse": "En mi otra carta les dije que no deben tener trato alguno con quienes se entregan a la prostitución.",
+					"number": 9,
+					"id": "190f7ab5-f246-44e6-8b01-190d3c34ff3a"
+				},
+				{
+					"verse": "Y con esto no quise decirles que se aparten por completo de todos los que en este mundo se entregan a la prostitución, o son avaros, o ladrones, o idólatras, pues para lograrlo tendrían ustedes que salirse del mundo.",
+					"number": 10,
+					"id": "477268ff-ebf8-4038-b062-2d90a7491709"
+				},
+				{
+					"verse": "Lo que quise decir es que no deben tener trato con ninguno que, llamándose hermano, se entregue a la prostitución, o sea avaro, o idólatra, o maldiciente, o borracho, o ladrón. Con gente así, ni siquiera comer juntos.",
+					"number": 11,
+					"id": "33c5a525-0078-44f3-9278-5a26cefb8224"
+				},
+				{
+					"verse": "No me toca a mí juzgar a los de fuera; Dios será quien los juzgue. Pero ustedes ya están juzgando a los de dentro. Por eso, quiten a ese pecador de en medio de ustedes.",
+					"number": 12,
+					"id": "ab80e083-da82-406a-b5ce-3c11f321e9be"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Cuando alguno de ustedes tiene un pleito con otro, ¿por qué va a pedir justicia a los jueces paganos, en vez de pedírsela a los del pueblo santo?",
+					"number": 1,
+					"study": "Litigios delante de los incrédulos",
+					"id": "1912f8e9-8011-4e78-9319-ec84f976f372"
+				},
+				{
+					"verse": "¿Acaso no saben ustedes que el pueblo santo ha de juzgar al mundo? Y si ustedes han de juzgar al mundo, ¿cómo no son capaces de juzgar estos asuntos tan pequeños?",
+					"number": 2,
+					"id": "b80d729d-8421-4dff-ade0-7852361186ca"
+				},
+				{
+					"verse": "¿No saben que incluso a los ángeles habremos de juzgarlos nosotros? ¡Pues con mayor razón los asuntos de esta vida!",
+					"number": 3,
+					"id": "f356e553-587f-4466-acba-d7a2742f9ff9"
+				},
+				{
+					"verse": "Así que, si ustedes tienen pleitos por asuntos de la vida diaria, ¿por qué ponen por jueces a los que nada significan para la iglesia?",
+					"number": 4,
+					"id": "24d175df-8dcf-4fa4-8a4b-f34e9f9a54ff"
+				},
+				{
+					"verse": "Digo esto para que les dé vergüenza: ¿Acaso no hay entre ustedes ninguno con capacidad suficiente para juzgar un asunto entre sus hermanos?",
+					"number": 5,
+					"id": "ec0acbd0-174e-4123-804e-6f253cb4b606"
+				},
+				{
+					"verse": "¡No sólo se pelean unos hermanos con otros, sino que llevan sus pleitos ante jueces paganos!",
+					"number": 6,
+					"id": "05aa383e-3dbb-43bf-b0d8-40fb4535b06c"
+				},
+				{
+					"verse": "Ya el simple hecho de tener pleitos entre ustedes mismos es un grave defecto. ¿Por qué no, mejor, soportar la injusticia? ¿Por qué no, mejor, dejar que les roben?",
+					"number": 7,
+					"id": "2b7e17bd-2052-4f51-a74a-f821bd74caf1"
+				},
+				{
+					"verse": "¡Pero ustedes, al contrario, cometen injusticias y roban hasta a sus propios hermanos!",
+					"number": 8,
+					"id": "f938e2b4-c64f-4004-bf1c-faa327d2702c"
+				},
+				{
+					"verse": "¿No saben ustedes que los que cometen injusticias no tendrán parte en el reino de Dios? No se dejen engañar, pues en el reino de Dios no tendrán parte los que se entregan a la prostitución, ni los idólatras, ni los que cometen adulterio, ni los afeminados, ni los homosexuales, ni los que roban, ni los avaros, ni los borrachos, ni los maldicientes, ni los ladrones.",
+					"number": 9,
+					"id": "eed86837-3c58-4aaa-a811-4a6339aed243"
+				},
+				{
+					"verse": "Y esto eran antes algunos de ustedes; pero ahora ya recibieron el baño de la purificación, fueron santificados y hechos justos en el nombre del Señor Jesucristo y por el Espíritu de nuestro Dios.",
+					"number": 10,
+					"id": "106ab285-4b01-478b-90cf-efe39537e63a"
+				},
+				{
+					"verse": "Se dice: «Yo soy libre de hacer lo que quiera.» Es cierto, pero no todo conviene. Sí, yo soy libre de hacer lo que quiera, pero no debo dejar que nada me domine.",
+					"number": 11,
+					"id": "51e96bed-2bfe-416a-90bf-15cef7125993"
+				},
+				{
+					"verse": "También se dice: «La comida es para el estómago, y el estómago para la comida.» Es cierto, pero Dios va a terminar con las dos cosas. En cambio, el cuerpo no es para la prostitución sino para el Señor, y el Señor es para el cuerpo.",
+					"number": 12,
+					"study": "Glorificad a Dios en vuestro cuerpo",
+					"id": "862db321-596f-4351-9042-b99120575c22"
+				},
+				{
+					"verse": "Y así como Dios resucitó al Señor, también nos va a resucitar a nosotros por su poder.",
+					"number": 13,
+					"id": "343fffd3-0503-4acb-8822-7e0d70daf9e6"
+				},
+				{
+					"verse": "¿Acaso no saben ustedes que su cuerpo es parte del cuerpo de Cristo? ¿Y habré de tomar yo esa parte del cuerpo de Cristo y hacerla parte del cuerpo de una prostituta? ¡Claro que no!",
+					"number": 14,
+					"id": "a47ae9b1-60e5-452e-98e2-3409261183e3"
+				},
+				{
+					"verse": "¿No saben ustedes que cuando un hombre se une con una prostituta, se hacen los dos un solo cuerpo? Pues la Escritura dice: «Los dos serán como una sola persona.»",
+					"number": 15,
+					"id": "8b0b9572-a296-43c7-81e8-1ce58ad3a770"
+				},
+				{
+					"verse": "Pero cuando alguien se une al Señor, se hace espiritualmente uno con él.",
+					"number": 16,
+					"id": "44691ea1-35f5-4cfd-88f2-6adad06b138a"
+				},
+				{
+					"verse": "Huyan, pues, de la prostitución. Cualquier otro pecado que una persona comete, no afecta a su cuerpo; pero el que se entrega a la prostitución, peca contra su propio cuerpo.",
+					"number": 17,
+					"id": "a80fd5c9-2f33-4561-a75a-bdbbc6e2d0e5"
+				},
+				{
+					"verse": "¿No saben ustedes que su cuerpo es templo del Espíritu Santo que Dios les ha dado, y que el Espíritu Santo vive en ustedes? Ustedes no son sus propios dueños,",
+					"number": 18,
+					"id": "f5879e9f-a3af-4a32-abbd-22384881ce39"
+				},
+				{
+					"verse": "porque Dios los ha comprado. Por eso deben honrar a Dios en el cuerpo.",
+					"number": 19,
+					"id": "a9b5f34b-aef5-4220-9fdf-6df04ceb0f7c"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Ahora paso a contestar las preguntas que ustedes me hicieron en su carta. Sería preferible no casarse;",
+					"number": 1,
+					"study": "Problemas del matrimonio",
+					"id": "442a6649-2d66-43ba-84b8-fc0b5c2fb2f0"
+				},
+				{
+					"verse": "pero, por el peligro de la prostitución, cada uno debe tener su propia esposa, y cada mujer su propio esposo.",
+					"number": 2,
+					"id": "cd94db1b-69e4-4504-b1b5-e1cca3cb293d"
+				},
+				{
+					"verse": "Y tanto el esposo como la esposa deben cumplir con los deberes propios del matrimonio.",
+					"number": 3,
+					"id": "1cd1ca9d-5d69-44f2-8bce-62b499f2b528"
+				},
+				{
+					"verse": "Ni la esposa es dueña de su propio cuerpo, puesto que pertenece a su esposo, ni el esposo es dueño de su propio cuerpo, puesto que pertenece a su esposa.",
+					"number": 4,
+					"id": "ac41ee6e-e9d3-4884-93e2-7ae1a6c959d5"
+				},
+				{
+					"verse": "Por lo tanto, no se nieguen el uno al otro, a no ser que se pongan de acuerdo en no juntarse por algún tiempo para dedicarse a la oración. Después deberán volver a juntarse; no sea que, por no poder dominarse, Satanás los haga pecar.",
+					"number": 5,
+					"id": "ce8e8522-2b70-4cd1-bdd4-e217692f20f6"
+				},
+				{
+					"verse": "Todo esto lo digo más como concesión que como mandamiento.",
+					"number": 6,
+					"id": "54bad858-264f-47c8-bcfc-30cd8eb72de3"
+				},
+				{
+					"verse": "Personalmente, quisiera que todos fueran como yo; pero Dios ha dado a cada uno diferentes dones, a unos de una clase y a otros de otra.",
+					"number": 7,
+					"id": "32dbde5c-4499-47d9-83f5-7fae7ee99704"
+				},
+				{
+					"verse": "A los solteros y a las viudas les digo que es preferible quedarse sin casar, como yo.",
+					"number": 8,
+					"id": "35b03d66-8b6a-4e20-b48d-05d0d46060bd"
+				},
+				{
+					"verse": "Pero si no pueden controlar su naturaleza, que se casen, pues más vale casarse que consumirse de pasión.",
+					"number": 9,
+					"id": "f46e6eec-1b75-4488-9cee-e7043863dbc0"
+				},
+				{
+					"verse": "Pero a los que ya están casados, les doy este mandato, que no es mío, sino del Señor: que la esposa no se separe de su esposo.",
+					"number": 10,
+					"id": "ee0b02c0-0cf6-4552-b69b-ed53c3a43b1f"
+				},
+				{
+					"verse": "Ahora bien, en caso de que la esposa se separe de su esposo, deberá quedarse sin casar o reconciliarse con él. De la misma manera, el esposo no debe divorciarse de su esposa.",
+					"number": 11,
+					"id": "18b7f1f7-20fe-470a-83ba-668d8099bfa7"
+				},
+				{
+					"verse": "En cuanto a los demás, les digo, como cosa mía y no del Señor, que si la mujer de algún hermano no es creyente pero está de acuerdo en seguir viviendo con él, el hermano no debe divorciarse de ella.",
+					"number": 12,
+					"id": "a808adc7-d18b-45ef-bc1c-c5d925fb62ab"
+				},
+				{
+					"verse": "Y si una mujer creyente está casada con un hombre no creyente que está de acuerdo en seguir viviendo con ella, no deberá divorciarse de él.",
+					"number": 13,
+					"id": "517fb2dc-e9be-4f03-a5b2-4bea9099654b"
+				},
+				{
+					"verse": "Pues el esposo no creyente queda santificado por su unión con una mujer creyente; y la mujer no creyente queda santificada por su unión con un esposo creyente. De otra manera, los hijos de ustedes serían impuros; pero, de hecho, pertenecen al pueblo santo.",
+					"number": 14,
+					"id": "c52412f3-41dc-4541-849e-8d910ea37026"
+				},
+				{
+					"verse": "Ahora bien, si el esposo o la esposa no creyentes insisten en separarse, que lo hagan. En estos casos, el hermano o la hermana quedan en libertad, porque Dios los ha llamado a ustedes a vivir en paz.",
+					"number": 15,
+					"id": "a743c153-d21e-4ffb-acb3-425c5237f00b"
+				},
+				{
+					"verse": "Pues ¿cómo sabes tú, esposa, si acaso puedes salvar a tu esposo? ¿O cómo sabes tú, esposo, si acaso puedes salvar a tu esposa?",
+					"number": 16,
+					"id": "1bf8e60a-4617-456e-bd50-db2e9eb758ba"
+				},
+				{
+					"verse": "Como quiera que sea, cada uno debe vivir según los dones que el Señor le ha dado, y tal como era cuando Dios lo llamó. Ésta es la norma que doy a todas las iglesias.",
+					"number": 17,
+					"id": "5836bc0e-fbee-4001-a68a-2273f4b722de"
+				},
+				{
+					"verse": "Si Dios llama a alguno que ha sido circuncidado, no trate de disimular su circuncisión; y si llama a uno que no ha sido circuncidado, no debe circuncidarse.",
+					"number": 18,
+					"id": "38dfe974-7278-4a82-99d5-6ccb7a04bcb4"
+				},
+				{
+					"verse": "Porque lo que importa no es estar o no estar circuncidado, sino obedecer los mandatos de Dios.",
+					"number": 19,
+					"id": "6a045d26-0a05-419a-8645-11f1514b5353"
+				},
+				{
+					"verse": "Cada uno debe quedarse en la condición en que estaba cuando Dios lo llamó.",
+					"number": 20,
+					"id": "ae7259cd-e3a1-433a-a91f-31f397d62c81"
+				},
+				{
+					"verse": "Si cuando fuiste llamado eras esclavo, no te preocupes; aunque si tienes oportunidad de conseguir tu libertad, debes aprovecharla.",
+					"number": 21,
+					"id": "bf8cad86-621c-4cd8-a0c3-38f781524b84"
+				},
+				{
+					"verse": "Pues el que era esclavo cuando fue llamado a la fe, ahora es un hombre libre al servicio del Señor; y, de la misma manera, el que era hombre libre cuando fue llamado, ahora es esclavo de Cristo.",
+					"number": 22,
+					"id": "ffac84ee-bdbf-4b22-b0d0-56fad1cf0b4f"
+				},
+				{
+					"verse": "Dios los ha comprado a ustedes; no permitan que otros hombres los hagan esclavos.",
+					"number": 23,
+					"id": "cc717e77-35d9-498c-ad94-dcd9ac089df2"
+				},
+				{
+					"verse": "Así pues, hermanos, que cada cual permanezca delante de Dios en la condición en que estaba cuando fue llamado.",
+					"number": 24,
+					"id": "9ff8b8e5-b555-4df5-bb4b-8404bb001257"
+				},
+				{
+					"verse": "En cuanto a las mujeres no casadas, no tengo ningún mandato especial del Señor; pero doy mi opinión, como uno que es digno de confianza por la misericordia del Señor.",
+					"number": 25,
+					"id": "afe8a445-5746-423a-a306-fcd4aff77d07"
+				},
+				{
+					"verse": "A mí me parece que es preferible que cada uno se quede tal como está, por causa de los tiempos difíciles en que vivimos.",
+					"number": 26,
+					"id": "334743a2-b608-4d47-9156-4274d3c24632"
+				},
+				{
+					"verse": "Si tienes mujer, no la abandones; y si no tienes, no la busques.",
+					"number": 27,
+					"id": "18a05451-d8d6-46c0-b464-e3fc71e5fae8"
+				},
+				{
+					"verse": "Si te casas, no cometes pecado; y si una mujer soltera se casa, tampoco comete pecado. Pero los que se casan van a tener los sufrimientos propios de la naturaleza humana, que yo quisiera evitarles.",
+					"number": 28,
+					"id": "512d15f2-befe-4612-9087-5bbe35419349"
+				},
+				{
+					"verse": "Hermanos, lo que quiero decir es esto: Nos queda poco tiempo. Por lo tanto, los casados deben vivir como si no lo estuvieran;",
+					"number": 29,
+					"id": "cb6b4782-4516-4311-ac62-16b7c46044c6"
+				},
+				{
+					"verse": "los que están de luto deben portarse como si estuvieran de fiesta, y los que están de fiesta deben portarse como si estuvieran de luto; los que compran deben vivir como si nada fuera suyo;",
+					"number": 30,
+					"id": "01668cb8-eb01-47b6-a37e-dda4eba51d05"
+				},
+				{
+					"verse": "y los que están usando de este mundo deben vivir como si no estuvieran sacando provecho de él, porque este mundo que vemos ha de terminar.",
+					"number": 31,
+					"id": "1e949707-43e3-4368-ad90-f921b84a00f6"
+				},
+				{
+					"verse": "Yo quisiera librarlos a ustedes de preocupaciones. El que está soltero se preocupa por las cosas del Señor, y por agradarle;",
+					"number": 32,
+					"id": "336e17e6-554b-4c62-b6be-21e53429b9d4"
+				},
+				{
+					"verse": "pero el que está casado se preocupa por las cosas del mundo y por agradar a su esposa,",
+					"number": 33,
+					"id": "ba195a1b-e402-457d-8fcc-53741ee703d1"
+				},
+				{
+					"verse": "y así está dividido. Igualmente, la mujer que ya no tiene esposo y la joven soltera se preocupan por las cosas del Señor, por ser santas tanto en el cuerpo como en el espíritu; pero la casada se preocupa por las cosas del mundo y por agradar a su esposo.",
+					"number": 34,
+					"id": "427f18b0-b87a-4ec3-adb6-8b490de4f006"
+				},
+				{
+					"verse": "Les digo esto, no para ponerles restricciones, sino en bien de ustedes y para que vivan de una manera digna, sirviendo al Señor sin distracciones.",
+					"number": 35,
+					"id": "a24de92d-835b-4255-8c74-9b18df5c72d1"
+				},
+				{
+					"verse": "Si alguno cree que debe casarse con su prometida, porque ya está en edad de casarse, y si piensa que eso es lo más indicado, que haga lo que crea conveniente; cásese, pues no es pecado.",
+					"number": 36,
+					"id": "aaf31708-5681-40b6-9301-c451800d294b"
+				},
+				{
+					"verse": "Y si otro, sin sentirse obligado, y con toda libertad para actuar como quiera, se hace en su corazón el propósito firme de no casarse, hará bien.",
+					"number": 37,
+					"id": "053bb687-930d-4e9e-b1ee-b816886690c0"
+				},
+				{
+					"verse": "Así que, si se casa con su prometida, hace bien; pero si no se casa, hace mejor.",
+					"number": 38,
+					"id": "ff796c1f-76ed-4b72-8e7e-6a237a596ebb"
+				},
+				{
+					"verse": "La mujer casada está ligada a su esposo mientras éste vive; pero si el esposo muere, ella queda libre para casarse con quien quiera, con tal de que sea un creyente.",
+					"number": 39,
+					"id": "ea3b865a-fe66-4594-9bea-85b1668a556a"
+				},
+				{
+					"verse": "Aunque creo que será más feliz si no vuelve a casarse. Ésta es mi opinión, y creo que yo también tengo el Espíritu de Dios.",
+					"number": 40,
+					"id": "8062fdbb-5cd8-4e9e-99ae-5c4b99cf5cbc"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Ahora paso al asunto de los alimentos ofrecidos en sacrificio a los ídolos. Es verdad lo que se dice: que todos tenemos el conocimiento de la verdad; pero el conocimiento hincha de orgullo, en tanto que el amor edifica la comunidad.",
+					"number": 1,
+					"study": "Lo sacrificado a los ídolos",
+					"id": "ec3cad32-f3bd-4b76-8567-44134c31a9b0"
+				},
+				{
+					"verse": "Si alguien cree que conoce algo, todavía no lo conoce como lo debe conocer.",
+					"number": 2,
+					"id": "830b21e1-f973-4685-abf8-157108e37d34"
+				},
+				{
+					"verse": "Pero si alguien ama a Dios, Dios lo conoce a él.",
+					"number": 3,
+					"id": "259d1885-3f17-4f7d-b5f5-d5900559f206"
+				},
+				{
+					"verse": "En cuanto a esto de comer alimentos ofrecidos en sacrificio a los ídolos, bien sabemos que un ídolo no tiene valor alguno en el mundo, y que solamente hay un Dios.",
+					"number": 4,
+					"id": "77413e1e-6765-4cbb-9e38-af3d87e160db"
+				},
+				{
+					"verse": "Pues aunque en el cielo y en la tierra existan esos llamados dioses (y en este sentido hay muchos dioses y muchos señores),",
+					"number": 5,
+					"id": "f86b1f91-66f3-4736-ab52-a6b399b1c6a6"
+				},
+				{
+					"verse": "para nosotros no hay más que un solo Dios, el Padre, en quien todo tiene su origen y para quien nosotros existimos. Y hay también un solo Señor, Jesucristo, por quien todas las cosas existen, incluso nosotros mismos.",
+					"number": 6,
+					"id": "9f195892-9c52-464e-9d0b-200de82b6669"
+				},
+				{
+					"verse": "Pero no todos conocen la verdad. Algunos que estaban acostumbrados a adorar ídolos, todavía comen de esos alimentos pensando que fueron ofrecidos a los dioses; y su conciencia, que es débil, los hace sentirse contaminados por el ídolo.",
+					"number": 7,
+					"id": "0e5871a0-6441-4329-8bfe-622421facd6f"
+				},
+				{
+					"verse": "Claro que el que Dios nos acepte no depende de lo que comamos; pues no vamos a ser mejores por comer, ni peores por no comer.",
+					"number": 8,
+					"id": "337faa9f-50a4-42dd-9de7-6d3a7710dcb1"
+				},
+				{
+					"verse": "Pero eviten que esa libertad que ustedes tienen haga caer en pecado a los que son débiles en su fe.",
+					"number": 9,
+					"id": "23b3aa67-5432-4566-ab0c-194222c8fee4"
+				},
+				{
+					"verse": "Porque si tú, que sabes estas cosas, te sientas a comer en un lugar dedicado a los ídolos, y algún hermano débil te ve, puede suceder que él se anime a comer de esa ofrenda hecha a un ídolo.",
+					"number": 10,
+					"id": "2ba94390-20c8-4420-b0a1-05488edd5863"
+				},
+				{
+					"verse": "Y así tú, por tu conocimiento, haces que se pierda tu hermano débil, por quien Cristo también murió.",
+					"number": 11,
+					"id": "cd3cbe66-6273-4b3d-8512-957b0724b2b1"
+				},
+				{
+					"verse": "Al ofender la conciencia de los hermanos débiles en la fe, ofenden ustedes a Cristo mismo.",
+					"number": 12,
+					"id": "7ca712e2-67ec-4cc9-8d9d-a9c1105de45a"
+				},
+				{
+					"verse": "Por eso, si por causa de mi comida hago caer en pecado a mi hermano, no debo comer carne nunca, para no ponerlo en peligro de pecar.",
+					"number": 13,
+					"id": "10c2cf6c-2a02-40f6-a867-d2568cd01952"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "No me negarán ustedes que yo tengo la libertad y los derechos de un apóstol, pues he visto a Jesús nuestro Señor, y ustedes mismos son el resultado de mi trabajo en la obra del Señor.",
+					"number": 1,
+					"study": "Los derechos de un apóstol",
+					"id": "02b88543-e4d9-4fdb-9b66-61d6e4675b21"
+				},
+				{
+					"verse": "Puede ser que para otros yo no sea apóstol; pero para ustedes sí lo soy, porque el hecho de que ustedes estén incorporados al Señor prueba que en verdad lo soy.",
+					"number": 2,
+					"id": "a996fe31-4bd1-45ae-a464-06dcb426377d"
+				},
+				{
+					"verse": "Ésta es mi respuesta a los que me critican:",
+					"number": 3,
+					"id": "594b5425-39a6-4739-bd7e-9e4f5dc9c973"
+				},
+				{
+					"verse": "Tenemos todo el derecho de recibir comida y bebida,",
+					"number": 4,
+					"id": "cdd8ae74-1aee-45df-a47d-d594913c9ed3"
+				},
+				{
+					"verse": "y también de llevar con nosotros una esposa cristiana, como hacen los otros apóstoles, y los hermanos del Señor, y Cefas.",
+					"number": 5,
+					"id": "4584979a-cb81-447a-b25b-a318e6f8ddb9"
+				},
+				{
+					"verse": "¿O acaso Bernabé y yo somos los únicos que no tenemos derecho a que la comunidad nos mantenga?",
+					"number": 6,
+					"id": "e24734f9-8743-44be-8a91-f3a6b1bd272d"
+				},
+				{
+					"verse": "¿Quién sirve como soldado pagándose sus propios gastos? ¿Quién cultiva un viñedo y no come de sus uvas? ¿Quién cuida las ovejas y no toma de la leche que ordeña?",
+					"number": 7,
+					"id": "8ccba822-a7ce-497d-99aa-80118c0de889"
+				},
+				{
+					"verse": "Y no vayan a creer que ésta es sólo una opinión humana, porque la ley de Moisés también lo dice.",
+					"number": 8,
+					"id": "e9b38007-da99-4aac-befb-2585f274e38e"
+				},
+				{
+					"verse": "Pues está escrito en el libro de la ley: «No le pongas bozal al buey que trilla.» Y esto no significa que Dios se preocupe de los bueyes,",
+					"number": 9,
+					"id": "67222260-98dd-4073-8d54-1a483b75b67f"
+				},
+				{
+					"verse": "sino que se preocupa de nosotros. Porque la ley se escribió por causa nuestra, pues tanto el que ara la tierra como el que trilla el grano deben hacerlo con la esperanza de recibir su parte de la cosecha.",
+					"number": 10,
+					"id": "292790a6-e790-4d32-88e0-6a805604b572"
+				},
+				{
+					"verse": "Así que, si nosotros hemos sembrado en ustedes una semilla espiritual, no es mucho pedir que cosechemos de ustedes algo de lo material.",
+					"number": 11,
+					"id": "7d69deb6-4c32-41a3-b98c-9de58412db4e"
+				},
+				{
+					"verse": "Si otros tienen este derecho sobre ustedes, con mayor razón nosotros.\nPero no hemos hecho uso de tal derecho, y hemos venido soportándolo todo por no estorbar el anuncio del evangelio de Cristo.",
+					"number": 12,
+					"id": "55a6f450-5e84-4368-aeec-1227e9c09369"
+				},
+				{
+					"verse": "Ustedes saben que quienes trabajan al servicio del templo, viven del templo. Es decir, que quienes atienden el altar donde se ofrecen los sacrificios, comen de la carne de los animales que allí se sacrifican.",
+					"number": 13,
+					"id": "323c7542-ee34-42c7-bc61-dca797f51ee1"
+				},
+				{
+					"verse": "De igual manera, el Señor ha dispuesto que quienes anuncian el evangelio vivan de ello mismo.",
+					"number": 14,
+					"id": "67ab9dd2-9cc3-473c-bb62-09d24d419f53"
+				},
+				{
+					"verse": "Pero yo nunca he utilizado ninguno de estos derechos, ni tampoco les escribo esto para que ustedes me den algo. Prefiero morir a hacerlo. ¡Nadie me quitará esta satisfacción que tengo!",
+					"number": 15,
+					"id": "55cf11aa-55b9-42e7-9d93-ac7346b04482"
+				},
+				{
+					"verse": "Para mí no es motivo de orgullo anunciar el evangelio, porque lo considero una obligación ineludible. ¡Y ay de mí si no lo anuncio!",
+					"number": 16,
+					"id": "b1b126f3-5db8-42ce-8537-36bbbd831459"
+				},
+				{
+					"verse": "Por eso, si lo hiciera por propia iniciativa, tendría derecho a una recompensa; pero si lo hago por obligación, es porque estoy cumpliendo un encargo que Dios me ha dado.",
+					"number": 17,
+					"id": "c368d0fd-782a-4a26-a0d8-43a308c2defa"
+				},
+				{
+					"verse": "En este caso, mi recompensa es la satisfacción de anunciar el evangelio sin cobrar nada; es decir, sin hacer valer mi derecho a vivir del anuncio del evangelio.",
+					"number": 18,
+					"id": "38333d3e-b36d-4244-b475-4e2b93228773"
+				},
+				{
+					"verse": "Aunque no soy esclavo de nadie, me he hecho esclavo de todos, a fin de ganar para Cristo el mayor número posible de personas.",
+					"number": 19,
+					"id": "dc50e476-8da7-45f9-b3f3-2e4c06f9455b"
+				},
+				{
+					"verse": "Cuando he estado entre los judíos me he vuelto como un judío, para ganarlos a ellos; es decir, que para ganar a los que viven bajo la ley de Moisés, yo mismo me he puesto bajo esa ley, aunque en realidad no estoy sujeto a ella.",
+					"number": 20,
+					"id": "d1656bd3-baef-4adb-a856-cab394ac5fe8"
+				},
+				{
+					"verse": "Por otra parte, para ganar a los que no viven bajo la ley de Moisés, me he vuelto como uno de ellos, aunque realmente estoy sujeto a la ley de Dios, ya que estoy bajo la ley de Cristo.",
+					"number": 21,
+					"id": "621ee2dc-85b2-44b3-8e58-63ab0672a6f6"
+				},
+				{
+					"verse": "Cuando he estado con los que son débiles en la fe, me he vuelto débil como uno de ellos, para ganarlos también. Es decir, me he hecho igual a todos, para de alguna manera poder salvar a algunos.",
+					"number": 22,
+					"id": "e488ce5c-f56a-455e-9a9c-e44ca5efe8ad"
+				},
+				{
+					"verse": "Todo lo hago por el evangelio, para tener parte en el mismo.",
+					"number": 23,
+					"id": "7c0e7ffb-ffb0-40f9-99f8-9fb113d05251"
+				},
+				{
+					"verse": "Ustedes saben que en una carrera todos corren, pero solamente uno recibe el premio. Pues bien, corran ustedes de tal modo que reciban el premio.",
+					"number": 24,
+					"id": "464ac032-d2bf-4e9e-b4a2-9d9306de75a7"
+				},
+				{
+					"verse": "Los que se preparan para competir en un deporte, evitan todo lo que pueda hacerles daño. Y esto lo hacen por alcanzar como premio una corona que en seguida se marchita; en cambio, nosotros luchamos por recibir un premio que no se marchita.",
+					"number": 25,
+					"id": "4bbabb11-8abe-417a-89ea-cf6e60e04d30"
+				},
+				{
+					"verse": "Yo, por mi parte, no corro a ciegas ni peleo como si estuviera dando golpes al aire.",
+					"number": 26,
+					"id": "3ae19981-63ef-4bbc-97cc-1803fc71d7e5"
+				},
+				{
+					"verse": "Al contrario, castigo mi cuerpo y lo obligo a obedecerme, para no quedar yo mismo descalificado después de haber enseñado a otros.",
+					"number": 27,
+					"id": "14fe3d3d-74e6-4334-8ee8-ab2133df84f3"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "No quiero, hermanos, que olviden que nuestros antepasados estuvieron todos bajo aquella nube, y que todos atravesaron el Mar Rojo.",
+					"number": 1,
+					"study": "Amonestaciones contra la idolatría",
+					"id": "bed216e3-a0a6-4482-a54c-42ed93648f24"
+				},
+				{
+					"verse": "De ese modo, todos ellos quedaron unidos a Moisés al ser bautizados en la nube y en el mar.",
+					"number": 2,
+					"id": "5694b9c6-80c5-4fc7-991f-a4a0add32928"
+				},
+				{
+					"verse": "Igualmente, todos ellos comieron el mismo alimento espiritual",
+					"number": 3,
+					"id": "93be39cb-fd65-4cf9-aa9d-e14b76e9bf88"
+				},
+				{
+					"verse": "y tomaron la misma bebida espiritual. Porque bebían agua de la roca espiritual que los acompañaba en su viaje, la cual era Cristo.",
+					"number": 4,
+					"id": "f2f0cb21-7497-4805-a498-7aa81f3d7bf5"
+				},
+				{
+					"verse": "Sin embargo, la mayoría de ellos no agradó a Dios, y por eso sus cuerpos quedaron tendidos en el desierto.",
+					"number": 5,
+					"id": "82dfa9d7-d685-4f3e-82c6-3381ca7ce1ab"
+				},
+				{
+					"verse": "Todo esto sucedió como un ejemplo para nosotros, para que no deseemos lo malo, como ellos lo desearon.",
+					"number": 6,
+					"id": "a8986e83-92f0-46dd-88f0-60bef2514b54"
+				},
+				{
+					"verse": "Por eso, no adoren ustedes ídolos, como algunos de ellos lo hicieron, según dice la Escritura: «La gente se sentó a comer y beber, y luego se levantó a divertirse.»",
+					"number": 7,
+					"id": "cf35c7f9-03a5-4ed5-9ff0-241d7f751e4b"
+				},
+				{
+					"verse": "No nos entreguemos a la prostitución, como lo hicieron algunos de ellos, por lo que en un solo día murieron veintitrés mil.",
+					"number": 8,
+					"id": "18ef9277-70b9-4b1e-a8b9-3a2c3f51925b"
+				},
+				{
+					"verse": "Tampoco pongamos a prueba a Cristo, como algunos de ellos lo hicieron, por lo que murieron mordidos por las serpientes.",
+					"number": 9,
+					"id": "33aab60a-013e-4543-9c86-cd144799688c"
+				},
+				{
+					"verse": "Ni murmuren contra Dios, como algunos de ellos murmuraron, por lo que el ángel de la muerte los mató.",
+					"number": 10,
+					"id": "62fda3a7-ed13-48f6-8ea3-8ad426e0d400"
+				},
+				{
+					"verse": "Todo esto les sucedió a nuestros antepasados como un ejemplo para nosotros, y fue puesto en las Escrituras como una advertencia para los que vivimos en estos tiempos últimos.",
+					"number": 11,
+					"id": "7f420ef3-5e7b-494b-b037-bdaacb6257c0"
+				},
+				{
+					"verse": "Así pues, el que cree estar firme, tenga cuidado de no caer.",
+					"number": 12,
+					"id": "9e3ab676-06ea-495d-9299-b516f9f21fa4"
+				},
+				{
+					"verse": "Ustedes no han pasado por ninguna prueba que no sea humanamente soportable. Y pueden ustedes confiar en Dios, que no los dejará sufrir pruebas más duras de lo que pueden soportar. Por el contrario, cuando llegue la prueba, Dios les dará también la manera de salir de ella, para que puedan soportarla.",
+					"number": 13,
+					"id": "71761633-2d53-4a71-9722-4a9fc6675b26"
+				},
+				{
+					"verse": "Por eso, mis queridos hermanos, huyan de la idolatría.",
+					"number": 14,
+					"id": "4ff35224-078f-4dac-a970-089387b5ed1e"
+				},
+				{
+					"verse": "Les hablo como a personas entendidas: juzguen ustedes mismos lo que les digo.",
+					"number": 15,
+					"id": "3da2d414-bbc4-483f-8008-9b4188d53b49"
+				},
+				{
+					"verse": "Cuando bebemos de la copa bendita por la cual bendecimos a Dios, participamos en común de la sangre de Cristo; cuando comemos del pan que partimos, participamos en común del cuerpo de Cristo.",
+					"number": 16,
+					"id": "02e76dac-87fc-49aa-a5e4-1dd968fc9731"
+				},
+				{
+					"verse": "Aunque somos muchos, todos comemos de un mismo pan, y por esto somos un solo cuerpo.",
+					"number": 17,
+					"id": "875b55aa-bed6-45a3-b7bf-1c8950d64089"
+				},
+				{
+					"verse": "Fíjense en el pueblo de Israel: los que comen de los animales ofrecidos en sacrificio, participan en común del servicio en el altar.",
+					"number": 18,
+					"id": "4d0a47b5-95da-4bf1-896f-de8b4064c59f"
+				},
+				{
+					"verse": "Con esto no quiero decir que el ídolo tenga valor alguno, ni que la carne ofrecida al ídolo sea algo más que otra carne cualquiera.",
+					"number": 19,
+					"id": "443ccc19-b847-4cde-ad6e-2aca8737a6d6"
+				},
+				{
+					"verse": "Lo que digo es que cuando los paganos ofrecen algo en sacrificio, se lo ofrecen a los demonios, y no a Dios, y yo no quiero que ustedes tengan nada en común con los demonios.",
+					"number": 20,
+					"id": "75631317-5a0b-4d4c-aaa6-93b939f083f0"
+				},
+				{
+					"verse": "No pueden beber de la copa del Señor y, a la vez, de la copa de los demonios; ni pueden participar de la mesa del Señor y, a la vez, de la mesa de los demonios.",
+					"number": 21,
+					"id": "aab8f8da-715a-470c-ab01-56353c9054fb"
+				},
+				{
+					"verse": "¿O acaso queremos poner celoso al Señor? ¿Somos acaso más fuertes que él?",
+					"number": 22,
+					"id": "69686f3f-304d-418e-9bb8-065bcda15199"
+				},
+				{
+					"verse": "Se dice: «Uno es libre de hacer lo que quiera.» Es cierto, pero no todo conviene. Sí, uno es libre de hacer lo que quiera, pero no todo edifica la comunidad.",
+					"number": 23,
+					"id": "5e299ddb-4f31-4ab4-843b-2873eca04cee"
+				},
+				{
+					"verse": "No hay que buscar el bien de uno mismo, sino el bien de los demás.",
+					"number": 24,
+					"id": "4d6b2d53-f602-4412-9a9c-5e091656968d"
+				},
+				{
+					"verse": "Coman ustedes de todo lo que se vende en la carnicería, sin preguntar nada por motivos de conciencia;",
+					"number": 25,
+					"id": "e2cc9c43-986c-4a62-b1f8-108269c50e71"
+				},
+				{
+					"verse": "porque el mundo entero, con todo lo que hay en él, es del Señor.",
+					"number": 26,
+					"id": "ad338da9-3edc-4dd9-9d07-8f6fe58d8f40"
+				},
+				{
+					"verse": "Si uno que no es creyente los invita a comer, y ustedes quieren ir, coman de todo lo que les sirvan, sin preguntar nada por motivos de conciencia.",
+					"number": 27,
+					"id": "df937cf6-6ef4-4094-939e-34efbbca843d"
+				},
+				{
+					"verse": "Ahora bien, si alguien les dice: «Esta carne fue ofrecida en sacrificio», entonces no la coman, en atención al que lo dijo y por motivos de conciencia.",
+					"number": 28,
+					"id": "ba329102-61cb-4d2c-9bbd-5e38cc129190"
+				},
+				{
+					"verse": "Estoy hablando de la conciencia del otro, no de la de ustedes.\nYo no debo hacer que mi libertad sea mal juzgada por la conciencia de otra persona.",
+					"number": 29,
+					"id": "6cf2fdd6-b47c-45a8-96ee-6a2901a95cf6"
+				},
+				{
+					"verse": "Si doy gracias a Dios por lo que como, no debo hacer que se hable mal de lo que para mí es motivo de dar gracias a Dios.",
+					"number": 30,
+					"id": "5e509c99-98f8-49f2-8911-240794435e88"
+				},
+				{
+					"verse": "En todo caso, lo mismo si comen, que si beben, que si hacen cualquier otra cosa, háganlo todo para la gloria de Dios.",
+					"number": 31,
+					"id": "a427aa1b-2f53-4ffe-8263-00de1ce35f2c"
+				},
+				{
+					"verse": "No den mal ejemplo a nadie; ni a los judíos, ni a los no judíos, ni a los que pertenecen a la iglesia de Dios.",
+					"number": 32,
+					"id": "5946ca59-06b5-4bf8-a114-c46c4daeec06"
+				},
+				{
+					"verse": "Yo, por mi parte, procuro agradar a todos en todo, sin buscar mi propio bien sino el de los demás, para que alcancen la salvación.",
+					"number": 33,
+					"id": "a9b178ae-d17d-460f-a84a-7a9d72bb13ff"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Sigan ustedes mi ejemplo, como yo sigo el ejemplo de Cristo.",
+					"number": 1,
+					"id": "2d8adc8d-7857-447f-89b0-12a9bf787f51"
+				},
+				{
+					"verse": "Los felicito porque siempre se acuerdan de mí y mantienen las tradiciones que les trasmití.",
+					"number": 2,
+					"study": "Atavío de las mujeres",
+					"id": "fd7bba1f-b03f-4f43-b28c-cf3a036dfbb8"
+				},
+				{
+					"verse": "Pero quiero que entiendan que Cristo es cabeza de cada hombre, y que el esposo es cabeza de su esposa, así como Dios es cabeza de Cristo.",
+					"number": 3,
+					"id": "1ee18073-b42d-471f-8f7d-e922adf9fc60"
+				},
+				{
+					"verse": "Si un hombre se cubre la cabeza cuando ora o cuando comunica mensajes proféticos, deshonra su cabeza.",
+					"number": 4,
+					"id": "bcb196cd-29c7-45dc-b36b-722ce4a995af"
+				},
+				{
+					"verse": "En cambio, si una mujer no se cubre la cabeza cuando ora o cuando comunica mensajes proféticos, deshonra su cabeza. Es igual que si se hubiera rapado.",
+					"number": 5,
+					"id": "c923d108-f131-4f03-8423-a93dbc762fa9"
+				},
+				{
+					"verse": "Porque si una mujer no se cubre la cabeza, más vale que se la rape de una vez. Pero si la mujer considera vergonzoso cortarse el cabello o raparse la cabeza, entonces que se la cubra.",
+					"number": 6,
+					"id": "45ec1767-a7c4-420e-ba51-8238cf8b264d"
+				},
+				{
+					"verse": "El hombre no debe cubrirse la cabeza, porque él es imagen de Dios y refleja la gloria de Dios. Pero la mujer refleja la gloria del hombre,",
+					"number": 7,
+					"id": "f091bf07-35d0-4f55-9d59-005ba38dc78b"
+				},
+				{
+					"verse": "pues el hombre no fue sacado de la mujer, sino la mujer del hombre.",
+					"number": 8,
+					"id": "7f77366c-a2e1-4fdf-b3ac-4a54ec718505"
+				},
+				{
+					"verse": "Y el hombre no fue creado por causa de la mujer, sino la mujer por causa del hombre.",
+					"number": 9,
+					"id": "9214ca45-d60c-469f-8359-bce42b1ea75e"
+				},
+				{
+					"verse": "Precisamente por esto, y por causa de los ángeles, la mujer debe llevar sobre la cabeza una señal de autoridad.",
+					"number": 10,
+					"id": "f4c43268-1054-44cd-879f-fb451007e189"
+				},
+				{
+					"verse": "Sin embargo, en la vida cristiana, ni el hombre existe sin la mujer, ni la mujer sin el hombre.",
+					"number": 11,
+					"id": "1576b5dc-74f7-4eb0-9316-c01e0374048e"
+				},
+				{
+					"verse": "Pues aunque es verdad que la mujer fue formada del hombre, también es cierto que el hombre nace de la mujer; y todo tiene su origen en Dios.",
+					"number": 12,
+					"id": "6450b620-0d8a-446d-bd02-3c27d9742d99"
+				},
+				{
+					"verse": "Ustedes mismos juzguen si está bien que la mujer ore a Dios sin cubrirse la cabeza.",
+					"number": 13,
+					"id": "d2a07b2e-5b39-4074-b98e-93e826c0aff8"
+				},
+				{
+					"verse": "La naturaleza misma nos enseña que es una vergüenza que el hombre se deje crecer el cabello;",
+					"number": 14,
+					"id": "516d5fdd-ed29-44dc-bc9f-a93b2bb50d39"
+				},
+				{
+					"verse": "en cambio, es una honra para la mujer dejárselo crecer; porque a ella se le ha dado el cabello largo para que le cubra la cabeza.",
+					"number": 15,
+					"id": "36a91faf-88b7-40ca-88d9-b84ded109893"
+				},
+				{
+					"verse": "En todo caso, si alguno quiere discutir este asunto, debe saber que ni nosotros ni las iglesias de Dios conocemos otra costumbre.",
+					"number": 16,
+					"id": "9f8ba915-2623-41c7-a184-2466d230ffe7"
+				},
+				{
+					"verse": "Al escribirles lo que sigue, no puedo felicitarlos, pues parece que sus reuniones les hacen daño en vez de hacerles bien.",
+					"number": 17,
+					"study": "Abusos en la Cena del Señor",
+					"id": "a7a957f3-9b08-4e0b-91c5-3e18e826cf37"
+				},
+				{
+					"verse": "En primer lugar, se me ha dicho que cuando la comunidad se reúne, hay divisiones entre ustedes; y en parte creo que esto es verdad.",
+					"number": 18,
+					"id": "615cd092-f3cf-49d7-9e6f-a4f6decec346"
+				},
+				{
+					"verse": "¡No cabe duda de que ustedes tienen que dividirse en partidos, para que se conozca el valor de cada uno!",
+					"number": 19,
+					"id": "f0151b2e-fd3b-4e49-9090-53aa3d155116"
+				},
+				{
+					"verse": "El resultado de esas divisiones es que la cena que ustedes toman en sus reuniones ya no es realmente la Cena del Señor.",
+					"number": 20,
+					"id": "a4e38a52-ee57-4be4-8db4-dad018529f0c"
+				},
+				{
+					"verse": "Porque a la hora de comer, cada uno se adelanta a tomar su propia cena; y mientras unos se quedan con hambre, otros hasta se emborrachan.",
+					"number": 21,
+					"id": "e5ed961b-8ab6-45c9-8019-43e42238ddf1"
+				},
+				{
+					"verse": "¿No tienen ustedes casas donde comer y beber? ¿Por qué menosprecian la iglesia de Dios y ponen en vergüenza a los que no tienen nada? ¿Qué les voy a decir? ¿Que los felicito? ¡No en cuanto a esto!",
+					"number": 22,
+					"id": "5a3c9511-0545-4f93-b21a-f8f2e0d3a2d4"
+				},
+				{
+					"verse": "Porque yo recibí esta tradición dejada por el Señor, y que yo a mi vez les transmití: Que la misma noche que el Señor Jesús fue traicionado, tomó en sus manos pan",
+					"number": 23,
+					"study": "Institución de la Cena del Señor",
+					"id": "a556d5aa-86bc-44f6-87c6-621bda7f637f"
+				},
+				{
+					"verse": "y, después de dar gracias a Dios, lo partió y dijo: «Esto es mi cuerpo, que muere en favor de ustedes. Hagan esto en memoria de mí.»",
+					"number": 24,
+					"id": "3ab7d8bb-7c65-4c94-8093-86cb8f9c0cca"
+				},
+				{
+					"verse": "Así también, después de la cena, tomó en sus manos la copa y dijo: «Esta copa es la nueva alianza confirmada con mi sangre. Cada vez que beban, háganlo en memoria de mí.»",
+					"number": 25,
+					"id": "92927848-0866-4ff9-bd6e-697481a67cbb"
+				},
+				{
+					"verse": "De manera que, hasta que venga el Señor, ustedes proclaman su muerte cada vez que comen de este pan y beben de esta copa.",
+					"number": 26,
+					"id": "70c1562e-ed6b-42f2-8c62-738c8a145c62"
+				},
+				{
+					"verse": "Así pues, cualquiera que come del pan o bebe de la copa del Señor de manera indigna, comete un pecado contra el cuerpo y la sangre del Señor.",
+					"number": 27,
+					"study": "Tomando la Cena del Señor indignamente",
+					"id": "d35c4d50-63af-484b-9667-71b7fa226041"
+				},
+				{
+					"verse": "Por tanto, cada uno debe examinar su propia conciencia antes de comer del pan y beber de la copa.",
+					"number": 28,
+					"id": "ab834fcf-ff14-467d-a065-00133ee1fd46"
+				},
+				{
+					"verse": "Porque si come y bebe sin fijarse en que se trata del cuerpo del Señor, para su propio castigo come y bebe.",
+					"number": 29,
+					"id": "162fd788-55c7-40d3-859a-17336e74f171"
+				},
+				{
+					"verse": "Por eso, muchos de ustedes están enfermos y débiles, y también algunos han muerto.",
+					"number": 30,
+					"id": "c2e41829-b0c8-4707-aa1e-96460b3a2e15"
+				},
+				{
+					"verse": "Si nos examináramos bien a nosotros mismos, el Señor no tendría que castigarnos,",
+					"number": 31,
+					"id": "0e69865c-3bb1-4675-9c4a-3778f710bf52"
+				},
+				{
+					"verse": "aunque si el Señor nos castiga es para que aprendamos y no seamos condenados con los que son del mundo.",
+					"number": 32,
+					"id": "20d85172-a06a-4197-a01f-c11eb98fa6dd"
+				},
+				{
+					"verse": "Así que, hermanos míos, cuando se reúnan para comer, espérense unos a otros.",
+					"number": 33,
+					"id": "c05c8d9c-81e0-4bec-8718-b062101e3620"
+				},
+				{
+					"verse": "Y si alguno tiene hambre, que coma en su propia casa, para que Dios no tenga que castigarlos por esa clase de reuniones. Los otros asuntos los arreglaré cuando vaya a verlos.",
+					"number": 34,
+					"id": "ddf9fb89-4869-4f40-942b-db45cac48855"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Hermanos, quiero que ustedes sepan algo respecto a los dones espirituales.",
+					"number": 1,
+					"study": "Dones espirituales",
+					"id": "461ffda2-ff85-4b7f-935f-601c43e73946"
+				},
+				{
+					"verse": "Ustedes saben que cuando todavía no eran creyentes se dejaban arrastrar ciegamente tras los ídolos mudos.",
+					"number": 2,
+					"id": "f27b1654-686d-4b0d-b6b5-a7256f7bd528"
+				},
+				{
+					"verse": "Por eso, ahora quiero que sepan que nadie puede decir: «¡Maldito sea Jesús!», si está hablando por el poder del Espíritu de Dios. Y tampoco puede decir nadie: «¡Jesús es Señor!», si no está hablando por el poder del Espíritu Santo.",
+					"number": 3,
+					"id": "37a496a9-8cb8-4f78-b0bf-930b7fe2a496"
+				},
+				{
+					"verse": "Hay en la iglesia diferentes dones, pero el que los concede es un mismo Espíritu.",
+					"number": 4,
+					"id": "ef690066-0b31-499c-9bc1-2bdd24135868"
+				},
+				{
+					"verse": "Hay diferentes maneras de servir, pero todas por encargo de un mismo Señor.",
+					"number": 5,
+					"id": "a611a6e6-a690-4c68-9cd0-7acb4b4bb906"
+				},
+				{
+					"verse": "Y hay diferentes manifestaciones de poder, pero es un mismo Dios, que, con su poder, lo hace todo en todos.",
+					"number": 6,
+					"id": "6f624161-8f9a-4746-b964-c317da353edd"
+				},
+				{
+					"verse": "Dios da a cada uno alguna prueba de la presencia del Espíritu, para provecho de todos.",
+					"number": 7,
+					"id": "7ad51d9c-fe71-4c99-82de-aaf8ed6a3d43"
+				},
+				{
+					"verse": "Por medio del Espíritu, a unos les concede que hablen con sabiduría; y a otros, por el mismo Espíritu, les concede que hablen con profundo conocimiento.",
+					"number": 8,
+					"id": "b6277d38-eacf-40b7-896a-16e59248e18a"
+				},
+				{
+					"verse": "Unos reciben fe por medio del mismo Espíritu, y otros reciben el don de curar enfermos.",
+					"number": 9,
+					"id": "7c921be3-16c4-4173-ac94-907078b7696b"
+				},
+				{
+					"verse": "Unos reciben poder para hacer milagros, y otros tienen el don de profecía. A unos, Dios les da la capacidad de distinguir entre los espíritus falsos y el Espíritu verdadero, y a otros la capacidad de hablar en lenguas; y todavía a otros les da la capacidad de interpretar lo que se ha dicho en esas lenguas.",
+					"number": 10,
+					"id": "b49e7526-06bf-490a-91a5-61c3e3a27b0f"
+				},
+				{
+					"verse": "Pero todas estas cosas las hace con su poder el único y mismo Espíritu, dando a cada persona lo que a él mejor le parece.",
+					"number": 11,
+					"id": "1156084b-7a33-457d-8bfd-e55c23a8153b"
+				},
+				{
+					"verse": "El cuerpo humano, aunque está formado por muchos miembros, es un solo cuerpo. Así también Cristo.",
+					"number": 12,
+					"id": "7c6d0dd8-4fad-4fff-a15b-b030972b6f58"
+				},
+				{
+					"verse": "Y de la misma manera, todos nosotros, judíos o no judíos, esclavos o libres, fuimos bautizados para formar un solo cuerpo por medio de un solo Espíritu; y a todos se nos dio a beber de ese mismo Espíritu.",
+					"number": 13,
+					"id": "89ec873a-566d-40a1-a5a1-9212f571ebb3"
+				},
+				{
+					"verse": "Un cuerpo no se compone de un solo miembro, sino de muchos.",
+					"number": 14,
+					"id": "4d2436fb-c5e4-406f-8c0f-1c7dd1cb16d9"
+				},
+				{
+					"verse": "Si el pie dijera: «Como no soy mano, no soy del cuerpo», no por eso dejaría de ser del cuerpo.",
+					"number": 15,
+					"id": "a94fd7ad-f81f-41e5-849a-36d861fb9cc7"
+				},
+				{
+					"verse": "Y si la oreja dijera: «Como no soy ojo, no soy del cuerpo», no por eso dejaría de ser del cuerpo.",
+					"number": 16,
+					"id": "1eecd8aa-e9a8-4ba6-aab2-9813dd429234"
+				},
+				{
+					"verse": "Si todo el cuerpo fuera ojo, no podríamos oír. Y si todo el cuerpo fuera oído, no podríamos oler.",
+					"number": 17,
+					"id": "b34752f1-2cfb-4529-ad33-ebf27ba88692"
+				},
+				{
+					"verse": "Pero Dios ha puesto cada miembro del cuerpo en el sitio que mejor le pareció.",
+					"number": 18,
+					"id": "5939fea1-e16c-4b92-8e69-fa30ff3d1acd"
+				},
+				{
+					"verse": "Si todo fuera un solo miembro, no habría cuerpo.",
+					"number": 19,
+					"id": "11ca815a-3051-4efc-88d7-5f383d7e5640"
+				},
+				{
+					"verse": "Lo cierto es que, aunque son muchos los miembros, el cuerpo sólo es uno.",
+					"number": 20,
+					"id": "ac64d4ba-37d0-4366-9b01-1e72e21f94db"
+				},
+				{
+					"verse": "El ojo no puede decirle a la mano: «No te necesito»; ni la cabeza puede decirles a los pies: «No los necesito.»",
+					"number": 21,
+					"id": "2c828141-4ecc-4c14-bf2d-8ddf68b6b338"
+				},
+				{
+					"verse": "Al contrario, los miembros del cuerpo que parecen más débiles, son los que más se necesitan;",
+					"number": 22,
+					"id": "b8085e75-f239-4168-8f02-59185fcbcade"
+				},
+				{
+					"verse": "y los miembros del cuerpo que menos estimamos, son los que vestimos con más cuidado. Y los miembros que consideramos menos presentables, son los que tratamos con más modestia,",
+					"number": 23,
+					"id": "81aaa29f-c419-4d7a-9ad6-bbe21983c6f3"
+				},
+				{
+					"verse": "lo cual no es necesario hacer con los miembros más presentables. Dios arregló el cuerpo de tal manera que los miembros menos estimados reciban más honor,",
+					"number": 24,
+					"id": "681ad453-6308-4bb0-834f-542330c991ee"
+				},
+				{
+					"verse": "para que no haya desunión en el cuerpo, sino que cada miembro del cuerpo se preocupe por los otros.",
+					"number": 25,
+					"id": "a9bf41d8-e363-4fc5-84c6-c12e9883185a"
+				},
+				{
+					"verse": "Si un miembro del cuerpo sufre, todos los demás sufren también; y si un miembro recibe atención especial, todos los demás comparten su alegría.",
+					"number": 26,
+					"id": "592f85b3-b690-4820-9dbe-0694ea4f5c63"
+				},
+				{
+					"verse": "Pues bien, ustedes son el cuerpo de Cristo, y cada uno de ustedes es un miembro con su función particular.",
+					"number": 27,
+					"id": "1a881f13-2b22-40c9-9866-b578f1bc063e"
+				},
+				{
+					"verse": "Dios ha querido que en la iglesia haya, en primer lugar, apóstoles; en segundo lugar, profetas; en tercer lugar, maestros; luego personas que hacen milagros, y otras que curan enfermos, o que ayudan, o que dirigen, o que hablan en lenguas.",
+					"number": 28,
+					"id": "22761613-6138-4af5-9c9e-386ce6ba35a2"
+				},
+				{
+					"verse": "No todos son apóstoles, ni todos son profetas. No todos son maestros, ni todos hacen milagros,",
+					"number": 29,
+					"id": "70f41c88-948c-4897-b27a-4733a3c89303"
+				},
+				{
+					"verse": "ni todos tienen poder para curar enfermos. Tampoco todos hablan en lenguas, ni todos saben interpretarlas.",
+					"number": 30,
+					"id": "633b7dc7-1a80-48ce-ac9e-4e6bd1d2d683"
+				},
+				{
+					"verse": "Ustedes deben ambicionar los mejores dones.\nYo voy a enseñarles un camino mucho mejor.",
+					"number": 31,
+					"id": "37807469-2e5f-41ba-8ad2-40c7d882422d"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Si hablo las lenguas de los hombres y aun de los ángeles, pero no tengo amor, no soy más que un metal que resuena o un platillo que hace ruido.",
+					"number": 1,
+					"study": "La preeminencia del amor",
+					"id": "4ce9b6c0-be19-405b-82de-ca7416ced8e8"
+				},
+				{
+					"verse": "Y si tengo el don de profecía, y entiendo todos los designios secretos de Dios, y sé todas las cosas, y si tengo la fe necesaria para mover montañas, pero no tengo amor, no soy nada.",
+					"number": 2,
+					"id": "dcc59de1-e9ed-44a5-ad50-2c1a0286067d"
+				},
+				{
+					"verse": "Y si reparto entre los pobres todo lo que poseo, y aun si entrego mi propio cuerpo para tener de qué enorgullecerme, pero no tengo amor, de nada me sirve.",
+					"number": 3,
+					"id": "ec761221-d80b-41fb-a526-52605f916ac1"
+				},
+				{
+					"verse": "Tener amor es saber soportar; es ser bondadoso; es no tener envidia, ni ser presumido, ni orgulloso,",
+					"number": 4,
+					"id": "f60a785f-92b2-44aa-8226-59fadd86977b"
+				},
+				{
+					"verse": "ni grosero, ni egoísta; es no enojarse ni guardar rencor;",
+					"number": 5,
+					"id": "cd97d922-2fad-47ca-9e96-fa665e9b7fd7"
+				},
+				{
+					"verse": "es no alegrarse de las injusticias, sino de la verdad.",
+					"number": 6,
+					"id": "72c7be0a-d9f1-4f62-9f3e-b3aff9c2ffa3"
+				},
+				{
+					"verse": "Tener amor es sufrirlo todo, creerlo todo, esperarlo todo, soportarlo todo.",
+					"number": 7,
+					"id": "89956050-550e-494d-837f-e062fc983e69"
+				},
+				{
+					"verse": "El amor jamás dejará de existir. Un día el don de profecía terminará, y ya no se hablará en lenguas, ni serán necesarios los conocimientos.",
+					"number": 8,
+					"id": "0c225d3f-fa7a-4846-84b1-da43a2df0f39"
+				},
+				{
+					"verse": "Porque los conocimientos y la profecía son cosas imperfectas,",
+					"number": 9,
+					"id": "eebabd9e-ff56-4175-a6be-87c4e5ddfcd0"
+				},
+				{
+					"verse": "que llegarán a su fin cuando venga lo que es perfecto.",
+					"number": 10,
+					"id": "ff8ec760-251d-4add-aff0-c2ed132cc5b6"
+				},
+				{
+					"verse": "Cuando yo era niño, hablaba, pensaba y razonaba como un niño; pero al hacerme hombre, dejé atrás lo que era propio de un niño.",
+					"number": 11,
+					"id": "f7ec5b88-dc62-4e9a-9cd1-5275b0a924ca"
+				},
+				{
+					"verse": "Ahora vemos de manera indirecta, como en un espejo, y borrosamente; pero un día veremos cara a cara. Mi conocimiento es ahora imperfecto, pero un día conoceré a Dios como él me ha conocido siempre a mí.",
+					"number": 12,
+					"id": "67a23bd9-c08f-4dd2-aa00-16a51b30cba7"
+				},
+				{
+					"verse": "Tres cosas hay que son permanentes: la fe, la esperanza y el amor; pero la más importante de las tres es el amor.",
+					"number": 13,
+					"id": "329b98b3-a282-47a3-81f0-0fe1479f40e6"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "Procuren, pues, tener amor, y al mismo tiempo aspiren a que Dios les dé dones espirituales, especialmente el de profecía.",
+					"number": 1,
+					"study": "El hablar en lenguas",
+					"id": "1be52707-1152-4532-ae85-0a2ad4eb511c"
+				},
+				{
+					"verse": "Aquel que habla en lenguas extrañas, habla a Dios y no a seres humanos, pues nadie lo entiende. En su espíritu dice cosas secretas, pero nadie las entiende.",
+					"number": 2,
+					"id": "2ff19191-56b4-4c4f-9a33-5c88d7548ddc"
+				},
+				{
+					"verse": "En cambio, el que comunica mensajes proféticos, lo hace para edificación de la comunidad, y la anima y consuela.",
+					"number": 3,
+					"id": "58360348-ff36-45cb-80eb-b24b5ccfdc8e"
+				},
+				{
+					"verse": "El que habla en una lengua extraña, lo hace para su propio bien; pero el que comunica mensajes proféticos, edifica a la iglesia.",
+					"number": 4,
+					"id": "2124e8cd-1374-4e76-818f-a9fc197e600b"
+				},
+				{
+					"verse": "Yo quisiera que todos ustedes hablaran en lenguas extrañas; pero preferiría que comunicaran mensajes proféticos; esto es mejor que hablar en lenguas, a menos que se interprete su significado de tal manera que sirva para edificación de la iglesia.",
+					"number": 5,
+					"id": "06293586-d450-442f-b354-145b95a8064a"
+				},
+				{
+					"verse": "Por ejemplo, hermanos, no les servirá de nada que yo los visite y les hable en lenguas extrañas, en vez de hablarles de lo que Dios nos manifiesta, o del conocimiento de la verdad, o en vez de comunicarles algún mensaje profético o alguna enseñanza.",
+					"number": 6,
+					"id": "61c164b1-fb0d-4800-a9e1-c76795ffcd8a"
+				},
+				{
+					"verse": "Si los instrumentos musicales, como la flauta o el arpa, no tuvieran diferente sonido, no podría distinguirse qué música produce cada uno.",
+					"number": 7,
+					"id": "5a7c49ee-afe7-4f76-bf39-2784ded4805e"
+				},
+				{
+					"verse": "Y si, en la guerra, la trompeta no diera sus toques con claridad, nadie se prepararía para la batalla.",
+					"number": 8,
+					"id": "b0acfc09-d876-481c-9af9-dd32354fc34e"
+				},
+				{
+					"verse": "Lo mismo sucede con ustedes: si no usan su lengua para pronunciar palabras que se puedan entender, ¿cómo va a saberse lo que están diciendo? ¡Le estarán hablando al aire!",
+					"number": 9,
+					"id": "073542a5-eabf-4429-b584-36300fc082d4"
+				},
+				{
+					"verse": "Sin duda hay muchos idiomas en el mundo, y todos se valen del sonido.",
+					"number": 10,
+					"id": "90c65ab9-e8c9-4036-9c13-35a8abd17bf7"
+				},
+				{
+					"verse": "Pero si yo no conozco el significado de los sonidos, seré un extranjero para el que me habla, y él será un extranjero para mí.",
+					"number": 11,
+					"id": "646490b1-060c-453d-8920-246b6960a307"
+				},
+				{
+					"verse": "Por eso, ya que ustedes ambicionan poseer dones espirituales, procuren tener en abundancia aquellos que ayudan a la edificación de la iglesia.",
+					"number": 12,
+					"id": "89b6b9d8-e3c1-49f4-bdb4-207c56d2afe3"
+				},
+				{
+					"verse": "Por lo tanto, el que habla en lengua extraña, pídale a Dios que le conceda el poder de interpretarla.",
+					"number": 13,
+					"id": "cd46e892-7c0a-4e29-b260-004f14242505"
+				},
+				{
+					"verse": "Pues si yo oro en una lengua extraña, es verdad que estoy orando con mi espíritu, pero mi entendimiento permanece estéril.",
+					"number": 14,
+					"id": "b0ae7ff3-c755-4547-91ef-ba31f0e057b2"
+				},
+				{
+					"verse": "¿Qué debo hacer entonces? Pues debo orar con el espíritu, pero también con el entendimiento. Debo cantar con el espíritu, pero también con el entendimiento.",
+					"number": 15,
+					"id": "7f1470fb-71b5-46d0-8051-61ea87657ece"
+				},
+				{
+					"verse": "Porque si tú alabas a Dios solamente con el espíritu, y una persona común y corriente te escucha, no podrá unirse a ti en tu acción de gracias, pues no entenderá lo que dices.",
+					"number": 16,
+					"id": "802c269d-9216-4af7-a4f3-630bee5579f3"
+				},
+				{
+					"verse": "Tu acción de gracias podrá ser muy buena, pero no será útil para el otro.",
+					"number": 17,
+					"id": "06ef747b-30ba-4954-950d-e5d4db47e89a"
+				},
+				{
+					"verse": "Doy gracias a Dios porque hablo en lenguas extrañas más que todos ustedes;",
+					"number": 18,
+					"id": "7ad75253-f6e9-4a6e-b5e5-e828c74f31ac"
+				},
+				{
+					"verse": "pero en la iglesia prefiero decir cinco palabras que se entiendan, para enseñar así a otros, que decir diez mil palabras en lengua extraña.",
+					"number": 19,
+					"id": "4a5a8a7d-fc28-4077-a912-3e6dca96a6fc"
+				},
+				{
+					"verse": "Hermanos, no piensen ustedes como niños. Sean como niños para lo malo; pero sean adultos en su modo de pensar.",
+					"number": 20,
+					"id": "2890bf37-d4c9-44ed-8ceb-82a8685e2981"
+				},
+				{
+					"verse": "En la Escritura se dice: «Hablaré a esta nación en lenguas extrañas y por boca de extranjeros, pero ni aun así me harán caso, dice el Señor.»",
+					"number": 21,
+					"id": "bb9ed3c6-ae0d-4714-b592-04061f733025"
+				},
+				{
+					"verse": "Así que el hablar en lenguas es una señal para los que no son creyentes, no para los que tienen fe. Pero el comunicar mensajes proféticos es una señal para los que tienen fe, no para los que no son creyentes.",
+					"number": 22,
+					"id": "d2fa7a15-265a-4f88-a9ec-d5354b7f9e58"
+				},
+				{
+					"verse": "Porque cuando la iglesia se encuentra reunida, si todos están hablando en lenguas, y entra una persona común y corriente o un no creyente, creerá que ustedes se han vuelto locos.",
+					"number": 23,
+					"id": "a23ac10b-6f4b-45b9-ab63-27b033c9b10b"
+				},
+				{
+					"verse": "En cambio, si todos comunican mensajes proféticos, y entra un no creyente o una persona común y corriente, él mismo quedará convencido y se examinará al oír lo que todos están diciendo.",
+					"number": 24,
+					"id": "7a1e80db-a598-4bc1-9f0d-10aa5d94ca2c"
+				},
+				{
+					"verse": "Así quedará al descubierto lo más profundo de su corazón, y adorará de rodillas a Dios, y reconocerá que Dios está verdaderamente entre ustedes.",
+					"number": 25,
+					"id": "1ae9310b-e1a6-4fe9-8374-1a4ce68d8489"
+				},
+				{
+					"verse": "En resumen, hermanos, cuando ustedes se reúnan, unos pueden cantar salmos, otros pueden enseñar, o comunicar lo que Dios les haya revelado, o hablar en lenguas extrañas, o interpretarlas. Pero que todo sea para edificación mutua.",
+					"number": 26,
+					"id": "92ed77ad-a16a-4932-bb12-ced99ebf10a8"
+				},
+				{
+					"verse": "Y cuando se hable en lenguas extrañas, que lo hagan dos personas, o tres cuando más, y por turno; además, alguien debe interpretar esas lenguas.",
+					"number": 27,
+					"id": "e8c38234-a14e-464c-88d5-3c8742ceaa7a"
+				},
+				{
+					"verse": "Pero si no hay nadie que pueda interpretarlas, que éstos no hablen en lenguas delante de toda la comunidad, sino en privado y para Dios.",
+					"number": 28,
+					"id": "1a1b2849-8a77-400d-8af7-1debce953246"
+				},
+				{
+					"verse": "Igualmente, si hay profetas, que hablen dos o tres, y que los otros examinen lo que se haya dicho.",
+					"number": 29,
+					"id": "15609461-f336-4f75-a37c-2f5258757e2c"
+				},
+				{
+					"verse": "Pero si Dios le revela algo a otra persona que está allí sentada, entonces el primero debe dejar de hablar.",
+					"number": 30,
+					"id": "9e8b0377-4215-4421-9e59-0d8fe64fbde7"
+				},
+				{
+					"verse": "De esta manera todos, cada uno en su turno correspondiente, podrán comunicar mensajes proféticos, para que todos aprendan y se animen.",
+					"number": 31,
+					"id": "7744a483-293d-46ca-bf71-ab78aa9e36e6"
+				},
+				{
+					"verse": "El don de profecía debe estar bajo el control del profeta,",
+					"number": 32,
+					"id": "e67263d7-ff2a-4d43-aa8a-99064679250d"
+				},
+				{
+					"verse": "porque Dios es Dios de paz y no de confusión.\nSiguiendo la práctica general de las comunidades cristianas,",
+					"number": 33,
+					"id": "afdc630c-04f9-4743-81e0-3cdb7b4b7012"
+				},
+				{
+					"verse": "las mujeres deben guardar silencio en las reuniones de la iglesia, porque no les está permitido hablar. Deben estar sometidas a sus esposos, como manda la ley.",
+					"number": 34,
+					"id": "90a4ff71-5da6-4c9a-bbab-de723da1f780"
+				},
+				{
+					"verse": "Si quieren saber algo, pregúntenlo a sus esposos en casa; porque no está bien que una mujer hable en las reuniones de la iglesia.",
+					"number": 35,
+					"id": "aa11f349-5fab-40cd-8dd2-e6788b0278ec"
+				},
+				{
+					"verse": "Tengan presente que la palabra de Dios no comenzó en ustedes, ni ustedes son los únicos que la han recibido.",
+					"number": 36,
+					"id": "0183d18d-b441-48aa-bf85-8ea0260a99d4"
+				},
+				{
+					"verse": "Si alguien se cree profeta, o cree estar inspirado por el Espíritu, reconocerá que esto que les estoy escribiendo es un mandato del Señor.",
+					"number": 37,
+					"id": "7c36b98a-de69-4f55-84b8-db9218a0149f"
+				},
+				{
+					"verse": "Y si no lo reconoce, el Señor tampoco lo reconoce a él.",
+					"number": 38,
+					"id": "78af32f2-d424-4fd5-934f-f79fcf4112ed"
+				},
+				{
+					"verse": "Así pues, hermanos míos, aspiren al don de profecía, y no prohíban que se hable en lenguas;",
+					"number": 39,
+					"id": "7e5d01c6-6d09-4e25-bc86-13d32b4a657f"
+				},
+				{
+					"verse": "pero háganlo todo decentemente y con orden.",
+					"number": 40,
+					"id": "cac8ca6c-889b-4be5-8afa-c505655e9512"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "Ahora, hermanos, quiero que se acuerden del evangelio que les he predicado. Éste es el evangelio que ustedes aceptaron, y en el cual están firmes.",
+					"number": 1,
+					"study": "La resurrección de los muertos",
+					"id": "ed6e6d2c-8f7e-474d-b51d-6cb723163a7f"
+				},
+				{
+					"verse": "También por medio de este evangelio se salvarán, si se mantienen firmes en él, tal como yo se lo anuncié; de lo contrario, habrán creído en vano.",
+					"number": 2,
+					"id": "7740b138-901e-40e0-9f8d-5a380a8bd332"
+				},
+				{
+					"verse": "En primer lugar les he enseñado la misma tradición que yo recibí, a saber, que Cristo murió por nuestros pecados, según las Escrituras;",
+					"number": 3,
+					"id": "a15fb8a4-eda3-452a-8385-557c3d9f75d2"
+				},
+				{
+					"verse": "que lo sepultaron y que resucitó al tercer día, también según las Escrituras;",
+					"number": 4,
+					"id": "e77a5fd8-5cfe-4951-a7a5-75c78769b27f"
+				},
+				{
+					"verse": "y que se apareció a Cefas, y luego a los doce.",
+					"number": 5,
+					"id": "e544d647-b547-4992-8ba5-01c57f3a2ab3"
+				},
+				{
+					"verse": "Después se apareció a más de quinientos hermanos a la vez, la mayoría de los cuales vive todavía, aunque algunos ya han muerto.",
+					"number": 6,
+					"id": "a077bac9-7df4-492f-928b-b7d1d3a61722"
+				},
+				{
+					"verse": "Después se apareció a Santiago, y luego a todos los apóstoles.",
+					"number": 7,
+					"id": "5ec410cc-e063-4d1e-bc12-028dd67ef489"
+				},
+				{
+					"verse": "Por último se me apareció también a mí, que soy como un niño nacido anormalmente.",
+					"number": 8,
+					"id": "bc2d6608-5d42-403c-b284-cd262a30ec6f"
+				},
+				{
+					"verse": "Pues yo soy el menos importante de los apóstoles, y ni siquiera merezco llamarme apóstol, porque perseguí a la iglesia de Dios.",
+					"number": 9,
+					"id": "52508cc3-5878-4cba-b222-66f606cee615"
+				},
+				{
+					"verse": "Pero soy lo que soy porque Dios fue bueno conmigo; y su bondad para conmigo no ha resultado en vano. Al contrario, he trabajado más que todos ellos; aunque no he sido yo, sino Dios, que en su bondad me ha ayudado.",
+					"number": 10,
+					"id": "b6b244c6-ab27-4b00-b466-ccc5bdfc1e13"
+				},
+				{
+					"verse": "Lo que importa es que, tanto yo como ellos, esto es lo que hemos predicado, y esto es lo que ustedes han creído.",
+					"number": 11,
+					"id": "66223eb5-c8eb-45d9-a128-409ea693200e"
+				},
+				{
+					"verse": "Pero si nuestro mensaje es que Cristo resucitó, ¿por qué dicen algunos de ustedes que los muertos no resucitan?",
+					"number": 12,
+					"id": "418c5ade-d2ef-44d5-97c3-8813e3ebe84c"
+				},
+				{
+					"verse": "Porque si los muertos no resucitan, entonces tampoco Cristo resucitó;",
+					"number": 13,
+					"id": "084e2b5e-9d07-4154-965d-2d1004b393be"
+				},
+				{
+					"verse": "y si Cristo no resucitó, el mensaje que predicamos no vale para nada, ni tampoco vale para nada la fe que ustedes tienen.",
+					"number": 14,
+					"id": "b536c371-70c0-4153-9277-bb969e390d09"
+				},
+				{
+					"verse": "Si esto fuera así, nosotros resultaríamos ser testigos falsos de Dios, puesto que estaríamos afirmando en contra de Dios que él resucitó a Cristo, cuando en realidad no lo habría resucitado si fuera verdad que los muertos no resucitan.",
+					"number": 15,
+					"id": "aa2e6d09-156b-47c6-acf3-c7f43db452ce"
+				},
+				{
+					"verse": "Porque si los muertos no resucitan, entonces tampoco Cristo resucitó;",
+					"number": 16,
+					"id": "b19ceb13-849f-4eb8-999a-e8566f7532df"
+				},
+				{
+					"verse": "y si Cristo no resucitó, la fe de ustedes no vale para nada: todavía siguen en sus pecados.",
+					"number": 17,
+					"id": "9b4ce1d0-c4e4-43ee-bfd6-9b5a67183884"
+				},
+				{
+					"verse": "En este caso, también están perdidos los que murieron creyendo en Cristo.",
+					"number": 18,
+					"id": "71a66baa-c79e-468a-bcdc-ede3d3fdfea8"
+				},
+				{
+					"verse": "Si nuestra esperanza en Cristo solamente vale para esta vida, somos los más desdichados de todos.",
+					"number": 19,
+					"id": "295e968e-c62a-427b-922a-c386bf3a22cd"
+				},
+				{
+					"verse": "Pero lo cierto es que Cristo ha resucitado. Él es el primer fruto de la cosecha: ha sido el primero en resucitar.",
+					"number": 20,
+					"id": "2cfcd8ae-a8e4-4ca5-af78-6a7a77bdf126"
+				},
+				{
+					"verse": "Así como por causa de un hombre vino la muerte, también por causa de un hombre viene la resurrección de los muertos.",
+					"number": 21,
+					"id": "03197f7f-a4fe-492f-a78d-1b0f42ad5d02"
+				},
+				{
+					"verse": "Y así como en Adán todos mueren, así también en Cristo todos tendrán vida.",
+					"number": 22,
+					"id": "56050ee1-d94d-4dcc-bc5e-e763e1f017c3"
+				},
+				{
+					"verse": "Pero cada uno en el orden que le corresponda: Cristo en primer lugar; después, cuando Cristo vuelva, los que son suyos.",
+					"number": 23,
+					"id": "692daab5-ebe6-4cfb-9383-bf8edef78e08"
+				},
+				{
+					"verse": "Entonces vendrá el fin, cuando Cristo derrote a todos los señoríos, autoridades y poderes, y entregue el reino al Dios y Padre.",
+					"number": 24,
+					"id": "6cb986ea-9989-41ff-b3b7-d347c2e51bc8"
+				},
+				{
+					"verse": "Porque Cristo tiene que reinar hasta que todos sus enemigos estén puestos debajo de sus pies;",
+					"number": 25,
+					"id": "7af63666-c8a3-4ea7-b80f-407ce1202f4e"
+				},
+				{
+					"verse": "y el último enemigo que será derrotado es la muerte.",
+					"number": 26,
+					"id": "774d63e9-f399-43a6-8504-dc08f5ee343c"
+				},
+				{
+					"verse": "Porque Dios lo ha sometido todo bajo los pies de Cristo. Pero cuando dice que todo le ha quedado sometido, es claro que esto no incluye a Dios mismo, ya que es él quien le sometió todas las cosas.",
+					"number": 27,
+					"id": "572e9636-f5d6-4d32-bc44-fc1828b7b5fe"
+				},
+				{
+					"verse": "Y cuando todo haya quedado sometido a Cristo, entonces Cristo mismo, que es el Hijo, se someterá a Dios, que es quien sometió a él todas las cosas. Así, Dios será todo en todo.",
+					"number": 28,
+					"id": "3a642e07-1712-4044-9f7e-41b01fa5b821"
+				},
+				{
+					"verse": "De otra manera, los que se bautizan por los muertos, ¿para qué lo harían? Si los muertos no resucitan, ¿para qué bautizarse por ellos?",
+					"number": 29,
+					"id": "39203ce9-3e21-4cb3-8692-39b58e0769b8"
+				},
+				{
+					"verse": "¿Y por qué estamos nosotros en peligro a todas horas?",
+					"number": 30,
+					"id": "34f7aaa9-5c1e-4054-80ef-47c6f8d1fe02"
+				},
+				{
+					"verse": "Porque, hermanos, todos los días estoy en peligro de muerte. Esto es tan cierto como la satisfacción que siento por ustedes en Cristo Jesús nuestro Señor.",
+					"number": 31,
+					"id": "10743386-63c5-41cd-b24c-9fcc2dedd3af"
+				},
+				{
+					"verse": "Si yo, al luchar con las fieras en Éfeso, lo hubiera hecho por razones humanas, ¿qué habría ganado con eso? Si es verdad que los muertos no resucitan, entonces, como algunos dicen: «¡Comamos y bebamos, que mañana moriremos!»",
+					"number": 32,
+					"id": "f5a418d9-d660-4066-85c9-59553cac2125"
+				},
+				{
+					"verse": "No se dejen engañar. Como alguien dijo: «Los malos compañeros echan a perder las buenas costumbres.»",
+					"number": 33,
+					"id": "04bd80fe-4010-4fcf-a0df-4d9ae714a562"
+				},
+				{
+					"verse": "Vuelvan verdaderamente al buen juicio, y no pequen, pues algunos de ustedes no conocen a Dios. Digo esto para que se avergüencen.",
+					"number": 34,
+					"id": "ccf88ac8-f9cf-471e-8772-8708aed5274e"
+				},
+				{
+					"verse": "Tal vez alguno preguntará: «¿Cómo resucitarán los muertos? ¿Qué clase de cuerpo tendrán?»",
+					"number": 35,
+					"id": "78e3610e-b22d-4e04-bc23-333b5b6e5809"
+				},
+				{
+					"verse": "¡Vaya pregunta tonta! Cuando se siembra, la semilla tiene que morir para que tome vida la planta.",
+					"number": 36,
+					"id": "2b9bbcbd-b567-4f53-b4de-53117edcef84"
+				},
+				{
+					"verse": "Lo que se siembra no es la planta que ha de brotar, sino el simple grano, sea de trigo o de otra cosa.",
+					"number": 37,
+					"id": "5e80196f-3e7d-493e-8742-89ddc0b06184"
+				},
+				{
+					"verse": "Después Dios le da la forma que él quiere, y a cada semilla le da el cuerpo que le corresponde.",
+					"number": 38,
+					"id": "6f4fb7fa-5e51-44e2-bac7-ff3813632511"
+				},
+				{
+					"verse": "No todos los cuerpos son iguales; uno es el cuerpo del hombre, otro el de los animales, otro el de las aves y otro el de los peces.",
+					"number": 39,
+					"id": "b4823c7f-7203-4054-9d60-4f612daf9d65"
+				},
+				{
+					"verse": "Del mismo modo, hay cuerpos celestes y cuerpos terrestres; pero una es la hermosura de los cuerpos celestes y otra la hermosura de los cuerpos terrestres.",
+					"number": 40,
+					"id": "ad003984-8ed6-4abb-80cd-4ce146e50392"
+				},
+				{
+					"verse": "El brillo del sol es diferente del brillo de la luna y del brillo de las estrellas; y aun entre las estrellas, el brillo de una es diferente del de otra.",
+					"number": 41,
+					"id": "042c3db4-cae7-47d6-80d7-b26e30f0fbe0"
+				},
+				{
+					"verse": "Lo mismo pasa con la resurrección de los muertos. Lo que se entierra es corruptible; lo que resucita es incorruptible.",
+					"number": 42,
+					"id": "ba4e2f4d-170e-4a41-ae7c-6dbc8ca01de2"
+				},
+				{
+					"verse": "Lo que se entierra es despreciable; lo que resucita es glorioso. Lo que se entierra es débil; lo que resucita es fuerte.",
+					"number": 43,
+					"id": "4ec17c7e-8b2d-4f44-9b58-67c03f99ccb8"
+				},
+				{
+					"verse": "Lo que se entierra es un cuerpo material; lo que resucita es un cuerpo espiritual. Si hay cuerpo material, también hay cuerpo espiritual.",
+					"number": 44,
+					"id": "b4be5765-3225-477c-9dab-734c2d7c5281"
+				},
+				{
+					"verse": "Así dice la Escritura: «El primer hombre, Adán, se convirtió en un ser viviente»; pero el último Adán se convirtió en espíritu que da vida.",
+					"number": 45,
+					"id": "c62935f8-2a85-4407-a312-c078ac488c87"
+				},
+				{
+					"verse": "Sin embargo, lo espiritual no es primero, sino lo material; después lo espiritual.",
+					"number": 46,
+					"id": "9f54b1b4-480c-44ba-bbb3-2e7d2e0f95b6"
+				},
+				{
+					"verse": "El primer hombre, hecho de tierra, era de la tierra; el segundo hombre es del cielo.",
+					"number": 47,
+					"id": "fc897c6c-f195-41cf-8ba2-006a8c4d5830"
+				},
+				{
+					"verse": "Los cuerpos de la tierra son como aquel hombre hecho de tierra; y los del cielo son como aquel que es del cielo.",
+					"number": 48,
+					"id": "6ec158d8-6998-40c4-861a-bc32b7fbf6b0"
+				},
+				{
+					"verse": "Así como nos parecemos al hombre hecho de tierra, así también nos pareceremos a aquel que es del cielo.",
+					"number": 49,
+					"id": "087ff04d-a5ea-4700-aaed-e3cfd171149b"
+				},
+				{
+					"verse": "Quiero decirles, hermanos, que lo puramente material no puede tener parte en el reino de Dios, y que lo corruptible no puede tener parte en lo incorruptible.",
+					"number": 50,
+					"id": "b0fc1a10-abf2-4920-8cb0-93db71433158"
+				},
+				{
+					"verse": "Pero quiero que conozcan el designio secreto de Dios: No todos moriremos, pero todos seremos transformados",
+					"number": 51,
+					"id": "7f942722-8a28-4cdf-bdd1-067f961c58c8"
+				},
+				{
+					"verse": "en un momento, en un abrir y cerrar de ojos, cuando suene el último toque de trompeta. Porque sonará la trompeta, y los muertos serán resucitados para no volver a morir. Y nosotros seremos transformados.",
+					"number": 52,
+					"id": "7a0422ab-5c65-4dcb-9a58-40adb92ebf1a"
+				},
+				{
+					"verse": "Pues nuestra naturaleza corruptible se revestirá de lo incorruptible, y nuestro cuerpo mortal se revestirá de inmortalidad.",
+					"number": 53,
+					"id": "ca265051-5455-49df-9fe8-1f095e01b86f"
+				},
+				{
+					"verse": "Y cuando nuestra naturaleza corruptible se haya revestido de lo incorruptible, y cuando nuestro cuerpo mortal se haya revestido de inmortalidad, se cumplirá lo que dice la Escritura: «La muerte ha sido devorada por la victoria.",
+					"number": 54,
+					"id": "7739a02d-900e-4d9f-b0d3-e8ba3c1815fc"
+				},
+				{
+					"verse": "¿Dónde está, oh muerte, tu victoria? ¿Dónde está, oh muerte, tu aguijón?»",
+					"number": 55,
+					"id": "e84d1e47-a513-4cd8-be4b-377fa23e4b77"
+				},
+				{
+					"verse": "El aguijón de la muerte es el pecado, y el pecado ejerce su poder por la ley.",
+					"number": 56,
+					"id": "efc3fd8f-4d81-4bb7-b2e0-e931f3e12c20"
+				},
+				{
+					"verse": "¡Pero gracias a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo!",
+					"number": 57,
+					"id": "6aead45d-0c5b-442c-89ff-421d8d7e42af"
+				},
+				{
+					"verse": "Por lo tanto, mis queridos hermanos, sigan firmes y constantes, trabajando siempre más y más en la obra del Señor; porque ustedes saben que no es en vano el trabajo que hacen en unión con el Señor.",
+					"number": 58,
+					"id": "7d5cb89d-1804-42eb-98c5-f6db750a078c"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "En cuanto a la colecta para los del pueblo santo, háganla según las instrucciones que di a las iglesias en la provincia de Galacia.",
+					"number": 1,
+					"study": "La ofrenda para los santos",
+					"id": "b0350a38-c350-43c1-909d-8fe11cb3c5c0"
+				},
+				{
+					"verse": "Los domingos, cada uno de ustedes debe apartar algo, según lo que haya ganado, y guardarlo para que cuando yo llegue no se tengan que hacer colectas.",
+					"number": 2,
+					"id": "c15eee88-caf6-4ec3-9fb7-a02339a6a74f"
+				},
+				{
+					"verse": "Y cuando yo llegue, mandaré a Jerusalén a las personas que ustedes escojan, dándoles cartas para llevar la colecta hecha por ustedes.",
+					"number": 3,
+					"id": "4befe88e-2d97-4013-9cc7-48c12af33d93"
+				},
+				{
+					"verse": "Y si es conveniente que yo también vaya, ellos irán conmigo.",
+					"number": 4,
+					"id": "fc32cf4a-3a30-4708-9bca-5db15d0e3998"
+				},
+				{
+					"verse": "En mi viaje tengo que pasar por la región de Macedonia; y después de Macedonia llegaré a Corinto.",
+					"number": 5,
+					"study": "Planes de Pablo",
+					"id": "b78a862f-aa51-4aac-b5ed-bfbaeae30265"
+				},
+				{
+					"verse": "Puede ser que me quede con ustedes algún tiempo, o que tal vez pase allí todo el invierno; entonces ustedes podrán ayudarme en mi viaje a donde tenga que ir después.",
+					"number": 6,
+					"id": "80210b9e-f464-4cbb-9a74-0b4b0342e949"
+				},
+				{
+					"verse": "No quiero verlos ahora solamente de paso, sino que espero estar algún tiempo con ustedes, si el Señor lo permite;",
+					"number": 7,
+					"id": "3360155d-aa73-4841-bea6-bbc7262e3646"
+				},
+				{
+					"verse": "pero me quedaré en Éfeso hasta el día de Pentecostés,",
+					"number": 8,
+					"id": "db7f36b8-9494-4dc0-be9f-49b7d99a5ab7"
+				},
+				{
+					"verse": "porque las puertas se me han abierto de par en par para el trabajo, a pesar de que muchos están en contra mía.",
+					"number": 9,
+					"id": "b5082a39-0d0b-4b9a-876f-ab45bbd5fdd5"
+				},
+				{
+					"verse": "Si llega Timoteo, procuren que se sienta a gusto entre ustedes, pues trabaja en la obra del Señor lo mismo que yo.",
+					"number": 10,
+					"id": "82a1e200-9035-4b5c-a8bc-30cd640d8f28"
+				},
+				{
+					"verse": "Así que ninguno de ustedes lo desprecie; sino, al contrario, ayúdenlo a seguir su viaje en paz, para que venga a verme, porque lo estoy esperando junto con los otros hermanos.",
+					"number": 11,
+					"id": "db22f45d-db3b-4d00-9888-96af644e71b1"
+				},
+				{
+					"verse": "En cuanto al hermano Apolo, le rogué mucho que fuera con los hermanos a visitarlos a ustedes, pero por ahora no quiso ir. Lo hará cuando tenga oportunidad.",
+					"number": 12,
+					"id": "e15a9a1a-658a-480c-a934-657b71e38fec"
+				},
+				{
+					"verse": "Manténganse despiertos y firmes en la fe. Tengan mucho valor y firmeza.",
+					"number": 13,
+					"study": "Salutaciones finales",
+					"id": "32ad2e86-33f3-4c5c-bdfe-5b0ae12d8306"
+				},
+				{
+					"verse": "Y todo lo que hagan, háganlo con amor.",
+					"number": 14,
+					"id": "ae01692e-7b75-4780-a5d9-ace596ce7ee0"
+				},
+				{
+					"verse": "Hermanos, ustedes saben que la familia de Estéfanas fue la primera que en la región de Acaya se convirtió al evangelio, y que ellos se han dedicado a servir a los hermanos en la fe.",
+					"number": 15,
+					"id": "b6fca5e3-376c-47cf-9c06-0d2fb1c887ae"
+				},
+				{
+					"verse": "Quiero que ustedes, a su vez, se sometan a personas como ellos y a todos los que ayudan y trabajan en esta labor.",
+					"number": 16,
+					"id": "4edb6bfc-7ba7-4252-bc52-f75546d77c23"
+				},
+				{
+					"verse": "Me alegro de que hayan venido Estéfanas, Fortunato y Acaico, pues en ausencia de ustedes",
+					"number": 17,
+					"id": "a96d7ac1-4f1f-4f7a-a35c-0915e948a6f1"
+				},
+				{
+					"verse": "ellos me han dado tranquilidad, lo mismo que a ustedes. Tengan en cuenta a personas como ellos.",
+					"number": 18,
+					"id": "b79f46c0-ee5c-461c-83a7-709bd47dcf88"
+				},
+				{
+					"verse": "Las iglesias de la provincia de Asia les mandan saludos. Aquila y Prisca, y la congregación que se reúne en su casa, les mandan muchos saludos en el Señor.",
+					"number": 19,
+					"id": "52cdd242-cb61-458c-8006-86ef6dc830c1"
+				},
+				{
+					"verse": "Reciban saludos de todos los hermanos. Salúdense unos a otros con un beso santo.",
+					"number": 20,
+					"id": "899db51b-09c3-42e0-a1e6-1f9b8203362c"
+				},
+				{
+					"verse": "Yo, Pablo, les escribo a ustedes este saludo de mi puño y letra.",
+					"number": 21,
+					"id": "6b168fde-1ec3-4605-b4f6-6227158cc8d5"
+				},
+				{
+					"verse": "Si alguien no ama al Señor, ¡que caiga sobre él la maldición de Dios! ¡Señor nuestro, ven!",
+					"number": 22,
+					"id": "b3ff06b9-c5cc-46c0-be65-d57f7267e3b4"
+				},
+				{
+					"verse": "Que el Señor Jesús derrame su gracia sobre ustedes.",
+					"number": 23,
+					"id": "1ef49a6a-2822-476e-9f1c-b40ccbdddd6d"
+				},
+				{
+					"verse": "Mi amor está siempre con ustedes en Cristo Jesús.",
+					"number": 24,
+					"id": "bccaee8c-09cb-48b4-a85f-3587fe959322"
+				}
+			]
+		}
+	],
+	"book_id": "59f099e4-35af-4ece-94e3-2b04b234bfee"
+}

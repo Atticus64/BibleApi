@@ -1,0 +1,1604 @@
+{
+	"name": "Hebreos",
+	"num_chapters": 13,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Dios, habiendo hablado muchas veces y de muchas maneras en otro tiempo a los padres por los profetas,",
+					"number": 1,
+					"study": "Dios ha hablado por su Hijo",
+					"id": "2548afd4-a06e-4286-9645-a044b2b312c4"
+				},
+				{
+					"verse": "en estos últimos días nos ha hablado por el Hijo, a quien constituyó heredero de todo y por quien asimismo hizo el universo.",
+					"number": 2,
+					"id": "bac6034d-b4f6-451a-a641-3358c8ba6628"
+				},
+				{
+					"verse": "Él, que es el resplandor de su gloria, la imagen misma de su sustancia y quien sustenta todas las cosas con la palabra de su poder, habiendo efectuado la purificación de nuestros pecados por medio de sí mismo, se sentó a la diestra de la Majestad en las alturas,",
+					"number": 3,
+					"id": "22b4941a-9f5c-4cdd-8ba6-4fffc9a49864"
+				},
+				{
+					"verse": "hecho tanto superior a los ángeles cuanto que heredó más excelente nombre que ellos.",
+					"number": 4,
+					"id": "f86d3990-e404-4f21-b4f6-544b5768180b"
+				},
+				{
+					"verse": "¿A cuál de los ángeles dijo Dios jamás: \"Mi Hijo eres tú, yo te he engendrado hoy\", ni tampoco: \"Yo seré un padre para él, y él será un hijo para mí\"?",
+					"number": 5,
+					"study": "El Hijo, superior a los ángeles",
+					"id": "88bdb682-5ba9-47e8-af86-5be30284a0bc"
+				},
+				{
+					"verse": "Y otra vez, cuando introduce al Primogénito en el mundo, dice: \"Adórenlo todos los ángeles de Dios\".",
+					"number": 6,
+					"id": "915061ee-7742-47d3-b3e4-b7ea14ce7182"
+				},
+				{
+					"verse": "Y ciertamente, hablando de los ángeles dice: \"El que hace a sus ángeles espíritus, y a sus ministros llama de fuego\".",
+					"number": 7,
+					"id": "fa097153-fda2-4a65-9ea7-65d9c141571c"
+				},
+				{
+					"verse": "Pero del Hijo dice: \"Tu trono, Dios, por los siglosde los siglos. Cetro de equidad es el cetro de tu Reino.",
+					"number": 8,
+					"id": "cf5c31f2-84ea-49ee-ad12-cd3528fa0456"
+				},
+				{
+					"verse": "Has amado la justicia y odiado la maldad, por lo cual te ungió Dios, el Dios tuyo, con óleo de alegría más que a tus compañeros\".",
+					"number": 9,
+					"id": "b13843db-7420-4a14-985a-c16ada60fe27"
+				},
+				{
+					"verse": "También dice: \"Tú, Señor, en el principiofundaste la tierra, y los cielos son obra de tus manos.",
+					"number": 10,
+					"id": "fb22f5aa-1a40-48ca-af34-59a0e36f1a99"
+				},
+				{
+					"verse": "Ellos perecerán, mas tú permaneces. Todos ellos se envejeceráncomo una vestidura;",
+					"number": 11,
+					"id": "5c4ac148-6300-44a4-b4a3-74b12b2765e0"
+				},
+				{
+					"verse": "como un vestido los envolverás,y serán mudados. Pero tú eres el mismo, y tus años no acabarán\".",
+					"number": 12,
+					"id": "cef919e2-ea5f-4ecd-b3c9-4ad883f2bad7"
+				},
+				{
+					"verse": "¿A cuál de los ángeles dijo Dios jamás: \"Siéntate a mi diestra, hasta que ponga a tus enemigospor estrado de tus pies\"?",
+					"number": 13,
+					"id": "6298fda2-2be7-47b9-aa33-574e2880510b"
+				},
+				{
+					"verse": "¿No son todos espíritus ministradores, enviados para servicio a favor de los que serán herederos de la salvación?",
+					"number": 14,
+					"id": "86898d18-e092-4042-b485-084c3e0629e4"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Por tanto, es necesario que con más diligencia atendamos a las cosas que hemos oído, no sea que nos deslicemos.",
+					"number": 1,
+					"study": "Una salvación tan grande",
+					"id": "292f6dcc-0cd1-4b95-aa6d-0b3e9e911ff5"
+				},
+				{
+					"verse": "Porque si la palabra dicha por medio de los ángeles fue firme y toda transgresión y desobediencia recibió justa retribución,",
+					"number": 2,
+					"id": "154296db-fb2e-4bae-84a5-971b7e6e5adf"
+				},
+				{
+					"verse": "¿cómo escaparemos nosotros, si descuidamos una salvación tan grande? La cual, habiendo sido anunciada primeramente por el Señor, nos fue confirmada por los que oyeron,",
+					"number": 3,
+					"id": "51536824-e688-48eb-bb50-03ee0871b1c3"
+				},
+				{
+					"verse": "testificando Dios juntamente con ellos, con señales, prodigios, diversos milagros y repartimientos del Espíritu Santo según su voluntad.",
+					"number": 4,
+					"id": "8774081d-4f18-45b6-a4f6-704019ffdd29"
+				},
+				{
+					"verse": "Dios no sujetó a los ángeles el mundo venidero, acerca del cual estamos hablando.",
+					"number": 5,
+					"study": "El autor de la salvación",
+					"id": "24437317-f434-4687-b7e2-471c094f8b61"
+				},
+				{
+					"verse": "Al contrario, alguien testificó en cierto lugar, diciendo: \"¿Qué es el hombrepara que te acuerdes de él, el ser humano para que lo visites?",
+					"number": 6,
+					"id": "78e9de11-97b4-4905-b9b7-d823a9955382"
+				},
+				{
+					"verse": "Lo hiciste un poco menor que los ángeles, lo coronaste de gloria y de honra y lo pusiste sobre las obras de tus manos.",
+					"number": 7,
+					"id": "96b28597-65a5-4eb4-88cf-f1d363b251de"
+				},
+				{
+					"verse": "Todo lo sujetaste bajo sus pies\". En cuanto le sujetó todas las cosas, nada dejó que no le sea sujeto, aunque todavía no vemos que todas las cosas le sean sujetas.",
+					"number": 8,
+					"id": "68a472b4-e207-46b2-9e9c-74b521cdcd64"
+				},
+				{
+					"verse": "Pero vemos a aquel que fue hecho un poco menor que los ángeles, a Jesús, coronado de gloria y de honra a causa del padecimiento de la muerte, para que por la gracia de Dios experimentara la muerte por todos.",
+					"number": 9,
+					"id": "05c5c460-1475-49c7-abad-8e4291440b77"
+				},
+				{
+					"verse": "Convenía a aquel por cuya causa existen todas las cosas y por quien todas las cosas subsisten que, habiendo de llevar muchos hijos a la gloria, perfeccionara por medio de las aflicciones al autor de la salvación de ellos,",
+					"number": 10,
+					"id": "ccc4f144-e968-4329-a548-559240fd4386"
+				},
+				{
+					"verse": "porque el que santifica y los que son santificados, de uno son todos; por lo cual no se averg@uenza de llamarlos hermanos,",
+					"number": 11,
+					"id": "c1e5d2db-7c0b-4e13-bd54-0b250ca789ec"
+				},
+				{
+					"verse": "diciendo: \"Anunciaré a mis hermanos tu nombre, en medio de la congregación te alabaré\".",
+					"number": 12,
+					"id": "a958ae75-8255-4782-bc5b-870f6a687c0c"
+				},
+				{
+					"verse": "Y otra vez dice: \"Yo confiaré en él\". Y de nuevo: \"Aquí estoy yo con los hijos que Diosme dio\".",
+					"number": 13,
+					"id": "68e0e121-d413-4390-9c77-2025430bcf14"
+				},
+				{
+					"verse": "Así que, por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo para destruir por medio de la muerte al que tenía el imperio de la muerte, esto es, al diablo,",
+					"number": 14,
+					"id": "d725e240-fd60-4293-a261-0ede1130e046"
+				},
+				{
+					"verse": "y librar a todos los que por el temor de la muerte estaban durante toda la vida sujetos a servidumbre.",
+					"number": 15,
+					"id": "53a1c4f0-3cd9-4088-b0ad-0be7f7299ce4"
+				},
+				{
+					"verse": "Ciertamente no socorrió a los ángeles, sino que socorrió a la descendencia de Abraham.",
+					"number": 16,
+					"id": "8e1e9a99-d69a-4def-8187-edb3d5923a96"
+				},
+				{
+					"verse": "Por lo cual debía ser en todo semejante a sus hermanos, para venir a ser misericordioso y fiel Sumo sacerdote en lo que a Dios se refiere, para expiar los pecados del pueblo.",
+					"number": 17,
+					"id": "27b592da-771d-4127-bcf8-ab568e2a09ce"
+				},
+				{
+					"verse": "Pues en cuanto él mismo padeció siendo tentado, es poderoso para socorrer a los que son tentados.",
+					"number": 18,
+					"id": "dc2adc05-837d-46f6-a237-33ce8fb5f20a"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por tanto, hermanos santos, participantes del llamamiento celestial, considerad al apóstol y Sumo sacerdote de nuestra profesión, Cristo Jesús,",
+					"number": 1,
+					"study": "Jesús es superior a Moisés",
+					"id": "5490ff60-a533-4d12-a35e-405d9c3e0a61"
+				},
+				{
+					"verse": "el cual es fiel al que lo constituyó, como también lo fue Moisés en toda la casa de Dios.",
+					"number": 2,
+					"id": "bb47d67c-07b1-45e8-a19d-ba44f8a1b25b"
+				},
+				{
+					"verse": "Porque de tanta mayor gloria que Moisés es estimado digno este, cuanto mayor honra que la casa tiene el que la hizo.",
+					"number": 3,
+					"id": "6c7db738-cd46-4ac5-9d1b-42913cd16dec"
+				},
+				{
+					"verse": "Toda casa es hecha por alguien; pero el que hizo todas las cosas es Dios.",
+					"number": 4,
+					"id": "8ed49614-bcd9-45e3-bfdf-faca5a9e8564"
+				},
+				{
+					"verse": "Y Moisés a la verdad fue fiel en toda la casa de Dios, como siervo, para testimonio de lo que se iba a decir;",
+					"number": 5,
+					"id": "37798899-1644-441a-9c30-3ec6a5685115"
+				},
+				{
+					"verse": "pero Cristo, como hijo, sobre su casa. Y esa casa somos nosotros, con tal que retengamos firme hasta el fin la confianza y el gloriarnos en la esperanza.",
+					"number": 6,
+					"id": "0c4cacba-419f-4d37-b499-3e97200af0b4"
+				},
+				{
+					"verse": "Por eso, como dice el Espíritu Santo: \"Si oís hoy su voz,",
+					"number": 7,
+					"study": "El reposo del pueblo de Dios",
+					"id": "11d77297-1198-469c-854e-e81813a9b904"
+				},
+				{
+					"verse": "no endurezcáis vuestros corazones como en la provocación, en el díade la tentación en el desierto,",
+					"number": 8,
+					"id": "a604b28e-c916-4749-9160-c51ef7a7375c"
+				},
+				{
+					"verse": "donde me tentaron vuestros padres;me pusieron a prueba y vieron mis obras cuarenta años.",
+					"number": 9,
+					"id": "dd56416b-88e6-4aa7-bcd4-8ab7bc229138"
+				},
+				{
+					"verse": "Por eso me disgustécontra aquella generación y dije: \"Siempre andan vagandoen su corazón y no han conocido mis caminos\".",
+					"number": 10,
+					"id": "9913297a-b246-4107-b2e0-d50afcabb8c3"
+				},
+				{
+					"verse": "Por tanto, juré en mi ira: \"No entrarán en mi reposo\"\".",
+					"number": 11,
+					"id": "b7f7bf30-5e7f-4bc3-a83c-65a00eb02189"
+				},
+				{
+					"verse": "Mirad, hermanos, que no haya en ninguno de vosotros corazón tan malo e incrédulo que se aparte del Dios vivo.",
+					"number": 12,
+					"id": "011ef254-da5b-41da-a419-a076e73d18ed"
+				},
+				{
+					"verse": "Antes bien, exhortaos los unos a los otros cada día, entre tanto que se dice: \"Hoy\", para que ninguno de vosotros se endurezca por el engaño del pecado,",
+					"number": 13,
+					"id": "6f270f0a-cc7e-45fe-ac14-618e735727a4"
+				},
+				{
+					"verse": "porque somos hechos participantes de Cristo, con tal que retengamos firme hasta el fin nuestra confianza del principio.",
+					"number": 14,
+					"id": "e25fe19f-14ff-4563-9d98-f16a840aaa51"
+				},
+				{
+					"verse": "Por lo cual dice: \"Si oís hoy su voz, no endurezcáis vuestros corazonescomo en la provocación\".",
+					"number": 15,
+					"id": "6b73e1b0-ab65-43a2-bb13-796cd7b903d1"
+				},
+				{
+					"verse": "¿Quiénes fueron los que, habiendo oído, lo provocaron? ¿No fueron todos los que salieron de Egipto por mano de Moisés?",
+					"number": 16,
+					"id": "32f3e4b2-988e-4e89-a7e1-1ce5d53268bf"
+				},
+				{
+					"verse": "¿Y con quiénes estuvo él disgustado cuarenta años? ¿No fue con los que pecaron, cuyos cuerpos cayeron en el desierto?",
+					"number": 17,
+					"id": "93112cf6-27d7-4725-8de1-b31deba6d0ee"
+				},
+				{
+					"verse": "¿Y a quiénes juró que no entrarían en su reposo, sino a aquellos que desobedecieron?",
+					"number": 18,
+					"id": "350bc9d2-3e47-4d42-9f41-62f577cde7f9"
+				},
+				{
+					"verse": "Y vemos que no pudieron entrar a causa de su incredulidad.",
+					"number": 19,
+					"id": "a08b285f-b9f9-46f7-b58f-e85db01395ef"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Temamos, pues, no sea que permaneciendo aún la promesa de entrar en su reposo, alguno de vosotros parezca no haberlo alcanzado.",
+					"number": 1,
+					"id": "6b8e68c3-a1b1-4a55-8b1f-d9eefa76b638"
+				},
+				{
+					"verse": "También a nosotros se nos ha anunciado la buena nueva como a ellos; a ellos de nada les sirvió haber oído la palabra, por no ir acompañada de fe en los que la oyeron.",
+					"number": 2,
+					"id": "0bd7107c-b66a-444f-af3b-40c1a3292868"
+				},
+				{
+					"verse": "Pero los que hemos creído entramos en el reposo, de la manera que dijo: \"Por tanto, juré en mi ira que no entrarían en mi reposo\", aunque las obras suyas estaban acabadas desde la fundación del mundo,",
+					"number": 3,
+					"id": "2df62ec7-c281-4726-bce8-ba795df2c6fc"
+				},
+				{
+					"verse": "pues en cierto lugar dijo así del séptimo día: \"Y reposó Dios de todas sus obrasen el séptimo día\".",
+					"number": 4,
+					"id": "dc0915e5-788f-499d-90af-09f9ed78a6c6"
+				},
+				{
+					"verse": "Nuevamente dice: \"No entrarán en mi reposo\".",
+					"number": 5,
+					"id": "d211f074-f0b3-4dfd-8a0b-5b67f2426429"
+				},
+				{
+					"verse": "Por lo tanto, puesto que falta que algunos entren en él, y aquellos a quienes primero se les anunció la buena nueva no entraron por causa de la desobediencia,",
+					"number": 6,
+					"id": "c82196a0-37f6-435b-9c03-19590928c000"
+				},
+				{
+					"verse": "otra vez determina un día: \"Hoy\", del cual habló David mucho tiempo después, cuando dijo: \"Si oís hoy su voz, no endurezcáis vuestros corazones\".",
+					"number": 7,
+					"id": "7a6d053e-c5e5-4a11-a50f-1ff6f4049cf0"
+				},
+				{
+					"verse": "Si Josué les hubiera dado el reposo, no hablaría después de otro día.",
+					"number": 8,
+					"id": "4f29845d-effd-4a61-a37f-5a579dc1fe51"
+				},
+				{
+					"verse": "Por tanto, queda un reposo para el pueblo de Dios,",
+					"number": 9,
+					"id": "57ebe5c8-36be-4ada-bdc8-bb7d00250d14"
+				},
+				{
+					"verse": "porque el que ha entrado en su reposo, también ha reposado de sus obras, como Dios de las suyas.",
+					"number": 10,
+					"id": "8591e8f3-24df-4a51-9585-8469021ad878"
+				},
+				{
+					"verse": "Procuremos, pues, entrar en aquel reposo, para que ninguno caiga en semejante ejemplo de desobediencia.",
+					"number": 11,
+					"id": "06cc8eeb-1095-4f98-b84f-a752b5166d0d"
+				},
+				{
+					"verse": "La palabra de Dios es viva, eficaz y más cortante que toda espada de dos filos: penetra hasta partir el alma y el espíritu, las coyunturas y los tuétanos, y discierne los pensamientos y las intenciones del corazón.",
+					"number": 12,
+					"id": "9baf1b31-dcc1-4215-8045-75f3c812dd6c"
+				},
+				{
+					"verse": "Y no hay cosa creada que no sea manifiesta en su presencia; antes bien todas las cosas están desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta.",
+					"number": 13,
+					"id": "911f99a1-19e5-4034-91dd-d61fb0acbd4d"
+				},
+				{
+					"verse": "Por tanto, teniendo un gran Sumo sacerdote que traspasó los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión.",
+					"number": 14,
+					"study": "Jesús el gran sumo sacerdote",
+					"id": "c46759d7-de1f-46bb-9cc1-5a333e0f2de5"
+				},
+				{
+					"verse": "No tenemos un Sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino uno que fue tentado en todo según nuestra semejanza, pero sin pecado.",
+					"number": 15,
+					"id": "2280e31b-9e72-4ec8-86b7-754ba2729cbd"
+				},
+				{
+					"verse": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno socorro.",
+					"number": 16,
+					"id": "71b213cc-5496-4c6c-ba8f-416d671cc39e"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Porque todo Sumo sacerdote es escogido de entre los hombres y constituido a favor de los hombres ante Dios, para que presente ofrendas y sacrificios por los pecados,",
+					"number": 1,
+					"id": "01eacdd5-6d71-43d2-a74b-608d5cee057f"
+				},
+				{
+					"verse": "él puede mostrarse paciente con los ignorantes y extraviados, puesto que él también está rodeado de debilidad,",
+					"number": 2,
+					"id": "d59586de-a179-41db-ad85-75f0c45ad36a"
+				},
+				{
+					"verse": "por causa de la cual debe ofrecer por los pecados, tanto por sí mismo como también por el pueblo.",
+					"number": 3,
+					"id": "dad328fc-dc15-468f-88d5-c4daa6715ebe"
+				},
+				{
+					"verse": "Y nadie toma para sí esta honra, sino el que es llamado por Dios, como lo fue Aarón.",
+					"number": 4,
+					"id": "62bced7d-24d4-4490-a8b3-8755cb3d642c"
+				},
+				{
+					"verse": "Por eso, tampoco Cristo se glorificó a sí mismo haciéndose sumo sacerdote, sino que fue Dios quien le dijo: \"Tú eres mi Hijo, yo te he engendrado hoy\".",
+					"number": 5,
+					"id": "e4be5b85-8493-4277-a6c6-fc0079eee575"
+				},
+				{
+					"verse": "Como también dice en otro lugar: \"Tú eres sacerdote para siempre, según el orden de Melquisedec\".",
+					"number": 6,
+					"id": "8297aca6-afff-41b1-baff-931a54cec525"
+				},
+				{
+					"verse": "Y Cristo, en los días de su vida terrena, ofreció ruegos y súplicas con gran clamor y lágrimas al que lo podía librar de la muerte, y fue oído a causa de su temor reverente.",
+					"number": 7,
+					"id": "86e80b94-f92c-45ce-a039-a85c079f7cbc"
+				},
+				{
+					"verse": "Y, aunque era Hijo, a través del sufrimiento aprendió lo que es la obediencia;",
+					"number": 8,
+					"id": "5b25a47c-c54c-4797-81a6-864409a6764c"
+				},
+				{
+					"verse": "y habiendo sido perfeccionado, vino a ser autor de eterna salvación para todos los que lo obedecen,",
+					"number": 9,
+					"id": "67c55290-3c0c-4529-9d85-68bab8097e16"
+				},
+				{
+					"verse": "y fue declarado por Dios Sumo sacerdote según el orden de Melquisedec.",
+					"number": 10,
+					"id": "e18c625a-3a2f-45bf-9f00-fa99b594b863"
+				},
+				{
+					"verse": "Acerca de esto tenemos mucho que decir, pero es difícil de explicar, por cuanto os habéis hecho tardos para oir.",
+					"number": 11,
+					"study": "Advertencia contra la apostasía",
+					"id": "f1de15f1-3f2a-4cda-b5cf-9a513bc2f1a5"
+				},
+				{
+					"verse": "Debiendo ser ya maestros después de tanto tiempo, tenéis necesidad de que se os vuelva a enseñar cuáles son los primeros rudimentos de las palabras de Dios; y habéis llegado a ser tales, que tenéis necesidad de leche y no de alimento sólido.",
+					"number": 12,
+					"id": "dbd21dd3-5c74-4861-90be-91da7c891f94"
+				},
+				{
+					"verse": "Y todo aquel que participa de la leche es inexperto en la palabra de justicia, porque es niño.",
+					"number": 13,
+					"id": "1c4e4ab1-baa4-446f-ba1c-6ab3c441d908"
+				},
+				{
+					"verse": "El alimento sólido es para los que han alcanzado madurez, para los que por el uso tienen los sentidos ejercitados en el discernimiento del bien y del mal.",
+					"number": 14,
+					"id": "bc2b456e-332a-458f-b909-5c3778b5591f"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Por tanto, dejando ya los rudimentos de la doctrina de Cristo, vamos adelante a la perfección, no echando otra vez el fundamento del arrepentimiento de obras muertas, de la fe en Dios,",
+					"number": 1,
+					"id": "66c947fd-85e9-4dc9-8cab-a92129110805"
+				},
+				{
+					"verse": "de la doctrina de bautismos, de la imposición de manos, de la resurrección de los muertos y del juicio eterno.",
+					"number": 2,
+					"id": "8df5de7c-88c3-4adc-954b-013eed75a074"
+				},
+				{
+					"verse": "Y esto haremos, si Dios en verdad lo permite.",
+					"number": 3,
+					"id": "ee82e10e-a2f7-4f49-ad8e-6d9f041cfce6"
+				},
+				{
+					"verse": "Es imposible que los que una vez fueron iluminados, gustaron del don celestial, fueron hechos partícipes del Espíritu Santo",
+					"number": 4,
+					"id": "796ee235-ea8a-4a00-86e9-db9e47eeee32"
+				},
+				{
+					"verse": "y asimismo gustaron de la buena palabra de Dios y los poderes del mundo venidero,",
+					"number": 5,
+					"id": "ba61352d-a9f9-4840-a28a-f442a6d2f601"
+				},
+				{
+					"verse": "y recayeron, sean otra vez renovados para arrepentimiento, crucificando de nuevo para sí mismos al Hijo de Dios y exponiéndolo a la burla.",
+					"number": 6,
+					"id": "1039a113-318e-4a01-8a0f-a4bdd20b1123"
+				},
+				{
+					"verse": "La tierra que bebe la lluvia que muchas veces cae sobre ella, y produce hierba provechosa a aquellos por los cuales es labrada, recibe bendición de Dios;",
+					"number": 7,
+					"id": "4ab1ee4f-ee54-4ef8-a0b0-f38f8d36ebff"
+				},
+				{
+					"verse": "pero la que produce espinos y abrojos es reprobada, está próxima a ser maldecida y su fin es ser quemada.",
+					"number": 8,
+					"id": "82a000b1-644a-45de-ba2b-a9ece0a8c71e"
+				},
+				{
+					"verse": "Pero en cuanto a vosotros, amados, estamos persuadidos de cosas mejores, pertenecientes a la salvación, aunque hablamos así,",
+					"number": 9,
+					"id": "6977ed5d-7eb0-473e-83fd-a885ab47ada7"
+				},
+				{
+					"verse": "porque Dios no es injusto para olvidar vuestra obra y el trabajo de amor que habéis mostrado hacia su nombre, habiendo servido a los santos y sirviéndolos aún.",
+					"number": 10,
+					"id": "7584ef93-a200-4f40-b810-1a0a6dd3acd0"
+				},
+				{
+					"verse": "Pero deseamos que cada uno de vosotros muestre la misma solicitud hasta el fin, para plena certeza de la esperanza,",
+					"number": 11,
+					"id": "68f437cf-b278-4bef-9be9-4f32fd3245ed"
+				},
+				{
+					"verse": "a fin de que no os hagáis perezosos, sino imitadores de aquellos que por la fe y la paciencia heredan las promesas.",
+					"number": 12,
+					"id": "f4f7c6a9-6ede-4569-bb16-9efffa3dc26c"
+				},
+				{
+					"verse": "Cuando Dios hizo la promesa a Abraham, no pudiendo jurar por otro mayor, juró por sí mismo",
+					"number": 13,
+					"id": "91be5034-78cf-485d-bfa5-f3b932e29d40"
+				},
+				{
+					"verse": "diciendo: \"De cierto te bendeciré con abundancia y te multiplicaré grandemente\".",
+					"number": 14,
+					"id": "a6aec10c-61b8-42a8-ad77-dbc07d75ec5d"
+				},
+				{
+					"verse": "Y habiendo esperado con paciencia, alcanzó la promesa.",
+					"number": 15,
+					"id": "f5c831d7-1911-42d1-93e6-7e73698da29e"
+				},
+				{
+					"verse": "Los hombres ciertamente juran por uno mayor que ellos, y para ellos el fin de toda controversia es el juramento para confirmación.",
+					"number": 16,
+					"id": "23ced29f-4dc7-4a05-98d9-74f48ec5d9ec"
+				},
+				{
+					"verse": "Por lo cual, queriendo Dios mostrar más abundantemente a los herederos de la promesa la inmutabilidad de su consejo, interpuso juramento,",
+					"number": 17,
+					"id": "74a7ff12-4723-457d-9785-167ec34bedf4"
+				},
+				{
+					"verse": "para que por dos cosas inmutables, en las cuales es imposible que Dios mienta, tengamos un fortísimo consuelo los que hemos acudido para asirnos de la esperanza puesta delante de nosotros.",
+					"number": 18,
+					"id": "36f30259-63a6-4636-acfd-a80d5c336702"
+				},
+				{
+					"verse": "La cual tenemos como segura y firme ancla del alma, y que penetra hasta dentro del velo,",
+					"number": 19,
+					"id": "a9323a62-edc5-4a18-9bda-540df2be7b14"
+				},
+				{
+					"verse": "donde Jesús entró por nosotros como precursor, hecho Sumo sacerdote para siempre según el orden de Melquisedec.",
+					"number": 20,
+					"id": "324867bd-dd97-4f65-b26b-0c75fca65292"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Este Melquisedec, rey de Salem, sacerdote del Dios altísimo, salió a recibir a Abraham que volvía de la derrota de los reyes, y lo bendijo.",
+					"number": 1,
+					"study": "El sacerdocio de Melquisedec",
+					"id": "21310df0-2d89-4816-8f29-b6a75a8c5023"
+				},
+				{
+					"verse": "A él asimismo dio Abraham los diezmos de todo. Melquisedec significa primeramente \"Rey de justicia\", y también \"Rey de Salem\", esto es, \"Rey de paz\".",
+					"number": 2,
+					"id": "776f6c9f-72ac-4a1a-9e4f-0f7e70f9fdae"
+				},
+				{
+					"verse": "Nada se sabe de su padre ni de su madre ni de sus antepasados; ni tampoco del principio y fin de su vida. Y así, a semejanza del Hijo de Dios, permanece sacerdote para siempre.",
+					"number": 3,
+					"id": "9c379e7e-7dd6-4e25-a965-9b8c007664b0"
+				},
+				{
+					"verse": "Considerad, pues, cuán grande era este, a quien aun Abraham el patriarca dio diezmos del botín.",
+					"number": 4,
+					"id": "1fbda99a-e835-4415-a6b7-dc9fdf4cc254"
+				},
+				{
+					"verse": "Ciertamente los que de entre los hijos de Leví reciben el sacerdocio, tienen mandamiento de tomar del pueblo los diezmos según la Ley, es decir, de sus hermanos, aunque estos también sean descendientes de Abraham.",
+					"number": 5,
+					"id": "69117144-e65d-43bd-a416-8e78842bab72"
+				},
+				{
+					"verse": "Pero aquel cuya genealogía no es contada de entre ellos, tomó de Abraham los diezmos y bendijo al que tenía las promesas.",
+					"number": 6,
+					"id": "eed9d5ee-bbb3-433e-8d0c-adda218006ba"
+				},
+				{
+					"verse": "Y, sin discusión alguna, el menor es bendecido por el mayor.",
+					"number": 7,
+					"id": "c44bf122-6c6d-4700-925a-84c6aad7645e"
+				},
+				{
+					"verse": "Y aquí ciertamente reciben los diezmos hombres mortales; pero allí, uno de quien se da testimonio de que vive.",
+					"number": 8,
+					"id": "9738acfe-04bb-4d3a-965a-3240246b2830"
+				},
+				{
+					"verse": "Y por decirlo así, en Abraham pagó el diezmo también Leví, que recibe los diezmos,",
+					"number": 9,
+					"id": "94ed9050-480c-4660-b2cf-3eeeeb25dba8"
+				},
+				{
+					"verse": "porque aún estaba en las entrañas de su padre cuando Melquisedec le salió al encuentro.",
+					"number": 10,
+					"id": "4ac224e7-9273-4436-b9e5-3137f34dad75"
+				},
+				{
+					"verse": "Si, pues, la perfección fuera por el sacerdocio levítico --bajo el cual recibió el pueblo la Ley--, ¿qué necesidad habría aún de que se levantara otro sacerdote, según el orden de Melquisedec, y que no fuera llamado según el orden de Aarón?,",
+					"number": 11,
+					"id": "5d99f106-e09e-490a-bcb9-cf7a92f87bda"
+				},
+				{
+					"verse": "pues cambiado el sacerdocio, necesario es que haya también cambio de ley;",
+					"number": 12,
+					"id": "699ae187-738f-4cd3-9ef6-636488a427af"
+				},
+				{
+					"verse": "y aquel de quien se dice esto, es de otra tribu, de la cual nadie sirvió al altar.",
+					"number": 13,
+					"id": "b1297fda-fcd9-4a74-8f1c-3c2b9fa027c2"
+				},
+				{
+					"verse": "Porque sabido es que nuestro Señor vino de la tribu de Judá, de la cual nada habló Moisés tocante al sacerdocio.",
+					"number": 14,
+					"id": "9afec327-387c-41da-9a79-851fe39c42cd"
+				},
+				{
+					"verse": "Y esto es aun más evidente si a semejanza de Melquisedec se levanta un sacerdote distinto,",
+					"number": 15,
+					"id": "e9e79618-a0d8-47c2-9dd4-f023c20788d9"
+				},
+				{
+					"verse": "no constituido conforme a la ley meramente humana, sino según el poder de una vida indestructible,",
+					"number": 16,
+					"id": "ac1a23c0-368b-4dab-8631-087789d65b37"
+				},
+				{
+					"verse": "pues se da testimonio de él: \"Tú eres sacerdote para siempre, según el orden de Melquisedec\".",
+					"number": 17,
+					"id": "40b7911c-5967-41b5-a866-5607cf398d31"
+				},
+				{
+					"verse": "Queda, pues, abrogado el mandamiento anterior a causa de su debilidad e ineficacia",
+					"number": 18,
+					"id": "b1207b30-3927-42ab-8fa1-4e5559b27ba7"
+				},
+				{
+					"verse": "--pues la Ley nada perfeccionó-- y se introduce una mejor esperanza, por la cual nos acercamos a Dios.",
+					"number": 19,
+					"id": "d2bd37e4-6fb2-4c42-a410-9bb882b1d329"
+				},
+				{
+					"verse": "Y esto no fue hecho sin juramento;",
+					"number": 20,
+					"id": "ada876a0-fbbe-4f2c-9ed4-2c9b655dc3da"
+				},
+				{
+					"verse": "porque los otros ciertamente sin juramento fueron hechos sacerdotes; pero este, con el juramento del que le dijo: \"Juró el Señor y no se arrepentirá: tú eres sacerdote para siempre, según el orden de Melquisedec\".",
+					"number": 21,
+					"id": "fd493b75-994c-44d1-bfac-a855b4be4333"
+				},
+				{
+					"verse": "Por tanto, Jesús es hecho fiador de un mejor pacto.",
+					"number": 22,
+					"id": "8dbb806b-4412-4e24-8d94-12206fa768f9"
+				},
+				{
+					"verse": "Y los otros sacerdotes llegaron a ser muchos, debido a que por la muerte no podían continuar;",
+					"number": 23,
+					"id": "1353212a-d35f-46a6-8067-8f0bcd966a1c"
+				},
+				{
+					"verse": "pero este, por cuanto permanece para siempre, tiene un sacerdocio inmutable.",
+					"number": 24,
+					"id": "e1f610d1-9955-4a78-984a-ad15b3cd773b"
+				},
+				{
+					"verse": "Por eso puede también salvar perpetuamente a los que por él se acercan a Dios, viviendo siempre para interceder por ellos.",
+					"number": 25,
+					"id": "c715e07c-c4ce-4adb-9a88-bfe06e9f8b98"
+				},
+				{
+					"verse": "Tal Sumo sacerdote nos convenía: santo, inocente, sin mancha, apartado de los pecadores y hecho más sublime que los cielos;",
+					"number": 26,
+					"id": "0e79c45a-c73a-43e7-857c-525695279ab0"
+				},
+				{
+					"verse": "que no tiene necesidad cada día, como aquellos sumos sacerdotes, de ofrecer primero sacrificios por sus propios pecados, y luego por los del pueblo, porque esto lo hizo una vez para siempre, ofreciéndose a sí mismo.",
+					"number": 27,
+					"id": "97c04763-d347-4c55-ae90-113a6b780a63"
+				},
+				{
+					"verse": "La Ley constituye sumos sacerdotes a hombres débiles; pero la palabra del juramento, posterior a la Ley, constituye al Hijo, hecho perfecto para siempre.",
+					"number": 28,
+					"id": "4728771f-0c72-4fc0-b2b6-7416df1cfc5d"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Ahora bien, el punto principal de lo que venimos diciendo es que tenemos tal Sumo sacerdote, el cual se sentó a la diestra del trono de la Majestad en los cielos.",
+					"number": 1,
+					"study": "El mediador de un nuevo pacto",
+					"id": "4ffa0c56-7925-494d-b4d7-c0c32e7c7698"
+				},
+				{
+					"verse": "Él es ministro del santuario y de aquel verdadero tabernáculo que levantó el Señor y no el hombre.",
+					"number": 2,
+					"id": "5de00267-2bcf-4cb1-9af9-d150e18406f9"
+				},
+				{
+					"verse": "Todo Sumo sacerdote está constituido para presentar ofrendas y sacrificios, por lo cual es necesario que también este tenga algo que ofrecer.",
+					"number": 3,
+					"id": "2ef44555-0854-4ab9-87de-0577ec4799ba"
+				},
+				{
+					"verse": "Así que, si estuviera sobre la tierra, ni siquiera sería sacerdote, habiendo aún sacerdotes que presentan las ofrendas según la Ley.",
+					"number": 4,
+					"id": "35f725e1-8887-47e5-b76a-6189590d6dd9"
+				},
+				{
+					"verse": "Estos sirven a lo que es figura y sombra de las cosas celestiales, como se le advirtió a Moisés cuando iba a erigir el Tabernáculo, diciéndole: \"Mira, haz todas las cosas conforme al modelo que se te ha mostrado en el monte\".",
+					"number": 5,
+					"id": "ef1e774a-e624-4110-ae00-e5e1067307a1"
+				},
+				{
+					"verse": "Pero ahora tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto, establecido sobre mejores promesas.",
+					"number": 6,
+					"id": "f0ab917f-ebcf-48aa-b104-9a912ae4dfa4"
+				},
+				{
+					"verse": "Si aquel primer pacto hubiera sido sin defecto, ciertamente no se habría procurado lugar para el segundo,",
+					"number": 7,
+					"id": "5020f503-93ca-4245-b458-9c660d8d49da"
+				},
+				{
+					"verse": "pues reprendiéndolos dice: \"Vienen días --dice el Señor-- en que estableceré con la casa de Israely la casa de Judá un nuevo pacto.",
+					"number": 8,
+					"id": "02f93be1-d21a-4be0-9996-c3e97f7cb2cd"
+				},
+				{
+					"verse": "No como el pacto que hice con sus padres el día que los tomé de la manopara sacarlos de la tierra de Egipto. Como ellos no permanecieronen mi pacto, yo me desentendí de ellos--dice el Señor--.",
+					"number": 9,
+					"id": "2bfb8756-90e4-49fe-827e-43b0db2c0ebc"
+				},
+				{
+					"verse": "Por lo cual, este es el pacto que harécon la casa de Israel después de aquellos días--dice el Señor--: Pondré mis leyes en la mente de ellos, y sobre su corazón las escribiré; y seré a ellos por Dios y ellos me serán a mí por pueblo.",
+					"number": 10,
+					"id": "a89160d4-d426-47ce-aa60-d402e3a7e287"
+				},
+				{
+					"verse": "Ninguno enseñará a su prójimo, ni ninguno a su hermano, diciendo:\"Conoce al Señor\", porque todos me conocerán, desde el menor hasta el mayor de ellos,",
+					"number": 11,
+					"id": "b854fd73-c7bc-4d03-ba8e-b9b448e9593b"
+				},
+				{
+					"verse": "porque seré propicio a sus injusticias, y nunca más me acordaré de sus pecadosni de sus maldades\".",
+					"number": 12,
+					"id": "42ae1842-e871-4210-a1c1-ccabbf10c671"
+				},
+				{
+					"verse": "Al decir \"Nuevo pacto\", ha dado por viejo al primero; y lo que se da por viejo y se envejece está próximo a desaparecer.",
+					"number": 13,
+					"id": "14d68ba3-d494-4b03-b12f-84bf0d681cbc"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Ahora bien, aun el primer pacto tenía ordenanzas de culto y un santuario terrenal,",
+					"number": 1,
+					"id": "3a439840-3172-45f1-9c3f-3b9e29a32a1e"
+				},
+				{
+					"verse": "pues el Tabernáculo estaba dispuesto así: en la primera parte, llamada el Lugar santo, estaban el candelabro, la mesa y los panes de la proposición.",
+					"number": 2,
+					"id": "4bd6f98e-a76a-4ff9-9f8a-fa41a7ee98e4"
+				},
+				{
+					"verse": "Tras el segundo velo estaba la parte del Tabernáculo llamada el Lugar santísimo.",
+					"number": 3,
+					"id": "0498f118-6d0b-4943-b8c2-fc7ac7400ee0"
+				},
+				{
+					"verse": "Allí había un incensario de oro y el Arca del pacto cubierta de oro por todas partes, en la que había una urna de oro que contenía el maná, la vara de Aarón que reverdeció y las tablas del pacto.",
+					"number": 4,
+					"id": "9b2bf39b-eae5-4a70-9577-9f0c4e9c043f"
+				},
+				{
+					"verse": "Sobre la urna estaban los querubines de gloria que cubrían el propiciatorio. De estas cosas no se puede ahora hablar en detalle.",
+					"number": 5,
+					"id": "250510b1-9f86-4d0d-909c-05b1e21993e8"
+				},
+				{
+					"verse": "Así dispuestas estas cosas, en la primera parte del Tabernáculo entran los sacerdotes continuamente para cumplir los oficios del culto.",
+					"number": 6,
+					"id": "78847266-c412-41a0-b3b6-14022bbdb684"
+				},
+				{
+					"verse": "Pero en la segunda parte, entra solo el Sumo sacerdote una vez al año, llevando la sangre que ofrece por sí mismo y por los pecados de ignorancia del pueblo.",
+					"number": 7,
+					"id": "d5e125a8-86aa-42c5-9498-4379dbbce979"
+				},
+				{
+					"verse": "El Espíritu Santo da a entender con esto que aún no se había abierto el camino al Lugar santísimo, entre tanto que la primera parte del Tabernáculo estuviera en pie.",
+					"number": 8,
+					"id": "fd339d24-d55e-4663-ab21-4b19b65580df"
+				},
+				{
+					"verse": "Lo cual es símbolo para el tiempo presente, según el cual se presentan ofrendas y sacrificios que no pueden hacer perfecto, en cuanto a la conciencia, al que practica ese culto,",
+					"number": 9,
+					"id": "022c8a13-7d68-4eae-9d13-8bb9ea7730f3"
+				},
+				{
+					"verse": "ya que consiste solo de comidas y bebidas, de diversas purificaciones y ordenanzas acerca de la carne, impuestas hasta el tiempo de reformar las cosas.",
+					"number": 10,
+					"id": "84a76058-e2ef-4597-a39d-8d53e00f29ec"
+				},
+				{
+					"verse": "Pero estando ya presente Cristo, Sumo sacerdote de los bienes venideros, por el más amplio y más perfecto tabernáculo, no hecho de manos, es decir, no de esta creación,",
+					"number": 11,
+					"id": "0e1576c8-00e0-4b81-bb48-840b4a03c90b"
+				},
+				{
+					"verse": "y no por sangre de machos cabríos ni de becerros, sino por su propia sangre, entró una vez para siempre en el Lugar santísimo, habiendo obtenido eterna redención.",
+					"number": 12,
+					"id": "e536c7bd-db0e-4c14-9948-2347cb69d23d"
+				},
+				{
+					"verse": "Porque si la sangre de los toros y de los machos cabríos, y las cenizas de la becerra rociadas a los impuros, santifican para la purificación de la carne,",
+					"number": 13,
+					"id": "fb564248-0b4a-4009-abea-024b66b81e8b"
+				},
+				{
+					"verse": "¿cuánto más la sangre de Cristo, el cual mediante el Espíritu eterno se ofreció a sí mismo sin mancha a Dios, limpiará vuestras conciencias de obras muertas para que sirváis al Dios vivo?",
+					"number": 14,
+					"id": "98114d6a-3207-4356-89d7-f809eee7e921"
+				},
+				{
+					"verse": "Por eso, Cristo es mediador de un nuevo pacto, para que, interviniendo muerte para la remisión de los pecados cometidos bajo el primer pacto, los llamados reciban la promesa de la herencia eterna,",
+					"number": 15,
+					"id": "623f8ad2-faa8-442d-b126-f91898d54242"
+				},
+				{
+					"verse": "pues donde hay testamento, es necesario que conste la muerte del testador,",
+					"number": 16,
+					"id": "c715da43-113b-46b1-b9a2-d9cee61581b4"
+				},
+				{
+					"verse": "porque el testamento con la muerte se confirma, pues no es válido entre tanto que el testador vive.",
+					"number": 17,
+					"id": "66538891-3ded-41c3-bc79-6a00fbcd534a"
+				},
+				{
+					"verse": "De donde ni aun el primer pacto fue instituido sin sangre,",
+					"number": 18,
+					"id": "610cf1fd-9d2a-4a71-a156-14ba33bc12e8"
+				},
+				{
+					"verse": "porque habiendo anunciado Moisés todos los mandamientos de la Ley a todo el pueblo, tomó la sangre de los becerros y de los machos cabríos, con agua, lana escarlata e hisopo, y roció el mismo libro y también a todo el pueblo",
+					"number": 19,
+					"id": "5022a213-3344-45d7-a5af-ad6a0894aad5"
+				},
+				{
+					"verse": "diciendo: \"Esta es la sangre del pacto que Dios os ha mandado\".",
+					"number": 20,
+					"id": "67e74b34-88ae-4843-820a-a8d350aab397"
+				},
+				{
+					"verse": "Además de esto, roció también con la sangre el Tabernáculo y todos los vasos del ministerio.",
+					"number": 21,
+					"id": "9d17a93c-b1c6-463a-94e2-0c86b172a3b9"
+				},
+				{
+					"verse": "Y según la Ley, casi todo es purificado con sangre; y sin derramamiento de sangre no hay remisión.",
+					"number": 22,
+					"id": "0f2096d4-5b86-473a-a84b-3df8d2143707"
+				},
+				{
+					"verse": "Fue, pues, necesario que las figuras de las cosas celestiales fueran purificadas así; pero las cosas celestiales mismas, con mejores sacrificios que estos,",
+					"number": 23,
+					"study": "El sacrificio de Cristo quita el pecado",
+					"id": "68917788-a6c8-4703-a077-8c8c811b28d7"
+				},
+				{
+					"verse": "porque no entró Cristo en el santuario hecho por los hombres, figura del verdadero, sino en el cielo mismo, para presentarse ahora por nosotros ante Dios.",
+					"number": 24,
+					"id": "0335c92a-94fe-4a62-91a2-c914ff233f4c"
+				},
+				{
+					"verse": "Y no entró para ofrecerse muchas veces, como entra el Sumo sacerdote en el Lugar santísimo cada año con sangre ajena.",
+					"number": 25,
+					"id": "4c59faca-865e-49a6-bf0d-9af60037c079"
+				},
+				{
+					"verse": "De otra manera le hubiera sido necesario padecer muchas veces desde el principio del mundo; pero ahora, en la consumación de los tiempos, se presentó una vez para siempre por el sacrificio de sí mismo para quitar de en medio el pecado.",
+					"number": 26,
+					"id": "29dbef2c-1095-44b7-b8d5-b3dba3228f64"
+				},
+				{
+					"verse": "Y de la manera que está establecido para los hombres que mueran una sola vez, y después de esto el juicio,",
+					"number": 27,
+					"id": "1e2e0509-7d87-4b52-8792-9c4d6432b526"
+				},
+				{
+					"verse": "así también Cristo fue ofrecido una sola vez para llevar los pecados de muchos; y aparecerá por segunda vez, sin relación con el pecado, para salvar a los que lo esperan.",
+					"number": 28,
+					"id": "c646b338-50f0-4ce8-8c4b-5c4d80958377"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "La Ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que se ofrecen continuamente cada año, hacer perfectos a los que se acercan.",
+					"number": 1,
+					"id": "86530757-faa8-46aa-bd26-a18dcb58a8d0"
+				},
+				{
+					"verse": "De otra manera cesarían de ofrecerse, pues los que tributan este culto, limpios una vez, no tendrían ya más conciencia de pecado.",
+					"number": 2,
+					"id": "d7577830-df9e-4385-bf44-9567083869d8"
+				},
+				{
+					"verse": "Pero en estos sacrificios cada año se hace memoria de los pecados,",
+					"number": 3,
+					"id": "cd742202-bb71-4603-a358-855bf83abf0a"
+				},
+				{
+					"verse": "porque la sangre de los toros y de los machos cabríos no puede quitar los pecados.",
+					"number": 4,
+					"id": "892cb109-dfd7-470f-92d8-60be888ab3b4"
+				},
+				{
+					"verse": "Por lo cual, entrando en el mundo dice: \"Sacrificio y ofrenda no quisiste, mas me diste un cuerpo.",
+					"number": 5,
+					"id": "eb8d6e79-fbb0-4dd2-a5db-462f2064db04"
+				},
+				{
+					"verse": "Holocaustos y expiaciones por el pecadono te agradaron.",
+					"number": 6,
+					"id": "78528873-1839-4c0a-850e-3bed10db17f8"
+				},
+				{
+					"verse": "Entonces dije: \"He aquí, vengo, Dios, para hacer tu voluntad, como en el rollo del libroestá escrito de mí\"\".",
+					"number": 7,
+					"id": "a09afa80-5933-46b4-aaac-a92a531da2e8"
+				},
+				{
+					"verse": "Diciendo primero: \"Sacrificio y ofrenda, holocaustos y expiaciones por el pecado no quisiste, ni te agradaron\" --cosas que se ofrecen según la Ley--,",
+					"number": 8,
+					"id": "ae3b4e50-bacd-4f28-94ae-74a48b9166dc"
+				},
+				{
+					"verse": "y diciendo luego: \"He aquí, vengo, Dios, para hacer tu voluntad\", quita lo primero para establecer esto último.",
+					"number": 9,
+					"id": "7f0002be-70f7-4ed7-a88b-e83a63989175"
+				},
+				{
+					"verse": "En esa voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo hecha una vez para siempre.",
+					"number": 10,
+					"id": "3e715c9e-fe92-4eb0-94b6-be2f2d1188ac"
+				},
+				{
+					"verse": "Ciertamente, todo sacerdote está día tras día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados.",
+					"number": 11,
+					"id": "cde86fd3-bbbf-4d38-915f-41b7ea418c52"
+				},
+				{
+					"verse": "Pero Cristo, habiendo ofrecido una vez para siempre un solo sacrificio por los pecados, se ha sentado a la diestra de Dios.",
+					"number": 12,
+					"id": "7a86d06e-3d9d-436e-acdf-cd2497c645c7"
+				},
+				{
+					"verse": "Allí estará esperando hasta que sus enemigos sean puestos por estrado de sus pies.",
+					"number": 13,
+					"id": "9ef351fb-be88-42e6-93d2-d028de4e4571"
+				},
+				{
+					"verse": "Y así, con una sola ofrenda hizo perfectos para siempre a los santificados.",
+					"number": 14,
+					"id": "2e17caa3-0721-40c9-989b-3d6bb5bc0a1d"
+				},
+				{
+					"verse": "El Espíritu Santo nos atestigua lo mismo, porque después de haber dicho:",
+					"number": 15,
+					"id": "57ca1fa3-0f46-4378-a37c-a62e71287a39"
+				},
+				{
+					"verse": "\"Este es el pacto que haré con ellos después de aquellos días, dice el Señor: Pondré mis leyes en sus corazones, y en sus mentes las escribiré\",",
+					"number": 16,
+					"id": "cdf60bf7-5136-4fbc-add9-2fad02b6a1cb"
+				},
+				{
+					"verse": "añade: \"Y nunca más me acordaréde sus pecados y transgresiones\",",
+					"number": 17,
+					"id": "3c2794fe-2387-401d-b3bf-e316a5e6d43e"
+				},
+				{
+					"verse": "pues donde hay remisión de estos, no hay más ofrenda por el pecado.",
+					"number": 18,
+					"id": "10c3b881-fe78-45c0-8a23-5c427e6bad0b"
+				},
+				{
+					"verse": "Así que, hermanos, tenemos libertad para entrar en el Lugar santísimo por la sangre de Jesucristo,",
+					"number": 19,
+					"id": "72018b8f-0a9a-4bba-bfbf-03a62ebd87f2"
+				},
+				{
+					"verse": "por el camino nuevo y vivo que él nos abrió a través del velo, esto es, de su carne.",
+					"number": 20,
+					"id": "949d5759-7159-4330-9e65-77cf36df1ef9"
+				},
+				{
+					"verse": "También tenemos un gran sacerdote sobre la casa de Dios.",
+					"number": 21,
+					"id": "ef073b62-d47d-4863-b218-5dc3868f024c"
+				},
+				{
+					"verse": "Acerquémonos, pues, con corazón sincero, en plena certidumbre de fe, purificados los corazones de mala conciencia y lavados los cuerpos con agua pura.",
+					"number": 22,
+					"id": "ca67217d-9d3e-401c-ac20-d90f8cf5da8b"
+				},
+				{
+					"verse": "Mantengamos firme, sin fluctuar, la profesión de nuestra esperanza, porque fiel es el que prometió.",
+					"number": 23,
+					"id": "df76c7ba-250f-4587-ae08-0226934d70d4"
+				},
+				{
+					"verse": "Y considerémonos unos a otros para estimularnos al amor y a las buenas obras,",
+					"number": 24,
+					"id": "e4211d84-9ece-464b-92bc-740dd8b9db72"
+				},
+				{
+					"verse": "no dejando de congregarnos, como algunos tienen por costumbre, sino exhortándonos; y tanto más, cuanto veis que aquel día se acerca.",
+					"number": 25,
+					"id": "ddcc3c2c-5e4f-4d6e-9988-40144c77ac4d"
+				},
+				{
+					"verse": "Si pecamos voluntariamente después de haber recibido el conocimiento de la verdad, ya no queda más sacrificio por los pecados,",
+					"number": 26,
+					"study": "Advertencia al que peca deliberadamente",
+					"id": "bfd92eea-357a-46f8-ab99-42b0b480bdd9"
+				},
+				{
+					"verse": "sino una horrenda expectación de juicio y de hervor de fuego que ha de devorar a los adversarios.",
+					"number": 27,
+					"id": "a0d58ba1-c65f-4883-bdda-ee675d84ef12"
+				},
+				{
+					"verse": "El que viola la Ley de Moisés, por el testimonio de dos o de tres testigos muere irremisiblemente.",
+					"number": 28,
+					"id": "2cdd80b7-ccf3-43b2-80d1-77cf8f38fb87"
+				},
+				{
+					"verse": "¿Cuánto mayor castigo pensáis que merecerá el que pisotee al Hijo de Dios, y tenga por inmunda la sangre del pacto en la cual fue santificado y ofenda al Espíritu de gracia?",
+					"number": 29,
+					"id": "72cf1a58-ad1a-4dad-b387-7deebc19ad0c"
+				},
+				{
+					"verse": "Pues conocemos al que dijo: \"Mía es la venganza, yo daré el pago\" --dice el Señor--. Y otra vez: \"El Señor juzgará a su pueblo\".",
+					"number": 30,
+					"id": "760896d6-2251-402f-b9e7-10246e9284f8"
+				},
+				{
+					"verse": "¡Horrenda cosa es caer en manos del Dios vivo!",
+					"number": 31,
+					"id": "d407b719-eba9-46a8-b3bc-e36b79931756"
+				},
+				{
+					"verse": "Pero traed a la memoria los días pasados, en los cuales, después de haber sido iluminados, sostuvisteis un fuerte y doloroso combate;",
+					"number": 32,
+					"id": "b2bc8eca-7003-4041-a4af-9515908831ed"
+				},
+				{
+					"verse": "por una parte, ciertamente, con vituperios y tribulaciones fuisteis hechos espectáculo, y por otra, llegasteis a ser compañeros de los que estaban en una situación semejante:",
+					"number": 33,
+					"id": "8980558b-f165-4b0a-b577-25fbd75d06e0"
+				},
+				{
+					"verse": "porque de los presos también os compadecisteis, y el despojo de vuestros bienes sufristeis con gozo, sabiendo que tenéis en vosotros una mejor y perdurable herencia en los cielos.",
+					"number": 34,
+					"id": "776ae549-3181-46fa-9ab9-79ae7dbcce4a"
+				},
+				{
+					"verse": "No perdáis, pues, vuestra confianza, que tiene una gran recompensa,",
+					"number": 35,
+					"id": "5ce8c92b-fa52-4391-8a10-12c88d646886"
+				},
+				{
+					"verse": "pues os es necesaria la paciencia, para que, habiendo hecho la voluntad de Dios, obtengáis la promesa.",
+					"number": 36,
+					"id": "cb78fcc0-742a-4a5b-a4d5-e888b8b41da6"
+				},
+				{
+					"verse": "\"Porque aún un poco y el que ha de venir vendrá, y no tardará.",
+					"number": 37,
+					"id": "e66521b3-e883-45f5-bdce-b4670c3bfdfd"
+				},
+				{
+					"verse": "Mas el justo vivirá por fe; pero si retrocede,no agradará a mi alma\".",
+					"number": 38,
+					"id": "5ef45842-dc10-4b83-b43b-351dd2569f47"
+				},
+				{
+					"verse": "Pero nosotros no somos de los que retroceden para perdición, sino de los que tienen fe para preservación del alma.",
+					"number": 39,
+					"id": "bdd5cde6-aa75-4501-96b6-06187ac24583"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+					"number": 1,
+					"study": "La fe",
+					"id": "6c2a80d0-7ad3-4e38-8cb4-327ca8c5182c"
+				},
+				{
+					"verse": "Por ella alcanzaron buen testimonio los antiguos.",
+					"number": 2,
+					"id": "68d8ba53-d188-4523-91d4-935cf6044742"
+				},
+				{
+					"verse": "Por la fe comprendemos que el universo fue hecho por la palabra de Dios, de modo que lo que se ve fue hecho de lo que no se veía.",
+					"number": 3,
+					"id": "630b2aca-2771-4bdf-be8f-f56f242445b4"
+				},
+				{
+					"verse": "Por la fe Abel ofreció a Dios más excelente sacrificio que Caín, por lo cual alcanzó testimonio de que era justo, dando Dios testimonio de sus ofrendas; y muerto, aún habla por ella.",
+					"number": 4,
+					"id": "ef4b38d6-5c87-4585-b766-c7f92ee45ce0"
+				},
+				{
+					"verse": "Por la fe Enoc fue traspuesto para no ver muerte, y no fue hallado, porque lo traspuso Dios; y antes que fuera traspuesto, tuvo testimonio de haber agradado a Dios.",
+					"number": 5,
+					"id": "7fded6ef-eb8c-46b8-9ab5-985c66c7b044"
+				},
+				{
+					"verse": "Pero sin fe es imposible agradar a Dios, porque es necesario que el que se acerca a Dios crea que él existe y que recompensa a los que lo buscan.",
+					"number": 6,
+					"id": "95c9499f-d5cc-4081-99c3-32f2d2c464c5"
+				},
+				{
+					"verse": "Por la fe Noé, cuando fue advertido por Dios acerca de cosas que aún no se veían, con temor preparó el arca en que su casa se salvaría; y por esa fe condenó al mundo y fue hecho heredero de la justicia que viene por la fe.",
+					"number": 7,
+					"id": "134014c7-094d-474b-9b09-2266e93ecc4e"
+				},
+				{
+					"verse": "Por la fe Abraham, siendo llamado, obedeció para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba.",
+					"number": 8,
+					"id": "594ccd1a-4151-4d48-a4bd-5ef1e9a6ed5b"
+				},
+				{
+					"verse": "Por la fe habitó como extranjero en la tierra prometida como en tierra ajena, habitando en tiendas con Isaac y Jacob, coherederos de la misma promesa,",
+					"number": 9,
+					"id": "6b62a714-608e-4ebf-898d-01b47e596994"
+				},
+				{
+					"verse": "porque esperaba la ciudad que tiene fundamentos, cuyo arquitecto y constructor es Dios.",
+					"number": 10,
+					"id": "f2110056-0abe-45af-9fb7-e5c0755d83ad"
+				},
+				{
+					"verse": "Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir; y dio a luz aun fuera del tiempo de la edad, porque creyó que era fiel quien lo había prometido.",
+					"number": 11,
+					"id": "a5abfaa5-2605-4c59-8960-7d0cf71eb64c"
+				},
+				{
+					"verse": "Por lo cual también, de uno, y ese ya casi muerto, salieron como las estrellas del cielo en multitud, como la arena innumerable que está a la orilla del mar.",
+					"number": 12,
+					"id": "e06e39f3-1d58-4236-b4ea-94ff06ae4308"
+				},
+				{
+					"verse": "En la fe murieron todos estos sin haber recibido lo prometido, sino mirándolo de lejos, creyéndolo y saludándolo, y confesando que eran extranjeros y peregrinos sobre la tierra.",
+					"number": 13,
+					"id": "81490091-1f4b-49e4-a312-4534c67c7743"
+				},
+				{
+					"verse": "Los que esto dicen, claramente dan a entender que buscan una patria,",
+					"number": 14,
+					"id": "1faddd0b-76dd-4187-ad00-08fe5b52f7a4"
+				},
+				{
+					"verse": "pues si hubieran estado pensando en aquella de donde salieron, ciertamente tenían tiempo de volver.",
+					"number": 15,
+					"id": "14f3c2bf-3a45-441a-a3ca-bb36cc20d841"
+				},
+				{
+					"verse": "Pero anhelaban una mejor, esto es, celestial; por lo cual Dios no se averg@uenza de llamarse Dios de ellos, porque les ha preparado una ciudad.",
+					"number": 16,
+					"id": "1d3f85de-58e2-4e03-b4ec-a2f4e7e57ae7"
+				},
+				{
+					"verse": "Por la fe Abraham, cuando fue probado, ofreció a Isaac: el que había recibido las promesas, ofrecía su unigénito,",
+					"number": 17,
+					"id": "2d812269-7bef-4df6-96f5-f25b82b6a432"
+				},
+				{
+					"verse": "habiéndosele dicho: \"En Isaac te será llamada descendencia\",",
+					"number": 18,
+					"id": "d8a98de3-07de-40ae-b96c-82bcb83d5fb8"
+				},
+				{
+					"verse": "porque pensaba que Dios es poderoso para levantar aun de entre los muertos, de donde, en sentido figurado, también lo volvió a recibir.",
+					"number": 19,
+					"id": "21b5ba3a-91dc-46a7-b7a4-ffaee50ca384"
+				},
+				{
+					"verse": "Por la fe bendijo Isaac a Jacob y a Esaú respecto a cosas venideras.",
+					"number": 20,
+					"id": "569267fc-dd08-4916-84f5-c7f47904ee30"
+				},
+				{
+					"verse": "Por la fe Jacob, al morir, bendijo a cada uno de los hijos de José y adoró apoyado sobre el extremo de su bastón.",
+					"number": 21,
+					"id": "3a4aa8a9-be7f-4181-a255-55e638be75db"
+				},
+				{
+					"verse": "Por la fe José, al morir, mencionó la salida de los hijos de Israel y dio mandamiento acerca de sus huesos.",
+					"number": 22,
+					"id": "a5a47d8c-638b-4d0f-a05d-59ca95c6b46b"
+				},
+				{
+					"verse": "Por la fe Moisés, cuando nació, fue escondido por sus padres por tres meses, porque lo vieron niño hermoso y no temieron el decreto del rey.",
+					"number": 23,
+					"id": "74039423-f0f8-4d3d-ac35-945bc06d24c4"
+				},
+				{
+					"verse": "Por la fe Moisés, hecho ya grande, rehusó llamarse hijo de la hija del faraón,",
+					"number": 24,
+					"id": "afab4b09-a4dc-4036-8969-451245c1e677"
+				},
+				{
+					"verse": "prefiriendo ser maltratado con el pueblo de Dios, antes que gozar de los deleites temporales del pecado,",
+					"number": 25,
+					"id": "b5c44779-41c9-4851-becc-d4a5f4457c11"
+				},
+				{
+					"verse": "teniendo por mayores riquezas el oprobio de Cristo que los tesoros de los egipcios, porque tenía puesta la mirada en la recompensa.",
+					"number": 26,
+					"id": "f4ea177c-56dd-4124-92ec-17132e7d7c1c"
+				},
+				{
+					"verse": "Por la fe dejó a Egipto, no temiendo la ira del rey, porque se sostuvo como viendo al Invisible.",
+					"number": 27,
+					"id": "51b5cddd-38d7-46fa-9f4f-612722dd23d5"
+				},
+				{
+					"verse": "Por la fe celebró la Pascua y la aspersión de la sangre, para que el que destruía a los primogénitos no los tocara a ellos.",
+					"number": 28,
+					"id": "8287e7ed-2778-4f42-9c43-599c53e3f242"
+				},
+				{
+					"verse": "Por la fe pasaron el Mar Rojo como por tierra seca; e intentando los egipcios hacer lo mismo, fueron ahogados.",
+					"number": 29,
+					"id": "59a004d3-8047-47b2-b0fd-f951474dfb63"
+				},
+				{
+					"verse": "Por la fe cayeron los muros de Jericó después de rodearlos siete días.",
+					"number": 30,
+					"id": "b466cd07-d1ce-4f55-9eef-c4cb177cf084"
+				},
+				{
+					"verse": "Por la fe Rahab la ramera no pereció juntamente con los desobedientes, porque recibió a los espías en paz.",
+					"number": 31,
+					"id": "db3fb9b0-65ee-4c83-a34a-7641798a1997"
+				},
+				{
+					"verse": "¿Y qué más digo? El tiempo me faltaría para hablar de Gedeón, de Barac, de Sansón, de Jefté, de David, así como de Samuel y de los profetas.",
+					"number": 32,
+					"id": "adcd771e-3010-438a-8723-ade04a8463e6"
+				},
+				{
+					"verse": "Todos ellos, por fe, conquistaron reinos, hicieron justicia, alcanzaron promesas, taparon bocas de leones,",
+					"number": 33,
+					"id": "6a4cfb42-55ac-47ca-82e1-2b1aad8ddf4f"
+				},
+				{
+					"verse": "apagaron fuegos impetuosos, evitaron filo de espada, sacaron fuerzas de debilidad, se hicieron fuertes en batallas, pusieron en fuga ejércitos extranjeros.",
+					"number": 34,
+					"id": "6096d556-650d-4cf0-8e7c-76366fb51b0b"
+				},
+				{
+					"verse": "Hubo mujeres que recobraron con vida a sus muertos; pero otros fueron atormentados, no aceptando el rescate, a fin de obtener mejor resurrección.",
+					"number": 35,
+					"id": "faa6c5e3-3ebf-4bc3-ad42-1b5f77be546f"
+				},
+				{
+					"verse": "Otros experimentaron oprobios, azotes y, a más de esto, prisiones y cárceles.",
+					"number": 36,
+					"id": "67eee37d-dd03-4751-afca-d962810252e9"
+				},
+				{
+					"verse": "Fueron apedreados, aserrados, puestos a prueba, muertos a filo de espada. Anduvieron de acá para allá cubiertos de pieles de ovejas y de cabras, pobres, angustiados, maltratados.",
+					"number": 37,
+					"id": "f75df99e-e2f9-4d2b-a868-c5d8e12c4f8e"
+				},
+				{
+					"verse": "Estos hombres, de los cuales el mundo no era digno, anduvieron errantes por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra.",
+					"number": 38,
+					"id": "6fbc1715-c36a-4e58-8006-15a948426ef8"
+				},
+				{
+					"verse": "Pero ninguno de ellos, aunque alcanzaron buen testimonio mediante la fe, recibió lo prometido,",
+					"number": 39,
+					"id": "c60c3839-a759-4e07-bc0d-c266ca0e56f7"
+				},
+				{
+					"verse": "porque Dios tenía reservado algo mejor para nosotros, para que no fueran ellos perfeccionados aparte de nosotros.",
+					"number": 40,
+					"id": "6d90a551-5085-46c5-b473-50fdc36f710f"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Por tanto, nosotros también, teniendo en derredor nuestro tan grande nube de testigos, despojémonos de todo peso y del pecado que nos asedia, y corramos con paciencia la carrera que tenemos por delante,",
+					"number": 1,
+					"study": "Puestos los ojos en Jesús",
+					"id": "85ab35d2-05a4-46ee-9623-657025249de2"
+				},
+				{
+					"verse": "puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios.",
+					"number": 2,
+					"id": "e8df78f2-4c35-4c6e-bf3a-c0795380a655"
+				},
+				{
+					"verse": "Considerad a aquel que sufrió tal contradicción de pecadores contra sí mismo, para que vuestro ánimo no se canse hasta desmayar,",
+					"number": 3,
+					"id": "02a5cefb-8dd6-4736-878a-4ee27c40715c"
+				},
+				{
+					"verse": "pues aún no habéis resistido hasta la sangre, combatiendo contra el pecado;",
+					"number": 4,
+					"id": "4414d24c-4b29-4353-a3a9-0047236b9fec"
+				},
+				{
+					"verse": "y habéis ya olvidado la exhortación que como a hijos se os dirige, diciendo: \"Hijo mío, no menospreciesla disciplina del Señor ni desmayes cuando eres reprendidopor él,",
+					"number": 5,
+					"id": "44fc57df-c5e1-49a9-b87e-36971a000241"
+				},
+				{
+					"verse": "porque el Señor al que ama, disciplina, y azota a todo el que recibe por hijo\".",
+					"number": 6,
+					"id": "e947e883-78d3-4717-be2c-06d6f94d8b87"
+				},
+				{
+					"verse": "Si soportáis la disciplina, Dios os trata como a hijos; porque ¿qué hijo es aquel a quien el padre no disciplina?",
+					"number": 7,
+					"id": "5ce54eea-f3d0-489c-a2e2-44e221d74162"
+				},
+				{
+					"verse": "Pero si se os deja sin disciplina, de la cual todos han sido participantes, entonces sois bastardos, no hijos.",
+					"number": 8,
+					"id": "f700b06f-8930-4349-ba4f-b5d4958d60fb"
+				},
+				{
+					"verse": "Por otra parte, tuvimos a nuestros padres terrenales que nos disciplinaban, y los venerábamos. ¿Por qué no obedeceremos mucho mejor al Padre de los espíritus, y viviremos?",
+					"number": 9,
+					"id": "08fbb94f-8d80-4579-bd86-84955bfbcd21"
+				},
+				{
+					"verse": "Y aquellos, ciertamente por pocos días nos disciplinaban como a ellos les parecía, pero este para lo que nos es provechoso, para que participemos de su santidad.",
+					"number": 10,
+					"id": "73ea71db-88ad-41ef-bfac-275281a8020b"
+				},
+				{
+					"verse": "Es verdad que ninguna disciplina al presente parece ser causa de gozo, sino de tristeza; pero después da fruto apacible de justicia a los que por medio de ella han sido ejercitados.",
+					"number": 11,
+					"id": "8e54247a-4fe6-41b7-82c1-c06c65e88f8a"
+				},
+				{
+					"verse": "Por eso, levantad las manos caídas y las rodillas paralizadas,",
+					"number": 12,
+					"study": "Los que rechazan la gracia de Dios",
+					"id": "cdceebb7-7a52-4051-945e-2ee25bce6ea3"
+				},
+				{
+					"verse": "y haced sendas derechas para vuestros pies, para que lo cojo no se salga del camino, sino que sea sanado.",
+					"number": 13,
+					"id": "61e1fb70-f94d-495f-9722-38402589ad3f"
+				},
+				{
+					"verse": "Seguid la paz con todos y la santidad, sin la cual nadie verá al Señor.",
+					"number": 14,
+					"id": "5f3b067c-e79b-4a4e-8ba5-4dc5b1182bee"
+				},
+				{
+					"verse": "Mirad bien, para que ninguno deje de alcanzar la gracia de Dios, y para que no brote ninguna raíz de amargura que os perturbe y contamine a muchos.",
+					"number": 15,
+					"id": "21cea877-8139-46b9-8b73-c9e9ab759494"
+				},
+				{
+					"verse": "Que no haya ningún fornicario o profano, como Esaú, que por una sola comida vendió su primogenitura.",
+					"number": 16,
+					"id": "cb400d57-ada0-48e4-9a84-a60ab4aa22b0"
+				},
+				{
+					"verse": "Ya sabéis que aun después, deseando heredar la bendición, fue desechado, y no tuvo oportunidad para el arrepentimiento, aunque la procuró con lágrimas.",
+					"number": 17,
+					"id": "bddf5769-63f6-44a0-bebf-63dc5f80081c"
+				},
+				{
+					"verse": "No os habéis acercado al monte que se podía palpar y que ardía en fuego, a la oscuridad, a las tinieblas y a la tempestad,",
+					"number": 18,
+					"id": "889742d7-0806-46bf-8e54-829a89f3ce3c"
+				},
+				{
+					"verse": "al sonido de la trompeta y a la voz que hablaba, la cual los que la oyeron rogaron que no les siguiera hablando,",
+					"number": 19,
+					"id": "6cb84daf-4ed9-4676-a3ec-4dfd53218a0c"
+				},
+				{
+					"verse": "porque no podían soportar lo que se ordenaba: \"Si aun una bestia toca el monte, será apedreada o asaetada\".",
+					"number": 20,
+					"id": "4841f230-8b10-4e1b-9d7a-66c2e4e5fa3b"
+				},
+				{
+					"verse": "Tan terrible era lo que se veía, que Moisés dijo: \"Estoy espantado y temblando\".",
+					"number": 21,
+					"id": "9232c7b4-4786-447d-b75e-298a46d30149"
+				},
+				{
+					"verse": "Vosotros, en cambio, os habéis acercado al monte Sión, a la ciudad del Dios vivo, Jerusalén la celestial, a la compañía de muchos millares de ángeles,",
+					"number": 22,
+					"id": "16429a55-517d-4cc9-871f-cda3acda958d"
+				},
+				{
+					"verse": "a la congregación de los primogénitos que están inscritos en los cielos. Os habéis acercado a Dios, Juez de todos, a los espíritus de los justos hechos perfectos,",
+					"number": 23,
+					"id": "c9dc070e-11c2-49ff-883b-e838f92f13e4"
+				},
+				{
+					"verse": "a Jesús, Mediador del nuevo pacto, y a la sangre rociada que habla mejor que la de Abel.",
+					"number": 24,
+					"id": "ccde1768-2221-4454-b795-a510342df36b"
+				},
+				{
+					"verse": "Mirad que no desechéis al que habla, pues si no escaparon aquellos que desecharon al que los amonestaba en la tierra, mucho menos nosotros, si desechamos al que amonesta desde los cielos.",
+					"number": 25,
+					"id": "e66b6ee9-6087-4efe-a5cf-38050c66051d"
+				},
+				{
+					"verse": "Su voz conmovió entonces la tierra, pero ahora ha prometido diciendo: \"Una vez más conmoveré no solamente la tierra, sino también el cielo\".",
+					"number": 26,
+					"id": "60bbdb4d-bf60-48f7-83ae-77031f2ac138"
+				},
+				{
+					"verse": "Y esta frase: \"Una vez más\", indica la remoción de las cosas movibles, como cosas hechas, para que queden las inconmovibles.",
+					"number": 27,
+					"id": "f79e8399-77e9-4009-b02d-fcd0241600ce"
+				},
+				{
+					"verse": "Así que, recibiendo nosotros un Reino inconmovible, tengamos gratitud, y mediante ella sirvamos a Dios agradándole con temor y reverencia,",
+					"number": 28,
+					"id": "ff5db4cb-2b58-4bdf-afcf-040b48bb8f4c"
+				},
+				{
+					"verse": "porque nuestro Dios es fuego consumidor.",
+					"number": 29,
+					"id": "aad62724-1ca9-446c-91b7-f30151c8361c"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Permanezca el amor fraternal.",
+					"number": 1,
+					"study": "Deberes cristianos",
+					"id": "1829f958-9359-4b74-ae94-e2cf5eb8fd48"
+				},
+				{
+					"verse": "No os olvidéis de la hospitalidad, porque por ella algunos, sin saberlo, hospedaron ángeles.",
+					"number": 2,
+					"id": "9d50ac05-2340-4b80-b5c6-0300ad031321"
+				},
+				{
+					"verse": "Acordaos de los presos, como si estuvierais presos juntamente con ellos; y de los maltratados, como si vosotros estuvierais en su mismo cuerpo.",
+					"number": 3,
+					"id": "5d29285e-f0bc-4bf7-a2ef-015b04ceb3c3"
+				},
+				{
+					"verse": "Honroso sea en todos el matrimonio y el lecho sin mancilla; pero a los fornicarios y a los adúlteros los juzgará Dios.",
+					"number": 4,
+					"id": "f68f1255-47cd-4f39-85e7-2ebb449e561d"
+				},
+				{
+					"verse": "Sean vuestras costumbres sin avaricia, contentos con lo que tenéis ahora, pues él dijo: \"No te desampararé ni te dejaré\".",
+					"number": 5,
+					"id": "f3a40f7d-3bcf-445e-8186-659c88b1c577"
+				},
+				{
+					"verse": "Así que podemos decir confiadamente: \"El Señor es mi ayudador; no temeré lo que me pueda hacer el hombre\".",
+					"number": 6,
+					"id": "0dd93f34-2b2b-42ce-87b1-9e0eb53eef8a"
+				},
+				{
+					"verse": "Acordaos de vuestros pastores, que os hablaron la palabra de Dios; considerad cuál haya sido el resultado de su conducta e imitad su fe.",
+					"number": 7,
+					"id": "25eb2dc4-4b2c-4661-8a15-2e57e21cdc89"
+				},
+				{
+					"verse": "Jesucristo es el mismo ayer, hoy y por los siglos.",
+					"number": 8,
+					"id": "57f3c3b0-694b-4359-a4b2-af21b7df3f4f"
+				},
+				{
+					"verse": "No os dejéis llevar de doctrinas diversas y extrañas. Es mejor afirmar el corazón con la gracia, no con alimentos que nunca aprovecharon a los que se han ocupado de ellos.",
+					"number": 9,
+					"id": "26c4126a-03d0-4d6e-8972-0b1e5aa651cc"
+				},
+				{
+					"verse": "Tenemos un altar, del cual no tienen derecho de comer los que sirven al Tabernáculo,",
+					"number": 10,
+					"id": "fe29f3c8-1077-4ec3-8c79-58f74182da93"
+				},
+				{
+					"verse": "porque los cuerpos de aquellos animales cuya sangre a causa del pecado es introducida en el santuario por el Sumo sacerdote, son quemados fuera del campamento.",
+					"number": 11,
+					"id": "83715c1a-04b3-477f-b51c-c8e7201296fd"
+				},
+				{
+					"verse": "Por lo cual también Jesús, para santificar al pueblo mediante su propia sangre, padeció fuera de la puerta.",
+					"number": 12,
+					"id": "b9cf55ac-9713-4c14-a1ab-e2d744182208"
+				},
+				{
+					"verse": "Salgamos, pues, a él, fuera del campamento, llevando su oprobio,",
+					"number": 13,
+					"id": "903d0886-bd3d-4321-8b4f-2869f7384cd8"
+				},
+				{
+					"verse": "porque no tenemos aquí ciudad permanente, sino que buscamos la por venir.",
+					"number": 14,
+					"id": "a598635a-a108-4ed5-92ba-9cfbd40bbf69"
+				},
+				{
+					"verse": "Así que, ofrezcamos siempre a Dios, por medio de él, sacrificio de alabanza, es decir, fruto de labios que confiesan su nombre.",
+					"number": 15,
+					"id": "0f62ae02-8b06-4b1e-859c-cea6440f1e6e"
+				},
+				{
+					"verse": "Y de hacer el bien y de la ayuda mutua no os olvidéis, porque de tales sacrificios se agrada Dios.",
+					"number": 16,
+					"id": "0196dec1-b2b0-4b8b-baef-c2bffd4666d6"
+				},
+				{
+					"verse": "Obedeced a vuestros pastores y sujetaos a ellos, porque ellos velan por vuestras almas como quienes han de dar cuenta, para que lo hagan con alegría, sin quejarse, porque esto no os es provechoso.",
+					"number": 17,
+					"id": "779065b5-3863-4400-bd04-4e006a483b80"
+				},
+				{
+					"verse": "Orad por nosotros, pues confiamos en que tenemos buena conciencia, ya que deseamos conducirnos bien en todo.",
+					"number": 18,
+					"id": "524fa57c-ea51-40c3-8e43-a22de6a6190b"
+				},
+				{
+					"verse": "Y más os ruego que lo hagáis así, para que pueda volver a estar pronto con vosotros.",
+					"number": 19,
+					"id": "4c619a86-d112-4cbc-9bf8-6a8b6e3bd877"
+				},
+				{
+					"verse": "Que el Dios de paz, que resucitó de los muertos a nuestro Señor Jesucristo, el gran pastor de las ovejas, por la sangre del pacto eterno,",
+					"number": 20,
+					"study": "Bendición y salutaciones finales",
+					"id": "6b59ffa2-2e2e-474d-b127-05d10ccda414"
+				},
+				{
+					"verse": "os haga aptos en toda obra buena para que hagáis su voluntad, haciendo él en vosotros lo que es agradable delante de él por Jesucristo; al cual sea la gloria por los siglos de los siglos. Amén.",
+					"number": 21,
+					"id": "ad2e8cc7-d439-44b3-bfb9-75896080fcbf"
+				},
+				{
+					"verse": "Os ruego, hermanos, que soportéis la palabra de exhortación, pues os he escrito brevemente.",
+					"number": 22,
+					"id": "da6102b8-156e-4ebc-8e27-f0e871c79937"
+				},
+				{
+					"verse": "Sabed que está en libertad nuestro hermano Timoteo, con el cual, si viene pronto, iré a veros.",
+					"number": 23,
+					"id": "61c168de-2c97-459b-a258-8095555ffd3f"
+				},
+				{
+					"verse": "Saludad a todos vuestros pastores y a todos los santos. Los de Italia os saludan.",
+					"number": 24,
+					"id": "a4ac1eed-29bb-4d26-be03-77256ce7f1b2"
+				},
+				{
+					"verse": "La gracia sea con todos vosotros. Amén.",
+					"number": 25,
+					"id": "55ddc984-7d32-4476-95e6-1fd896a5a764"
+				}
+			]
+		}
+	],
+	"book_id": "bdc538e3-26fd-446e-a383-731bf57a3943"
+}

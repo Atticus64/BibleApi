@@ -1,0 +1,2115 @@
+{
+	"name": "Nehemias",
+	"num_chapters": 13,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Ésta es la historia de Nehemías, hijo de Hacalías. En el año veinte del reinado de Artajerjes, en el mes de Quisleu, yo, Nehemías, estaba en la ciudadela de Susa",
+					"number": 1,
+					"study": "Oración de Nehemías sobre Jerusalén",
+					"id": "8f2dfc44-2fea-4587-a2b6-5f6db32ba10c"
+				},
+				{
+					"verse": "cuando llegó mi hermano Hananí con unos hombres que venían de Judá. Entonces les pregunté por Jerusalén y por los judíos que habían escapado de ir al destierro.",
+					"number": 2,
+					"id": "8e781927-0590-4cde-9199-5249d73626d6"
+				},
+				{
+					"verse": "Y me contestaron: «Los que escaparon de ir al destierro y se quedaron en la provincia, están en una situación muy difícil y vergonzosa. En cuanto a Jerusalén, la muralla ha sido derribada y sus puertas han sido destruidas por el fuego.»",
+					"number": 3,
+					"id": "445b572b-5c90-45a8-98da-51fde80b0ec3"
+				},
+				{
+					"verse": "Al escuchar estas noticias, me senté a llorar, y por algunos días estuve muy triste, ayunando y orando ante el Dios del cielo.",
+					"number": 4,
+					"id": "2a8dc51d-10d8-40db-be1c-2813540df8bd"
+				},
+				{
+					"verse": "Y le dije: «Señor, Dios del cielo, Dios grande y terrible, que mantienes firme tu alianza y tu fidelidad con los que te aman y cumplen tus mandamientos;",
+					"number": 5,
+					"id": "89d843b2-1eab-4ead-9683-e5733588359b"
+				},
+				{
+					"verse": "te ruego ahora que atiendas a la oración que día y noche te dirijo en favor de tus siervos, los israelitas. Reconozco que nosotros los israelitas hemos pecado contra ti; ¡hasta mis familiares y yo hemos pecado!",
+					"number": 6,
+					"id": "5e627832-c0aa-4782-ab59-2c9bf4cc28f9"
+				},
+				{
+					"verse": "Nos hemos conducido de la peor manera ante ti; no hemos cumplido los mandamientos, leyes y decretos que nos diste por medio de tu siervo Moisés.",
+					"number": 7,
+					"id": "554a0bf4-8be4-421c-951a-18a17dec1ba5"
+				},
+				{
+					"verse": "Recuerda que le advertiste que si nosotros pecábamos, nos dispersarías por todo el mundo;",
+					"number": 8,
+					"id": "93ed657a-f62f-4f77-9a8e-7317474504f1"
+				},
+				{
+					"verse": "pero que si nos volvíamos a ti y cumplíamos tus mandamientos, poniéndolos en práctica, aun cuando fuéramos esparcidos hasta el último rincón del mundo nos recogerías de allí y nos llevarías de nuevo al santo lugar que escogiste como residencia de tu nombre.",
+					"number": 9,
+					"id": "ea1bc8f5-874a-4849-803e-5f9c80d88fb8"
+				},
+				{
+					"verse": "»Nosotros somos tus siervos y tu pueblo, que rescataste con tu gran poder y fortaleza.",
+					"number": 10,
+					"id": "7f323709-3050-4195-818d-b6bc06549461"
+				},
+				{
+					"verse": "Te ruego, pues, Señor, que atiendas a mi oración y las súplicas de tus siervos, cuyo único deseo es honrarte. Te pido también que me des éxito y despiertes hacia mí las simpatías del rey.»\nYo era entonces copero del rey Artajerjes.",
+					"number": 11,
+					"id": "8d3140d6-91e3-4c2b-920f-3148f9bd1ffe"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Y un día del mes de Nisán, en el año veinte de su reinado, mientras yo le servía vino, el rey me vio tan triste",
+					"number": 1,
+					"study": "Artajerjes envía a Nehemías a Jerusalén",
+					"id": "fbb84844-e14e-4ec4-ba86-ad8d604a016e"
+				},
+				{
+					"verse": "que me preguntó:\n—Te veo muy triste. ¿Qué te pasa? No pareces estar enfermo, así que has de tener algún problema.\nEn ese momento sentí un gran temor,",
+					"number": 2,
+					"id": "114b9b8c-9656-4e05-9d2e-2866d712e791"
+				},
+				{
+					"verse": "y le dije al rey:\n—¡Viva siempre Su Majestad! ¿Y cómo no he de verme triste, si la ciudad donde están las tumbas de mis padres se halla en ruinas y sus puertas han sido quemadas?",
+					"number": 3,
+					"id": "1742e296-5977-4b57-b18c-22f544d0a3e6"
+				},
+				{
+					"verse": "—¿Qué puedo hacer por ti? —preguntó el rey.\nEntonces me encomendé al Dios del cielo,",
+					"number": 4,
+					"id": "96f54ef3-8c2c-4f4c-a74c-c6216b928264"
+				},
+				{
+					"verse": "y respondí al rey:\n—Si a Su Majestad le parece bien, y si he alcanzado su favor, pido a Su Majestad que me mande a Judá, a la ciudad donde están enterrados mis padres, para que yo la reconstruya.",
+					"number": 5,
+					"id": "67298ae8-ec30-4bf6-bd0a-76d94852d37f"
+				},
+				{
+					"verse": "El rey, a cuyo lado estaba sentada la reina, me contestó:\n—¿Cuánto tiempo durará tu viaje? ¿Cuándo volverás?\nYo le indiqué la fecha, y él aceptó dejarme ir.",
+					"number": 6,
+					"id": "b47f4208-b327-4211-8f4e-95f438bcba9f"
+				},
+				{
+					"verse": "Además le dije que, si lo estimaba conveniente, se me diera una orden por escrito dirigida a los gobernadores al oeste del río Éufrates, para que me dejaran pasar libremente hasta llegar a Judá;",
+					"number": 7,
+					"id": "a538aac2-dad1-4deb-a7ce-a5d7a8707525"
+				},
+				{
+					"verse": "y otra orden escrita para que Asaf, el guardabosques del rey, me diera madera para recubrir las puertas de la ciudadela del templo, así como para la muralla de la ciudad y para la casa donde yo tenía que vivir. Y el rey me lo concedió todo porque yo contaba con la bondadosa ayuda de mi Dios.",
+					"number": 8,
+					"id": "02de91fb-0914-4eb7-ba26-df6d87636071"
+				},
+				{
+					"verse": "Cuando llegué ante los gobernadores al oeste del Éufrates, les entregué las cartas del rey, quien además había enviado conmigo una escolta de caballería al mando de jefes del ejército.",
+					"number": 9,
+					"id": "0a76c5d0-6c94-4174-b7e9-50b9e1cbba5c"
+				},
+				{
+					"verse": "Pero cuando supieron esto Sambalat el de Horón y Tobías, el funcionario amonita, se disgustaron mucho porque había llegado alguien interesado en ayudar a los israelitas.",
+					"number": 10,
+					"id": "bb6710a6-b9fd-4c9f-b7ad-1275b3f66677"
+				},
+				{
+					"verse": "Llegué por fin a Jerusalén. Y a los tres días de estar allí,",
+					"number": 11,
+					"study": "Nehemías anima al pueblo a reedificar los muros",
+					"id": "aca499e9-1b02-4062-ad9d-eefb96b170fe"
+				},
+				{
+					"verse": "me levanté de noche, acompañado de algunos hombres, pero sin decir a nadie lo que Dios me había inspirado hacer por Jerusalén. No llevaba yo más cabalgadura que la que montaba.",
+					"number": 12,
+					"id": "d381e0d4-0ff7-45f3-9a7b-01202e2cc0c5"
+				},
+				{
+					"verse": "Aquella misma noche salí por la puerta del Valle en dirección a la fuente del Dragón y a la puerta del Basurero, e inspeccioné la muralla de Jerusalén, que estaba derrumbada y sus puertas quemadas.",
+					"number": 13,
+					"id": "439ea58e-f807-4847-833c-7a34472eac89"
+				},
+				{
+					"verse": "Luego seguí hacia la puerta de la Fuente y el estanque del Rey; pero mi cabalgadura no podía pasar por allí.",
+					"number": 14,
+					"id": "83b42985-d8eb-4989-b567-ae43b3bbaf2d"
+				},
+				{
+					"verse": "Siendo todavía de noche, subí a lo largo del arroyo, y después de haber inspeccionado la muralla, regresé entrando por la puerta del Valle.",
+					"number": 15,
+					"id": "b6679f0d-35c9-47c5-b904-6155c837aeb0"
+				},
+				{
+					"verse": "Los gobernantes no sabían a dónde había ido yo, ni lo que andaba haciendo. Tampoco había yo informado hasta entonces a los judíos, es decir, a los sacerdotes, nobles, gobernantes y demás personas que habían de participar en la obra.",
+					"number": 16,
+					"id": "74cdc324-6f4c-4fd6-bfa5-d0770fd4afe6"
+				},
+				{
+					"verse": "Así que les dije:\n—Ustedes saben bien que nos encontramos en una situación difícil, pues Jerusalén está en ruinas y sus puertas quemadas. Únanse a mí y reconstruyamos la muralla de Jerusalén, para que ya no seamos objeto de burla.",
+					"number": 17,
+					"id": "e0fadeeb-5ad1-4902-b6f9-9306db7c7071"
+				},
+				{
+					"verse": "Y cuando les conté la forma tan bondadosa en que Dios me había ayudado y las palabras que me había dicho el rey, ellos respondieron:\n—¡Comencemos la reconstrucción!\nY con muy buen espíritu se animaron unos a otros.",
+					"number": 18,
+					"id": "3b137807-a1fe-4e59-a127-4e9d4d9e4fde"
+				},
+				{
+					"verse": "Pero cuando lo supieron Sambalat el de Horón, Tobías el funcionario amonita, y Guésem el árabe, se burlaron de nosotros y nos dijeron con desprecio:\n—¿Qué se traen ustedes entre manos? ¿Acaso piensan rebelarse contra el rey?",
+					"number": 19,
+					"id": "d1e09f66-6808-4d53-960e-acd4b7fe4662"
+				},
+				{
+					"verse": "Pero yo les contesté:\n—El Dios del cielo nos dará el éxito. Nosotros, sus siervos, vamos a comenzar la reconstrucción, y ustedes no tienen parte, ni derecho, ni memoria en Jerusalén.",
+					"number": 20,
+					"id": "7d7e2b68-202c-435d-acdb-c9ca52975aea"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Entonces el sumo sacerdote Eliasib y sus compañeros los sacerdotes reconstruyeron la puerta de las Ovejas. Le pusieron vigas y colocaron las puertas, y reconstruyeron la muralla desde la torre de los Cien hasta la torre de Hananel.",
+					"number": 1,
+					"study": "Reparto del trabajo de reedificación",
+					"id": "051152c7-2e4b-41de-a5d1-16e588f0957e"
+				},
+				{
+					"verse": "El siguiente tramo de la muralla lo reconstruyeron los hombres de Jericó, y el siguiente lo hizo Zacur, el hijo de Imrí.",
+					"number": 2,
+					"id": "0d02b85d-2498-4f15-9b6b-09430d7fa231"
+				},
+				{
+					"verse": "Los descendientes de Senaá reconstruyeron la puerta de los Pescados. Le pusieron vigas y colocaron sus puertas con sus cerrojos y barras.",
+					"number": 3,
+					"id": "077d8290-7e2e-431d-b422-bae9b8e5213e"
+				},
+				{
+					"verse": "El siguiente tramo de la muralla lo reforzó Meremot, hijo de Urías y nieto de Cos; y el siguiente, Mesulam, hijo de Berequías y nieto de Mesezabel; el siguiente tramo lo restauró Sadoc, hijo de Baaná.",
+					"number": 4,
+					"id": "40c64c85-a6a0-4b7d-9c06-faa9a8f7f70e"
+				},
+				{
+					"verse": "La reparación del siguiente tramo la hicieron los de Tecoa, aunque sus hombres importantes no quisieron ayudar a sus dirigentes.",
+					"number": 5,
+					"id": "329a0de6-a366-468a-8198-42410a86d969"
+				},
+				{
+					"verse": "Joiadá, hijo de Paséah, y Mesulam, hijo de Besodías, repararon la puerta de Jesaná. Le pusieron vigas y colocaron sus puertas con sus cerrojos y barras.",
+					"number": 6,
+					"id": "1e97f1e1-a5ca-4dda-a78b-0a557b18248b"
+				},
+				{
+					"verse": "El siguiente tramo de la muralla lo repararon Melatías de Gabaón y Jadón de Meronot, y la gente de Gabaón y de Mispá, lugares que estaban bajo la autoridad del gobernador al oeste del río Éufrates.",
+					"number": 7,
+					"id": "cc505c76-7c91-40ba-8aee-0d6a58ab76a0"
+				},
+				{
+					"verse": "El siguiente tramo de la muralla lo reparó Uziel, hijo de Harhaías, el platero; y el siguiente lo reparó Hananías, el perfumero; ellos dos restauraron la muralla de Jerusalén hasta la muralla ancha.",
+					"number": 8,
+					"id": "1a70bdc9-3dba-47d9-ad5f-8acd9eaf87b0"
+				},
+				{
+					"verse": "El siguiente tramo lo reparó Refaías, hijo de Hur, que era alcalde de la mitad del distrito de Jerusalén.",
+					"number": 9,
+					"id": "7c25e2b5-5aae-4f82-af12-d93ede49fe4f"
+				},
+				{
+					"verse": "El siguiente tramo lo reparó Jedaías, hijo de Harumaf, pues quedaba frente a su casa, y el siguiente lo reparó Hatús, hijo de Hasabnías.",
+					"number": 10,
+					"id": "b1d4192b-343c-4c6a-a239-b561a8171791"
+				},
+				{
+					"verse": "Malquías, hijo de Harim, y Hasub, hijo de Pahat-moab, repararon el siguiente tramo y la torre de los Hornos.",
+					"number": 11,
+					"id": "a61ad854-4cd2-4fec-9d27-efd8ff8e13b6"
+				},
+				{
+					"verse": "El siguiente lo repararon Salum, hijo de Halohés, que era alcalde de la otra mitad del distrito de Jerusalén, y sus hijas.",
+					"number": 12,
+					"id": "e1273db9-8200-497e-860b-0d7630705388"
+				},
+				{
+					"verse": "Hanún y los habitantes de Zanóah repararon la puerta del Valle; la reconstruyeron y colocaron sus puertas con sus cerrojos y barras, y restauraron cuatrocientos cincuenta metros de muralla, hasta la puerta del Basurero.",
+					"number": 13,
+					"id": "b6447792-11a6-4235-b39a-baba5ce520a7"
+				},
+				{
+					"verse": "Malquías, hijo de Recab, gobernador del distrito de Bet-haquérem, reconstruyó la puerta del Basurero y colocó sus puertas con sus cerrojos y barras.",
+					"number": 14,
+					"id": "35f1038e-e8b7-4a56-a3d8-d6ec6e607ea6"
+				},
+				{
+					"verse": "Salum, hijo de Colhozé, gobernador del distrito de Mispá, reparó la puerta de la Fuente: la reconstruyó y la techó, y colocó sus puertas con sus cerrojos y sus barras, y también reparó el muro del estanque de Siloé junto al Jardín Real, hasta las escaleras que bajan de la Ciudad de David.",
+					"number": 15,
+					"id": "1fb30d6b-7806-4c9d-aafd-bba5a0ab2a76"
+				},
+				{
+					"verse": "Nehemías, hijo de Azbuc, gobernador de medio distrito de Bet-sur, reparó el siguiente tramo de la muralla hasta frente a los sepulcros de David, hasta el depósito del agua y hasta el cuartel de los soldados.",
+					"number": 16,
+					"id": "5e190035-38fe-4615-b072-70db9e6ae41a"
+				},
+				{
+					"verse": "El siguiente tramo lo repararon los levitas: Rehúm, hijo de Baní; y más adelante Hasabías, gobernador de medio distrito de Queilá, que lo hizo en nombre de su distrito.",
+					"number": 17,
+					"id": "b9eea3c2-aae3-4aad-b0b0-72ce285caed3"
+				},
+				{
+					"verse": "El siguiente tramo lo repararon sus colegas: Bavai, hijo de Henadad, gobernador de la otra mitad del distrito de Queilá;",
+					"number": 18,
+					"id": "05e405a4-afd9-41d7-9311-39500876bc10"
+				},
+				{
+					"verse": "y Éser, hijo de Josué, gobernador de Mispá, reparó otro tramo frente a la subida al depósito de armas de la esquina.",
+					"number": 19,
+					"id": "04eb4dc1-6689-4982-857d-6b239dd66517"
+				},
+				{
+					"verse": "A continuación de él, Baruc, hijo de Zabai, reparó otro tramo, desde la esquina hasta la puerta de la casa de Eliasib, el sumo sacerdote;",
+					"number": 20,
+					"id": "ce80b492-56e8-43ed-8b18-e62bb18637f6"
+				},
+				{
+					"verse": "y Meremot, hijo de Urías y nieto de Cos, reparó el siguiente tramo, desde la puerta de la casa de Eliasib hasta el final de la misma.",
+					"number": 21,
+					"id": "2f000662-b7d2-402b-8950-d29501285989"
+				},
+				{
+					"verse": "El tramo siguiente de la muralla lo repararon los sacerdotes que vivían en el valle del Jordán.",
+					"number": 22,
+					"id": "62bc65a7-30fe-4f2f-94e3-2bbcf662b612"
+				},
+				{
+					"verse": "A continuación de ellos, Benjamín y Hasub repararon la muralla frente a su casa. Y después de ellos, Azarías, hijo de Maaseías y nieto de Ananías, hizo la restauración junto a su casa.",
+					"number": 23,
+					"id": "7d6c33c3-5481-4eae-a64d-3797b7244672"
+				},
+				{
+					"verse": "El siguiente tramo lo reparó Binuy, hijo de Henadad, desde la casa de Azarías hasta el ángulo en la esquina.",
+					"number": 24,
+					"id": "1e354a18-32ba-4c21-9b89-4665dd8cda4d"
+				},
+				{
+					"verse": "A continuación de él, Palal, hijo de Uzai, reparó la muralla frente a la esquina y también la torre alta que sobresale del palacio real, la cual está en el patio de la guardia. El siguiente tramo lo reparó Pedaías, hijo de Parós,",
+					"number": 25,
+					"id": "6c904394-a60c-4f9f-957b-ea2850fd8317"
+				},
+				{
+					"verse": "hasta frente a la puerta del Agua, hacia el este, así como la torre que sobresale. (Los que vivían en Ófel eran los sirvientes del templo.)",
+					"number": 26,
+					"id": "11cde76a-e030-42f1-bd64-dd56799537d6"
+				},
+				{
+					"verse": "Los de Tecoa repararon el siguiente tramo, desde enfrente de la torre grande que sobresale hasta la muralla de Ófel.",
+					"number": 27,
+					"id": "5bcbe1e8-c9a6-47cb-b6a6-e023cb6c9e49"
+				},
+				{
+					"verse": "Los sacerdotes repararon la muralla, cada uno frente a su casa, desde la puerta de los Caballos.",
+					"number": 28,
+					"id": "0502b73b-152f-4f28-959c-929329128ca8"
+				},
+				{
+					"verse": "A continuación de ellos, Sadoc, hijo de Imer, reparó la muralla frente a su casa; y el tramo siguiente lo reparó Semaías, hijo de Secanías, que era guardián de la puerta de Oriente.",
+					"number": 29,
+					"id": "3b6fed2f-314e-4a8c-b0ba-ffccf5951aa5"
+				},
+				{
+					"verse": "Tras él repararon otro tramo Hananías, hijo de Selemías, y Hanún, que era el sexto hijo de Salaf; y a continuación de ellos, Mesulam, hijo de Berequías, lo hizo frente a su casa.",
+					"number": 30,
+					"id": "bf8b8ba9-7070-4123-a4d6-b9f9d521d947"
+				},
+				{
+					"verse": "Malquías, el platero, reparó el siguiente tramo de la muralla hasta la casa de los servidores del templo, y la de los comerciantes, frente a la puerta de la Inspección y hasta el puesto de vigilancia de la esquina.",
+					"number": 31,
+					"id": "80135f98-525d-4935-a423-49fdf62fb2a3"
+				},
+				{
+					"verse": "Los plateros y los comerciantes repararon el siguiente tramo desde el puesto de vigilancia de la esquina hasta la puerta de las Ovejas.",
+					"number": 32,
+					"id": "7334d202-2d1a-4592-9f29-996664068d8b"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Cuando Sambalat supo que estábamos reconstruyendo la muralla, se indignó y, enfurecido, comenzó a burlarse de los judíos",
+					"number": 1,
+					"study": "Precauciones contra los enemigos",
+					"id": "3e881d17-bb61-43e0-bb17-742b5efc0fe4"
+				},
+				{
+					"verse": "diciendo ante sus compañeros y el ejército de Samaria: «¿Qué se creen estos judíos muertos de hambre? ¿Acaso piensan que se les va a permitir ofrecer sacrificios otra vez? ¿O que podrán terminar el trabajo en un día? ¿O que de los montones de escombros van a sacar nuevas las piedras que se quemaron?»",
+					"number": 2,
+					"id": "bbb90850-dd1f-4f9a-bd1a-b3f12c105358"
+				},
+				{
+					"verse": "A su lado estaba Tobías, el amonita, que añadió: «Para colmo, miren el muro que están construyendo: ¡hasta una zorra lo puede echar abajo, si se sube en él!»",
+					"number": 3,
+					"id": "5b26b2a1-11af-4c85-bd28-17b5848296d1"
+				},
+				{
+					"verse": "Entonces yo oré: «Dios nuestro: escucha cómo se burlan de nosotros. Haz que sus ofensas se vuelvan contra ellos, y que caigan en poder del enemigo y sean llevados cautivos a otro país.",
+					"number": 4,
+					"id": "551195e2-001d-4a16-bd52-87e3456b8cc4"
+				},
+				{
+					"verse": "No les perdones su maldad, ni borres de tu presencia su pecado, pues han insultado a los que están reconstruyendo la muralla.»",
+					"number": 5,
+					"id": "3fc789f1-8e5c-4928-9672-fb15c11ee34f"
+				},
+				{
+					"verse": "Continuamos, pues, reconstruyendo la muralla, que estaba ya levantada hasta la mitad. La gente trabajaba con entusiasmo.",
+					"number": 6,
+					"id": "a3586063-a3e7-4549-a39e-82c16abe89be"
+				},
+				{
+					"verse": "Pero cuando Sambalat, Tobías, los árabes, los de Amón y los de Asdod supieron que la reparación de la muralla de Jerusalén seguía adelante y que se había comenzado a tapar las brechas, se enojaron muchísimo,",
+					"number": 7,
+					"id": "d2aee622-aaa0-44eb-9119-278b94f4cdf3"
+				},
+				{
+					"verse": "y todos juntos formaron un plan para atacar Jerusalén y causar destrozos en ella.",
+					"number": 8,
+					"id": "6f69c34d-2640-42e2-be10-cd9fb9175634"
+				},
+				{
+					"verse": "Entonces oramos a nuestro Dios, y pusimos guardia día y noche para defendernos de ellos.",
+					"number": 9,
+					"id": "6fac06b3-4d1f-444c-a7b0-e7fec9a14d06"
+				},
+				{
+					"verse": "Y la gente de Judá decía: «La fuerza del cargador desmaya ante tal cantidad de escombros, y nosotros somos incapaces de reconstruir esta muralla.»",
+					"number": 10,
+					"id": "e6cb1b4b-f4c8-4ada-be24-c8d29de9137b"
+				},
+				{
+					"verse": "Nuestros enemigos pensaban que no nos daríamos cuenta ni veríamos nada hasta que se metieran en medio de nosotros para matarnos y detener las obras.",
+					"number": 11,
+					"id": "174105ff-6398-417a-87c4-2c3ef2e037c1"
+				},
+				{
+					"verse": "Pero cuando los judíos que vivían cerca de ellos vinieron a decirnos una y otra vez que esa gente iba a atacarnos por todos lados,",
+					"number": 12,
+					"id": "fa703964-ec35-4a8f-b46d-44743cc61512"
+				},
+				{
+					"verse": "ordené que la gente se pusiera por familias detrás de la muralla, y en las partes bajas, y en las brechas, con espadas, lanzas y arcos.",
+					"number": 13,
+					"id": "9044fa40-69e6-4274-b052-0c02af8de657"
+				},
+				{
+					"verse": "Y al ver que tenían miedo, me puse de pie y dije a los nobles, a los gobernantes y al resto del pueblo: «No les tengan miedo. Recuerden que el Señor es grande y terrible, y luchen por sus compatriotas, por sus hijos e hijas, mujeres y hogares.»",
+					"number": 14,
+					"id": "e9ef796f-8fae-4c50-8511-8abb4f8ff601"
+				},
+				{
+					"verse": "Cuando nuestros enemigos supieron que estábamos preparados y que Dios había desbaratado sus planes, todos nosotros volvimos a la muralla, cada cual a su trabajo.",
+					"number": 15,
+					"id": "8115f16c-b918-4f8f-a154-b6f530e9be68"
+				},
+				{
+					"verse": "A partir de aquel momento, la mitad de mis hombres trabajaba en la obra, y la otra mitad se mantenía armada con lanzas, escudos, arcos y corazas. Los jefes daban todo su apoyo a la gente de Judá",
+					"number": 16,
+					"id": "8c6032aa-6ccc-4eaa-835c-03a8aace7b46"
+				},
+				{
+					"verse": "que estaba reconstruyendo la muralla. Los cargadores seguían llevando cargas, pero con una mano trabajaban y con la otra sujetaban el arma.",
+					"number": 17,
+					"id": "38e1871c-e293-420d-958e-d55c6f2bf576"
+				},
+				{
+					"verse": "Todos los que trabajaban en la construcción tenían la espada a la cintura, y a mi lado estaba el encargado de tocar la trompeta,",
+					"number": 18,
+					"id": "ad444101-62bf-4cdd-8055-394233039165"
+				},
+				{
+					"verse": "pues yo había dicho a los nobles y gobernantes, y al resto del pueblo: «Las obras son enormes y extensas, y nosotros estamos repartidos por la muralla, separados unos de otros.",
+					"number": 19,
+					"id": "cf579f7a-5e9a-4112-a1da-87c9961426d6"
+				},
+				{
+					"verse": "Por lo tanto, allá donde escuchen el toque de trompeta, únanse a nosotros, y nuestro Dios luchará a nuestro lado.»",
+					"number": 20,
+					"id": "a7de9648-2443-4c50-8fce-40d721bdb566"
+				},
+				{
+					"verse": "De este modo, mientras nosotros trabajábamos de sol a sol en la obra, la mitad de la gente se mantenía con la lanza en la mano.",
+					"number": 21,
+					"id": "124f9e56-e19f-4f13-a959-4a86a585a6d3"
+				},
+				{
+					"verse": "Además, en aquella ocasión dije a la gente que todos, incluso los ayudantes, debían pasar la noche dentro de Jerusalén, para que nos protegieran durante la noche y trabajaran durante el día.",
+					"number": 22,
+					"id": "3c0bcd2a-ae6f-47aa-b025-9725f8eb68a7"
+				},
+				{
+					"verse": "Además, ni yo ni mis parientes y ayudantes, ni los hombres de la guardia que me acompañaban, nos quitábamos la ropa, y cada uno tenía la lanza en la mano.",
+					"number": 23,
+					"id": "b5126aa2-c350-488d-a78c-2abec10fc78c"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Hubo en aquel tiempo una gran protesta de parte del pueblo y de sus mujeres contra sus compatriotas judíos,",
+					"number": 1,
+					"study": "Abolición de la usura",
+					"id": "7d047e73-9f28-4a3a-b80a-d887e54da91b"
+				},
+				{
+					"verse": "pues algunos decían que tenían muchos hijos e hijas y necesitaban conseguir trigo para no morirse de hambre;",
+					"number": 2,
+					"id": "bd51f854-a97b-4c5e-a240-3d9016ead9e1"
+				},
+				{
+					"verse": "otros decían que debido a la falta de alimentos habían tenido que hipotecar sus terrenos, viñedos y casas,",
+					"number": 3,
+					"id": "ade3e669-de07-4231-b7ec-c44c9a7439c2"
+				},
+				{
+					"verse": "y otros decían que habían tenido que pedir dinero prestado para pagar los impuestos al rey, dando en garantía sus terrenos y viñedos. Decían además:",
+					"number": 4,
+					"id": "7662de6e-6f1e-434a-bc40-7b939998cdba"
+				},
+				{
+					"verse": "«Tanto nuestros compatriotas como nosotros somos de la misma raza; nuestros hijos no se diferencian en nada de los de ellos. Sin embargo, nosotros tenemos que someter a nuestros hijos e hijas a la esclavitud. De hecho, algunas de nuestras hijas son ya esclavas, y no podemos hacer nada por evitarlo, porque nuestros terrenos y viñedos ya pertenecen a otros.»",
+					"number": 5,
+					"id": "34f0b25a-b240-4e77-acb7-ea3f268d43e5"
+				},
+				{
+					"verse": "Cuando escuché sus quejas y razones, me llené de indignación.",
+					"number": 6,
+					"id": "af0cf26f-531a-43a2-91e0-0b9a0b68d44d"
+				},
+				{
+					"verse": "Después de pensarlo bien, reprendí a los nobles y gobernantes por imponer una carga tal a sus compatriotas. Convoqué además una asamblea general para tratar su caso,",
+					"number": 7,
+					"id": "d7dc880f-2575-4613-b156-01b376d0f7df"
+				},
+				{
+					"verse": "y les dije: «Nosotros, hasta donde nos ha sido posible, hemos rescatado a nuestros compatriotas judíos que habían sido vendidos a las naciones paganas; ¿y ahora ustedes los vuelven a vender para que nosotros tengamos que volver a rescatarlos?»\nEllos se quedaron callados, pues no sabían qué responder.",
+					"number": 8,
+					"id": "9ec108e7-a52b-49bb-914d-2365b4cf35ee"
+				},
+				{
+					"verse": "Y yo añadí: «Lo que están haciendo no está bien. Deberían mostrar reverencia por nuestro Dios, y evitar así las burlas de los paganos, nuestros enemigos.",
+					"number": 9,
+					"id": "82d9d3c7-dd2a-412b-82ee-8f553b7802ff"
+				},
+				{
+					"verse": "También mis familiares, mis ayudantes y yo, les hemos prestado a ellos dinero y trigo; así que, ¡vamos a perdonarles esta deuda!",
+					"number": 10,
+					"id": "e28b545c-b301-456d-9483-533ad4dd1d07"
+				},
+				{
+					"verse": "Y les ruego también que les devuelvan ahora mismo sus terrenos, viñedos, olivares y casas, y que cancelen las deudas que tienen con ustedes, sean de dinero, grano, vino o aceite.»",
+					"number": 11,
+					"id": "8b81b69d-cfb2-4e83-884c-d1f6c3abbc98"
+				},
+				{
+					"verse": "Ellos respondieron: «Devolveremos todo eso, y no les reclamaremos nada. Haremos todo tal como lo has dicho.»\nEntonces llamé a los sacerdotes, y en su presencia les hice jurar lo que prometieron.",
+					"number": 12,
+					"id": "642c6add-5339-410b-814f-873b45b127cb"
+				},
+				{
+					"verse": "Además me sacudí la ropa y dije: «Así sacuda Dios fuera de su casa y de sus propiedades a todo aquel que no cumpla este juramento, y así lo despoje de todo lo que ahora tiene.» Toda la multitud respondió: «Amén», y alabaron al Señor.\nLa gente cumplió su promesa,",
+					"number": 13,
+					"id": "3463cc41-8f10-4f75-ab16-3e37feb36f5d"
+				},
+				{
+					"verse": "y durante doce años, es decir, desde aquel día del año veinte en que el rey Artajerjes me nombró gobernador de la región de Judá hasta el año treinta y dos de su reinado, ni yo ni mis colaboradores hicimos uso de la pensión que me correspondía como gobernador.",
+					"number": 14,
+					"id": "c7365cd9-184d-42f0-97f4-f6ee75fe4b1a"
+				},
+				{
+					"verse": "En cambio, los gobernadores que estuvieron antes que yo, fueron una carga para el pueblo, pues diariamente cobraban cuarenta monedas de plata para comida y vino. Además, sus empleados oprimían al pueblo. Pero yo no lo hice así, por respeto a Dios.",
+					"number": 15,
+					"id": "efaa4834-e2c1-4aa1-ac12-c24c30b9f1dd"
+				},
+				{
+					"verse": "Por otra parte, cumplí con mi tarea de reconstruir la muralla de la ciudad, y no adquirí terrenos. En cuanto a mis empleados, todos ellos tomaron parte en el trabajo.",
+					"number": 16,
+					"id": "91fe4e96-d50d-475d-adf4-4b3e50cd358e"
+				},
+				{
+					"verse": "A mi mesa se sentaban hasta ciento cincuenta personas, tanto judíos del pueblo como funcionarios del gobierno, sin contar a los que venían a visitarnos de las naciones vecinas.",
+					"number": 17,
+					"id": "10e3ba0b-b6dc-42bb-add7-06d0e3c152f1"
+				},
+				{
+					"verse": "Y lo que se preparaba diariamente por mi cuenta, era: un buey y seis de las mejores ovejas, y aves; y cada diez días había vino en abundancia. A pesar de esto, nunca reclamé la pensión que me correspondía como gobernador, porque ya era excesiva la carga que pesaba sobre este pueblo.",
+					"number": 18,
+					"id": "cd98e0bd-c8c6-4b2d-b620-f18735daad05"
+				},
+				{
+					"verse": "¡Tómame en cuenta, Dios mío, para mi bien, todo lo que he hecho por este pueblo!",
+					"number": 19,
+					"id": "6850665f-0fb9-4d2d-b2a5-c94908403747"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Cuando Sambalat, Tobías, Guésem el árabe y los demás enemigos nuestros supieron que yo había reconstruido la muralla sin dejar en ella ninguna brecha (aunque me faltaba todavía colocar las puertas en su sitio),",
+					"number": 1,
+					"study": "Maquinaciones de los adversarios",
+					"id": "35a096e6-14a6-4206-ac3d-2b49c3216297"
+				},
+				{
+					"verse": "me enviaron un mensaje Sambalat y Guésem para que nos reuniéramos en alguna de las aldeas del valle de Onó. Pero lo que tramaban era hacerme daño.",
+					"number": 2,
+					"id": "627f9253-a024-4c73-8d2c-60d53260f80d"
+				},
+				{
+					"verse": "Entonces envié mensajeros a decirles que yo estaba ocupado en una obra importante, y que no podía ir, ya que el trabajo se detendría si yo lo dejaba por ir a verlos.",
+					"number": 3,
+					"id": "e1a14125-c037-4f57-9ae3-ea6b71dacad0"
+				},
+				{
+					"verse": "Cuatro veces me enviaron el mismo mensaje, pero mi respuesta fue siempre la misma.",
+					"number": 4,
+					"id": "fd179288-00a6-417f-92e7-61615f20c58d"
+				},
+				{
+					"verse": "Entonces Sambalat, por medio de un criado suyo, me envió por quinta vez el mismo mensaje en una carta abierta,",
+					"number": 5,
+					"id": "3cff323c-d80e-4725-81d2-844703a3a1af"
+				},
+				{
+					"verse": "que decía: «Corre el rumor entre la gente, y también lo dice Guésem, de que tú y los judíos están planeando una rebelión, y que por eso están reconstruyendo la muralla. Según estos rumores, tú vas a ser su rey,",
+					"number": 6,
+					"id": "8dbf5f7a-67e4-4d1f-b4c6-6585073720b9"
+				},
+				{
+					"verse": "y has nombrado ya profetas para que te proclamen rey en Jerusalén y digan que ya hay rey en Judá. Estos rumores bien pueden llegar a oídos del rey Artajerjes, así que ven y conversaremos personalmente.»",
+					"number": 7,
+					"id": "3261b668-6e36-4c55-941f-ad8690042bd4"
+				},
+				{
+					"verse": "Entonces yo le envié contestación, diciéndole que no había nada de cierto en aquellos rumores, sino que eran producto de su imaginación.",
+					"number": 8,
+					"id": "6628a174-6187-4519-a4b3-823fbe55ffe5"
+				},
+				{
+					"verse": "Pues ellos trataban de asustarnos, pensando que nos desanimaríamos y que no llevaríamos a cabo la obra; pero yo puse aún mayor empeño.",
+					"number": 9,
+					"id": "dc09b35d-6806-4d38-a3ba-949ef0a540cb"
+				},
+				{
+					"verse": "Después fui a casa de Semaías, hijo de Delaías y nieto de Mehetabel, que se había encerrado en su casa, y me dijo: «Reunámonos en el templo de Dios, dentro del santuario, y cerremos las puertas, porque esta noche piensan venir a matarte.»",
+					"number": 10,
+					"id": "43d87175-f4dc-4fef-acae-c24cc78e544a"
+				},
+				{
+					"verse": "Pero yo le respondí: «Los hombres como yo, no huyen ni se meten en el templo para salvar el pellejo. Yo, al menos, no me meteré.»",
+					"number": 11,
+					"id": "a904876a-3641-4847-a2de-85fdc0babb59"
+				},
+				{
+					"verse": "Además me di cuenta de que él no hablaba de parte de Dios, sino que decía todo aquello contra mí porque Sambalat y Tobías lo habían sobornado;",
+					"number": 12,
+					"id": "efe3c331-918e-417b-a904-bc5aacae3c31"
+				},
+				{
+					"verse": "le pagaban por asustarme, para que así yo pecara. De ese modo podrían crearme mala fama y desprestigiarme.",
+					"number": 13,
+					"id": "c228426e-37ef-41b1-83d7-c99db4178d38"
+				},
+				{
+					"verse": "¡Dios mío: recuerda lo que Sambalat y Tobías han hecho! ¡No te olvides tampoco de Noadías, la profetisa, ni de los otros profetas que quisieron asustarme!",
+					"number": 14,
+					"id": "b92cb555-9ef7-4b5a-81ee-a36abea7eefd"
+				},
+				{
+					"verse": "La muralla quedó terminada el día veinticinco del mes de Elul, y en la obra se emplearon cincuenta y dos días.",
+					"number": 15,
+					"id": "358d6e61-d96e-4112-ae3a-41eaed4bbd30"
+				},
+				{
+					"verse": "Nuestros enemigos lo supieron, y todas las naciones que había a nuestro alrededor tuvieron mucho miedo y se vino abajo su orgullo, porque comprendieron que esta obra se había llevado a cabo con la ayuda de nuestro Dios.",
+					"number": 16,
+					"id": "dff9f925-5022-4ff6-9e3c-45edb9ebf847"
+				},
+				{
+					"verse": "En aquellos días hubo mucha correspondencia entre Tobías y personas importantes de Judá,",
+					"number": 17,
+					"id": "2b98edae-c835-4124-a573-6b042e157eeb"
+				},
+				{
+					"verse": "porque muchas personas de Judá habían jurado lealtad a Tobías, por ser el yerno de Secanías, hijo de Árah, y porque su hijo Johanán se había casado con la hija de Mesulam, hijo de Berequías.",
+					"number": 18,
+					"id": "4ca613ad-4867-462a-9a65-b3d710f859dc"
+				},
+				{
+					"verse": "De modo que lo elogiaban en mi presencia y le contaban lo que yo decía. Tobías, por su parte, me enviaba cartas para asustarme.",
+					"number": 19,
+					"id": "94138f9e-7494-4a92-89ce-40375e10d98c"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Cuando la muralla quedó reconstruida y se le colocaron las puertas, se nombraron porteros, cantores y levitas.",
+					"number": 1,
+					"study": "Nehemías designa dirigentes",
+					"id": "d24fb58b-8d5c-4a31-9f78-778afd629e41"
+				},
+				{
+					"verse": "Al frente de Jerusalén puse a mi hermano Hananí y a Hananías, el comandante de la ciudadela, que era un hombre digno de confianza y más temeroso de Dios que muchas personas.",
+					"number": 2,
+					"id": "f81f5f65-c9c8-4ff0-ae26-78a927d594c7"
+				},
+				{
+					"verse": "Les dije que no debían abrirse las puertas de Jerusalén hasta bien entrado el día, y que debían cerrarse y asegurarse estando en sus puestos los de la guardia. También nombré vigilantes entre los mismos habitantes de Jerusalén, para que vigilaran, unos en sus puestos y otros frente a su propia casa.",
+					"number": 3,
+					"id": "e32a22e2-b6bb-41be-8492-ce7ec07f2655"
+				},
+				{
+					"verse": "La ciudad era grande y extensa, pero había en ella poca gente porque las casas no se habían reconstruido.",
+					"number": 4,
+					"id": "346c1771-2ccc-4330-90b4-1c17238d6f25"
+				},
+				{
+					"verse": "Entonces Dios me impulsó a reunir a las personas importantes, las autoridades y el pueblo, para hacer un registro familiar, y encontré el libro del registro familiar de los que habían llegado antes. En él estaba escrito lo siguiente:",
+					"number": 5,
+					"study": "Los que volvieron con Zorobabel",
+					"id": "eec9a78e-5461-4136-93f9-788a3ac9a048"
+				},
+				{
+					"verse": "«Ésta es la lista de los israelitas nacidos en Judá que fueron desterrados a Babilonia por el rey Nabucodonosor, y que después del destierro volvieron a Jerusalén y a otros lugares de Judá, cada cual a su población, encabezados por Zorobabel, Josué, Nehemías, Azarías, Raamías, Nahamaní, Mardoqueo, Bilsán, Mispéret, Bigvai, Nehúm y Baaná:",
+					"number": 6,
+					"id": "7a8ae8ce-742a-40a4-8877-de073bdf4249"
+				},
+				{
+					"verse": "»Los descendientes de Parós, dos mil ciento setenta y dos;",
+					"number": 7,
+					"id": "36278fc7-4173-4ae1-b879-8dc06214de92"
+				},
+				{
+					"verse": "los de Sefatías, trescientos setenta y dos;",
+					"number": 8,
+					"id": "663e507d-cbdb-4de1-8e6e-c27d46856b01"
+				},
+				{
+					"verse": "los de Árah, seiscientos cincuenta y dos;",
+					"number": 9,
+					"id": "cc251d5a-7747-4417-a915-c359b6353047"
+				},
+				{
+					"verse": "los de Pahat-moab, que eran descendientes de Josué y de Joab, dos mil ochocientos dieciocho;",
+					"number": 10,
+					"id": "1863735d-bb72-4e8e-9656-b32c3c75671a"
+				},
+				{
+					"verse": "los de Elam, mil doscientos cincuenta y cuatro;",
+					"number": 11,
+					"id": "169a2431-c74e-4a3b-b8ed-b3c55f4eb399"
+				},
+				{
+					"verse": "los de Zatú, ochocientos cuarenta y cinco;",
+					"number": 12,
+					"id": "2658a1eb-6b41-4269-b321-509d24b6856f"
+				},
+				{
+					"verse": "los de Zacai, setecientos sesenta;",
+					"number": 13,
+					"id": "580f3932-443d-41be-8b72-88f0d52c414b"
+				},
+				{
+					"verse": "los de Binuy, seiscientos cuarenta y ocho;",
+					"number": 14,
+					"id": "5d9ad56f-c91b-41be-b053-bfdf126c170f"
+				},
+				{
+					"verse": "los de Bebai, seiscientos veintiocho;",
+					"number": 15,
+					"id": "d38a8846-b212-4dd0-9d00-5b03be57f7c4"
+				},
+				{
+					"verse": "los de Azgad, dos mil trescientos veintidós;",
+					"number": 16,
+					"id": "30febc2d-917b-4304-a916-c043e1a9da73"
+				},
+				{
+					"verse": "los de Adonicam, seiscientos sesenta y siete;",
+					"number": 17,
+					"id": "161f5dbe-b679-4f0d-a2a1-25acddbe0548"
+				},
+				{
+					"verse": "los de Bigvai, dos mil sesenta y siete;",
+					"number": 18,
+					"id": "54f7fd39-4fb0-41cb-9f63-2ab354d54251"
+				},
+				{
+					"verse": "los de Adín, seiscientos cincuenta y cinco;",
+					"number": 19,
+					"id": "90284ee9-5d38-46cd-b100-998bc3e87614"
+				},
+				{
+					"verse": "los de Ater, que eran descendientes de Ezequías, noventa y ocho;",
+					"number": 20,
+					"id": "73aac0d6-f9c2-4861-9200-495de7cbc764"
+				},
+				{
+					"verse": "los de Hasum, trescientos veintiocho;",
+					"number": 21,
+					"id": "4860da9d-efe5-475b-b78b-320f8e935f50"
+				},
+				{
+					"verse": "los de Besai, trescientos veinticuatro;",
+					"number": 22,
+					"id": "712dec9f-d841-417d-b142-c4e258a7d3af"
+				},
+				{
+					"verse": "los de Harif, ciento doce;",
+					"number": 23,
+					"id": "f6ebfda3-e626-46e8-afee-fee65cf73177"
+				},
+				{
+					"verse": "los de Gabaón, noventa y cinco.",
+					"number": 24,
+					"id": "6f123490-22db-46f0-b743-10102e4f4ddc"
+				},
+				{
+					"verse": "Los hombres de Belén y de Netofá, ciento ochenta y ocho;",
+					"number": 25,
+					"id": "e8b8125a-2d83-44aa-807e-d84b4dff678e"
+				},
+				{
+					"verse": "los de Anatot, ciento veintiocho;",
+					"number": 26,
+					"id": "b344d76b-ab5a-42ac-8603-6429ee825c24"
+				},
+				{
+					"verse": "los de Bet-azmávet, cuarenta y dos;",
+					"number": 27,
+					"id": "0bb6585a-b204-4299-8a81-8bd7cafcb9b7"
+				},
+				{
+					"verse": "los de Quiriat-jearim, Quefirá y Beerot, setecientos cuarenta y tres;",
+					"number": 28,
+					"id": "b252f1f7-f3a2-45a3-9042-cde28a9c1b58"
+				},
+				{
+					"verse": "los de Ramá y de Gueba, seiscientos veintiuno;",
+					"number": 29,
+					"id": "dc730776-da05-4004-b2f6-e6a32e34fbfc"
+				},
+				{
+					"verse": "los de Micmás, ciento veintidós;",
+					"number": 30,
+					"id": "29cca8d9-2169-43cc-8b3c-2de0726a22be"
+				},
+				{
+					"verse": "los de Betel y de Ai, ciento veintitrés;",
+					"number": 31,
+					"id": "ef061744-2a7e-449e-af0a-64c9bde4c966"
+				},
+				{
+					"verse": "los de Nebo, cincuenta y dos.",
+					"number": 32,
+					"id": "a9d367f0-0056-4aaf-856c-bb002377332b"
+				},
+				{
+					"verse": "Los descendientes del otro Elam, mil doscientos cincuenta y cuatro;",
+					"number": 33,
+					"id": "83652ab4-f44d-4651-b174-75d5b47b9e11"
+				},
+				{
+					"verse": "los de Harim, trescientos veinte;",
+					"number": 34,
+					"id": "83660e4f-3647-42af-bc2b-0de507ae9507"
+				},
+				{
+					"verse": "los de Jericó, trescientos cuarenta y cinco;",
+					"number": 35,
+					"id": "139cd15d-62e5-456a-8d75-6476d60cb186"
+				},
+				{
+					"verse": "los de Lod, Hadid y Onó, setecientos veintiuno;",
+					"number": 36,
+					"id": "b768ec74-d857-43bb-b62a-db2a7496038c"
+				},
+				{
+					"verse": "los de Senaá, tres mil novecientos treinta.",
+					"number": 37,
+					"id": "85901c89-1507-400c-a47c-5bc771734fbe"
+				},
+				{
+					"verse": "Los sacerdotes descendientes de Jedaías, de la familia de Josué, novecientos setenta y tres;",
+					"number": 38,
+					"id": "8cd50038-4182-4bf8-b9f8-b0a3240c17fb"
+				},
+				{
+					"verse": "los descendientes de Imer, mil cincuenta y dos;",
+					"number": 39,
+					"id": "c2dfd94d-ab1b-41f5-9314-0ba342412f66"
+				},
+				{
+					"verse": "los de Pashur, mil doscientos cuarenta y siete;",
+					"number": 40,
+					"id": "66f3c56b-8e92-4605-bf01-e69a543110e6"
+				},
+				{
+					"verse": "los de Harim, mil diecisiete.",
+					"number": 41,
+					"id": "c6386197-8d18-4323-953e-8e4a54f0c267"
+				},
+				{
+					"verse": "»Los levitas descendientes de Josué y de Cadmiel, que a su vez eran descendientes de Hodavías, eran setenta y cuatro.",
+					"number": 42,
+					"id": "3e1b9834-8512-4e76-9afc-ba5b9f6de96f"
+				},
+				{
+					"verse": "»Los cantores descendientes de Asaf eran ciento cuarenta y ocho.",
+					"number": 43,
+					"id": "01aba411-153a-4c74-aa28-da408a070e0e"
+				},
+				{
+					"verse": "»Los porteros eran los descendientes de Salum, los de Ater, los de Talmón, los de Acub, los de Hatitá y los de Sobai. En total, ciento treinta y ocho.",
+					"number": 44,
+					"id": "e1638801-f04d-4db0-89ae-af70619caf4f"
+				},
+				{
+					"verse": "»Los sirvientes del templo eran los descendientes de Sihá, los de Hasufá, los de Tabaot,",
+					"number": 45,
+					"id": "25e3a61a-6e58-4442-b677-54567419bbb7"
+				},
+				{
+					"verse": "los de Queros, los de Siahá, los de Padón,",
+					"number": 46,
+					"id": "9db81e8d-49d1-45e6-8f80-199556377b22"
+				},
+				{
+					"verse": "los de Lebaná, los de Hagabá, los de Salmai,",
+					"number": 47,
+					"id": "e6097038-a7a0-4979-8400-0cef7d680edf"
+				},
+				{
+					"verse": "los de Hanán, los de Guidel, los de Gáhar,",
+					"number": 48,
+					"id": "e075a5e3-c7a5-4447-bb00-862ee5e99f08"
+				},
+				{
+					"verse": "los de Reaías, los de Resín, los de Necodá,",
+					"number": 49,
+					"id": "71d5ccad-d13f-4e95-b8a1-38e09cbfb21b"
+				},
+				{
+					"verse": "los de Gazam, los de Uzá, los de Paséah,",
+					"number": 50,
+					"id": "a4f39d6b-7734-4f0c-b91e-ee5da0bd38b2"
+				},
+				{
+					"verse": "los de Besai, los de Meunim, los de Nefusim,",
+					"number": 51,
+					"id": "021c1952-c0c8-455d-96e2-62020d11d303"
+				},
+				{
+					"verse": "los de Bacbuc, los de Hacufá, los de Harhur,",
+					"number": 52,
+					"id": "ea5832dc-b410-44fa-8292-2fa73987ee41"
+				},
+				{
+					"verse": "los de Baslut, los de Mehidá, los de Harsá,",
+					"number": 53,
+					"id": "b7cc0a87-d66a-4356-b253-fbf791361f91"
+				},
+				{
+					"verse": "los de Barcós, los de Sísara, los de Temá,",
+					"number": 54,
+					"id": "66352639-16c0-4f78-87fc-7ae8d17a8d8a"
+				},
+				{
+					"verse": "los de Nesíah y los de Hatifá.",
+					"number": 55,
+					"id": "2d812f4f-d0e0-481f-a4aa-ac26fe51b1fd"
+				},
+				{
+					"verse": "»Los descendientes de los sirvientes de Salomón eran los descendientes de Sotai, los de Soféret, los de Perudá,",
+					"number": 56,
+					"id": "3514ebfe-e5ad-46d3-a47d-8ad26dc985c6"
+				},
+				{
+					"verse": "los de Jaalá, los de Darcón, los de Guidel,",
+					"number": 57,
+					"id": "137a2252-47c8-4642-abbe-409616ea31d2"
+				},
+				{
+					"verse": "los de Sefatías, los de Hatil, los de Poquéret-hasebaím y los de Amón.",
+					"number": 58,
+					"id": "0062b812-7772-4a97-85ef-ce5701071364"
+				},
+				{
+					"verse": "El total de los sirvientes del templo y de los descendientes de los sirvientes de Salomón era de trescientos noventa y dos.",
+					"number": 59,
+					"id": "fb894a25-93be-4892-95ef-98acd31f66e2"
+				},
+				{
+					"verse": "»Los que llegaron de Tel-mélah, Tel-harsá, Querub, Adón e Imer, y que no pudieron demostrar si eran israelitas de raza o por parentesco, fueron los siguientes:",
+					"number": 60,
+					"id": "1218dfbd-22ac-45a3-b961-66ce4b243d08"
+				},
+				{
+					"verse": "los descendientes de Delaías, los de Tobías y los de Necodá, que eran seiscientos cuarenta y dos.",
+					"number": 61,
+					"id": "f237a60a-d6c3-4a4f-b58f-5a228761986b"
+				},
+				{
+					"verse": "Y de los parientes de los sacerdotes: los descendientes de Hobaías, los de Cos y los de Barzilai, el cual se casó con una de las hijas de Barzilai, el de Galaad, y tomó el nombre de ellos.",
+					"number": 62,
+					"id": "2dbe9606-629e-42d9-a762-f839c4f859ac"
+				},
+				{
+					"verse": "Éstos buscaron su nombre en el registro familiar, pero como no lo encontraron allí, fueron eliminados del sacerdocio.",
+					"number": 63,
+					"id": "c6e4891c-9e31-43e3-87db-4a2abc637757"
+				},
+				{
+					"verse": "Además, el gobernador les ordenó que no comieran de los alimentos consagrados hasta que un sacerdote decidiera la cuestión por medio del Urim y el Tumim.",
+					"number": 64,
+					"id": "8427c28a-4741-4a00-a6c6-707e3daca965"
+				},
+				{
+					"verse": "»La comunidad se componía de un total de cuarenta y dos mil trescientas sesenta personas,",
+					"number": 65,
+					"id": "eda5a58d-eb20-4859-877a-cfb5af8bb107"
+				},
+				{
+					"verse": "sin contar sus esclavos y esclavas, que eran siete mil trescientas treinta y siete personas. Tenían también doscientos cuarenta y cinco cantores y cantoras.",
+					"number": 66,
+					"id": "a1de8d9d-6419-4b90-81de-d2e3099ef6c0"
+				},
+				{
+					"verse": "Tenían además setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas,",
+					"number": 67,
+					"id": "bec2c3bb-547d-464d-a8bd-7d82f01ce08b"
+				},
+				{
+					"verse": "cuatrocientos treinta y cinco camellos y seis mil setecientos veinte asnos.",
+					"number": 68,
+					"id": "82c23694-3531-4be5-a665-368e9902f3b5"
+				},
+				{
+					"verse": "»Algunos jefes de familia entregaron donativos para la obra; el gobernador dio para la tesorería ocho kilos de oro, cincuenta tazones y quinientas treinta túnicas sacerdotales.",
+					"number": 69,
+					"id": "634d15b5-0c6f-4a25-9bec-f76653bd3454"
+				},
+				{
+					"verse": "Los jefes de familia dieron para la tesorería de la obra ciento sesenta kilos de oro y mil doscientos diez kilos de plata;",
+					"number": 70,
+					"id": "37ff8683-b78d-44c8-911e-e7bb15e7946b"
+				},
+				{
+					"verse": "y el resto del pueblo dio ciento sesenta kilos de oro, mil cien kilos de plata y sesenta y siete túnicas sacerdotales.",
+					"number": 71,
+					"id": "00b91733-d742-4fc4-b11b-19de31ba9414"
+				},
+				{
+					"verse": "»Los sacerdotes, los levitas, los porteros, los cantores, la gente del pueblo, los sirvientes del templo y todo Israel se establecieron en sus poblaciones.»\nCuando llegó el mes séptimo, ya los israelitas estaban instalados en sus localidades.",
+					"number": 72,
+					"id": "b28bc13d-d843-47da-b735-cdb0a6f9af65"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Entonces todo el pueblo en masa se reunió en la plaza que está frente a la puerta del Agua, y le dijeron al maestro Esdras que trajera el libro de la ley de Moisés, que el Señor había dado a Israel.",
+					"number": 1,
+					"study": "Esdras lee la ley al pueblo",
+					"id": "9c0065c3-5013-41a1-b616-7ef7eec987c9"
+				},
+				{
+					"verse": "El día primero del mes séptimo, el sacerdote Esdras trajo el libro de la ley ante la reunión compuesta de hombres, mujeres y todos los que tenían uso de razón;",
+					"number": 2,
+					"id": "299ccda8-a075-479b-b2f6-bd1b5b96ed59"
+				},
+				{
+					"verse": "y desde la mañana hasta el mediodía lo leyó en presencia de todos ellos, delante de la plaza que está frente a la puerta del Agua.\nTodo el pueblo estaba atento a la lectura del libro de la ley.",
+					"number": 3,
+					"id": "15a3c57c-588e-4bab-af86-5d9f7e2812be"
+				},
+				{
+					"verse": "El maestro Esdras estaba de pie sobre una tribuna de madera construida para ese fin. También de pie y a su derecha estaban Matatías, Sema, Anías, Urías, Hilquías y Maaseías. A su izquierda estaban Pedaías, Misael, Malquías, Hasum, Hasbadana, Zacarías y Mesulam.",
+					"number": 4,
+					"id": "8748c6b7-b735-4415-bbd5-64b3b7125b9f"
+				},
+				{
+					"verse": "Entonces Esdras abrió el libro a la vista de todo el pueblo, ya que se le podía ver por encima de todos; y al abrirlo, todo el mundo se puso de pie.",
+					"number": 5,
+					"id": "0fae4960-a002-49cb-838e-9598c8e3dc86"
+				},
+				{
+					"verse": "Entonces Esdras alabó al Señor, el Dios todopoderoso, y todo el pueblo, con los brazos en alto, respondió: «Amén, amén.» Luego se inclinaron hasta tocar el suelo con la frente, y adoraron al Señor.",
+					"number": 6,
+					"id": "50334eda-3e41-4520-8fe8-f3a668d2c1bd"
+				},
+				{
+					"verse": "Los levitas Josué, Baní, Serebías, Jamín, Acub, Sabtai, Hodías, Maaseías, Quelitá, Azarías, Jozabad, Hanán y Pelaías explicaban la ley al pueblo. Mientras la gente permanecía en su sitio,",
+					"number": 7,
+					"id": "4c1a3c9e-8544-4463-bde9-b474177287ff"
+				},
+				{
+					"verse": "ellos leían en voz alta el libro de la ley de Dios, y lo traducían para que se entendiera claramente la lectura.",
+					"number": 8,
+					"id": "1a788578-d4ad-4d09-85d5-67ae0633d63a"
+				},
+				{
+					"verse": "Y como todo el pueblo lloraba al oír los términos de la ley, tanto el gobernador Nehemías como el maestro y sacerdote Esdras, y los levitas que explicaban la ley al pueblo, dijeron a todos que no se pusieran tristes ni lloraran, porque aquel día estaba dedicado al Señor, su Dios.",
+					"number": 9,
+					"id": "ac5b00dd-614b-4512-9f5e-6e9535484804"
+				},
+				{
+					"verse": "Además les dijo Esdras: «Vayan y coman de lo mejor, beban vino dulce e inviten a quienes no tengan nada preparado, porque hoy es un día dedicado a nuestro Señor. No estén tristes, porque la alegría del Señor es nuestro refugio.»",
+					"number": 10,
+					"id": "a8060dea-63ef-429e-92b9-5bda98b81f69"
+				},
+				{
+					"verse": "También los levitas calmaban a la gente, diciéndoles que se callaran y no lloraran, porque era un día dedicado al Señor.",
+					"number": 11,
+					"id": "d167ad03-3da3-4745-bf25-faf78120ed12"
+				},
+				{
+					"verse": "Entonces toda la gente se fue a comer y beber, y a compartir su comida y celebrar una gran fiesta, porque habían comprendido lo que se les había enseñado.",
+					"number": 12,
+					"id": "4d801217-d793-497b-b7b7-48da2de96c8e"
+				},
+				{
+					"verse": "Al día siguiente, todos los jefes de familia y los sacerdotes y los levitas se reunieron con el maestro Esdras para estudiar los términos de la ley,",
+					"number": 13,
+					"id": "ed9d37d2-aed8-40a9-9d34-b2efb1cf16f9"
+				},
+				{
+					"verse": "y encontraron escrito en ella que el Señor había ordenado por medio de Moisés que, durante la fiesta religiosa del mes séptimo, los israelitas debían vivir debajo de enramadas.",
+					"number": 14,
+					"id": "ddcca0f7-cb84-42a6-a2b6-95a06da127a1"
+				},
+				{
+					"verse": "Entonces, por todas las ciudades y en Jerusalén, se hizo correr la voz de que la gente saliera a los montes a buscar ramas de olivo, arrayán, palmera o cualquier otro árbol frondoso para hacer las enramadas, conforme a lo que estaba escrito en la ley.",
+					"number": 15,
+					"id": "1d3c7658-f1bd-416d-a1c8-e14830d1990e"
+				},
+				{
+					"verse": "Y la gente salió y volvió con ramas para hacer sus propias enramadas en las azoteas y en los patios, como también en el atrio del templo de Dios, en la plaza de la puerta del Agua y en la plaza de la puerta de Efraín.",
+					"number": 16,
+					"id": "e6f1ffee-935f-46cc-a321-8369bc9cd527"
+				},
+				{
+					"verse": "Toda la comunidad que volvió del destierro hizo enramadas y se instaló debajo de ellas, pues desde el tiempo de Josué, hijo de Nun, hasta aquel día no se había hecho tal cosa. Y hubo una gran alegría.",
+					"number": 17,
+					"id": "7b30a739-bb57-4be5-aaa9-9c758d80bbb9"
+				},
+				{
+					"verse": "Celebraron la fiesta religiosa durante siete días; y desde el primer día hasta el último, Esdras leía diariamente pasajes del libro de la ley de Dios; y en el día octavo hubo una reunión solemne, conforme a la costumbre establecida.",
+					"number": 18,
+					"id": "9c1c14d6-5901-478b-a93f-a2c7ec634580"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "El día veinticuatro del mismo mes, los israelitas se reunieron para ayunar; se vistieron con ropas ásperas y se echaron tierra sobre la cabeza,",
+					"number": 1,
+					"study": "Esdras confiesa los pecados de Israel",
+					"id": "81641ecc-37ad-4640-80a4-9bb1944f9066"
+				},
+				{
+					"verse": "y separándose de aquellos que descendían de extranjeros, se pusieron de pie y reconocieron sus propios pecados y los de sus antepasados.",
+					"number": 2,
+					"id": "ba581fd5-2120-4967-81e5-da41d9316a7f"
+				},
+				{
+					"verse": "Mientras permanecían en su lugar, durante tres horas se leyó públicamente el libro de la ley del Señor su Dios, y durante otras tres horas confesaron sus pecados y adoraron al Señor.",
+					"number": 3,
+					"id": "e7964c4f-d962-4d9f-a02a-62349642ef72"
+				},
+				{
+					"verse": "Después los levitas Josué, Binuy, Cadmiel, Sebanías, Binui, Serebías, Baní y Quenaní subieron a la tribuna e invocaron en voz alta al Señor su Dios;",
+					"number": 4,
+					"id": "4459290f-2ed2-4628-9d6d-ab606918e8fc"
+				},
+				{
+					"verse": "luego dijeron los levitas Josué, Cadmiel, Binuy, Hasabnías, Serebías, Hodías, Sebanías y Petahías: «Levántense, alaben al Señor su Dios por siempre y siempre. ¡Alabado sea, con bendiciones y alabanzas, su alto y glorioso nombre!»",
+					"number": 5,
+					"id": "e142e5e7-7887-4b22-b677-57e8ff2636a9"
+				},
+				{
+					"verse": "Y Esdras dijo: «Tú eres el Señor, y nadie más. Tú hiciste el cielo y lo más alto del cielo, y todas sus estrellas; tú hiciste la tierra y todo lo que hay en ella, los mares y todo lo que contienen. Tú das vida a todas las cosas. Por eso te adoran las estrellas del cielo.",
+					"number": 6,
+					"id": "556f7f60-ab11-4dc8-9181-30951b54e808"
+				},
+				{
+					"verse": "»Tú, Señor, eres el Dios que escogiste a Abram; tú lo sacaste de Ur, ciudad de los caldeos, y le pusiste por nombre Abraham.",
+					"number": 7,
+					"id": "00424738-be15-4658-8145-92a8ebd540bc"
+				},
+				{
+					"verse": "Viste que era un hombre que confiaba en ti, e hiciste con él una alianza: que darías a sus descendientes el país de los cananeos, hititas, amorreos, ferezeos, jebuseos y gergeseos; ¡y has cumplido tu palabra, porque tú siempre cumples!",
+					"number": 8,
+					"id": "8f52f544-eb0e-40d9-863e-c3e50889c304"
+				},
+				{
+					"verse": "Tú viste cómo sufrían nuestros antepasados en Egipto, y escuchaste sus lamentos junto al Mar Rojo.",
+					"number": 9,
+					"id": "0c1fe4e1-2f41-4d18-9faf-8466f980235a"
+				},
+				{
+					"verse": "Hiciste grandes prodigios y maravillas en contra del faraón, de todos sus siervos y de toda la gente de su país, porque te diste cuenta de la insolencia con que ellos trataban a los israelitas. Y te ganaste así la gran fama que tienes hoy.",
+					"number": 10,
+					"id": "3793f5a0-aab8-4dac-81be-c6a1fc9115c4"
+				},
+				{
+					"verse": "Partiste en dos el mar delante de ellos, y pasaron por en medio sobre terreno seco; pero hundiste a sus perseguidores hasta al fondo, como una piedra en aguas profundas.",
+					"number": 11,
+					"id": "991290ff-1d7f-45a9-ba10-243020127e1b"
+				},
+				{
+					"verse": "Luego los guiaste de día con una columna de nube, y de noche con una columna de fuego, para alumbrarles el camino que tenían que seguir.",
+					"number": 12,
+					"id": "affae3e0-a050-45a6-a181-53e5fb3f0119"
+				},
+				{
+					"verse": "»Después bajaste al monte Sinaí, y hablaste con ellos desde el cielo; les diste decretos justos, enseñanzas verdaderas, y leyes y mandamientos buenos.",
+					"number": 13,
+					"id": "b60cd6a1-f172-4309-b57e-5be3cc9febf6"
+				},
+				{
+					"verse": "Les enseñaste también a consagrarte el sábado, y les diste mandamientos, enseñanzas verdaderas, leyes y enseñanzas por medio de tu siervo Moisés.",
+					"number": 14,
+					"id": "23b408d1-9600-4b51-ad92-e9266d5a31e6"
+				},
+				{
+					"verse": "Les diste además pan del cielo para saciar su hambre y agua de la roca para apagar su sed. Luego les dijiste que entraran a ocupar el país que les habías prometido.",
+					"number": 15,
+					"id": "46b08924-aa36-4adf-99ee-739cdebf4d74"
+				},
+				{
+					"verse": "»Pero ellos y nuestros antepasados fueron orgullosos y testarudos, y no hicieron caso a tus mandamientos.",
+					"number": 16,
+					"id": "a9e6442c-6a14-4be2-99f1-b63b6d2af3e8"
+				},
+				{
+					"verse": "No quisieron obedecer ni recordar las grandes cosas que hiciste en favor suyo. Fueron tan testarudos que nombraron un jefe que los llevara de nuevo a su esclavitud en Egipto. Pero tú eres un Dios perdonador, un Dios tierno y compasivo, paciente y todo amor, y no los abandonaste.",
+					"number": 17,
+					"id": "8da3d66c-061d-463b-8ae0-5b9dc435a83b"
+				},
+				{
+					"verse": "Aun cuando se hicieron un becerro de metal fundido, y dijeron que ése era el dios que los había sacado de Egipto, y cometieron graves ofensas,",
+					"number": 18,
+					"id": "5e7d18dd-f090-458c-8c33-f3911ed8fdf9"
+				},
+				{
+					"verse": "tú, por tu gran compasión, no los abandonaste en el desierto. La columna de nube no se apartó de ellos durante el día para guiarlos por el camino, ni la columna de fuego durante la noche para alumbrarles el camino que tenían que seguir.",
+					"number": 19,
+					"id": "0246be97-4361-451f-82c5-519da8530d09"
+				},
+				{
+					"verse": "Además les diste de tu buen espíritu para instruirlos; jamás les faltó de la boca el maná que les enviabas, y les diste agua para calmar su sed.",
+					"number": 20,
+					"id": "ea3cf06c-c44f-4d20-b0c4-c2cbb0137dec"
+				},
+				{
+					"verse": "Durante cuarenta años les diste de comer en el desierto, y nunca les faltó nada: ni se desgastaron sus ropas ni se les hincharon los pies.",
+					"number": 21,
+					"id": "635cd000-0d25-4053-95af-7a2f8db2a10d"
+				},
+				{
+					"verse": "»Les entregaste reinos y naciones, y se los repartiste en parcelas, y ellos tomaron posesión de Hesbón, país del rey Sihón, y de Basán, país del rey Og.",
+					"number": 22,
+					"id": "55de6d81-58d4-4127-a116-877713566165"
+				},
+				{
+					"verse": "Hiciste que tuvieran tantos hijos como estrellas hay en el cielo, y los llevaste a tomar posesión del país que habías prometido dar en propiedad a sus antepasados.",
+					"number": 23,
+					"id": "ed3cf4e5-f26d-4ebb-926a-b537902a744d"
+				},
+				{
+					"verse": "Y ellos entraron y conquistaron la tierra de Canaán; humillaste ante ellos a los habitantes de esa tierra, y a sus reyes y a la gente de esa región los pusiste en sus manos para que hicieran con ellos lo que quisieran.",
+					"number": 24,
+					"id": "f443cdd8-f670-4dba-954b-19685dcef6d8"
+				},
+				{
+					"verse": "También se apoderaron de ciudades fortificadas y de tierras fértiles, de casas llenas de lo mejor, de pozos, viñedos, olivares y muchos otros árboles frutales; comieron hasta quedar satisfechos, engordaron y disfrutaron de tu gran bondad.",
+					"number": 25,
+					"id": "3a419f90-ac1a-43ac-b278-02609b929e28"
+				},
+				{
+					"verse": "»Pero fueron desobedientes, se rebelaron contra ti y despreciaron tu ley. Mataron además a tus profetas, que los acusaban abiertamente y les decían que se volvieran a ti, y te ofendieron grandemente.",
+					"number": 26,
+					"id": "110a7fef-b993-4324-b583-b259653919fa"
+				},
+				{
+					"verse": "Por eso los entregaste al poder de sus enemigos, que los oprimieron. Después, estando afligidos, te pidieron ayuda, y tú, por tu gran compasión, los escuchaste desde el cielo; les diste hombres que los libraran del poder de sus opresores.",
+					"number": 27,
+					"id": "4dae2f05-fb61-4137-bce3-172ba415e128"
+				},
+				{
+					"verse": "»Sin embargo, en cuanto tenían un poco de paz, volvían a hacer lo malo en tu presencia; por eso los dejaste caer en poder de sus enemigos, los cuales los sometieron. Luego volvían a pedirte ayuda, y tú, lleno de compasión, los escuchabas desde el cielo, librándolos en muchas ocasiones.",
+					"number": 28,
+					"id": "fd284369-cc1d-4734-97bc-92d9c530e29b"
+				},
+				{
+					"verse": "Les aconsejabas que volvieran a cumplir tus leyes; pero ellos se creían suficientes y no hacían caso de tus mandamientos; violaban tus decretos, que dan vida a quienes los practican; fueron rebeldes y testarudos, y no hicieron caso.",
+					"number": 29,
+					"id": "b5b3a076-4ca4-493b-879b-207deecd1b55"
+				},
+				{
+					"verse": "Durante muchos años tuviste paciencia con ellos y les hiciste advertencias por medio de tu espíritu y de tus profetas; pero no hicieron caso, y por eso los entregaste al dominio de las naciones de la tierra.",
+					"number": 30,
+					"id": "6a9a0d67-30ba-4ffd-9d55-25ba56d9f4d7"
+				},
+				{
+					"verse": "Sin embargo, por tu gran compasión no los destruiste del todo ni los abandonaste; porque tú eres un Dios tierno y compasivo.",
+					"number": 31,
+					"id": "3ec9f7f5-5aa0-4f67-a8e5-3e5e25645f74"
+				},
+				{
+					"verse": "»Por lo tanto, Dios nuestro, Dios grande, poderoso y terrible, que mantienes tu alianza y tu gran amor, no tengas en poco todas las calamidades que han ocurrido a nuestros reyes, jefes, sacerdotes y profetas, y a nuestros antepasados, y a todo el pueblo, desde el tiempo de los reyes de Asiria hasta el presente.",
+					"number": 32,
+					"id": "83652feb-91eb-42a7-bf6c-2f707c733192"
+				},
+				{
+					"verse": "No obstante, tú estás limpio de culpa en todo lo que nos ha sucedido; pues tú has actuado con fidelidad, en tanto que nosotros hemos hecho lo malo.",
+					"number": 33,
+					"id": "40e629cc-0b66-487c-83db-73beeae4f5f3"
+				},
+				{
+					"verse": "Ni nuestros reyes, jefes y sacerdotes, ni nuestros antepasados, cumplieron tu ley ni hicieron caso de tus mandamientos y de las advertencias que les hiciste.",
+					"number": 34,
+					"id": "3a117b24-ca6d-4ca1-8d9a-de287a7dd886"
+				},
+				{
+					"verse": "Por el contrario, en su reino, y a pesar de los muchos bienes que les diste y del grande y fértil país que les entregaste, no te rindieron culto ni abandonaron sus malas acciones.",
+					"number": 35,
+					"id": "8be404a1-9b65-41a0-a125-7e7ef8d6aa91"
+				},
+				{
+					"verse": "»Míranos hoy, convertidos en esclavos precisamente en el país que diste a nuestros antepasados para que se alimentaran de sus productos y bienes.",
+					"number": 36,
+					"id": "c987dce3-42dc-476b-99c6-0b99313b869c"
+				},
+				{
+					"verse": "Lo que se produce en abundancia es para los reyes que, por causa de nuestros pecados, has puesto sobre nosotros. Nosotros y nuestros ganados estamos sujetos a sus caprichos. Por eso estamos tan afligidos.»",
+					"number": 37,
+					"id": "0d7998f1-04f0-4f47-9a30-32d9a4554eed"
+				},
+				{
+					"verse": "Por todo esto, nosotros nos comprometemos firmemente por escrito, y el documento sellado lo firman nuestros jefes, levitas y sacerdotes.",
+					"number": 38,
+					"study": "Pacto del pueblo, de guardar la ley",
+					"id": "e96ad63a-c33d-4091-beb9-cd1639b3e4d8"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Las siguientes personas firmamos el documento: Yo, Nehemías hijo de Hacalías, que era el gobernador; Sedequías,",
+					"number": 1,
+					"id": "13a10777-defb-4afd-9486-f1c98aa0c933"
+				},
+				{
+					"verse": "Seraías, Azarías, Jeremías,",
+					"number": 2,
+					"id": "96715129-3b76-4a72-898e-d91f4cc54863"
+				},
+				{
+					"verse": "Pashur, Amarías, Malquías,",
+					"number": 3,
+					"id": "5a492d6a-82c3-484d-8743-c4a5159982cf"
+				},
+				{
+					"verse": "Hatús, Sebanías, Maluc,",
+					"number": 4,
+					"id": "7478b37c-155d-4b86-972c-d1f3ca6fd030"
+				},
+				{
+					"verse": "Harim, Meremot, Abdías,",
+					"number": 5,
+					"id": "e30e5da6-402a-4f0f-a33d-cef5dab3888b"
+				},
+				{
+					"verse": "Daniel, Guinetón, Baruc,",
+					"number": 6,
+					"id": "b7c860b4-9e2c-45ae-ac1c-48fc21e6a86c"
+				},
+				{
+					"verse": "Mesulam, Abías, Mijamín,",
+					"number": 7,
+					"id": "75c6a430-9a68-4c84-80cb-f3a4eb16ef7e"
+				},
+				{
+					"verse": "Maazías, Bilgai y Semaías. Éstos eran sacerdotes.",
+					"number": 8,
+					"id": "8b0eae04-0a83-4a9d-a694-9b5bc29b984f"
+				},
+				{
+					"verse": "Los levitas: Josué, hijo de Azanías, Binuy, descendiente de Henadad, y Cadmiel;",
+					"number": 9,
+					"id": "5ec78a41-e533-4aa6-8db2-84f01440e08a"
+				},
+				{
+					"verse": "y sus hermanos, Sebanías, Hodías, Quelitá, Pelaías, Hanán,",
+					"number": 10,
+					"id": "8ea35a9f-e32c-4e7a-a444-86b6c2b2932e"
+				},
+				{
+					"verse": "Micaías, Rehob, Hasabías,",
+					"number": 11,
+					"id": "66ee204b-23da-4e77-beec-00f2aca3a1ae"
+				},
+				{
+					"verse": "Zacur, Serebías, Sebanías,",
+					"number": 12,
+					"id": "55d47956-b509-4a9d-9566-7d80f509db4a"
+				},
+				{
+					"verse": "Hodías, Baní y Beninu.",
+					"number": 13,
+					"id": "86983f6c-39e1-4c79-ab10-aa5eb1836cc5"
+				},
+				{
+					"verse": "Los jefes de la nación: Parós, Pahat-moab, Elam, Zatú, Baní,",
+					"number": 14,
+					"id": "8039bd1f-3589-4328-8c81-a94dcbda9175"
+				},
+				{
+					"verse": "Binuy, Azgad, Bebai,",
+					"number": 15,
+					"id": "3b1c3453-0ae1-4583-91fd-b7372aac64dc"
+				},
+				{
+					"verse": "Adonías, Bigvai, Adín,",
+					"number": 16,
+					"id": "48e75e44-f8c4-45bc-bb1d-c5058a1267b8"
+				},
+				{
+					"verse": "Ater, Ezequías, Azur,",
+					"number": 17,
+					"id": "0b1efb03-df72-4a52-b9fc-09f7d0b3c758"
+				},
+				{
+					"verse": "Hodías, Hasum, Besai,",
+					"number": 18,
+					"id": "12fd4df8-f4a1-4a8b-9ab8-0ccd1b1e8df8"
+				},
+				{
+					"verse": "Harif, Anatot, Nebai,",
+					"number": 19,
+					"id": "0b0c0f77-58f3-4196-8e5a-d77c36c5a166"
+				},
+				{
+					"verse": "Magpías, Mesulam, Hezir,",
+					"number": 20,
+					"id": "ae2b4e86-c5f7-4a67-8faa-b82610c447b5"
+				},
+				{
+					"verse": "Mesezabel, Sadoc, Jadúa,",
+					"number": 21,
+					"id": "05f13534-1313-4096-8676-1f024b5015e9"
+				},
+				{
+					"verse": "Pelatías, Hanán, Anaías,",
+					"number": 22,
+					"id": "c61b92a9-8610-46e0-a196-615a55e1a241"
+				},
+				{
+					"verse": "Oseas, Hananías, Hasub,",
+					"number": 23,
+					"id": "a6543dae-ee12-4c36-8d52-2787ecb06c9d"
+				},
+				{
+					"verse": "Halohés, Pilhá, Sobec,",
+					"number": 24,
+					"id": "9d71c48e-3b21-420a-b7d1-fcb5a9e887bb"
+				},
+				{
+					"verse": "Rehúm, Hasabná, Maaseías,",
+					"number": 25,
+					"id": "53292089-b2a3-4db9-847d-9996c362d586"
+				},
+				{
+					"verse": "Ahías, Hanán, Anán,",
+					"number": 26,
+					"id": "772771bd-5604-4759-b26d-3e88212a7040"
+				},
+				{
+					"verse": "Maluc, Harim y Baaná.",
+					"number": 27,
+					"id": "f71316fc-db5d-477b-b887-119ee09351af"
+				},
+				{
+					"verse": "En cuanto a los demás ciudadanos, es decir, los sacerdotes, levitas, porteros, cantores, sirvientes del templo, y todos los que se habían separado de la gente de la región para cumplir con la ley de Dios, junto con sus mujeres y todos sus hijos e hijas con uso de razón,",
+					"number": 28,
+					"id": "332a0507-6ddb-4c75-8d7d-a30b33b994a7"
+				},
+				{
+					"verse": "se unieron a sus parientes y a sus jefes, y juraron conducirse según la ley que Dios había dado por medio de su siervo Moisés, y cumplir fielmente todos los mandamientos y decretos y leyes de nuestro Señor.",
+					"number": 29,
+					"id": "01310bb2-bdaf-4273-abf3-eefedf2c7bf5"
+				},
+				{
+					"verse": "Por lo tanto, no daríamos en casamiento nuestras hijas a las gentes del país, ni aceptaríamos que sus hijas se casaran con nuestros hijos.",
+					"number": 30,
+					"id": "c10ae0d5-a399-4aea-8fcc-e4548f88efb8"
+				},
+				{
+					"verse": "Y cuando la gente del país viniera en sábado a vender sus productos y toda clase de granos, no les compraríamos nada, ni en sábado ni en cualquier otro día festivo; así mismo, en el séptimo año renunciaríamos a las cosechas y perdonaríamos las deudas.",
+					"number": 31,
+					"id": "fe41ba42-dcfc-49e5-807f-c10748444f18"
+				},
+				{
+					"verse": "También decidimos imponernos la obligación de contribuir cada año con cuatro gramos de plata para cubrir los gastos del servicio del templo de nuestro Dios:",
+					"number": 32,
+					"id": "9826485f-b194-4313-b836-d4e9cb40a96e"
+				},
+				{
+					"verse": "para el pan de la Presencia, las ofrendas diarias de cereales, los holocaustos diarios, los sacrificios de los sábados y de luna nueva, y de las otras fiestas religiosas; y para las ofrendas en general, los sacrificios para obtener el perdón por los pecados de Israel, y para todo el culto en el templo de nuestro Dios.",
+					"number": 33,
+					"id": "50e2082c-7def-4213-b2c4-ade22727eacd"
+				},
+				{
+					"verse": "Además, los sacerdotes, los levitas y todo el pueblo, según nuestras familias, echamos suertes para llevar cada año al templo de nuestro Dios la provisión de leña en el tiempo señalado, para quemarla en el altar del Señor nuestro Dios, como está escrito en la ley.",
+					"number": 34,
+					"id": "24955c60-5be2-4470-9c4b-98932aed2636"
+				},
+				{
+					"verse": "También acordamos llevar cada año al templo del Señor los primeros frutos de nuestros campos y de todos los árboles frutales,",
+					"number": 35,
+					"id": "7ab638de-011e-49fc-8c21-6c53dee052fd"
+				},
+				{
+					"verse": "y llevar también al templo de nuestro Dios a nuestros primeros hijos y las primeras crías de nuestras vacas y de nuestras ovejas, como está escrito en la ley, ante los sacerdotes que sirven en el templo.",
+					"number": 36,
+					"id": "3d14d152-2c38-4b30-9ffb-a2a79aaa4bd8"
+				},
+				{
+					"verse": "También acordamos llevar a los almacenes del templo de nuestro Dios, como contribución para los sacerdotes, nuestra primera harina y los primeros frutos de todo árbol, y nuestro primer vino y nuestro primer aceite, y llevar a los levitas la décima parte de nuestras cosechas, ya que son ellos los que recogen la décima parte en todas nuestras fincas.",
+					"number": 37,
+					"id": "c70fee37-b047-4271-9944-524152b6f8fe"
+				},
+				{
+					"verse": "Y cuando los levitas vayan a recoger la décima parte, los acompañará un sacerdote descendiente de Aarón. Luego los levitas deberán llevar a los almacenes del templo de nuestro Dios la décima parte de la décima parte que ellos recojan,",
+					"number": 38,
+					"id": "65d0e379-7aeb-4d62-a46a-e961e29e31d7"
+				},
+				{
+					"verse": "pues los israelitas y los levitas llevan las contribuciones de trigo, vino y aceite a los almacenes donde están los utensilios sagrados y los sacerdotes en servicio, los porteros y los cantores. Y prometimos no abandonar el templo de nuestro Dios.",
+					"number": 39,
+					"id": "0783c2b9-7855-4991-8f21-e67c7489e548"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Las autoridades de la nación se establecieron en Jerusalén; y el resto del pueblo echó suertes para que una de cada diez familias fuera a vivir a Jerusalén, la ciudad santa, mientras que las otras nueve se quedarían en las demás poblaciones.",
+					"number": 1,
+					"study": "Los habitantes de Jerusalén",
+					"id": "d6196780-f44a-4f1d-a2ea-7d7e4db7ddbc"
+				},
+				{
+					"verse": "Luego el pueblo bendijo a todos los que voluntariamente se ofrecieron a vivir en Jerusalén.",
+					"number": 2,
+					"id": "acdd3e33-3d7c-4ae1-9f5b-6c1fe6aabe30"
+				},
+				{
+					"verse": "A continuación figuran los jefes principales de los repatriados que establecieron su residencia en Jerusalén. En las ciudades de Judá se establecieron los israelitas, los sacerdotes, los levitas, los sirvientes del templo y los descendientes de los sirvientes de Salomón, cada uno en su respectiva población y propiedad.",
+					"number": 3,
+					"id": "668aa650-3cc7-4e88-a226-fc60b9d92181"
+				},
+				{
+					"verse": "Algunos de Judá y Benjamín que se establecieron en Jerusalén fueron, por parte de Judá: Ataías, que era hijo de Ozías, que era hijo de Zacarías, que era hijo de Amarías, que era hijo de Sefatías, que era hijo de Mahalalel, descendiente de Fares;",
+					"number": 4,
+					"id": "478cff0b-9c18-4d4d-bbde-9bfe191e897c"
+				},
+				{
+					"verse": "y Maaseías, que era hijo de Baruc, que era hijo de Colhozé, que era hijo de Hazaías, que era hijo de Adías, que era hijo de Joiarib, que era hijo de Zacarías, que era hijo de Siloní.",
+					"number": 5,
+					"id": "1044ddda-1b31-4db3-abcb-927d14c6faa3"
+				},
+				{
+					"verse": "El total de los descendientes de Fares que se quedaron a vivir en Jerusalén fue de cuatrocientos sesenta y ocho, todos ellos hombres de guerra.",
+					"number": 6,
+					"id": "f0fd6767-d3d0-44c9-9300-a07cccf62b44"
+				},
+				{
+					"verse": "Por parte de Benjamín: Salú, que era hijo de Mesulam, que era hijo de Joed, que era hijo de Pedaías, que era hijo de Colaías, que era hijo de Maaseías, que era hijo de Itiel, que era hijo de Isaías;",
+					"number": 7,
+					"id": "040a1fe9-1a06-488e-ab85-809d7e064714"
+				},
+				{
+					"verse": "y sus hermanos Gabai y Salai. En total: novecientos veintiocho.",
+					"number": 8,
+					"id": "a39fc15b-52f5-4170-8281-63408561f92d"
+				},
+				{
+					"verse": "Su jefe era Joel, hijo de Zicrí; y Judá, hijo de Senuá, que era el segundo jefe de la ciudad.",
+					"number": 9,
+					"id": "56402221-d6b7-4d8f-8eff-d1918955b0a1"
+				},
+				{
+					"verse": "De los sacerdotes: Jedaías, hijo de Joiarib, Jaquín,",
+					"number": 10,
+					"id": "1c6fdd4a-a299-48d9-933e-09581a99049d"
+				},
+				{
+					"verse": "y Seraías, hijo de Hilquías, que era hijo de Mesulam, que era hijo de Sadoc, que era hijo de Meraiot, que era hijo de Ahitub, el jefe principal del templo de Dios.",
+					"number": 11,
+					"id": "116beedd-4597-4745-bb13-4a6ed51e8c0b"
+				},
+				{
+					"verse": "También sus compañeros, que trabajaban en el servicio del templo y eran ochocientos veintidós; y Adaías, que era hijo de Jeroham, que era hijo de Pelalías, que era hijo de Amsí, que era hijo de Zacarías, que era hijo de Pashur, que era hijo de Malquías.",
+					"number": 12,
+					"id": "8fd61b5d-e471-4f1b-88d5-4553361351e2"
+				},
+				{
+					"verse": "Sus parientes, jefes de familia, sumaban doscientos cuarenta y dos; y Amasai, que era hijo de Azarel, que era hijo de Ahzai, que era hijo de Mesilemot, que era hijo de Imer.",
+					"number": 13,
+					"id": "ae923b74-5d31-4358-a050-7ad8e4689cae"
+				},
+				{
+					"verse": "Sus parientes, que eran hombres de guerra, sumaban ciento veintiocho personas, y su jefe era Zabdiel, hijo de Guedolim.",
+					"number": 14,
+					"id": "02f12f2c-be9b-4cea-a622-6893a48f0ea8"
+				},
+				{
+					"verse": "De los levitas: Semaías, que era hijo de Hasub, que era hijo de Azricam, que era hijo de Hasabías, que era hijo de Binuy;",
+					"number": 15,
+					"id": "32428c10-486b-4893-ba9c-5037c99d20c8"
+				},
+				{
+					"verse": "Sabtai y Jozabad, que eran de los jefes de los levitas, estaban encargados de las obras fuera del templo de Dios;",
+					"number": 16,
+					"id": "51582854-8e05-4f67-8952-9606208a4362"
+				},
+				{
+					"verse": "Matanías, que era hijo de Micaías, que era hijo de Zabdí, que era hijo de Asaf, era el director del coro que cantaba la alabanza y la acción de gracias a la hora de la oración; Bacbuquías, que era el segundo de la familia, y Abdá, que era hijo de Samúa, que era hijo de Galal, que era hijo de Jedutún.",
+					"number": 17,
+					"id": "7e1a212b-d902-43df-83b5-c19c05b83858"
+				},
+				{
+					"verse": "El total de levitas que quedaron en la ciudad santa fue de doscientos ochenta y cuatro.",
+					"number": 18,
+					"id": "21964e3b-3372-4dcf-bca0-7897e1fd5d4d"
+				},
+				{
+					"verse": "De los porteros: Acub, Talmón y sus parientes, que vigilaban las puertas ciento setenta y dos.",
+					"number": 19,
+					"id": "01c1bcd0-c9e4-4ca3-b73b-c90df14c5fc5"
+				},
+				{
+					"verse": "Los demás israelitas en general, y el resto de los sacerdotes y levitas, se instalaron en las otras poblaciones de Judá, cada uno en su propiedad;",
+					"number": 20,
+					"id": "d43b6176-7372-46a2-aa61-1295a3c97765"
+				},
+				{
+					"verse": "aunque los sirvientes del templo, cuyos dirigentes eran Sihá y Guispá, se instalaron en Ofel.",
+					"number": 21,
+					"id": "99c723e4-aa04-4803-9ec9-b0bbafae6bfb"
+				},
+				{
+					"verse": "El jefe de los levitas de Jerusalén era Uzí, que era hijo de Baní, que era hijo de Hasabías, que era hijo de Matanías, que era hijo de Micaías, de los descendientes de Asaf, los cuales dirigían los cantos en el servicio del templo de Dios,",
+					"number": 22,
+					"id": "c8d94011-4085-4358-a45c-c6cf2a215e35"
+				},
+				{
+					"verse": "pues el rey había dado órdenes acerca de los deberes diarios de los cantores.",
+					"number": 23,
+					"id": "e874da48-4a80-4660-8b93-c6d1e74280a3"
+				},
+				{
+					"verse": "El representante ante el rey para cualquier asunto civil, era Petahías, hijo de Mesezabel, que era descendiente de Zérah, hijo de Judá.",
+					"number": 24,
+					"id": "4e37798a-0da1-4a78-9704-86c634288d2d"
+				},
+				{
+					"verse": "Algunos de la tribu de Judá se instalaron en Quiriat-arbá, Dibón, Jecabseel,",
+					"number": 25,
+					"study": "Lugares habitados fuera de Jerusalén",
+					"id": "f8ef8e09-9472-4df2-9c41-3f882134b03d"
+				},
+				{
+					"verse": "Josué, Moladá, Bet-pélet,",
+					"number": 26,
+					"id": "71e6bc0c-5850-445e-96b1-789c94e6359d"
+				},
+				{
+					"verse": "Hasar-sual, Beerseba,",
+					"number": 27,
+					"id": "26b5c7d6-9788-413c-8cc1-647159febbc5"
+				},
+				{
+					"verse": "Siclag, Meconá,",
+					"number": 28,
+					"id": "f24e20ce-af35-4905-8172-4963397f0fd1"
+				},
+				{
+					"verse": "En-rimón, Sorá, Jarmut,",
+					"number": 29,
+					"id": "ee02a21a-d726-48fc-b961-23f64e6e9c0e"
+				},
+				{
+					"verse": "Zanóah, Adulam, Laquis y Azecá, con sus aldeas y campos respectivos. Se establecieron desde Beerseba hasta el valle de Hinom.",
+					"number": 30,
+					"id": "bf7c6567-d600-48b0-ab91-7ea5923bca77"
+				},
+				{
+					"verse": "Y los de la tribu de Benjamín se instalaron en Gueba, Micmás, Aías, Betel y sus aldeas;",
+					"number": 31,
+					"id": "e5ce6d29-5c32-4e5a-b08f-39a60e0b645f"
+				},
+				{
+					"verse": "también en Anatot, Nob, Ananías,",
+					"number": 32,
+					"id": "ee90a0a6-3775-4ac7-a0e5-32fa33b7b7dc"
+				},
+				{
+					"verse": "Hasor, Ramá, Guitaim,",
+					"number": 33,
+					"id": "86bcaa0d-ea80-49d4-ae58-266f2623ada4"
+				},
+				{
+					"verse": "Hadid, Seboím, Nebalat,",
+					"number": 34,
+					"id": "f109b771-fa27-4dd3-9dd5-b10162b3a9e2"
+				},
+				{
+					"verse": "Lod, Onó, y en el valle de los Artesanos.",
+					"number": 35,
+					"id": "3f0086b5-7daa-444f-b505-2a357931b642"
+				},
+				{
+					"verse": "Además, a algunos de los levitas se les dieron terrenos en Judá y Benjamín.",
+					"number": 36,
+					"id": "b08debf6-57f8-43a8-ab61-4fc2a3d9ca0b"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Éstos son los sacerdotes y levitas que regresaron con Zorobabel, hijo de Salatiel, y con Josué:\nLos sacerdotes: Seraías, Jeremías, Esdras,",
+					"number": 1,
+					"study": "Sacerdotes y levitas",
+					"id": "17c5c9fa-fcb2-4aa0-a524-1963a39c8533"
+				},
+				{
+					"verse": "Amarías, Maluc, Hatús,",
+					"number": 2,
+					"id": "f03c3749-bbca-4e0d-bfe6-f8687139e02c"
+				},
+				{
+					"verse": "Secanías, Rehúm, Meremot,",
+					"number": 3,
+					"id": "521ed6e3-2e80-4f78-a1df-f55e1739baeb"
+				},
+				{
+					"verse": "Idó, Guinetón, Abías,",
+					"number": 4,
+					"id": "98710835-fce4-4deb-a82b-fce997339742"
+				},
+				{
+					"verse": "Mijamín, Maadías, Bilgá,",
+					"number": 5,
+					"id": "a3d2737e-8aac-47eb-b7d0-af42a0d5b6e9"
+				},
+				{
+					"verse": "Semaías, Joiarib, Jedaías,",
+					"number": 6,
+					"id": "372c5244-17b9-4faf-8c14-fd2329001d2f"
+				},
+				{
+					"verse": "Salú, Amoc, Hilquías y Jedaías. Éstos eran los jefes de los sacerdotes y sus parientes en tiempos de Josué.",
+					"number": 7,
+					"id": "e2fa098f-b33e-4e94-8509-369a609dde9b"
+				},
+				{
+					"verse": "Los levitas: Josué, Binuy, Cadmiel, Serebías, Judá y Matanías, quien, con sus colegas, estaba encargado de los himnos de alabanza;",
+					"number": 8,
+					"id": "d62fb6f8-f44a-4e58-a5ef-162c47bd7005"
+				},
+				{
+					"verse": "y Bacbuquías y Uní, también colegas suyos, estaban frente a ellos para el desempeño de sus funciones.",
+					"number": 9,
+					"id": "121e8484-a84a-4dc6-9999-664a7c006ba5"
+				},
+				{
+					"verse": "Josué fue padre de Joaquim, Joaquim lo fue de Eliasib, Eliasib lo fue de Joiadá,",
+					"number": 10,
+					"id": "321448b3-ba02-485d-9b05-5e11c5d6f36c"
+				},
+				{
+					"verse": "Joiadá lo fue de Johanán, y Johanán lo fue de Jadúa.",
+					"number": 11,
+					"id": "bbbcceef-f799-4d7f-adc8-9776654925b5"
+				},
+				{
+					"verse": "En tiempos de Joaquim, los sacerdotes jefes de familia eran: de la familia de Seraías, Meraías; de la de Jeremías, Hananías;",
+					"number": 12,
+					"id": "2e7600c4-b554-47b3-8c05-f2f4429b7d0f"
+				},
+				{
+					"verse": "de la de Esdras, Mesulam; de la de Amarías, Johanán;",
+					"number": 13,
+					"id": "4d365f43-b107-4095-9a15-6487536e626a"
+				},
+				{
+					"verse": "de la de Melicú, Jonatán; de la de Sebanías, José;",
+					"number": 14,
+					"id": "2aac8dbe-e7aa-4684-916b-b7610aab968f"
+				},
+				{
+					"verse": "de la de Harim, Adná; de la de Meraiot, Helcai;",
+					"number": 15,
+					"id": "a77d3dff-a2c8-4da0-82e7-b1b21a582ce7"
+				},
+				{
+					"verse": "de la de Idó, Zacarías; de la de Guinetón, Mesulam;",
+					"number": 16,
+					"id": "12068b3f-0c19-4faf-9284-56d5d8c66ea5"
+				},
+				{
+					"verse": "de la de Abías, Zicrí; de la de Miniamín,...; de la de Moadías, Piltai;",
+					"number": 17,
+					"id": "ec5af8eb-95e4-4dd6-84bd-f070b201709d"
+				},
+				{
+					"verse": "de la de Bilgá, Samúa; de la de Semaías, Jonatán;",
+					"number": 18,
+					"id": "1516d6f4-2e56-4249-8322-51560aac7a41"
+				},
+				{
+					"verse": "de la de Joiarib, Matenai; de la de Jedaías, Uzí;",
+					"number": 19,
+					"id": "e64ca2bc-7327-4999-96c9-db96549f164d"
+				},
+				{
+					"verse": "de la de Salai, Calai; de la de Amoc, Éber;",
+					"number": 20,
+					"id": "d488ca5a-051d-4326-855a-48a06925c272"
+				},
+				{
+					"verse": "de la de Hilquías, Hasabías; y de la familia de Jedaías, Natanael.",
+					"number": 21,
+					"id": "12363217-e3fc-41ee-9dd0-3b964c24d67c"
+				},
+				{
+					"verse": "En la época de Eliasib, Joiadá, Johanán y Jadúa, y hasta el reinado de Darío el persa, los levitas fueron inscritos como jefes de familia, y también los sacerdotes.",
+					"number": 22,
+					"id": "d4b74ffa-a3f8-4afb-b585-6362d837b471"
+				},
+				{
+					"verse": "Por su parte, los levitas jefes de familia fueron inscritos en el libro de las crónicas hasta la época de Johanán, nieto de Eliasib.",
+					"number": 23,
+					"id": "411360d6-ca2b-48b9-90f8-d44b56da9d5c"
+				},
+				{
+					"verse": "Los jefes de los levitas eran: Hasabías, Serebías, Josué, Binuy y Cadmiel, y sus compañeros estaban frente a ellos para alabar y dar gracias al Señor durante su respectivo turno de servicio, como lo había mandado David, hombre de Dios.",
+					"number": 24,
+					"id": "a5b5311f-3631-4ab7-9a9d-af60faef269c"
+				},
+				{
+					"verse": "Y los porteros que cuidaban las puertas de entrada eran: Matanías, Bacbuquías, Abdías, Mesulam, Talmón y Acub.",
+					"number": 25,
+					"id": "89b1fd06-1435-45ec-87d4-85fc0cac3918"
+				},
+				{
+					"verse": "Estos vivieron en tiempos de Joaquim, hijo de Josué y nieto de Josadac; y en la época del gobernador Nehemías y del sacerdote y maestro Esdras.",
+					"number": 26,
+					"id": "84c09931-3687-45f7-992d-e052d0bb4edc"
+				},
+				{
+					"verse": "Cuando llegó el día de consagrar la muralla de Jerusalén, buscaron a los levitas en todos los lugares donde vivían, y los llevaron a Jerusalén para que celebraran la consagración con alegría, alabanzas e himnos, acompañados de platillos, arpas y liras.",
+					"number": 27,
+					"study": "Dedicación del muro",
+					"id": "e32fb615-5d80-4dc8-be19-f1031a5b6242"
+				},
+				{
+					"verse": "Y los cantores levitas acudieron de los alrededores de Jerusalén, de las aldeas de Netofá,",
+					"number": 28,
+					"id": "f2d72fb8-9209-4565-92fd-1088c8948b0d"
+				},
+				{
+					"verse": "del caserío de Guilgal y de los campos de Gueba y de Azmávet; pues los cantores se habían construido aldeas alrededor de Jerusalén.",
+					"number": 29,
+					"id": "37fedc9d-a9c3-490a-a092-7f5ba6cb2289"
+				},
+				{
+					"verse": "Entonces se purificaron los sacerdotes y los levitas. Luego purificaron al pueblo y las puertas de la ciudad y la muralla.",
+					"number": 30,
+					"id": "6b41f80a-a92e-4efd-a03c-6f678e5b0d4a"
+				},
+				{
+					"verse": "Después hice que autoridades de Judá se subieran a la muralla, y organicé dos coros grandes. El primer coro marchaba sobre la muralla hacia la derecha, en dirección a la puerta del Basurero.",
+					"number": 31,
+					"id": "5748d93a-9ecd-4ef5-86ef-fd6c3a217629"
+				},
+				{
+					"verse": "Detrás del coro iba Hosaías con la mitad de las autoridades de Judá, es decir,",
+					"number": 32,
+					"id": "c876528b-8ddb-4772-a020-213669214142"
+				},
+				{
+					"verse": "con Azarías, Esdras, Mesulam,",
+					"number": 33,
+					"id": "f6336902-d05a-4055-a9f4-2722c2c7b9e8"
+				},
+				{
+					"verse": "Judá, Benjamín, Semaías y Jeremías.",
+					"number": 34,
+					"id": "54b07db5-be61-4c8e-8b40-2b5152c1d239"
+				},
+				{
+					"verse": "De los sacerdotes, los acompañaban con trompetas: Zacarías, hijo de Jonatán, cuyos antepasados eran Semaías, Matanías, Micaías, Zacur y Asaf;",
+					"number": 35,
+					"id": "ae4a1bae-4db4-4558-b7b0-082c32da4f98"
+				},
+				{
+					"verse": "además de sus parientes Semaías, Azarel, Milalai, Guilalai, Maai, Natanael, Judá y Hananí, los cuales tocaban los instrumentos de música de David, hombre de Dios. Al frente de ellos iba el maestro Esdras.",
+					"number": 36,
+					"id": "619d8df7-1efa-4a50-ba14-4c20d8db1343"
+				},
+				{
+					"verse": "Y sobre la puerta de la Fuente, y siguiendo adelante sobre lo alto de la muralla, subieron por sobre las escaleras de la Ciudad de David, arriba del palacio de David y hasta la puerta del Agua, que está al este.",
+					"number": 37,
+					"id": "30f343bf-8e37-403f-967e-5ad99239e818"
+				},
+				{
+					"verse": "El segundo coro marchaba hacia la izquierda. Yo iba detrás del coro sobre la muralla con la otra mitad de la gente, desde la torre de los Hornos hasta la muralla ancha,",
+					"number": 38,
+					"id": "9e83c6ca-180e-4036-8891-df8fbf93287a"
+				},
+				{
+					"verse": "pasando por la puerta de Efraín, la puerta de Jesaná, la puerta de los Pescados, la torre de Hananel y la torre de los Cien, hasta la puerta de las Ovejas; y nos detuvimos en la puerta de la Guardia.",
+					"number": 39,
+					"id": "2cd99b4f-4f1c-4915-9bc0-745f77a65ae4"
+				},
+				{
+					"verse": "Luego los dos coros ocuparon sus puestos en el templo de Dios; y yo también, con la mitad de los gobernantes que me acompañaban.",
+					"number": 40,
+					"id": "8c8757ef-7c1e-4ac6-b58e-95d79a53957b"
+				},
+				{
+					"verse": "Los sacerdotes que tocaban las trompetas eran: Eliaquim, Maaseías, Miniamín, Micaías, Elioenai, Zacarías, Hananías,",
+					"number": 41,
+					"id": "55dd6b93-2efe-402f-ba0d-eba9fd5ad667"
+				},
+				{
+					"verse": "Maaseías, Semaías, Eleazar, Uzí, Johanán, Malquías, Elam y Éser. Y los cantores, dirigidos por Izrahías, cantaron a coro.",
+					"number": 42,
+					"id": "1bf01d78-0411-424b-b8ed-b4f1f415e1a9"
+				},
+				{
+					"verse": "Aquel día se ofrecieron muchos sacrificios, y la gente se alegró mucho porque Dios los llenó de gran alegría. Las mujeres y los niños también estuvieron muy contentos, y el regocijo que hubo en Jerusalén se oía desde lejos.",
+					"number": 43,
+					"id": "25d819f9-8668-4bbc-826d-7bf8f8dafec2"
+				},
+				{
+					"verse": "Por aquel tiempo se nombraron personas encargadas de los depósitos de los tesoros, de las ofrendas, de los primeros frutos y de los diezmos, para almacenar en ellos lo que conforme a la ley llegaba de los campos de cada ciudad para los sacerdotes y levitas; porque los de Judá estaban contentos con los sacerdotes y levitas que estaban en servicio.",
+					"number": 44,
+					"study": "Porciones para sacerdotes y levitas",
+					"id": "7b37f42e-ecab-474b-94aa-942c747faf74"
+				},
+				{
+					"verse": "Tanto ellos como los cantores y los porteros, eran quienes celebraban el culto a su Dios y el rito de la purificación, tal como lo habían dispuesto David y su hijo Salomón.",
+					"number": 45,
+					"id": "f771b4e4-0a53-47e7-ab03-6f5f45b48caa"
+				},
+				{
+					"verse": "Pues antiguamente, en tiempos de David y de Asaf, había jefes de cantores, cantos de alabanza y acción de gracias a Dios.",
+					"number": 46,
+					"id": "dc76f55a-15f4-438f-9e56-e1f836e26ecb"
+				},
+				{
+					"verse": "Así que, en la época de Zorobabel y de Nehemías, todo Israel entregaba diariamente los víveres a los cantores y porteros; daba también a los levitas la parte que les correspondía, y éstos hacían lo mismo con los descendientes de Aarón.",
+					"number": 47,
+					"id": "1669ffce-75a2-4bf0-9ea5-1450703e1f8e"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Por aquel tiempo se leyó públicamente el libro de Moisés, y en él se halló escrito que los amonitas y moabitas no debían jamás pertenecer al pueblo de Dios.",
+					"number": 1,
+					"study": "Reformas de Nehemías",
+					"id": "52069a20-0b6d-40a4-a4f8-86dd82b65674"
+				},
+				{
+					"verse": "(Porque ellos no salieron a recibir a los israelitas con comida y bebida, sino que le pagaron a Balaam para que pronunciara maldiciones contra ellos, aunque nuestro Dios convirtió la maldición en bendición.)",
+					"number": 2,
+					"id": "98e211cc-c387-44c9-a10e-12a8101ea76d"
+				},
+				{
+					"verse": "Así que, en cuanto oyeron lo que decía la ley, separaron de Israel a todos los que ya se habían mezclado con extranjeros.",
+					"number": 3,
+					"id": "961458b2-99ef-416f-84ec-6e24121ebed9"
+				},
+				{
+					"verse": "Antes de esto, el sacerdote Eliasib estaba a cargo de los almacenes del templo de nuestro Dios. Como Eliasib era pariente de Tobías,",
+					"number": 4,
+					"id": "233c9324-6332-49c0-9c7a-0ba5784d9503"
+				},
+				{
+					"verse": "había facilitado a éste un cuarto grande en el que antes se guardaban las ofrendas, el incienso, los utensilios y el diezmo del trigo, del vino y del aceite que se ordenaba dar a los levitas, cantores y porteros, además de las contribuciones para los sacerdotes.",
+					"number": 5,
+					"id": "4d74bd74-15ca-4495-b04f-d64d38a50425"
+				},
+				{
+					"verse": "Cuando todo esto ocurrió, yo no estaba en Jerusalén, porque en el año treinta y dos del reinado de Artajerjes, rey de Babilonia, volví a la corte; aunque al cabo de algún tiempo pedí permiso al rey",
+					"number": 6,
+					"id": "7c6e9be3-1688-47d3-a38b-c1120ed89291"
+				},
+				{
+					"verse": "y regresé a Jerusalén. Fue entonces cuando comprobé el mal que había hecho Eliasib por complacer a Tobías, proporcionándole una sala en el atrio del templo de Dios.",
+					"number": 7,
+					"id": "8117e2ec-1e01-41ea-911d-1c151c3f3e43"
+				},
+				{
+					"verse": "Aquello me disgustó mucho, y eché fuera de la sala todos los muebles de la casa de Tobías.",
+					"number": 8,
+					"id": "d6b44304-c295-49a8-b48e-23124ae33354"
+				},
+				{
+					"verse": "Luego ordené que la purificaran y que volvieran a colocar en su sitio los utensilios del templo de Dios, las ofrendas y el incienso.",
+					"number": 9,
+					"id": "9da11bac-b4ee-49b2-b062-411ba3a3de98"
+				},
+				{
+					"verse": "También supe que no se habían entregado a los levitas sus provisiones, y que los levitas y cantores encargados del culto habían huido, cada uno a su tierra.",
+					"number": 10,
+					"id": "ebeddc65-856c-4606-a9c0-817ffc6e7535"
+				},
+				{
+					"verse": "Entonces reprendí a las autoridades por el abandono en que tenían el templo de Dios. Después reuní a los sacerdotes y levitas, y los instalé en sus puestos,",
+					"number": 11,
+					"id": "bc539343-e8a8-4d49-a6e4-c87549896b56"
+				},
+				{
+					"verse": "y todo Judá trajo a los almacenes el diezmo del trigo, del vino y del aceite.",
+					"number": 12,
+					"id": "e1ed22f6-4b75-47ae-af7f-0ab58bda202a"
+				},
+				{
+					"verse": "Luego puse a cargo de los almacenes al sacerdote Selemías, al secretario Sadoc y a un levita llamado Pedaías; puse también como ayudante suyo a Hanán, hijo de Zacur y nieto de Matanías, porque eran dignos de confianza. Ellos se encargarían de hacer el reparto a sus compañeros.",
+					"number": 13,
+					"id": "09c2095d-60c6-4c5e-8c79-0ede963a29cf"
+				},
+				{
+					"verse": "¡Dios mío: tómame en cuenta esto que he hecho; y no olvides todo lo bueno que he hecho por el templo de mi Dios y por su culto!",
+					"number": 14,
+					"id": "b5b2fe38-4295-4753-a959-30853aefc363"
+				},
+				{
+					"verse": "En aquellos días vi que en Judá había quienes en sábado pisaban uvas para hacer vino, acarreaban manojos de trigo, cargaban los asnos con vino y racimos de uvas, higos y toda clase de carga, y que también en sábado lo llevaban a Jerusalén. Entonces los reprendí por vender sus mercancías en ese día.",
+					"number": 15,
+					"id": "48856fa5-6cb9-4ed6-a349-4d69e44dc2d2"
+				},
+				{
+					"verse": "Además, algunos de la ciudad de Tiro que vivían allí, llevaban pescado y toda clase de mercancías, y se lo vendían en sábado a los judíos de Jerusalén.",
+					"number": 16,
+					"id": "28471318-e3b3-4ef1-9636-0d2b3cba5513"
+				},
+				{
+					"verse": "Entonces reprendí a los jefes de Judá, diciéndoles:\n—¿Qué maldad están cometiendo, al profanar el sábado?",
+					"number": 17,
+					"id": "061d94bd-5ecd-4972-b61d-2328ad361234"
+				},
+				{
+					"verse": "Esto es precisamente lo que hicieron sus antepasados, y por eso nuestro Dios trajo tantas desgracias sobre nosotros y sobre esta ciudad. ¿Acaso quieren irritar más aún a Dios contra Israel por profanar el sábado?",
+					"number": 18,
+					"id": "e67e6ab0-bfc0-4ab6-8787-72fcf77d5607"
+				},
+				{
+					"verse": "Entonces ordené que tan pronto como las sombras de la tarde anunciaran el comienzo del sábado, se cerraran las puertas de Jerusalén y no fueran abiertas hasta pasado el día. Puse además en las puertas a algunos de mis sirvientes para que en sábado no entrara ningún cargamento.",
+					"number": 19,
+					"id": "a9782d78-5184-4ee1-90b8-6d98dbc4967b"
+				},
+				{
+					"verse": "Los negociantes y vendedores de mercancías se quedaron varias veces a pasar la noche fuera de Jerusalén,",
+					"number": 20,
+					"id": "b07ed88d-e443-4e50-9948-5dcf8280be76"
+				},
+				{
+					"verse": "pero yo discutí con ellos y los reprendí por quedarse a pasar la noche delante de la muralla, y les dije que si volvían a hacerlo los haría arrestar. Desde entonces no volvieron a presentarse en sábado.",
+					"number": 21,
+					"id": "7229239a-dfa3-4e19-98c4-b442ea45b148"
+				},
+				{
+					"verse": "Después ordené a los levitas que se purificaran y que fueran a vigilar las puertas, para que el sábado no fuera profanado. ¡Dios mío: acuérdate de mí también por esto, y ten compasión de mí conforme a tu bondad!",
+					"number": 22,
+					"id": "9f5aa67c-06e3-47c0-83bc-fea067255ab3"
+				},
+				{
+					"verse": "Vi también en aquellos días que algunos judíos se habían casado con mujeres de Asdod, Amón y Moab;",
+					"number": 23,
+					"id": "826a6fa9-827f-473a-8fd7-3d27128b243b"
+				},
+				{
+					"verse": "y la mitad de sus hijos hablaban la lengua de Asdod y de otras naciones, pero no sabían hablar la lengua de los judíos.",
+					"number": 24,
+					"id": "c654a2d5-8de3-4fd6-92e2-7306c8fda8af"
+				},
+				{
+					"verse": "Discutí con ellos y los maldije. A algunos de ellos los golpeé y les arranqué el pelo, y los obligué a jurar por Dios que no permitirían más que sus hijas e hijos se casaran con extranjeros, ni aceptarían como esposas para sus hijos o para ellos mismos a las mujeres de ellos. Les dije además:",
+					"number": 25,
+					"id": "9b2626e0-8835-4d06-82c3-89625c117875"
+				},
+				{
+					"verse": "«¡Éste fue el pecado de Salomón, rey de Israel! Y a pesar de que entre las muchas naciones no hubo un rey como él, y de que Dios lo amó y lo puso como rey de todo Israel, las mujeres extranjeras lo hicieron pecar.",
+					"number": 26,
+					"id": "40cef943-0f43-4e49-88fa-4a52dc75e052"
+				},
+				{
+					"verse": "Por lo tanto, no se tolerará que ustedes pequen tan gravemente contra nuestro Dios, casándose con mujeres extranjeras.»",
+					"number": 27,
+					"id": "783006fd-f0b9-4023-85ec-769a37463832"
+				},
+				{
+					"verse": "A uno de los hijos de Joiadá, el hijo del sumo sacerdote Eliasib, que era además yerno de Sambalat el horonita, lo hice huir de mi presencia.",
+					"number": 28,
+					"id": "65a78360-3f86-49e3-98ac-18faf9234c34"
+				},
+				{
+					"verse": "¡Dios mío: acuérdate de los que han manchado el sacerdocio y la alianza sacerdotal y levítica!",
+					"number": 29,
+					"id": "2a7f32b6-66f2-4945-b7a3-117f99635820"
+				},
+				{
+					"verse": "Así que los limpié de todo lo que era extranjero y organicé los turnos de sacerdotes y levitas, cada cual en su obligación;",
+					"number": 30,
+					"id": "75c8c52f-b690-4515-b1e4-68c013ba68fe"
+				},
+				{
+					"verse": "la provisión de leña en las fechas señaladas y la entrega de los primeros frutos. ¡Dios mío: acuérdate de favorecerme!",
+					"number": 31,
+					"id": "a3553c29-c313-407b-9ac6-41f20cfbe311"
+				}
+			]
+		}
+	],
+	"book_id": "eccbf353-fcfc-4511-a8f2-440753441b23"
+}

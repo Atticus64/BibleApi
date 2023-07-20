@@ -1,0 +1,807 @@
+{
+	"name": "Lamentaciones",
+	"num_chapters": 5,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Álef -  ¡Ay, cuán desolada se encuentra la que fue ciudad populosa! ¡Tiene apariencia de viuda la que fue grande entre las naciones! ¡Hoy es esclava de las provincias la que fue gran señora entre ellas!",
+					"number": 1,
+					"study": "Tristeza de Sion la cautiva",
+					"id": "a84ebd1d-b79a-423e-a844-1c50bd03eec0"
+				},
+				{
+					"verse": "Bet -  Amargas lágrimas derrama por las noches; corre el llanto por sus mejillas.",
+					"number": 2,
+					"id": "64478ad2-63f8-4377-9943-ef66568c3425"
+				},
+				{
+					"verse": "uno solo que la consuele. Todos sus amigos la traicionaron; se volvieron sus enemigos. Guímel -  Humillada, cargada de cadenas, Judá marchó al exilio. Una más entre las naciones, no encuentra reposo. Todos sus perseguidores la acosan, la ponen en aprietos.",
+					"number": 3,
+					"id": "77b11107-d1c4-47df-a2df-b80950aa182a"
+				},
+				{
+					"verse": "Dálet -  Los caminos a Sión están de duelo; ya nadie asiste a sus fiestas solemnes. Las puertas de la ciudad se ven desoladas: sollozan sus sacerdotes, se turban sus doncellas, ¡toda ella es amargura!",
+					"number": 4,
+					"id": "3e8db147-d011-441b-97dc-91df2ee13d88"
+				},
+				{
+					"verse": "He -  Sus enemigos se volvieron sus amos; ¡tranquilos se ven sus adversarios!",
+					"number": 5,
+					"id": "ff7eec6c-6ff4-4ced-85c8-5e8b2792e72b"
+				},
+				{
+					"verse": "por causa de sus muchos pecados. Sus hijos marcharon al cautiverio, arrastrados por sus enemigos. Vav -  La bella Sión ha perdido todo su antiguo esplendor.",
+					"number": 6,
+					"id": "323050e2-29d7-481f-b8af-1195e6902928"
+				},
+				{
+					"verse": "que vagan en busca de pastos. Exhaustos, se dan a la fuga frente a sus perseguidores. Zayin -  Jerusalén trae a la memoria los tristes días de su peregrinaje; se acuerda de todos los tesoros que en el pasado fueron suyos.",
+					"number": 7,
+					"id": "608a4935-51fb-446f-a13c-186417d3bcc6"
+				},
+				{
+					"verse": "nadie acudió en su ayuda. y se burlaron de ella.  Jet -  Grave es el pecado de Jerusalén; ¡por eso se ha vuelto impura! Los que antes la honraban ahora la desprecian, pues han visto su desnudez; ella misma se deshace en llanto, y no se atreve a dar la cara.",
+					"number": 8,
+					"id": "82fabf14-8f6e-4c1a-a66d-c23e56de075a"
+				},
+				{
+					"verse": "Tet -  Sus vestidos están llenos de inmundicia; no tomó en cuenta lo que le esperaba. Su caída fue sorprendente; no hubo nadie que la consolara. \"¡Mira, Señor, mi aflicción! ¡El enemigo ha triunfado!\"",
+					"number": 9,
+					"id": "f4c05f0a-fe4a-4821-90f8-256cc6249fa2"
+				},
+				{
+					"verse": "Yod -  El enemigo se adueñó de todos los tesoros de Jerusalén; vio ella penetrar en su santuario a las naciones paganas, a las que tú prohibiste entrar en tu asamblea.",
+					"number": 10,
+					"id": "d03a1c87-087c-498b-8c55-3af77f51f3c7"
+				},
+				{
+					"verse": "Caf -  Todo su pueblo solloza y anda en busca de pan; para mantenerse con vida cambian por comida sus tesoros. \"¡Mira, Señor, date cuenta de cómo me están humillando!\"",
+					"number": 11,
+					"id": "af109060-a112-49b3-8937-7a6983278d96"
+				},
+				{
+					"verse": "Lámed -  \"Fíjense ustedes, los que pasan por el camino: ¿Acaso no les importa? ¿Dónde hay un sufrimiento como el mío, como el que el Señor me ha hecho padecer, como el que el Señor lanzó sobre mí en el día de su furor?",
+					"number": 12,
+					"id": "3ad33c2f-f70f-4515-a771-9492e3a3aa7f"
+				},
+				{
+					"verse": "Mem -  \"Desde lo alto envió el Señor un fuego que me caló hasta los huesos.",
+					"number": 13,
+					"id": "f20818e6-d305-401d-aaca-6ae139590cee"
+				},
+				{
+					"verse": "y me hizo retroceder. Me abandonó por completo; a todas horas me sentía morir. Nun -  \"Pesan mis pecados como un yugo sobre mí; Dios mismo me los ató con sus manos. Me los ha colgado al cuello, y ha debilitado mis fuerzas.",
+					"number": 14,
+					"id": "1288bfd0-a816-4c9b-b0cd-e8e375048c02"
+				},
+				{
+					"verse": "a la que no puedo ofrecer resistencia. Sámej -  \"En mi ciudad el Señor ha rechazado a todos los guerreros; ha reunido un ejército para atacarme, para despedazar a mis jóvenes.",
+					"number": 15,
+					"id": "f958e3b0-ab17-4af5-aa48-0db7ab18798e"
+				},
+				{
+					"verse": "como quien pisa uvas para hacer vino.  Ayin -  \"Todo esto me hace llorar; los ojos se me nublan de llanto. No tengo cerca a nadie que me consuele; no tengo a nadie que me reanime.",
+					"number": 16,
+					"id": "b1e998ba-4f82-4845-8a75-7897d54b51be"
+				},
+				{
+					"verse": "porque el enemigo salió victorioso.\" Pe -  Sión clama pidiendo ayuda, pero no hay quien la consuele.",
+					"number": 17,
+					"id": "4518a72b-faac-48f8-bdb2-cd59bf7fe06f"
+				},
+				{
+					"verse": "los vecinos de Jacob son ahora sus enemigos; basura e inmundicia. Tsade -  \"El Señor es justo, pero yo me rebelé contra sus leyes. Escuchen, ustedes los pueblos; fíjense en mi sufrimiento.",
+					"number": 18,
+					"id": "d5f7d000-2c2d-4500-a8c3-f2e09d2f0700"
+				},
+				{
+					"verse": "han marchado al destierro. Qof -  \"Llamé a mis amantes, pero ellos me traicionaron.",
+					"number": 19,
+					"id": "01c0d358-85d0-4e04-bf4a-94cdbf029709"
+				},
+				{
+					"verse": "perecieron en la ciudad, mientras buscaban alimentos para mantenerse con vida. Resh -  \"¡Mírame, Señor, que me encuentro angustiada! ¡Siento una profunda agonía! Mi corazón está desconcertado, pues he sido muy rebelde. Allá afuera, la espada me deja sin hijos; aquí adentro, hay un  de muerte.",
+					"number": 20,
+					"id": "1c4bd7b2-fe45-4f7f-9b49-5678e2ba4367"
+				},
+				{
+					"verse": "Shin -  \"La gente ha escuchado mi gemir, pero no hay quien me consuele.",
+					"number": 21,
+					"id": "8339b37e-340c-430e-9950-cb525f3b03f3"
+				},
+				{
+					"verse": "y se alegran de lo que has hecho conmigo. ¡Manda ya tu castigo anunciado, para que sufran lo que he sufrido! Tav -  \"¡Que llegue a tu presencia toda su maldad! ¡Trátalos como me has tratado a mí por causa de todos mis pecados! Son muchos mis gemidos, y mi corazón desfallece.\"",
+					"number": 22,
+					"id": "a8b8149e-0e4c-4587-bd64-5f53edfb9122"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Álef -  ¡Ay, el Señor ha eclipsado a la bella Sión con la nube de su furor![2]",
+					"number": 1,
+					"study": "Las tristezas de Sion vienen de Jehová",
+					"id": "5606bb3a-cdcd-44c4-b503-f260b7b641ee"
+				},
+				{
+					"verse": "el esplendor de Israel; en el día de su ira se olvidó del estrado de sus pies. Bet -  Sin compasión el Señor ha destruido todas las moradas de Jacob; en su furor ha derribado los baluartes de la bella Judá y ha puesto su honra por los suelos al derrocar a su rey y a sus príncipes.",
+					"number": 2,
+					"id": "e8d6e22a-873b-4ba7-a9aa-4e2e002e22e4"
+				},
+				{
+					"verse": "Guímel -  Dio rienda suelta a su furor y deshizo todo el poder de Israel. Nos vimos frente al enemigo, y el Señor nos negó su ayuda.[4]",
+					"number": 3,
+					"id": "e7046b16-51d8-49bf-b108-96887f6c56f4"
+				},
+				{
+					"verse": "que consumía cuanto le rodeaba. Dálet -  Como enemigo, tensó el arco; lista estaba su mano derecha. Como enemigo, eliminó a nuestros seres queridos. Como fuego, derramó su ira sobre las tiendas de la bella Sión.",
+					"number": 4,
+					"id": "84ae6020-fbc6-4941-9ff7-48265b4a327e"
+				},
+				{
+					"verse": "He -  El Señor se porta como enemigo: ha destruido a Israel.",
+					"number": 5,
+					"id": "bca7e99e-d5f6-4045-960f-61520721831a"
+				},
+				{
+					"verse": "y derribado sus baluartes. por la bella Judá. Vav -  Ha desolado su morada como a un jardín; ha derribado su lugar de reunión.",
+					"number": 6,
+					"id": "300d393c-95cd-4cba-8664-020566ca016b"
+				},
+				{
+					"verse": "sus fiestas solemnes y sus sábados; se desató su furia contra el rey y dejó de lado al sacerdote. Zayin -  El Señor ha rechazado su altar; ha abandonado su santuario. las murallas de sus palacios. ¡Lanzan gritos en la casa del Señor como en día de fiesta!",
+					"number": 7,
+					"id": "4ab63536-8a3f-482e-9b30-549add4b338d"
+				},
+				{
+					"verse": "Jet -  El Señor decidió derribar la muralla que rodea a la bella Sión. Tomó la vara y midió; destruyó sin compasión. Hubo lamentos en rampas y muros; todos ellos se derrumbaron.",
+					"number": 8,
+					"id": "e8be85e3-bf0a-4c4a-b319-3ba1342277af"
+				},
+				{
+					"verse": "Tet -  Las puertas se han desplomado; él rompió por completo sus cerrojos.",
+					"number": 9,
+					"id": "29849572-c14f-467f-a5b6-02786a0b8a51"
+				},
+				{
+					"verse": "andan entre las naciones; ya no hay ley ni profetas, ni visiones de parte del Señor. Yod -  En la bella Sión los ancianos se sientan silenciosos en el suelo; se echan ceniza sobre la cabeza y se visten de luto.",
+					"number": 10,
+					"id": "75b6da2e-9fb4-4bfc-9ba3-cd388d931863"
+				},
+				{
+					"verse": "las jóvenes de Jerusalén. Caf -  El llanto me consume los ojos; siento una profunda agonía.  porque mi pueblo ha sido destruido.",
+					"number": 11,
+					"id": "2b271a1f-2704-4a64-8795-16e788571854"
+				},
+				{
+					"verse": "por las calles de la ciudad. Lámed -  \"¿Dónde hay pan y vino?\", preguntan a sus madres mientras caen por las calles como heridos de muerte, mientras en los brazos maternos exhalan el último suspiro.",
+					"number": 12,
+					"id": "8b9b39bf-e404-4b46-a58d-49a04007757a"
+				},
+				{
+					"verse": "Mem -  ¿Qué puedo decir de ti, bella Jerusalén? ¿A qué te puedo comparar? ¿Qué ejemplo darte como consuelo, virginal ciudad de Sión? Profundas como el mar son tus heridas. ¿Quién podría devolverte la salud?",
+					"number": 13,
+					"id": "6f5ef96a-4d29-49e9-8d09-f207f11eaa9c"
+				},
+				{
+					"verse": "Nun -  Tus profetas te anunciaron visiones falsas y engañosas. No denunciaron tu maldad; no evitaron tu cautiverio.",
+					"number": 14,
+					"id": "3767e78e-0211-4d0d-af98-e07110057689"
+				},
+				{
+					"verse": "eran falsas patrañas. Sámej -  Cuantos pasan por el camino aplauden burlones al verte. Ante ti, bella Jerusalén, hacen muecas, y entre silbidos preguntan: \"¿Es ésta la ciudad de belleza perfecta? ¿Es ésta la alegría de toda la tierra?\"",
+					"number": 15,
+					"id": "c8781ca2-f1cf-4462-ac9e-1777e2f0e1ce"
+				},
+				{
+					"verse": "Pe -  Todos tus enemigos abren la boca para hablar mal de ti; rechinando los dientes, declaran burlones: \"Nos la hemos comido viva. Llegó el día tan esperado; ¡hemos vivido para verlo!\"",
+					"number": 16,
+					"id": "7602d48a-b7ad-43de-bc02-e328280b7236"
+				},
+				{
+					"verse": "Ayin -  El Señor ha llevado a cabo sus planes; ha cumplido su palabra, que decretó hace mucho tiempo. Sin piedad, te echó por tierra; dejó que el enemigo se burlara de ti, y enalteció el poder de tus oponentes.",
+					"number": 17,
+					"id": "35b795c3-f8db-4fbf-b0df-5f4fb8d02462"
+				},
+				{
+					"verse": "Tsade -  El corazón de la gente clama al Señor con angustia. Bella Sión amurallada, ¡deja que día y noche corran tus lágrimas como un río! ¡No te des un momento de descanso! ¡No retengas el llanto de tus ojos![8]",
+					"number": 18,
+					"id": "0c67449b-512e-4a71-9982-86dcfdd8fd41"
+				},
+				{
+					"verse": "Qof -  Levántate y clama por las noches, cuando empiece la vigilancia nocturna.",
+					"number": 19,
+					"id": "d3b68d98-d3ba-4dc5-b729-d5855075c24e"
+				},
+				{
+					"verse": "como ofrenda derramada ante el Señor. por la vida de tus hijos, que desfallecen de hambre y quedan tendidos por las calles. Resh -  \"Mira, Señor, y ponte a pensar: ¿A quién trataste alguna vez así? ¿Habrán de comerse las mujeres a sus hijos, fruto de sus entrañas? ¿Habrán de matar a sacerdotes y en el santuario del Señor?",
+					"number": 20,
+					"id": "66e62885-f42a-467c-a17d-314b780e85e9"
+				},
+				{
+					"verse": "Shin -  \"Jóvenes y ancianos por igual yacen en el polvo de las calles; mis jóvenes y mis doncellas cayeron a filo de espada. En tu enojo les quitaste la vida; ¡los masacraste sin piedad!",
+					"number": 21,
+					"id": "ded924ab-4a05-4db8-8dfe-0ccdc294c306"
+				},
+				{
+					"verse": "Tav -  \"Como si invitaras a una fiesta solemne, enviaste contra mí terror de todas partes. nadie pudo escapar, nadie quedó con vida. A mis seres queridos, a los que eduqué, los aniquiló el enemigo.\"",
+					"number": 22,
+					"id": "aa1d5f95-fff3-4643-9f40-1c85e7798536"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Álef -  Yo soy aquel que ha sufrido la aflicción bajo la vara de su ira.",
+					"number": 1,
+					"study": "Esperanza de liberación por la misericordia de Dios",
+					"id": "16ae48b9-02e0-493a-8b22-427cf2f450ff"
+				},
+				{
+					"verse": "Me ha hecho andar en las tinieblas; me ha apartado de la luz.",
+					"number": 2,
+					"id": "de0d9978-87cd-443e-9246-0fa0b327aad4"
+				},
+				{
+					"verse": "Una y otra vez, y a todas horas, su mano se ha vuelto contra mí.",
+					"number": 3,
+					"id": "22627ccd-7b56-4fc2-b1e3-c55f29ea289e"
+				},
+				{
+					"verse": "Bet -  Me ha marchitado la carne y la piel; me ha quebrantado los huesos.",
+					"number": 4,
+					"id": "465c86ee-800e-47dc-9e83-18e79a294a9a"
+				},
+				{
+					"verse": "Me ha tendido un cerco de amargura y tribulaciones.",
+					"number": 5,
+					"id": "696f2b05-0dbe-4050-b6a9-2d70b2d35b98"
+				},
+				{
+					"verse": "Me obliga a vivir en las tinieblas, como a los que hace tiempo murieron.",
+					"number": 6,
+					"id": "829b7cf2-3825-4ccb-8a2c-2aba9d8560f1"
+				},
+				{
+					"verse": "Guimel -  Me tiene encerrado, no puedo escapar; me ha puesto pesadas cadenas.",
+					"number": 7,
+					"id": "21c06f16-8557-4a07-9ea3-eb246db19011"
+				},
+				{
+					"verse": "Por más que grito y pido ayuda, él se niega a escuchar mi oración.",
+					"number": 8,
+					"id": "c6983d0a-e3b2-45c6-9536-137428435f4a"
+				},
+				{
+					"verse": "Ha sembrado de piedras mi camino; ha torcido mis senderos.",
+					"number": 9,
+					"id": "4929308a-9fd3-41e4-96eb-b8f659f5bb9a"
+				},
+				{
+					"verse": "Dálet -  Me vigila como oso agazapado; me acecha como león.",
+					"number": 10,
+					"id": "fb7c7728-1d06-4df6-a082-ed7656c8a9cd"
+				},
+				{
+					"verse": "Me aparta del camino para despedazarme; ¡me deja del todo desvalido!",
+					"number": 11,
+					"id": "515e12f7-5654-4248-9a03-0369bec8e46e"
+				},
+				{
+					"verse": "Con el arco tenso, me ha hecho el blanco de sus flechas.",
+					"number": 12,
+					"id": "3b04ba48-223e-43a2-921f-868c37aea074"
+				},
+				{
+					"verse": "He -  Me ha partido el corazón con las flechas de su aljaba.",
+					"number": 13,
+					"id": "e07fe8c4-e562-4ae8-b9ee-59c8e57e4047"
+				},
+				{
+					"verse": "Soy el hazmerreír de todo mi pueblo; todo el día me cantan parodias.",
+					"number": 14,
+					"id": "31cb48ea-93c6-4b26-b996-96b121775421"
+				},
+				{
+					"verse": "Me ha llenado de amargura, me ha saturado de hiel.",
+					"number": 15,
+					"id": "2106c10c-92d7-4fa4-b93f-bc8987057d84"
+				},
+				{
+					"verse": "Vav -  Me ha estrellado contra el suelo; me ha hecho morder el polvo.",
+					"number": 16,
+					"id": "77336380-bec4-4b87-888c-52078efe7ab2"
+				},
+				{
+					"verse": "Me ha quitado la paz; ya no recuerdo lo que es la dicha.",
+					"number": 17,
+					"id": "e927d31e-fd3f-4954-abe7-53564af923ee"
+				},
+				{
+					"verse": "Y digo: \"La vida se me acaba, junto con mi esperanza en el Señor.\"",
+					"number": 18,
+					"id": "4b8e3628-8f99-49a6-bc80-6b5cf94113d0"
+				},
+				{
+					"verse": "Zayin -  Recuerda que ando errante y afligido, que me embargan la hiel y la amargura.",
+					"number": 19,
+					"id": "3164fdbf-68bd-4b46-b069-730f9e886dc8"
+				},
+				{
+					"verse": "Siempre tengo esto presente, y por eso me deprimo.",
+					"number": 20,
+					"id": "402763af-f54e-4312-ad1e-8ccb8bf44394"
+				},
+				{
+					"verse": "Pero algo más me viene a la memoria, lo cual me llena de esperanza:",
+					"number": 21,
+					"id": "484b3ae7-da52-4368-88ea-428dcda9f07e"
+				},
+				{
+					"verse": "Jet -  El gran amor del Señor nunca se acaba, y su compasión jamás se agota.",
+					"number": 22,
+					"id": "cf20dba3-2de0-4092-b7bc-cb1f685f6af7"
+				},
+				{
+					"verse": "Cada mañana se renuevan sus bondades; ¡muy grande es su fidelidad!",
+					"number": 23,
+					"id": "c1b948bd-43d8-4d54-92c4-1b98a96fc3af"
+				},
+				{
+					"verse": "Por tanto, digo: \"El Señor es todo lo que tengo. ¡En él esperaré!\"",
+					"number": 24,
+					"id": "c4400e9c-5355-4101-8631-c26d50fc338d"
+				},
+				{
+					"verse": "Tet -  Bueno es el Señor con quienes en él confían, con todos los que lo buscan.",
+					"number": 25,
+					"id": "d64e2693-4519-422a-bd23-ea3b0c42dc86"
+				},
+				{
+					"verse": "Bueno es esperar calladamente a que el Señor venga a salvarnos.",
+					"number": 26,
+					"id": "ee8ff363-8581-4736-af71-2a0fc2587a01"
+				},
+				{
+					"verse": "Bueno es que el hombre aprenda a llevar el yugo desde su juventud.",
+					"number": 27,
+					"id": "be7f2e65-a72e-42e7-babe-829aaf377689"
+				},
+				{
+					"verse": "Yod -  ¡Déjenlo estar solo y en silencio, porque así el Señor se lo impuso!",
+					"number": 28,
+					"id": "368694c8-122d-4678-8e52-de797e6599c1"
+				},
+				{
+					"verse": "¡Que hunda el rostro en el polvo! ¡Tal vez haya esperanza todavía!",
+					"number": 29,
+					"id": "3a411aaa-5423-47ed-8aea-d47c4f2d9043"
+				},
+				{
+					"verse": "¡Que dé la otra mejilla a quien lo hiera, y quede así cubierto de oprobio!",
+					"number": 30,
+					"id": "62fcc9aa-8c2d-47bd-90c3-5cb848454a4a"
+				},
+				{
+					"verse": "Caf -  El Señor nos ha rechazado, pero no será para siempre.",
+					"number": 31,
+					"id": "95adfe8d-d92c-477a-a5fa-33dbb0024e03"
+				},
+				{
+					"verse": "Nos hace sufrir, pero también nos compadece, porque es muy grande su amor.",
+					"number": 32,
+					"id": "b5c22021-72df-44a5-99c1-099474712678"
+				},
+				{
+					"verse": "El Señor nos hiere y nos aflige, pero no porque sea de su agrado.",
+					"number": 33,
+					"id": "f7fb0a0d-3cb1-4f5c-bfde-95604a38b798"
+				},
+				{
+					"verse": "Lámed -  Cuando se aplasta bajo el pie a todos los prisioneros de la tierra,",
+					"number": 34,
+					"id": "dd04b5c8-32aa-4276-b4d1-28765c72776c"
+				},
+				{
+					"verse": "cuando en presencia del Altísimo se le niegan al hombre sus derechos",
+					"number": 35,
+					"id": "c75367da-442a-4e4e-9051-89a33a4a0a2d"
+				},
+				{
+					"verse": "y no se le hace justicia, ¿el Señor no se da cuenta?",
+					"number": 36,
+					"id": "ce5d1ef5-ba73-4e93-b206-5f14982a6f4a"
+				},
+				{
+					"verse": "Mem -  ¿Quién puede anunciar algo y hacerlo realidad sin que el Señor dé la orden?",
+					"number": 37,
+					"id": "5529d98e-849b-4d66-8997-96be8d490d8f"
+				},
+				{
+					"verse": "¿No es acaso por mandato del Altísimo que acontece lo bueno y lo malo?",
+					"number": 38,
+					"id": "3ebf7456-5714-4c27-8ab1-e5e359b70763"
+				},
+				{
+					"verse": "¿Por qué habría de quejarse en vida quien es castigado por sus pecados?",
+					"number": 39,
+					"id": "63b94fe8-e344-41d5-9949-befda7fa976a"
+				},
+				{
+					"verse": "Nun -  Hagamos un examen de conciencia y volvamos al camino del Señor.",
+					"number": 40,
+					"id": "38b4d498-89e8-4482-9876-3db3f5289e9d"
+				},
+				{
+					"verse": "Elevemos al Dios de los cielos nuestro corazón y nuestras manos.",
+					"number": 41,
+					"id": "03920e5e-5af7-4b5b-8121-922117d1c087"
+				},
+				{
+					"verse": "Hemos pecado, hemos sido rebeldes, y tú no has querido perdonarnos.",
+					"number": 42,
+					"id": "ca8ed3b3-ba5f-49fd-9d39-0bbd45f412dd"
+				},
+				{
+					"verse": "Sámej -  Ardiendo en ira nos persigues; nos masacras sin piedad.",
+					"number": 43,
+					"id": "b3ff0ae7-0dde-40e6-8cba-9deddafb40f4"
+				},
+				{
+					"verse": "Te envuelves en una nube para no escuchar nuestra oración.",
+					"number": 44,
+					"id": "3ec3f9ba-32c6-4a02-bb3e-8be2a9d39be4"
+				},
+				{
+					"verse": "Como a escoria despreciable, nos has arrojado entre las naciones.",
+					"number": 45,
+					"id": "109e237b-c2eb-4484-84e8-03d86412efd3"
+				},
+				{
+					"verse": "Pe -  Todos nuestros enemigos abren la boca para hablar mal de nosotros.",
+					"number": 46,
+					"id": "f236756b-71cb-4243-b12b-c8a1f7bd0db7"
+				},
+				{
+					"verse": "Hemos sufrido terrores, caídas, ruina y destrucción.",
+					"number": 47,
+					"id": "f2e1c4ce-6daf-456b-8054-a2461039cd47"
+				},
+				{
+					"verse": "Ríos de lágrimas corren por mis mejillas porque ha sido destruida la capital de mi pueblo.",
+					"number": 48,
+					"id": "ad9b2540-963c-450a-a5fe-3af496f94de9"
+				},
+				{
+					"verse": "Ayin -  Se inundarán en llanto mis ojos, sin cesar y sin consuelo,",
+					"number": 49,
+					"id": "ce6ab9b2-2592-4669-94ef-01686fa3ccab"
+				},
+				{
+					"verse": "hasta que desde el cielo el Señor se digne mirarnos.",
+					"number": 50,
+					"id": "9329a0bc-c590-443f-96f5-04cbfc5656ca"
+				},
+				{
+					"verse": "Me duele en lo más profundo del alma ver sufrir a las mujeres de mi ciudad.",
+					"number": 51,
+					"id": "26c598e6-0322-411d-a962-27635c55318b"
+				},
+				{
+					"verse": "Tsade -  Mis enemigos me persiguen sin razón, y quieren atraparme como a un ave.",
+					"number": 52,
+					"id": "cd7776ab-9d03-4767-bf9c-5b4d8ebc5b5d"
+				},
+				{
+					"verse": "Me quieren enterrar vivo y taparme con piedras la salida.",
+					"number": 53,
+					"id": "ce15436e-b79c-44c9-ad96-86c52ab64b29"
+				},
+				{
+					"verse": "Las aguas me han cubierto la cabeza; tal parece que me ha llegado el fin.",
+					"number": 54,
+					"id": "9445a5b5-b3cc-4cc8-ab62-d15bf0bd9581"
+				},
+				{
+					"verse": "Qof -  Desde lo más profundo de la fosa invoqué, Señor, tu nombre,",
+					"number": 55,
+					"id": "3682af19-381e-4ddf-81d3-0da6599cf280"
+				},
+				{
+					"verse": "y tú escuchaste mi plegaria; no cerraste tus oídos a mi clamor.",
+					"number": 56,
+					"id": "5adaed13-886a-450e-bccb-a1b78b4dcb1c"
+				},
+				{
+					"verse": "Te invoqué, y viniste a mí; \"No temas\", me dijiste.",
+					"number": 57,
+					"id": "0bcbc83b-2dbb-4847-a19f-20cedec3e2c9"
+				},
+				{
+					"verse": "Resh -  Tú, Señor, te pusiste de mi parte y me salvaste la vida.",
+					"number": 58,
+					"id": "8c750bee-715c-48be-a8d6-6ce7abfe9291"
+				},
+				{
+					"verse": "Tú, Señor, viste el mal que me causaron; ¡hazme justicia!",
+					"number": 59,
+					"id": "2d4f782c-b077-449d-8755-f539c16986ae"
+				},
+				{
+					"verse": "Tú notaste su sed de venganza y todas sus maquinaciones en mi contra.",
+					"number": 60,
+					"id": "a07d8ebc-d618-42a1-af7c-1791c23c9a99"
+				},
+				{
+					"verse": "Shin -  Señor, tú has escuchado sus insultos y todas sus maquinaciones en mi contra;",
+					"number": 61,
+					"id": "5154cc45-6ffa-4c22-b63b-2afcee9442d8"
+				},
+				{
+					"verse": "tú sabes que todo el día mis enemigos cuchichean y se confabulan contra mí.",
+					"number": 62,
+					"id": "396d65fb-77ef-44e3-b020-dfd2856e69ba"
+				},
+				{
+					"verse": "¡Míralos! Hagan lo que hagan, se burlan de mí en sus canciones.",
+					"number": 63,
+					"id": "e5491261-d3b4-4ddc-852b-59cf33c29881"
+				},
+				{
+					"verse": "Tav -  ¡Dales, Señor, su merecido por todo lo que han hecho!",
+					"number": 64,
+					"id": "e95fdbcb-2554-4ebc-b5e1-6ccdcc965afb"
+				},
+				{
+					"verse": "Oscurece su entendimiento, ¡y caiga sobre ellos tu maldición!",
+					"number": 65,
+					"id": "55177281-9f74-4ff8-b575-8ec64438af08"
+				},
+				{
+					"verse": "Persíguelos, Señor, en tu enojo, y bórralos de este mundo.",
+					"number": 66,
+					"id": "76ae0bb5-f6a6-4fe3-92e6-a6e6d6d7d706"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Álef -  ¡El oro ha perdido su lustre! ¡Se ha empañado el oro fino! ¡Regadas por las esquinas de las calles se han quedado las joyas sagradas!",
+					"number": 1,
+					"study": "El castigo de Sion consumado",
+					"id": "b82a9d4a-6f68-44d9-99d3-375e8b3d6fae"
+				},
+				{
+					"verse": "Bet -  A los apuestos habitantes de Sión, que antaño valían su peso en oro, hoy se les ve como vasijas de barro, ¡como la obra de un alfarero!",
+					"number": 2,
+					"id": "ef42a136-ad0c-4ccb-a622-ed9a1ae5244e"
+				},
+				{
+					"verse": "Guímel -  Hasta los chacales ofrecen el pecho y dan leche a sus cachorros, pero Jerusalén ya no tiene sentimientos; ¡es como los avestruces del desierto!",
+					"number": 3,
+					"id": "fb317e8a-2eca-4363-ace2-2581c460067a"
+				},
+				{
+					"verse": "Dálet -  Tanta es la sed que tienen los niños, que la lengua se les pega al paladar. Piden pan los pequeñuelos, pero nadie se lo da.",
+					"number": 4,
+					"id": "40359542-4ef9-4b29-9b21-5284380fd1ba"
+				},
+				{
+					"verse": "He -  Quienes antes comían los más ricos manjares hoy desfallecen de hambre por las calles.",
+					"number": 5,
+					"id": "22d7fa70-6549-46bd-8898-900377db6b71"
+				},
+				{
+					"verse": "hoy se revuelcan en la inmundicia. Vav -  Más grande que los pecados de Sodoma es la iniquidad de Jerusalén; ¡fue derribada en un instante, y nadie le tendió la mano!",
+					"number": 6,
+					"id": "2559e0a0-4d25-4c66-b2af-d5cedf882031"
+				},
+				{
+					"verse": "Zayin -  Más radiantes que la nieve eran sus príncipes, y más blancos que la leche; más rosado que el coral era su cuerpo; su apariencia era la del zafiro.",
+					"number": 7,
+					"id": "af5662b2-709b-4a3d-8507-b0b32b8154d6"
+				},
+				{
+					"verse": "Jet -  Pero ahora se ven más sucios que el hollín; en la calle nadie los reconoce. Su piel, reseca como la leña, se les pega a los huesos.",
+					"number": 8,
+					"id": "156fceed-b2d4-4529-92b7-72426c574dda"
+				},
+				{
+					"verse": "Tet -  ¡*Dichosos los que mueren por la espada, más que los que mueren de hambre! Torturados por el hambre desfallecen, pues no cuentan con los frutos del campo.",
+					"number": 9,
+					"id": "8543bc5b-766b-4aaa-a357-0729a54e310d"
+				},
+				{
+					"verse": "Yod -  Con sus manos, mujeres compasivas cocinaron a sus propios hijos, y esos niños fueron su alimento cuando Jerusalén fue destruida.",
+					"number": 10,
+					"id": "1587f584-3e65-4648-8edc-7747051a40f6"
+				},
+				{
+					"verse": "Caf -  El Señor dio rienda suelta a su enojo; dejó correr el ardor de su ira.",
+					"number": 11,
+					"id": "134c6a30-b216-4003-b277-d82387d58d01"
+				},
+				{
+					"verse": "y la consumió hasta sus cimientos. Lámed -  No creían los reyes de la tierra, ni tampoco los habitantes del mundo, que los enemigos y adversarios de Jerusalén cruzarían alguna vez sus puertas.",
+					"number": 12,
+					"id": "90bc4b3e-cb4a-4106-a508-879408d66c63"
+				},
+				{
+					"verse": "Mem -  Pero sucedió. Por los pecados de sus profetas. Por las iniquidades de sus sacerdotes. ¡Por derramar sangre inocente en las calles de la ciudad!",
+					"number": 13,
+					"id": "d89a7221-37b7-41b1-bf41-336d36eb3b3a"
+				},
+				{
+					"verse": "Num -  Con las manos manchadas de sangre, andan por las calles como ciegos.",
+					"number": 14,
+					"id": "3df5098a-4bbd-445c-803b-a074399232a1"
+				},
+				{
+					"verse": "a tocar siquiera sus vestidos. Sámej -  \"¡Largo de aquí, impuros!\", les grita la gente. \"¡Fuera! ¡Fuera! ¡No nos toquen!\" Entre las naciones paganas les dicen: \"Son unos vagabundos, que andan huyendo. No pueden quedarse aquí más tiempo.\"",
+					"number": 15,
+					"id": "89af146a-0df5-4f5e-b2d1-6e5d811ef1d2"
+				},
+				{
+					"verse": "Pe -  El Señor mismo los ha dispersado; ya no se preocupa por ellos.",
+					"number": 16,
+					"id": "6b0c9637-8b96-4076-a419-5e9dc61b7562"
+				},
+				{
+					"verse": "ni compasión para los ancianos. Ayin -  Para colmo, desfallecen nuestros ojos esperando en vano que alguien nos ayude.",
+					"number": 17,
+					"id": "474f6d3b-b34c-4de4-b178-74d26c0bd00a"
+				},
+				{
+					"verse": "de una nación que no puede salvarnos. Tsade -  A cada paso nos acechan; no podemos ya andar por las calles. Nuestro fin se acerca, nos ha llegado la hora; ¡nuestros días están contados!",
+					"number": 18,
+					"id": "46557815-681a-424a-bbc5-f04fbb7aca3d"
+				},
+				{
+					"verse": "Qof -  Nuestros perseguidores resultaron más veloces que las águilas del cielo; nos persiguieron por las montañas, nos acecharon en el desierto.",
+					"number": 19,
+					"id": "282f7639-3a00-4647-bebc-fc6ac91de22b"
+				},
+				{
+					"verse": "Resh -  También cayó en sus redes el ungido del Señor, que era nuestra razón de vivir. Era él de quien decíamos: ¡Viviremos bajo su sombra entre las naciones!",
+					"number": 20,
+					"id": "553f3f35-ec31-47c2-ad5d-c052ab59b254"
+				},
+				{
+					"verse": "Shin -  ¡Regocíjate y alégrate, capital de Edom, que vives como reina en la tierra de Uz! ¡Pero ya tendrás que beber de esta copa, y quedarás embriagada y desnuda!",
+					"number": 21,
+					"id": "f5fdfe4c-3999-4206-8764-32b278faf2da"
+				},
+				{
+					"verse": "Tav -  Tu castigo se ha cumplido, bella Sión; Dios no volverá a desterrarte. Pero a ti, capital de Edom, te castigará por tu maldad y pondrá al descubierto tus pecados.",
+					"number": 22,
+					"id": "cd1597b2-fa5d-452c-af28-f8c072e54080"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Recuerda, Señor, lo que nos ha sucedido; toma en cuenta nuestro oprobio.",
+					"number": 1,
+					"study": "Oración del pueblo afligido",
+					"id": "1a35cd30-78e6-4e94-9709-81b0da6586bf"
+				},
+				{
+					"verse": "Nuestra heredad ha caído en manos extrañas; nuestro hogar, en manos de extranjeros.",
+					"number": 2,
+					"id": "d7bbf995-0d1d-48ee-8964-a99c278bba41"
+				},
+				{
+					"verse": "No tenemos padre, hemos quedado huérfanos; viudas han quedado nuestras madres.",
+					"number": 3,
+					"id": "98431d14-27e0-48dc-b6e1-5dabb49e2c2c"
+				},
+				{
+					"verse": "El agua que bebemos, tenemos que pagarla; la leña, tenemos que comprarla.",
+					"number": 4,
+					"id": "4be4c751-d58b-4ccd-aeb5-9af34fbf35ae"
+				},
+				{
+					"verse": "Los que nos persiguen nos pisan los talones; estamos fatigados y no hallamos descanso.",
+					"number": 5,
+					"id": "dd813738-9880-482d-92e3-acbc5e32297b"
+				},
+				{
+					"verse": "Entramos en tratos con Egipto y con Asiria para conseguir alimentos.",
+					"number": 6,
+					"id": "ec42a099-103e-4463-b83c-ad6a99c922de"
+				},
+				{
+					"verse": "Nuestros padres pecaron y murieron, pero a nosotros nos tocó el castigo.",
+					"number": 7,
+					"id": "f66175b5-6903-4720-b11d-adbdaabfd00c"
+				},
+				{
+					"verse": "Ahora nos gobiernan los esclavos, y no hay quien nos libre de sus manos.",
+					"number": 8,
+					"id": "c5f13d61-38c4-4b22-a0ec-7575490780bd"
+				},
+				{
+					"verse": "Exponiéndonos a los peligros del desierto, nos jugamos la vida para obtener alimentos.",
+					"number": 9,
+					"id": "59a701f3-93d1-448a-8eed-b77a4fdfb1b6"
+				},
+				{
+					"verse": "La piel nos arde como un horno; ¡de hambre nos da fiebre!",
+					"number": 10,
+					"id": "ac1ae2f5-b8d5-4e9a-ba36-1fe968152a6e"
+				},
+				{
+					"verse": "En Sión y en los pueblos de Judá fueron violadas casadas y solteras.",
+					"number": 11,
+					"id": "28fd4f1b-e5a5-4405-8765-fb91755ec93a"
+				},
+				{
+					"verse": "A nuestros jefes los colgaron de las manos, y ni siquiera respetaron a nuestros ancianos.",
+					"number": 12,
+					"id": "d8000cae-a175-46b2-b958-9a6cc8f9f010"
+				},
+				{
+					"verse": "A nuestros mejores jóvenes los pusieron a moler; los niños tropezaban bajo el peso de la leña.",
+					"number": 13,
+					"id": "166adec3-3d26-4d36-9fe2-3f1db8455916"
+				},
+				{
+					"verse": "Ya no se sientan los ancianos a las puertas de la ciudad; no se escucha ya la música de los jóvenes.",
+					"number": 14,
+					"id": "e61ecf21-88ce-445c-9008-78b953bc201e"
+				},
+				{
+					"verse": "En nuestro corazón ya no hay gozo; la alegría de nuestras danzas se convirtió en tristeza.",
+					"number": 15,
+					"id": "260b376f-27cc-4fe0-baa2-a261a440629a"
+				},
+				{
+					"verse": "Nuestra cabeza se ha quedado sin corona. ¡Ay de nosotros; hemos pecado!",
+					"number": 16,
+					"id": "0f8dde01-4178-41bc-8120-2ee63b5067e5"
+				},
+				{
+					"verse": "Desfallece nuestro corazón; se apagan nuestros ojos,",
+					"number": 17,
+					"id": "c945701d-d608-4247-996d-4bd3c26f3d37"
+				},
+				{
+					"verse": "porque el monte Sión se halla desolado, y sobre él rondan los chacales.",
+					"number": 18,
+					"id": "527a6999-9681-409b-950f-12f7a195988d"
+				},
+				{
+					"verse": "Pero tú, Señor, reinas por siempre; tu trono permanece eternamente.",
+					"number": 19,
+					"id": "5d3ee302-1e95-4444-afc0-952ce917b0af"
+				},
+				{
+					"verse": "¿Por qué siempre nos olvidas? ¿Por qué nos abandonas tanto tiempo?",
+					"number": 20,
+					"id": "b036c8f3-638e-4417-b5df-cacb3631fa79"
+				},
+				{
+					"verse": "Permítenos volver a ti, Señor, y volveremos; devuélvenos la gloria de antaño.[4]",
+					"number": 21,
+					"id": "6003015e-047b-4fcc-8955-0f43ced483cf"
+				},
+				{
+					"verse": "La verdad es que nos has rechazado y te has excedido en tu enojo contra nosotros.",
+					"number": 22,
+					"id": "d16294e2-42f2-403b-9480-41856d85aa47"
+				}
+			]
+		}
+	],
+	"book_id": "b3b84f84-f829-462a-a1e2-c142c1378f2c"
+}

@@ -1,0 +1,569 @@
+{
+	"name": "1-Pedro",
+	"num_chapters": 5,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pedro, apóstol de Jesucristo, saluda a los que viven esparcidos fuera de su patria, en las provincias de Ponto, Galacia, Capadocia, Asia y Bitinia,",
+					"number": 1,
+					"study": "Salutación",
+					"id": "7de4acca-8c9e-4a42-93f9-10716618f03e"
+				},
+				{
+					"verse": "a quienes Dios el Padre había escogido anteriormente conforme a su propósito. Por medio del Espíritu los ha santificado a ustedes para que lo obedezcan y sean purificados con la sangre de Jesucristo. Reciban abundancia de gracia y de paz.",
+					"number": 2,
+					"id": "08a41809-b9cf-4300-8563-f92e347de858"
+				},
+				{
+					"verse": "Alabemos al Dios y Padre de nuestro Señor Jesucristo, que por su gran misericordia nos ha hecho nacer de nuevo por la resurrección de Jesucristo. Esto nos da una esperanza viva,",
+					"number": 3,
+					"study": "Una esperanza viva",
+					"id": "d50a10b6-d17a-4e4e-8ac6-62612dcf7dab"
+				},
+				{
+					"verse": "y hará que ustedes reciban la herencia que Dios les tiene guardada en el cielo, la cual no puede destruirse, ni mancharse, ni marchitarse.",
+					"number": 4,
+					"id": "2d923222-48c2-4769-8ff3-6fa878bd28f2"
+				},
+				{
+					"verse": "Por la fe que ustedes tienen en Dios, él los protege con su poder para que alcancen la salvación que tiene preparada, la cual dará a conocer en los tiempos últimos.",
+					"number": 5,
+					"id": "df200ac5-462d-44ae-a2d1-c74782b71418"
+				},
+				{
+					"verse": "Por esta razón están ustedes llenos de alegría, aun cuando sea necesario que durante un poco de tiempo pasen por muchas pruebas.",
+					"number": 6,
+					"id": "32adc0fc-b687-4a49-8c8f-3dc4bc6f755d"
+				},
+				{
+					"verse": "Porque la fe de ustedes es como el oro: su calidad debe ser probada por medio del fuego. La fe que resiste la prueba vale mucho más que el oro, el cual se puede destruir. De manera que la fe de ustedes, al ser así probada, merecerá aprobación, gloria y honor cuando Jesucristo aparezca.",
+					"number": 7,
+					"id": "14b31168-7d17-4bd3-8bf0-d95be7f66093"
+				},
+				{
+					"verse": "Ustedes aman a Jesucristo, aunque no lo han visto; y ahora, creyendo en él sin haberlo visto, se alegran con una alegría tan grande y gloriosa que no pueden expresarla con palabras,",
+					"number": 8,
+					"id": "60a145c4-529b-4e21-8a59-c40609aeac63"
+				},
+				{
+					"verse": "porque están alcanzando la meta de su fe, que es la salvación.",
+					"number": 9,
+					"id": "3552f7f9-29b8-417f-9a9a-626391923f39"
+				},
+				{
+					"verse": "Los profetas estudiaron e investigaron acerca de esta salvación, y hablaron de lo que Dios en su bondad iba a darles a ustedes.",
+					"number": 10,
+					"id": "476f755d-14fc-46cb-ab38-f30beca37730"
+				},
+				{
+					"verse": "El Espíritu de Cristo hacía saber de antemano a los profetas lo que Cristo había de sufrir y la gloria que vendría después; y ellos trataban de descubrir el tiempo y las circunstancias que señalaba ese Espíritu que estaba en ellos.",
+					"number": 11,
+					"id": "2572c6e7-72c9-4523-a76d-8d589ff6a331"
+				},
+				{
+					"verse": "Pero Dios les hizo saber que lo que ellos anunciaban no era para ellos mismos, sino para bien de ustedes. Ahora pues, esto es lo que les ha sido anunciado por los mismos que les predicaron el evangelio con el poder del Espíritu Santo que ha sido enviado del cielo. ¡Éstas son cosas que los ángeles mismos quisieran contemplar!",
+					"number": 12,
+					"id": "a023bd14-0c8c-4efb-8b9d-fbddd63eba57"
+				},
+				{
+					"verse": "Por eso, estén preparados y usen de su buen juicio. Pongan toda su esperanza en lo que Dios en su bondad les va a dar cuando Jesucristo aparezca.",
+					"number": 13,
+					"study": "Llamamiento a una vida santa",
+					"id": "05709f62-dc3f-466e-a02e-a4e722fcba30"
+				},
+				{
+					"verse": "Como hijos obedientes, no vivan conforme a los deseos que tenían antes de conocer a Dios.",
+					"number": 14,
+					"id": "6a19cca5-f661-4bdf-ae02-bf9af14292cf"
+				},
+				{
+					"verse": "Al contrario, vivan de una manera completamente santa, porque Dios, que los llamó, es santo;",
+					"number": 15,
+					"id": "f94a47a6-3ea1-4517-b616-ad2f182b255b"
+				},
+				{
+					"verse": "pues la Escritura dice: «Sean ustedes santos, porque yo soy santo.»",
+					"number": 16,
+					"id": "3c229c7b-44b8-4e88-9623-0d07bcb39ea3"
+				},
+				{
+					"verse": "Si ustedes llaman «Padre» a Dios, que juzga a cada uno según sus hechos y sin parcialidad, deben mostrarle reverencia durante todo el tiempo que vivan en este mundo.",
+					"number": 17,
+					"id": "d3338d70-60b3-40ee-81ec-178c1b773af1"
+				},
+				{
+					"verse": "Pues Dios los ha rescatado a ustedes de la vida sin sentido que heredaron de sus antepasados; y ustedes saben muy bien que el costo de este rescate no se pagó con cosas corruptibles, como el oro o la plata,",
+					"number": 18,
+					"id": "6aac230e-c128-4e9b-9b9e-002fffa83831"
+				},
+				{
+					"verse": "sino con la sangre preciosa de Cristo, que fue ofrecido en sacrificio como un cordero sin defecto ni mancha.",
+					"number": 19,
+					"id": "9560c51c-80b3-4a08-a083-582a7056fcb4"
+				},
+				{
+					"verse": "Cristo había sido destinado para esto desde antes que el mundo fuera creado, pero en estos tiempos últimos ha aparecido para bien de ustedes.",
+					"number": 20,
+					"id": "70d1910d-29f7-481d-b553-cf5a48884502"
+				},
+				{
+					"verse": "Por medio de Cristo, ustedes creen en Dios, el cual lo resucitó y lo glorificó; así que ustedes han puesto su fe y su esperanza en Dios.",
+					"number": 21,
+					"id": "162bc2bc-1f9e-4d2c-82c9-111a35b5eee8"
+				},
+				{
+					"verse": "Ahora ustedes, al obedecer al mensaje de la verdad, se han purificado para amar sinceramente a los hermanos. Así que deben amarse unos a otros con corazón puro y con todas sus fuerzas.",
+					"number": 22,
+					"id": "4b895269-c0ae-4a48-8c57-1786e4acd1d4"
+				},
+				{
+					"verse": "Pues ustedes han vuelto a nacer, y esta vez no de padres humanos y mortales, sino de la palabra de Dios, que es viva y permanente.",
+					"number": 23,
+					"id": "c18057d4-7eae-4953-bdc3-99607f1418b5"
+				},
+				{
+					"verse": "Porque la Escritura dice:\n«Todo hombre es como hierba,\ny su grandeza es como la flor de la hierba.\nLa hierba se seca y la flor se cae,",
+					"number": 24,
+					"id": "4c904682-0676-42a2-a9da-4f463b46fd70"
+				},
+				{
+					"verse": "pero la palabra del Señor permanece para siempre.»\nY esta palabra es el evangelio que se les ha anunciado a ustedes.",
+					"number": 25,
+					"id": "1e05cb6e-b148-4678-aa4c-7ebcfe10b02e"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Por lo tanto, despójense de toda clase de maldad, todo engaño, hipocresía y envidia, y toda clase de chismes.",
+					"number": 1,
+					"id": "7321c335-1b65-418e-a57a-e5550fb45123"
+				},
+				{
+					"verse": "Como niños recién nacidos, busquen con ansia la leche espiritual pura, para que por medio de ella crezcan y tengan salvación,",
+					"number": 2,
+					"id": "b6a3c5f0-53e7-432e-a894-46fc1efcd0ae"
+				},
+				{
+					"verse": "ya que han gustado la bondad del Señor.",
+					"number": 3,
+					"id": "ccd1e999-41d1-409d-b774-5449e997bca1"
+				},
+				{
+					"verse": "Acérquense, pues, al Señor, la piedra viva que los hombres desecharon, pero que para Dios es una piedra escogida y de mucho valor.",
+					"number": 4,
+					"study": "La piedra viva",
+					"id": "e655e7fb-719f-4794-b763-88d31e32224e"
+				},
+				{
+					"verse": "De esta manera, Dios hará de ustedes, como de piedras vivas, un templo espiritual, un sacerdocio santo, que por medio de Jesucristo ofrezca sacrificios espirituales, agradables a Dios.",
+					"number": 5,
+					"id": "41cf4923-1585-460a-b269-e7ac7e074f86"
+				},
+				{
+					"verse": "Por eso también dice la Escritura:\n«Yo pongo en Sión una piedra\nque es la piedra principal,\nescogida y muy valiosa;\nel que confíe en ella no quedará defraudado.»",
+					"number": 6,
+					"id": "e9fc8630-d545-49bf-a6ad-97c4cc9a5127"
+				},
+				{
+					"verse": "Para ustedes, que creen, esa piedra es de mucho valor; pero para los que no creen se cumple lo que dice la Escritura:\n«La piedra que los constructores despreciaron,\nse ha convertido en la piedra principal.»",
+					"number": 7,
+					"id": "049937b2-2e14-4829-80bb-1f5737b36730"
+				},
+				{
+					"verse": "Y también esto otro:\n«Una roca, una piedra con la cual tropezarán.»\nPues ellos tropiezan al no hacer caso del mensaje: ése es su merecido.",
+					"number": 8,
+					"id": "10ad5162-4c72-4756-b65a-2830d61eff6d"
+				},
+				{
+					"verse": "Pero ustedes son una familia escogida, un sacerdocio al servicio del rey, una nación santa, un pueblo adquirido por Dios. Y esto es así para que anuncien las obras maravillosas de Dios, el cual los llamó a salir de la oscuridad para entrar en su luz maravillosa.",
+					"number": 9,
+					"study": "El pueblo de Dios",
+					"id": "a30cacb4-aa7f-4b4e-9b92-601dd521284d"
+				},
+				{
+					"verse": "Ustedes antes ni siquiera eran pueblo, pero ahora son pueblo de Dios; antes Dios no les tenía compasión, pero ahora les tiene compasión.",
+					"number": 10,
+					"id": "210dae9b-5177-4c8a-91dd-a75351d19308"
+				},
+				{
+					"verse": "Queridos hermanos, les ruego, como a extranjeros de paso por este mundo, que no den lugar a los deseos humanos que luchan contra el alma.",
+					"number": 11,
+					"study": "Vivid como siervos de Dios",
+					"id": "ee0835d9-4140-4cc8-8910-03c7fe0c77df"
+				},
+				{
+					"verse": "Condúzcanse bien entre los paganos. Así ellos, aunque ahora hablen contra ustedes como si ustedes fueran malhechores, verán el bien que ustedes hacen y alabarán a Dios el día en que él pida cuentas a todos.",
+					"number": 12,
+					"id": "3f70661a-606e-45ce-a22c-bad0b536e945"
+				},
+				{
+					"verse": "Por causa del Señor, sométanse a toda autoridad humana: tanto al emperador, porque ocupa el cargo más alto,",
+					"number": 13,
+					"id": "1391743e-f994-44b2-bca0-08d540987ede"
+				},
+				{
+					"verse": "como a los gobernantes que él envía para castigar a los malhechores y honrar a los que hacen el bien.",
+					"number": 14,
+					"id": "55c2dc4b-f2f5-4f77-b068-3604c6619733"
+				},
+				{
+					"verse": "Porque Dios quiere que ustedes hagan el bien, para que los ignorantes y los tontos no tengan nada que decir en contra de ustedes.",
+					"number": 15,
+					"id": "1ed3f88a-38e2-4b5e-b58b-6d533a52c83e"
+				},
+				{
+					"verse": "Pórtense como personas libres, aunque sin usar su libertad como un pretexto para hacer lo malo. Pórtense más bien como siervos de Dios.",
+					"number": 16,
+					"id": "32b66032-a0ad-41db-94c1-e18663cd6aa6"
+				},
+				{
+					"verse": "Den a todos el debido respeto. Amen a los hermanos, reverencien a Dios, respeten al emperador.",
+					"number": 17,
+					"id": "ca16d79d-e48b-4cfe-a2bc-6051433eb1ab"
+				},
+				{
+					"verse": "Sirvientes, sométanse con todo respeto a sus amos, no solamente a los buenos y comprensivos sino también a los malos.",
+					"number": 18,
+					"id": "01ef5927-76f2-4074-9175-b364b59fe3ca"
+				},
+				{
+					"verse": "Porque es cosa agradable a Dios que uno soporte sufrimientos injustamente, por sentido de responsabilidad delante de él.",
+					"number": 19,
+					"id": "166b186f-6b97-4d1c-bbcd-1befdc804249"
+				},
+				{
+					"verse": "Pues si a ustedes los castigan por haber hecho algo malo, ¿qué mérito tendrá que lo soporten con paciencia? Pero si sufren por haber hecho el bien, y soportan con paciencia el sufrimiento, eso es agradable a Dios.",
+					"number": 20,
+					"id": "6afd0c96-516b-4733-98d6-717eb751dbd8"
+				},
+				{
+					"verse": "Pues para esto los llamó Dios, ya que Cristo sufrió por ustedes, dándoles un ejemplo para que sigan sus pasos.",
+					"number": 21,
+					"id": "62ccb550-1e84-45c6-b42a-9d72b8cd4fb4"
+				},
+				{
+					"verse": "Cristo no cometió ningún pecado ni engañó jamás a nadie.",
+					"number": 22,
+					"id": "5dbd6c01-018f-4dd9-a614-a9eb4a54ae15"
+				},
+				{
+					"verse": "Cuando lo insultaban, no contestaba con insultos; cuando lo hacían sufrir, no amenazaba, sino que se encomendaba a Dios, que juzga con rectitud.",
+					"number": 23,
+					"id": "3165d15b-597b-4b49-9613-52b3515cfa70"
+				},
+				{
+					"verse": "Cristo mismo llevó nuestros pecados en su cuerpo sobre la cruz, para que nosotros muramos al pecado y vivamos una vida de rectitud. Cristo fue herido para que ustedes fueran sanados.",
+					"number": 24,
+					"id": "44770697-bbe9-4a50-a697-73f45a187e3a"
+				},
+				{
+					"verse": "Pues ustedes andaban antes como ovejas extraviadas, pero ahora han vuelto a Cristo, que los cuida como un pastor y vela por ustedes.",
+					"number": 25,
+					"id": "a022945c-3e0d-4ea2-9d46-6b1b6c5c0c90"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Así también ustedes, las esposas, sométanse a sus esposos, para que, si algunos de ellos no creen en el mensaje, puedan ser convencidos, sin necesidad de palabras, por el comportamiento de ustedes,",
+					"number": 1,
+					"study": "Deberes conyugales",
+					"id": "d34a2da4-7758-48c8-b53b-ab93d317d7f6"
+				},
+				{
+					"verse": "al ver ellos su conducta pura y reverente para con Dios.",
+					"number": 2,
+					"id": "77cde594-6fef-4f7d-8c05-6f5802c49e1d"
+				},
+				{
+					"verse": "Que el adorno de ustedes no consista en cosas externas, como peinados exagerados, joyas de oro o vestidos lujosos,",
+					"number": 3,
+					"id": "1c456b9a-a86f-40d6-bedd-1712df1fd835"
+				},
+				{
+					"verse": "sino en lo íntimo del corazón, en la belleza incorruptible de un espíritu suave y tranquilo. Esta belleza vale mucho delante de Dios.",
+					"number": 4,
+					"id": "68df40cf-36f9-4c6c-95ed-008a4b8386f1"
+				},
+				{
+					"verse": "Pues éste era también, en tiempos antiguos, el adorno de las mujeres santas; ellas confiaban en Dios y se sometían a sus esposos.",
+					"number": 5,
+					"id": "1876ba9a-701c-40e3-a083-14da3cf70ce9"
+				},
+				{
+					"verse": "Así fue Sara, que obedeció a Abraham y lo llamó «mi señor». Y ustedes son hijas de ella, si hacen el bien y no tienen miedo de nada.",
+					"number": 6,
+					"id": "fcaabbbb-22f2-4009-b165-d786f6ee77dd"
+				},
+				{
+					"verse": "En cuanto a ustedes, los esposos, sean comprensivos con sus esposas. Denles el honor que les corresponde, teniendo en cuenta que ellas son más delicadas y están llamadas a compartir con ustedes la vida que Dios les dará como herencia. Háganlo así para no poner estorbo a sus propias oraciones.",
+					"number": 7,
+					"id": "6ec761eb-a68b-438d-8271-bc3ecff089bf"
+				},
+				{
+					"verse": "En fin, vivan todos ustedes en armonía, unidos en un mismo sentir y amándose como hermanos. Sean bondadosos y humildes.",
+					"number": 8,
+					"study": "Una buena conciencia",
+					"id": "964b61a9-3028-46eb-bf01-4f8e006f8aac"
+				},
+				{
+					"verse": "No devuelvan mal por mal ni insulto por insulto. Al contrario, devuelvan bendición, pues Dios los ha llamado a recibir bendición.",
+					"number": 9,
+					"id": "0fe28f6c-7258-4aa1-b2e6-26101e607bc0"
+				},
+				{
+					"verse": "Porque:\n«Quien quiera amar la vida y pasar días felices,\ncuide su lengua de hablar mal\ny sus labios de decir mentiras;",
+					"number": 10,
+					"id": "f71668e1-87e6-4024-a341-ef6a91c083ce"
+				},
+				{
+					"verse": "aléjese del mal y haga el bien,\nbusque la paz y sígala.",
+					"number": 11,
+					"id": "a2010737-44b7-4f8c-b9b3-6d98a0ec1c3c"
+				},
+				{
+					"verse": "Porque el Señor cuida a los justos\ny presta oídos a sus oraciones,\npero está en contra de los malhechores.»",
+					"number": 12,
+					"id": "9a5f207e-933a-4901-a185-f3ec0cecff45"
+				},
+				{
+					"verse": "¿Quién podrá hacerles mal, si ustedes se empeñan siempre en hacer el bien?",
+					"number": 13,
+					"id": "548f12d5-9f01-4162-801d-ba14f5a12a5c"
+				},
+				{
+					"verse": "Pero aun si por actuar con rectitud han de sufrir, ¡dichosos ustedes! No tengan miedo a nadie, ni se asusten,",
+					"number": 14,
+					"id": "f2e0fa96-439f-4308-b378-b5f8633fa432"
+				},
+				{
+					"verse": "sino honren a Cristo como Señor en sus corazones. Estén siempre preparados a responder a todo el que les pida razón de la esperanza que ustedes tienen,",
+					"number": 15,
+					"id": "e0964517-7a65-42e1-84e4-edab596ce841"
+				},
+				{
+					"verse": "pero háganlo con humildad y respeto. Pórtense de tal modo que tengan tranquila su conciencia, para que los que hablan mal de su buena conducta como creyentes en Cristo, se avergüencen de sus propias palabras.",
+					"number": 16,
+					"id": "d49ac08f-c8e2-499c-b6eb-ec0a63fb2c7a"
+				},
+				{
+					"verse": "Es mejor sufrir por hacer el bien, si así lo quiere Dios, que por hacer el mal.",
+					"number": 17,
+					"id": "74b2155b-69ba-41c9-b3b9-16232ffb5283"
+				},
+				{
+					"verse": "Porque Cristo mismo sufrió la muerte por nuestros pecados, una vez para siempre. Él era inocente, pero sufrió por los malos, para llevarlos a ustedes a Dios. En su fragilidad humana, murió; pero resucitó con una vida espiritual,",
+					"number": 18,
+					"id": "7f37a6f8-c5ad-4891-897e-9e7a4a2f533a"
+				},
+				{
+					"verse": "y de esta manera fue a proclamar su victoria a los espíritus que estaban presos.",
+					"number": 19,
+					"id": "2a3573c9-b69d-49f6-a1d7-35769cdfbf33"
+				},
+				{
+					"verse": "Éstos habían sido desobedientes en tiempos antiguos, en los días de Noé, cuando Dios esperaba con paciencia mientras se construía la barca, en la que algunas personas, ocho en total, fueron salvadas por medio del agua.",
+					"number": 20,
+					"id": "041bff21-f024-4169-8c62-235312a61181"
+				},
+				{
+					"verse": "Y aquella agua representaba el agua del bautismo, por medio del cual somos ahora salvados. El bautismo no consiste en limpiar el cuerpo, sino en pedirle a Dios una conciencia limpia; y nos salva por la resurrección de Jesucristo,",
+					"number": 21,
+					"id": "2653edd8-3c56-46d5-b7c7-22a4bd4719d1"
+				},
+				{
+					"verse": "que subió al cielo y está a la derecha de Dios, y al que han quedado sujetos los ángeles y demás seres espirituales que tienen autoridad y poder.",
+					"number": 22,
+					"id": "d76d9fd8-f293-4bc2-96a2-c4b580249a06"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Por eso, así como Cristo sufrió en su cuerpo, adopten también ustedes igual disposición. Pues el que ha sufrido en el cuerpo ha roto con el pecado,",
+					"number": 1,
+					"study": "Buenos administradores de la gracia de Dios",
+					"id": "61e0ab4b-7063-4159-8c4c-91b7f1896cbd"
+				},
+				{
+					"verse": "para vivir el resto de su vida conforme a la voluntad de Dios y no conforme a los deseos humanos.",
+					"number": 2,
+					"id": "c9f8790e-6758-4d0c-81ed-6ce3976688cb"
+				},
+				{
+					"verse": "Por mucho tiempo hicieron ustedes las mismas cosas que hacen los paganos, pues vivían entonces en vicios, malos deseos, banquetes y borracheras, bebiendo con exceso y adorando ídolos abominables.",
+					"number": 3,
+					"id": "f4d877f2-b8d8-4657-9d87-fd779641f743"
+				},
+				{
+					"verse": "Ahora, como ustedes ya no los acompañan en los excesos de su mala vida, ellos se extrañan y hablan mal de ustedes.",
+					"number": 4,
+					"id": "0770f9e2-9ab3-4ae5-9364-7a35d54e45d2"
+				},
+				{
+					"verse": "Pero ellos tendrán que rendir cuentas ante aquel que está preparado para juzgar a los vivos y a los muertos.",
+					"number": 5,
+					"id": "86db34da-fe42-45d1-b95d-7ba47ba4dddc"
+				},
+				{
+					"verse": "Pues aun a personas muertas se les anunció la buena noticia, para que pudieran vivir en el espíritu, según Dios, aunque en este mundo hubieran sido juzgados en el cuerpo, según los hombres.",
+					"number": 6,
+					"id": "ebf076f9-dd1e-4d6e-9df1-daddb6a88213"
+				},
+				{
+					"verse": "Ya se acerca el fin de todas las cosas. Por eso, sean ustedes juiciosos y dedíquense seriamente a la oración.",
+					"number": 7,
+					"id": "924693c3-8ea7-46f8-a948-4873d278e7a8"
+				},
+				{
+					"verse": "Haya sobre todo mucho amor entre ustedes, porque el amor perdona muchos pecados.",
+					"number": 8,
+					"id": "eaf33263-3aa6-46b2-b6fd-386fd5dc9b15"
+				},
+				{
+					"verse": "Recíbanse unos a otros en sus casas, sin murmurar de nadie.",
+					"number": 9,
+					"id": "cd6e0519-d93b-4230-a1b6-9dca434fc6ff"
+				},
+				{
+					"verse": "Como buenos administradores de los diferentes dones de Dios, cada uno de ustedes sirva a los demás según lo que haya recibido.",
+					"number": 10,
+					"id": "f7b1d6aa-b6de-44d7-82a5-efc95e22e8da"
+				},
+				{
+					"verse": "Cuando alguien hable, sean sus palabras como palabras de Dios. Cuando alguien preste algún servicio, préstelo con las fuerzas que Dios le da. Todo lo que hagan, háganlo para que Dios sea alabado por medio de Jesucristo, a quien pertenece la gloria y el poder para siempre. Amén.",
+					"number": 11,
+					"id": "3b77cd75-d6b8-4f92-b50f-72b1eab9f5fa"
+				},
+				{
+					"verse": "Queridos hermanos, no se extrañen de verse sometidos al fuego de la prueba, como si fuera algo extraordinario.",
+					"number": 12,
+					"study": "Padeciendo como cristianos",
+					"id": "fdf5431f-47da-4cb7-9c7e-5c64178552e5"
+				},
+				{
+					"verse": "Al contrario, alégrense de tener parte en los sufrimientos de Cristo, para que también se llenen de alegría cuando su gloria se manifieste.",
+					"number": 13,
+					"id": "687db8e6-4802-4510-8e56-bb50a8d14615"
+				},
+				{
+					"verse": "Dichosos ustedes, si alguien los insulta por causa de Cristo, porque el glorioso Espíritu de Dios está continuamente sobre ustedes.",
+					"number": 14,
+					"id": "975eeb7e-c983-4587-b77d-19d4dc20722e"
+				},
+				{
+					"verse": "Si alguno de ustedes sufre, que no sea por asesino, ladrón o criminal, ni por meterse en asuntos ajenos.",
+					"number": 15,
+					"id": "5bac0bac-3a11-40ee-b5ee-85291cbdb415"
+				},
+				{
+					"verse": "Pero si sufre por ser cristiano, no debe avergonzarse, sino alabar a Dios por llevar ese nombre.",
+					"number": 16,
+					"id": "6789476a-b932-48c1-93a5-dcd271fa3559"
+				},
+				{
+					"verse": "Ya ha llegado el tiempo en que el juicio comience por la propia familia de Dios. Y si el juicio está comenzando así por nosotros, ¿cómo será el fin de los que no obedecen al evangelio de Dios?",
+					"number": 17,
+					"id": "cad9c775-d398-4673-8aa0-07df4867139b"
+				},
+				{
+					"verse": "Y si el justo con dificultad se salva, ¿qué pasará con el malvado y el pecador?",
+					"number": 18,
+					"id": "b87f877d-28bd-4766-a3e4-50dfddf25ea5"
+				},
+				{
+					"verse": "De manera que los que sufren según la voluntad de Dios, deben seguir haciendo el bien y poner sus almas en manos del Dios que los creó, pues él es fiel.",
+					"number": 19,
+					"id": "0f4cfc5e-185a-4e7d-b95e-68286ac66127"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Quiero aconsejar ahora a los ancianos de las congregaciones de ustedes, yo que soy anciano como ellos y testigo de los sufrimientos de Cristo, y que también voy a tener parte en la gloria que ha de manifestarse.",
+					"number": 1,
+					"study": "Apacentad la grey de Dios",
+					"id": "810316b6-0df3-4a96-9c19-fa3c0a3dcf1b"
+				},
+				{
+					"verse": "Cuiden de las ovejas de Dios que han sido puestas a su cargo; háganlo de buena voluntad, como Dios quiere, y no forzadamente ni por ambición de dinero, sino de buena gana.",
+					"number": 2,
+					"id": "8c1fafe7-53e4-4876-8af4-a9bb314156eb"
+				},
+				{
+					"verse": "Compórtense no como si ustedes fueran los dueños de los que están a su cuidado, sino procurando ser un ejemplo para ellos.",
+					"number": 3,
+					"id": "ff2232c8-c34f-4928-a608-5cd0fcfee856"
+				},
+				{
+					"verse": "Así, cuando aparezca el Pastor principal, ustedes recibirán la corona de la gloria, una corona que jamás se marchitará.",
+					"number": 4,
+					"id": "a442077d-e929-42dd-b75e-a9d9121868c1"
+				},
+				{
+					"verse": "De la misma manera, ustedes los jóvenes sométanse a la autoridad de los ancianos. Todos deben someterse unos a otros con humildad, porque:\n«Dios se opone a los orgullosos,\npero ayuda con su bondad a los humildes.»",
+					"number": 5,
+					"id": "f1805fa6-bd8c-4e61-bab3-42fe3f599458"
+				},
+				{
+					"verse": "Humíllense, pues, bajo la poderosa mano de Dios, para que él los enaltezca a su debido tiempo.",
+					"number": 6,
+					"id": "5a5edd30-4f12-4efd-b3f6-455526dd9d54"
+				},
+				{
+					"verse": "Dejen todas sus preocupaciones a Dios, porque él se interesa por ustedes.",
+					"number": 7,
+					"id": "ccd9c43e-12b6-430a-9952-7472a4ebb587"
+				},
+				{
+					"verse": "Sean prudentes y manténganse despiertos, porque su enemigo el diablo, como un león rugiente, anda buscando a quien devorar.",
+					"number": 8,
+					"id": "8e453214-c92d-4d00-b5ce-d7d87a9d37e2"
+				},
+				{
+					"verse": "Resístanle, firmes en la fe, sabiendo que en todas partes del mundo los hermanos de ustedes están sufriendo las mismas cosas.",
+					"number": 9,
+					"id": "70ec6610-5e94-401f-a4d4-ca0a0388901e"
+				},
+				{
+					"verse": "Pero después que ustedes hayan sufrido por un poco de tiempo, Dios los hará perfectos, firmes, fuertes y seguros. Es el mismo Dios que en su gran amor nos ha llamado a tener parte en su gloria eterna en unión con Jesucristo.",
+					"number": 10,
+					"id": "54f67395-79c2-4f7d-8d76-d8e862ac1097"
+				},
+				{
+					"verse": "A él sea el poder para siempre. Amén.",
+					"number": 11,
+					"id": "944579d6-1b0f-4401-b5a3-db0608bdf6f5"
+				},
+				{
+					"verse": "Por medio de Silvano, a quien considero un hermano fiel, les he escrito esta breve carta, para aconsejarlos y asegurarlos que las bendiciones que han recibido son prueba verdadera del amor de Dios. ¡Permanezcan fieles a ese amor!",
+					"number": 12,
+					"study": "Salutaciones finales",
+					"id": "aa1f1ff6-c149-476c-8a97-c263eb4b5927"
+				},
+				{
+					"verse": "La iglesia que está en Babilonia, la cual Dios ha escogido lo mismo que a ustedes, les manda saludos, y también mi hijo Marcos.",
+					"number": 13,
+					"id": "b3bbbb0c-6eab-40e8-aeb8-d3d94187a8f4"
+				},
+				{
+					"verse": "Salúdense unos a otros con un beso de amor fraternal.\nTengan paz todos ustedes, los que pertenecen a Cristo.",
+					"number": 14,
+					"id": "11b9285e-88df-4a38-be15-5a75153783c6"
+				}
+			]
+		}
+	],
+	"book_id": "81af644b-df28-498d-be27-6d162ad8b7bf"
+}

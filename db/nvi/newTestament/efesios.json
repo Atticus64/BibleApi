@@ -1,0 +1,825 @@
+{
+	"name": "Efesios",
+	"num_chapters": 6,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo,  apóstol de Cristo Jesús por la voluntad de Dios,  a los santos y fieles* en Cristo Jesús que están en Éfeso:*",
+					"number": 1,
+					"study": "Salutación",
+					"id": "93d05f39-1c3c-41bf-9310-4af2a940b01f"
+				},
+				{
+					"verse": "Que Dios nuestro Padre y el Señor Jesucristo les concedan gracia y paz.",
+					"number": 2,
+					"id": "652fdfe6-daf1-47fa-b1bc-63b6d98907c1"
+				},
+				{
+					"verse": "Alabado sea Dios,  Padre de nuestro Señor Jesucristo,  que nos ha bendecido en las regiones celestiales con toda bendición espiritual en Cristo.",
+					"number": 3,
+					"study": "Bendiciones espirituales en Cristo",
+					"id": "0dd19fa1-7d57-439a-9f70-1b52177c4f55"
+				},
+				{
+					"verse": "Dios nos escogió en él antes de la creación del mundo,  para que seamos santos y sin mancha delante de él.  En amor",
+					"number": 4,
+					"id": "7a942a3c-e775-4708-b415-9a649397f468"
+				},
+				{
+					"verse": "nos predestinó* para ser adoptados como hijos suyos por medio de Jesucristo,  según el buen propósito de su voluntad,",
+					"number": 5,
+					"id": "3a70cfab-cd27-46b1-94f5-ee95762f1a68"
+				},
+				{
+					"verse": "para alabanza de su gloriosa gracia,  que nos concedió en su Amado.",
+					"number": 6,
+					"id": "e4536c2d-cf99-418b-9785-0466b42b8d54"
+				},
+				{
+					"verse": "En él tenemos la redención mediante su sangre,  el perdón de nuestros pecados,  conforme a las riquezas de la gracia",
+					"number": 7,
+					"id": "596204ad-e30c-4443-b768-665589d06d6d"
+				},
+				{
+					"verse": "que Dios nos dio en abundancia con toda sabiduría y entendimiento.",
+					"number": 8,
+					"id": "a4be5c3b-7e7c-4e35-a449-73b7dffe7fab"
+				},
+				{
+					"verse": "Él nos hizo conocer* el misterio de su voluntad conforme al buen propósito que de antemano estableció en Cristo,",
+					"number": 9,
+					"id": "8bf18f00-ac33-493f-ab38-8e89fc8c1cb5"
+				},
+				{
+					"verse": "para llevarlo a cabo cuando se cumpliera el tiempo:  reunir en él todas las cosas,  tanto las del cielo como las de la tierra.",
+					"number": 10,
+					"id": "6d1a75eb-07b3-4e87-a814-0e2e71e45b88"
+				},
+				{
+					"verse": "En Cristo también fuimos hechos herederos,* pues fuimos predestinados según el plan de aquel que hace todas las cosas conforme al designio de su voluntad,",
+					"number": 11,
+					"id": "1c20a580-2e0d-4494-83f3-ecd3ccd9de7c"
+				},
+				{
+					"verse": "a fin de que nosotros,  que ya hemos puesto nuestra esperanza en Cristo,  seamos para alabanza de su gloria.",
+					"number": 12,
+					"id": "4684b070-225b-4027-ab71-a84ad60b9558"
+				},
+				{
+					"verse": "En él también ustedes,  cuando oyeron el mensaje de la verdad,  el evangelio que les trajo la salvación,  y lo creyeron,  fueron marcados con el sello que es el Espíritu Santo prometido.",
+					"number": 13,
+					"id": "3d0285c3-f647-47b7-ac00-333c2276b482"
+				},
+				{
+					"verse": "Éste garantiza nuestra herencia hasta que llegue la redención final del pueblo adquirido por Dios,* para alabanza de su gloria.",
+					"number": 14,
+					"id": "0a1d815b-433f-41be-9eaf-13b5e5d2dcc7"
+				},
+				{
+					"verse": "Por eso yo,  por mi parte,  desde que me enteré de la fe que tienen en el Señor Jesús y del amor que demuestran por todos los santos,",
+					"number": 15,
+					"study": "El espíritu de sabiduría y de revelación",
+					"id": "487fe429-e773-4eda-949b-48b0dc1e0d79"
+				},
+				{
+					"verse": "no he dejado de dar gracias por ustedes al recordarlos en mis oraciones.",
+					"number": 16,
+					"id": "1d550265-a46f-4114-881f-da66038a8477"
+				},
+				{
+					"verse": "Pido que el Dios de nuestro Señor Jesucristo,  el Padre glorioso,  les dé el Espíritu* de sabiduría y de revelación,  para que lo conozcan mejor.",
+					"number": 17,
+					"id": "46c7c923-213d-4bcf-90f5-f84b8ad45f70"
+				},
+				{
+					"verse": "Pido también que les sean iluminados los ojos del corazón para que sepan a qué esperanza él los ha llamado,  cuál es la riqueza de su gloriosa herencia entre los santos,",
+					"number": 18,
+					"id": "a7637c55-2460-4f30-b00f-7cc326ca7b6a"
+				},
+				{
+					"verse": "y cuán incomparable es la grandeza de su poder a favor de los que creemos.  Ese poder es la fuerza grandiosa y eficaz",
+					"number": 19,
+					"id": "76d1ef78-c68f-4c33-b8fe-99e152dd9686"
+				},
+				{
+					"verse": "que Dios ejerció en Cristo cuando lo resucitó de entre los muertos y lo sentó a su derecha en las regiones celestiales,",
+					"number": 20,
+					"id": "a247cb5c-d83c-4b09-85d6-969ca897ac7f"
+				},
+				{
+					"verse": "muy por encima de todo gobierno y autoridad,  poder y dominio,  y de cualquier otro nombre que se invoque,  no sólo en este mundo sino también en el venidero.",
+					"number": 21,
+					"id": "97c4a9a8-0d72-46fa-a8b1-5fe70e05490d"
+				},
+				{
+					"verse": "Dios sometió todas las cosas al dominio de Cristo,* y lo dio como cabeza de todo a la iglesia.",
+					"number": 22,
+					"id": "eeb8fa13-9cbf-4b13-b3aa-26ba7872c65c"
+				},
+				{
+					"verse": "Ésta,  que es su cuerpo,  es la plenitud de aquel que lo llena todo por completo.",
+					"number": 23,
+					"id": "c9f85e0a-2ed7-4fb7-8001-14b5e2400f10"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "En otro tiempo ustedes estaban muertos en sus transgresiones y pecados,",
+					"number": 1,
+					"study": "Salvos por gracia",
+					"id": "fb428035-a7c4-4341-99ba-7230efe336b6"
+				},
+				{
+					"verse": "en los cuales andaban conforme a los poderes de este mundo.  Se conducían según el que gobierna las tinieblas,  según el espíritu que ahora ejerce su poder en los que viven en la desobediencia.",
+					"number": 2,
+					"id": "2e68c0e5-5ac3-4382-b8c5-90866fbe7021"
+				},
+				{
+					"verse": "En ese tiempo también todos nosotros vivíamos como ellos,  impulsados por nuestros deseos pecaminosos,  siguiendo nuestra propia voluntad y nuestros propósitos.* Como los demás,  éramos por naturaleza objeto de la ira de Dios.",
+					"number": 3,
+					"id": "fe31cb98-804a-4b2a-93d0-a996c3ba73c1"
+				},
+				{
+					"verse": "Pero Dios,  que es rico en misericordia,  por su gran amor por nosotros,",
+					"number": 4,
+					"id": "69e8d324-f502-4583-be07-b700bbe3320f"
+				},
+				{
+					"verse": "nos dio vida con Cristo,  aun cuando estábamos muertos en pecados.  ¡Por gracia ustedes han sido salvados!",
+					"number": 5,
+					"id": "f402f847-49d4-4f19-a2bd-0c4fa05e2f45"
+				},
+				{
+					"verse": "Y en unión con Cristo Jesús,  Dios nos resucitó y nos hizo sentar con él en las regiones celestiales,",
+					"number": 6,
+					"id": "b554a889-53a2-4df1-9f3e-33bcc2d4382e"
+				},
+				{
+					"verse": "para mostrar en los tiempos venideros la incomparable riqueza de su gracia,  que por su bondad derramó sobre nosotros en Cristo Jesús.",
+					"number": 7,
+					"id": "4a9f29ac-4bb5-4945-b69f-0b9701e90c7a"
+				},
+				{
+					"verse": "Porque por gracia ustedes han sido salvados mediante la fe;  esto no procede de ustedes,  sino que es el regalo de Dios,",
+					"number": 8,
+					"id": "b4e1cfa5-9832-4d60-92ba-e9acb7b4dd30"
+				},
+				{
+					"verse": "no por obras,  para que nadie se jacte.",
+					"number": 9,
+					"id": "cff57078-81a4-4adf-aec7-f17e0246baf1"
+				},
+				{
+					"verse": "Porque somos hechura de Dios,  creados en Cristo Jesús para buenas obras,  las cuales Dios dispuso de antemano a fin de que las pongamos en práctica.",
+					"number": 10,
+					"id": "faa1ff7f-4697-48de-bb2b-0e8008d0455d"
+				},
+				{
+					"verse": "Por lo tanto,  recuerden ustedes los gentiles de nacimiento --los que son llamados  \"incircuncisos\"  por aquellos que se llaman  \"de la circuncisión\",  la cual se hace en el cuerpo por mano humana--,",
+					"number": 11,
+					"study": "Reconciliación por medio de la cruz",
+					"id": "01abb567-5bb8-4b59-a30d-9392e2fb89fd"
+				},
+				{
+					"verse": "recuerden que en ese entonces ustedes estaban separados de Cristo,  excluidos de la ciudadanía de Israel y ajenos a los pactos de la promesa,  sin esperanza y sin Dios en el mundo.",
+					"number": 12,
+					"id": "c4627dd0-5428-48de-8697-e261504eb344"
+				},
+				{
+					"verse": "Pero ahora en Cristo Jesús,  a ustedes que antes estaban lejos,  Dios los ha acercado mediante la sangre de Cristo.",
+					"number": 13,
+					"id": "842ebd10-bc6b-4de6-9932-b4a9eec5abed"
+				},
+				{
+					"verse": "Porque Cristo es nuestra paz:  de los dos pueblos ha hecho uno solo,  derribando mediante su sacrificio* el muro de enemistad que nos separaba,",
+					"number": 14,
+					"id": "c42e3c18-8fa4-4b25-90c4-9a4fb2c5a3bf"
+				},
+				{
+					"verse": "pues anuló la ley con sus mandamientos y requisitos.  Esto lo hizo para crear en sí mismo de los dos pueblos una nueva humanidad al hacer la paz,",
+					"number": 15,
+					"id": "7e762be1-4482-40fa-b0e4-ef1c6caf5bc5"
+				},
+				{
+					"verse": "para reconciliar con Dios a ambos en un solo cuerpo mediante la cruz,  por la que dio muerte a la enemistad.",
+					"number": 16,
+					"id": "67b0c566-b14a-4316-8d5f-86a4e36d5863"
+				},
+				{
+					"verse": "Él vino y proclamó paz a ustedes que estaban lejos y paz a los que estaban cerca.",
+					"number": 17,
+					"id": "b53de09d-11c4-498d-8ec4-7885b41d0e8a"
+				},
+				{
+					"verse": "Pues por medio de él tenemos acceso al Padre por un mismo Espíritu.",
+					"number": 18,
+					"id": "236ef7cf-bccf-4ab5-9d1e-4d328aadc7e8"
+				},
+				{
+					"verse": "Por lo tanto,  ustedes ya no son extraños ni extranjeros,  sino conciudadanos de los santos y miembros de la familia de Dios,",
+					"number": 19,
+					"id": "05f7e41a-6886-4421-b04e-89c74475fa14"
+				},
+				{
+					"verse": "edificados sobre el fundamento de los apóstoles y los profetas,  siendo Cristo Jesús mismo la piedra angular.",
+					"number": 20,
+					"id": "f41ffe8b-347c-4512-9c38-5913936036c3"
+				},
+				{
+					"verse": "En él todo el edificio,  bien armado,  se va levantando para llegar a ser un templo santo en el Señor.",
+					"number": 21,
+					"id": "bfa946ff-944b-431d-bb88-7d7957c45cd1"
+				},
+				{
+					"verse": "En él también ustedes son edificados juntamente para ser morada de Dios por su Espíritu.",
+					"number": 22,
+					"id": "8edd1ae3-b6c1-4531-89fa-dff8dab4181b"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por esta razón yo,  Pablo,  prisionero de Cristo Jesús por el bien de ustedes los gentiles,  me arrodillo en oración.*",
+					"number": 1,
+					"study": "Ministerio de Pablo a los gentiles",
+					"id": "fa6806e4-91cc-43dc-ba72-b254dc25ff7f"
+				},
+				{
+					"verse": "Sin duda se han enterado del plan de la gracia de Dios que él me encomendó para ustedes,",
+					"number": 2,
+					"id": "c4879aa8-1ac4-4fc3-820f-29bfbd5d71ec"
+				},
+				{
+					"verse": "es decir,  el misterio que me dio a conocer por revelación,  como ya les escribí brevemente.",
+					"number": 3,
+					"id": "a59dbeb9-60c8-4b3d-8c63-534ab16592d8"
+				},
+				{
+					"verse": "Al leer esto,  podrán darse cuenta de que comprendo el misterio de Cristo.",
+					"number": 4,
+					"id": "3d1bfb1d-148b-44c8-9b0b-466a9413cd76"
+				},
+				{
+					"verse": "Ese misterio,  que en otras generaciones no se les dio a conocer a los seres humanos,  ahora se les ha revelado por el Espíritu a los santos apóstoles y profetas de Dios;",
+					"number": 5,
+					"id": "124be90e-cd05-46f5-973e-b62cef41c832"
+				},
+				{
+					"verse": "es decir,  que los gentiles son,  junto con Israel,  beneficiarios de la misma herencia,  miembros de un mismo cuerpo y participantes igualmente de la promesa en Cristo Jesús mediante el evangelio.",
+					"number": 6,
+					"id": "c923e9bb-b6ef-47e2-9fa7-ec99ac7a5025"
+				},
+				{
+					"verse": "De este evangelio llegué a ser servidor como regalo que Dios,  por su gracia,  me dio conforme a su poder eficaz.",
+					"number": 7,
+					"id": "167c8954-bc90-410d-9165-33c8b7fd60f6"
+				},
+				{
+					"verse": "Aunque soy el más insignificante de todos los santos,  recibí esta gracia de predicar a las naciones las incalculables riquezas de Cristo,",
+					"number": 8,
+					"id": "c34b1a8f-ee4e-4b6d-b38c-19141da3fc73"
+				},
+				{
+					"verse": "y de hacer entender a todos la realización del plan de Dios,  el misterio que desde los tiempos eternos se mantuvo oculto en Dios,  Creador de todas las cosas.",
+					"number": 9,
+					"id": "689016f2-0c30-41f8-bc33-0a404ee997ad"
+				},
+				{
+					"verse": "El fin de todo esto es que la sabiduría de Dios,  en toda su diversidad,  se dé a conocer ahora,  por medio de la iglesia,  a los poderes y autoridades en las regiones celestiales,",
+					"number": 10,
+					"id": "0c36ee65-c08c-4d99-87c1-57c9a2c13659"
+				},
+				{
+					"verse": "conforme a su eterno propósito realizado en Cristo Jesús nuestro Señor.",
+					"number": 11,
+					"id": "0ef146c1-fd12-40d2-b64c-8c58d601af0f"
+				},
+				{
+					"verse": "En él,  mediante la fe,  disfrutamos de libertad y confianza para acercarnos a Dios.",
+					"number": 12,
+					"id": "f875af78-f444-46df-ab95-b4a4a83a3644"
+				},
+				{
+					"verse": "Así que les pido que no se desanimen a causa de lo que sufro por ustedes,  ya que estos sufrimientos míos son para ustedes un honor.",
+					"number": 13,
+					"id": "abd9a276-f8ff-465e-812d-87ec3a3bebfc"
+				},
+				{
+					"verse": "Por esta razón me arrodillo delante del Padre,",
+					"number": 14,
+					"study": "El amor que excede a todo conocimiento",
+					"id": "06ad6909-137f-4b9c-a54a-bed0d787e2cf"
+				},
+				{
+					"verse": "de quien recibe nombre toda familia* en el cielo y en la tierra.",
+					"number": 15,
+					"id": "99bcd45c-71e0-479a-88dc-2e86824ba4e8"
+				},
+				{
+					"verse": "Le pido que,  por medio del Espíritu y con el poder que procede de sus gloriosas riquezas,  los fortalezca a ustedes en lo íntimo de su ser,",
+					"number": 16,
+					"id": "4a83a928-4918-4edd-b3ad-0bc653396a42"
+				},
+				{
+					"verse": "para que por fe Cristo habite en sus corazones.  Y pido que,  arraigados y cimentados en amor,",
+					"number": 17,
+					"id": "ca7e4ffe-7ccc-4673-b9df-68e5bfae8db1"
+				},
+				{
+					"verse": "puedan comprender,  junto con todos los santos,  cuán ancho y largo,  alto y profundo es el amor de Cristo;",
+					"number": 18,
+					"id": "c4479569-f85b-47ee-a9c1-1da4981e3a37"
+				},
+				{
+					"verse": "en fin,  que conozcan ese amor que sobrepasa nuestro conocimiento,  para que sean llenos de la plenitud de Dios.",
+					"number": 19,
+					"id": "0bc52bf5-9156-472a-81ec-eb14a72281a0"
+				},
+				{
+					"verse": "Al que puede hacer muchísimo más que todo lo que podamos imaginarnos o pedir,  por el poder que obra eficazmente en nosotros,",
+					"number": 20,
+					"id": "e4a175f7-db9e-46cb-81c1-eab3a1ccd92d"
+				},
+				{
+					"verse": "¡a él sea la gloria en la iglesia y en Cristo Jesús por todas las generaciones,  por los siglos de los siglos!  Amén.",
+					"number": 21,
+					"id": "fd73542b-a0a6-4b7a-aa8b-f992975d2682"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Por eso yo,  que estoy preso por la causa del Señor,  les ruego que vivan de una manera digna del llamamiento que han recibido,",
+					"number": 1,
+					"study": "La unidad del Espíritu",
+					"id": "756a43f7-c56b-4483-9381-e15a8f19a848"
+				},
+				{
+					"verse": "siempre humildes y amables,  pacientes,  tolerantes unos con otros en amor.",
+					"number": 2,
+					"id": "ba438ce2-2b86-409c-a0b6-ad45603f3cef"
+				},
+				{
+					"verse": "Esfuércense por mantener la unidad del Espíritu mediante el vínculo de la paz.",
+					"number": 3,
+					"id": "0b8caa8d-9bac-411d-80b0-a0f50b5c292a"
+				},
+				{
+					"verse": "Hay un solo cuerpo y un solo Espíritu,  así como también fueron llamados a una sola esperanza;",
+					"number": 4,
+					"id": "32628df0-ca48-4248-9c26-2cd4b3e53ac2"
+				},
+				{
+					"verse": "un solo Señor,  una sola fe,  un solo bautismo;",
+					"number": 5,
+					"id": "ac78ad27-a20d-4495-91ca-78c6d4c468c3"
+				},
+				{
+					"verse": "un solo Dios y Padre de todos,  que está sobre todos y por medio de todos y en todos.",
+					"number": 6,
+					"id": "61701a00-0307-4c6b-9d58-2b09f18bc8b3"
+				},
+				{
+					"verse": "Pero a cada uno de nosotros se nos ha dado gracia en la medida en que Cristo ha repartido los dones.",
+					"number": 7,
+					"id": "b149ebe7-e0aa-479c-a3c9-d30ca1484bef"
+				},
+				{
+					"verse": "Por esto dice:  \"Cuando subió a lo alto,  llevó consigo a los cautivos y dio dones a los hombres.\"*",
+					"number": 8,
+					"id": "b5f4ed07-f31b-4327-83ce-32e7b9bfa77f"
+				},
+				{
+					"verse": "(¿Qué quiere decir eso de que  \"subió\",  sino que también descendió a las partes bajas,  o sea,  a la tierra?*",
+					"number": 9,
+					"id": "5a7de7fc-d9a9-4211-b92c-10782a1611af"
+				},
+				{
+					"verse": "El que descendió es el mismo que subió por encima de todos los cielos,  para llenarlo todo.)",
+					"number": 10,
+					"id": "9e98e7a2-2b5d-4830-8e57-5b6feb3242ab"
+				},
+				{
+					"verse": "Él mismo constituyó a unos,  apóstoles;  a otros,  profetas;  a otros,  evangelistas;  y a otros,  pastores y maestros,",
+					"number": 11,
+					"id": "2a7ad050-4482-4935-afe3-20353db1c542"
+				},
+				{
+					"verse": "a fin de capacitar al pueblo de Dios para la obra de servicio,  para edificar el cuerpo de Cristo.",
+					"number": 12,
+					"id": "936bfb4e-f30e-489a-a19c-b76b55a1f001"
+				},
+				{
+					"verse": "De este modo,  todos llegaremos a la unidad de la fe y del conocimiento del Hijo de Dios,  a una humanidad perfecta que se conforme a la plena estatura de Cristo.",
+					"number": 13,
+					"id": "aee35de0-ef2d-4805-978a-7bce4fea2d20"
+				},
+				{
+					"verse": "Así ya no seremos niños,  zarandeados por las olas y llevados de aquí para allá por todo viento de enseñanza y por la astucia y los artificios de quienes emplean artimañas engañosas.",
+					"number": 14,
+					"id": "ad52b56e-f09c-4abe-ac90-9305e2af229d"
+				},
+				{
+					"verse": "Más bien,  al vivir la verdad con amor,  creceremos hasta ser en todo como aquel que es la cabeza,  es decir,  Cristo.",
+					"number": 15,
+					"id": "ec69d9ef-df2d-4277-a2a4-c534c13ed8d1"
+				},
+				{
+					"verse": "Por su acción todo el cuerpo crece y se edifica en amor,  sostenido y ajustado por todos los ligamentos,  según la actividad propia de cada miembro.",
+					"number": 16,
+					"id": "027f6610-2639-40ab-92c2-63fed82ce4bb"
+				},
+				{
+					"verse": "Así que les digo esto y les insisto en el Señor:  no vivan más con pensamientos frívolos como los paganos.",
+					"number": 17,
+					"study": "La nueva vida en Cristo",
+					"id": "c05e3cc3-0dbf-4e54-a9bb-5bf3d2c580a3"
+				},
+				{
+					"verse": "A causa de la ignorancia que los domina y por la dureza de su corazón,  éstos tienen oscurecido el entendimiento y están alejados de la vida que proviene de Dios.",
+					"number": 18,
+					"id": "ac81e2e3-3e6a-4f33-9273-9111cbd346fb"
+				},
+				{
+					"verse": "Han perdido toda vergüenza,  se han entregado a la inmoralidad,  y no se sacian de cometer toda clase de actos indecentes.",
+					"number": 19,
+					"id": "066d2be9-1a02-4cf5-8cef-cba9cc1670b8"
+				},
+				{
+					"verse": "No fue ésta la enseñanza que ustedes recibieron acerca de Cristo,",
+					"number": 20,
+					"id": "242a10fc-74ba-4708-bb8a-fbf794d52fbb"
+				},
+				{
+					"verse": "si de veras se les habló y enseñó de Jesús según la verdad que está en él.",
+					"number": 21,
+					"id": "48cb3065-0a10-46be-9963-91fd2738afd0"
+				},
+				{
+					"verse": "Con respecto a la vida que antes llevaban,  se les enseñó que debían quitarse el ropaje de la vieja naturaleza,  la cual está corrompida por los deseos engañosos;",
+					"number": 22,
+					"id": "14c93785-cb06-4a9a-870d-85f34f9f7e31"
+				},
+				{
+					"verse": "ser renovados en la actitud de su mente;",
+					"number": 23,
+					"id": "1a8546ee-cb51-4267-b270-a42743e6f768"
+				},
+				{
+					"verse": "y ponerse el ropaje de la nueva naturaleza,  creada a imagen de Dios,  en verdadera justicia y santidad.",
+					"number": 24,
+					"id": "6a18d7f6-7a50-435b-a64d-d9afaf7fabb3"
+				},
+				{
+					"verse": "Por lo tanto,  dejando la mentira,  hable cada uno a su prójimo con la verdad,  porque todos somos miembros de un mismo cuerpo.",
+					"number": 25,
+					"id": "21d49718-9ae2-4fc0-890c-b8ddda5a469f"
+				},
+				{
+					"verse": "\"Si se enojan,  no pequen.\"* No dejen que el sol se ponga estando aún enojados,",
+					"number": 26,
+					"id": "7abca599-14c5-4ba6-8e4a-74052a960d74"
+				},
+				{
+					"verse": "ni den cabida al diablo.",
+					"number": 27,
+					"id": "b3e895ab-49ba-493d-874e-da2b26dfa59c"
+				},
+				{
+					"verse": "El que robaba,  que no robe más,  sino que trabaje honradamente con las manos para tener qué compartir con los necesitados.",
+					"number": 28,
+					"id": "f86e7979-4266-42a4-b4c7-bf92d3394933"
+				},
+				{
+					"verse": "Eviten toda conversación obscena.  Por el contrario,  que sus palabras contribuyan a la necesaria edificación y sean de bendición para quienes escuchan.",
+					"number": 29,
+					"id": "1417181c-a2e2-4705-9189-6caec82d67cf"
+				},
+				{
+					"verse": "No agravien al Espíritu Santo de Dios,  con el cual fueron sellados para el día de la redención.",
+					"number": 30,
+					"id": "bb98c142-e716-4f1f-abfa-bc63161a29db"
+				},
+				{
+					"verse": "Abandonen toda amargura,  ira y enojo,  gritos y calumnias,  y toda forma de malicia.",
+					"number": 31,
+					"id": "389dc03f-8644-4255-8f3d-a2ffbdf46ac2"
+				},
+				{
+					"verse": "Más bien,  sean bondadosos y compasivos unos con otros,  y perdónense mutuamente,  así como Dios los perdonó a ustedes en Cristo.",
+					"number": 32,
+					"id": "d4c49eec-a89e-47bc-971f-63d7157904cc"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Por tanto,  imiten a Dios,  como hijos muy amados,",
+					"number": 1,
+					"study": "Andad como hijos de luz",
+					"id": "cad75dc1-5c69-465c-85be-85e2a57a6ecc"
+				},
+				{
+					"verse": "y lleven una vida de amor,  así como Cristo nos amó y se entregó por nosotros como ofrenda y sacrificio fragante para Dios.",
+					"number": 2,
+					"id": "cef8abdb-db9f-4574-b030-fac20fe3ba6b"
+				},
+				{
+					"verse": "Entre ustedes ni siquiera debe mencionarse la inmoralidad sexual,  ni ninguna clase de impureza o de avaricia,  porque eso no es propio del pueblo santo de Dios.",
+					"number": 3,
+					"id": "636ab216-62e9-41c4-b4d0-4b02a88bbce3"
+				},
+				{
+					"verse": "Tampoco debe haber palabras indecentes,  conversaciones necias ni chistes groseros,  todo lo cual está fuera de lugar;  haya más bien acción de gracias.",
+					"number": 4,
+					"id": "e92ca5a7-a4cc-4df6-8ae5-9a836daab166"
+				},
+				{
+					"verse": "Porque pueden estar seguros de que nadie que sea avaro  (es decir,  idólatra),  inmoral o impuro tendrá herencia en el reino de Cristo y de Dios.*",
+					"number": 5,
+					"id": "d33f531b-9ab4-473f-8aa2-8aaad91b349a"
+				},
+				{
+					"verse": "Que nadie los engañe con argumentaciones vanas,  porque por esto viene el castigo de Dios sobre los que viven en la desobediencia.",
+					"number": 6,
+					"id": "5c67e996-46f6-4216-908f-c2ac911b226c"
+				},
+				{
+					"verse": "Así que no se hagan cómplices de ellos.",
+					"number": 7,
+					"id": "39c2cdf3-19d0-48f2-8b3c-0b1646b61623"
+				},
+				{
+					"verse": "Porque ustedes antes eran oscuridad,  pero ahora son luz en el Señor.  Vivan como hijos de luz",
+					"number": 8,
+					"id": "3c4cab21-dac7-4b0c-ae45-4d30860f4281"
+				},
+				{
+					"verse": "(el fruto de la luz consiste en toda bondad,  justicia y verdad)",
+					"number": 9,
+					"id": "b2911c22-8043-4693-b640-92c896b5eb75"
+				},
+				{
+					"verse": "y comprueben lo que agrada al Señor.",
+					"number": 10,
+					"id": "f18cc615-ec9b-4759-b610-e69f7fc3006a"
+				},
+				{
+					"verse": "No tengan nada que ver con las obras infructuosas de la oscuridad,  sino más bien denúncienlas,",
+					"number": 11,
+					"id": "e85574a9-c3cb-405d-9b96-8ef82d728dd0"
+				},
+				{
+					"verse": "porque da vergüenza aun mencionar lo que los desobedientes hacen en secreto.",
+					"number": 12,
+					"id": "3b858fd1-7b86-4804-a25e-4f4050cbcccf"
+				},
+				{
+					"verse": "Pero todo lo que la luz pone al descubierto se hace visible,",
+					"number": 13,
+					"id": "a347d577-8842-41cd-871f-d9ad05d84059"
+				},
+				{
+					"verse": "porque la luz es lo que hace que todo sea visible.  Por eso se dice:  \"Despiértate,  tú que duermes,  levántate de entre los muertos,  y te alumbrará Cristo.\"",
+					"number": 14,
+					"id": "74b0b5ac-3921-4934-86c9-538a0cc5f596"
+				},
+				{
+					"verse": "Así que tengan cuidado de su manera de vivir.  No vivan como necios sino como sabios,",
+					"number": 15,
+					"id": "60e3f3a7-d4c1-442e-a4a7-5fe1feff58e1"
+				},
+				{
+					"verse": "aprovechando al máximo cada momento oportuno,  porque los días son malos.",
+					"number": 16,
+					"id": "9c210497-b6d4-4b9d-9a7e-4b8b6a83be84"
+				},
+				{
+					"verse": "Por tanto,  no sean insensatos,  sino entiendan cuál es la voluntad del Señor.",
+					"number": 17,
+					"id": "61bfedee-1b11-4e99-9218-83e42c29f88c"
+				},
+				{
+					"verse": "No se emborrachen con vino,  que lleva al desenfreno.  Al contrario,  sean llenos del Espíritu.",
+					"number": 18,
+					"id": "fbf4aa7b-afae-480a-b7c9-f259af49a791"
+				},
+				{
+					"verse": "Anímense unos a otros con salmos,  himnos y canciones espirituales.  Canten y alaben al Señor con el corazón,",
+					"number": 19,
+					"id": "2a7f6940-2531-4c1e-901f-4dbdf7b56065"
+				},
+				{
+					"verse": "dando siempre gracias a Dios el Padre por todo,  en el nombre de nuestro Señor Jesucristo.",
+					"number": 20,
+					"id": "7b848938-e05d-4ea1-94a8-dee6e4991717"
+				},
+				{
+					"verse": "Sométanse unos a otros,  por reverencia a Cristo.",
+					"number": 21,
+					"study": "Someteos los unos a los otros",
+					"id": "f1fa924d-0820-4a27-9dde-9ef9dfc0d95c"
+				},
+				{
+					"verse": "Esposas,  sométanse a sus propios esposos como al Señor.",
+					"number": 22,
+					"id": "1e1a7d5c-7939-4243-ab8b-dd31b971f902"
+				},
+				{
+					"verse": "Porque el esposo es cabeza de su esposa,  así como Cristo es cabeza y salvador de la iglesia,  la cual es su cuerpo.",
+					"number": 23,
+					"id": "db3174fc-5a06-4e40-aed5-c7931cd5af54"
+				},
+				{
+					"verse": "Así como la iglesia se somete a Cristo,  también las esposas deben someterse a sus esposos en todo.",
+					"number": 24,
+					"id": "42fca998-a675-4cef-ac9e-14776a71c63a"
+				},
+				{
+					"verse": "Esposos,  amen a sus esposas,  así como Cristo amó a la iglesia y se entregó por ella",
+					"number": 25,
+					"id": "34f668cf-d4ab-4abc-974b-b9a49290a396"
+				},
+				{
+					"verse": "para hacerla santa.  Él la purificó,  lavándola con agua mediante la palabra,",
+					"number": 26,
+					"id": "c7863248-47c3-4484-81f2-79a27013b8da"
+				},
+				{
+					"verse": "para presentársela a sí mismo como una iglesia radiante,  sin mancha ni arruga ni ninguna otra imperfección,  sino santa e intachable.",
+					"number": 27,
+					"id": "724dae1b-1879-4cea-b380-88da02abfab0"
+				},
+				{
+					"verse": "Así mismo el esposo debe amar a su esposa como a su propio cuerpo.  El que ama a su esposa se ama a sí mismo,",
+					"number": 28,
+					"id": "aec58f2d-0268-440c-bc49-101452197e2d"
+				},
+				{
+					"verse": "pues nadie ha odiado jamás a su propio cuerpo;  al contrario,  lo alimenta y lo cuida,  así como Cristo hace con la iglesia,",
+					"number": 29,
+					"id": "a67fab43-54a0-494c-8630-d574a485d804"
+				},
+				{
+					"verse": "porque somos miembros de su cuerpo.",
+					"number": 30,
+					"id": "a1ec168d-954e-4160-901c-eee43d97ecaa"
+				},
+				{
+					"verse": "\"Por eso dejará el hombre a su padre y a su madre,  y se unirá a su esposa,  y los dos llegarán a ser un solo cuerpo.\"*",
+					"number": 31,
+					"id": "938dea34-56f2-4afe-9e83-d91011419f9a"
+				},
+				{
+					"verse": "Esto es un misterio profundo;  yo me refiero a Cristo y a la iglesia.",
+					"number": 32,
+					"id": "137207d5-7518-4261-9b3a-7880972e8fe4"
+				},
+				{
+					"verse": "En todo caso,  cada uno de ustedes ame también a su esposa como a sí mismo,  y que la esposa respete a su esposo.",
+					"number": 33,
+					"id": "95440224-8bed-428b-b661-c112b310d706"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Hijos,  obedezcan en el Señor a sus padres,  porque esto es justo.",
+					"number": 1,
+					"id": "fcad1fac-1f23-4acb-8d76-1a6ac79b21d6"
+				},
+				{
+					"verse": "\"Honra a tu padre y a tu madre --que es el primer mandamiento con promesa--",
+					"number": 2,
+					"id": "3f7bc98d-17fe-4355-b8c4-1218be460857"
+				},
+				{
+					"verse": "para que te vaya bien y disfrutes de larga vida en la tierra.\"*",
+					"number": 3,
+					"id": "c268beba-a2b8-410f-aa59-debc6dceaf47"
+				},
+				{
+					"verse": "Y ustedes,  padres,  no hagan enojar a sus hijos,  sino críenlos según la disciplina e instrucción del Señor.",
+					"number": 4,
+					"id": "fcd6be27-e1cd-474b-9b55-943c841640e7"
+				},
+				{
+					"verse": "Esclavos,  obedezcan a sus amos terrenales con respeto y temor,  y con integridad de corazón,  como a Cristo.",
+					"number": 5,
+					"id": "ce7049c9-3ba3-4af5-b54e-b49f06c2e5aa"
+				},
+				{
+					"verse": "No lo hagan sólo cuando los estén mirando,  como los que quieren ganarse el favor humano,  sino como esclavos de Cristo,  haciendo de todo corazón la voluntad de Dios.",
+					"number": 6,
+					"id": "d1631a6f-1833-4487-950f-444c11dd3bcd"
+				},
+				{
+					"verse": "Sirvan de buena gana,  como quien sirve al Señor y no a los hombres,",
+					"number": 7,
+					"id": "138e3790-fc06-478f-91e6-dcc1717e597c"
+				},
+				{
+					"verse": "sabiendo que el Señor recompensará a cada uno por el bien que haya hecho,  sea esclavo o sea libre.",
+					"number": 8,
+					"id": "127a6614-c053-4f0f-b9c8-519f88ca70d9"
+				},
+				{
+					"verse": "Y ustedes,  amos,  correspondan a esta actitud de sus esclavos,  dejando de amenazarlos.  Recuerden que tanto ellos como ustedes tienen un mismo Amo* en el cielo,  y que con él no hay favoritismos.",
+					"number": 9,
+					"id": "b10dc33c-ad19-4e24-b2bf-1386cba21b2d"
+				},
+				{
+					"verse": "Por último,  fortalézcanse con el gran poder del Señor.",
+					"number": 10,
+					"study": "La armadura de Dios",
+					"id": "1b988828-1195-4ae0-bbe4-ff78b34607f5"
+				},
+				{
+					"verse": "Pónganse toda la armadura de Dios para que puedan hacer frente a las artimañas del diablo.",
+					"number": 11,
+					"id": "436d0014-a6d2-4bb3-85aa-7bbbc71ee251"
+				},
+				{
+					"verse": "Porque nuestra lucha no es contra seres humanos,  sino contra poderes,  contra autoridades,  contra potestades que dominan este mundo de tinieblas,  contra fuerzas espirituales malignas en las regiones celestiales.",
+					"number": 12,
+					"id": "dbfe5e4a-b27f-4ffe-9de5-52a0e3bfadc7"
+				},
+				{
+					"verse": "Por lo tanto,  pónganse toda la armadura de Dios,  para que cuando llegue el día malo puedan resistir hasta el fin con firmeza.",
+					"number": 13,
+					"id": "b8c3a651-885e-4f4b-9b79-6a610820a3b6"
+				},
+				{
+					"verse": "Manténganse firmes,  ceñidos con el cinturón de la verdad,  protegidos por la coraza de justicia,",
+					"number": 14,
+					"id": "959b152c-b2e8-447b-a52a-27e46cae0f84"
+				},
+				{
+					"verse": "y calzados con la disposición de proclamar el evangelio de la paz.",
+					"number": 15,
+					"id": "135d8a34-b7df-46cd-9d85-407935330eec"
+				},
+				{
+					"verse": "Además de todo esto,  tomen el escudo de la fe,  con el cual pueden apagar todas las flechas encendidas del maligno.",
+					"number": 16,
+					"id": "a7755240-2588-46da-9056-5c6e7ec070b7"
+				},
+				{
+					"verse": "Tomen el casco de la salvación y la espada del Espíritu,  que es la palabra de Dios.",
+					"number": 17,
+					"id": "f88ba708-284c-4934-a824-75043ba3549d"
+				},
+				{
+					"verse": "Oren en el Espíritu en todo momento,  con peticiones y ruegos.  Manténganse alerta y perseveren en oración por todos los santos.",
+					"number": 18,
+					"id": "1fad9b86-401a-4e78-b2b4-be2e5c61f2e4"
+				},
+				{
+					"verse": "Oren también por mí para que,  cuando hable,  Dios me dé las palabras para dar a conocer con valor el misterio del evangelio,",
+					"number": 19,
+					"id": "d33f7afa-a800-4f4d-821e-e236d1cd4326"
+				},
+				{
+					"verse": "por el cual soy embajador en cadenas.  Oren para que lo proclame valerosamente,  como debo hacerlo.",
+					"number": 20,
+					"id": "fec53974-3e36-49bf-943b-e87c6df2c3a6"
+				},
+				{
+					"verse": "Nuestro querido hermano Tíquico,  fiel servidor en el Señor,  les contará todo,  para que también ustedes sepan cómo me va y qué estoy haciendo.",
+					"number": 21,
+					"study": "Salutaciones finales",
+					"id": "c64ce0e9-d6a6-4c59-9107-bc948a4d20fe"
+				},
+				{
+					"verse": "Lo envío a ustedes precisamente para que sepan cómo estamos y para que cobren ánimo.",
+					"number": 22,
+					"id": "e3312551-f9f5-48cf-b26a-5305a04b5b18"
+				},
+				{
+					"verse": "Que Dios el Padre y el Señor Jesucristo les concedan paz,  amor y fe a los hermanos.",
+					"number": 23,
+					"id": "cb0e382f-14cf-49d0-b7db-839882dc9279"
+				},
+				{
+					"verse": "La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor imperecedero.",
+					"number": 24,
+					"id": "548b1f4d-dcb8-478a-b4f2-42bc1f077a66"
+				}
+			]
+		}
+	],
+	"book_id": "6eaad0b5-a49b-4a0b-8e1c-fceeecd15c05"
+}

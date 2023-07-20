@@ -1,0 +1,260 @@
+{
+	"name": "Nahum",
+	"num_chapters": 3,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Profecía sobre Nínive. Libro de la visión de Nahúm de Elcos.",
+					"number": 1,
+					"study": "La ira vengadora de Dios",
+					"id": "b8e6aa4b-d1f8-4134-ba63-7c815ebdaa31"
+				},
+				{
+					"verse": "\"Jehová es Dios celoso y vengador; Jehová es vengador y está llenode indignación; se venga de sus adversarios y se enoja con sus enemigos.",
+					"number": 2,
+					"id": "788bfde3-0417-49b8-87d9-30d560729926"
+				},
+				{
+					"verse": "Jehová es tardo para la iray grande en poder, y no tendrá por inocente al culpable. Jehová marcha sobre la tempestady el torbellino, y las nubes son el polvo de sus pies.",
+					"number": 3,
+					"id": "0f97179f-f29d-4a79-93c1-73153f9ba4a0"
+				},
+				{
+					"verse": "Amenaza al mar y lo seca, y agota todos los ríos; el Basán y el Carmelo languidecen, y la flor del Líbano se marchita.",
+					"number": 4,
+					"id": "1c145c6c-dec8-4a38-8436-5704ec9c63d8"
+				},
+				{
+					"verse": "Ante él tiemblan los montes, y los collados se derriten. La tierra se conmueve en su presencia, el mundo y todos los que en él habitan.",
+					"number": 5,
+					"id": "deb8ae18-1356-4ee2-8b24-ac4350c6cba4"
+				},
+				{
+					"verse": "¿Quién puede resistir su ira? ¿Quién quedará en pie ante el ardor de su enojo? Su ira se derrama como fuego y ante él se quiebran las peñas.",
+					"number": 6,
+					"id": "57d4408a-f2fc-47cc-87a7-b41397fc7cd5"
+				},
+				{
+					"verse": "Jehová es bueno, fortaleza en el día de la angustia, y conoce a los que en él confían.",
+					"number": 7,
+					"id": "f28d1a25-3054-44cc-9925-8bd46b9ba6d3"
+				},
+				{
+					"verse": "Mas con inundación impetuosa consumirá a sus adversarios, y las tinieblas perseguirán a sus enemigos.",
+					"number": 8,
+					"id": "08d10270-9f60-4f7b-8864-f759f30024ec"
+				},
+				{
+					"verse": "¿Qué pensáis contra Jehová? ¡Él extermina por completo; no tomará venganza dos vecesde sus enemigos!",
+					"number": 9,
+					"id": "f7b42414-4295-4ed9-8bbd-dab1b6458f3c"
+				},
+				{
+					"verse": "Aunque sean como espinos entretejidos y estén empapados en su embriaguez, serán consumidos como hojarasca completamente seca.",
+					"number": 10,
+					"id": "d659f67c-30be-4938-b5ba-22ea801b3e53"
+				},
+				{
+					"verse": "\"De ti salió el que tramó el mal contra Jehová, un consejero perverso.",
+					"number": 11,
+					"id": "c63a6127-7c7e-4f2f-b96f-3183e9c62e66"
+				},
+				{
+					"verse": "\"Así ha dicho Jehová: \"Aunque tengan reposo y sean tantos, aun así serán talados, y él pasará. Bastante te he afligido; no te afligiré más,",
+					"number": 12,
+					"id": "8782d57d-0d8a-46a7-b941-8db1b15e0e3a"
+				},
+				{
+					"verse": "porque ahora quebraréel yugo que pesa sobre ti, y romperé tus cadenas\".",
+					"number": 13,
+					"id": "a8513078-79ed-4987-b358-feb9c3b06ea0"
+				},
+				{
+					"verse": "\"Pero acerca de ti mandará Jehová que no quede ni memoriade tu nombre: De la casa de tu dios destruiré escultura y estatua de fundición; allí pondré tu sepulcro, porque fuiste vil\".",
+					"number": 14,
+					"id": "42612635-8664-454e-b9b6-ba7700d40c0c"
+				},
+				{
+					"verse": "\"¡Mirad! Sobre los montes los pies del que trae buenas nuevas, del que anuncia la paz. Celebra, Judá, tus fiestas, cumple tus votos, porque nunca más te invadirá el malvado; ha sido destruido del todo.",
+					"number": 15,
+					"study": "Anuncio de la caída de Nínive",
+					"id": "1890554f-bd7c-49a8-8c24-3e345b1470a6"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "\"¡Un destructor avanza contra ti! ¡Monta guardia en la fortaleza! ¡Vigila el camino! ¡Cíñete la cintura! ¡Reúne todas tus fuerzas!",
+					"number": 1,
+					"id": "a19d6553-72bd-43e0-bf23-eae79d122a0c"
+				},
+				{
+					"verse": "Porque Jehová restaurarála gloria de Jacob, así como la gloria de Israel, porque saqueadores los saquearon y estropearon sus sarmientos.",
+					"number": 2,
+					"id": "feae5d2d-c491-4fbf-ac8c-8f2a98c64bcd"
+				},
+				{
+					"verse": "El escudo de sus valientes está enrojecido, los hombres de su ejércitovisten de grana, el carro flamea como fuego de antorchas; el día que se prepare, temblarán los cipreses.",
+					"number": 3,
+					"id": "fbc1278a-6221-4008-b785-d39ecdbaab47"
+				},
+				{
+					"verse": "Los carros se precipitan a las plazas, con estruendo ruedan por las calles; su aspecto es como de antorchasencendidas, corren como relámpagos.",
+					"number": 4,
+					"id": "08eaa2ea-55f3-464b-b549-aa39368da4d9"
+				},
+				{
+					"verse": "Se convoca a los valientes, se atropellan en su marcha, se apresuran hacia el muro donde se prepara la defensa.",
+					"number": 5,
+					"id": "fd495214-7377-4b35-8407-8e1dba030107"
+				},
+				{
+					"verse": "Las puertas de los ríos se abren y el palacio es destruido.",
+					"number": 6,
+					"id": "145b5426-a83a-40a4-80d6-14128d326ecd"
+				},
+				{
+					"verse": "Llevan cautiva a la reina, le ordenan que suba, y sus criadas la llevan gimiendo como palomas, golpeándose sus pechos.",
+					"number": 7,
+					"id": "69a95af5-74da-4ebd-a774-572f25bf3077"
+				},
+				{
+					"verse": "Nínive es como un estanque cuyas aguas se escapan. Gritan: \"¡Deteneos, deteneos!\", pero ninguno mira.",
+					"number": 8,
+					"id": "d8929972-210b-4381-8431-af03de3ed467"
+				},
+				{
+					"verse": "¡Saquead plata, saquead oro! ¡Hay riquezas sin fin, y toda clase de objetos suntuososy codiciables!",
+					"number": 9,
+					"id": "8b393029-a053-417c-a959-065e54580693"
+				},
+				{
+					"verse": "\"Vacía, agotada y desolada está, su corazón desfallece, le tiemblan las rodillas, tiene dolor en las entrañas; los rostros están demudados.",
+					"number": 10,
+					"id": "e11859dd-cccf-4415-b6eb-35ba8a74e9dd"
+				},
+				{
+					"verse": "¿Qué queda de la cueva de los leones y de la guarida de los cachorrosde los leones, donde se recogían el león y la leona, y los cachorros del león, y no había quien los espantara?",
+					"number": 11,
+					"id": "985cef0f-63e7-4ed3-a8e3-780ef81a3eb3"
+				},
+				{
+					"verse": "El león arrebataba en abundancia para sus cachorros, y despedazaba para sus leonas, llenaba de presas sus cavernas, y de robo sus guaridas\".",
+					"number": 12,
+					"id": "6b5ad938-7fcc-4a64-be88-3ccadb95ff6b"
+				},
+				{
+					"verse": "\"¡Aquí estoy contra ti!, dice Jehová de los ejércitos. Quemaré y reduciré a humo tus carros, y la espada devorará tus leoncillos; acabaré con el robo en tu tierra y nunca más se oirá la vozde tus mensajeros.",
+					"number": 13,
+					"study": "Destrucción total de Nínive",
+					"id": "665007d0-c221-4359-8b39-e92673ddd5e0"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "\"¡Ay de ti, ciudad sanguinaria, toda llena de mentira y de pillaje! ¡Tu rapiña no tiene fin!",
+					"number": 1,
+					"id": "807144a5-414a-4095-abd9-dce94b1677b9"
+				},
+				{
+					"verse": "Chasquido de látigo, estrépito de ruedas, caballos al galope, carros que saltan,",
+					"number": 2,
+					"id": "d7fdd6ac-11f9-40c7-8fe4-2b1cd8fd5df9"
+				},
+				{
+					"verse": "cargas de caballería, resplandor de espada y resplandor de lanza. ¡Multitud de heridos, multitud de cadáveres! ¡Cadáveres sin fin! La gente tropieza con ellos.",
+					"number": 3,
+					"id": "78d2b7dd-6d22-418a-ab4b-8abae6635001"
+				},
+				{
+					"verse": "Y todo por culpa de las fornicaciones de la ramera de hermosa gracia, maestra en hechizos, que seduce a las naciones con sus fornicaciones y a los pueblos con sus hechizos.",
+					"number": 4,
+					"id": "2748f2b2-1bd4-4999-be0d-c22f7c323ae5"
+				},
+				{
+					"verse": "\"¡Aquí estoy contra ti!, dice Jehová de los ejércitos. Te levantaré las faldas hasta el rostro y mostraré a las naciones tu desnudez, a los reinos tu verg@uenza.",
+					"number": 5,
+					"id": "57f2957d-94e5-471d-8db6-5fd780694503"
+				},
+				{
+					"verse": "Echaré sobre ti inmundicias, te avergonzaréy te pondré como estiércol.",
+					"number": 6,
+					"id": "5834b994-71b9-443a-9035-8decb77437f0"
+				},
+				{
+					"verse": "Todos los que te vean se apartarán de ti y dirán: \"¡Nínive ha quedado desolada! ¿Quién se compadecerá de ella? ¿Dónde te buscaré consoladores?\"",
+					"number": 7,
+					"id": "a65b4285-cf32-47ac-8202-75c3d2d1243b"
+				},
+				{
+					"verse": "¿Eres tú mejor que Tebas, que estaba asentada junto al Nilo, rodeada de aguas, cuyo baluarte era el mar y tenía aguas por muro?",
+					"number": 8,
+					"id": "05a3d1a7-3aff-4661-a55c-c917214c07dd"
+				},
+				{
+					"verse": "Etiopía y Egipto eran su fortaleza, y eso sin límite; Fut y Libia fueron sus aliados.",
+					"number": 9,
+					"id": "274ea377-6aa9-43e9-86fe-18d013cc182e"
+				},
+				{
+					"verse": "Sin embargo,ella fue llevada en cautiverio; también sus pequeños fueron estrellados en las encrucijadas de todas las calles; sobre sus nobles echaron suertes, y todos sus grandes fueron aprisionados con grillos.",
+					"number": 10,
+					"id": "611c9ee7-fbd4-41f1-b115-6283ae3668a3"
+				},
+				{
+					"verse": "Tú también serás embriagada y serás encerrada; tú también buscarás refugio a causa del enemigo.",
+					"number": 11,
+					"id": "af457c86-dbf3-4518-b7d8-8d4a2868ef1e"
+				},
+				{
+					"verse": "Todas tus fortalezas serán cual higueras cargadas de brevas, que, si las sacuden, caen en la boca del que las ha de comer.",
+					"number": 12,
+					"id": "9f12549d-f577-407b-929b-6c60d504dc03"
+				},
+				{
+					"verse": "Tus tropas, dentro de ti,son como mujeres. Las puertas de tu tierra se abrirán de par en par a tus enemigos y el fuego consumirá tus cerrojos.",
+					"number": 13,
+					"id": "88fdae97-cdb5-4672-999a-28a3f68e6dc6"
+				},
+				{
+					"verse": "Provéete de agua para el asedio, refuerza tus fortalezas, entra en el lodo y pisa el barro, y refuerza el horno.",
+					"number": 14,
+					"id": "f858a30b-7a9e-4faa-a3c1-fe5b7e6ccd78"
+				},
+				{
+					"verse": "Allí te consumirá el fuego, te talará la espada, te devorará como el pulgón. ¡Multiplícate como la langosta! ¡Multiplícate como el saltamontes!",
+					"number": 15,
+					"id": "9e3d8f49-937c-4312-a963-cd12751ed67a"
+				},
+				{
+					"verse": "Multiplicaste tus mercaderes más que las estrellas del cielo; la langosta hace presa y vuela.",
+					"number": 16,
+					"id": "a2e05ec8-3ec9-4318-b447-af0126901ff6"
+				},
+				{
+					"verse": "Tus príncipes serán como langostas y tus grandes como nubes de langostas que se posan sobre las cercas en los días de frío; al salir el sol se van, sin que nadie sepa a dónde.",
+					"number": 17,
+					"id": "c318aa79-f30d-4a0a-a141-70542c6a684f"
+				},
+				{
+					"verse": "\"¡Se han dormido tus pastores, rey de Asiria! Reposan tus valientes, tu ejército se dispersó por los montes y no hay quien lo junte.",
+					"number": 18,
+					"id": "57116db4-5dfe-4822-8dde-aa0c5f76c709"
+				},
+				{
+					"verse": "¡No hay medicina para tu quebradura, tu herida es incurable! Todos los que oyen acerca de ti aplauden tu ruina, porque ¿sobre quién no ha pasadosin tregua tu maldad?\"",
+					"number": 19,
+					"id": "6bd304a0-5ec3-4c73-bd28-f65497085fe1"
+				}
+			]
+		}
+	],
+	"book_id": "906cfc4c-0331-4509-97e1-6875bb94a195"
+}

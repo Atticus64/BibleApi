@@ -1,0 +1,3614 @@
+{
+	"name": "2-Samuel",
+	"num_chapters": 24,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Después de la muerte de Saúl, David volvió a Siclag tras haber derrotado a los amalecitas, y allí se quedó dos días.",
+					"number": 1,
+					"study": "David oye de la muerte de Saúl",
+					"id": "a072c21d-796f-464c-96df-2cfb2b261a5c"
+				},
+				{
+					"verse": "Pero al tercer día llegó del campamento de Saúl un hombre que traía la ropa rasgada y la cabeza cubierta de tierra en señal de dolor. Cuando llegó ante David, se inclinó hasta el suelo en señal de reverencia.",
+					"number": 2,
+					"id": "df58e8c3-48d1-48ac-a53f-dcbabe507b5d"
+				},
+				{
+					"verse": "David le preguntó:\n—¿De dónde vienes?\n—He logrado escapar del campamento israelita —respondió aquel hombre.",
+					"number": 3,
+					"id": "329ede3c-f3da-4a9d-806b-f82af465180a"
+				},
+				{
+					"verse": "—¿Pues qué ha ocurrido? ¡Dímelo, por favor! —exigió David.\n—Pues que el ejército huyó del combate, y que muchos de ellos murieron —contestó aquel hombre—. ¡Y también murieron Saúl y su hijo Jonatán!",
+					"number": 4,
+					"id": "fc2b840f-1afc-46c6-ac07-fc25ce4f6672"
+				},
+				{
+					"verse": "—¿Y cómo sabes que Saúl y su hijo Jonatán han muerto? —preguntó David al criado que le había traído la noticia.",
+					"number": 5,
+					"id": "2eea9e5c-d7b8-48e8-8824-9a5da908c4fb"
+				},
+				{
+					"verse": "Éste respondió:\n—Pues de pura casualidad estaba yo en el monte Guilboa, y vi a Saúl apoyándose en su lanza y a los carros de combate y la caballería enemiga a punto de alcanzarlo.",
+					"number": 6,
+					"id": "aeec179c-1eab-41a7-a7d9-ee3f3ec5ed65"
+				},
+				{
+					"verse": "En ese momento él miró hacia atrás, y al verme me llamó. Yo me puse a sus órdenes.",
+					"number": 7,
+					"id": "4a164973-66b0-4ade-bac1-3b04b0538794"
+				},
+				{
+					"verse": "Luego me preguntó quién era yo, y yo le respondí que era amalecita.",
+					"number": 8,
+					"id": "d1a173c0-6bf5-424e-8e60-c97ea42e44af"
+				},
+				{
+					"verse": "Entonces me pidió que me acercara a él y lo matara de una vez, porque ya había entrado en agonía y, sin embargo, todavía estaba vivo.",
+					"number": 9,
+					"id": "bdf71c4f-6b77-4755-86af-b88da3e423fb"
+				},
+				{
+					"verse": "Así que me acerqué a él y lo maté, porque me di cuenta de que no podría vivir después de su caída. Luego le quité la corona de su cabeza y el brazalete que tenía en el brazo, para traérselos a usted, mi señor.",
+					"number": 10,
+					"id": "c7cfaec2-bc92-4089-90a5-ef1acb28d2f9"
+				},
+				{
+					"verse": "Entonces David y los que lo acompañaban se rasgaron la ropa en señal de dolor,",
+					"number": 11,
+					"id": "173533c4-196b-494c-a42d-47d4ccc87f1d"
+				},
+				{
+					"verse": "y lloraron y lamentaron la muerte de Saúl y de su hijo Jonatán, lo mismo que la derrota que habían sufrido los israelitas, el ejército del Señor, y ayunaron hasta el atardecer.",
+					"number": 12,
+					"id": "2bc1edb5-0f81-4974-963a-c4249df2470b"
+				},
+				{
+					"verse": "Después David le preguntó al joven que le había traído la noticia:\n—¿Tú de dónde eres?\n—Soy extranjero, un amalecita —contestó él.",
+					"number": 13,
+					"id": "8fc72280-0b68-4f65-9458-8c5a3d35d028"
+				},
+				{
+					"verse": "—¿Y cómo es que te atreviste a levantar tu mano contra el rey escogido por el Señor? —exclamó David,",
+					"number": 14,
+					"id": "d35cdb4e-d46f-4c37-93ca-c1b07c583eac"
+				},
+				{
+					"verse": "y llamando a uno de sus hombres, le ordenó:\n—¡Anda, mátalo!\nY él hirió mortalmente al amalecita y lo mató,",
+					"number": 15,
+					"id": "981915be-f439-4446-b68a-5aa2b1c7d33d"
+				},
+				{
+					"verse": "mientras David decía:\n—Tú eres responsable de tu propia muerte, pues tú mismo te declaraste culpable al confesar que habías matado al rey escogido por el Señor.",
+					"number": 16,
+					"id": "2bd9db77-5ef9-4adf-a6a4-5d7c94b34da7"
+				},
+				{
+					"verse": "David entonó este lamento por la muerte de Saúl y de su hijo Jonatán,",
+					"number": 17,
+					"study": "David endecha a Saúl y a Jonatán",
+					"id": "34a5a4ca-da3a-4364-a241-2bd8d0407cd2"
+				},
+				{
+					"verse": "y ordenó que se le enseñara a la gente de Judá. Este lamento se halla escrito en el Libro del Justo:",
+					"number": 18,
+					"id": "8f24d36f-94a4-4948-bd2d-78ff37cdb5cc"
+				},
+				{
+					"verse": "«¡Oh, Israel,\nherida fue tu gloria en tus montañas!\n¡Cómo han caído los valientes!",
+					"number": 19,
+					"id": "ff0d147b-55d6-4af4-a8ec-38c6f984f7fa"
+				},
+				{
+					"verse": "No lo anuncien en Gat\nni lo cuenten en las calles de Ascalón,\npara que no se alegren las mujeres filisteas,\npara que no salten de gozo esas paganas.",
+					"number": 20,
+					"id": "abdc993d-5a3f-45e8-8d49-2e7a10b69c84"
+				},
+				{
+					"verse": "»¡Que no caiga más sobre ustedes\nlluvia ni rocío, montes de Guilboa,\npues son campos de muerte!\nAllí fueron pisoteados\nlos escudos de los héroes.\nAllí perdió su brillo\nel escudo de Saúl.",
+					"number": 21,
+					"id": "57be0719-db4e-4f5c-abf6-ffc918968705"
+				},
+				{
+					"verse": "»Jamás Saúl y Jonatán volvieron\nsin haber empapado espada y flechas\nen la sangre y la grasa\nde los guerreros más valientes.",
+					"number": 22,
+					"id": "643b4071-b05d-4326-b64c-08a90e9b4845"
+				},
+				{
+					"verse": "»Saúl y Jonatán, amados y queridos,\nni en su vida ni en su muerte\nestuvieron separados.\n¡Más veloces eran que las águilas!\n¡Más fuertes que los leones!",
+					"number": 23,
+					"id": "f8230949-7291-4abd-b5e5-6ad87c291815"
+				},
+				{
+					"verse": "»¡Hijas de Israel, lloren por Saúl,\nque las vestía de púrpura y lino fino,\nque las adornaba con brocados de oro!",
+					"number": 24,
+					"id": "b3590dd8-dab4-4293-8e07-05ef037d0bbb"
+				},
+				{
+					"verse": "¡Cómo han caído los valientes\nen el campo de batalla!\n¡Jonatán ha sido muerto\nen lo alto de tus montes!",
+					"number": 25,
+					"id": "0b727383-aff3-4e7e-b38c-014644841fc8"
+				},
+				{
+					"verse": "»¡Angustiado estoy por ti,\nJonatán, hermano mío!\n¡Con cuánta dulzura me trataste!\nPara mí tu cariño superó\nal amor de las mujeres.",
+					"number": 26,
+					"id": "4ea34012-05f8-418c-9e78-95faf2f24299"
+				},
+				{
+					"verse": "¡Cómo han caído los valientes!\n¡Las armas han sido destruidas!»",
+					"number": 27,
+					"id": "b17f1f99-dc93-4d5d-ba7b-82afcef173c2"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Después de esto, David consultó al Señor y le dijo:\n—¿Debo ir a alguna de las ciudades de Judá?\nEl Señor le contestó:\n—Sí, debes ir.\nEntonces David preguntó:\n—¿A dónde debo ir?\nY el Señor respondió:\n—A Hebrón.",
+					"number": 1,
+					"study": "David es proclamado rey de Judá",
+					"id": "b2ec4b91-eedc-4a12-8eb0-649332a934ab"
+				},
+				{
+					"verse": "David fue allá con sus dos mujeres: Ahinóam, la del pueblo de Jezreel, y Abigail, la viuda de Nabal, el de Carmel.",
+					"number": 2,
+					"id": "72573399-159c-4a95-b256-618b405ae311"
+				},
+				{
+					"verse": "También se llevó a sus compañeros, con sus respectivas familias, y se establecieron en las ciudades de Hebrón.",
+					"number": 3,
+					"id": "4c8c5f3a-8517-42f4-aba9-cc90190e969c"
+				},
+				{
+					"verse": "Llegaron después los hombres de Judá, y consagraron allí a David como rey de Judá.\nCuando le contaron a David que los de Jabés de Galaad eran los que habían enterrado a Saúl,",
+					"number": 4,
+					"id": "02bc2d46-9b3f-43a7-b3ba-0aba3b3f2791"
+				},
+				{
+					"verse": "envió David unos mensajeros a decirles: «Que el Señor los bendiga por tratar con tanta bondad a Saúl, su señor, dándole sepultura.",
+					"number": 5,
+					"id": "4169ddd7-dedb-4d8b-8484-3b047969e9b4"
+				},
+				{
+					"verse": "Y que el Señor los trate a ustedes con bondad y fidelidad. Yo, por mi parte, los trataré bien a ustedes por esto que han hecho.",
+					"number": 6,
+					"id": "760c4ea9-a6b0-445c-bcc6-5788e6ff7995"
+				},
+				{
+					"verse": "Pero ahora, cobren ustedes ánimo y valor, pues aunque ha muerto Saúl, su señor, la tribu de Judá me ha consagrado para que yo sea su rey.»",
+					"number": 7,
+					"id": "5667d18c-2261-4478-8a1b-2f2dd3bb429e"
+				},
+				{
+					"verse": "Pero Abner, hijo de Ner, jefe del ejército de Saúl, tomó a Is-bóset, el hijo de Saúl, y lo llevó a Mahanaim,",
+					"number": 8,
+					"study": "Guerra entre David y la casa de Saúl",
+					"id": "ea90d318-3d4f-4862-b62c-0aa609f5be50"
+				},
+				{
+					"verse": "donde lo consagró como rey de Galaad, de Guesurí, de Jezreel, de Efraín, de Benjamín y de todo Israel.",
+					"number": 9,
+					"id": "6f5d98e7-966b-4281-b7cd-773ed940d210"
+				},
+				{
+					"verse": "Cuando Is-bóset comenzó a reinar en Israel, tenía cuarenta años, y reinó durante dos años. Pero la tribu de Judá reconocía como rey a David,",
+					"number": 10,
+					"id": "8f6392e2-e5bc-4a8f-b5b4-d60e0f66d2bb"
+				},
+				{
+					"verse": "así que David fue rey de Judá durante siete años y seis meses, y la capital de su reino fue Hebrón.",
+					"number": 11,
+					"id": "f8fc037e-9e02-49f1-a541-f4133b89ebfa"
+				},
+				{
+					"verse": "Abner salió entonces de Mahanaim a Gabaón, al frente de las tropas de Is-bóset.",
+					"number": 12,
+					"id": "1afeee2e-e278-413d-a3ce-fc3836bb867c"
+				},
+				{
+					"verse": "Por su parte Joab, hijo de Seruiá, y las tropas de David, salieron de Hebrón y se encontraron con ellos junto al depósito de agua de Gabaón. Los dos ejércitos tomaron posiciones, unos a un lado del depósito y otros al lado opuesto.",
+					"number": 13,
+					"id": "bbaa4caf-f007-4439-a04a-1c7b781eb803"
+				},
+				{
+					"verse": "Entonces Abner le propuso a Joab:\n—Que salgan a luchar los jóvenes delante de todos nosotros.\n—De acuerdo —contestó Joab.",
+					"number": 14,
+					"id": "331e0ba1-bec2-4402-8e8d-99f8d5491171"
+				},
+				{
+					"verse": "Así pues, para luchar por parte de Benjamín y de Is-bóset, hijo de Saúl, pasaron al frente doce jóvenes soldados, y otros doce por parte de las tropas de David.",
+					"number": 15,
+					"id": "582b7c89-c689-4b42-9c67-b5b217a59927"
+				},
+				{
+					"verse": "Cada cual agarró a su contrario por la cabeza y le clavó la espada en el costado, de modo que cayeron todos muertos a la vez. Por eso aquel lugar, que está en Gabaón, fue llamado Helcat-hasurim.",
+					"number": 16,
+					"id": "ead1824a-66fd-4c93-82c8-1ab107fbfd5b"
+				},
+				{
+					"verse": "El combate fue muy duro aquel día, y Abner y las tropas de Israel fueron derrotados por los soldados de David.",
+					"number": 17,
+					"id": "d44a370e-d5df-491e-9854-00e5fb937a5a"
+				},
+				{
+					"verse": "Allí estaban los tres hijos de Seruiá: Joab, Abisai y Asael. Este último corría veloz, como un ciervo a campo abierto,",
+					"number": 18,
+					"id": "201a61ac-13da-4086-9015-0d8ad65364c2"
+				},
+				{
+					"verse": "y se lanzó en persecución de Abner sin darle ninguna oportunidad de escapar.",
+					"number": 19,
+					"id": "5f72e438-b1fb-4442-8c26-773954f0aaac"
+				},
+				{
+					"verse": "Y cuando Abner miró hacia atrás, exclamó:\n—¡Pero si eres tú, Asael!\n—¡Claro que soy yo! —respondió él.",
+					"number": 20,
+					"id": "5ba9a66b-ab43-46a1-9ccd-f086fdebab52"
+				},
+				{
+					"verse": "Entonces Abner le dijo:\n—Deja ya de perseguirme. Mejor agarra a alguno de los criados y quédate con todo lo que lleva encima.\nPero como Asael no quiso dejar de perseguirlo,",
+					"number": 21,
+					"id": "d8ec2a31-bb8f-48e8-b691-489e3a75fdba"
+				},
+				{
+					"verse": "Abner volvió a decirle:\n—¡Deja ya de perseguirme, o me veré obligado a derribarte por tierra! Y luego, ¿con qué cara voy a presentarme ante tu hermano Joab?",
+					"number": 22,
+					"id": "43446c06-23ae-41ad-bfef-5b2174e5ca33"
+				},
+				{
+					"verse": "Como Asael no quiso apartarse, Abner le clavó en el vientre la punta posterior de su lanza, la cual le salió por la espalda, y Asael cayó muerto allí mismo. Y todos los que llegaban al sitio donde había caído muerto Asael, se paraban a verlo.",
+					"number": 23,
+					"id": "060c2835-363e-475b-8ac1-c181711d591b"
+				},
+				{
+					"verse": "Pero Joab y Abisai siguieron persiguiendo a Abner. A la puesta del sol llegaron a la colina de Amá, que está frente a Guíah, en el camino al desierto de Gabaón.",
+					"number": 24,
+					"id": "ea46817a-10e0-4c67-a7f8-54665262f7f5"
+				},
+				{
+					"verse": "Allí los benjaminitas se reunieron con Abner, y formando un solo ejército tomaron posiciones en la cumbre de un cerro.",
+					"number": 25,
+					"id": "d3f65cc6-9370-49e0-8528-bd0ab3dcdd9a"
+				},
+				{
+					"verse": "Entonces Abner le gritó a Joab:\n—¿No va a tener fin esta matanza? ¿No te das cuenta de que esto sólo nos traerá amargura? ¿Cuándo vas a ordenar a tu gente que deje de perseguir a sus hermanos?",
+					"number": 26,
+					"id": "80f5ca04-4e0f-47ac-a7d6-dc9834cc9312"
+				},
+				{
+					"verse": "Y Joab contestó:\n—Te juro por Dios que si no hubieras dicho esto, mi gente habría seguido persiguiendo a sus hermanos hasta el amanecer.",
+					"number": 27,
+					"id": "72b6937c-ffaa-4bbf-9f9a-d23afc4eacec"
+				},
+				{
+					"verse": "En seguida Joab ordenó que tocaran las trompetas, y toda la gente se detuvo, dejando de perseguir a los israelitas y de luchar contra ellos.",
+					"number": 28,
+					"id": "28b0865a-e319-4164-857e-14fd8132e531"
+				},
+				{
+					"verse": "Abner y sus hombres caminaron por la llanura de Arabá toda aquella noche, y cortando camino a través del Jordán y de todo Bitrón, llegaron a Mahanaim.",
+					"number": 29,
+					"id": "38812252-715e-4c02-815b-725199833d0e"
+				},
+				{
+					"verse": "Joab dejó de perseguir a Abner y reunió todas sus tropas, y al pasar lista resultó que habían muerto diecinueve oficiales de David, además de Asael.",
+					"number": 30,
+					"id": "8289c033-ac09-44e9-8de0-6c49d508f4b7"
+				},
+				{
+					"verse": "Sin embargo, los seguidores de David habían matado a trescientos sesenta hombres de Benjamín y de Abner.",
+					"number": 31,
+					"id": "bca88dec-a557-4901-81d9-d6447593c3ed"
+				},
+				{
+					"verse": "Más tarde, el cuerpo de Asael fue llevado a Belén y enterrado allí, en el sepulcro de su padre. Joab y sus hombres caminaron toda aquella noche, y al amanecer estaban en Hebrón.",
+					"number": 32,
+					"id": "fd6c3618-e1be-42b7-836e-918cef013df2"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "La guerra entre la casa de Saúl y la casa de David fue larga, pero mientras que la de David iba haciéndose más y más fuerte, la de Saúl se iba debilitando.",
+					"number": 1,
+					"id": "74ffb49d-d4b2-4b15-9d51-82ea7a388376"
+				},
+				{
+					"verse": "Los hijos que le nacieron a David cuando estaba en Hebrón, fueron: el mayor, Amnón, hijo de Ahinóam, la de Jezreel;",
+					"number": 2,
+					"study": "Hijos de David nacidos en Hebrón",
+					"id": "394f4cac-c180-49cd-9592-83e5fcc5b037"
+				},
+				{
+					"verse": "el segundo, Quilab, hijo de Abigail, la viuda de Nabal, el de Carmel; el tercero, Absalón, hijo de Maacá, la hija de Talmai, rey de Guesur;",
+					"number": 3,
+					"id": "9a607f14-cbb9-4eec-846a-696bf3e3986c"
+				},
+				{
+					"verse": "el cuarto, Adonías, hijo de Haguit; el quinto, Sefatías, hijo de Abital;",
+					"number": 4,
+					"id": "b9114f15-ed76-41d3-9f3e-3e58b4ac0f9b"
+				},
+				{
+					"verse": "el sexto, Itream, hijo de Eglá, otra mujer de David. Éstos nacieron cuando David estaba en Hebrón.",
+					"number": 5,
+					"id": "6a9db6b5-00c6-47cf-97a8-5f017892d804"
+				},
+				{
+					"verse": "Mientras continuaba la guerra entre la casa de Saúl y la casa de David, Abner adquiría cada vez más poder sobre la casa de Saúl.",
+					"number": 6,
+					"study": "Abner pacta con David en Hebrón",
+					"id": "0714e888-a9b0-41b0-8e17-ee3d6b47dee1"
+				},
+				{
+					"verse": "Saúl había tenido una concubina llamada Rispá, hija de Aiá, con la que Abner tuvo relaciones. Por lo tanto, Is-bóset le reclamó a Abner:\n—¿Por qué te acostaste con la concubina de mi padre?",
+					"number": 7,
+					"id": "b5e962c2-61fc-4c20-8289-49356e4b9f98"
+				},
+				{
+					"verse": "Abner se enojó mucho por la reclamación de Is-bóset, y le contestó:\n—¿Acaso soy un perro al servicio de Judá? Yo he sido fiel a la casa de Saúl, tu padre, y a sus parientes y amigos, y no te he entregado en manos de David. ¿Y tú me acusas ahora de haber pecado con una mujer?",
+					"number": 8,
+					"id": "81be8b61-272f-43bf-b784-5a95761161ab"
+				},
+				{
+					"verse": "¡Que el Señor me castigue duramente si no hago con David lo que el Señor le ha prometido,",
+					"number": 9,
+					"id": "0ec94edb-809d-46ed-b00c-3629368f9964"
+				},
+				{
+					"verse": "quitando del trono a la dinastía de Saúl, y estableciendo a David en el trono de Israel y de Judá, desde Dan hasta Beerseba!",
+					"number": 10,
+					"id": "a0dca33f-c1a9-4107-9355-b538677c4c2e"
+				},
+				{
+					"verse": "Is-bóset no pudo responderle a Abner una sola palabra, porque le tenía miedo.",
+					"number": 11,
+					"id": "2080ba52-5877-4e23-bc8f-3529cf933827"
+				},
+				{
+					"verse": "Abner, por su parte, envió mensajeros a decirle a David: «¿De quién es el país? Hagamos un trato: yo haré cuanto esté a mi alcance para que todo Israel se ponga de tu parte.»",
+					"number": 12,
+					"id": "19ff3347-9be5-4bd1-a5d3-0861b78b4cef"
+				},
+				{
+					"verse": "David le contestó: «Estoy de acuerdo en hacer un pacto contigo, pero con una condición: que no te presentes ante mí sin traer contigo, cuando vengas a verme, a Mical, la hija de Saúl.»",
+					"number": 13,
+					"id": "edccaaf7-1587-43c9-9675-b44090eb754a"
+				},
+				{
+					"verse": "Además, David envió mensajeros a Is-bóset, diciéndole: «Entrégame a Mical, mi mujer, con la que me casé a cambio de cien prepucios de filisteos.»",
+					"number": 14,
+					"id": "ea980509-fdbd-4020-98e3-9b2f42b7312d"
+				},
+				{
+					"verse": "Entonces Is-bóset mandó que se la quitaran a Paltiel, hijo de Lais, que era su marido;",
+					"number": 15,
+					"id": "0d9c1b13-a160-4097-8d71-896ff110221c"
+				},
+				{
+					"verse": "pero Paltiel se fue detrás de ella, llorando, y la siguió hasta Bahurim. Allí Abner le ordenó que regresara, y Paltiel regresó.",
+					"number": 16,
+					"id": "3ccdab32-c675-432e-b672-472ccab1cebb"
+				},
+				{
+					"verse": "Más tarde Abner habló con los ancianos de Israel, y les dijo: «Ya hace tiempo que ustedes andan buscando que David sea su rey.",
+					"number": 17,
+					"id": "e615baf4-ac8c-4023-818a-12e05441bf27"
+				},
+				{
+					"verse": "Pues bien, ha llegado el momento de actuar, porque el Señor ha prometido a David, su siervo, que por medio de él librará a Israel, su nación, del dominio de los filisteos y del poder de todos sus enemigos.»",
+					"number": 18,
+					"id": "784ec4c8-c879-4722-8356-e4b37540b32e"
+				},
+				{
+					"verse": "Abner habló también con la gente de Benjamín, y después fue a Hebrón para comunicarle a David el parecer de Israel y de toda la tribu de Benjamín.",
+					"number": 19,
+					"id": "03655d64-6bba-4011-b9ef-b52c9f96daa4"
+				},
+				{
+					"verse": "Llegó con veinte hombres a Hebrón, donde estaba David, y David hizo un banquete para él y los que le acompañaban.",
+					"number": 20,
+					"id": "bfa63a5f-e106-4cc1-98e4-46c30f803696"
+				},
+				{
+					"verse": "Luego Abner le dijo a David:\n—Ahora debo irme para reunir a todo Israel, para que hagan un pacto con Su Majestad, y que así Su Majestad reine conforme a sus deseos.\nY David despidió a Abner, el cual se fue tranquilamente.",
+					"number": 21,
+					"id": "c4aa006e-1899-4f0f-afe6-5b754c545957"
+				},
+				{
+					"verse": "Joab y los seguidores de David llegaron en ese momento de una de sus correrías, trayendo consigo gran cantidad de cosas que le habían quitado al enemigo. Abner no estaba ya con David en Hebrón, pues se había ido tranquilamente después que David lo despidió.",
+					"number": 22,
+					"study": "Joab mata a Abner",
+					"id": "8b71d8c7-416e-4b48-ad3d-609867496bb6"
+				},
+				{
+					"verse": "Al llegar Joab con todo el ejército que le acompañaba, le contaron que Abner, hijo de Ner, había estado antes con el rey, y que se había ido después que el rey lo despidió.",
+					"number": 23,
+					"id": "e91007ea-4764-4541-9eeb-09aafb7e1f8f"
+				},
+				{
+					"verse": "Entonces Joab fue a ver al rey, y le dijo:\n—¿Qué es lo que ha hecho Su Majestad? Abner ha venido a ver a Su Majestad, y Su Majestad ha dejado que se vaya.",
+					"number": 24,
+					"id": "5d8a9e30-ba00-4087-ba66-33d530220381"
+				},
+				{
+					"verse": "¿Acaso no sabe Su Majestad que Abner, hijo de Ner, ha venido sólo a engañarle, y a espiar sus movimientos, y a enterarse de todo lo que Su Majestad hace?",
+					"number": 25,
+					"id": "b9100622-d109-4e1f-80c3-281a0ea9fd68"
+				},
+				{
+					"verse": "En cuanto Joab salió de hablar con David, envió mensajeros en busca de Abner, sin que David lo supiera, y éstos lo hicieron volver desde el pozo de Sirá.",
+					"number": 26,
+					"id": "7a491394-5106-4be6-97fe-45e532fc47e8"
+				},
+				{
+					"verse": "Cuando Abner llegó a Hebrón, Joab lo llevó a un lado de la puerta de la ciudad, para hablar con él a solas, y allí lo hirió de muerte en el vientre, para vengar la muerte de su hermano Asael.",
+					"number": 27,
+					"id": "91f46e25-7c7c-4a08-b80f-eca04bda0ee3"
+				},
+				{
+					"verse": "Más tarde, cuando David lo supo, dijo: «Ante el Señor, yo y mi reino somos completamente inocentes del asesinato de Abner, hijo de Ner.",
+					"number": 28,
+					"id": "774de033-48b8-4bf3-ada7-6d2ec3e71afc"
+				},
+				{
+					"verse": "¡Que caiga la culpa sobre la cabeza de Joab y sobre toda su familia, y que nunca falte en su casa quien sufra de flujo, lepra o cojera, ni quien sea asesinado o padezca hambre!»",
+					"number": 29,
+					"id": "0b84c06b-3187-4f3d-9db7-af6844e93589"
+				},
+				{
+					"verse": "Joab y Abisai mataron a Abner porque en la batalla de Gabaón Abner había matado al hermano de ellos.",
+					"number": 30,
+					"id": "2ce0880c-a5fe-4869-8e38-0a436fea9d1a"
+				},
+				{
+					"verse": "Después David ordenó a Joab y a todo el grupo que le acompañaba: «Rásguense la ropa y vístanse con ropas ásperas, y guarden luto por la muerte de Abner.» El rey David marchó detrás de la camilla,",
+					"number": 31,
+					"id": "52abfffd-6754-458e-ae0d-c874b124c35f"
+				},
+				{
+					"verse": "y enterraron a Abner en Hebrón. Allí el rey se puso a llorar a voz en cuello junto al sepulcro de Abner, y lo mismo hizo toda la gente.",
+					"number": 32,
+					"id": "c6c6ad7f-ba5b-428d-a1a1-a17935ec36f2"
+				},
+				{
+					"verse": "Entonces el rey entonó este lamento por Abner:\n«¿Por qué tenías que morir, Abner,\nde manera tan absurda,",
+					"number": 33,
+					"id": "ff28b511-6de5-4a57-b2ac-800b4db01d08"
+				},
+				{
+					"verse": "si no tenías atadas las manos\nni encadenados los pies?\n¡Has muerto como quien muere\na manos de gente malvada!»\nTambién la gente siguió llorando por él.",
+					"number": 34,
+					"id": "d4fddff0-3f3e-4acc-a843-880553b00370"
+				},
+				{
+					"verse": "Luego fueron a rogarle a David que comiera algo antes de que terminara el día, pero David juró, diciendo:\n—¡Que Dios me castigue duramente, si pruebo pan o alguna otra cosa antes de que se ponga el sol!",
+					"number": 35,
+					"id": "ef61715c-57c2-4376-970d-cff253411bcf"
+				},
+				{
+					"verse": "Todos comprendieron esto y les pareció bien, pues todo lo que el rey hacía agradaba a la gente.",
+					"number": 36,
+					"id": "8ba32f3c-0bc8-46e5-b5a2-0b9e0fe652b9"
+				},
+				{
+					"verse": "Aquel día todos los israelitas quedaron convencidos de que el rey no había tenido nada que ver con la muerte de Abner, hijo de Ner.",
+					"number": 37,
+					"id": "56887565-26aa-441f-aa6b-b2d9845fa971"
+				},
+				{
+					"verse": "Luego el rey dijo a sus oficiales:\n—Como ustedes saben, hoy ha caído en Israel un jefe principal, una gran personalidad.",
+					"number": 38,
+					"id": "af7a0017-8d5c-4a78-8c28-03b1bfaecd03"
+				},
+				{
+					"verse": "Por eso yo, a pesar de ser el rey que Dios ha escogido, me siento débil ante la extremada violencia de los hijos de Seruiá. ¡Que el Señor le dé su merecido a quien cometió esta maldad!",
+					"number": 39,
+					"id": "81aeadb1-c6fa-4553-803a-abc86482bbd9"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Cuando Is-bóset, hijo de Saúl, supo que Abner había muerto en Hebrón, perdió el ánimo por completo, y todos en Israel se llenaron de miedo.",
+					"number": 1,
+					"study": "Is-boset es asesinado",
+					"id": "09d66770-dab4-45e1-839b-c74be75eaa9c"
+				},
+				{
+					"verse": "Is-bóset tenía a su servicio dos hombres que eran jefes de una banda de ladrones. Uno se llamaba Baaná, y el otro Recab. Eran hijos de Rimón de Beerot, y por lo tanto descendientes de Benjamín, pues al pueblo de Beerot se le consideraba como parte de la tribu de Benjamín",
+					"number": 2,
+					"id": "2f6f53de-bd63-486a-b739-460392ac2818"
+				},
+				{
+					"verse": "aun cuando los de Beerot huyeron a Guitaim, donde han vivido como forasteros hasta el presente.",
+					"number": 3,
+					"id": "952f516e-5127-4833-8e33-68e8b2b45172"
+				},
+				{
+					"verse": "Ahora bien, Jonatán, hijo de Saúl, tenía un hijo, llamado Mefi-bóset, que era inválido de los dos pies. Cuando Mefi-bóset tenía cinco años de edad, llegó de Jezreel la noticia de que Saúl y Jonatán habían muerto; entonces su nodriza tomó a Mefi-bóset y huyó con él, pero con las prisas de la huida éste se cayó y quedó inválido.",
+					"number": 4,
+					"id": "89785277-4296-45cd-9a65-2636f8b9f8f0"
+				},
+				{
+					"verse": "Recab y Baaná, los hijos de Rimón de Beerot, se dirigieron a casa de Is-bóset, y llegaron a la hora de más calor del día, cuando él estaba durmiendo la siesta.",
+					"number": 5,
+					"id": "405744f0-4bf2-4cab-b31e-0993aec2a4d2"
+				},
+				{
+					"verse": "La portera de la casa había estado limpiando trigo, pero finalmente se había quedado dormida, de modo que Recab y su hermano Baaná pudieron entrar sin ser vistos.",
+					"number": 6,
+					"id": "3650189a-d3e5-4d5e-be03-0d3a7635315b"
+				},
+				{
+					"verse": "Cuando entraron en la casa, Is-bóset estaba acostado sobre la cama de su dormitorio; entonces lo asesinaron y le cortaron la cabeza, después de lo cual se la llevaron consigo y caminaron toda la noche por el camino del Arabá",
+					"number": 7,
+					"id": "783125de-86b1-4aaf-9c11-ae21db4e762a"
+				},
+				{
+					"verse": "para entregársela a David, que estaba en Hebrón. Le dijeron al rey:\n—Aquí tiene Su Majestad la cabeza de Is-bóset, el hijo de Saúl, que era enemigo de Su Majestad y que procuraba quitarle la vida. Pero hoy el Señor ha concedido a Su Majestad vengarse de Saúl y sus descendientes.",
+					"number": 8,
+					"id": "49b90f50-55fa-4e10-8ac8-f58384bcf064"
+				},
+				{
+					"verse": "Y David les respondió:\n—Les juro por el Señor, que me ha librado de toda angustia,",
+					"number": 9,
+					"id": "f0e6d335-75d7-493d-a0c0-47bcdfc13696"
+				},
+				{
+					"verse": "que cuando uno, creyendo que me daba buenas noticias, vino a contarme que Saúl había muerto, la noticia le valió que yo lo apresara y lo matara en Siclag.",
+					"number": 10,
+					"id": "c62dea43-a2e7-4b3d-bf4d-83984f84f2e9"
+				},
+				{
+					"verse": "¡Con mayor razón haré eso mismo con ustedes, malvados, que han asesinado a un hombre inocente mientras éste se hallaba acostado y en su propia casa! Por lo tanto, ¡voy a hacerles pagar su muerte! ¡Voy a borrarlos de este mundo!",
+					"number": 11,
+					"id": "b686d947-d7d2-4a2b-8744-9cc7cf9814d3"
+				},
+				{
+					"verse": "En seguida David dio órdenes a sus oficiales, y éstos los mataron; les cortaron las manos y los pies, y los colgaron junto al depósito de agua de Hebrón. Después tomaron la cabeza de Is-bóset y la enterraron en Hebrón, en el sepulcro de Abner.",
+					"number": 12,
+					"id": "a4042abf-64b0-4d03-8a8c-f72214e612a9"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Más tarde, todas las tribus de Israel fueron a Hebrón para hablar con David, y le dijeron: «Nosotros somos de tu misma sangre,",
+					"number": 1,
+					"study": "David es proclamado rey de Israel",
+					"id": "2d0dc565-4b47-41b1-a83d-ab49fefa08b9"
+				},
+				{
+					"verse": "y en realidad, aunque Saúl era nuestro rey, tú eras el que verdaderamente dirigía a Israel en sus campañas. Además, el Señor te ha prometido que tú serás quien dirija y gobierne a Israel.»",
+					"number": 2,
+					"id": "4d43339e-b70e-4ba8-9d9d-32d990c67937"
+				},
+				{
+					"verse": "De esta manera, todos los ancianos de Israel fueron y hablaron con el rey David en Hebrón, y él hizo un pacto con ellos, poniendo al Señor por testigo. Entonces ellos consagraron a David como rey de Israel.",
+					"number": 3,
+					"id": "a40abbca-a0cb-446c-ab6a-4984d030aab2"
+				},
+				{
+					"verse": "David tenía treinta años cuando empezó a reinar, y reinó cuarenta años:",
+					"number": 4,
+					"id": "d7e45a3f-3acd-4305-8793-c948ece0b0d0"
+				},
+				{
+					"verse": "en Hebrón fue rey de Judá durante siete años y medio, y luego en Jerusalén fue rey de todo Israel y Judá durante treinta y tres años.",
+					"number": 5,
+					"id": "9250ab2a-12ad-4d9e-8598-febe0cef18bc"
+				},
+				{
+					"verse": "El rey David y sus hombres se dirigieron hacia Jerusalén para atacar a los jebuseos, habitantes de aquella región. Y los jebuseos, creyendo que David no lograría entrar en la ciudad, le dijeron: «Tú no podrás entrar aquí, pues se bastan los ciegos y los inválidos para no dejarte entrar.»",
+					"number": 6,
+					"study": "David toma la fortaleza de Sion",
+					"id": "71bde031-9d69-4ad1-9d08-5423ff1ce599"
+				},
+				{
+					"verse": "Sin embargo, David capturó la fortaleza de Sión, ahora conocida como la Ciudad de David.",
+					"number": 7,
+					"id": "28a7e6f1-6d14-4694-8d56-038d1b38d27e"
+				},
+				{
+					"verse": "David había dicho en aquella ocasión: «Todo el que ataque a los jebuseos, que entre por el canal del agua y mate a los ciegos y a los inválidos, a los cuales aborrezco con toda mi alma.» De allí viene el dicho: «Ni los ciegos ni los inválidos pueden entrar en el templo del Señor.»",
+					"number": 8,
+					"id": "ed8a8266-0444-4df0-ab4d-2cd895de67d8"
+				},
+				{
+					"verse": "Después se instaló David en la fortaleza y la llamó Ciudad de David, y le construyó murallas alrededor, desde el terraplén hasta el palacio.",
+					"number": 9,
+					"id": "57a9e49e-e4df-4301-be60-671d8f2cff65"
+				},
+				{
+					"verse": "El poder de David iba aumentando, y el Señor, el Dios todopoderoso, estaba con él.",
+					"number": 10,
+					"id": "8e5744ce-0018-43ec-86d4-2e0f082e3851"
+				},
+				{
+					"verse": "Por eso Hiram, rey de Tiro, envió sus embajadores a David, además de carpinteros y canteros, los cuales llevaron madera de cedro y construyeron el palacio de David.",
+					"number": 11,
+					"study": "Hiram envía embajadores a David",
+					"id": "34159027-ddd3-43c1-a9fc-c46618aa8750"
+				},
+				{
+					"verse": "Entonces David comprendió que el Señor lo había confirmado como rey de Israel, y que había hecho prosperar su reinado en atención a su pueblo Israel.",
+					"number": 12,
+					"id": "ab062b7d-797c-411a-beca-a8ba7886a6b6"
+				},
+				{
+					"verse": "Después de haberse trasladado de Hebrón a Jerusalén, David tomó allí más esposas y concubinas, las cuales le dieron más hijos e hijas.",
+					"number": 13,
+					"study": "Hijos de David nacidos en Jerusalén",
+					"id": "42b26c62-f4a5-4e20-b09e-37e64ebb3f9f"
+				},
+				{
+					"verse": "Los hijos que le nacieron en Jerusalén se llamaban: Samúa, Sobab, Natán, Salomón,",
+					"number": 14,
+					"id": "48d3b9f5-4e6e-4118-b491-8871350e1554"
+				},
+				{
+					"verse": "Ibhar, Elisúa, Néfeg, Jafía,",
+					"number": 15,
+					"id": "08c33260-9905-4944-8065-d6fb58dff03a"
+				},
+				{
+					"verse": "Elisamá, Eliadá y Elifélet.",
+					"number": 16,
+					"id": "1992afb2-952d-48c9-a6eb-858032998291"
+				},
+				{
+					"verse": "Cuando los filisteos supieron que David había sido consagrado como rey de Israel, se lanzaron todos en busca suya; pero David lo supo y se retiró a la fortaleza.",
+					"number": 17,
+					"study": "David derrota a los filisteos",
+					"id": "ecaafa36-413b-4e9f-8daa-cd4926544ea2"
+				},
+				{
+					"verse": "Entonces los filisteos avanzaron y ocuparon el valle de Refaim.",
+					"number": 18,
+					"id": "d2557c52-6a84-44fc-ac12-43680eea2601"
+				},
+				{
+					"verse": "Por esto, David consultó al Señor, y le preguntó:\n—¿Puedo atacar a los filisteos? ¿Me darás la victoria sobre ellos?\nY el Señor le respondió:\n—Sí, atácalos, porque te daré la victoria sobre ellos.",
+					"number": 19,
+					"id": "c55d4258-4395-4fab-b17a-13fd921eb03a"
+				},
+				{
+					"verse": "David llegó a Baal-perasim, y allí los venció. Por eso dijo: «Como un torrente de agua, el Señor me ha abierto paso entre mis enemigos.» Y llamó a aquel lugar Baal-perasim.",
+					"number": 20,
+					"id": "8e03ffc4-56fa-4743-98ea-504dda9959e7"
+				},
+				{
+					"verse": "Además, los filisteos dejaron abandonados sus ídolos, y David y sus hombres los recogieron.",
+					"number": 21,
+					"id": "18fd56aa-d086-4a4e-bedd-40cff9e1a4b9"
+				},
+				{
+					"verse": "Pero los filisteos volvieron a ocupar el valle de Refaim,",
+					"number": 22,
+					"id": "8fec0b21-d217-408a-b0e7-3ae56e803772"
+				},
+				{
+					"verse": "así que David consultó al Señor, y el Señor le contestó:\n—No los ataques de frente, sino rodéalos y atácalos por la retaguardia cuando llegues a los árboles de bálsamo.",
+					"number": 23,
+					"id": "92053297-843a-4fbd-94d1-500ef3abd21c"
+				},
+				{
+					"verse": "Cuando escuches ruido de pasos por encima de las copas de los árboles, lánzate al ataque, porque eso significa que yo voy delante de ti para herir de muerte al ejército filisteo.",
+					"number": 24,
+					"id": "561cba4e-0415-4e05-9257-171d5b41ce0b"
+				},
+				{
+					"verse": "David hizo lo que el Señor le había ordenado, y derrotó a los filisteos desde Gabaón hasta Guézer.",
+					"number": 25,
+					"id": "3f0a850d-bd05-4dba-9eda-4620b5dbf09b"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "David reunió de nuevo a todos los soldados escogidos de Israel, que eran treinta mil,",
+					"number": 1,
+					"study": "David intenta llevar el arca a Jerusalén",
+					"id": "ffd696a5-70d4-41b0-a0f2-b1285ef6df22"
+				},
+				{
+					"verse": "y partiendo de Baalá de Judá con todas las tropas que le acompañaban, se dispuso a trasladar de allí el arca de Dios, sobre el que se invoca el nombre del Señor todopoderoso, que tiene su trono sobre los querubines.",
+					"number": 2,
+					"id": "a6722103-ae17-4c80-b1e0-de61c48aacff"
+				},
+				{
+					"verse": "Pusieron el arca sobre una carreta nueva y se la llevaron de la casa de Abinadab, que estaba en una colina. Uzá y Ahió, hijos de Abinadab, iban guiando la carreta en que llevaban el arca de Dios, y Ahió iba delante del arca.",
+					"number": 3,
+					"id": "7c79592f-cdd0-4d90-bca0-3ee7ddfe6eb7"
+				},
+				{
+					"verse": "Mientras tanto, David y todos los israelitas iban delante de Dios cantando y danzando con todas sus fuerzas, al son de la música de arpas, salterios, panderos, castañuelas y platillos.",
+					"number": 4,
+					"id": "aa70065c-05cd-40a6-93b9-aaff0e6fd8ca"
+				},
+				{
+					"verse": "Cuando llegaron al lugar conocido como Era de Nacón, Uzá alargó la mano hacia el arca de Dios, para sostenerla, porque habían tropezado los bueyes.",
+					"number": 5,
+					"id": "44f99fe2-dc43-45d8-8975-5c3f9430f8f9"
+				},
+				{
+					"verse": "Pero el Señor se enfureció con Uzá por aquel atrevimiento, y le quitó la vida allí mismo, cayendo Uzá muerto junto al arca de Dios.",
+					"number": 6,
+					"id": "258860c5-ed13-44bb-bcfc-81cb7e9395e9"
+				},
+				{
+					"verse": "David se disgustó mucho porque el Señor le quitó la vida a Uzá, y por eso llamó a aquel lugar Peres-uzá, nombre que tiene hasta el presente.",
+					"number": 7,
+					"id": "2679ccb4-ca73-4e4d-96c3-f8bc67e896d1"
+				},
+				{
+					"verse": "Pero ese mismo día David tuvo mucho miedo ante el Señor, y exclamó: «¡Ni pensar en llevarme el arca del Señor!»",
+					"number": 8,
+					"id": "35132cbd-4f9d-465c-bfbc-edf07f6025e5"
+				},
+				{
+					"verse": "Y como ya no quiso llevarse el arca del Señor a la Ciudad de David, ordenó que lo llevaran a casa de Obed-edom, un hombre de Gat.",
+					"number": 9,
+					"id": "bff018b4-b4c1-4e0f-9500-8d6ebedaaa6f"
+				},
+				{
+					"verse": "El arca del Señor se quedó tres meses en casa de Obed-edom, y el Señor lo bendijo a él y a toda su familia.",
+					"number": 10,
+					"id": "8bbb36cf-bff0-4649-9486-cc2dffb5f1b3"
+				},
+				{
+					"verse": "Cuando le contaron al rey David que por causa del arca el Señor había bendecido a la familia de Obed-edom junto con todas sus pertenencias, David fue y con gran alegría trasladó el arca de Dios de la casa de Obed-edom a la Ciudad de David.",
+					"number": 11,
+					"id": "bc386e2f-f729-4694-9cba-1727ef82580e"
+				},
+				{
+					"verse": "Y cuando los que llevaban el arca del Señor habían dado ya seis pasos, David sacrificó un toro y un carnero gordo.",
+					"number": 12,
+					"study": "David trae el arca a Jerusalén",
+					"id": "6ee5a66f-d210-4137-8949-86dc3955200e"
+				},
+				{
+					"verse": "David iba vestido con un efod de lino, y danzaba con todas sus fuerzas,",
+					"number": 13,
+					"id": "cb188ebb-0b8d-410a-9cd7-7188c1101316"
+				},
+				{
+					"verse": "y tanto él como todos los israelitas llevaban el arca del Señor entre gritos de alegría y toque de trompetas.",
+					"number": 14,
+					"id": "b9f59d09-f5f5-4232-94b2-b0aa19083eb8"
+				},
+				{
+					"verse": "Cuando el arca del Señor llegó a la Ciudad de David, Mical, la hija de Saúl, se asomó a la ventana; y al ver al rey David saltando y bailando delante del Señor, sintió un profundo desprecio por él.",
+					"number": 15,
+					"id": "162d2299-fb15-41d6-8e94-e6f2f7bb1106"
+				},
+				{
+					"verse": "El arca del Señor fue llevada y puesta en su lugar, dentro de una tienda de campaña que David había levantado con ese propósito. En seguida David ofreció holocaustos y sacrificios de reconciliación delante del Señor,",
+					"number": 16,
+					"id": "1a659359-5103-484e-8095-e1330c984dc8"
+				},
+				{
+					"verse": "y cuando terminó de ofrecerlos bendijo al pueblo en el nombre del Señor todopoderoso,",
+					"number": 17,
+					"id": "ceecf3ad-7e4d-4fb8-b203-b8995dd4ec34"
+				},
+				{
+					"verse": "y a todos los israelitas allí presentes, hombres y mujeres, les dio un pan, una torta de dátiles y otra de pasas. Después todos se volvieron a sus casas.",
+					"number": 18,
+					"id": "7f364170-66e1-4703-aa01-a6dd00ea5393"
+				},
+				{
+					"verse": "También David volvió a su casa para bendecir a su familia; pero Mical, la hija de Saúl, salió a recibirlo y le dijo:\n—¡Qué bien ha quedado hoy el rey de Israel, mostrándose delante de las esclavas de sus criados como un desvergonzado cualquiera!",
+					"number": 19,
+					"id": "4a6c43af-4228-4bff-b114-3dee53356941"
+				},
+				{
+					"verse": "David le respondió:\n—Es verdad; he estado bailando, pero ha sido delante del Señor, que me escogió en lugar de tu padre y de toda tu familia para ser el jefe de su pueblo Israel. Por eso bailo delante de él.",
+					"number": 20,
+					"id": "70b19508-9e39-480b-ac7d-5eea250760c2"
+				},
+				{
+					"verse": "Y aún me humillaré más que ahora; me rebajaré, según tu opinión, pero seré honrado por esas mismas esclavas de que tú hablas.",
+					"number": 21,
+					"id": "99304bf0-7931-48a8-a36e-5c39f3b7a400"
+				},
+				{
+					"verse": "Y Mical no tuvo hijos en toda su vida.",
+					"number": 22,
+					"id": "6cd1c2e5-e4a6-471b-a04a-2ef8adbdb36a"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Cuando el rey David estuvo ya instalado en su palacio, y el Señor le había concedido la paz con todos sus enemigos de alrededor,",
+					"number": 1,
+					"study": "Pacto de Dios con David",
+					"id": "fb53ceaf-36cd-4911-af4a-edfc8e80e348"
+				},
+				{
+					"verse": "le dijo a Natán, el profeta:\n—Como puedes ver, yo habito en un palacio de cedro, mientras que el arca de Dios habita bajo simples cortinas.",
+					"number": 2,
+					"id": "8fd6779a-cc0e-4492-a85a-7769243e355a"
+				},
+				{
+					"verse": "Y Natán le contestó:\n—Pues haz todo lo que te has propuesto, porque cuentas con el apoyo del Señor.",
+					"number": 3,
+					"id": "82c89c75-b762-4c42-9787-11604cf98e95"
+				},
+				{
+					"verse": "Pero aquella misma noche, el Señor se dirigió a Natán y le dijo:",
+					"number": 4,
+					"id": "5d028794-ce84-4da6-8a68-4b1d37c8df1c"
+				},
+				{
+					"verse": "«Ve y habla con mi siervo David, y comunícale que yo, el Señor, he dicho: \"No serás tú quien me construya un templo para que habite en él.",
+					"number": 5,
+					"id": "a85540b0-2210-4ca3-b3a6-df78fb703879"
+				},
+				{
+					"verse": "Desde el día en que saqué de Egipto a los israelitas, hasta el presente, nunca he habitado en templos, sino que he andado en simples tiendas de campaña.",
+					"number": 6,
+					"id": "18ba2b5e-bcb6-4f37-88df-5ebbe704e464"
+				},
+				{
+					"verse": "En todo el tiempo que anduve con ellos, jamás le pedí a ninguno de sus caudillos, a quienes puse para que gobernaran a mi pueblo Israel, que me construyera un templo de madera de cedro.\"",
+					"number": 7,
+					"id": "2cb99235-2e9a-420b-98ac-830a9db83ee7"
+				},
+				{
+					"verse": "Por lo tanto, dile a mi siervo David que yo, el Señor todopoderoso, le digo: \"Yo te saqué del redil, y te quité de andar tras el rebaño, para que fueras el jefe de mi pueblo Israel;",
+					"number": 8,
+					"id": "44736b87-a695-48c1-b123-e13fa1538802"
+				},
+				{
+					"verse": "te he acompañado por dondequiera que has ido, he acabado con todos los enemigos que se te enfrentaron, y te he dado gran fama, como la que tienen los hombres importantes de este mundo.",
+					"number": 9,
+					"id": "fcc4ce28-19b5-4dbc-9abc-fd983bc52b6f"
+				},
+				{
+					"verse": "Además he preparado un lugar para mi pueblo Israel, y allí los he instalado para que vivan en un sitio propio, donde nadie los moleste ni los malhechores los opriman como al principio,",
+					"number": 10,
+					"id": "d1f9710c-8a7c-414a-b691-7ef8da01910d"
+				},
+				{
+					"verse": "cuando puse caudillos que gobernaran a mi pueblo Israel. Yo haré que te veas libre de todos tus enemigos. Y te hago saber que te daré descendientes,",
+					"number": 11,
+					"id": "996206de-fb57-4c21-b1ae-3641015a539f"
+				},
+				{
+					"verse": "y que cuando tu vida llegue a su fin y mueras, yo estableceré a uno de tus descendientes y lo confirmaré en el reino.",
+					"number": 12,
+					"id": "fdb4dcc3-e0af-4662-b0b5-cd64706aa735"
+				},
+				{
+					"verse": "Él me construirá un templo, y yo afirmaré su reino para siempre.",
+					"number": 13,
+					"id": "420478ea-36f4-492d-a6ba-ee99a2f73366"
+				},
+				{
+					"verse": "Yo le seré un padre, y él me será un hijo. Y cuando cometa una falta, yo lo castigaré y lo azotaré como todo padre lo hace con su hijo,",
+					"number": 14,
+					"id": "6a806b4c-ee3e-4eb7-b0ce-8ac2438a2dee"
+				},
+				{
+					"verse": "pero no le retiraré mi bondad como se la retiré a Saúl, al cual quité para ponerte a ti en su lugar.",
+					"number": 15,
+					"id": "e9ca51e9-f95d-4759-a499-2158f43ab8eb"
+				},
+				{
+					"verse": "Tu dinastía y tu reino estarán para siempre seguros bajo mi protección, y también tu trono quedará establecido para siempre.\"»",
+					"number": 16,
+					"id": "78975644-7ea9-4c41-ab4d-7b0dd14c7be6"
+				},
+				{
+					"verse": "Natán le contó todo esto a David, exactamente como lo había visto y oído.",
+					"number": 17,
+					"id": "4841e3e0-343f-49b8-80f0-9efb1a2b16dc"
+				},
+				{
+					"verse": "Entonces el rey David entró para hablar delante del Señor, y dijo: «Señor, ¿quién soy yo y qué es mi familia para que me hayas hecho llegar hasta aquí?",
+					"number": 18,
+					"id": "e1589844-0c1a-4e19-acd6-9da2491eb9be"
+				},
+				{
+					"verse": "¡Y tan poca cosa te ha parecido esto, Señor, que hasta has hablado del porvenir de la dinastía de tu siervo! ¡Ningún hombre actúa como tú, Señor!",
+					"number": 19,
+					"id": "fdf18ec0-3427-4c07-9d97-f7be55d22f00"
+				},
+				{
+					"verse": "¿Qué más te puedo decir, Señor, si tú conoces a este siervo tuyo?",
+					"number": 20,
+					"id": "9f751eae-e281-4fc3-96e4-eb1af3730223"
+				},
+				{
+					"verse": "Todas estas maravillas las has hecho, según lo prometiste y lo quisiste, para que yo las conociera;",
+					"number": 21,
+					"id": "f0449e26-e4b0-415c-b38f-a8e442ecd9fd"
+				},
+				{
+					"verse": "por lo tanto, Señor mío, ¡qué grandeza la tuya! Porque no hay nadie como tú, ni existe otro dios aparte de ti, según todo lo que nosotros mismos hemos oído.",
+					"number": 22,
+					"id": "539d5a2d-da75-41ef-bfdb-cba1c92d92e8"
+				},
+				{
+					"verse": "En cuanto a Israel, tu pueblo, ¡no hay otro como él, pues es nación única en la tierra! Tú, oh Dios, lo libertaste para que fuera tu pueblo, y lo hiciste famoso haciendo por él cosas grandes y maravillosas. Tú arrojaste de delante de tu pueblo, al que rescataste de Egipto, a las demás naciones y a sus dioses,",
+					"number": 23,
+					"id": "880f0f33-a8ce-487f-8769-996cf19ae6e0"
+				},
+				{
+					"verse": "porque tú has determinado que Israel sea tu pueblo para siempre, y que tú, Señor, serás su Dios.",
+					"number": 24,
+					"id": "9c164f33-7898-4de1-bede-c12e0c45df8b"
+				},
+				{
+					"verse": "»Así pues, Señor y Dios, mantén para siempre la promesa que has hecho a tu siervo y a su dinastía, y cumple lo que has dicho.",
+					"number": 25,
+					"id": "758175d3-8a95-441c-8379-d5b6e585630f"
+				},
+				{
+					"verse": "¡Que tu nombre sea siempre engrandecido, y se diga que el Señor todopoderoso es el Dios de Israel! ¡Que la dinastía de David, tu siervo, se mantenga firme con tu protección!",
+					"number": 26,
+					"id": "df2c29ec-a010-4b58-8fa8-fcd72d332cb3"
+				},
+				{
+					"verse": "Tú, Señor todopoderoso, me has hecho saber que vas a establecer mi dinastía; por eso yo, aunque soy tu siervo, me atrevo a hacerte esta súplica.",
+					"number": 27,
+					"id": "08e11b7e-5fa4-4732-865d-703bb6fc2534"
+				},
+				{
+					"verse": "Tú, Señor, eres Dios, y tus palabras son verdaderas, y has prometido a tu siervo tanta bondad;",
+					"number": 28,
+					"id": "2d5573d8-642e-435a-86f5-11bb8179dfbf"
+				},
+				{
+					"verse": "dígnate, pues, bendecir la dinastía de tu siervo para que permanezca siempre bajo tu protección. Tú, Señor Dios, lo has prometido, y con tu bendición la dinastía de tu siervo será bendita para siempre.»",
+					"number": 29,
+					"id": "4baa33ad-1a07-407e-adb1-938e4502b81f"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Después de esto David venció a los filisteos, sometiéndolos y arrebatándoles de las manos las riendas del poder.",
+					"number": 1,
+					"study": "David extiende sus dominios",
+					"id": "dd17ab6b-c468-4540-8560-0a6696956d92"
+				},
+				{
+					"verse": "También derrotó a los moabitas, a quienes hizo que se tendieran en el suelo y los midió con un cordel: los que quedaban dentro de cada dos medidas de cordel, eran condenados a muerte, y los que quedaban dentro de una medida eran dejados con vida. Así los moabitas fueron sometidos a David y tuvieron que pagarle tributo.",
+					"number": 2,
+					"id": "a8a7c744-e91d-414e-91e7-1b7c6441930d"
+				},
+				{
+					"verse": "David venció también a Hadad-ézer, hijo de Rehob, que era rey de Sobá, cuando éste iba a recuperar su dominio sobre la región del río Éufrates.",
+					"number": 3,
+					"id": "4109534d-6f40-40bc-b7a4-77b2d51df275"
+				},
+				{
+					"verse": "De ellos, David hizo prisioneros a mil setecientos soldados de caballería y a veinte mil de infantería; y además les rompió las patas a todos los caballos de los carros de combate, con la excepción de los caballos necesarios para cien carros.",
+					"number": 4,
+					"id": "56649b9a-18d9-4c61-8d4e-91ed5c55f41f"
+				},
+				{
+					"verse": "Llegaron luego los sirios de Damasco para prestar ayuda a Hadad-ézer, el rey de Sobá, pero David venció a los sirios, matando a veintidós mil de ellos.",
+					"number": 5,
+					"id": "6dff5d87-5494-40bb-9a40-22dd61747700"
+				},
+				{
+					"verse": "Luego puso David guarniciones en Siria de Damasco, y los sirios quedaron sometidos a él y sujetos al pago de tributo. Así pues, el Señor le daba la victoria a David por dondequiera que iba.",
+					"number": 6,
+					"id": "466a5f8c-dca8-41c6-9ae4-ac31375c152a"
+				},
+				{
+					"verse": "Después David se apoderó de los escudos de oro que usaban los oficiales de Hadad-ézer, y los llevó a Jerusalén.",
+					"number": 7,
+					"id": "edad3073-15a3-4f96-b69b-934dc5045611"
+				},
+				{
+					"verse": "También se apoderó de una gran cantidad de bronce de Bétah y de Berotai, ciudades que pertenecían a Hadad-ézer.",
+					"number": 8,
+					"id": "8fb2b645-03a0-4671-9dbe-02c8e81d45a1"
+				},
+				{
+					"verse": "Cuando Toi, rey de Hamat, se enteró de que David había derrotado a todo el ejército de Hadad-ézer,",
+					"number": 9,
+					"id": "5ca99985-5a89-4912-8f16-3e44d3a51b1e"
+				},
+				{
+					"verse": "envió a su hijo Joram con objetos de plata, de oro y de bronce, para que saludara y felicitara al rey David por haber luchado con Hadad-ézer y haberlo vencido, pues Toi también había estado en guerra con él.",
+					"number": 10,
+					"id": "4de8d85d-4d77-40da-9b3a-43b573cf99b0"
+				},
+				{
+					"verse": "David dedicó todos estos objetos al Señor, junto con el oro y la plata que le había consagrado, y que venía de todas las naciones que había sometido:",
+					"number": 11,
+					"id": "e566130a-8b40-4757-92c1-434ca06e9172"
+				},
+				{
+					"verse": "de Edom, de Moab, de Amón, de los filisteos y de los amalecitas, y de lo que le había quitado en la guerra a Hadad-ézer, hijo de Rehob, rey de Sobá.",
+					"number": 12,
+					"id": "5b23c4af-a830-48f0-b9f1-84fb32b64a88"
+				},
+				{
+					"verse": "David se hizo famoso. Y cuando regresaba de haber vencido a los edomitas, derrotó a dieciocho mil edomitas en el Valle de la Sal.",
+					"number": 13,
+					"id": "b50db3fb-39b3-4618-941b-390bc8a9094e"
+				},
+				{
+					"verse": "Luego puso guarniciones en todo Edom, y todos los edomitas quedaron sometidos a David, a quien el Señor daba la victoria por dondequiera que iba.",
+					"number": 14,
+					"id": "7898fde6-ce7c-4ac1-b72b-a5397d9eecfa"
+				},
+				{
+					"verse": "David reinó sobre todo Israel, actuando con justicia y rectitud para con todo su pueblo.",
+					"number": 15,
+					"study": "Oficiales de David",
+					"id": "f6a8ae52-555f-4da0-9338-e723b7f987f4"
+				},
+				{
+					"verse": "El jefe del ejército era Joab, hijo de Seruiá; y Josafat, hijo de Ahilud, era el secretario del rey.",
+					"number": 16,
+					"id": "b77bf81b-d9f1-4f32-8637-d279b0000724"
+				},
+				{
+					"verse": "Sadoc, hijo de Ahitub, y Ahimélec, hijo de Abiatar, eran sacerdotes; Seraías era el cronista,",
+					"number": 17,
+					"id": "e78779b4-8c5e-4e1a-bf31-13003c55f877"
+				},
+				{
+					"verse": "y Benaías, hijo de Joiadá, estaba al mando de la guardia de quereteos y peleteos. Los hijos de David eran sacerdotes.",
+					"number": 18,
+					"id": "7a3e5e69-7e62-40bb-bbb5-d45b2fe28efe"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Un día David preguntó: «¿Ha quedado algún superviviente de la familia de Saúl, a quien yo pueda favorecer en memoria de Jonatán?»",
+					"number": 1,
+					"study": "Bondad de David hacia Mefi-boset",
+					"id": "5a77eb86-191b-47ef-9c8a-eaf98c06d7a9"
+				},
+				{
+					"verse": "Había un sirviente de la familia de Saúl, llamado Sibá, al cual llamaron para que se presentara ante David. Cuando Sibá se presentó, le preguntó el rey:\n—¿Eres tú Sibá?\n—Para servir a Su Majestad —respondió él.",
+					"number": 2,
+					"id": "9d0209ad-8a52-4a1a-b786-698eb31843cd"
+				},
+				{
+					"verse": "Entonces el rey le preguntó:\n—¿Queda todavía alguien de la familia de Saúl por quien yo pueda hacer algo en el nombre de Dios?\nY Sibá le respondió:\n—Queda todavía un hijo de Jonatán, que es inválido de los dos pies.",
+					"number": 3,
+					"id": "56e6c199-cdb1-45ab-b173-cf7b7a78a6a7"
+				},
+				{
+					"verse": "—¿Dónde está? —dijo el rey.\n—En Lodebar, en casa de Maquir, hijo de Amiel —respondió Sibá.",
+					"number": 4,
+					"id": "0619c9e6-7b3c-40c9-b3f9-5a0686d74b70"
+				},
+				{
+					"verse": "Entonces el rey David ordenó que lo trajeran de aquel lugar;",
+					"number": 5,
+					"id": "1fe7c9e8-bc80-40de-9fe7-f1cbd3a9d330"
+				},
+				{
+					"verse": "y cuando Mefi-bóset, hijo de Jonatán y nieto de Saúl, llegó ante David, se inclinó en señal de reverencia.\n—¡Mefi-bóset! —exclamó David.\n—A las órdenes de Su Majestad —respondió él.",
+					"number": 6,
+					"id": "a4c88121-d7a1-47bf-8123-58e673741d48"
+				},
+				{
+					"verse": "David le dijo:\n—No tengas miedo, porque yo te voy a tratar muy bien, en memoria de Jonatán, tu padre. Haré que se te devuelvan todas las tierras de tu abuelo Saúl, y comerás siempre a mi mesa.",
+					"number": 7,
+					"id": "fb6d5c68-5932-4ad1-918f-75af7cd8abae"
+				},
+				{
+					"verse": "Pero Mefi-bóset se inclinó y dijo:\n—¿Por qué se fija Su Majestad en este siervo suyo, si soy como un perro muerto?",
+					"number": 8,
+					"id": "f2fbe63a-b7f5-4a48-a829-e5eaadddd59b"
+				},
+				{
+					"verse": "Sin embargo, el rey llamó a Sibá, el antiguo sirviente de Saúl, y le dijo:\n—Le he entregado al nieto de tu amo todo lo que perteneció a él y a su familia.",
+					"number": 9,
+					"id": "eeb26716-d436-42e7-a54f-82a0d9cad23e"
+				},
+				{
+					"verse": "Por lo tanto tú, con tus hijos y tus criados, labrarás la tierra para él y almacenarás lo que produzca, para que así pueda mantenerse la familia de tu amo, aunque Mefi-bóset, su nieto, comerá siempre a mi mesa.\nSibá, que tenía quince hijos y veinte criados,",
+					"number": 10,
+					"id": "a0993f5f-3351-45c9-b3a4-5d8b6c19b9a8"
+				},
+				{
+					"verse": "respondió al rey:\n—Todo lo que ha ordenado Su Majestad a este siervo suyo, se hará.\nY Mefi-bóset comía siempre a la mesa de David, como uno de los hijos del rey.",
+					"number": 11,
+					"id": "007b3d72-daed-4b9d-97f5-05bd9117a024"
+				},
+				{
+					"verse": "Además tenía un hijo pequeño que se llamaba Micaías, y todos los que vivían en casa de Sibá estaban al servicio de Mefi-bóset.",
+					"number": 12,
+					"id": "ebe81273-b3ae-4c00-88e4-ea8f029504d9"
+				},
+				{
+					"verse": "Pero Mefi-bóset, que era inválido de ambos pies, vivía en Jerusalén, porque comía siempre a la mesa del rey.",
+					"number": 13,
+					"id": "f7fa0773-9d68-429b-b2d5-033586556a87"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Después de algún tiempo murió Nahas, el rey de los amonitas, y en su lugar reinó su hijo Hanún.",
+					"number": 1,
+					"study": "Derrotas de amonitas y sirios",
+					"id": "489b07f2-b039-44d2-a9cc-ca44fcb2abae"
+				},
+				{
+					"verse": "Entonces David pensó que debía tratar a Hanún, el hijo de Nahas, con la misma bondad con que su padre lo había tratado a él, y envió a unos de sus oficiales para que le dieran a Hanún el pésame por la muerte de su padre. Pero cuando los oficiales de David llegaron al país amonita,",
+					"number": 2,
+					"id": "a925fef5-c63d-4639-bbe0-92d9cbbc7f00"
+				},
+				{
+					"verse": "los jefes amonitas le dijeron a Hanún, su soberano: «¿Y cree Su Majestad que David ha enviado esos hombres a dar el pésame, tan sólo para honrar al padre de Su Majestad? ¡Seguramente los ha enviado para inspeccionar y espiar la ciudad, y luego destruirla!»",
+					"number": 3,
+					"id": "f436d929-7cdf-431d-8cd2-d49695dc9f24"
+				},
+				{
+					"verse": "Entonces Hanún ordenó que apresaran a los oficiales de David, y que les afeitaran media barba y les rasgaran la ropa por la mitad, hasta las nalgas. Después los despidió.",
+					"number": 4,
+					"id": "cecf883b-a48b-4b39-ad73-a7964911061b"
+				},
+				{
+					"verse": "Cuando David lo supo, mandó que fueran a recibirlos, porque estarían sumamente avergonzados, y que les ordenaran quedarse en Jericó hasta que les creciera la barba, y que entonces regresaran.",
+					"number": 5,
+					"id": "8e9d5b72-f6eb-4a73-a51f-dc9c181ddc10"
+				},
+				{
+					"verse": "Los amonitas comprendieron que se habían hecho odiosos a David, por lo que tomaron a sueldo a veinte mil soldados sirios de Bet-rehob y de Sobá, al rey de Maacá con mil hombres, y a doce mil hombres de Is-tob.",
+					"number": 6,
+					"id": "d349933d-f6be-49a3-84c6-f65888a23d3a"
+				},
+				{
+					"verse": "Pero David lo supo y mandó a Joab con todos los soldados del ejército.",
+					"number": 7,
+					"id": "1514a83c-aeef-4cbb-8edb-d74badcc6f13"
+				},
+				{
+					"verse": "Los amonitas avanzaron y se prepararon para la batalla a la entrada misma de la ciudad, mientras que los soldados sirios de Sobá y Rehob, y las tropas de Is-tob y Maacá, tomaron posiciones en el campo.",
+					"number": 8,
+					"id": "41b822d2-ac7e-44aa-a8cb-59c17228a411"
+				},
+				{
+					"verse": "Cuando Joab vio que iba a ser atacado por el frente y por la retaguardia, escogió los mejores soldados israelitas y se preparó para atacar a los sirios.",
+					"number": 9,
+					"id": "1aff6825-5a9f-4dca-ae24-c529112a511e"
+				},
+				{
+					"verse": "Luego puso el resto de la tropa bajo el mando de su hermano Abisai, para que éste hiciera frente a los amonitas,",
+					"number": 10,
+					"id": "da6a90a3-c636-42f5-8377-cda1d2ba2eac"
+				},
+				{
+					"verse": "y le dijo: «Si los sirios pueden más que yo, tú vendrás a ayudarme, y si los amonitas pueden más que tú, iré a ayudarte yo.",
+					"number": 11,
+					"id": "1d4fd2b9-a588-4933-abcd-737174edee92"
+				},
+				{
+					"verse": "Ten ánimo, y luchemos con valor por nuestra nación y por las ciudades de nuestro Dios. ¡Y que el Señor haga lo que le parezca mejor!»",
+					"number": 12,
+					"id": "181db3cf-85f5-4307-ba5a-becee41d1435"
+				},
+				{
+					"verse": "Joab avanzó con sus tropas para atacar a los sirios, pero éstos huyeron ante él.",
+					"number": 13,
+					"id": "b0da3a4a-4308-4753-a823-ab70f3f4cf1b"
+				},
+				{
+					"verse": "Y cuando los amonitas vieron que los sirios huían, ellos también huyeron de Abisai y se metieron en la ciudad. Joab dejó entonces de luchar contra los amonitas y regresó a Jerusalén.",
+					"number": 14,
+					"id": "63a995cb-b992-442c-9bcb-bd204b4e2ab5"
+				},
+				{
+					"verse": "Cuando los sirios se dieron cuenta de que Israel los había vencido, se juntaron otra vez.",
+					"number": 15,
+					"id": "b74c767b-5051-447e-ac6c-3f6ec22c960d"
+				},
+				{
+					"verse": "Hadad-ézer mandó traer a los sirios que estaban al otro lado del río Éufrates, los cuales llegaron a Helam. Al frente de ellos estaba Sobac, jefe del ejército de Hadad-ézer.",
+					"number": 16,
+					"id": "83bb1072-aae8-43db-b93c-f535ea653996"
+				},
+				{
+					"verse": "Pero le contaron esto a David, quien, movilizando en seguida a todo Israel, atravesó el río Jordán y llegó a Helam. Allí los sirios se enfrentaron con David y lucharon contra él,",
+					"number": 17,
+					"id": "bacac2ee-4a69-41a2-b0f0-815287ac272d"
+				},
+				{
+					"verse": "pero finalmente huyeron de los israelitas, pues las bajas que les causó David fueron de cuarenta mil soldados de caballería y setecientos de los carros de combate; además, David hirió de muerte a Sobac, el jefe del ejército sirio, el cual murió allí.",
+					"number": 18,
+					"id": "158e2e85-e46c-4ecd-931a-b371a5f868f4"
+				},
+				{
+					"verse": "Al ver todos los reyes aliados de Hadad-ézer que los israelitas los habían derrotado, hicieron la paz con los israelitas y quedaron sometidos a ellos. A partir de entonces, los sirios tuvieron miedo de volver a ayudar a los amonitas.",
+					"number": 19,
+					"id": "3babdf57-13fc-498b-be7a-f75b5186469c"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "En cierta ocasión, durante la primavera, que es cuando los reyes acostumbran salir a campaña, David envió a Joab y a sus oficiales, con todo el ejército israelita, y destruyeron a los amonitas y sitiaron la ciudad de Rabá. David, sin embargo, se quedó en Jerusalén.",
+					"number": 1,
+					"study": "David y Betsabé",
+					"id": "4f20658c-9640-4425-8116-1405b85f1fd5"
+				},
+				{
+					"verse": "Una tarde, al levantarse David de su cama y pasearse por la azotea del palacio real, vio desde allí a una mujer muy hermosa que se estaba bañando. Esta mujer estaba apenas purificándose de su período de menstruación. David mandó que averiguaran quién era ella, y le dijeron que era Betsabé, hija de Eliam y esposa de Urías el hitita. David ordenó entonces a unos mensajeros que se la trajeran, y se acostó con ella, después de lo cual ella volvió a su casa.",
+					"number": 2,
+					"id": "39e13083-c252-4195-b30a-98c5b9560845"
+				},
+				{
+					"verse": "La mujer quedó embarazada, y así se lo hizo saber a David.",
+					"number": 3,
+					"id": "71e9bda8-0be9-4c66-9d7f-c4ef431e16a6"
+				},
+				{
+					"verse": "Entonces David ordenó a Joab que mandara traer a Urías el hitita, y así lo hizo Joab.",
+					"number": 4,
+					"id": "d38d01d5-ba45-4139-a618-18bf6e60d2bb"
+				},
+				{
+					"verse": "Y cuando Urías se presentó ante David, éste le preguntó cómo estaban Joab y el ejército, y qué noticias había de la guerra.",
+					"number": 5,
+					"id": "34d7dc39-c7b2-4e7e-841c-98131bf0a2d3"
+				},
+				{
+					"verse": "Después le ordenó que se fuera a su casa y se lavara los pies.\nEn cuanto Urías salió del palacio real, el rey le envió comida especial como regalo;",
+					"number": 6,
+					"id": "e372fc50-8295-4812-8fe5-9f4e0cc4c537"
+				},
+				{
+					"verse": "pero Urías, en lugar de ir a su casa, pasó la noche a las puertas del palacio, con los soldados de la guardia real.",
+					"number": 7,
+					"id": "fcd78a2e-4882-474d-a911-aab9c46633cc"
+				},
+				{
+					"verse": "Cuando le contaron a David que Urías no había ido a su casa, David le preguntó:\n—¿Por qué no fuiste a tu casa, después del viaje que has hecho?",
+					"number": 8,
+					"id": "0d977b67-2d11-4299-843e-cd39818e93cc"
+				},
+				{
+					"verse": "Y Urías le respondió:\n—Tanto el arca sagrada como los soldados de Israel y de Judá tienen como techo simples enramadas; igualmente Joab, mi jefe, y los oficiales de Su Majestad, duermen a campo abierto; ¿y yo habría de entrar en mi casa para comer y beber y acostarme con mi mujer? ¡Por vida de Su Majestad que yo no haré tal cosa!",
+					"number": 9,
+					"id": "2df58b57-4676-4da9-8c9a-39873800c457"
+				},
+				{
+					"verse": "Pero David le ordenó:\n—Quédate hoy todavía, y mañana dejaré que te vayas.\nY así Urías se quedó en Jerusalén hasta el día siguiente.",
+					"number": 10,
+					"id": "ad2adfe3-2ccc-4275-8e0d-3c94f3842529"
+				},
+				{
+					"verse": "David lo invitó a comer y beber con él, y lo emborrachó. Ya por la noche, Urías salió y se fue a dormir con los soldados de la guardia real, pero no fue a su casa.",
+					"number": 11,
+					"id": "a5907b6a-8cf9-467d-9afb-4b4e9723277d"
+				},
+				{
+					"verse": "A la mañana siguiente, David escribió una carta a Joab, y la envió por medio de Urías.",
+					"number": 12,
+					"id": "b5a51edd-d09d-41fd-9576-94328976064a"
+				},
+				{
+					"verse": "En la carta decía: «Pongan a Urías en las primeras líneas, donde sea más dura la batalla, y luego déjenlo solo para que caiga herido y muera.»",
+					"number": 13,
+					"id": "722a512e-ec4e-4dbc-acd4-90414843871a"
+				},
+				{
+					"verse": "Así pues, cuando Joab rodeó la ciudad para atacarla, puso a Urías en el lugar donde él sabía que estaban los soldados más valientes,",
+					"number": 14,
+					"id": "47a7da46-6493-4c8f-9541-a953010fd5ad"
+				},
+				{
+					"verse": "y en un momento en que los que defendían la ciudad salieron para luchar contra Joab, cayeron en combate algunos de los oficiales de David, entre los cuales se encontraba Urías.",
+					"number": 15,
+					"id": "56f621b8-3d39-465f-a35f-7145209e4071"
+				},
+				{
+					"verse": "Joab envió a David un informe detallado de la batalla,",
+					"number": 16,
+					"id": "e7180e7f-a059-4888-8663-349242850997"
+				},
+				{
+					"verse": "y le dio al mensajero las siguientes instrucciones: «Cuando acabes de informar al rey de todo lo relacionado con la batalla,",
+					"number": 17,
+					"id": "851fa786-e119-413d-ba64-09d3acefc7d2"
+				},
+				{
+					"verse": "puede ser que el rey se enoje y te pregunte: \"¿Por qué se acercaron tanto al atacar la ciudad? ¿Acaso no saben que ellos lanzan objetos desde la muralla,",
+					"number": 18,
+					"id": "5ce268ef-061f-48a2-aac6-5c0ec96fb744"
+				},
+				{
+					"verse": "igual que cuando en Tebés una mujer mató a Abimélec, el hijo de Jerubaal, arrojándole desde la muralla una piedra de molino? ¿Por qué, pues, se acercaron tanto a la muralla?\" Entonces tú le contestarás: \"También ha muerto Urías el hitita, oficial de Su Majestad.\"»",
+					"number": 19,
+					"id": "6e7efeb8-bf3b-4545-990b-e1b621d9b105"
+				},
+				{
+					"verse": "El mensajero se fue, y al llegar contó a David todo lo que Joab le había ordenado. David, en efecto, se enojó mucho contra Joab, y le dijo al mensajero:\n—¿Por qué se acercaron tanto al atacar la ciudad? ¿Acaso no saben que ellos lanzan objetos desde la muralla, igual que cuando en Tebés una mujer mató a Abimélec, el hijo de Jerubaal, arrojándole desde la muralla una piedra de molino? ¿Por qué, pues, se acercaron tanto a la muralla?",
+					"number": 20,
+					"id": "ae40460e-7fe7-424f-9569-21e0f53c8293"
+				},
+				{
+					"verse": "Entonces el mensajero le respondió:\n—Los soldados que salieron a luchar contra nosotros a campo abierto nos llevaban ventaja, pero los hicimos retroceder hasta la entrada de la ciudad.",
+					"number": 21,
+					"id": "e70d1bd9-c709-4637-ba0c-d677c01baf23"
+				},
+				{
+					"verse": "Fue entonces cuando los arqueros dispararon sus flechas desde la muralla contra las tropas de Su Majestad, y murieron algunos de los oficiales, entre ellos Urías el hitita.",
+					"number": 22,
+					"id": "68ed9d54-7b6c-4695-a918-4919bcfc3d30"
+				},
+				{
+					"verse": "Entonces David respondió al mensajero:\n—Dile a Joab que no se preocupe demasiado por esto, pues son cosas de la guerra. Pero que ataque la ciudad con más brío, hasta destruirla. Y tú dale ánimo.",
+					"number": 23,
+					"id": "595633a6-3c92-4fd6-a1ee-d122d7ffe3c7"
+				},
+				{
+					"verse": "Cuando la mujer de Urías supo que su marido había muerto, guardó luto por él;",
+					"number": 24,
+					"id": "ea6b7a7c-1187-4583-9442-c50c29282b81"
+				},
+				{
+					"verse": "pero después que pasó el luto, David mandó que la trajeran y la recibió en su palacio, la hizo su mujer y ella le dio un hijo. Pero al Señor no le agradó lo que David había hecho.",
+					"number": 25,
+					"id": "5bdfc677-cfa8-4cf6-88fe-3ff7e348199a"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "El Señor envió al profeta Natán a ver a David. Cuando Natán se presentó ante él, le dijo:\n—En una ciudad había dos hombres. Uno era rico y el otro pobre.",
+					"number": 1,
+					"study": "Natán amonesta a David",
+					"id": "166e3e71-94e3-40e7-878f-d2b6472963ae"
+				},
+				{
+					"verse": "El rico tenía gran cantidad de ovejas y vacas,",
+					"number": 2,
+					"id": "9484d5e8-0b12-448e-91a7-a6963fde5aa5"
+				},
+				{
+					"verse": "pero el pobre no tenía más que una ovejita que había comprado. Y él mismo la crió, y la ovejita creció en compañía suya y de sus hijos; comía de su misma comida, bebía en su mismo vaso y dormía en su pecho. ¡Aquel hombre la quería como a una hija!",
+					"number": 3,
+					"id": "f3b07929-1e67-4111-9bfa-d911f433524d"
+				},
+				{
+					"verse": "Un día, un viajero llegó a visitar al hombre rico; pero éste no quiso tomar ninguna de sus ovejas o vacas para preparar comida a su visitante, sino que le quitó al hombre pobre su ovejita y la preparó para dársela al que había llegado.",
+					"number": 4,
+					"id": "19e87169-4220-42ae-8e7a-19fff869a73b"
+				},
+				{
+					"verse": "David se enfureció mucho contra aquel hombre, y le dijo a Natán:\n—¡Te juro por Dios que quien ha hecho tal cosa merece la muerte!",
+					"number": 5,
+					"id": "21bd0799-df86-48d3-9dc5-dcd2a8c63fb8"
+				},
+				{
+					"verse": "¡Y debe pagar cuatro veces el valor de la ovejita, porque actuó sin mostrar ninguna compasión!",
+					"number": 6,
+					"id": "0e31bf9b-c280-4f14-90aa-031a7ad1bf32"
+				},
+				{
+					"verse": "Entonces Natán le dijo:\n—¡Tú eres ese hombre! Y esto es lo que ha declarado el Señor, el Dios de Israel: \"Yo te escogí como rey de Israel, y te libré del poder de Saúl;",
+					"number": 7,
+					"id": "3f13063e-cca5-413d-930e-f8394b89dae2"
+				},
+				{
+					"verse": "te di el palacio y las mujeres de tu señor, y aun el reino de Israel y Judá. Por si esto fuera poco, te habría añadido muchas cosas más.",
+					"number": 8,
+					"id": "9e6ae0ea-723d-47b8-8d76-b1b19e2a00ef"
+				},
+				{
+					"verse": "¿Por qué despreciaste mi palabra, e hiciste lo que no me agrada? Has asesinado a Urías el hitita, usando a los amonitas para matarlo, y te has apoderado de su mujer.",
+					"number": 9,
+					"id": "d86d11b1-1c36-45fb-ad78-05f7e8850f05"
+				},
+				{
+					"verse": "Puesto que me has menospreciado al apoderarte de la esposa de Urías el hitita para hacerla tu mujer, jamás se apartará de tu casa la violencia.",
+					"number": 10,
+					"id": "613c8926-8417-4baa-b970-dd13501c9396"
+				},
+				{
+					"verse": "Yo, el Señor, declaro: Voy a hacer que el mal contra ti surja de tu propia familia, y en tu propia cara tomaré a tus mujeres y se las entregaré a uno de tu familia, el cual se acostará con ellas a plena luz del sol.",
+					"number": 11,
+					"id": "d5bbb089-da99-49de-baee-868ef65edba3"
+				},
+				{
+					"verse": "Si tú has actuado en secreto, yo voy a actuar en presencia de todo Israel y a plena luz del sol.\"",
+					"number": 12,
+					"id": "981fc702-b985-4e0f-ab5e-70f0f4d9fb00"
+				},
+				{
+					"verse": "David admitió ante Natán:\n—He pecado contra el Señor.\nY Natán le respondió:\n—El Señor no te va a castigar a ti por tu pecado, y no morirás.",
+					"number": 13,
+					"id": "9e7eda95-3b2d-4e53-84c4-7edd29533a99"
+				},
+				{
+					"verse": "Pero como has ofendido gravemente al Señor, tu hijo recién nacido tendrá que morir.",
+					"number": 14,
+					"id": "afcd598f-f0c2-4949-9bb8-9db162b7c662"
+				},
+				{
+					"verse": "Y cuando Natán volvió a su casa, el Señor hizo que el niño que David había tenido con la mujer de Urías se enfermara gravemente.",
+					"number": 15,
+					"id": "3c3a2f89-afe1-4b7e-9df8-9aa71fabe361"
+				},
+				{
+					"verse": "Entonces David rogó a Dios por el niño, y ayunó y se pasó las noches acostado en el suelo.",
+					"number": 16,
+					"id": "677b62b9-e17a-44f7-ada1-4a6f8fcd3752"
+				},
+				{
+					"verse": "Los ancianos que vivían en su palacio iban a rogarle que se levantara del suelo, pero él se negaba a hacerlo, y tampoco comía con ellos.",
+					"number": 17,
+					"id": "11c29bb1-ed45-4622-94e5-de5fef141bfb"
+				},
+				{
+					"verse": "Siete días después murió el niño, y los oficiales de David tenían miedo de decírselo, pues pensaban: «Si cuando el niño aún vivía, le hablábamos y no nos hacía caso, ¿cómo vamos ahora a decirle que el niño ha muerto? ¡Puede cometer una barbaridad!»",
+					"number": 18,
+					"id": "294471ac-b912-4b40-801f-870fc80e90a1"
+				},
+				{
+					"verse": "Pero al ver David que sus oficiales hacían comentarios entre sí, comprendió que el niño había muerto; así que les preguntó:\n—¿Ha muerto el niño?\n—Sí, ya ha muerto —respondieron ellos.",
+					"number": 19,
+					"id": "656ca4e6-f847-43ba-b4a0-778e73d358ab"
+				},
+				{
+					"verse": "Entonces David se levantó del suelo, se bañó, se perfumó y se cambió de ropa, y entró en el templo para adorar al Señor. Después fue a su casa, y pidió de comer y comió.",
+					"number": 20,
+					"id": "39c74f98-fe27-4994-a28d-3116a8a5fd7e"
+				},
+				{
+					"verse": "Entonces sus oficiales le preguntaron:\n—¿Pero qué está haciendo Su Majestad? Cuando el niño aún vivía, Su Majestad ayunaba y lloraba por él; y ahora que el niño ha muerto, ¡Su Majestad se levanta y se pone a comer!",
+					"number": 21,
+					"id": "c8be675c-fb1c-4c53-9b92-3fd9aa264c8a"
+				},
+				{
+					"verse": "David respondió:\n—Cuando el niño vivía, yo ayunaba y lloraba pensando que quizá el Señor tendría compasión de mí y lo dejaría vivir.",
+					"number": 22,
+					"id": "6d58d183-4402-4bc9-bead-9470bdb6a0bd"
+				},
+				{
+					"verse": "Pero ahora que ha muerto, ¿qué objeto tiene que yo ayune, si no puedo hacer que vuelva a la vida? ¡Yo iré a reunirme con él, pero él no volverá a reunirse conmigo!",
+					"number": 23,
+					"id": "b75c2901-625b-4301-91e9-b20d591b623f"
+				},
+				{
+					"verse": "Después David consoló a Betsabé, su mujer. Fue a visitarla y se unió a ella, y ella dio a luz un hijo al que David llamó Salomón. El Señor amó a este niño,",
+					"number": 24,
+					"id": "08cb1eed-986e-4908-a661-48e3fd00b446"
+				},
+				{
+					"verse": "y así se lo hizo saber a David por medio del profeta Natán. David entonces, en atención al Señor, llamó al niño Jedidías.",
+					"number": 25,
+					"id": "63a2b4f6-354d-47f8-98da-3a7acaf698ed"
+				},
+				{
+					"verse": "Mientras tanto, Joab lanzó un ataque contra la ciudad amonita de Rabá, y cuando ya estaba a punto de capturar la ciudad real,",
+					"number": 26,
+					"study": "David captura Rabá",
+					"id": "2dd51c7f-1508-4105-8785-f5d8de52ae24"
+				},
+				{
+					"verse": "envió a David el siguiente mensaje: «He estado atacando Rabá, y ya he capturado la ciudadela que protegía el abastecimiento de agua.",
+					"number": 27,
+					"id": "f909ec1d-0b9b-491a-9887-e10257a75a11"
+				},
+				{
+					"verse": "Por lo tanto reúna ahora Su Majestad el resto de las tropas, y ataque la ciudad y captúrela, para que no sea yo quien lo haga y le pongan mi nombre.»",
+					"number": 28,
+					"id": "84118302-ba9f-45a2-8279-cbb6c759e3cf"
+				},
+				{
+					"verse": "Entonces David reunió todas sus tropas y marchó contra Rabá, la atacó y la capturó.",
+					"number": 29,
+					"id": "c622e4df-a940-4039-9393-ec31fc0385aa"
+				},
+				{
+					"verse": "Después tomó de la cabeza de su rey la corona de oro, que tenía piedras preciosas y pesaba treinta y tres kilos, y se la pusieron a David. También sacó David de la ciudad muchísimas cosas de valor,",
+					"number": 30,
+					"id": "a681b8e0-4694-44da-812e-2e00db2d07d3"
+				},
+				{
+					"verse": "y a la gente que aún quedaba en la ciudad la sacó de allí y la puso a trabajar con sierras y con trillos y hachas de hierro, así como en los hornos de ladrillo. Lo mismo hizo con todas las ciudades amonitas, y después regresó con todas sus tropas a Jerusalén.",
+					"number": 31,
+					"id": "e620c145-dcf1-4feb-8b83-d2192cb2db49"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Absalón, hijo de David, tenía una hermana muy hermosa, llamada Tamar. Y sucedió que Amnón, hijo también de David, se enamoró de ella,",
+					"number": 1,
+					"study": "Amnón y Tamar",
+					"id": "6d09ee3e-c1e5-4111-8ff7-32cdd0b52ab7"
+				},
+				{
+					"verse": "a tal grado que acabó por enfermarse de angustia, pues como su hermana Tamar no había tenido aún relaciones con ningún hombre, él encontraba muy difícil hacerle algo.",
+					"number": 2,
+					"id": "ff10dd0b-7669-42ad-946a-2553997a4769"
+				},
+				{
+					"verse": "Pero Amnón tenía un amigo muy astuto, llamado Jonadab, que era hijo de Simá, hermano de David.",
+					"number": 3,
+					"id": "8bd9ebdc-372b-43d4-908a-7c9c9bbb47a4"
+				},
+				{
+					"verse": "Un día Jonadab le preguntó:\n—¿Qué te pasa, príncipe? ¿Por qué estás cada día más desmejorado? ¿No me lo vas a contar?\nAmnón le respondió:\n—Es que estoy enamorado de Tamar, la hermana de mi hermano Absalón.",
+					"number": 4,
+					"id": "6f9496df-4f82-4738-bdb7-295daba4701f"
+				},
+				{
+					"verse": "Entonces Jonadab le aconsejó:\n—Métete en la cama y hazte el enfermo. Y cuando vaya a verte tu padre, dile que, por favor, mande a tu hermana Tamar para que te dé de comer y prepare alguna comida allí mismo, para que tú la veas y comas lo que ella te dé.",
+					"number": 5,
+					"id": "9a986b80-711e-4b2d-88e5-7b55c87adf5b"
+				},
+				{
+					"verse": "Amnón se metió en la cama y se hizo el enfermo. Y cuando el rey fue a verlo, Amnón le dijo:\n—¡Por favor! Que venga mi hermana Tamar y haga aquí mismo un par de tortas, y que ella misma me sirva.",
+					"number": 6,
+					"id": "439886bb-addd-436a-9c02-c1d71cc76e09"
+				},
+				{
+					"verse": "Entonces David mandó a Tamar a la casa, y le dijo:\n—Ve, por favor, a casa de tu hermano Amnón, y prepárale algo de comer.",
+					"number": 7,
+					"id": "5364662c-2ff6-4ba7-86dd-9edfae05db3e"
+				},
+				{
+					"verse": "Tamar fue a casa de su hermano Amnón, que estaba acostado. Y tomó ella harina, y la amasó, y allí mismo preparó las tortas y las coció;",
+					"number": 8,
+					"id": "70756e89-ef61-4bed-a9e2-039905373793"
+				},
+				{
+					"verse": "luego tomó la sartén y le sirvió las tortas; pero Amnón no quiso comer, y ordenó que salieran todos los que allí estaban.",
+					"number": 9,
+					"id": "b6879c4f-2872-432a-814a-03160bb7a137"
+				},
+				{
+					"verse": "Cuando ya todos habían salido, Amnón le dijo a Tamar:\n—Trae la comida a mi habitación, y sírveme tú misma.\nTamar tomó las tortas que había hecho y se las llevó a su hermano Amnón a su habitación,",
+					"number": 10,
+					"id": "cd70e615-5a62-4413-bed9-15c4acd70d5a"
+				},
+				{
+					"verse": "pero cuando se las acercó para que comiera, él la sujetó y le dijo:\n—Ven, hermana mía, acuéstate conmigo.",
+					"number": 11,
+					"id": "e209af1d-35a3-47d4-9553-9323e857aced"
+				},
+				{
+					"verse": "Ella le respondió:\n—No, hermano mío, no me deshonres, porque esto no se hace en Israel. ¡No cometas tal infamia!",
+					"number": 12,
+					"id": "a4a7dc82-1cd8-4cb9-8032-ba02f202cc82"
+				},
+				{
+					"verse": "¿A dónde podría ir yo con mi vergüenza? Y por lo que a ti toca, serías considerado en Israel como un necio. Te ruego que hables con el rey, que él no se opondrá a que yo sea tuya.",
+					"number": 13,
+					"id": "577ca718-c53a-4760-bbd0-dc3558d466a6"
+				},
+				{
+					"verse": "Amnón no quiso hacerle caso, y como era más fuerte que Tamar, la forzó y se acostó con ella.",
+					"number": 14,
+					"id": "6b52aa0a-bd2a-4ab6-8f6a-a19f611f3989"
+				},
+				{
+					"verse": "Pero fue tal el odio que Amnón sintió después hacia ella, que terminó aborreciéndola más de lo que la había amado. Así que le ordenó:\n—Levántate y vete.",
+					"number": 15,
+					"id": "a1bab7bb-9eaa-4a58-a518-299db09ee386"
+				},
+				{
+					"verse": "Tamar le contestó:\n—¡No, hermano mío, porque el echarme ahora de aquí sería una maldad peor que la que has cometido conmigo!\nAmnón no quiso hacerle caso;",
+					"number": 16,
+					"id": "da368ee9-68ed-4be5-b79c-08041b75cd4f"
+				},
+				{
+					"verse": "por el contrario, llamó a su criado y le ordenó:\n—¡Echa de aquí a esta mujer, y luego cierra bien la puerta!",
+					"number": 17,
+					"id": "60e4bc72-cefa-41ee-b453-8a3d0c25eef0"
+				},
+				{
+					"verse": "El criado la echó fuera de la casa, y luego cerró bien la puerta. Entonces Tamar, que llevaba puesta una túnica muy elegante, ropa que acostumbraban usar las princesas solteras,",
+					"number": 18,
+					"id": "8d6eba5b-cf8e-4c29-8d12-d0c68617bc0b"
+				},
+				{
+					"verse": "se echó ceniza en la cabeza, rasgó la túnica que llevaba puesta y, con las manos sobre la cabeza, se fue llorando por el camino.",
+					"number": 19,
+					"id": "7813ad04-b25e-4be5-814e-0ed8d685b10c"
+				},
+				{
+					"verse": "Entonces su hermano Absalón le preguntó:\n—¿Así que fue tu hermano Amnón quien te hizo esto? En tal caso, guarda silencio, hermana mía, pues es tu hermano. No te preocupes demasiado por este asunto.\nTamar, al verse abandonada, se quedó en casa de su hermano Absalón.",
+					"number": 20,
+					"study": "Venganza y huida de Absalón",
+					"id": "5e51d7ce-1a10-4452-85c8-24b6433a71bf"
+				},
+				{
+					"verse": "Cuando el rey David se enteró de todo lo sucedido, se puso muy furioso; pero no reprendió a su hijo Amnón porque, como era su hijo mayor, lo quería mucho.",
+					"number": 21,
+					"id": "779821ab-bdde-476d-907a-631ffc0172b3"
+				},
+				{
+					"verse": "Absalón, por su parte, no le dijo nada a Amnón, pero lo odiaba por haber deshonrado a su hermana Tamar.",
+					"number": 22,
+					"id": "472f1925-c677-47d8-95c4-b73dbad7ee27"
+				},
+				{
+					"verse": "Dos años después, la gente de Absalón estaba trasquilando sus ovejas en Baal-hasor, cerca del pueblo de Efraín, y Absalón invitó a comer a todos los hijos del rey.",
+					"number": 23,
+					"id": "4fcdd6ad-65d4-474c-8fb1-4695e37c5524"
+				},
+				{
+					"verse": "Además fue a ver al rey, y le dijo:\n—Ahora que mis hombres están trasquilando mis ovejas, desearía que Su Majestad y sus oficiales honraran con su compañía a este siervo suyo.",
+					"number": 24,
+					"id": "e5a073ed-ae4b-425c-8422-cd51e5c1001e"
+				},
+				{
+					"verse": "Pero el rey le respondió:\n—No, hijo mío, no podemos ir todos nosotros, para no ocasionarte demasiados gastos.\nY aunque Absalón insistió, el rey no quiso ir, pero le dio su bendición.",
+					"number": 25,
+					"id": "cedc61e9-bd4a-45ca-8ef1-0567b04bae0c"
+				},
+				{
+					"verse": "Entonces Absalón dijo:\n—Si eso no es posible, permita al menos Su Majestad que nos acompañe mi hermano Amnón.\n—¿Y por qué quieres que te acompañe Amnón? —preguntó el rey.",
+					"number": 26,
+					"id": "5bf66032-2fb0-4659-9944-9e363d23e5ee"
+				},
+				{
+					"verse": "Pero Absalón insistió tanto, que el rey permitió que Amnón y sus demás hijos fueran con él.\nAbsalón había preparado un banquete digno de un rey,",
+					"number": 27,
+					"id": "9d8bdec3-0b17-4ef6-9dca-a62657f1ede9"
+				},
+				{
+					"verse": "y había ordenado a sus criados: «Fíjense bien cuando a Amnón ya se le haya subido el vino, y cuando yo les diga que lo maten, mátenlo. No tengan miedo de hacerlo, pues son órdenes mías. Así que tengan ánimo y valor.»",
+					"number": 28,
+					"id": "f5ea2bd6-df35-4cbc-8c6e-c2110da85c9f"
+				},
+				{
+					"verse": "Por lo tanto, cumpliendo las órdenes de Absalón, sus criados mataron a Amnón. Entonces todos los hijos del rey se levantaron, y montando en sus mulas huyeron.",
+					"number": 29,
+					"id": "e1845ff7-8f7b-46ad-b96e-ed0731746921"
+				},
+				{
+					"verse": "Cuando aún estaban de camino, le llegó a David el rumor de que Absalón había matado a todos sus hijos, y que ninguno de ellos había quedado vivo.",
+					"number": 30,
+					"id": "517b3b9e-7e2a-4e07-a122-321e27a6d9c1"
+				},
+				{
+					"verse": "Entonces el rey se levantó, se rasgó la ropa en señal de dolor y se tendió en el suelo. Todos sus oficiales allí presentes se rasgaron también la ropa;",
+					"number": 31,
+					"id": "9f8c1873-0b76-437a-bd82-9852f912751f"
+				},
+				{
+					"verse": "pero Jonadab, el hijo de Simá, hermano de David, tomó la palabra y dijo:\n—No piense Su Majestad que han matado a todos sus hijos. Sólo han matado a Amnón, pues así lo había decidido Absalón desde el día que Amnón violó a su hermana Tamar.",
+					"number": 32,
+					"id": "9e0adf7e-7ca0-4991-93db-d64c898ca0a2"
+				},
+				{
+					"verse": "Por lo tanto, no crea Su Majestad que todos los príncipes han muerto. El único que ha muerto es Amnón.",
+					"number": 33,
+					"id": "f41e963e-5a43-46ff-952f-b58dcaace3bf"
+				},
+				{
+					"verse": "Mientras Absalón se daba a la fuga, el joven que estaba de centinela alzó la vista y vio un grupo numeroso de gente que bajaba por el camino de Horonaim, por la ladera de la montaña. Entonces el centinela fue a decirle al rey que había visto gente bajando por el camino de Horonaim.",
+					"number": 34,
+					"id": "f084ff6e-a5ac-4950-a39e-346bcb577565"
+				},
+				{
+					"verse": "Y Jonadab dijo al rey:\n—Ya vienen los hijos de Su Majestad, tal como había pensado este servidor suyo.",
+					"number": 35,
+					"id": "48d6732b-268d-46dd-848e-7fa4bf280607"
+				},
+				{
+					"verse": "Apenas había terminado él de hablar, cuando llegaron los hijos del rey y se pusieron a llorar a voz en cuello. También el rey y todos sus oficiales lloraron muchísimo.",
+					"number": 36,
+					"id": "018e2fe3-0b76-46a7-b985-8a3a9ac30ae5"
+				},
+				{
+					"verse": "Absalón, por su parte, huyó y se fue con Talmai, hijo de Amihud, rey de Guesur, y allí se quedó durante tres años. Y David lloraba todos los días por la muerte de su hijo Amnón,",
+					"number": 37,
+					"id": "7503491d-dc34-4f87-825c-812e5bc65149"
+				},
+				{
+					"verse": "pero cuando se consoló de su muerte, sintió un profundo deseo de ver a Absalón.",
+					"number": 38,
+					"id": "24b4b8c0-9baa-452f-9ae3-86f6db63a57f"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "Joab, hijo de Seruiá, sabía que el rey echaba mucho de menos a Absalón,",
+					"number": 1,
+					"study": "Joab procura el regreso de Absalón",
+					"id": "4c7a4d35-f35e-44a7-92ed-1d6d394c923f"
+				},
+				{
+					"verse": "así que mandó traer de Tecoa a una mujer muy astuta que allí vivía. Le dijo: «Finge que estás de duelo y vístete de luto; y no te eches perfume, pues debes parecer una mujer que durante mucho tiempo ha estado de luto por algún muerto.",
+					"number": 2,
+					"id": "38425684-8a00-4df6-804e-4bb11f34131d"
+				},
+				{
+					"verse": "Luego preséntate ante el rey y repite exactamente lo que te voy a decir.»\nLuego que Joab le dijo lo que tenía que repetir,",
+					"number": 3,
+					"id": "85fa694b-dad6-4cc4-a96f-9106b0c0a6cd"
+				},
+				{
+					"verse": "aquella mujer de Tecoa fue ante el rey, e inclinándose hasta tocar el suelo con la frente en señal de reverencia, le dijo:\n—¡Dígnese Su Majestad ayudarme!",
+					"number": 4,
+					"id": "b62cdc8b-0c76-43a7-b8c5-97334c5dc6dc"
+				},
+				{
+					"verse": "—¿Qué te pasa? —le preguntó el rey.\nElla respondió:\n—Yo soy viuda, mi marido ha muerto,",
+					"number": 5,
+					"id": "0607fb71-cad4-44df-b637-752809a4909a"
+				},
+				{
+					"verse": "y dos hijos que tenía esta servidora de Su Majestad tuvieron una pelea en el campo; y como no hubo quien los separara, uno de ellos hirió al otro y lo mató.",
+					"number": 6,
+					"id": "cf996e6f-600b-461b-aa5f-d44be95bca2b"
+				},
+				{
+					"verse": "Y ahora todos mis parientes se han puesto en contra mía y quieren que yo les entregue al que mató a su hermano, para vengar la muerte del que fue asesinado y al mismo tiempo quitar de en medio al único heredero. Así van a apagar la única brasa que me ha quedado, y van a dejar a mi marido sin ningún descendiente que lleve su nombre en la tierra.",
+					"number": 7,
+					"id": "800a434b-8028-4d92-8c1a-197f235bb705"
+				},
+				{
+					"verse": "Entonces el rey respondió a la mujer:\n—Vete a tu casa, que yo voy a dar órdenes en favor tuyo.",
+					"number": 8,
+					"id": "8dccb5b1-99de-4798-a9a2-3275c0530e55"
+				},
+				{
+					"verse": "La mujer le contestó:\n—Mi rey y señor, si alguien ha de cargar con la culpa, que seamos yo y mi familia paterna, pero no Su Majestad ni su gobierno.",
+					"number": 9,
+					"id": "2184c11c-01d9-4253-8e0b-33655a708513"
+				},
+				{
+					"verse": "Y el rey contestó:\n—Al que te amenace, tráemelo, y no volverá a molestarte más.",
+					"number": 10,
+					"id": "8d5eef4c-58a2-4fa5-956c-2232d07d49da"
+				},
+				{
+					"verse": "Pero ella insistió:\n—¡Ruego a Su Majestad que invoque al Señor su Dios, para que el pariente que quiera vengar la muerte de mi hijo no aumente la destrucción matando a mi otro hijo!\nEl rey afirmó:\n—¡Te juro por el Señor que no caerá al suelo ni un pelo de la cabeza de tu hijo!",
+					"number": 11,
+					"id": "7eeb7fe3-8ae9-4e03-9b75-5f2813cce7f8"
+				},
+				{
+					"verse": "Pero la mujer siguió diciendo:\n—Permita Su Majestad que esta servidora suya diga tan sólo una palabra más.\n—Habla —dijo el rey.",
+					"number": 12,
+					"id": "5e924206-f0cf-4115-84fc-dd21dd3dbce3"
+				},
+				{
+					"verse": "Entonces la mujer preguntó:\n—¿Por qué, pues, piensa Su Majestad hacer esto mismo contra el pueblo de Dios? Según lo que Su Majestad mismo ha dicho, resulta culpable por no dejar que regrese su hijo desterrado.",
+					"number": 13,
+					"id": "40ffe548-aab1-4b2e-aa53-b8fb4cba46c1"
+				},
+				{
+					"verse": "Es un hecho que todos tenemos que morir; somos como agua que se derrama en el suelo, que no se puede recoger. Sin embargo, Dios no quita la vida a nadie, sino que pone los medios para que el desterrado no siga alejado de él.",
+					"number": 14,
+					"id": "27d77975-1239-45de-b0f8-2e8b040bd224"
+				},
+				{
+					"verse": "Ahora bien, si yo he venido a decir esto a Su Majestad, mi señor, es porque la gente me atemorizó. Por eso decidió esta servidora suya hablar, por si acaso Su Majestad aceptaba hacer lo que he pedido.",
+					"number": 15,
+					"id": "b9d0d9c4-9c3f-43a6-a1a5-abce913dad1f"
+				},
+				{
+					"verse": "Si Su Majestad me atiende, podrá librarme de quien quiere arrancarnos, a mi hijo y a mí, de esta tierra que pertenece a Dios.",
+					"number": 16,
+					"id": "8e00f556-c379-4478-9fde-67fe17b83f8c"
+				},
+				{
+					"verse": "Esta servidora suya espera que la respuesta de Su Majestad la tranquilice, pues Su Majestad sabe distinguir entre lo bueno y lo malo, igual que un ángel de Dios. ¡Que Dios el Señor quede con Su Majestad!",
+					"number": 17,
+					"id": "71b67d89-c839-4943-b668-2922762e5b81"
+				},
+				{
+					"verse": "El rey respondió a la mujer:\n—Te ruego que no me ocultes nada de lo que voy a preguntarte.\n—Hable Su Majestad —contestó la mujer.",
+					"number": 18,
+					"id": "33c0c188-6b59-4bd6-9e8b-d426c38e4b36"
+				},
+				{
+					"verse": "Entonces el rey le preguntó:\n—¿No es verdad que Joab te ha metido en todo esto?\nY la mujer contestó:\n—Juro por Su Majestad que nada hay más cierto que lo que Su Majestad ha dicho. En efecto, Joab, oficial de Su Majestad, es quien me ordenó venir, y él mismo me dijo todo lo que yo tenía que decir.",
+					"number": 19,
+					"id": "d43949c1-fbf3-4c6e-851b-6a9046aed1bf"
+				},
+				{
+					"verse": "Pero lo hizo con el deseo de que cambien las cosas. Sin embargo, Su Majestad es tan sabio que conoce como un ángel de Dios todo lo que ocurre en el país.",
+					"number": 20,
+					"id": "44992212-e9e2-4dd4-8059-b5861595a548"
+				},
+				{
+					"verse": "Como consecuencia de esto, el rey dijo a Joab:\n—Mira, ya he resuelto este asunto. Ve y haz que regrese el joven Absalón.",
+					"number": 21,
+					"id": "fe724c27-d056-4800-8815-22bdccc7490c"
+				},
+				{
+					"verse": "Entonces Joab se inclinó hasta tocar el suelo con la frente en señal de reverencia, bendijo al rey y le dijo:\n—Hoy he podido ver que cuento con el favor de Su Majestad, ya que Su Majestad ha hecho lo que este servidor suyo le sugirió hacer.",
+					"number": 22,
+					"id": "d2c7e5da-0dd1-4c36-8e20-315ac1ed3a4f"
+				},
+				{
+					"verse": "En seguida Joab se levantó y fue a Guesur para traer a Absalón a Jerusalén.",
+					"number": 23,
+					"id": "06127677-22aa-462f-b014-cf2bf9023ef2"
+				},
+				{
+					"verse": "Pero el rey ordenó que se fuera directamente a su casa y no se presentara ante él; por tanto, Absalón se fue a su casa sin ver al rey.",
+					"number": 24,
+					"id": "e4ef2f4a-d255-44f6-ab6e-9a3ef28ac601"
+				},
+				{
+					"verse": "En todo Israel no había un hombre tan bien parecido como Absalón, y tan alabado por ello. De pies a cabeza no tenía defecto alguno.",
+					"number": 25,
+					"id": "13c0e9e3-1eff-44e4-9492-784f9c1cfb03"
+				},
+				{
+					"verse": "Cuando se cortaba el pelo, lo cual hacía cada fin de año, porque le molestaba, sus cabellos pesaban más de dos kilos, según el peso real.",
+					"number": 26,
+					"id": "4d6c4256-91c8-4550-903a-c6dfa5a985b7"
+				},
+				{
+					"verse": "Y Absalón tenía tres hijos y una hija, llamada Tamar, que era muy hermosa.",
+					"number": 27,
+					"id": "c27dda0c-b2ad-4d6e-9d99-59695f454431"
+				},
+				{
+					"verse": "Durante dos años, Absalón estuvo en Jerusalén sin poder presentarse ante el rey",
+					"number": 28,
+					"id": "0a626db3-57e4-4157-9423-9b8190a9c1c0"
+				},
+				{
+					"verse": "así que Absalón pidió a Joab que fuera a visitar al rey de su parte; pero Joab no quiso ir. Por segunda vez Absalón le pidió que fuera, pero Joab tampoco fue.",
+					"number": 29,
+					"id": "ce90edae-7677-4206-8f51-c5ef9dba32b8"
+				},
+				{
+					"verse": "Entonces ordenó Absalón a sus criados:\n—Miren, el campo de Joab está junto al mío, y lo tiene sembrado de cebada; ¡vayan y préndanle fuego!\nLos criados de Absalón fueron y prendieron fuego al campo de Joab,",
+					"number": 30,
+					"id": "8e52779f-ac55-4f57-a9d2-55b5cf655af5"
+				},
+				{
+					"verse": "el cual fue inmediatamente a casa de Absalón y le preguntó:\n—¿Por qué han prendido fuego tus criados a mi campo?",
+					"number": 31,
+					"id": "3cc71e7e-504c-492c-a08a-e5c9e61fa96a"
+				},
+				{
+					"verse": "Absalón le respondió:\n—Te mandé a decir que vinieras aquí para enviarte a ver al rey y decirle de mi parte que no tuvo objeto que yo me viniera de Guesur; que hubiera sido mejor que me quedara allá. Yo quiero ver al rey, y si soy culpable de algo, que me mate.",
+					"number": 32,
+					"id": "19fa34d7-229b-43dd-b144-0583f6a26634"
+				},
+				{
+					"verse": "Entonces Joab fue a ver al rey y le comunicó lo que decía Absalón, y el rey lo mandó llamar. Y al llegar Absalón ante el rey, se inclinó hasta tocar el suelo con la frente. El rey, por su parte, lo recibió con un beso.",
+					"number": 33,
+					"id": "c2258c10-685b-4294-8818-51c5bf49cfa0"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "Pasado algún tiempo, Absalón consiguió un carro de combate y caballos, y formó una guardia personal de cincuenta hombres.",
+					"number": 1,
+					"study": "Absalón se subleva contra David",
+					"id": "8639f9e2-8d2d-4e84-bcba-b324f7b32b6b"
+				},
+				{
+					"verse": "Se levantaba temprano y se ponía a la orilla del camino, a la entrada de la ciudad, y a todo el que llegaba para que el rey le hiciera justicia en algún pleito, lo llamaba y le preguntaba de qué ciudad venía. Si aquella persona respondía que era de alguna de las tribus de Israel,",
+					"number": 2,
+					"id": "dd28f308-b489-458b-8882-501a3d99e5ee"
+				},
+				{
+					"verse": "Absalón le decía: «Realmente tu demanda es justa y razonable, pero no hay quien te atienda por parte del rey.»",
+					"number": 3,
+					"id": "c9ddc325-b2b1-42fc-a292-0264e1ffa960"
+				},
+				{
+					"verse": "Y añadía: «¡Ojalá yo fuera el juez de este país, para que vinieran a verme todos los que tienen pleitos legales y yo les hiciera justicia!»",
+					"number": 4,
+					"id": "738ddbb8-4b42-497b-8453-9e7606cdb2d3"
+				},
+				{
+					"verse": "Además, cuando alguien se acercaba a saludarlo, Absalón le tendía la mano, y lo abrazaba y lo besaba.",
+					"number": 5,
+					"id": "38997d47-c8a4-43b3-b1e9-be0897cacd7a"
+				},
+				{
+					"verse": "Esto lo hacía con todo israelita que iba a ver al rey para que le hiciera justicia, y así les robaba el corazón a los israelitas.",
+					"number": 6,
+					"id": "211ddd04-e2e0-4f97-8b14-9d5f3e02d926"
+				},
+				{
+					"verse": "Al cabo de cuatro años, Absalón le dijo al rey:\n—Ruego a Su Majestad que me permita ir a Hebrón, a cumplir la promesa que hice al Señor.",
+					"number": 7,
+					"id": "9d12a389-2943-47fb-8c66-fc16b3945ebb"
+				},
+				{
+					"verse": "Cuando este servidor de Su Majestad vivía en Guesur, en Siria, prometí al Señor que si él me concedía volver a Jerusalén, yo le rendiría culto.",
+					"number": 8,
+					"id": "b58e42a6-4195-461f-be12-a5ed5cb74a6b"
+				},
+				{
+					"verse": "—Puedes ir tranquilo —le respondió el rey.\nEntonces Absalón se fue a Hebrón.",
+					"number": 9,
+					"id": "ee023645-e938-4805-885d-089213573b01"
+				},
+				{
+					"verse": "Pero al mismo tiempo envió unos mensajeros a todas las tribus de Israel para decirles que, en cuanto escucharan el toque de trompeta, anunciaran que Absalón había sido proclamado rey en Hebrón.",
+					"number": 10,
+					"id": "4d9db4bd-cff4-4e3b-af8d-e92de161b363"
+				},
+				{
+					"verse": "Invitó además a doscientas personas de Jerusalén, las cuales fueron con él de buena fe y sin saber nada del asunto.",
+					"number": 11,
+					"id": "f901ca36-9ac7-4066-b278-ac296ef0735e"
+				},
+				{
+					"verse": "Así mismo, Absalón mandó llamar a uno de los consejeros de David, llamado Ahitófel, el cual vivía en Guiló, su ciudad, para que lo acompañara mientras él ofrecía los sacrificios. De modo que la conspiración iba tomando fuerza y seguían aumentando los seguidores de Absalón.",
+					"number": 12,
+					"id": "97ec41e1-cd0e-4b2e-9f82-3920a1e3060d"
+				},
+				{
+					"verse": "Un mensajero fue a decirle a David que los israelitas estaban haciéndose partidarios de Absalón.",
+					"number": 13,
+					"id": "695f0456-51ab-4cdf-a62b-1d95e5ca76d3"
+				},
+				{
+					"verse": "Entonces David ordenó a todos los oficiales que estaban con él en Jerusalén:\n—¡Huyamos ahora mismo o no podremos escapar de Absalón! ¡Vamos, dense prisa, no sea que nos alcance y nos cause mucho daño y mate a filo de espada a todos en la ciudad!",
+					"number": 14,
+					"id": "710a24a3-8c6b-4459-b04c-72f8e6230443"
+				},
+				{
+					"verse": "Y ellos respondieron al rey:\n—Nosotros estamos dispuestos a hacer lo que Su Majestad ordene.",
+					"number": 15,
+					"id": "82452250-e3bf-4e99-af2f-5f04c309886a"
+				},
+				{
+					"verse": "Así pues, el rey salió acompañado de toda la casa real, dejando sólo a diez de sus concubinas para que cuidaran del palacio.",
+					"number": 16,
+					"id": "656af627-0009-43f9-b1e2-f7169b78088d"
+				},
+				{
+					"verse": "Y después de haber salido el rey con todos sus acompañantes, se detuvieron en la última casa de la ciudad.",
+					"number": 17,
+					"id": "e7fc4b89-9bcf-484d-b5e5-0f8861da55b9"
+				},
+				{
+					"verse": "A su lado se pusieron todos sus oficiales, mientras que todos los quereteos y peleteos de la guardia real, y los seiscientos geteos que lo habían seguido desde Gat, desfilaban ante él.",
+					"number": 18,
+					"id": "f8d49764-f593-44b7-acd9-fdadbdfcff5b"
+				},
+				{
+					"verse": "En ese momento el rey dijo a Itai, el de Gat:\n—¿Por qué has venido tú también con nosotros? Es mejor que te vuelvas y te quedes con el nuevo rey, pues al fin y al cabo tú eres un extranjero desterrado de tu país.",
+					"number": 19,
+					"id": "5da86931-1ff9-4700-b2f1-eab6d3a221af"
+				},
+				{
+					"verse": "Apenas ayer llegaste, ¿y cómo voy a pedirte hoy que vengas con nosotros, si ni yo mismo sé a dónde voy? Es mejor que te vuelvas y te lleves contigo a tus paisanos. ¡Que el Señor te bendiga y te acompañe siempre!",
+					"number": 20,
+					"id": "14b9232c-f2ae-4200-8165-380f0956d8ce"
+				},
+				{
+					"verse": "Itai respondió al rey:\n—Juro por el Señor y por Su Majestad, que dondequiera que Su Majestad se encuentre, sea para vida o para muerte, allí también estará este servidor suyo.",
+					"number": 21,
+					"id": "96314c36-caa7-477f-8303-ea74ec5ca97e"
+				},
+				{
+					"verse": "—Entonces ven con nosotros —le contestó David.\nDe esa manera se fue Itai con David, junto con todos sus hombres y la gente que lo acompañaba.",
+					"number": 22,
+					"id": "1b87ee64-691b-4e81-8b7d-236ae0e8095a"
+				},
+				{
+					"verse": "Todo el mundo lloraba amargamente. Pasaron todos el arroyo Cedrón; luego pasó el rey, y toda la gente siguió delante de él por el camino del desierto.",
+					"number": 23,
+					"id": "8611b342-9de4-407f-8117-c180dc9dda2e"
+				},
+				{
+					"verse": "También iba Sadoc con todos los levitas que llevaban el arca de la alianza de Dios, el cual dejaron junto a Abiatar hasta que toda la gente salió de la ciudad.",
+					"number": 24,
+					"id": "4b713b1b-913c-4eae-8fce-85a23acede60"
+				},
+				{
+					"verse": "Pero el rey le dijo a Sadoc:\n—Lleva el arca de Dios de vuelta a la ciudad, pues si el Señor me favorece, hará que yo regrese y vea el arca y el lugar donde éste se halla.",
+					"number": 25,
+					"id": "a754d206-c3ba-4105-af34-f4da5cfcb35e"
+				},
+				{
+					"verse": "Pero si me dice que no le agrado, aquí me tiene; que haga conmigo lo que mejor le parezca.",
+					"number": 26,
+					"id": "d89b957b-acb7-4e64-afa8-58c4f81227fe"
+				},
+				{
+					"verse": "Dijo también el rey a Sadoc, el sacerdote:\n—Mira, tú y Abiatar regresen tranquilamente a la ciudad con sus dos hijos. Tú con tu hijo Ahimaas, y Abiatar con su hijo Jonatán.",
+					"number": 27,
+					"id": "d79d719e-b8f4-4e69-a066-7b8bce9725d4"
+				},
+				{
+					"verse": "Mientras tanto, yo me quedaré en los llanos del desierto, hasta que me lleguen noticias de ustedes.",
+					"number": 28,
+					"id": "7f3722e1-6d01-474a-ad17-b818ddaa4875"
+				},
+				{
+					"verse": "Sadoc y Abiatar llevaron el arca de Dios de vuelta a Jerusalén, y se quedaron allí.",
+					"number": 29,
+					"id": "613150a5-24a8-49a5-a242-8ec003c180e2"
+				},
+				{
+					"verse": "David subió la cuesta de los Olivos; iba descalzo y llorando, y con la cabeza cubierta en señal de dolor. Toda la gente que lo acompañaba llevaba también cubierta la cabeza y subía llorando.",
+					"number": 30,
+					"id": "9fda9880-68f8-46cf-8ae1-76d085ab0ef8"
+				},
+				{
+					"verse": "Y cuando le contaron a David que Ahitófel era uno de los que conspiraban con Absalón, David rogó al Señor que hiciera fracasar los planes de Ahitófel.",
+					"number": 31,
+					"id": "6171e6de-ff81-4db2-895b-33ab4f2c35c1"
+				},
+				{
+					"verse": "Al llegar David a la cumbre del monte, donde se rendía culto a Dios, le salió al encuentro Husai, de la tribu de los arquitas, con la ropa rasgada y la cabeza cubierta de tierra.",
+					"number": 32,
+					"id": "13fe14ad-176f-476c-aeee-ca101ba435a4"
+				},
+				{
+					"verse": "David le dijo:\n—Si te vienes conmigo, me serás una carga;",
+					"number": 33,
+					"id": "18461e85-14ea-47e5-a3f7-2dd2ff834976"
+				},
+				{
+					"verse": "pero si vuelves a Jerusalén y le dices a Absalón: \"Majestad, este siervo suyo estará a su servicio igual que antes estuvo al servicio de su padre\", me ayudarás a deshacer los planes de Ahitófel,",
+					"number": 34,
+					"id": "89b1707d-e0d6-4a68-8753-5c5c1142a71a"
+				},
+				{
+					"verse": "pues allí cuentas con los sacerdotes Sadoc y Abiatar. Por tanto, comunícales siempre todo lo que escuches en palacio.",
+					"number": 35,
+					"id": "51cb5588-0e0d-478f-978d-c7d9fed83c12"
+				},
+				{
+					"verse": "Sus hijos Ahimaas y Jonatán también están allí, así que háganme saber por medio de ellos todo lo que sepan.",
+					"number": 36,
+					"id": "bc727507-3cf1-425a-ac5e-120c0358a16f"
+				},
+				{
+					"verse": "Y Husai, el amigo de David, llegó a Jerusalén en el momento en que Absalón hacía su entrada en la ciudad.",
+					"number": 37,
+					"id": "deb327f9-60bc-4f9d-bf43-8c2416f675fb"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "Apenas había pasado David un poco más allá de la cumbre del monte, cuando Sibá, el criado de Mefi-bóset, salió a su encuentro. Llevaba un par de asnos aparejados y cargados con doscientos panes, cien tortas de uvas pasas, cien frutas del tiempo y un cuero de vino.",
+					"number": 1,
+					"id": "549f24f1-d6bc-4685-b26b-78eb2bbd7fde"
+				},
+				{
+					"verse": "El rey le preguntó:\n—¿Para qué traes esto?\nY Sibá contestó:\n—Los asnos son para que monte en ellos la familia real; los panes y la fruta para que coman los soldados, y el vino para que beban los que se cansen en el desierto.",
+					"number": 2,
+					"id": "fee7aef1-4cd2-4464-9295-e3e586b2decc"
+				},
+				{
+					"verse": "—¿Dónde está el nieto de tu amo? —preguntó el rey.\n—Se ha quedado en Jerusalén —respondió Sibá—, porque piensa que ahora los israelitas le devolverán el reino que le correspondía a su abuelo.",
+					"number": 3,
+					"id": "4eaecccd-6645-482d-a1db-26c16eb41322"
+				},
+				{
+					"verse": "—Pues bien —contestó el rey—, ahora es tuyo todo lo que antes era de Mefi-bóset.\n—¡Ojalá cuente yo siempre con el favor de Su Majestad! —respondió Sibá, inclinándose ante el rey.",
+					"number": 4,
+					"id": "263490e6-64da-4be0-a57d-656f93c4dc8b"
+				},
+				{
+					"verse": "Cuando el rey David llegó a Bahurim, un hombre de la familia de Saúl salió de allí. Era hijo de Guerá, y se llamaba Simí, e iba maldiciendo",
+					"number": 5,
+					"id": "ba5b4d0c-d9df-41d5-8ddf-b8f2532e151b"
+				},
+				{
+					"verse": "y tirando piedras contra David y contra todos sus oficiales; y aunque el rey estaba protegido por la gente y por su guardia personal,",
+					"number": 6,
+					"id": "0673314c-3e81-42db-9f4c-a13ca4f7e6d8"
+				},
+				{
+					"verse": "Simí lo maldecía diciendo:\n—¡Largo de aquí, malvado asesino!",
+					"number": 7,
+					"id": "5dc73791-da03-4a72-8e13-4fa932f5336b"
+				},
+				{
+					"verse": "¡El Señor te ha castigado por todos los crímenes que cometiste contra la familia de Saúl para reinar en su lugar! ¡Ahora el Señor ha entregado el reino a tu hijo Absalón, y aquí estás, víctima de tu propia maldad, pues no eres otra cosa que un asesino!",
+					"number": 8,
+					"id": "97b396b7-6592-45cb-a93a-1f07e694f207"
+				},
+				{
+					"verse": "Entonces Abisai, hijo de Seruiá, dijo al rey:\n—¿Por qué este perro muerto ha de ofender a Su Majestad? ¡Ahora mismo voy a cortarle la cabeza!",
+					"number": 9,
+					"id": "343050d8-de20-48ef-b4d5-131fef77355d"
+				},
+				{
+					"verse": "Pero el rey respondió:\n—Esto no es asunto de ustedes, hijos de Seruiá. Si él me maldice, será porque el Señor se lo ha ordenado. Y en tal caso, ¿quién puede pedirle cuentas de lo que hace?",
+					"number": 10,
+					"id": "51afd635-7021-4d8a-bd3a-ede5a98db28e"
+				},
+				{
+					"verse": "Luego, dirigiéndose a Abisai y a todos sus oficiales, dijo:\n—Si hasta mi propio hijo procura quitarme la vida, ¡cuánto más uno de la tribu de Benjamín! ¡Déjenlo que me maldiga, pues el Señor se lo habrá ordenado!",
+					"number": 11,
+					"id": "50faa753-bf2b-48a2-b2af-f8c1df6d3841"
+				},
+				{
+					"verse": "Quizá cuando el Señor vea mi aflicción, me envíe bendiciones en lugar de las maldiciones que hoy escucho.",
+					"number": 12,
+					"id": "7ddd0160-cd6c-49b5-b652-01d984beb8e7"
+				},
+				{
+					"verse": "Y David y sus hombres siguieron su camino, mientras que Simí se fue por la ladera del monte, paralelo a David, maldiciendo y arrojando piedras y levantando polvo.",
+					"number": 13,
+					"id": "20a36c39-b839-44ae-b8df-faa029171f49"
+				},
+				{
+					"verse": "Cuando el rey y la gente que le acompañaba llegaron al río Jordán, iban muy cansados, y descansaron allí.",
+					"number": 14,
+					"id": "f8e9a7a6-c947-4442-8236-3e44b8b33149"
+				},
+				{
+					"verse": "Mientras tanto, Absalón entró en Jerusalén acompañado por todos los israelitas y por Ahitófel.",
+					"number": 15,
+					"id": "78cfa827-4656-4ce9-848b-a099473ae469"
+				},
+				{
+					"verse": "Por su parte, Husai el arquita, amigo de David, fue al encuentro de Absalón, gritando:\n—¡Viva el rey, viva el rey!",
+					"number": 16,
+					"id": "027a9a8f-42c4-49a1-8001-e17793ce81f3"
+				},
+				{
+					"verse": "Entonces Absalón le preguntó:\n—¿Es ésta tu lealtad hacia tu amigo? ¿Por qué no te fuiste con él?",
+					"number": 17,
+					"id": "a6e8c2c1-d009-41c8-9daa-a0df20cc0f16"
+				},
+				{
+					"verse": "—No puedo —le respondió Husai—, porque yo debo estar y quedarme con quien el Señor y todo el pueblo israelita hayan escogido.",
+					"number": 18,
+					"id": "cd7aabed-4755-4f08-b2f9-25ecc7c4ded5"
+				},
+				{
+					"verse": "Y en segundo lugar, si a alguien debo servir, que sea al hijo de mi amigo. Así que yo serviré a Su Majestad de la misma manera que he servido a su padre.",
+					"number": 19,
+					"id": "fc3b8798-f3bd-483e-8937-524e27aeea48"
+				},
+				{
+					"verse": "Más tarde Absalón preguntó a Ahitófel:\n—¿Qué aconsejan ustedes que hagamos?",
+					"number": 20,
+					"id": "6795cd3b-a396-4a60-90bd-d59fd1e2d12d"
+				},
+				{
+					"verse": "Y Ahitófel respondió a Absalón:\n—Acuéstate con las concubinas de tu padre, las que él dejó para que cuidaran el palacio. Así todos en Israel comprenderán que te has hecho odioso a tu padre, y tendrán más ánimo todos los que están de tu parte.",
+					"number": 21,
+					"id": "531ea728-c01a-4c2c-91ae-79f648d8c218"
+				},
+				{
+					"verse": "Entonces pusieron para Absalón una tienda de campaña sobre la azotea, y allí se acostó Absalón con las concubinas de su padre, a la vista de todos los israelitas;",
+					"number": 22,
+					"id": "1bbb67de-1698-4807-8aba-65bd0f3f81e2"
+				},
+				{
+					"verse": "pues, en aquel tiempo, pedir un consejo a Ahitófel era como consultar la palabra de Dios. Tal era el prestigio de Ahitófel, tanto para David como para Absalón.",
+					"number": 23,
+					"id": "44a48942-4dec-4a0f-b444-5f950adaed16"
+				}
+			]
+		},
+		{
+			"chapter": "17",
+			"vers": [
+				{
+					"verse": "Después Ahitófel le dijo a Absalón:\n—Déjame escoger a doce mil hombres, y esta misma noche saldré en persecución de David.",
+					"number": 1,
+					"study": "Consejos de Ahitofel y de Husai",
+					"id": "c1eadbe7-34cc-47fe-a073-181ad67e1a48"
+				},
+				{
+					"verse": "Y cuando él esté débil y cansado, caeré sobre él y lo llenaré de miedo, y toda la gente que está con él, huirá. No mataré más que al rey,",
+					"number": 2,
+					"id": "60fd3159-844e-4d37-b42b-6471037dec8c"
+				},
+				{
+					"verse": "y luego haré que todo el pueblo se reconcilie contigo, como cuando la recién casada se reconcilia con su esposo. Lo que tú buscas es la muerte de un hombre; y todo el pueblo quedará en paz.",
+					"number": 3,
+					"id": "b4d21984-4b2f-4fab-920d-22ef81eb4ddf"
+				},
+				{
+					"verse": "El plan pareció bueno a Absalón y a todos los consejeros de Israel.",
+					"number": 4,
+					"id": "f79ebc55-7707-46d1-b299-3a10446ce9b5"
+				},
+				{
+					"verse": "Pero Absalón ordenó que llamaran también a Husai el arquita, para que diera su opinión.",
+					"number": 5,
+					"id": "bfd01980-ecd9-4907-b69b-78fd4c36d2cc"
+				},
+				{
+					"verse": "Cuando Husai llegó ante Absalón, éste le dijo:\n—El plan de Ahitófel es este. ¿Lo llevaremos a cabo, o no? Danos tu opinión.",
+					"number": 6,
+					"id": "269db3f9-fb80-4835-ba3b-8463bc020ec8"
+				},
+				{
+					"verse": "Husai le contestó:\n—Esta vez el plan de Ahitófel no es conveniente.",
+					"number": 7,
+					"id": "a7c5681c-0195-4af5-a757-b1dfe0adf4e0"
+				},
+				{
+					"verse": "Tú bien sabes que tu padre y sus hombres son muy valientes, y que ahora deben estar furiosos como una osa salvaje a la que le han quitado sus crías. Además, tu padre es un hombre acostumbrado a la guerra y no pasará la noche con la demás gente.",
+					"number": 8,
+					"id": "01498a15-3b3a-4737-8d20-2253fd954796"
+				},
+				{
+					"verse": "Ahora mismo ha de estar escondido en una cueva o en algún otro lugar. Por otra parte, apenas corra la voz de que en el primer encuentro han caído algunos de los tuyos, no faltará quien piense que tus seguidores han sido derrotados,",
+					"number": 9,
+					"id": "acf5ce4b-318e-4cf3-ab30-77e1e43f843b"
+				},
+				{
+					"verse": "y hasta el más valiente, aun el que sea bravo como un león, se desanimará por completo; porque todos en Israel saben que tu padre y sus seguidores son gente valiente.",
+					"number": 10,
+					"id": "c2da1585-d551-4ad2-a2c2-7cbdb57f7dbb"
+				},
+				{
+					"verse": "Ahora bien, yo te aconsejaría que se reúnan contigo todos los israelitas que hay desde Dan hasta Beerseba, que son tantos como los granos de arena que hay a la orilla del mar, y que tú personalmente los dirijas en la batalla.",
+					"number": 11,
+					"id": "105dccf2-6e49-402a-ab39-c0c69c4c0844"
+				},
+				{
+					"verse": "Entonces atacaremos a tu padre en cualquier lugar donde se encuentre. Caeremos sobre él como el rocío sobre la tierra, y no quedarán con vida ni él ni ninguno de sus hombres.",
+					"number": 12,
+					"id": "b861983e-adf8-4fac-93e9-39d773290265"
+				},
+				{
+					"verse": "Incluso si se refugia en alguna ciudad, todos los israelitas llevaremos cuerdas y, piedra por piedra, arrastraremos esa ciudad hasta el arroyo, y no quedará allí ni una sola piedra.",
+					"number": 13,
+					"id": "a561a1e0-90c2-414a-b919-0baa74bb78e0"
+				},
+				{
+					"verse": "Absalón y todos los israelitas estuvieron de acuerdo en que el plan de Husai era mejor que el de Ahitófel. (Y es que el Señor había determinado frustrar el plan acertado de Ahitófel, para acarrear el desastre sobre Absalón.)",
+					"number": 14,
+					"id": "f739db00-03d1-4e07-b7f6-b092a6620cb5"
+				},
+				{
+					"verse": "Después Husai informó a los sacerdotes Sadoc y Abiatar del consejo que Ahitófel había dado a Absalón y a los ancianos de Israel, y del consejo que él mismo les había dado,",
+					"number": 15,
+					"id": "ed7519f1-3a5f-465d-a27e-09e75133a51d"
+				},
+				{
+					"verse": "a fin de que avisaran rápidamente a David, advirtiéndole que no pasara aquella noche en los llanos del desierto, sino que pasara sin falta al otro lado del Jordán para que no los mataran ni a él ni a sus hombres.",
+					"number": 16,
+					"id": "7d4a8d3f-83d7-4ad4-ae29-4ba295f42e00"
+				},
+				{
+					"verse": "Como Jonatán y Ahimaas estaban en En-roguel, pues no podían arriesgarse a que los vieran en la ciudad, una criada fue a avisarles, e inmediatamente ellos salieron a contárselo al rey David.",
+					"number": 17,
+					"id": "e1d7660d-e9a2-4992-9126-a4e921c06d70"
+				},
+				{
+					"verse": "Sin embargo, un muchacho los vio y fue a decírselo a Absalón. Entonces ellos se dieron prisa y llegaron a la casa de un vecino de Bahurim, y se metieron en un pozo que había en el patio.",
+					"number": 18,
+					"id": "e86bc121-2cb5-425c-9d3e-ff11b866d2a7"
+				},
+				{
+					"verse": "Luego la esposa de ese hombre puso una tapa sobre el pozo, y encima esparció trigo trillado. De esto nadie supo nada.",
+					"number": 19,
+					"id": "5abb83b7-5b12-4d0d-a285-3279031bc9ba"
+				},
+				{
+					"verse": "Y cuando llegaron los seguidores de Absalón, preguntaron a la mujer:\n—¿Dónde están Ahimaas y Jonatán?\n—Pasaron por aquí, en dirección al río —les contestó la mujer.\nEntonces los seguidores de Absalón fueron en su busca, pero al no encontrarlos regresaron a Jerusalén.",
+					"number": 20,
+					"id": "26ebb3b6-5ea4-4807-96ae-2caf2b367bc5"
+				},
+				{
+					"verse": "Y después que aquéllos se fueron, Ahimaas y Jonatán salieron del pozo y corrieron a poner sobre aviso al rey David; le dijeron que se levantara en seguida y cruzara el río, porque Ahitófel había aconsejado que los atacaran.",
+					"number": 21,
+					"id": "49ed383f-b0d8-45ea-9256-689b2fac1048"
+				},
+				{
+					"verse": "Entonces David y toda la gente que le acompañaba se levantaron rápidamente y cruzaron el río Jordán. Al amanecer del día siguiente, no había nadie que no lo hubiera cruzado.",
+					"number": 22,
+					"id": "f21590f7-92b1-40e2-b685-3f332d5b88c8"
+				},
+				{
+					"verse": "Cuando Ahitófel vio que su plan no se había puesto en práctica, aparejó su asno y se fue a su casa, en su pueblo natal, y después de arreglar sus asuntos familiares, se ahorcó. Así murió, y fue enterrado en el sepulcro de su padre.",
+					"number": 23,
+					"id": "1a9a5f87-0bda-4723-9f00-abfd0a7f423b"
+				},
+				{
+					"verse": "David llegó a Mahanaim en el momento en que Absalón cruzaba el Jordán con todos los israelitas.",
+					"number": 24,
+					"id": "18e1fbf0-93e6-4258-8d10-e21946d71970"
+				},
+				{
+					"verse": "Absalón había puesto a Amasá al frente del ejército, en lugar de Joab. Amasá era hijo de un ismaelita llamado Itrá, que había tenido relaciones íntimas con Abigail, hija de Nahas y hermana de Seruiá, la madre de Joab.",
+					"number": 25,
+					"id": "99ef9d90-9d66-4998-9a88-706921837c3e"
+				},
+				{
+					"verse": "Absalón acampó con los israelitas en territorio de Galaad,",
+					"number": 26,
+					"id": "60304def-7556-48fc-967b-afd881754818"
+				},
+				{
+					"verse": "y cuando David llegó a Mahanaim, salieron a recibirlo Sobí, hijo de Nahas, que era de Rabá de Amón; Maquir, hijo de Amiel, que era de Lodebar; y Barzilai, que era de Roguelim de Galaad.",
+					"number": 27,
+					"id": "c408f99f-9a89-48e2-831e-b3898868071e"
+				},
+				{
+					"verse": "Y le llevaron camas, palanganas y ollas de barro, y también trigo, cebada, harina, grano tostado, habas, lentejas,",
+					"number": 28,
+					"id": "6edc72d9-053a-4dc4-a0d8-493f70830885"
+				},
+				{
+					"verse": "miel, cuajada y queso de vaca y de oveja, para que comiera David y la gente que lo acompañaba; pues pensaron que, viniendo del desierto, estarían cansados, hambrientos y sedientos.",
+					"number": 29,
+					"id": "6ba2ee04-7a99-43c1-9e8b-d30d947159dd"
+				}
+			]
+		},
+		{
+			"chapter": "18",
+			"vers": [
+				{
+					"verse": "David pasó revista a su ejército, y puso jefes al frente de grupos de mil y de cien soldados.",
+					"number": 1,
+					"study": "Muerte de Absalón",
+					"id": "f3393978-1ded-400f-a481-c791929a1f14"
+				},
+				{
+					"verse": "Después envió una tercera parte del ejército bajo el mando de Joab, otra tercera parte bajo el mando de Abisai, hijo de Seruiá y hermano de Joab, y la otra tercera parte bajo el mando de Itai, el de Gat. Y a todo el ejército le dijo:\n—Yo iré con ustedes a la batalla.",
+					"number": 2,
+					"id": "1a907a8f-0c7d-444b-afde-7d49d64dab77"
+				},
+				{
+					"verse": "Pero ellos le respondieron:\n—No, no haga eso Su Majestad, porque al enemigo poco le importa que huyamos o que muera la mitad de nosotros, pero Su Majestad vale tanto como diez mil de nosotros. Por eso es mejor que Su Majestad se quede en la ciudad para enviarnos refuerzos desde aquí.",
+					"number": 3,
+					"id": "eb2a1064-a38e-4a07-b579-f334baf8f4a5"
+				},
+				{
+					"verse": "—Haré lo que les parezca mejor —les respondió el rey, poniéndose inmediatamente a un lado de la entrada de la ciudad, mientras el ejército salía en grupos de mil y de cien soldados.",
+					"number": 4,
+					"id": "50c480ef-da8f-476e-94ea-e9fa1c4d9184"
+				},
+				{
+					"verse": "Además, el rey ordenó a Joab, a Abisai y a Itai que, en atención a él, trataran con consideración al joven Absalón, y todo el ejército escuchó la orden que el rey dio a los jefes acerca de Absalón.",
+					"number": 5,
+					"id": "aa76d1f3-ccf9-46d3-b97b-a19d291e9c2a"
+				},
+				{
+					"verse": "Así pues, las tropas marcharon al campo para enfrentarse con las tropas de Israel.\nLa batalla tuvo lugar en el bosque de Efraín, y",
+					"number": 6,
+					"id": "53314286-8a35-4069-8a3c-126436212453"
+				},
+				{
+					"verse": "los de Israel fueron derrotados por los seguidores de David. Hubo una gran matanza aquel día, pues murieron veinte mil hombres.",
+					"number": 7,
+					"id": "398790ad-87f5-42f4-9390-21a0832cf6af"
+				},
+				{
+					"verse": "La lucha se había extendido por todo el territorio, y en esta ocasión el bosque mismo causó más muertes que la espada.",
+					"number": 8,
+					"id": "4c2f64e6-22e1-4e61-9655-4c3356a5ac99"
+				},
+				{
+					"verse": "Absalón, que iba montado en un mulo, se encontró de repente frente a los seguidores de David. Entonces el mulo se metió debajo de una gran encina, y a Absalón se le quedó trabada la cabeza en las ramas, por lo que se quedó colgado en el aire, pues el mulo siguió de largo.",
+					"number": 9,
+					"id": "0662595c-f851-41cc-b8c7-354bd4d0076c"
+				},
+				{
+					"verse": "Alguien que vio esto, fue a decirle a Joab:\n—He visto a Absalón colgado de una encina.",
+					"number": 10,
+					"id": "45adb424-1b99-456c-89ab-b7b25c7c2e1b"
+				},
+				{
+					"verse": "Y Joab les respondió:\n—Pues si lo viste, ¿por qué no lo derribaste allí mismo? Yo con mucho gusto te habría dado diez monedas de plata y un cinturón.",
+					"number": 11,
+					"id": "2e6520a3-b5bc-4c9c-b198-e8011aa4f69d"
+				},
+				{
+					"verse": "Pero aquel hombre contestó a Joab:\n—Aunque me dieras mil monedas de plata, no atentaría contra el hijo del rey; porque nosotros escuchamos que el rey te ordenó a ti, a Abisai y a Itai, que protegieran al joven Absalón.",
+					"number": 12,
+					"id": "88d481da-1733-4f09-9f2b-2e04888ee64b"
+				},
+				{
+					"verse": "Por otro lado, si yo hubiera hecho tal cosa, habría sido en vano, porque no hay nada oculto para el rey, y tú no habrías hecho nada para protegerme.",
+					"number": 13,
+					"id": "c8a7690e-cb1d-42a6-9f6d-ab4ae7ff3400"
+				},
+				{
+					"verse": "—No voy a perder más tiempo contigo —le respondió Joab; y tomando tres dardos, los clavó en el corazón de Absalón, que aún estaba vivo en la encina.",
+					"number": 14,
+					"id": "02c1353a-f0a7-44fa-ba12-336d77468277"
+				},
+				{
+					"verse": "Luego, diez asistentes de Joab rodearon a Absalón, y lo remataron.",
+					"number": 15,
+					"id": "baaddacd-55ab-4a52-9e43-473889ff7744"
+				},
+				{
+					"verse": "A continuación Joab ordenó que tocaran la trompeta, y las tropas dejaron de perseguir a los de Israel, porque Joab las detuvo.",
+					"number": 16,
+					"id": "2a9ab4ed-669d-4051-aa14-826aff1e9d70"
+				},
+				{
+					"verse": "Entonces tomaron el cuerpo de Absalón, lo echaron en un gran hoyo que había en el bosque, y sobre él levantaron un enorme montón de piedras. Después todos los israelitas huyeron a sus casas.",
+					"number": 17,
+					"id": "1bc9e1ae-327c-4df6-9d28-6fdbb640bcab"
+				},
+				{
+					"verse": "En vida, Absalón se había mandado hacer un monumento de piedra, el que está en el Valle del Rey, y le había puesto su nombre, ya que no tenía ningún hijo que se lo conservara. Y hasta el presente se le conoce como «el monumento de Absalón».",
+					"number": 18,
+					"id": "ff026c39-88e2-4d69-b1a1-37ff11ee15d1"
+				},
+				{
+					"verse": "Luego Ahimaas, el hijo de Sadoc, dijo a Joab:\n—Te ruego que me dejes ir corriendo a avisar al rey que el Señor le ha hecho justicia librándolo del poder de sus enemigos.",
+					"number": 19,
+					"id": "5c617b47-fc9a-4a9f-b057-5e4f8fd1b5ea"
+				},
+				{
+					"verse": "Pero Joab le respondió:\n—Tú no eres hoy la persona ideal para llevar la noticia. Ya lo serás en otra ocasión, pero no hoy, porque el hijo del rey ha muerto.",
+					"number": 20,
+					"id": "ce3a0cad-66d0-41a0-af62-f48fb56bba31"
+				},
+				{
+					"verse": "Sin embargo, Joab dijo a un soldado etiope:\n—Ve tú, e informa al rey de lo que has visto.\nEl etiope hizo una reverencia a Joab y salió corriendo.",
+					"number": 21,
+					"id": "dc8bf0b6-384d-4997-b807-7d91019cc555"
+				},
+				{
+					"verse": "Ahimaas, por su parte, volvió a decir a Joab:\n—De todos modos, déjame correr detrás del etiope.\nPero Joab le contestó:\n—¿Para qué quieres ir tú, hijo mío, si no vas a recibir un premio por tu noticia?",
+					"number": 22,
+					"id": "057d4320-6eba-44b6-8b2f-697bddbe103e"
+				},
+				{
+					"verse": "—No importa, iré corriendo —contestó Ahimaas.\n—¡Pues corre! —le respondió Joab.\nEntonces Ahimaas echó a correr por el valle, y se adelantó al etiope.",
+					"number": 23,
+					"id": "ba968c39-b53d-4d13-9e3f-80d950e2335f"
+				},
+				{
+					"verse": "Mientras tanto, David estaba sentado entre las dos puertas de la entrada de la ciudad, y el centinela había subido a la azotea, encima de la puerta de la muralla. Al levantar la vista, el centinela vio a un hombre solo, que venía corriendo,",
+					"number": 24,
+					"id": "a9600073-970b-4095-8b8f-a8f2e4ad20fa"
+				},
+				{
+					"verse": "y lo anunció al rey en voz alta. El rey exclamó:\n—Si viene solo es que trae buenas noticias.\nMientras el hombre se acercaba,",
+					"number": 25,
+					"id": "d7b44509-daa1-4830-97b8-2e4ee7ca1dc7"
+				},
+				{
+					"verse": "el centinela vio a otro hombre que corría, y le gritó al guardián de la puerta:\n—¡Viene otro hombre corriendo!\n—También ha de traer buenas noticias —respondió el rey.",
+					"number": 26,
+					"id": "222318e2-4db5-4438-8029-74e3c2af44be"
+				},
+				{
+					"verse": "El centinela añadió:\n—Por su modo de correr, me parece que el primero es Ahimaas, el hijo de Sadoc.\n—Él es un buen hombre —comentó el rey—, y seguramente traerá buenas noticias.",
+					"number": 27,
+					"id": "d2256347-ab8a-4d19-9466-6dd90539f082"
+				},
+				{
+					"verse": "Ahimaas se acercó, e inclinándose hasta el suelo delante del rey, lo saludó y le dijo:\n—Bendito sea el Señor, el Dios de Su Majestad, porque ha quitado de en medio a los que se rebelaron contra Su Majestad.",
+					"number": 28,
+					"id": "293a24cf-36fb-4d63-8a4f-eba2975cf4f0"
+				},
+				{
+					"verse": "—¿Está bien el joven Absalón? —preguntó el rey.\nY Ahimaas respondió:\n—Yo vi un gran alboroto en el momento en que Joab, servidor de Su Majestad, me enviaba, pero no supe lo que pasaba.",
+					"number": 29,
+					"id": "acbc6edd-8cc9-45bc-99a5-f6aa132fff01"
+				},
+				{
+					"verse": "Entonces el rey le ordenó:\n—Colócate a un lado y quédate ahí.\nAhimaas lo hizo así.",
+					"number": 30,
+					"id": "edf24c89-44fc-4c14-a1d2-330081ef61ed"
+				},
+				{
+					"verse": "En aquel momento llegó el etiope, y dijo:\n—Reciba estas buenas noticias Su Majestad: hoy el Señor ha hecho justicia a Su Majestad, librándolo del poder de todos los que se rebelaron contra Su Majestad.",
+					"number": 31,
+					"id": "fa844abb-8081-4e55-baf2-f53a87da7d14"
+				},
+				{
+					"verse": "El rey preguntó al etiope:\n—Y el joven Absalón, ¿está bien?\nEl etiope contestó:\n—Ojalá que los enemigos de Su Majestad y todos los que se rebelen contra Su Majestad y busquen su mal, acaben como ese muchacho.",
+					"number": 32,
+					"id": "e22836b6-1e1c-4f10-bfc5-a55cec30541c"
+				},
+				{
+					"verse": "El rey se conmovió, y subiendo al cuarto que estaba encima de la puerta, se echó a llorar. Y mientras caminaba, decía: «¡Absalón, hijo mío! ¡Absalón, hijo mío! ¡Ojalá yo hubiera muerto en tu lugar! ¡Hijo mío, Absalón, hijo mío!»",
+					"number": 33,
+					"id": "d6196781-ec35-452d-9744-5e5073e693fe"
+				}
+			]
+		},
+		{
+			"chapter": "19",
+			"vers": [
+				{
+					"verse": "Cuando la gente supo que el rey lloraba y lamentaba la muerte de su hijo Absalón, fueron a decírselo a Joab. Y así aquel día la victoria se convirtió en motivo de tristeza.",
+					"number": 1,
+					"id": "dfd0a180-b643-4616-8491-5352ecb17add"
+				},
+				{
+					"verse": "El ejército mismo procuró disimular su entrada en la ciudad: avanzaban los soldados avergonzados, como si hubieran huido del campo de batalla.",
+					"number": 2,
+					"id": "221f0d0a-c0c8-4a28-97e4-86a29ddc84b8"
+				},
+				{
+					"verse": "Mientras tanto el rey, cubriéndose la cara, gritaba a voz en cuello: «¡Absalón, hijo mío! ¡Absalón, hijo mío, hijo mío!»",
+					"number": 3,
+					"id": "7bf7f867-c947-4878-9bdc-e6b1ce96878c"
+				},
+				{
+					"verse": "Joab fue entonces a palacio, y le dijo al rey:\n—Su Majestad ha puesto en vergüenza a sus servidores, que hoy han salvado la vida de Su Majestad y de sus hijos, hijas, esposas y concubinas.",
+					"number": 4,
+					"id": "8b81d435-d64c-4a3e-b6e3-32e039c9728d"
+				},
+				{
+					"verse": "Su Majestad ha demostrado hoy que nada le importan sus jefes y oficiales, pues ama a quienes lo odian, y odia a quienes lo aman. Hoy me he dado cuenta de que para Su Majestad sería mejor que Absalón estuviera vivo, aunque todos nosotros hubiéramos muerto.",
+					"number": 5,
+					"id": "33f0d57e-d53b-415f-9c46-74b9b80652e2"
+				},
+				{
+					"verse": "Salga, pues, ahora Su Majestad, y aliente con sus palabras a sus seguidores, pues de lo contrario juro por el Señor a Su Majestad que esta noche no le quedará ni un solo partidario. Esto será para Su Majestad peor que todos los males que le han ocurrido desde su juventud hasta el presente.",
+					"number": 6,
+					"id": "b9eeba5c-b124-4202-a66f-5ff62373ccb1"
+				},
+				{
+					"verse": "Entonces el rey se levantó y fue a sentarse a la puerta de la ciudad. Y cuando se informó a todo el pueblo de que el rey estaba sentado a la puerta, fueron todos a presentarse ante él.\nEn cuanto a los de Israel, todos ellos habían huido a sus casas.",
+					"number": 7,
+					"id": "c25d063b-42aa-4c4b-b821-e610d09a70ed"
+				},
+				{
+					"verse": "Y en todas las tribus de Israel la gente discutía y decía: «El rey David nos libró del dominio de nuestros enemigos, los filisteos; y, sin embargo, por causa de Absalón, ha tenido que huir del país.",
+					"number": 8,
+					"id": "7c6ece8c-cacd-45fe-9a86-49035044f66f"
+				},
+				{
+					"verse": "Y Absalón, a quien nosotros habíamos consagrado como nuestro rey, ha muerto en la batalla. ¿Qué esperamos, pues, que no hacemos volver al rey David?»",
+					"number": 9,
+					"id": "7718a8ca-04d3-4ac6-9446-ce389edb5452"
+				},
+				{
+					"verse": "Este comentario de todo Israel llegó hasta la casa del rey David. Entonces él mandó recado a los sacerdotes Sadoc y Abiatar, diciéndoles: «Hablen ustedes con los ancianos de Judá, y pregúntenles por qué se retrasan en hacer que yo regrese a mi palacio;",
+					"number": 10,
+					"id": "dc7ed824-3b1b-443d-9dd7-896c29b2fe19"
+				},
+				{
+					"verse": "díganles que no hay razón para que ellos sean los últimos en hacerme volver, puesto que son mis hermanos de tribu.»",
+					"number": 11,
+					"id": "dc4a64e8-8d80-4e75-a4b9-59e9f6b641de"
+				},
+				{
+					"verse": "Ordenó, además, que se dijera a Amasá: «Tú eres de mi misma sangre, así que de ahora en adelante tú serás el general de mi ejército, en lugar de Joab. Y si no te lo cumplo, que el Señor me castigue duramente.»",
+					"number": 12,
+					"id": "10311a01-aa55-4939-b47a-c9a777c0a8bf"
+				},
+				{
+					"verse": "Así convenció a los hombres de Judá, y todos ellos, como un solo hombre, mandaron decir al rey que volviera con todos sus oficiales.",
+					"number": 13,
+					"id": "4f8743d6-54f2-4061-a297-f150b7429996"
+				},
+				{
+					"verse": "Entonces el rey emprendió el regreso, y llegó al río Jordán. Los de Judá, por su parte, fueron a Guilgal para recibirlo y ayudarlo a cruzar el Jordán.",
+					"number": 14,
+					"id": "42526739-5e13-4630-967c-b9d3b65dcbff"
+				},
+				{
+					"verse": "También Simí, que era hijo de Guerá, de la tribu de Benjamín, y natural de Bahurim, se apresuró a bajar con los hombres de Judá para recibir al rey David.",
+					"number": 15,
+					"id": "09682017-0d86-40e5-849e-cdf1bd5126ea"
+				},
+				{
+					"verse": "Le acompañaban mil hombres de Benjamín. A su vez, Sibá, el criado de la familia de Saúl, acompañado de sus quince hijos y sus veinte esclavos, llegó al Jordán antes que el rey y",
+					"number": 16,
+					"id": "b122f835-93a9-4d88-bfd6-72de359f51fa"
+				},
+				{
+					"verse": "atravesó el vado del río para ayudar a la familia del rey a cruzarlo, y así quedar bien con él. Cuando el rey se disponía a cruzar el Jordán, Simí se inclinó delante de él,",
+					"number": 17,
+					"id": "a55e8cb0-d39d-422e-95c3-71c9cd2bfb5c"
+				},
+				{
+					"verse": "y le dijo:\n—Ruego a Su Majestad que no tome en cuenta mi falta ni recuerde el delito que este servidor suyo cometió el día en que Su Majestad salió de Jerusalén. No me guarde rencor,",
+					"number": 18,
+					"id": "3fc57596-867d-42c1-94c2-33f9a6000697"
+				},
+				{
+					"verse": "pues yo mismo reconozco mi culpa, y de toda la casa de José hoy he sido el primero en salir a recibir a Su Majestad.",
+					"number": 19,
+					"id": "a4e47266-a5e1-4e65-b58b-926adcae9b8d"
+				},
+				{
+					"verse": "Entonces Abisai, hijo de Seruiá, dijo:\n—¿Acaso no merece la muerte Simí, por haber maldecido al rey escogido por el Señor?",
+					"number": 20,
+					"id": "ff127ac0-80fa-4642-bdec-6c52701e1021"
+				},
+				{
+					"verse": "Pero David respondió:\n—¡Esto no es asunto de ustedes, hijos de Seruiá! ¿Por qué se oponen a mí? Ahora sé bien que soy el rey de Israel, así que nadie en Israel morirá en este día.",
+					"number": 21,
+					"id": "dd3ca3ac-ce2a-4f15-bc17-13d6c5a10076"
+				},
+				{
+					"verse": "Luego, dirigiéndose a Simí, le juró que no moriría.",
+					"number": 22,
+					"id": "40ccde0f-b935-4b29-a8a9-9a02e8c15ece"
+				},
+				{
+					"verse": "También salió a recibirlo Mefi-bóset, el hijo de Saúl. Desde el día en que el rey salió, y hasta que volvió sano y salvo, no se había lavado los pies, ni cortado la barba, ni lavado su ropa.",
+					"number": 23,
+					"id": "350b9f79-0687-4212-a37a-607f12d99901"
+				},
+				{
+					"verse": "Y cuando vino a Jerusalén para recibir al rey, éste le dijo:\n—Mefi-bóset, ¿por qué no viniste conmigo?",
+					"number": 24,
+					"id": "90ebb911-3b80-4f46-ad32-8a55648e8638"
+				},
+				{
+					"verse": "Él respondió:\n—Mi criado me engañó, Majestad. Como soy inválido, le ordené que me aparejara un asno para montar en él e irme con Su Majestad.",
+					"number": 25,
+					"id": "e9cffd3b-f651-4387-83bb-f2565e531e2e"
+				},
+				{
+					"verse": "Pero él me ha calumniado ante Su Majestad. Sin embargo, Su Majestad es como un ángel de Dios y hará lo que mejor le parezca.",
+					"number": 26,
+					"id": "36795280-4b40-4ee6-a5b8-12bbcced2790"
+				},
+				{
+					"verse": "Y aunque toda mi familia paterna era digna de muerte ante Su Majestad, este siervo suyo fue invitado a comer en la mesa de Su Majestad. ¿Qué más puedo pedir de Su Majestad?",
+					"number": 27,
+					"id": "395e8d7b-405e-4091-9153-0e91848a50a3"
+				},
+				{
+					"verse": "El rey le respondió:\n—No hay nada más que hablar. Ya he ordenado que tú y Sibá se repartan las tierras.",
+					"number": 28,
+					"id": "beafcba5-22ad-4f56-9fdb-c96695fc5af3"
+				},
+				{
+					"verse": "Pero Mefi-bóset le contestó:\n—Que se quede él con todas. Lo importante es que Su Majestad ha vuelto sano y salvo a su palacio.",
+					"number": 29,
+					"id": "2b7a10da-1e78-461b-9771-812e8372ead2"
+				},
+				{
+					"verse": "En cuanto a Barzilai, el de Galaad, había bajado de Roguelim para acompañar al rey a cruzar el Jordán y allí despedirse de él.",
+					"number": 30,
+					"id": "0f7f90a1-5f9e-4929-87df-3201ec05a9f9"
+				},
+				{
+					"verse": "Era ya muy anciano, pues tenía ochenta años, y durante el tiempo en que el rey estuvo en Mahanaim había dado al rey todo lo necesario, porque era muy rico.",
+					"number": 31,
+					"id": "f360cb25-1f0d-46af-8046-334c7d361d84"
+				},
+				{
+					"verse": "El rey dijo entonces a Barzilai:\n—Vente conmigo a Jerusalén, y allí me haré cargo de ti.",
+					"number": 32,
+					"id": "e9295fc5-1165-43e0-92ea-2179cc9c639e"
+				},
+				{
+					"verse": "Pero Barzilai le respondió:\n—Me quedan pocos años de vida para irme ahora a Jerusalén con Su Majestad,",
+					"number": 33,
+					"id": "d710808d-233d-43b0-a9a1-58e20fb77e1d"
+				},
+				{
+					"verse": "pues ya tengo ochenta años; he perdido el gusto de lo que como y lo que bebo, y ya no puedo decir si tiene buen o mal sabor; tampoco puedo oír ya la voz de los cantores y cantoras. ¿Por qué he de convertirme en una carga para Su Majestad?",
+					"number": 34,
+					"id": "598a7437-1f11-4227-8984-0628a24cbe47"
+				},
+				{
+					"verse": "Si únicamente voy a acompañar a Su Majestad a cruzar el Jordán, ¿por qué ha de ofrecerme Su Majestad esta recompensa?",
+					"number": 35,
+					"id": "d66c2dc6-2969-4dae-b2ee-5ed583b1c957"
+				},
+				{
+					"verse": "Antes rogaría a Su Majestad que me permita volver a mi pueblo para morir allá y ser enterrado en la tumba de mis padres. Pero aquí tiene Su Majestad a otro servidor: mi hijo Quimham. Que vaya él con Su Majestad, y haga Su Majestad por él lo que crea más conveniente.",
+					"number": 36,
+					"id": "4019df7e-dab0-4fd7-8277-9b36cafb11f7"
+				},
+				{
+					"verse": "El rey contestó:\n—Que venga conmigo Quimham, y haré por él lo que tú creas más conveniente. Y todo lo que me pidas, te lo concederé.",
+					"number": 37,
+					"id": "ff297a7e-b2c2-45e6-8181-6b0771ade9ac"
+				},
+				{
+					"verse": "Toda la gente cruzó el Jordán. Y cuando el rey lo cruzó, dio a Barzilai un beso de despedida. Entonces Barzilai regresó al lugar donde vivía.",
+					"number": 38,
+					"id": "5b1da897-1621-45b2-a9e2-268c96dbc8f7"
+				},
+				{
+					"verse": "El rey, por su parte, se dirigió a Guilgal, acompañado de Quimham y de toda la gente de Judá, así como de la mitad de la gente de Israel.",
+					"number": 39,
+					"id": "a17ca0de-4a7f-45ca-994c-607f399f2821"
+				},
+				{
+					"verse": "Todos los israelitas fueron entonces a ver al rey, y le dijeron:\n—¿Por qué han de ser nuestros hermanos de Judá quienes se adueñen de Su Majestad, y quienes lo escolten a él y a la familia real, y a todo su ejército, en el paso del Jordán?",
+					"number": 40,
+					"id": "ef840ac0-6b55-4626-8564-859338d802a0"
+				},
+				{
+					"verse": "Todos los de Judá respondieron a los de Israel:\n—Porque el rey es nuestro pariente cercano. Pero no hay razón para que ustedes se enojen. ¿Acaso comemos nosotros a costa del rey, o hemos tomado algo para nosotros?",
+					"number": 41,
+					"id": "e0b26b71-fa99-4aec-b14d-b94377daefbe"
+				},
+				{
+					"verse": "Los de Israel contestaron:\n—Nosotros tenemos sobre el rey diez veces más derecho que ustedes. Además, como tribus, somos los hermanos mayores de ustedes. Así pues, ¿por qué nos menosprecian? ¿Acaso no fuimos nosotros los primeros en decidir que regresara nuestro rey?\nSin embargo, los de Judá discutieron con mayor violencia que los de Israel.",
+					"number": 42,
+					"id": "37b61b1c-0413-466b-bfed-e669efa1089c"
+				}
+			]
+		},
+		{
+			"chapter": "20",
+			"vers": [
+				{
+					"verse": "Un malvado de la tribu de Benjamín, que se llamaba Sebá y era hijo de Bicrí, se encontraba en Guilgal. Este Sebá incitó al pueblo a levantarse en armas, diciendo: «¡Nosotros no tenemos parte ni herencia con David, el hijo de Jesé! ¡Todos a sus casas, israelitas!»",
+					"number": 1,
+					"study": "Sublevación de Seba",
+					"id": "a0cc2e94-6acf-4976-9445-399b70670d47"
+				},
+				{
+					"verse": "Todos los hombres de Israel abandonaron a David para seguir a Sebá, hijo de Bicrí. Pero los de Judá, desde el Jordán hasta Jerusalén, se mantuvieron fieles a su rey.",
+					"number": 2,
+					"id": "7a0f1dcb-852a-476b-a34d-33bbfcd07959"
+				},
+				{
+					"verse": "Cuando David regresó a su palacio, en Jerusalén, tomó a las diez concubinas que había dejado cuidando el palacio y las metió en una casa, bajo vigilancia. Allí siguió cuidando de ellas, pero no volvió a tener relaciones sexuales con ellas. Así ellas se quedaron encerradas, viviendo como viudas hasta el día de su muerte.",
+					"number": 3,
+					"id": "da940664-56d8-41bf-94c1-c8afc0e067be"
+				},
+				{
+					"verse": "Después el rey ordenó a Amasá:\n—Llama a los hombres de Judá, y dentro de tres días preséntate aquí con ellos.",
+					"number": 4,
+					"id": "13ee2432-38c5-4b4b-9088-78e6802ebac4"
+				},
+				{
+					"verse": "Amasá fue a reunirlos, pero tardó más tiempo del que se le había señalado.",
+					"number": 5,
+					"id": "c839a8b1-dedd-4c68-9313-74c08254796e"
+				},
+				{
+					"verse": "Entonces dijo David a Abisai:\n—Sebá nos va a causar más daño que Absalón. Así que toma el mando de mis tropas y persíguelo, no sea que encuentre algunas ciudades amuralladas y se nos escape.",
+					"number": 6,
+					"id": "4fb6dd2b-1024-47af-b9c1-a0e77963a52b"
+				},
+				{
+					"verse": "Los hombres de Joab, con los quereteos y peleteos de la guardia real, y los mejores soldados, salieron de Jerusalén con Abisai, para perseguir a Sebá.",
+					"number": 7,
+					"id": "d579114a-4a9e-404c-85c1-3cd9e8989088"
+				},
+				{
+					"verse": "Cuando se encontraban cerca de la gran roca que está en Gabaón, Amasá les salió al encuentro. Joab llevaba puesto su uniforme de batalla, ajustado con un cinturón, y al costado una espada envainada, la cual podía desenvainar con sólo tirar hacia abajo.",
+					"number": 8,
+					"id": "870357b9-f72a-4e51-89cb-b4872cfb91c7"
+				},
+				{
+					"verse": "Y mientras Joab tomaba a Amasá por la barba con la mano derecha para besarlo, le preguntó:\n—¿Te ha ido bien, hermano?",
+					"number": 9,
+					"id": "f7df0e5e-a8f9-4742-ac5f-c8870336b7a7"
+				},
+				{
+					"verse": "Amasá no prestó atención a la espada que Joab llevaba en la mano. De pronto, Joab lo hirió con ella en el vientre, y todas sus entrañas se derramaron por el suelo. Murió sin que Joab tuviera que rematarlo. Luego Joab y su hermano Abisai siguieron persiguiendo a Sebá, hijo de Bicrí.",
+					"number": 10,
+					"id": "9c80b253-6672-4095-a66a-26fc8e1840bd"
+				},
+				{
+					"verse": "Entonces uno de los soldados de Joab se puso al lado del cuerpo de Amasá, y dijo:\n—¡El que esté a favor de Joab y de David, que siga a Joab!",
+					"number": 11,
+					"id": "e216d0f9-ba71-40d0-80b6-faff8d25c7aa"
+				},
+				{
+					"verse": "Pero Amasá seguía en medio del camino, revolcándose en su sangre; y viendo aquel soldado que toda la gente se detenía, hizo a Amasá a un lado del camino y lo tapó con una capa, pues se dio cuenta de que todos los que llegaban se quedaban parados junto a él.",
+					"number": 12,
+					"id": "e129e919-2b4f-461c-b3f1-b9c93a8fd2ed"
+				},
+				{
+					"verse": "Después de apartarlo del camino, pasaron todos los que andaban con Joab en persecución de Sebá.",
+					"number": 13,
+					"id": "69edb3de-c42f-43ff-ac94-fdd2810df0a6"
+				},
+				{
+					"verse": "Sebá pasó por todas las tribus de Israel hasta Abel-bet-maacá, y todos los descendientes de Bicrí se reunieron y entraron tras él en la ciudad.",
+					"number": 14,
+					"id": "289df30b-bf1d-434f-a9ce-fadcc05f2435"
+				},
+				{
+					"verse": "Cuando los hombres de Joab llegaron a Abel-bet-maacá, construyeron una rampa sobre la muralla exterior, para atacar la ciudad, y luego entre todos trataron de derribar la muralla.",
+					"number": 15,
+					"id": "1cc1fcd6-8d52-4ca8-a13b-2ad7006f1ea7"
+				},
+				{
+					"verse": "De pronto, una mujer muy astuta gritó desde la muralla de la ciudad:\n—¡Escúchenme! ¡Escúchenme, por favor! ¡Díganle de mi parte a Joab que se acerque, porque quiero hablar con él!",
+					"number": 16,
+					"id": "b4865d47-a80b-4c31-b439-9c19233e0a20"
+				},
+				{
+					"verse": "Cuando Joab se acercó, la mujer le preguntó:\n—¿Tú eres Joab?\n—Yo soy Joab —respondió él.\nElla dijo:\n—Escucha las palabras de esta sierva tuya.\n—Te escucho —contestó él.",
+					"number": 17,
+					"id": "09e2a7dd-beba-46a8-8c87-3c9f1680a65d"
+				},
+				{
+					"verse": "Entonces ella comenzó a decir:\n—Antiguamente decían: «Quien quiera saber algo, que pregunte en Abel.» Y así se solucionaba el asunto.",
+					"number": 18,
+					"id": "48f6e407-e64d-4eef-8cd4-c581f2cc30e4"
+				},
+				{
+					"verse": "Nuestra ciudad es una de las más pacíficas y fieles de Israel, ¡una de las más importantes! Sin embargo, tú estás tratando de destruirla. ¿Por qué quieres destruir lo que pertenece al Señor?",
+					"number": 19,
+					"id": "b5982668-dc94-4d52-a0ff-a903248311a3"
+				},
+				{
+					"verse": "Joab le contestó:\n—¡Eso ni pensarlo! No es mi intención destruirla ni dejarla en ruinas.",
+					"number": 20,
+					"id": "fe67da53-c5dc-4ae1-9a9f-7d3b178d38ac"
+				},
+				{
+					"verse": "No se trata de eso, sino que un hombre de los montes de Efraín, llamado Sebá, se ha levantado en armas contra el rey David. Entréguenmelo a él solo, y yo me retiraré de la ciudad.\n—Te echaremos su cabeza desde el muro —respondió la mujer a Joab.",
+					"number": 21,
+					"id": "27d77853-4939-460e-b50e-f2cb9a33daa1"
+				},
+				{
+					"verse": "En seguida fue ella a convencer con su astucia a toda la gente de la ciudad, y le cortaron la cabeza a Sebá y se la arrojaron a Joab. Entonces Joab ordenó que tocaran retirada, y se alejaron de la ciudad, cada cual a su casa, mientras que Joab regresó a Jerusalén para hablar con el rey.",
+					"number": 22,
+					"id": "c05ccc63-cbe0-4281-89cb-c82be02e77f3"
+				},
+				{
+					"verse": "Joab quedó al mando de todo el ejército de Israel, en tanto que Benaías, hijo de Joiadá, estaba al mando de la guardia de quereteos y peleteos.",
+					"number": 23,
+					"study": "Oficiales de David",
+					"id": "af006ce2-634b-4653-b713-1aa8e903c848"
+				},
+				{
+					"verse": "Adoram era el encargado del trabajo obligatorio, y el secretario del rey era Josafat, hijo de Ahilud.",
+					"number": 24,
+					"id": "ef22cc97-4a1f-47fb-904e-421771ce8110"
+				},
+				{
+					"verse": "Sevá era el cronista, y Sadoc y Abiatar los sacerdotes.",
+					"number": 25,
+					"id": "ce0f4e3a-b6b6-4af4-b938-c93c658b4c73"
+				},
+				{
+					"verse": "Irá, del pueblo de Jaír, era también sacerdote de David.",
+					"number": 26,
+					"id": "91f4b315-35b2-4bbe-814b-396fdd4bb4f1"
+				}
+			]
+		},
+		{
+			"chapter": "21",
+			"vers": [
+				{
+					"verse": "En tiempos de David hubo un hambre que duró tres años seguidos. Entonces David consultó al Señor, y el Señor le respondió: «El hambre se debe a los crímenes de Saúl y de su familia, porque asesinaron a los gabaonitas.»",
+					"number": 1,
+					"study": "Venganza de los gabaonitas",
+					"id": "4e13d3c1-2276-4d3f-b2b0-c8678417bdc6"
+				},
+				{
+					"verse": "David llamó a los gabaonitas y habló con ellos. (Los gabaonitas no eran israelitas, sino un grupo que aún quedaba de los amorreos con quienes los israelitas habían hecho un juramento, y a quienes Saúl, en su celo por la gente de Israel y de Judá, había tratado de exterminar.)",
+					"number": 2,
+					"id": "5e4abb2b-42a3-4ce7-8908-be1baf992a07"
+				},
+				{
+					"verse": "David les preguntó:\n—¿Qué puedo hacer por ustedes? ¿Cómo puedo reparar el daño que se les hizo, para que bendigan al pueblo del Señor?",
+					"number": 3,
+					"id": "10f52535-b419-467a-ba1b-a4e7fb28e47b"
+				},
+				{
+					"verse": "Los gabaonitas le respondieron:\n—No es cuestión de dinero lo que tenemos pendiente con Saúl y su familia, ni queremos que muera nadie en Israel.\nDavid les dijo:\n—Díganme entonces qué quieren que haga por ustedes.",
+					"number": 4,
+					"id": "c8b98773-ed3e-4564-928a-db933e72b302"
+				},
+				{
+					"verse": "Y ellos contestaron:\n—Del hombre que quiso destruirnos e hizo planes para eliminarnos y para que no permaneciéramos en todo el territorio de Israel,",
+					"number": 5,
+					"id": "0c06e969-2c1a-4c6f-92bf-ad06f727c401"
+				},
+				{
+					"verse": "queremos que se nos entreguen siete de sus descendientes, y nosotros los colgaremos ante el Señor en Guibeá de Saúl, el escogido del Señor.\nEl rey aceptó entregárselos,",
+					"number": 6,
+					"id": "585b1ac6-b876-4b2c-9693-063e83c0605e"
+				},
+				{
+					"verse": "aunque se compadeció de Mefi-bóset, hijo de Jonatán y nieto de Saúl, por el sagrado juramento que se habían hecho él y Jonatán.",
+					"number": 7,
+					"id": "c47d61f3-335f-4615-ae30-18878595ae5a"
+				},
+				{
+					"verse": "Sin embargo apresó a los dos hijos que Rispá, hija de Aiá, había tenido con Saúl, y que se llamaban Armoní y Mefi-bóset, y a los cinco hijos que Merab, hija de Saúl, tuvo con Adriel, hijo de Barzilai de Meholá,",
+					"number": 8,
+					"id": "81846aa5-5094-40f5-8ec7-a77451580c3e"
+				},
+				{
+					"verse": "y se los entregó a los de Gabaón, los cuales los ahorcaron en el monte delante del Señor. Así murieron juntos los siete, en los primeros días de la cosecha de la cebada.",
+					"number": 9,
+					"id": "6be3de19-239a-4c97-a422-f620129c88c4"
+				},
+				{
+					"verse": "Entonces Rispá, la hija de Aiá, se vistió con ropas ásperas en señal de luto, y se tendió sobre una peña. Allí se quedó, desde el comienzo de la cosecha de cebada hasta que llegaron las lluvias, sin dejar que los pájaros se acercaran a los cadáveres durante el día, ni los animales salvajes durante la noche.",
+					"number": 10,
+					"id": "1659049a-6b9c-425a-90fc-3c9ce8296202"
+				},
+				{
+					"verse": "Cuando le contaron a David lo que había hecho Rispá, la concubina de Saúl,",
+					"number": 11,
+					"id": "81ccacd9-9a1a-46f0-9eb1-c2aa7f8efb03"
+				},
+				{
+					"verse": "fue y recogió los restos de Saúl y de su hijo Jonatán, que estaban en posesión de los habitantes de Jabés de Galaad. Éstos los habían robado de la plaza de Bet-sán, donde los filisteos los colgaron el día que derrotaron a Saúl en Guilboa.",
+					"number": 12,
+					"id": "b96b7ae4-126c-41d8-a4fc-671dd59d137c"
+				},
+				{
+					"verse": "Luego ordenó David que trasladaran los restos de Saúl y de Jonatán, y que recogieran los restos de los ahorcados;",
+					"number": 13,
+					"id": "fef6da45-2981-43cb-bbce-122d0871e90c"
+				},
+				{
+					"verse": "y enterraron los restos de Saúl y de Jonatán en el sepulcro de Quis, el padre de Saúl, en Selá, en el territorio de Benjamín. Todo se hizo como el rey lo había ordenado. Y después de esto, Dios atendió las súplicas en favor del país.",
+					"number": 14,
+					"id": "6aa770d1-e471-4f12-8b47-9b8abddebba0"
+				},
+				{
+					"verse": "Los filisteos declararon de nuevo la guerra a Israel. Entonces David y sus oficiales salieron a luchar contra ellos. David se cansó demasiado,",
+					"number": 15,
+					"id": "4729cbbb-8b80-4fc8-831a-8474124da7d2"
+				},
+				{
+					"verse": "y un gigante llamado Isbí-benob trató de matarlo. Su lanza pesaba más de treinta kilos, y al cinto llevaba una espada nueva.",
+					"number": 16,
+					"id": "316ecb3e-1e3e-4f7d-9141-5f42a22796db"
+				},
+				{
+					"verse": "Pero Abisai, el hijo de Seruiá, fue en ayuda de David, y atacó al filisteo y lo mató. Entonces los hombres de David le hicieron prometer que ya no saldría más a la guerra con ellos, para que no se apagara la lámpara de Israel.",
+					"number": 17,
+					"id": "95ffbaef-f646-469b-a024-104385ccda68"
+				},
+				{
+					"verse": "Después hubo en Gob otra batalla contra los filisteos. En aquella ocasión, Sibecai el husatita mató a Saf, que era descendiente de los gigantes.",
+					"number": 18,
+					"study": "Los hombres de David matan a los gigantes",
+					"id": "a6a51bc7-0e46-422e-8fe3-ed49da7f2328"
+				},
+				{
+					"verse": "Y en otra batalla que hubo contra los filisteos, también en Gob, Elhanán, hijo de Jaír, de Belén, mató a Goliat el de Gat, cuya lanza tenía el asta tan grande como el rodillo de un telar.",
+					"number": 19,
+					"id": "512d2519-004b-4f56-8eaa-1b40c9ff982c"
+				},
+				{
+					"verse": "En Gat hubo otra batalla. Había allí un hombre de gran estatura, que tenía veinticuatro dedos: seis en cada mano y seis en cada pie. Era también descendiente de los gigantes,",
+					"number": 20,
+					"id": "e32df5a6-9901-460b-bd14-d05251c5e64e"
+				},
+				{
+					"verse": "pero desafió a Israel y lo mató Jonatán, hijo de Simá, el hermano de David.",
+					"number": 21,
+					"id": "eda43c6e-3d0f-4dd8-b1bd-5e5b2dcee98d"
+				},
+				{
+					"verse": "Estos cuatro gigantes eran descendientes de Réfah, el de Gat, pero cayeron a manos de David y de sus oficiales.",
+					"number": 22,
+					"id": "59542a9e-abbe-4b71-bf4d-89d0ff66a73a"
+				}
+			]
+		},
+		{
+			"chapter": "22",
+			"vers": [
+				{
+					"verse": "David entonó este canto al Señor cuando el Señor lo libró de caer en manos de Saúl y de todos sus enemigos.",
+					"number": 1,
+					"study": "Cántico de liberación de David",
+					"id": "bf44a859-c386-4d91-b8db-b0539a2f84bc"
+				},
+				{
+					"verse": "Dijo así:\n«Tú, Señor, eres mi protector,\nmi lugar de refugio,\nmi libertador,",
+					"number": 2,
+					"id": "9f9ad3a4-bc7d-4559-8365-d9fd4c004470"
+				},
+				{
+					"verse": "mi Dios,\nla roca que me protege,\nmi escudo,\nel poder que me salva,\nmi más alto escondite,\nmi más alto refugio,\nmi salvador.\n¡Me salvaste de la violencia!",
+					"number": 3,
+					"id": "7276befb-8333-4b9d-a9bd-0ecb70b5fce1"
+				},
+				{
+					"verse": "Tú, Señor, eres digno de alabanza:\ncuando te llamo, me salvas de mis enemigos.",
+					"number": 4,
+					"id": "5d5eda0b-df9c-4f9e-800f-1c6af0d0ada7"
+				},
+				{
+					"verse": "»Pues la muerte me enredó en sus olas;\nsentí miedo ante el torrente destructor.",
+					"number": 5,
+					"id": "b47d9ef0-bf05-4cc4-9d46-2fc3e6941743"
+				},
+				{
+					"verse": "La muerte me envolvió en sus lazos;\n¡me encontré en trampas mortales!",
+					"number": 6,
+					"id": "b636423c-9ba7-4220-9cf7-80889adddf61"
+				},
+				{
+					"verse": "En mi angustia llamé al Señor,\npedí ayuda a mi Dios,\ny él me escuchó desde su templo;\n¡mis gritos llegaron a sus oídos!",
+					"number": 7,
+					"id": "60305535-2fd8-4f97-9f22-eb4152dc9a45"
+				},
+				{
+					"verse": "»Hubo entonces un fuerte temblor de tierra:\ntemblaron las bases del cielo;\nfueron sacudidas por la furia del Señor.",
+					"number": 8,
+					"id": "d6a42742-dfea-4003-b13d-0c45576a05e0"
+				},
+				{
+					"verse": "De su nariz brotaba humo,\ny de su boca un fuego destructor;\n¡por la boca lanzaba carbones encendidos!",
+					"number": 9,
+					"id": "e4a4241a-6557-4e27-9a97-673dbbc6b2ca"
+				},
+				{
+					"verse": "Descorrió la cortina del cielo, y descendió.\n¡Debajo de sus pies había grandes nubarrones!",
+					"number": 10,
+					"id": "834d9a8a-9b03-4f12-ac1a-36ff1cb6126c"
+				},
+				{
+					"verse": "Montó en un ser alado, y voló;\nse le veía sobre las alas del viento.",
+					"number": 11,
+					"id": "014ca17a-780a-4698-93f3-b4d35d3ffb72"
+				},
+				{
+					"verse": "Tomó como tienda de campaña\nla densa oscuridad que le rodeaba\ny los nubarrones cargados de agua.",
+					"number": 12,
+					"id": "14736593-412d-4b59-ae1f-679a364dfda0"
+				},
+				{
+					"verse": "Un fulgor relampagueante salió de su presencia;\nllovieron carbones encendidos.",
+					"number": 13,
+					"id": "e0dca3ac-edef-4a26-b089-a85789ee09c2"
+				},
+				{
+					"verse": "»El Señor, el Altísimo,\nhizo oír su voz de trueno desde el cielo:",
+					"number": 14,
+					"id": "08e7a899-72fd-48dc-875c-a63d1a8b0815"
+				},
+				{
+					"verse": "lanzó sus flechas, sus relámpagos,\ny a mis enemigos hizo huir en desorden.",
+					"number": 15,
+					"id": "c2ec0476-6ea2-46d6-9b05-09b2a1c4f1ec"
+				},
+				{
+					"verse": "El fondo del mar quedó al descubierto;\nlas bases del mundo quedaron a la vista,\npor la voz amenazante del Señor,\npor el fuerte soplo que lanzó.",
+					"number": 16,
+					"id": "1b2a6e5a-1469-4aa7-8f5f-732b89a54c17"
+				},
+				{
+					"verse": "»Dios me tendió la mano desde lo alto,\ny con su mano me sacó del mar inmenso.",
+					"number": 17,
+					"id": "172da017-95c6-4c85-b26a-cab6b6e3d672"
+				},
+				{
+					"verse": "Me salvó de enemigos poderosos\nque me odiaban y eran más fuertes que yo.",
+					"number": 18,
+					"id": "2a3d29f6-aeca-412a-b4b3-4c39cfd13692"
+				},
+				{
+					"verse": "Me atacaron cuando yo estaba en desgracia,\npero el Señor me dio su apoyo:",
+					"number": 19,
+					"id": "9f92a16a-8ee8-414e-bb30-51647a4e4573"
+				},
+				{
+					"verse": "me sacó a la libertad;\n¡me salvó porque me amaba!",
+					"number": 20,
+					"id": "bd2be20b-9873-4fdf-b09a-ac1d948f2b7a"
+				},
+				{
+					"verse": "El Señor me ha dado la recompensa\nque merecía mi limpia conducta,",
+					"number": 21,
+					"id": "63712c72-ce0f-4246-b91a-d7f873f1e3d0"
+				},
+				{
+					"verse": "pues yo he seguido el camino del Señor;\n¡jamás he renegado de mi Dios!",
+					"number": 22,
+					"id": "e5471844-ccdb-4901-94ef-e783a6cc890e"
+				},
+				{
+					"verse": "Yo tengo presentes todos sus decretos;\n¡jamás me he desviado de sus leyes!",
+					"number": 23,
+					"id": "862c76c2-408e-47e3-8be3-38e072b13280"
+				},
+				{
+					"verse": "Me he conducido ante él sin tacha alguna;\nme he alejado de la maldad.",
+					"number": 24,
+					"id": "fe1e83f1-5c5a-4643-8d82-86af54410512"
+				},
+				{
+					"verse": "El Señor me ha recompensado\npor mi limpia conducta en su presencia.",
+					"number": 25,
+					"id": "909f1536-55ef-4682-ac1c-bb333f4c5025"
+				},
+				{
+					"verse": "»Tú, Señor, eres fiel con el que es fiel,\nirreprochable con el que es irreprochable,",
+					"number": 26,
+					"id": "8217a028-43f6-435f-b621-ff7cdb6529f2"
+				},
+				{
+					"verse": "sincero con el que es sincero,\npero sagaz con el que es astuto.",
+					"number": 27,
+					"id": "b7c981f2-9b1d-4928-9a4f-a1e55f3e9df1"
+				},
+				{
+					"verse": "Tú salvas a los humildes,\npero te fijas en los orgullosos\ny los humillas.",
+					"number": 28,
+					"id": "751ae7b1-95d4-4325-939e-0efbfc6df25e"
+				},
+				{
+					"verse": "Tú, Señor, eres mi luz;\ntú, Dios mío, alumbras mi oscuridad.",
+					"number": 29,
+					"id": "a3018a4d-a947-41dc-a702-ee8913390e8b"
+				},
+				{
+					"verse": "Con tu ayuda atacaré al enemigo\ny pasaré sobre el muro de sus ciudades.",
+					"number": 30,
+					"id": "192b48c6-2221-41c2-a0f0-476cb41a4c37"
+				},
+				{
+					"verse": "»El camino de Dios es perfecto;\nla promesa del Señor es digna de confianza.\n¡Dios protege a todos los que en él confían!",
+					"number": 31,
+					"id": "d2ca6232-bd95-42bd-b769-0e8536c12bae"
+				},
+				{
+					"verse": "¿Quién es Dios, fuera del Señor?\n¿Qué otro dios hay que pueda protegernos?",
+					"number": 32,
+					"id": "5630db4e-5d96-4284-8d58-e10612a6461b"
+				},
+				{
+					"verse": "Dios es mi refugio poderoso,\nquien hace intachable mi conducta,",
+					"number": 33,
+					"id": "7f6699b0-5ae1-45ef-8560-66159abf818f"
+				},
+				{
+					"verse": "quien me da pies ligeros, como de ciervo,\nquien me hace estar firme en las alturas,",
+					"number": 34,
+					"id": "bd78f7fe-666d-4b24-91cb-1ed555681eec"
+				},
+				{
+					"verse": "quien me entrena para la batalla,\nquien me da fuerzas para tensar arcos de bronce.",
+					"number": 35,
+					"id": "b8ec91c2-4de4-43ad-86c6-b9f9cfb8a1cf"
+				},
+				{
+					"verse": "»Tú me proteges y me salvas;\ntu bondad me ha hecho prosperar.",
+					"number": 36,
+					"id": "8ee00e3e-cf91-419b-8b9c-034bf2deca69"
+				},
+				{
+					"verse": "Has hecho fácil mi camino,\ny mis pies no han resbalado.",
+					"number": 37,
+					"id": "622edd31-3f3e-4fc6-ac2a-014b312d9773"
+				},
+				{
+					"verse": "»Perseguí a mis enemigos, los destruí,\ny sólo volví después de exterminarlos.",
+					"number": 38,
+					"id": "8abde313-596e-429d-b8dd-de0ea22636ab"
+				},
+				{
+					"verse": "¡Los exterminé! ¡Los hice pedazos!\nYa no se levantaron: ¡cayeron debajo de mis pies!",
+					"number": 39,
+					"id": "419ba7d0-671c-4100-bbb8-483e50a6c399"
+				},
+				{
+					"verse": "Tú me diste fuerza en la batalla;\nhiciste que los rebeldes se inclinaran ante mí,",
+					"number": 40,
+					"id": "1928fba8-5d1a-41bf-a58a-b1a924389aa2"
+				},
+				{
+					"verse": "y que delante de mi huyeran mis enemigos.\nAsí pude destruir a los que me odiaban.",
+					"number": 41,
+					"id": "55418f82-e9f8-4136-b1c2-b710d0fd12a1"
+				},
+				{
+					"verse": "Pedían ayuda, y nadie los ayudó;\nllamaban al Señor, y no les contestó.",
+					"number": 42,
+					"id": "523b9f49-b90f-4b44-bacd-2275590d32ee"
+				},
+				{
+					"verse": "¡Los deshice como a polvo del suelo!\n¡Los pisoteé como a barro de las calles!",
+					"number": 43,
+					"id": "75d19ad7-e8d8-4be0-a3ce-dbab9fefd71c"
+				},
+				{
+					"verse": "Me libraste de las luchas de mi pueblo,\nme mantuviste como jefe de las naciones,\ny me sirve gente que yo no conocía.",
+					"number": 44,
+					"id": "3c2b5522-9f91-4373-935a-253fcf58d68a"
+				},
+				{
+					"verse": "En cuanto me oyen, me obedecen;\ngente extranjera me halaga,",
+					"number": 45,
+					"id": "a2191d17-9fed-4a10-a64a-6a8e5d85baea"
+				},
+				{
+					"verse": "gente extranjera se acobarda\ny sale temblando de sus refugios.",
+					"number": 46,
+					"id": "4bb53600-fd3f-482c-87df-167b014f4eb8"
+				},
+				{
+					"verse": "»¡Viva el Señor! ¡Bendito sea mi protector!\n¡Sea enaltecido Dios, que me salva y me protege!",
+					"number": 47,
+					"id": "7cfca086-dc08-47fc-909c-b7c7eef45385"
+				},
+				{
+					"verse": "Él es el Dios que me ha vengado\ny que me ha sometido los pueblos.",
+					"number": 48,
+					"id": "22bc9ab1-2357-4570-bca9-357544b8ffda"
+				},
+				{
+					"verse": "Él me libra de mis enemigos,\nde los rebeldes que se alzaron contra mí.\n¡Tú, Señor, me salvas de los hombres violentos!",
+					"number": 49,
+					"id": "5dc041ce-e4bc-4552-a470-9af0b2d5234a"
+				},
+				{
+					"verse": "Por eso te alabo entre las naciones\ny canto himnos a tu nombre.",
+					"number": 50,
+					"id": "09b37119-4a94-4245-b28e-a3f36ef27e78"
+				},
+				{
+					"verse": "Concedes grandes victorias al rey que has escogido;\nsiempre tratas con amor a David y a su descendencia.»",
+					"number": 51,
+					"id": "95d75039-4fa5-423d-bb95-5e0d6380ec49"
+				}
+			]
+		},
+		{
+			"chapter": "23",
+			"vers": [
+				{
+					"verse": "Éstas son las últimas palabras de David:\n«David, el hijo de Jesé,\nel hombre a quien Dios ha enaltecido,\nel rey escogido por el Dios de Jacob,\nel dulce cantor de himnos de Israel,\nha declarado:",
+					"number": 1,
+					"study": "Ultimas palabras de David",
+					"id": "ad8ed63e-6582-4259-93e9-28ef344b4b46"
+				},
+				{
+					"verse": "»El Espíritu del Señor habla por medio de mí;\nsu palabra está en mi lengua.",
+					"number": 2,
+					"id": "4edc5f79-ecee-42af-a12e-e43e7ba97483"
+				},
+				{
+					"verse": "El Dios de Israel ha hablado;\nel Protector de Israel me ha dicho:\n\"El que gobierne a los hombres con justicia,\nel que gobierne en el temor de Dios,",
+					"number": 3,
+					"id": "8fc67d33-eddf-484e-aa38-541a16650e14"
+				},
+				{
+					"verse": "será como la luz de la aurora,\ncomo la luz del sol en una mañana sin nubes,\nque hace crecer la hierba después de la lluvia.\"",
+					"number": 4,
+					"id": "f2dc48ab-dd31-4034-851c-928ad2af38ff"
+				},
+				{
+					"verse": "Por eso mi descendencia está firme en Dios,\npues él hizo conmigo una alianza eterna,\ntotalmente reglamentada y segura.\nÉl me da la victoria completa\ny hace que se cumplan todos mis deseos.",
+					"number": 5,
+					"id": "30999327-dfc2-4953-bf2d-10ae572159f4"
+				},
+				{
+					"verse": "Pero todos los malhechores\nserán como espinos desechados,\nque nadie toma con la mano.",
+					"number": 6,
+					"id": "897298d9-f5f8-4088-a8b9-dcc67adcbfb8"
+				},
+				{
+					"verse": "Para tocarlos, se toma un hierro o una lanza,\ny se les echa en el fuego\npara que se quemen por completo.»",
+					"number": 7,
+					"id": "424cda59-87bc-4f7a-afb1-51978061b2af"
+				},
+				{
+					"verse": "Éstos son los nombres de los mejores soldados de David: Is-bóset, el hacmonita, jefe de los tres más valientes, que en una ocasión mató ochocientos hombres con su lanza.",
+					"number": 8,
+					"study": "Los valientes de David",
+					"id": "16528773-eb57-45c3-91c3-6d716abd5995"
+				},
+				{
+					"verse": "Después de él seguía Eleazar, hijo de Dodó, el ahohíta, que era uno de los tres más valientes. Estuvo con David en Pas-damim, cuando los filisteos se juntaron allí para la batalla y los israelitas se retiraron.",
+					"number": 9,
+					"id": "c1a7e2a4-fda1-46de-b095-39ac9b7836f6"
+				},
+				{
+					"verse": "Pero él se mantuvo firme, y estuvo matando filisteos hasta que la mano se le cansó y se le quedó pegada a la espada. Aquel día el Señor alcanzó una gran victoria. Luego el ejército siguió a Eleazar para apoderarse de lo que se le había quitado al enemigo.",
+					"number": 10,
+					"id": "39b77dd4-0501-4800-b023-bda40bcb1233"
+				},
+				{
+					"verse": "Tras Eleazar seguía Samá, hijo de Agué, el ararita. Cuando los filisteos se reunieron en Lehi, donde había un campo sembrado de lentejas, las tropas israelitas huyeron ante ellos.",
+					"number": 11,
+					"id": "e7f2d6c2-459d-4ceb-adf2-caa72966f1b6"
+				},
+				{
+					"verse": "Pero Samá se plantó en medio del campo y lo defendió, derrotando a los filisteos. Así el Señor alcanzó una gran victoria.",
+					"number": 12,
+					"id": "aec6a2aa-7e16-4ba1-b21d-b015826244bd"
+				},
+				{
+					"verse": "Una vez, en el tiempo de la cosecha, tres de los treinta valientes fueron a encontrarse con David en la cueva de Adulam. Las fuerzas filisteas estaban acampadas en el valle de Refaim.",
+					"number": 13,
+					"id": "13e8d5c4-f068-4a57-94dc-3638bced3cab"
+				},
+				{
+					"verse": "David se hallaba en la fortaleza, al tiempo que un destacamento filisteo se encontraba en Belén.",
+					"number": 14,
+					"id": "aba43b3b-5df2-4c6c-b1d0-94b4c9417571"
+				},
+				{
+					"verse": "Y David expresó este deseo: «¡Ojalá alguien me diera a beber agua del pozo que está en la puerta de Belén!»",
+					"number": 15,
+					"id": "9f940014-010b-4b34-9ce0-21203e09321a"
+				},
+				{
+					"verse": "Entonces los tres valientes penetraron en el campamento filisteo y sacaron agua del pozo que está a la entrada de Belén, y se la llevaron a David. Pero él no quiso beberla, sino que la derramó como ofrenda al Señor,",
+					"number": 16,
+					"id": "4d28cd0a-0485-4d0b-8a52-40ff168c54da"
+				},
+				{
+					"verse": "diciendo: «¡El Señor me libre de beberla! ¡Sería como beberme la sangre de estos hombres, que arriesgando sus vidas fueron a traerla!» Y no quiso beberla.\nEsta hazaña la realizaron los tres valientes.",
+					"number": 17,
+					"id": "e4f7d734-b5b1-4089-b96e-d22fbf6d259f"
+				},
+				{
+					"verse": "Abisai, hermano de Joab e hijo de Seruiá, era jefe de los treinta valientes. En cierta ocasión atacó a trescientos hombres con su lanza, y los mató. Así ganó fama entre los treinta,",
+					"number": 18,
+					"id": "0c0e1697-ea14-4608-86f7-fb64eaeabb25"
+				},
+				{
+					"verse": "y recibió más honores que todos ellos, pues llegó a ser su jefe. Pero no igualó a los tres primeros.",
+					"number": 19,
+					"id": "fdf3deb1-02e4-424d-929f-8b32075597aa"
+				},
+				{
+					"verse": "Benaías, hijo de Joiadá, del pueblo de Cabseel, era un hombre valiente que realizó muchas hazañas. Él fue quien mató a los dos hijos de Ariel de Moab. Un día en que estaba nevando bajó a un foso, y allí dentro mató a un león.",
+					"number": 20,
+					"id": "d555e313-1f47-40c1-95c0-a8f4b539038e"
+				},
+				{
+					"verse": "También mató a un egipcio de gran estatura, que iba armado con una lanza: Benaías lo atacó con un palo, le arrebató la lanza de la mano, y lo mató con su propia lanza.",
+					"number": 21,
+					"id": "3e75f4c2-55db-431c-9dff-26a89ba2823c"
+				},
+				{
+					"verse": "Esta acción de Benaías, hijo de Joiadá, le hizo ganar fama entre los treinta valientes;",
+					"number": 22,
+					"id": "6539f6e3-8a1d-4cd7-a621-a372cf7259fc"
+				},
+				{
+					"verse": "y recibió más honores que ellos, pero no igualó a los tres primeros. Y David lo puso al mando de su guardia personal.",
+					"number": 23,
+					"id": "2db6af49-f4ae-49cf-a41f-5022efaa2b7c"
+				},
+				{
+					"verse": "Entre los treinta valientes estaban: Asael, hermano de Joab; Elhanán, hijo de Dodó, de Belén;",
+					"number": 24,
+					"id": "5d98ca52-a897-4cf8-a843-d78bf8028402"
+				},
+				{
+					"verse": "Samá, de Harod; Elicá, también de Harod;",
+					"number": 25,
+					"id": "b075dea0-bef1-4524-910b-4818ad55bcb7"
+				},
+				{
+					"verse": "Heles, el paltita; Irá, hijo de Iqués, de Tecoa;",
+					"number": 26,
+					"id": "53b5e5ca-e3f9-4590-939d-a067baa2c11d"
+				},
+				{
+					"verse": "Abiézer, de Anatot; Sibecai, de Husah;",
+					"number": 27,
+					"id": "8c4e00d1-2cb0-4731-9112-9542e79cf521"
+				},
+				{
+					"verse": "Salmón, el ahohíta; Maharai, de Netofá;",
+					"number": 28,
+					"id": "ba973caa-bda5-4c2f-b5e8-224d96fd2fea"
+				},
+				{
+					"verse": "Héled, hijo de Baaná, también de Netofá; Itai, hijo de Ribai, de Guibeá, que está en el territorio de Benjamín;",
+					"number": 29,
+					"id": "1bb04abd-bf69-429c-8e69-4e3bf0a15bb1"
+				},
+				{
+					"verse": "Benaías, de Piratón; Hidai, del arroyo de Gaas;",
+					"number": 30,
+					"id": "87366171-38ae-4e74-afa8-533c51e414d8"
+				},
+				{
+					"verse": "Abí-albón, el arbatita; Azmávet, de Bahurim;",
+					"number": 31,
+					"id": "4f90bd40-696f-4ac1-ada4-e002528f04b2"
+				},
+				{
+					"verse": "Eliahbá, el saalbonita; los hijos de Jasén; Jonatán;",
+					"number": 32,
+					"id": "fd934ea5-2db6-468c-83b9-0359c2a1e049"
+				},
+				{
+					"verse": "Samá, el ararita; Ahiam, hijo de Sarar, también ararita;",
+					"number": 33,
+					"id": "9971d50e-c9c1-4c1d-a8a0-be9ba733d316"
+				},
+				{
+					"verse": "Elifélet, hijo de Ahasbai, hijo del de Maacá; Eliam, hijo de Ahitófel, de Guiló;",
+					"number": 34,
+					"id": "38e5f6e4-e205-4922-bec6-042a4b25b992"
+				},
+				{
+					"verse": "Hesrai, de Carmel; Paarai, el arbita;",
+					"number": 35,
+					"id": "08aca33c-e525-49f7-80ac-fbc568185642"
+				},
+				{
+					"verse": "Igal, hijo de Natán, de Sobá; Baní, de Gad;",
+					"number": 36,
+					"id": "9c579068-fc3f-44f8-a437-382eedd8bff3"
+				},
+				{
+					"verse": "Sélec, de Amón; Naharai, de Beerot, asistente de Joab, hijo de Seruiá;",
+					"number": 37,
+					"id": "26e87aa3-b4d5-4eed-9d12-e510a3d45434"
+				},
+				{
+					"verse": "Irá, de Jatir; Gareb, también de Jatir;",
+					"number": 38,
+					"id": "12bbc665-f9b7-4b1a-9549-b0fe9d657f4a"
+				},
+				{
+					"verse": "y Urías, el hitita. En total, treinta y siete.",
+					"number": 39,
+					"id": "010763c4-135d-4c3c-b08d-f3c8f67774c1"
+				}
+			]
+		},
+		{
+			"chapter": "24",
+			"vers": [
+				{
+					"verse": "El Señor volvió a encenderse en ira contra los israelitas, e incitó a David contra ellos, ordenándole que hiciera un censo de Israel y Judá.",
+					"number": 1,
+					"study": "David censa al pueblo",
+					"id": "468147d9-ca13-4d53-9afb-6d3947e7d893"
+				},
+				{
+					"verse": "Entonces el rey ordenó a Joab, jefe del ejército, que lo acompañaba:\n—Recorre todas las tribus de Israel, desde Dan hasta Beerseba, y haz el censo de la población, para que yo sepa cuántos habitantes hay.",
+					"number": 2,
+					"id": "e4f7d31f-1896-45f5-a5c5-6ee64d7bee3a"
+				},
+				{
+					"verse": "Pero Joab respondió al rey:\n—Que el Señor, el Dios de Su Majestad, aumente su pueblo cien veces más de lo que es ahora, y que Su Majestad viva para verlo; pero, ¿para qué desea Su Majestad hacer un censo?",
+					"number": 3,
+					"id": "aecd1362-9398-4129-a75a-fcb430d4d4c3"
+				},
+				{
+					"verse": "Sin embargo, la orden del rey se impuso a Joab y a los jefes del ejército, y por lo tanto Joab y los jefes del ejército se retiraron de la presencia del rey para hacer el censo del pueblo de Israel.",
+					"number": 4,
+					"id": "02bc2533-44b2-4f9d-a500-d0e86dfcce92"
+				},
+				{
+					"verse": "Atravesaron el río Jordán y comenzaron por Aroer y por la ciudad que está en medio del valle, en dirección a Gad y Jazer.",
+					"number": 5,
+					"id": "1508ae27-3274-4ce9-ac5b-cb8e26e2d57e"
+				},
+				{
+					"verse": "Después fueron a Galaad y a Cadés, en el país de los hititas. Llegaron luego a Dan, y desde Dan dieron la vuelta por Sidón.",
+					"number": 6,
+					"id": "d2507334-3c73-40b1-8bd5-a5bdace79c0f"
+				},
+				{
+					"verse": "Después fueron a la fortaleza de Tiro y a todas las ciudades de los heveos y los cananeos, hasta salir al sur de Judá, a Beerseba.",
+					"number": 7,
+					"id": "6c5e6051-698a-468a-b2ae-3f85ac3220a9"
+				},
+				{
+					"verse": "Al cabo de nueve meses y veinte días, y tras haber recorrido todo el país, llegaron a Jerusalén.",
+					"number": 8,
+					"id": "ac6ad2fb-aa40-44ea-90b6-f392a37b2759"
+				},
+				{
+					"verse": "Joab entregó al rey cifras del censo de la población, y resultó que había en Israel ochocientos mil hombres aptos para la guerra, y quinientos mil en Judá.",
+					"number": 9,
+					"id": "b31a97dc-4003-43f7-a117-decc5576c72f"
+				},
+				{
+					"verse": "Pero David se sintió culpable por haber hecho el censo de la población, y confesó al Señor:\n—He cometido un grave pecado al hacer esto. Pero te ruego, Señor, que perdones ahora el pecado de este siervo tuyo, pues me he portado como un necio.",
+					"number": 10,
+					"id": "6869646a-4940-41ec-97c2-9ce08837bb77"
+				},
+				{
+					"verse": "A la mañana siguiente, cuando se levantó David, dijo el Señor al profeta Gad, vidente al servicio de David:",
+					"number": 11,
+					"id": "aa760c57-6c69-49f9-b678-77851d51b1a1"
+				},
+				{
+					"verse": "«Ve a ver a David, y dile de mi parte que le propongo tres cosas, y que escoja la que él quiera que yo haga.»",
+					"number": 12,
+					"id": "431b6f6c-763c-4d90-a730-fab79657727b"
+				},
+				{
+					"verse": "Gad fue a ver a David, y le preguntó:\n—¿Qué prefieres: siete años de hambre en el país, tres meses huyendo tú de la persecución de tus enemigos, o tres días de peste en el país? Piensa y decide ahora lo que he de responder al que me ha enviado.",
+					"number": 13,
+					"id": "60adfb30-26a5-45d5-aaf0-99fddc13e6f5"
+				},
+				{
+					"verse": "Y David contestó a Gad:\n—Estoy en un grave aprieto. Ahora bien, es preferible que caigamos en manos del Señor, pues su bondad es muy grande, y no en manos de los hombres.",
+					"number": 14,
+					"id": "47fdbdc7-25a6-456d-a2df-0e15f353996d"
+				},
+				{
+					"verse": "Entonces mandó el Señor una peste sobre Israel, desde aquella misma mañana hasta la fecha indicada, y desde Dan hasta Beerseba murieron setenta mil personas.",
+					"number": 15,
+					"id": "ea581ad6-db35-451f-83c1-6c4576628865"
+				},
+				{
+					"verse": "Y cuando el ángel estaba a punto de destruir Jerusalén, le pesó al Señor aquel daño y ordenó al ángel que estaba hiriendo al pueblo: «¡Basta ya, no sigas!»\nEn aquel momento el ángel del Señor se encontraba junto al lugar donde Arauna el jebuseo trillaba el trigo.",
+					"number": 16,
+					"id": "d3e5be00-bb6f-429e-a816-2ff689d11aff"
+				},
+				{
+					"verse": "Y cuando David vio al ángel que hería a la población, dijo al Señor:\n—¡Yo soy quien ha pecado! ¡Yo soy el culpable! ¿Pero qué han hecho estos inocentes? ¡Yo te ruego que tu castigo caiga sobre mí y sobre mi familia!",
+					"number": 17,
+					"id": "d1bfc022-caf6-4277-a4ba-a6542d89b6cb"
+				},
+				{
+					"verse": "Aquel mismo día, Gad fue a ver a David, y le dijo que levantara un altar al Señor en el lugar donde Arauna el jebuseo trillaba el trigo.",
+					"number": 18,
+					"id": "9e3ba275-0ff4-4c86-b144-9898633ae4eb"
+				},
+				{
+					"verse": "Entonces David fue a hacer lo que Gad le había dicho por orden del Señor.",
+					"number": 19,
+					"id": "2ef5ab15-f50d-4fee-bf65-07c8237aa17b"
+				},
+				{
+					"verse": "Arauna estaba mirando a lo lejos, cuando vio que el rey y sus servidores se dirigían hacia él. Entonces Arauna se adelantó, e inclinándose delante del rey",
+					"number": 20,
+					"id": "13abbb31-04db-45e2-969d-4dd1c54cf20c"
+				},
+				{
+					"verse": "le dijo:\n—¿A qué se debe la visita de Su Majestad a su criado?\nDavid respondió:\n—Quiero comprarte el lugar donde trillas el trigo, para construir allí un altar al Señor, a fin de que la peste se retire del pueblo.",
+					"number": 21,
+					"id": "62d6af52-97ab-49b0-a057-c55d816b1997"
+				},
+				{
+					"verse": "Y Arauna le contestó:\n—Tome Su Majestad lo que le parezca mejor, y ofrezca holocaustos. Aquí hay toros para el holocausto, y los trillos y los yugos de las yuntas pueden servir de leña.",
+					"number": 22,
+					"id": "bcd13ffa-91aa-42a5-92a7-4a01c94de280"
+				},
+				{
+					"verse": "¡Todo esto se lo doy a Su Majestad!\nAdemás, Arauna exclamó:\n—¡Ojalá Su Majestad pueda complacer al Señor su Dios!",
+					"number": 23,
+					"id": "151669fe-8089-428b-8852-1bdbdb35e4a6"
+				},
+				{
+					"verse": "Pero el rey respondió:\n—Te lo agradezco, pero tengo que comprártelo todo pagándote lo que vale, pues no presentaré al Señor mi Dios holocaustos que no me hayan costado nada.\nDe esta manera David compró aquel lugar y los toros por cincuenta monedas de plata,",
+					"number": 24,
+					"id": "17203033-6cb7-4070-80ec-3cc29f6e5c82"
+				},
+				{
+					"verse": "y allí construyó un altar al Señor y ofreció holocaustos y sacrificios de reconciliación. Entonces el Señor atendió las súplicas en favor del país, y la peste se retiró de Israel.",
+					"number": 25,
+					"id": "828ce77d-2fad-4329-8afd-78e5b04550fa"
+				}
+			]
+		}
+	],
+	"book_id": "b8b48fee-92ee-42ae-86a1-424b9fd1b5ec"
+}

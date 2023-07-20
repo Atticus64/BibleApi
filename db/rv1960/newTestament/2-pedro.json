@@ -1,0 +1,332 @@
+{
+	"name": "2-Pedro",
+	"num_chapters": 3,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Simón Pedro, siervo y apóstol de Jesucristo, a los que habéis alcanzado, por la justicia de nuestro Dios y Salvador Jesucristo, una fe igualmente preciosa que la nuestra:",
+					"number": 1,
+					"study": "Salutación",
+					"id": "00e9dfb5-58f4-410a-a445-1346c2c0a424"
+				},
+				{
+					"verse": "Gracia y paz os sean multiplicadas, en el conocimiento de Dios y de nuestro Señor Jesús.",
+					"number": 2,
+					"id": "7c50fe63-868e-4944-be20-e6626024ec7d"
+				},
+				{
+					"verse": "Como todas las cosas que pertenecen a la vida y a la piedad nos han sido dadas por su divino poder, mediante el conocimiento de aquel que nos llamó por su gloria y excelencia,",
+					"number": 3,
+					"study": "Partícipes de la naturaleza divina",
+					"id": "8d0eae35-b828-4a2a-ade9-f7509112b798"
+				},
+				{
+					"verse": "por medio de las cuales nos ha dado preciosas y grandísimas promesas, para que por ellas llegaseis a ser participantes de la naturaleza divina, habiendo huido de la corrupción que hay en el mundo a causa de la concupiscencia;",
+					"number": 4,
+					"id": "3c7e1d20-965c-4912-b610-fbc8e858fd75"
+				},
+				{
+					"verse": "vosotros también, poniendo toda diligencia por esto mismo, añadid a vuestra fe virtud; a la virtud, conocimiento;",
+					"number": 5,
+					"id": "016c8ea5-7f40-405b-8bc7-815442e1510a"
+				},
+				{
+					"verse": "al conocimiento, dominio propio; al dominio propio, paciencia; a la paciencia, piedad;",
+					"number": 6,
+					"id": "4cf2518e-e36a-4b51-a766-0cadec372a14"
+				},
+				{
+					"verse": "a la piedad, afecto fraternal; y al afecto fraternal, amor.",
+					"number": 7,
+					"id": "bb936acc-eb50-4a11-94a9-fc0ddf552c62"
+				},
+				{
+					"verse": "Porque si estas cosas están en vosotros, y abundan, no os dejarán estar ociosos ni sin fruto en cuanto al conocimiento de nuestro Señor Jesucristo.",
+					"number": 8,
+					"id": "37007eef-1501-4d22-8915-459b5f2dfcec"
+				},
+				{
+					"verse": "Pero el que no tiene estas cosas tiene la vista muy corta; es ciego, habiendo olvidado la purificación de sus antiguos pecados.",
+					"number": 9,
+					"id": "f1c83f46-501c-4c1f-82c8-9ed18f36783c"
+				},
+				{
+					"verse": "Por lo cual, hermanos, tanto más procurad hacer firme vuestra vocación y elección; porque haciendo estas cosas, no caeréis jamás.",
+					"number": 10,
+					"id": "ec00267a-61a3-4a55-86af-82fd3a194019"
+				},
+				{
+					"verse": "Porque de esta manera os será otorgada amplia y generosa entrada en el reino eterno de nuestro Señor y Salvador Jesucristo.",
+					"number": 11,
+					"id": "b9c4386b-ba91-4d5c-a609-c9183733563a"
+				},
+				{
+					"verse": "Por esto, yo no dejaré de recordaros siempre estas cosas, aunque vosotros las sepáis, y estéis confirmados en la verdad presente.",
+					"number": 12,
+					"id": "3cfee197-a39e-4ae9-80cd-04330f2960e3"
+				},
+				{
+					"verse": "Pues tengo por justo, en tanto que estoy en este cuerpo, el despertaros con amonestación;",
+					"number": 13,
+					"id": "837dd87f-5f6b-463c-b883-e9f55f4b727e"
+				},
+				{
+					"verse": "sabiendo que en breve debo abandonar el cuerpo, como nuestro Señor Jesucristo me ha declarado.",
+					"number": 14,
+					"id": "1c8eb382-7f7a-4df0-8207-59c8f29cbc72"
+				},
+				{
+					"verse": "También yo procuraré con diligencia que después de mi partida vosotros podáis en todo momento tener memoria de estas cosas.",
+					"number": 15,
+					"id": "59da97ad-80f4-4261-b6cc-af55d87bdede"
+				},
+				{
+					"verse": "Porque no os hemos dado a conocer el poder y la venida de nuestro Señor Jesucristo siguiendo fábulas artificiosas, sino como habiendo visto con nuestros propios ojos su majestad.",
+					"number": 16,
+					"study": "Testigos presenciales de la gloria de Cristo",
+					"id": "867eb7ea-c91e-43c5-9956-a386934cba03"
+				},
+				{
+					"verse": "Pues cuando él recibió de Dios Padre honra y gloria, le fue enviada desde la magnífica gloria una voz que decía: Este es mi Hijo amado, en el cual tengo complacencia.",
+					"number": 17,
+					"id": "f3672ea1-1fbb-4acc-a956-aef25fef9d13"
+				},
+				{
+					"verse": "Y nosotros oímos esta voz enviada del cielo, cuando estábamos con él en el monte santo.",
+					"number": 18,
+					"id": "893a05fe-4c0b-444f-9ff3-0760eb958476"
+				},
+				{
+					"verse": "Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y el lucero de la mañana salga en vuestros corazones;",
+					"number": 19,
+					"id": "28c18fe8-ed2c-46c9-a07e-8c48cb84fcff"
+				},
+				{
+					"verse": "entendiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada,",
+					"number": 20,
+					"id": "f256b13a-df75-4388-9752-6696668e481e"
+				},
+				{
+					"verse": "porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo.",
+					"number": 21,
+					"id": "640f2c0f-ae5c-48c7-bc67-266ccd2387fd"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Pero hubo también falsos profetas entre el pueblo, como habrá entre vosotros falsos maestros, que introducirán encubiertamente herejías destructoras, y aun negarán al Señor que los rescató, atrayendo sobre sí mismos destrucción repentina.",
+					"number": 1,
+					"study": "Falsos profestas y falsos maestros",
+					"id": "e6d74590-4aa8-49a0-9450-76ce5d004230"
+				},
+				{
+					"verse": "Y muchos seguirán sus disoluciones, por causa de los cuales el camino de la verdad será blasfemado,",
+					"number": 2,
+					"id": "91cb6bf1-5e19-46c4-b461-eecf20daa590"
+				},
+				{
+					"verse": "y por avaricia harán mercadería de vosotros con palabras fingidas. Sobre los tales ya de largo tiempo la condenación no se tarda, y su perdición no se duerme.",
+					"number": 3,
+					"id": "610fd840-9835-4ff5-bc24-1b83fc489681"
+				},
+				{
+					"verse": "Porque si Dios no perdonó a los ángeles que pecaron, sino que arrojándolos al infierno los entregó a prisiones de oscuridad, para ser reservados al juicio;",
+					"number": 4,
+					"id": "6774bab2-a5e5-4018-baea-89c724db9952"
+				},
+				{
+					"verse": "y si no perdonó al mundo antiguo, sino que guardó a Noé, pregonero de justicia, con otras siete personas, trayendo el diluvio sobre el mundo de los impíos;",
+					"number": 5,
+					"id": "cd781abf-324b-4a5c-8636-7d7c4b989c9b"
+				},
+				{
+					"verse": "y si condenó por destrucción a las ciudades de Sodoma y de Gomorra, reduciéndolas a ceniza y poniéndolas de ejemplo a los que habían de vivir impíamente,",
+					"number": 6,
+					"id": "01dba9e0-5ea3-451c-b986-c37a23139dcc"
+				},
+				{
+					"verse": "y libró al justo Lot, abrumado por la nefanda conducta de los malvados",
+					"number": 7,
+					"id": "9027a97e-eeed-4838-acc6-bca0cb5f1ffb"
+				},
+				{
+					"verse": "(porque este justo, que moraba entre ellos, afligía cada día su alma justa, viendo y oyendo los hechos inicuos de ellos),",
+					"number": 8,
+					"id": "e77c6392-2778-4757-8099-f3c4a83a80a0"
+				},
+				{
+					"verse": "sabe el Señor librar de tentación a los piadosos, y reservar a los injustos para ser castigados en el día del juicio;",
+					"number": 9,
+					"id": "5e94db42-22bc-45e9-8e10-fc93eca26286"
+				},
+				{
+					"verse": "y mayormente a aquellos que, siguiendo la carne, andan en concupiscencia e inmundicia, y desprecian el señorío. Atrevidos y contumaces, no temen decir mal de las potestades superiores,",
+					"number": 10,
+					"id": "a7141f44-a4c5-4e3f-958c-4e9375c36d37"
+				},
+				{
+					"verse": "mientras que los ángeles, que son mayores en fuerza y en potencia, no pronuncian juicio de maldición contra ellas delante del Señor.",
+					"number": 11,
+					"id": "28fb8b58-3cc1-44dc-8c28-662a183b22ad"
+				},
+				{
+					"verse": "Pero éstos, hablando mal de cosas que no entienden, como animales irracionales, nacidos para presa y destrucción, perecerán en su propia perdición,",
+					"number": 12,
+					"id": "68a50a10-963a-4b47-a668-c60f81a2955d"
+				},
+				{
+					"verse": "recibiendo el galardón de su injusticia, ya que tienen por delicia el gozar de deleites cada día. Estos son inmundicias y manchas, quienes aun mientras comen con vosotros, se recrean en sus errores.",
+					"number": 13,
+					"id": "8f6bd9c0-1b0d-43e6-8f25-ddb65cd456df"
+				},
+				{
+					"verse": "Tienen los ojos llenos de adulterio, no se sacian de pecar, seducen a las almas inconstantes, tienen el corazón habituado a la codicia, y son hijos de maldición.",
+					"number": 14,
+					"id": "7d8be1cb-8795-4ffb-ab7d-1eab317c98f6"
+				},
+				{
+					"verse": "Han dejado el camino recto, y se han extraviado siguiendo el camino de Balaam hijo de Beor, el cual amó el premio de la maldad,",
+					"number": 15,
+					"id": "4850ee60-97b6-4f5c-9ab1-fc285176dc47"
+				},
+				{
+					"verse": "y fue reprendido por su iniquidad; pues una muda bestia de carga, hablando con voz de hombre, refrenó la locura del profeta.",
+					"number": 16,
+					"id": "e7fbf22d-c491-43b5-8ba2-1655d2af361b"
+				},
+				{
+					"verse": "Estos son fuentes sin agua, y nubes empujadas por la tormenta; para los cuales la más densa oscuridad está reservada para siempre.",
+					"number": 17,
+					"id": "32f03a6a-29f6-4952-bc62-f0ed6fe6a252"
+				},
+				{
+					"verse": "Pues hablando palabras infladas y vanas, seducen con concupiscencias de la carne y disoluciones a los que verdaderamente habían huido de los que viven en error.",
+					"number": 18,
+					"id": "56fab538-3b90-4024-a3f6-11dfcf9e30b4"
+				},
+				{
+					"verse": "Les prometen libertad, y son ellos mismos esclavos de corrupción. Porque el que es vencido por alguno es hecho esclavo del que lo venció.",
+					"number": 19,
+					"id": "d8bb7dae-28b4-4bf5-a108-c294b453a15d"
+				},
+				{
+					"verse": "Ciertamente, si habiéndose ellos escapado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, enredándose otra vez en ellas son vencidos, su postrer estado viene a ser peor que el primero.",
+					"number": 20,
+					"id": "f718b8e4-c07e-42d7-8525-cd7346f9e30a"
+				},
+				{
+					"verse": "Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, volverse atrás del santo mandamiento que les fue dado.",
+					"number": 21,
+					"id": "af6d6ca8-a0e4-4681-96bc-a5c0ec4546a8"
+				},
+				{
+					"verse": "Pero les ha acontecido lo del verdadero proverbio: El perro vuelve a su vómito, y la puerca lavada a revolcarse en el cieno.",
+					"number": 22,
+					"id": "91127009-f4d0-4d75-89e6-957a28198831"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Amados, esta es la segunda carta que os escribo, y en ambas despierto con exhortación vuestro limpio entendimiento,",
+					"number": 1,
+					"study": "El día del Señor vendrá",
+					"id": "ae58ba4a-11e3-4867-a209-13329eb7e608"
+				},
+				{
+					"verse": "para que tengáis memoria de las palabras que antes han sido dichas por los santos profetas, y del mandamiento del Señor y Salvador dado por vuestros apóstoles;",
+					"number": 2,
+					"id": "7d7e089f-a0ec-45c0-a279-d1638c28ef7d"
+				},
+				{
+					"verse": "sabiendo primero esto, que en los postreros días vendrán burladores, andando según sus propias concupiscencias,",
+					"number": 3,
+					"id": "7f190561-62ad-414e-b797-8592788967b7"
+				},
+				{
+					"verse": "y diciendo: ¿Dónde está la promesa de su advenimiento? Porque desde el día en que los padres durmieron, todas las cosas permanecen así como desde el principio de la creación.",
+					"number": 4,
+					"id": "dc14d029-22fa-4a4a-9e88-e94427dfbf81"
+				},
+				{
+					"verse": "Estos ignoran voluntariamente, que en el tiempo antiguo fueron hechos por la palabra de Dios los cielos, y también la tierra, que proviene del agua y por el agua subsiste,",
+					"number": 5,
+					"id": "ea842604-69e6-4fb4-be2b-7208fc4a40d5"
+				},
+				{
+					"verse": "por lo cual el mundo de entonces pereció anegado en agua;",
+					"number": 6,
+					"id": "5fb0b320-f8d3-481b-bfae-75a113af35d3"
+				},
+				{
+					"verse": "pero los cielos y la tierra que existen ahora, están reservados por la misma palabra, guardados para el fuego en el día del juicio y de la perdición de los hombres impíos.",
+					"number": 7,
+					"id": "07eaeb48-652a-4dd6-89be-9cce2d70c068"
+				},
+				{
+					"verse": "Mas, oh amados, no ignoréis esto: que para con el Señor un día es como mil años, y mil años como un día.",
+					"number": 8,
+					"id": "9364d16a-adbd-4e1d-8dae-b38bbd919985"
+				},
+				{
+					"verse": "El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.",
+					"number": 9,
+					"id": "ec5c3aaf-9ee6-4532-9334-d685be3c469e"
+				},
+				{
+					"verse": "Pero el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella hay serán quemadas.",
+					"number": 10,
+					"id": "86d0ff3c-db4b-4f56-a806-1c51c803feae"
+				},
+				{
+					"verse": "Puesto que todas estas cosas han de ser deshechas, ¡cómo no debéis vosotros andar en santa y piadosa manera de vivir,",
+					"number": 11,
+					"id": "344fc968-576a-4557-8470-74a56f6236ca"
+				},
+				{
+					"verse": "esperando y apresurándoos para la venida del día de Dios, en el cual los cielos, encendiéndose, serán deshechos, y los elementos, siendo quemados, se fundirán!",
+					"number": 12,
+					"id": "2b4530a1-4768-4b79-ade1-6b566d99bb3d"
+				},
+				{
+					"verse": "Pero nosotros esperamos, según sus promesas, cielos nuevos y tierra nueva, en los cuales mora la justicia.",
+					"number": 13,
+					"id": "5145b147-0978-4452-8aff-4546b627a43c"
+				},
+				{
+					"verse": "Por lo cual, oh amados, estando en espera de estas cosas, procurad con diligencia ser hallados por él sin mancha e irreprensibles, en paz.",
+					"number": 14,
+					"id": "edd9d5c9-cffc-4924-84ef-59934755f783"
+				},
+				{
+					"verse": "Y tened entendido que la paciencia de nuestro Señor es para salvación; como también nuestro amado hermano Pablo, según la sabiduría que le ha sido dada, os ha escrito,",
+					"number": 15,
+					"id": "8cb215dc-b9e6-47ae-979a-af6aa98d9050"
+				},
+				{
+					"verse": "casi en todas sus epístolas, hablando en ellas de estas cosas; entre las cuales hay algunas difíciles de entender, las cuales los indoctos e inconstantes tuercen, como también las otras Escrituras, para su propia perdición.",
+					"number": 16,
+					"id": "1dec2582-310e-478f-a31c-0b430c6526db"
+				},
+				{
+					"verse": "Así que vosotros, oh amados, sabiéndolo de antemano, guardaos, no sea que arrastrados por el error de los inicuos, caigáis de vuestra firmeza.",
+					"number": 17,
+					"id": "4fa3317d-e24f-4b64-bfc4-7c47dcb61d70"
+				},
+				{
+					"verse": "Antes bien, creced en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén.",
+					"number": 18,
+					"id": "c4f543be-8429-4b40-aa8d-74e7779023f0"
+				}
+			]
+		}
+	],
+	"book_id": "d37eb41e-eaed-4916-a81d-91d4157ae1de"
+}

@@ -1,0 +1,558 @@
+{
+	"name": "Filipenses",
+	"num_chapters": 4,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo y Timoteo,  siervos de Cristo Jesús,  a todos los santos en Cristo Jesús que están en Filipos,  junto con los obispos y diáconos:",
+					"number": 1,
+					"study": "Salutación",
+					"id": "6ad63226-2f5f-46fa-8c67-b834c4b24089"
+				},
+				{
+					"verse": "Que Dios nuestro Padre y el Señor Jesucristo les concedan gracia y paz.",
+					"number": 2,
+					"id": "b2a029b1-bd28-49af-93fc-cfd8943a0c0b"
+				},
+				{
+					"verse": "Doy gracias a mi Dios cada vez que me acuerdo de ustedes.",
+					"number": 3,
+					"study": "Oración de Pablo por los creyentes",
+					"id": "3ffd817a-2c59-4da1-ad45-2cdb0f9461dd"
+				},
+				{
+					"verse": "En todas mis oraciones por todos ustedes,  siempre oro con alegría,",
+					"number": 4,
+					"id": "17f8d406-acd0-4f67-8ec9-70a98ddc8bcc"
+				},
+				{
+					"verse": "porque han participado en el evangelio desde el primer día hasta ahora.",
+					"number": 5,
+					"id": "1fa4b623-d977-4298-8552-634848a41580"
+				},
+				{
+					"verse": "Estoy convencido de esto:  el que comenzó tan buena obra en ustedes la irá perfeccionando hasta el día de Cristo Jesús.",
+					"number": 6,
+					"id": "afde5aef-74fa-4596-b239-9dcb1abe27dc"
+				},
+				{
+					"verse": "Es justo que yo piense así de todos ustedes porque los llevo* en el corazón;  pues,  ya sea que me encuentre preso o defendiendo y confirmando el evangelio,  todos ustedes participan conmigo de la gracia que Dios me ha dado.",
+					"number": 7,
+					"id": "28fdb226-e47b-459e-9c9a-cba0d481d6ae"
+				},
+				{
+					"verse": "Dios es testigo de cuánto los quiero a todos con el entrañable amor de Cristo Jesús.",
+					"number": 8,
+					"id": "b160fc03-f914-4197-a8d0-24f7cdfb6258"
+				},
+				{
+					"verse": "Esto es lo que pido en oración:  que el amor de ustedes abunde cada vez más en conocimiento y en buen juicio,",
+					"number": 9,
+					"id": "163014f2-f0cc-45e3-8f88-57624ebc004a"
+				},
+				{
+					"verse": "para que disciernan lo que es mejor,  y sean puros e irreprochables para el día de Cristo,",
+					"number": 10,
+					"id": "72a7a73c-64e7-4033-b187-4149b2c1a416"
+				},
+				{
+					"verse": "llenos del fruto de justicia que se produce por medio de Jesucristo,  para gloria y alabanza de Dios.",
+					"number": 11,
+					"id": "e046353c-9f8a-4acd-928e-eeb209d94107"
+				},
+				{
+					"verse": "Hermanos,  quiero que sepan que,  en realidad,  lo que me ha pasado ha contribuido al avance del evangelio.",
+					"number": 12,
+					"study": "Para mí el vivir es Cristo",
+					"id": "6059c1fe-a400-4145-9f63-430644ee168b"
+				},
+				{
+					"verse": "Es más,  se ha hecho evidente a toda la guardia del palacio* y a todos los demás que estoy encadenado por causa de Cristo.",
+					"number": 13,
+					"id": "70f09ec8-efbc-4d5d-ad18-1bb86a476572"
+				},
+				{
+					"verse": "Gracias a mis cadenas,  ahora más que nunca la mayoría de los hermanos,  confiados en el Señor,  se han atrevido a anunciar sin temor la palabra de Dios.",
+					"number": 14,
+					"id": "d540e168-b4fe-43b2-a3d8-c258c91a2b57"
+				},
+				{
+					"verse": "Es cierto que algunos predican a Cristo por envidia y rivalidad,  pero otros lo hacen con buenas intenciones.",
+					"number": 15,
+					"id": "adef6a58-bbad-4af2-895e-5d32bf2008a6"
+				},
+				{
+					"verse": "Estos últimos lo hacen por amor,  pues saben que he sido puesto para la defensa del evangelio.",
+					"number": 16,
+					"id": "fe0c52de-f7c0-4b15-8730-42fa993a939d"
+				},
+				{
+					"verse": "Aquéllos predican a Cristo por ambición personal y no por motivos puros,  creyendo que así van a aumentar las angustias que sufro en mi prisión.*",
+					"number": 17,
+					"id": "e32ba9a2-7f76-4071-ba8c-baf441cc54cc"
+				},
+				{
+					"verse": "¿Qué importa?  Al fin y al cabo,  y sea como sea,  con motivos falsos o con sinceridad,  se predica a Cristo.  Por eso me alegro;  es más,  seguiré alegrándome",
+					"number": 18,
+					"id": "9b040d69-b5ab-4ca7-a3be-26a749e3e91e"
+				},
+				{
+					"verse": "porque sé que,  gracias a las oraciones de ustedes y a la ayuda que me da el Espíritu de Jesucristo,  todo esto resultará en mi liberación.*",
+					"number": 19,
+					"id": "cb0349c9-9e72-47e3-975d-f8e13b16a97f"
+				},
+				{
+					"verse": "Mi ardiente anhelo y esperanza es que en nada seré avergonzado,  sino que con toda libertad,  ya sea que yo viva o muera,  ahora como siempre,  Cristo será exaltado en mi cuerpo.",
+					"number": 20,
+					"id": "d876d2a3-73aa-45d9-8dae-84c6843e7e71"
+				},
+				{
+					"verse": "Porque para mí el vivir es Cristo y el morir es ganancia.",
+					"number": 21,
+					"id": "f3eeb4a1-bb73-40f7-a88c-a3a6eb118eb4"
+				},
+				{
+					"verse": "Ahora bien,  si seguir viviendo en este mundo* representa para mí un trabajo fructífero,  ¿qué escogeré?  ¡No lo sé!",
+					"number": 22,
+					"id": "ea1d1642-9b5c-4d99-84bd-080afbae667e"
+				},
+				{
+					"verse": "Me siento presionado por dos posibilidades:  deseo partir y estar con Cristo,  que es muchísimo mejor,",
+					"number": 23,
+					"id": "8ffa6ab1-0235-456d-a25c-32889b84c011"
+				},
+				{
+					"verse": "pero por el bien de ustedes es preferible que yo permanezca en este mundo.",
+					"number": 24,
+					"id": "b190d13e-5bda-4d7a-b3d6-bda9b26e2921"
+				},
+				{
+					"verse": "Convencido de esto,  sé que permaneceré y continuaré con todos ustedes para contribuir a su jubiloso avance en la fe.",
+					"number": 25,
+					"id": "7b32f76c-af82-49fc-93ad-cb5e67c6c120"
+				},
+				{
+					"verse": "Así,  cuando yo vuelva,  su satisfacción en Cristo Jesús abundará por causa mía.",
+					"number": 26,
+					"id": "055f9f92-59da-45d3-876f-d15aaf4d7792"
+				},
+				{
+					"verse": "Pase lo que pase,  compórtense de una manera digna del evangelio de Cristo.  De este modo,  ya sea que vaya a verlos o que,  estando ausente,  sólo tenga noticias de ustedes,  sabré que siguen firmes en un mismo propósito,  luchando unánimes por la fe del evangelio",
+					"number": 27,
+					"id": "91e613ef-d66b-49d4-8c3d-2ccf1709d950"
+				},
+				{
+					"verse": "y sin temor alguno a sus adversarios,  lo cual es para ellos señal de destrucción.  Para ustedes,  en cambio,  es señal de salvación,  y esto proviene de Dios.",
+					"number": 28,
+					"id": "82492357-c291-472d-b756-e4576761102a"
+				},
+				{
+					"verse": "Porque a ustedes se les ha concedido no sólo creer en Cristo,  sino también sufrir por él,",
+					"number": 29,
+					"id": "1a6ba376-87ba-4d19-9cdf-6e18f62b3685"
+				},
+				{
+					"verse": "pues sostienen la misma lucha que antes me vieron sostener,  y que ahora saben que sigo sosteniendo.",
+					"number": 30,
+					"id": "cd508616-a47f-436f-89a5-16c34d2eed65"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Por tanto,  si sienten algún estímulo en su unión con Cristo,  algún consuelo en su amor,  algún compañerismo en el Espíritu,  algún afecto entrañable,",
+					"number": 1,
+					"study": "Humillación y exaltación de Cristo",
+					"id": "96e3728e-6bfa-4c43-ba73-f999badaee6e"
+				},
+				{
+					"verse": "llénenme de alegría teniendo un mismo parecer,  un mismo amor,  unidos en alma y pensamiento.",
+					"number": 2,
+					"id": "422afdc1-a7db-41f8-860f-57622d65de3b"
+				},
+				{
+					"verse": "No hagan nada por egoísmo o vanidad;  más bien,  con humildad consideren a los demás como superiores a ustedes mismos.",
+					"number": 3,
+					"id": "83ab5a0a-6ee3-4911-9090-6f8c2b19cfdc"
+				},
+				{
+					"verse": "Cada uno debe velar no sólo por sus propios intereses sino también por los intereses de los demás.",
+					"number": 4,
+					"id": "eb9de2a7-6069-484a-81a2-d4bab9e7105d"
+				},
+				{
+					"verse": "La actitud de ustedes debe ser como la de Cristo Jesús,",
+					"number": 5,
+					"id": "54065f79-0d14-4bb4-adc3-5e13b0ea9bbe"
+				},
+				{
+					"verse": "quien,  siendo por naturaleza* Dios,  no consideró el ser igual a Dios como algo a qué aferrarse.",
+					"number": 6,
+					"id": "79eaddd5-fcb8-4641-8acb-3eb119c79d9d"
+				},
+				{
+					"verse": "Por el contrario,  se rebajó voluntariamente,  tomando la naturaleza* de siervo y haciéndose semejante a los seres humanos.",
+					"number": 7,
+					"id": "3df0e5fd-c8a4-40a5-991c-472b4fa06f55"
+				},
+				{
+					"verse": "Y al manifestarse como hombre,  se humilló a sí mismo y se hizo obediente hasta la muerte,  ¡y muerte de cruz!",
+					"number": 8,
+					"id": "b10c9ae6-6060-417f-af8d-e9b5d895b28c"
+				},
+				{
+					"verse": "Por eso Dios lo exaltó hasta lo sumo y le otorgó el nombre que está sobre todo nombre,",
+					"number": 9,
+					"id": "9f23563c-a373-4771-9ded-202120305212"
+				},
+				{
+					"verse": "para que ante el nombre de Jesús se doble toda rodilla en el cielo y en la tierra y debajo de la tierra,",
+					"number": 10,
+					"id": "a9db62c5-3f51-428e-b5a0-6e2059b91367"
+				},
+				{
+					"verse": "y toda lengua confiese que Jesucristo es el Señor,  para gloria de Dios Padre.",
+					"number": 11,
+					"id": "fbde09b9-3a35-47e6-9a59-b06fc98992dd"
+				},
+				{
+					"verse": "Así que,  mis queridos hermanos,  como han obedecido siempre --no sólo en mi presencia sino mucho más ahora en mi ausencia-- lleven a cabo su salvación con temor y temblor,",
+					"number": 12,
+					"study": "Luminares en el mundo",
+					"id": "0bc4ea0e-ffa4-494f-8dd3-beccbbe46653"
+				},
+				{
+					"verse": "pues Dios es quien produce en ustedes tanto el querer como el hacer para que se cumpla su buena voluntad.",
+					"number": 13,
+					"id": "abaff8f1-133f-4400-bd98-7f4ae47f4ee3"
+				},
+				{
+					"verse": "Háganlo todo sin quejas ni contiendas,",
+					"number": 14,
+					"id": "cf38858d-f8b2-4b1c-b95c-3dc002206758"
+				},
+				{
+					"verse": "para que sean intachables y puros,  hijos de Dios sin culpa en medio de una generación torcida y depravada.  En ella ustedes brillan como estrellas en el firmamento,",
+					"number": 15,
+					"id": "166fc55b-bda5-49d4-b28c-1550ba0aa7dd"
+				},
+				{
+					"verse": "manteniendo en alto* la palabra de vida.  Así en el día de Cristo me sentiré satisfecho de no haber corrido ni trabajado en vano.",
+					"number": 16,
+					"id": "7c5c522a-9047-474c-858e-d1f17bb467f4"
+				},
+				{
+					"verse": "Y aunque mi vida fuera derramada* sobre el sacrificio y servicio que proceden de su fe,  me alegro y comparto con todos ustedes mi alegría.",
+					"number": 17,
+					"id": "ae2361af-c2b7-4e23-90c6-ee0be339afd5"
+				},
+				{
+					"verse": "Así también ustedes,  alégrense y compartan su alegría conmigo.",
+					"number": 18,
+					"id": "58cf2bbd-6c4a-49c8-a899-fc8d4a059417"
+				},
+				{
+					"verse": "Espero en el Señor Jesús enviarles pronto a Timoteo,  para que también yo cobre ánimo al recibir noticias de ustedes.",
+					"number": 19,
+					"study": "Timoteo y Epafrodito",
+					"id": "9873cba2-a1cb-421c-b23b-9eedce192fbd"
+				},
+				{
+					"verse": "No tengo a nadie más que,  como él,  se preocupe de veras por el bienestar de ustedes,",
+					"number": 20,
+					"id": "36ea77fc-1ede-44d8-bd05-4eaa16b1fc5a"
+				},
+				{
+					"verse": "pues todos los demás buscan sus propios intereses y no los de Jesucristo.",
+					"number": 21,
+					"id": "e618eb6d-4420-47c6-b1cc-335d0e1679dc"
+				},
+				{
+					"verse": "Pero ustedes conocen bien la entereza de carácter de Timoteo,  que ha servido conmigo en la obra del evangelio,  como un hijo junto a su padre.",
+					"number": 22,
+					"id": "e1eb9034-e035-4ed2-bf31-9b069ac86d4c"
+				},
+				{
+					"verse": "Así que espero enviárselo tan pronto como se aclaren mis asuntos.",
+					"number": 23,
+					"id": "89365076-2d63-4921-8951-4e293fb39b40"
+				},
+				{
+					"verse": "Y confío en el Señor que yo mismo iré pronto.",
+					"number": 24,
+					"id": "ad83bb15-0316-415a-8564-10d12083a0d4"
+				},
+				{
+					"verse": "Ahora bien,  creo que es necesario enviarles de vuelta a Epafrodito,  mi hermano,  colaborador y compañero de lucha,  a quien ustedes han enviado para atenderme en mis necesidades.",
+					"number": 25,
+					"id": "5d58f1e5-ff8e-4149-bda8-5b00938de604"
+				},
+				{
+					"verse": "Él los extraña mucho a todos y está afligido porque ustedes se enteraron de que estaba enfermo.",
+					"number": 26,
+					"id": "1aab8307-d35e-48fa-9aac-6520aca07856"
+				},
+				{
+					"verse": "En efecto,  estuvo enfermo y al borde de la muerte;  pero Dios se compadeció de él,  y no sólo de él sino también de mí,  para no añadir tristeza a mi tristeza.",
+					"number": 27,
+					"id": "7e6cb93b-bcc3-4c71-9eed-75a8ccdd8e1a"
+				},
+				{
+					"verse": "Así que lo envío urgentemente para que,  al verlo de nuevo,  ustedes se alegren y yo esté menos preocupado.",
+					"number": 28,
+					"id": "ea8f6ca5-d99e-48b6-99c1-82cffa894bc0"
+				},
+				{
+					"verse": "Recíbanlo en el Señor con toda alegría y honren a los que son como él,",
+					"number": 29,
+					"id": "a9faa70d-453e-4113-87ef-302859dfc2f5"
+				},
+				{
+					"verse": "porque estuvo a punto de morir por la obra de Cristo,  arriesgando la vida para suplir el servicio que ustedes no podían prestarme.",
+					"number": 30,
+					"id": "705acace-110f-4f93-9b69-6076b0bd97f6"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por lo demás,  hermanos míos,  alégrense en el Señor.  Para mí no es molestia volver a escribirles lo mismo,  y a ustedes les da seguridad.",
+					"number": 1,
+					"study": "Prosigo al blanco",
+					"id": "6cd939cc-d96c-4f63-84e3-303bee1649c1"
+				},
+				{
+					"verse": "Cuídense de esos perros,  cuídense de esos que hacen el mal,  cuídense de esos que mutilan el cuerpo.",
+					"number": 2,
+					"id": "24d31fb3-835e-4569-aef2-a3f5c6954827"
+				},
+				{
+					"verse": "Porque la circuncisión somos nosotros,  los que por medio del Espíritu de Dios adoramos,  nos enorgullecemos en Cristo Jesús y no ponemos nuestra confianza en esfuerzos humanos.",
+					"number": 3,
+					"id": "2f7d7229-4f32-4c04-b2a7-9b75b3b6bd2f"
+				},
+				{
+					"verse": "Yo mismo tengo motivos para tal confianza.  Si cualquier otro cree tener motivos para confiar en esfuerzos humanos,  yo más:",
+					"number": 4,
+					"id": "31a948b8-5419-4eb2-8eeb-0f30c90c39f7"
+				},
+				{
+					"verse": "circuncidado al octavo día,  del pueblo de Israel,  de la tribu de Benjamín,  hebreo de pura cepa;  en cuanto a la interpretación de la ley,  fariseo;",
+					"number": 5,
+					"id": "50ee835c-f2e9-4fe8-ac02-10cd9ac1e006"
+				},
+				{
+					"verse": "en cuanto al celo,  perseguidor de la iglesia;  en cuanto a la justicia que la ley exige,  intachable.",
+					"number": 6,
+					"id": "ac6add46-db3a-43f4-b9d7-b89a4f8088d6"
+				},
+				{
+					"verse": "Sin embargo,  todo aquello que para mí era ganancia,  ahora lo considero pérdida por causa de Cristo.",
+					"number": 7,
+					"id": "0286f153-cadc-4008-9ffe-9821753a7129"
+				},
+				{
+					"verse": "Es más,  todo lo considero pérdida por razón del incomparable valor de conocer a Cristo Jesús,  mi Señor.  Por él lo he perdido todo,  y lo tengo por estiércol,  a fin de ganar a Cristo",
+					"number": 8,
+					"id": "4bc2027b-9b7b-4e97-8fc5-e77e1e058d6f"
+				},
+				{
+					"verse": "y encontrarme unido a él.  No quiero mi propia justicia que procede de la ley,  sino la que se obtiene mediante la fe en Cristo,  la justicia que procede de Dios,  basada en la fe.",
+					"number": 9,
+					"id": "93323493-2448-4505-90b4-8dcc9a1a05cd"
+				},
+				{
+					"verse": "Lo he perdido todo a fin de conocer a Cristo,  experimentar el poder que se manifestó en su resurrección,  participar en sus sufrimientos y llegar a ser semejante a él en su muerte.",
+					"number": 10,
+					"id": "4994c2a3-c3a3-4dde-a26f-00308e3f0ff6"
+				},
+				{
+					"verse": "Así espero alcanzar la resurrección de entre los muertos.",
+					"number": 11,
+					"id": "5d50e3ca-762f-44b5-a59b-b6d93ec20975"
+				},
+				{
+					"verse": "No es que ya lo haya conseguido todo,  o que ya sea perfecto.  Sin embargo,  sigo adelante esperando alcanzar aquello para lo cual Cristo Jesús me alcanzó a mí.",
+					"number": 12,
+					"id": "6753f5da-4741-418d-b14d-1a3b82493c90"
+				},
+				{
+					"verse": "Hermanos,  no pienso que yo mismo lo haya logrado ya.  Más bien,  una cosa hago:  olvidando lo que queda atrás y esforzándome por alcanzar lo que está delante,",
+					"number": 13,
+					"id": "0e86cf05-45f0-41be-9618-e07a231d11f6"
+				},
+				{
+					"verse": "sigo avanzando hacia la meta para ganar el premio que Dios ofrece mediante su llamamiento celestial en Cristo Jesús.",
+					"number": 14,
+					"id": "5126934b-1065-4945-8999-4e0e3212226a"
+				},
+				{
+					"verse": "Así que,  ¡escuchen los perfectos!  Todos debemos* tener este modo de pensar.  Y si en algo piensan de forma diferente,  Dios les hará ver esto también.",
+					"number": 15,
+					"id": "f1c847f9-2860-43c1-acad-0e8c320e9bbb"
+				},
+				{
+					"verse": "En todo caso,  vivamos de acuerdo con lo que ya hemos alcanzado.*",
+					"number": 16,
+					"id": "a5614b1e-54ee-4fd9-9479-595c23c9a729"
+				},
+				{
+					"verse": "Hermanos,  sigan todos mi ejemplo,  y fíjense en los que se comportan conforme al modelo que les hemos dado.",
+					"number": 17,
+					"id": "c837072b-0f16-41f4-8d4a-41b97126b710"
+				},
+				{
+					"verse": "Como les he dicho a menudo,  y ahora lo repito hasta con lágrimas,  muchos se comportan como enemigos de la cruz de Cristo.",
+					"number": 18,
+					"id": "8ea78d57-ae3c-401d-bc28-a80cef89fb0b"
+				},
+				{
+					"verse": "Su destino es la destrucción,  adoran al dios de sus propios deseos* y se enorgullecen de lo que es su vergüenza.  Sólo piensan en lo terrenal.",
+					"number": 19,
+					"id": "784205d7-2545-4ef4-b61e-11939aa8299f"
+				},
+				{
+					"verse": "En cambio,  nosotros somos ciudadanos del cielo,  de donde anhelamos recibir al Salvador,  el Señor Jesucristo.",
+					"number": 20,
+					"id": "587074ff-4027-4bd3-8309-21e1f0e5b189"
+				},
+				{
+					"verse": "Él transformará nuestro cuerpo miserable para que sea como su cuerpo glorioso,  mediante el poder con que somete a sí mismo todas las cosas.",
+					"number": 21,
+					"id": "82cec752-5163-4936-9f1a-15dbf8eeea3d"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Por lo tanto,  queridos hermanos míos,  a quienes amo y extraño mucho,  ustedes que son mi alegría y mi corona,  manténganse así firmes en el Señor.",
+					"number": 1,
+					"study": "Regocijaos en el Señor siempre",
+					"id": "e804ae18-dc59-4aef-aee8-8116ec61ab5c"
+				},
+				{
+					"verse": "Ruego a Evodia y también a Síntique que se pongan de acuerdo en el Señor.",
+					"number": 2,
+					"id": "d59a462c-eeb1-42c4-8cf9-cb9ae8ace0db"
+				},
+				{
+					"verse": "Y a ti,  mi fiel compañero,* te pido que ayudes a estas mujeres que han luchado a mi lado en la obra del evangelio,  junto con Clemente y los demás colaboradores míos,  cuyos nombres están en el libro de la vida.",
+					"number": 3,
+					"id": "ffdcc5bb-5c7e-4803-bff4-8c0a3462b0ea"
+				},
+				{
+					"verse": "Alégrense siempre en el Señor.  Insisto:  ¡Alégrense!",
+					"number": 4,
+					"id": "e2e1d788-014a-4a46-a5ff-f4b83ccc7e03"
+				},
+				{
+					"verse": "Que su amabilidad sea evidente a todos.  El Señor está cerca.",
+					"number": 5,
+					"id": "97c8889d-3431-4f62-bb8e-8fe63859e87f"
+				},
+				{
+					"verse": "No se inquieten por nada;  más bien,  en toda ocasión,  con oración y ruego,  presenten sus peticiones a Dios y denle gracias.",
+					"number": 6,
+					"id": "ddfc74c4-8a8d-4365-abe8-27fc622c8f12"
+				},
+				{
+					"verse": "Y la paz de Dios,  que sobrepasa todo entendimiento,  cuidará sus corazones y sus pensamientos en Cristo Jesús.",
+					"number": 7,
+					"id": "1976b0c7-c114-431f-9d44-bfd642d0141e"
+				},
+				{
+					"verse": "Por último,  hermanos,  consideren bien todo lo verdadero,  todo lo respetable,  todo lo justo,  todo lo puro,  todo lo amable,  todo lo digno de admiración,  en fin,  todo lo que sea excelente o merezca elogio.",
+					"number": 8,
+					"study": "En esto pensad",
+					"id": "4dd9609d-8f8a-41ac-916c-be751543dbf6"
+				},
+				{
+					"verse": "Pongan en práctica lo que de mí han aprendido,  recibido y oído,  y lo que han visto en mí,  y el Dios de paz estará con ustedes.",
+					"number": 9,
+					"id": "f17a4d67-33c7-499f-9ca4-f4d2b2514d2a"
+				},
+				{
+					"verse": "Me alegro muchísimo en el Señor de que al fin hayan vuelto a interesarse en mí.  Claro está que tenían interés,  sólo que no habían tenido la oportunidad de demostrarlo.",
+					"number": 10,
+					"study": "Dádivas de los filipenses",
+					"id": "4fb2638c-c821-4272-aa1f-cf4b325d796a"
+				},
+				{
+					"verse": "No digo esto porque esté necesitado,  pues he aprendido a estar satisfecho en cualquier situación en que me encuentre.",
+					"number": 11,
+					"id": "f48c6b6a-1372-4cbd-a10e-717738481305"
+				},
+				{
+					"verse": "Sé lo que es vivir en la pobreza,  y lo que es vivir en la abundancia.  He aprendido a vivir en todas y cada una de las circunstancias,  tanto a quedar saciado como a pasar hambre,  a tener de sobra como a sufrir escasez.",
+					"number": 12,
+					"id": "bd182f0a-0c1a-42b6-90a1-817c9052bff4"
+				},
+				{
+					"verse": "Todo lo puedo en Cristo que me fortalece.",
+					"number": 13,
+					"id": "21b0fda6-78f5-4730-9916-d835b538ae34"
+				},
+				{
+					"verse": "Sin embargo,  han hecho bien en participar conmigo en mi angustia.",
+					"number": 14,
+					"id": "5dea2c22-fdbf-4e96-9c10-7bd0427a5c36"
+				},
+				{
+					"verse": "Y ustedes mismos,  filipenses,  saben que en el principio de la obra del evangelio,  cuando salí de Macedonia,  ninguna iglesia participó conmigo en mis ingresos y gastos,  excepto ustedes.",
+					"number": 15,
+					"id": "f8518835-e878-41ac-ba8c-d575f2041a4f"
+				},
+				{
+					"verse": "Incluso a Tesalónica me enviaron ayuda una y otra vez para suplir mis necesidades.",
+					"number": 16,
+					"id": "2ccd192c-8416-4684-96e6-7a6ab519acf9"
+				},
+				{
+					"verse": "No digo esto porque esté tratando de conseguir más ofrendas,  sino que trato de aumentar el crédito a su cuenta.",
+					"number": 17,
+					"id": "d4171951-b7f4-44b7-a18b-ed1b29d2beea"
+				},
+				{
+					"verse": "Ya he recibido todo lo que necesito y aún más;  tengo hasta de sobra ahora que he recibido de Epafrodito lo que me enviaron.  Es una ofrenda fragante,  un sacrificio que Dios acepta con agrado.",
+					"number": 18,
+					"id": "1a27b55a-3760-480e-a109-721eef7c1d57"
+				},
+				{
+					"verse": "Así que mi Dios les proveerá de todo lo que necesiten,  conforme a las gloriosas riquezas que tiene en Cristo Jesús.",
+					"number": 19,
+					"id": "6f49cd8b-08d1-4072-b04c-8417c0496be4"
+				},
+				{
+					"verse": "A nuestro Dios y Padre sea la gloria por los siglos de los siglos.  Amén.",
+					"number": 20,
+					"id": "ecafac9b-e839-479e-bd8c-87ad3f887dff"
+				},
+				{
+					"verse": "Saluden a todos los santos en Cristo Jesús.  Los hermanos que están conmigo les mandan saludos.",
+					"number": 21,
+					"study": "Salutaciones finales",
+					"id": "3ccac2ea-de1d-423b-811c-542de58975d0"
+				},
+				{
+					"verse": "Saludos de parte de todos los santos,  especialmente los de la casa del emperador.",
+					"number": 22,
+					"id": "2a2d8b42-afb1-4445-aec1-a77391f3217e"
+				},
+				{
+					"verse": "Que la gracia del Señor Jesucristo sea con su espíritu.  Amén.*",
+					"number": 23,
+					"id": "0752c5eb-114c-411f-9d24-2f4255b9c253"
+				}
+			]
+		}
+	],
+	"book_id": "5ebd2e9a-f057-46d8-bc2a-ba099ec7a2b0"
+}

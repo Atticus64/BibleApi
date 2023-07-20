@@ -1,0 +1,904 @@
+{
+	"name": "Ester",
+	"num_chapters": 10,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Aconteció en los días de Asuero, el Asuero que reinó desde la India hasta Etiopía sobre ciento veintisiete provincias,",
+					"number": 1,
+					"study": "La reina Vasti desafía a Asuero",
+					"id": "5ccddced-0ea5-4221-9597-2a4004dfb263"
+				},
+				{
+					"verse": "que en aquellos días, cuando fue afirmado el rey Asuero sobre el trono de su reino, el cual estaba en Susa capital del reino,",
+					"number": 2,
+					"id": "abe98917-16b2-4d70-b4c6-dbe802a83898"
+				},
+				{
+					"verse": "en el tercer año de su reinado hizo banquete a todos sus príncipes y cortesanos, teniendo delante de él a los más poderosos de Persia y de Media, gobernadores y príncipes de provincias,",
+					"number": 3,
+					"id": "706d319c-9a6b-489d-b6c6-c01129bd5119"
+				},
+				{
+					"verse": "para mostrar él las riquezas de la gloria de su reino, el brillo y la magnificencia de su poder, por muchos días, ciento ochenta días.",
+					"number": 4,
+					"id": "5f4a9c08-e71b-452f-ab78-5c7ce5d0137a"
+				},
+				{
+					"verse": "Y cumplidos estos días, hizo el rey otro banquete por siete días en el patio del huerto del palacio real a todo el pueblo que había en Susa capital del reino, desde el mayor hasta el menor.",
+					"number": 5,
+					"id": "2b8555a5-1684-4adb-b048-42b710c94f6f"
+				},
+				{
+					"verse": "El pabellón era de blanco, verde y azul, tendido sobre cuerdas de lino y púrpura en anillos de plata y columnas de mármol; los reclinatorios de oro y de plata, sobre losado de pórfido y de mármol, y de alabastro y de jacinto.",
+					"number": 6,
+					"id": "7c98b4f1-4d0e-41e2-9511-5f2d36a9866b"
+				},
+				{
+					"verse": "Y daban a beber en vasos de oro, y vasos diferentes unos de otros, y mucho vino real, de acuerdo con la generosidad del rey.",
+					"number": 7,
+					"id": "3752c5a5-576e-4b3d-a86c-39eb93dda6af"
+				},
+				{
+					"verse": "Y la bebida era según esta ley: Que nadie fuese obligado a beber; porque así lo había mandado el rey a todos los mayordomos de su casa, que se hiciese según la voluntad de cada uno.",
+					"number": 8,
+					"id": "ef83a8a9-cd98-422a-8081-b5be42f9797e"
+				},
+				{
+					"verse": "Asimismo la reina Vasti hizo banquete para las mujeres, en la casa real del rey Asuero.",
+					"number": 9,
+					"id": "b8c997cd-c0b8-4eff-a26d-aefda1ed4c32"
+				},
+				{
+					"verse": "El séptimo día, estando el corazón del rey alegre del vino, mandó a Mehumán, Bizta, Harbona, Bigta, Abagta, Zetar y Carcas, siete eunucos que servían delante del rey Asuero,",
+					"number": 10,
+					"id": "03d1ff69-4c4a-466d-8d7d-731156c0ef21"
+				},
+				{
+					"verse": "que trajesen a la reina Vasti a la presencia del rey con la corona regia, para mostrar a los pueblos y a los príncipes su belleza; porque era hermosa.",
+					"number": 11,
+					"id": "ece326c8-91f0-4e8a-9373-11c5d2c87b6b"
+				},
+				{
+					"verse": "Mas la reina Vasti no quiso comparecer a la orden del rey enviada por medio de los eunucos; y el rey se enojó mucho, y se encendió en ira.",
+					"number": 12,
+					"id": "4d259d22-7ec8-4928-b1ec-162c8d23634d"
+				},
+				{
+					"verse": "Preguntó entonces el rey a los sabios que conocían los tiempos (porque así acostumbraba el rey con todos los que sabían la ley y el derecho;",
+					"number": 13,
+					"id": "4ee3e477-3de6-42fe-a7e1-37db1bbcc796"
+				},
+				{
+					"verse": "y estaban junto a él Carsena, Setar, Admata, Tarsis, Meres, Marsena y Memucán, siete príncipes de Persia y de Media que veían la cara del rey, y se sentaban los primeros del reino);",
+					"number": 14,
+					"id": "6df529fc-d281-402a-ab42-2cfbaf56bbad"
+				},
+				{
+					"verse": "les preguntó qué se había de hacer con la reina Vasti según la ley, por cuanto no había cumplido la orden del rey Asuero enviada por medio de los eunucos.",
+					"number": 15,
+					"id": "67c55510-9507-4564-9b6a-6d29b8dcf2f9"
+				},
+				{
+					"verse": "Y dijo Memucán delante del rey y de los príncipes: No solamente contra el rey ha pecado la reina Vasti, sino contra todos los príncipes, y contra todos los pueblos que hay en todas las provincias del rey Asuero.",
+					"number": 16,
+					"id": "7c7187c5-e721-4cae-9a05-0dcf91c777fd"
+				},
+				{
+					"verse": "Porque este hecho de la reina llegará a oídos de todas las mujeres, y ellas tendrán en poca estima a sus maridos, diciendo: El rey Asuero mandó traer delante de sí a la reina Vasti, y ella no vino.",
+					"number": 17,
+					"id": "a0f8e313-8a9e-4346-8cb6-f27a620a6d7c"
+				},
+				{
+					"verse": "Y entonces dirán esto las señoras de Persia y de Media que oigan el hecho de la reina, a todos los príncipes del rey; y habrá mucho menosprecio y enojo.",
+					"number": 18,
+					"id": "5addbf87-13c4-4711-8495-a1aa2ec673f5"
+				},
+				{
+					"verse": "Si parece bien al rey, salga un decreto real de vuestra majestad y se escriba entre las leyes de Persia y de Media, para que no sea quebrantado: Que Vasti no venga más delante del rey Asuero; y el rey haga reina a otra que sea mejor que ella.",
+					"number": 19,
+					"id": "4d064e66-d1e3-433e-b7b2-9ee5daca13e5"
+				},
+				{
+					"verse": "Y el decreto que dicte el rey será oído en todo su reino, aunque es grande, y todas las mujeres darán honra a sus maridos, desde el mayor hasta el menor.",
+					"number": 20,
+					"id": "661094cb-f99c-4531-aeeb-4f9c37fdb427"
+				},
+				{
+					"verse": "Agradó esta palabra a los ojos del rey y de los príncipes, e hizo el rey conforme al dicho de Memucán;",
+					"number": 21,
+					"id": "c32b370e-3cf9-4bb1-bb65-7d94fbc9951d"
+				},
+				{
+					"verse": "pues envió cartas a todas las provincias del rey, a cada provincia conforme a su escritura, y a cada pueblo conforme a su lenguaje, diciendo que todo hombre afirmase su autoridad en su casa; y que se publicase esto en la lengua de su pueblo.",
+					"number": 22,
+					"id": "3be58d4a-59b4-4dab-ad39-9f6b487fce1b"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Pasadas estas cosas, sosegada ya la ira del rey Asuero, se acordó de Vasti y de lo que ella había hecho, y de la sentencia contra ella.",
+					"number": 1,
+					"study": "Ester es proclamada reina",
+					"id": "32152c88-32ab-40d5-afb5-daab1060056c"
+				},
+				{
+					"verse": "Y dijeron los criados del rey, sus cortesanos: Busquen para el rey jóvenes vírgenes de buen parecer;",
+					"number": 2,
+					"id": "a778b625-8871-4f3a-b31e-a0b8a7dc9ad4"
+				},
+				{
+					"verse": "y ponga el rey personas en todas las provincias de su reino, que lleven a todas las jóvenes vírgenes de buen parecer a Susa, residencia real, a la casa de las mujeres, al cuidado de Hegai eunuco del rey, guarda de las mujeres, y que les den sus atavíos;",
+					"number": 3,
+					"id": "3574df98-73d7-4dbc-93b5-f52a14b36b05"
+				},
+				{
+					"verse": "y la doncella que agrade a los ojos del rey, reine en lugar de Vasti. Esto agradó a los ojos del rey, y lo hizo así.",
+					"number": 4,
+					"id": "73f0da22-26ea-45ee-a596-12131443727c"
+				},
+				{
+					"verse": "Había en Susa residencia real un varón judío cuyo nombre era Mardoqueo hijo de Jair, hijo de Simei, hijo de Cis, del linaje de Benjamín;",
+					"number": 5,
+					"id": "747886cb-7214-4c22-8ec2-b8e0cd49daee"
+				},
+				{
+					"verse": "el cual había sido transportado de Jerusalén con los cautivos que fueron llevados con Jeconías rey de Judá, a quien hizo transportar Nabucodonosor rey de Babilonia.",
+					"number": 6,
+					"id": "06aa68a9-257f-4e85-af04-db436c193be4"
+				},
+				{
+					"verse": "Y había criado a Hadasa, es decir, Ester, hija de su tío, porque era húerfana; y la joven era de hermosa figura y de buen parecer. Cuando su padre y su madre murieron, Mardoqueo la adoptó como hija suya.",
+					"number": 7,
+					"id": "dcbc51b8-ad30-473c-9743-725934a0d7ec"
+				},
+				{
+					"verse": "Sucedió, pues, que cuando se divulgó el mandamiento y decreto del rey, y habían reunido a muchas doncellas en Susa residencia real, a cargo de Hegai, Ester también fue llevada a la casa del rey, al cuidado de Hegai guarda de las mujeres.",
+					"number": 8,
+					"id": "de349f12-f41b-4f24-bcdf-dde21d7f8d11"
+				},
+				{
+					"verse": "Y la doncella agradó a sus ojos, y halló gracia delante de él, por lo que hizo darle prontamente atavíos y alimentos, y le dio también siete doncellas especiales de la casa del rey; y la llevó con sus doncellas a lo mejor de la casa de las mujeres.",
+					"number": 9,
+					"id": "968c46c8-9741-402e-9772-4de1eb8986e4"
+				},
+				{
+					"verse": "Ester no declaró cuál era su pueblo ni su parentela, porque Mardoqueo le había mandado que no lo declarase.",
+					"number": 10,
+					"id": "50bf1ca8-9f92-4489-94a0-b7bab20c6182"
+				},
+				{
+					"verse": "Y cada día Mardoqueo se paseaba delante del patio de la casa de las mujeres, para saber cómo le iba a Ester, y cómo la trataban.",
+					"number": 11,
+					"id": "a6cd9b43-7f10-451f-8afc-484cfff5f05d"
+				},
+				{
+					"verse": "Y cuando llegaba el tiempo de cada una de las doncellas para venir al rey Asuero, después de haber estado doce meses conforme a la ley acerca de las mujeres, pues así se cumplía el tiempo de sus atavíos, esto es, seis meses con óleo de mirra y seis meses con perfumes aromáticos y afeites de mujeres,",
+					"number": 12,
+					"id": "bbeb5b12-fa76-4c57-af18-88c84fc73909"
+				},
+				{
+					"verse": "entonces la doncella venía así al rey. Todo lo que ella pedía se le daba, para venir ataviada con ello desde la casa de las mujeres hasta la casa del rey.",
+					"number": 13,
+					"id": "33bca166-8287-41ed-8750-8b1f47c55550"
+				},
+				{
+					"verse": "Ella venía por la tarde, y a la mañana siguiente volvía a la casa segunda de las mujeres, al cargo de Saasgaz eunuco del rey, guarda de las concubinas; no venía más al rey, salvo si el rey la quería y era llamada por nombre.",
+					"number": 14,
+					"id": "6ca922bd-5b91-44b8-8b18-dc080017ba81"
+				},
+				{
+					"verse": "Cuando le llegó a Ester, hija de Abihail tío de Mardoqueo, quien la había tomado por hija, el tiempo de venir al rey, ninguna cosa procuró sino lo que dijo Hegai eunuco del rey, guarda de las mujeres; y ganaba Ester el favor de todos los que la veían.",
+					"number": 15,
+					"id": "125d6044-31ae-43f0-bdc8-e3943593014a"
+				},
+				{
+					"verse": "Fue, pues, Ester llevada al rey Asuero a su casa real en el mes décimo, que es el mes de Tebet, en el año séptimo de su reinado.",
+					"number": 16,
+					"id": "bbc28a19-a163-441e-899e-3c032612f00d"
+				},
+				{
+					"verse": "Y el rey amó a Ester más que a todas las otras mujeres, y halló ella gracia y benevolencia delante de él más que todas las demás vírgenes; y puso la corona real en su cabeza, y la hizo reina en lugar de Vasti.",
+					"number": 17,
+					"id": "07fc45f7-3c1b-48db-9e90-8dd9a11df1e7"
+				},
+				{
+					"verse": "Hizo luego el rey un gran banquete a todos sus príncipes y siervos, el banquete de Ester; y disminuyó tributos a las provincias, e hizo y dio mercedes conforme a la generosidad real.",
+					"number": 18,
+					"id": "dd7ce7f4-b406-41db-9831-a156a53cb13f"
+				},
+				{
+					"verse": "Cuando las vírgenes eran reunidas la segunda vez, Mardoqueo estaba sentado a la puerta del rey.",
+					"number": 19,
+					"study": "Mardoqueo denuncia una conspiración contra el rey",
+					"id": "f58660d9-c4d6-4019-8899-68a07045a9c1"
+				},
+				{
+					"verse": "Y Ester, según le había mandado Mardoqueo, no había declarado su nación ni su pueblo; porque Ester hacía lo que decía Mardoqueo, como cuando él la educaba.",
+					"number": 20,
+					"id": "df90a030-d246-4238-9f69-52dbebd36af6"
+				},
+				{
+					"verse": "En aquellos días, estando Mardoqueo sentado a la puerta del rey, se enojaron Bigtán y Teres, dos eunucos del rey, de la guardia de la puerta, y procuraban poner mano en el rey Asuero.",
+					"number": 21,
+					"id": "d9f07488-e216-44d8-a14f-1e9033f94534"
+				},
+				{
+					"verse": "Cuando Mardoqueo entendió esto, lo denunció a la reina Ester, y Ester lo dijo al rey en nombre de Mardoqueo.",
+					"number": 22,
+					"id": "c4febc81-db37-40d1-a64b-07411f07e3f9"
+				},
+				{
+					"verse": "Se hizo investigación del asunto, y fue hallado cierto; por tanto, los dos eunucos fueron colgados en una horca. Y fue escrito el caso en el libro de las crónicas del rey.",
+					"number": 23,
+					"id": "4dc6c543-72cb-4b8e-a8fe-62014d97f56a"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Después de estas cosas el rey Asuero engrandeció a Amán hijo de Hamedata agagueo, y lo honró, y puso su silla sobre todos los príncipes que estaban con él.",
+					"number": 1,
+					"study": "Amán trama la destrución de los judíos",
+					"id": "fb5f8420-e672-422b-ad83-b2be79e4de8e"
+				},
+				{
+					"verse": "Y todos los siervos del rey que estaban a la puerta del rey se arrodillaban y se inclinaban ante Amán, porque así lo había mandado el rey; pero Mardoqueo ni se arrodillaba ni se humillaba.",
+					"number": 2,
+					"id": "4b653b90-6e69-48c6-a135-b8f3e1844261"
+				},
+				{
+					"verse": "Y los siervos del rey que estaban a la puerta preguntaron a Mardoqueo: ¿Por qué traspasas el mandamiento del rey?",
+					"number": 3,
+					"id": "43ff1f15-4126-4339-b477-b4f3699d8da2"
+				},
+				{
+					"verse": "Aconteció que hablándole cada día de esta manera, y no escuchándolos él, lo denunciaron a Amán, para ver si Mardoqueo se mantendría firme en su dicho; porque ya él les había declarado que era judío.",
+					"number": 4,
+					"id": "44811b14-95a9-45a4-9109-3a73958b1bcb"
+				},
+				{
+					"verse": "Y vio Amán que Mardoqueo ni se arrodillaba ni se humillaba delante de él; y se llenó de ira.",
+					"number": 5,
+					"id": "266cfd1b-3992-4a45-967c-c3d6774be507"
+				},
+				{
+					"verse": "Pero tuvo en poco poner mano en Mardoqueo solamente, pues ya le habían declarado cuál era el pueblo de Mardoqueo; y procuró Amán destruir a todos los judíos que había en el reino de Asuero, al pueblo de Mardoqueo.",
+					"number": 6,
+					"id": "8f78cdd1-004a-479c-905c-349367a1c60f"
+				},
+				{
+					"verse": "En el mes primero, que es el mes de Nisán, en el año duodécimo del rey Asuero, fue echada Pur, esto es, la suerte, delante de Amán, suerte para cada día y cada mes del año; y salió el mes duodécimo, que es el mes de Adar.",
+					"number": 7,
+					"id": "0cd8a2ec-d35e-4afc-8fd6-fd6e3101c715"
+				},
+				{
+					"verse": "Y dijo Amán al rey Asuero: Hay un pueblo esparcido y distribuido entre los pueblos en todas las provincias de tu reino, y sus leyes son diferentes de las de todo pueblo, y no guardan las leyes del rey, y al rey nada le beneficia el dejarlos vivir.",
+					"number": 8,
+					"id": "b435b662-cab9-4387-9bb3-5a966e03ea33"
+				},
+				{
+					"verse": "Si place al rey, decrete que sean destruidos; y yo pesaré diez mil talentos de plata   a los que manejan la hacienda, para que sean traídos a los tesoros del rey.",
+					"number": 9,
+					"id": "fb4dbb85-0060-4da9-b11a-913ec69bcc29"
+				},
+				{
+					"verse": "Entonces el rey quitó el anillo de su mano, y lo dio a Amán hijo de Hamedata agagueo, enemigo de los judíos,",
+					"number": 10,
+					"id": "36bfa5b9-ab23-4924-9e34-9a8db61baf6e"
+				},
+				{
+					"verse": "y le dijo: La plata que ofreces sea para ti, y asimismo el pueblo, para que hagas de él lo que bien te pareciere.",
+					"number": 11,
+					"id": "9c0844bb-ef1d-4693-a4a0-668ee66985db"
+				},
+				{
+					"verse": "Entonces fueron llamados los escribanos del rey en el mes primero, al día trece del mismo, y fue escrito conforme a todo lo que mandó Amán, a los sátrapas del rey, a los capitanes que estaban sobre cada provincia y a los príncipes de cada pueblo, a cada provincia según su escritura, y a cada pueblo según su lengua; en nombre del rey Asuero fue escrito, y sellado con el anillo del rey.",
+					"number": 12,
+					"id": "860ef6d5-2854-40ab-9cda-394227f422c4"
+				},
+				{
+					"verse": "Y fueron enviadas cartas por medio de correos a todas las provincias del rey, con la orden de destruir, matar y exterminar a todos los judíos, jóvenes y ancianos, niños y mujeres, en un mismo día, en el día trece del mes duodécimo, que es el mes de Adar, y de apoderarse de sus bienes.",
+					"number": 13,
+					"id": "9b81221f-5664-4a55-ba4f-534540d57668"
+				},
+				{
+					"verse": "La copia del escrito que se dio por mandamiento en cada provincia fue publicada a todos los pueblos, a fin de que estuviesen listos para aquel día.",
+					"number": 14,
+					"id": "8075a65e-b148-45f5-b354-a593dd9a8dba"
+				},
+				{
+					"verse": "Y salieron los correos prontamente por mandato del rey, y el edicto fue dado en Susa capital del reino. Y el rey y Amán se sentaron a beber; pero la ciudad de Susa estaba conmovida.",
+					"number": 15,
+					"id": "1786e43f-960c-4f4d-b08d-28cbb896bd69"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Luego que supo Mardoqueo todo lo que se había hecho, rasgó sus vestidos, se vistió de cilicio y de ceniza, y se fue por la ciudad clamando con grande y amargo clamor.",
+					"number": 1,
+					"study": "Ester promete interceder por su pueblo",
+					"id": "9dbbaa19-6768-4b20-ba73-ac0eaa7feb55"
+				},
+				{
+					"verse": "Y vino hasta delante de la puerta del rey; pues no era lícito pasar adentro de la puerta del rey con vestido de cilicio.",
+					"number": 2,
+					"id": "91bf2e85-3762-4c65-876e-9d627105cd37"
+				},
+				{
+					"verse": "Y en cada provincia y lugar donde el mandamiento del rey y su decreto llegaba, tenían los judíos gran luto, ayuno, lloro y lamentación; cilicio y ceniza era la cama de muchos.",
+					"number": 3,
+					"id": "279a2382-0ff2-4ab7-862f-69c3f9bfc515"
+				},
+				{
+					"verse": "Y vinieron las doncellas de Ester, y sus eunucos, y se lo dijeron. Entonces la reina tuvo gran dolor, y envió vestidos para hacer vestir a Mardoqueo, y hacerle quitar el cilicio; mas él no los aceptó.",
+					"number": 4,
+					"id": "a23308ec-3a78-48a6-8807-3f0cbefe6ab2"
+				},
+				{
+					"verse": "Entonces Ester llamó a Hatac, uno de los eunucos del rey, que él había puesto al servicio de ella, y lo mandó a Mardoqueo, con orden de saber qué sucedía, y por qué estaba así.",
+					"number": 5,
+					"id": "741be132-c0c7-4245-8555-ac529f830571"
+				},
+				{
+					"verse": "Salió, pues, Hatac a ver a Mardoqueo, a la plaza de la ciudad, que estaba delante de la puerta del rey.",
+					"number": 6,
+					"id": "0aaecc18-3a77-4dc2-977e-52f36d2dd6fc"
+				},
+				{
+					"verse": "Y Mardoqueo le declaró todo lo que le había acontecido, y le dio noticia de la plata que Amán había dicho que pesaría para los tesoros del rey a cambio de la destrucción de los judíos.",
+					"number": 7,
+					"id": "75406bca-3ad1-4e0b-9c3e-9e0d0fe92de1"
+				},
+				{
+					"verse": "Le dio también la copia del decreto que había sido dado en Susa para que fuesen destruidos, a fin de que la mostrase a Ester y se lo declarase, y le encargara que fuese ante el rey a suplicarle y a interceder delante de él por su pueblo.",
+					"number": 8,
+					"id": "5696b359-9092-4b06-b74f-24441856e907"
+				},
+				{
+					"verse": "Vino Hatac y contó a Ester las palabras de Mardoqueo.",
+					"number": 9,
+					"id": "517bfb92-5b7d-44eb-874b-daaf647f0177"
+				},
+				{
+					"verse": "Entonces Ester dijo a Hatac que le dijese a Mardoqueo:",
+					"number": 10,
+					"id": "c225e936-207a-43cf-a2ad-f769f43c53c6"
+				},
+				{
+					"verse": "Todos los siervos del rey, y el pueblo de las provincias del rey, saben que cualquier hombre o mujer que entra en el patio interior para ver al rey, sin ser llamado, una sola ley hay respecto a él: ha de morir; salvo aquel a quien el rey extendiere el cetro de oro, el cual vivirá; y yo no he sido llamada para ver al rey estos treinta días.",
+					"number": 11,
+					"id": "e850c756-3a9b-4f6a-851f-74ee2cb05874"
+				},
+				{
+					"verse": "Y dijeron a Mardoqueo las palabras de Ester.",
+					"number": 12,
+					"id": "f5d0ac60-185b-4663-9d40-5375256d7ad3"
+				},
+				{
+					"verse": "Entonces dijo Mardoqueo que respondiesen a Ester: No pienses que escaparás en la casa del rey más que cualquier otro judío.",
+					"number": 13,
+					"id": "ca42728a-0738-47b4-b2c1-2b6048a4619d"
+				},
+				{
+					"verse": "Porque si callas absolutamente en este tiempo, respiro y liberación vendrá de alguna otra parte para los judíos; mas tú y la casa de tu padre pereceréis. ¿Y quién sabe si para esta hora has llegado al reino?",
+					"number": 14,
+					"id": "db5c0be4-a73f-4eab-a2e3-6b8c0135a4bb"
+				},
+				{
+					"verse": "Y Ester dijo que respondiesen a Mardoqueo:",
+					"number": 15,
+					"id": "2d9f230d-98b5-409f-8ca5-2669d316e5bc"
+				},
+				{
+					"verse": "Ve y reúne a todos los judíos que se hallan en Susa, y ayunad por mí, y no comáis ni bebáis en tres días, noche y día; yo también con mis doncellas ayunaré igualmente, y entonces entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca.",
+					"number": 16,
+					"id": "68bb5554-c98a-4f06-9722-7156e412cdeb"
+				},
+				{
+					"verse": "Entonces Mardoqueo fue, e hizo conforme a todo lo que le mandó Ester.",
+					"number": 17,
+					"id": "de96a40f-10c6-401b-948b-41bdcb743863"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Aconteció que al tercer día se vistió Ester su vestido real, y entró en el patio interior de la casa del rey, enfrente del aposento del rey; y estaba el rey sentado en su trono en el aposento real, enfrente de la puerta del aposento.",
+					"number": 1,
+					"study": "Ester invita al rey y a Amán a un banquete",
+					"id": "8c5ce100-f24c-42ea-9b2d-427d4b8f6275"
+				},
+				{
+					"verse": "Y cuando vio a la reina Ester que estaba en el patio, ella obtuvo gracia ante sus ojos; y el rey extendió a Ester el cetro de oro que tenía en la mano. Entonces vino Ester y tocó la punta del cetro.",
+					"number": 2,
+					"id": "d5f24b35-2c7d-4fba-b91d-46636f416618"
+				},
+				{
+					"verse": "Dijo el rey: ¿Qué tienes, reina Ester, y cuál es tu petición? Hasta la mitad del reino se te dará.",
+					"number": 3,
+					"id": "c9d949f2-73d6-493c-844f-9da290760b39"
+				},
+				{
+					"verse": "Y Ester dijo: Si place al rey, vengan hoy el rey y Amán al banquete que he preparado para el rey.",
+					"number": 4,
+					"id": "53c7fd98-468c-4fef-bf9f-1ed7f264284c"
+				},
+				{
+					"verse": "Respondió el rey: Daos prisa, llamad a Amán, para hacer lo que Ester ha dicho. Vino, pues, el rey con Amán al banquete que Ester dispuso.",
+					"number": 5,
+					"id": "1d858444-48db-4323-94a9-dfd9bf270713"
+				},
+				{
+					"verse": "Y dijo el rey a Ester en el banquete, mientras bebían vino: ¿Cuál es tu petición, y te será otorgada? ¿Cuál es tu demanda? Aunque sea la mitad del reino, te será concedida.",
+					"number": 6,
+					"id": "2dc094f4-2094-4c2d-b1ea-994b99c09747"
+				},
+				{
+					"verse": "Entonces respondió Ester y dijo: Mi petición y mi demanda es esta:",
+					"number": 7,
+					"id": "16a7952a-c7f2-4f94-a974-d6255978ad58"
+				},
+				{
+					"verse": "Si he hallado gracia ante los ojos del rey, y si place al rey otorgar mi petición y conceder mi demanda, que venga el rey con Amán a otro banquete que les prepararé; y mañana haré conforme a lo que el rey ha mandado.",
+					"number": 8,
+					"id": "9032582e-979f-4402-840d-69bcc4460ecb"
+				},
+				{
+					"verse": "Y salió Amán aquel día contento y alegre de corazón; pero cuando vio a Mardoqueo a la puerta del palacio del rey, que no se levantaba ni se movía de su lugar, se llenó de ira contra Mardoqueo.",
+					"number": 9,
+					"id": "964806d9-e99a-4eb0-99d6-54b49e89e48c"
+				},
+				{
+					"verse": "Pero se refrenó Amán y vino a su casa, y mandó llamar a sus amigos y a Zeres su mujer,",
+					"number": 10,
+					"id": "44d07d41-2178-420f-a06f-54a6649bfe98"
+				},
+				{
+					"verse": "y les refirió Amán la gloria de sus riquezas, y la multitud de sus hijos, y todas las cosas con que el rey le había engrandecido, y con que le había honrado sobre los príncipes y siervos del rey.",
+					"number": 11,
+					"id": "dc92aee6-51f2-4d22-97f0-ee08e6c69366"
+				},
+				{
+					"verse": "Y añadió Amán: También la reina Ester a ninguno hizo venir con el rey al banquete que ella dispuso, sino a mí; y también para mañana estoy convidado por ella con el rey.",
+					"number": 12,
+					"id": "51b5fadd-544a-449a-96ba-8a162ae5135d"
+				},
+				{
+					"verse": "Pero todo esto de nada me sirve cada vez que veo al judío Mardoqueo sentado a la puerta del rey.",
+					"number": 13,
+					"id": "d8e13ac8-9cff-4426-9fb4-9d881a93f011"
+				},
+				{
+					"verse": "Y le dijo Zeres su mujer y todos sus amigos: Hagan una horca de cincuenta codos   de altura, y mañana di al rey que cuelguen a Mardoqueo en ella; y entra alegre con el rey al banquete. Y agradó esto a los ojos de Amán, e hizo preparar la horca.",
+					"number": 14,
+					"id": "6ee3c7a9-0e6a-4e75-92be-5c8697ae5b89"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Aquella misma noche se le fue el sueño al rey, y dijo que le trajesen el libro de las memorias y crónicas, y que las leyeran en su presencia.",
+					"number": 1,
+					"study": "Amán se ve obligado a honrar a Mardoqueo",
+					"id": "c3482928-0d54-4f40-a126-74f5bd10ebf6"
+				},
+				{
+					"verse": "Entonces hallaron escrito que Mardoqueo había denunciado el complot de Bigtán y de Teres, dos eunucos del rey, de la guardia de la puerta, que habían procurado poner mano en el rey Asuero.",
+					"number": 2,
+					"id": "a1157247-3716-4710-a19b-96f8602f55f3"
+				},
+				{
+					"verse": "Y dijo el rey: ¿Qué honra o qué distinción se hizo a Mardoqueo por esto? Y respondieron los servidores del rey, sus oficiales: Nada se ha hecho con él.",
+					"number": 3,
+					"id": "31b5b38b-65b4-41aa-9417-e052057966f7"
+				},
+				{
+					"verse": "Entonces dijo el rey: ¿Quién está en el patio? Y Amán había venido al patio exterior de la casa real, para hablarle al rey para que hiciese colgar a Mardoqueo en la horca que él le tenía preparada.",
+					"number": 4,
+					"id": "b4062bbe-ef4b-48dc-8e25-2e8716cadde2"
+				},
+				{
+					"verse": "Y los servidores del rey le respondieron: He aquí Amán está en el patio. Y el rey dijo: Que entre.",
+					"number": 5,
+					"id": "ffdcd9aa-38a8-4e11-892a-818116d7ced3"
+				},
+				{
+					"verse": "Entró, pues, Amán, y el rey le dijo: ¿Qué se hará al hombre cuya honra desea el rey? Y dijo Amán en su corazón: ¿A quién deseará el rey honrar más que a mí?",
+					"number": 6,
+					"id": "d87bf75d-f85e-43f5-9264-7e691c643032"
+				},
+				{
+					"verse": "Y respondió Amán al rey: Para el varón cuya honra desea el rey,",
+					"number": 7,
+					"id": "6a51eef4-4659-4db1-b5b9-98adad4527bb"
+				},
+				{
+					"verse": "traigan el vestido real de que el rey se viste, y el caballo en que el rey cabalga, y la corona real que está puesta en su cabeza;",
+					"number": 8,
+					"id": "be354ed8-3350-44f8-8a9b-9f831c66e402"
+				},
+				{
+					"verse": "y den el vestido y el caballo en mano de alguno de los príncipes más nobles del rey, y vistan a aquel varón cuya honra desea el rey, y llévenlo en el caballo por la plaza de la ciudad, y pregonen delante de él: Así se hará al varón cuya honra desea el rey.",
+					"number": 9,
+					"id": "e7380997-8939-4e00-a71a-e7f7a597a2d9"
+				},
+				{
+					"verse": "Entonces el rey dijo a Amán: Date prisa, toma el vestido y el caballo, como tú has dicho, y hazlo así con el judío Mardoqueo, que se sienta a la puerta real; no omitas nada de todo lo que has dicho.",
+					"number": 10,
+					"id": "beac4d02-1215-41ec-8702-eda6e7e030a3"
+				},
+				{
+					"verse": "Y Amán tomó el vestido y el caballo, y vistió a Mardoqueo, y lo condujo a caballo por la plaza de la ciudad, e hizo pregonar delante de él: Así se hará al varón cuya honra desea el rey.",
+					"number": 11,
+					"id": "7dc5a522-7f2d-4acc-b909-98a91846bfdb"
+				},
+				{
+					"verse": "Después de esto Mardoqueo volvió a la puerta real, y Amán se dio prisa para irse a su casa, apesadumbrado y cubierta su cabeza.",
+					"number": 12,
+					"id": "881ca553-0624-4e58-836d-e4920af08932"
+				},
+				{
+					"verse": "Contó luego Amán a Zeres su mujer y a todos sus amigos, todo lo que le había acontecido. Entonces le dijeron sus sabios, y Zeres su mujer: Si de la descendencia de los judíos es ese Mardoqueo delante de quien has comenzado a caer, no lo vencerás, sino que caerás por cierto delante de él.",
+					"number": 13,
+					"id": "06261cd6-ea65-486f-ae2b-a4915dfed945"
+				},
+				{
+					"verse": "Aún estaban ellos hablando con él, cuando los eunucos del rey llegaron apresurados, para llevar a Amán al banquete que Ester había dispuesto.",
+					"number": 14,
+					"id": "b0ab44bb-0bc7-42f6-bdd5-670fdba3e34b"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Fue, pues, el rey con Amán al banquete de la reina Ester.",
+					"number": 1,
+					"study": "Amán es ahorcado",
+					"id": "73d4575f-3454-4c89-b8e9-1015d104bda8"
+				},
+				{
+					"verse": "Y en el segundo día, mientras bebían vino, dijo el rey a Ester: ¿Cuál es tu petición, reina Ester, y te será concedida? ¿Cuál es tu demanda? Aunque sea la mitad del reino, te será otorgada.",
+					"number": 2,
+					"id": "bc60cef1-be52-4eb7-9d28-1dbeb5d4c08c"
+				},
+				{
+					"verse": "Entonces la reina Ester respondió y dijo: Oh rey, si he hallado gracia en tus ojos, y si al rey place, séame dada mi vida por mi petición, y mi pueblo por mi demanda.",
+					"number": 3,
+					"id": "daf3fd6e-3b08-4648-9d0a-1fb2b2d59331"
+				},
+				{
+					"verse": "Porque hemos sido vendidos, yo y mi pueblo, para ser destruidos, para ser muertos y exterminados. Si para siervos y siervas fuéramos vendidos, me callaría; pero nuestra muerte sería para el rey un daño irreparable.",
+					"number": 4,
+					"id": "896e705e-99f3-424f-bd3d-2c5b19c1c6c3"
+				},
+				{
+					"verse": "Respondió el rey Asuero, y dijo a la reina Ester: ¿Quién es, y dónde está, el que ha ensoberbecido su corazón para hacer esto?",
+					"number": 5,
+					"id": "c8535250-4a78-43d0-a06f-e19e36bdc810"
+				},
+				{
+					"verse": "Ester dijo: El enemigo y adversario es este malvado Amán. Entonces se turbó Amán delante del rey y de la reina.",
+					"number": 6,
+					"id": "99f62b81-b02d-49cf-adf0-1aa9dddff129"
+				},
+				{
+					"verse": "Luego el rey se levantó del banquete, encendido en ira, y se fue al huerto del palacio; y se quedó Amán para suplicarle a la reina Ester por su vida; porque vio que estaba resuelto para él el mal de parte del rey.",
+					"number": 7,
+					"id": "7a16ed26-885a-4e41-986f-291338a353a6"
+				},
+				{
+					"verse": "Después el rey volvió del huerto del palacio al aposento del banquete, y Amán había caído sobre el lecho en que estaba Ester. Entonces dijo el rey: ¿Querrás también violar a la reina en mi propia casa? Al proferir el rey esta palabra, le cubrieron el rostro a Amán.",
+					"number": 8,
+					"id": "e56cade9-36f2-4cb8-bed2-abdf0d172fdc"
+				},
+				{
+					"verse": "Y dijo Harbona, uno de los eunucos que servían al rey: He aquí en casa de Amán la horca de cincuenta codos   de altura que hizo Amán para Mardoqueo, el cual había hablado bien por el rey. Entonces el rey dijo: Colgadlo en ella.",
+					"number": 9,
+					"id": "2e664a11-ca11-41c1-bff8-4ef72075227c"
+				},
+				{
+					"verse": "Así colgaron a Amán en la horca que él había hecho preparar para Mardoqueo; y se apaciguó la ira del rey.",
+					"number": 10,
+					"id": "f1a61bee-22c7-423e-a95e-cb456007bb5c"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "El mismo día, el rey Asuero dio a la reina Ester la casa de Amán enemigo de los judíos; y Mardoqueo vino delante del rey, porque Ester le declaró lo que él era respecto de ella.",
+					"number": 1,
+					"study": "Decreto de Asuero a favor de los judíos",
+					"id": "bdafd7d2-dfcf-4f9e-9eec-0fba0ddef22b"
+				},
+				{
+					"verse": "Y se quitó el rey el anillo que recogió de Amán, y lo dio a Mardoqueo. Y Ester puso a Mardoqueo sobre la casa de Amán.",
+					"number": 2,
+					"id": "7c5491da-9e51-4133-acc7-07c5469ad06c"
+				},
+				{
+					"verse": "Volvió luego Ester a hablar delante del rey, y se echó a sus pies, llorando y rogándole que hiciese nula la maldad de Amán agagueo y su designio que había tramado contra los judíos.",
+					"number": 3,
+					"id": "cd237b67-35be-4fd7-8a3a-66bb2149aebe"
+				},
+				{
+					"verse": "Entonces el rey extendió a Ester el cetro de oro, y Ester se levantó, y se puso en pie delante del rey,",
+					"number": 4,
+					"id": "51eeb466-31e1-4704-b439-2426d5c43111"
+				},
+				{
+					"verse": "y dijo: Si place al rey, y si he hallado gracia delante de él, y si le parece acertado al rey, y yo soy agradable a sus ojos, que se dé orden escrita para revocar las cartas que autorizan la trama de Amán hijo de Hamedata agagueo, que escribió para destruir a los judíos que están en todas las provincias del rey.",
+					"number": 5,
+					"id": "d2851487-1ea4-44b3-a614-e0a7c5bd4b67"
+				},
+				{
+					"verse": "Porque ¿cómo podré yo ver el mal que alcanzará a mi pueblo? ¿Cómo podré yo ver la destrucción de mi nación?",
+					"number": 6,
+					"id": "f2fc11e6-eee9-42a5-8855-e4fdf988dad5"
+				},
+				{
+					"verse": "Respondió el rey Asuero a la reina Ester y a Mardoqueo el judío: He aquí yo he dado a Ester la casa de Amán, y a él han colgado en la horca, por cuanto extendió su mano contra los judíos.",
+					"number": 7,
+					"id": "4d9479c5-d77a-41a3-98a2-663b7eeb1221"
+				},
+				{
+					"verse": "Escribid, pues, vosotros a los judíos como bien os pareciere, en nombre del rey, y selladlo con el anillo del rey; porque un edicto que se escribe en nombre del rey, y se sella con el anillo del rey, no puede ser revocado.",
+					"number": 8,
+					"id": "2c6a89a4-fd95-4d52-893c-14f06647257b"
+				},
+				{
+					"verse": "Entonces fueron llamados los escribanos del rey en el mes tercero, que es Siván, a los veintitrés días de ese mes; y se escribió conforme a todo lo que mandó Mardoqueo, a los judíos, y a los sátrapas, los capitanes y los príncipes de las provincias que había desde la India hasta Etiopía, ciento veintisiete provincias; a cada provincia según su escritura, y a cada pueblo conforme a su lengua, a los judíos también conforme a su escritura y lengua.",
+					"number": 9,
+					"id": "8cd958f2-8847-47ec-88cd-1dab0d66d263"
+				},
+				{
+					"verse": "Y escribió en nombre del rey Asuero, y lo selló con el anillo del rey, y envió cartas por medio de correos montados en caballos veloces procedentes de los repastos reales;",
+					"number": 10,
+					"id": "142f3317-2a51-4a63-9632-a325dd404a24"
+				},
+				{
+					"verse": "que el rey daba facultad a los judíos que estaban en todas las ciudades, para que se reuniesen y estuviesen a la defensa de su vida, prontos a destruir, y matar, y acabar con toda fuerza armada del pueblo o provincia que viniese contra ellos, y aun sus niños y mujeres, y apoderarse de sus bienes,",
+					"number": 11,
+					"id": "97add688-ed78-4dd7-8b35-8dd15a815ff1"
+				},
+				{
+					"verse": "en un mismo día en todas las provincias del rey Asuero, en el día trece del mes duodécimo, que es el mes de Adar.",
+					"number": 12,
+					"id": "38cbd42d-b814-4f87-8ce6-80c6398b5be1"
+				},
+				{
+					"verse": "La copia del edicto que había de darse por decreto en cada provincia, para que fuese conocido por todos los pueblos, decía que los judíos estuviesen preparados para aquel día, para vengarse de sus enemigos.",
+					"number": 13,
+					"id": "81fec152-ca9a-4e49-8169-e2966dabbfaa"
+				},
+				{
+					"verse": "Los correos, pues, montados en caballos veloces, salieron a toda prisa por la orden del rey; y el edicto fue dado en Susa capital del reino.",
+					"number": 14,
+					"id": "f6eb687f-6314-403d-abb4-68effc3b12f5"
+				},
+				{
+					"verse": "Y salió Mardoqueo de delante del rey con vestido real de azul y blanco, y una gran corona de oro, y un manto de lino y púrpura. La ciudad de Susa entonces se alegró y regocijó;",
+					"number": 15,
+					"id": "36a71898-76a3-4afa-98c2-ac1153db2914"
+				},
+				{
+					"verse": "y los judíos tuvieron luz y alegría, y gozo y honra.",
+					"number": 16,
+					"id": "ef9701b8-3f75-4e03-a89e-41107250b309"
+				},
+				{
+					"verse": "Y en cada provincia y en cada ciudad donde llegó el mandamiento del rey, los judíos tuvieron alegría y gozo, banquete y día de placer. Y muchos de entre los pueblos de la tierra se hacían judíos, porque el temor de los judíos había caído sobre ellos.",
+					"number": 17,
+					"id": "9284d107-b0d6-4e62-afe0-6231a4ec3d89"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "En el mes duodécimo, que es el mes de Adar, a los trece días del mismo mes, cuando debía ser ejecutado el mandamiento del rey y su decreto, el mismo día en que los enemigos de los judíos esperaban enseñorearse de ellos, sucedió lo contrario; porque los judíos se enseñorearon de los que los aborrecían.",
+					"number": 1,
+					"study": "Los judíos destruyen a sus enemigos",
+					"id": "766b2625-38da-439e-9175-ac6808977b2b"
+				},
+				{
+					"verse": "Los judíos se reunieron en sus ciudades, en todas las provincias del rey Asuero, para descargar su mano sobre los que habían procurado su mal, y nadie los pudo resistir, porque el temor de ellos había caído sobre todos los pueblos.",
+					"number": 2,
+					"id": "53cfa5f6-2eed-45e8-9ea2-237ffbeb16e3"
+				},
+				{
+					"verse": "Y todos los príncipes de las provincias, los sátrapas, capitanes y oficiales del rey, apoyaban a los judíos; porque el temor de Mardoqueo había caído sobre ellos.",
+					"number": 3,
+					"id": "815f3d65-ac30-4fe9-9035-124a3d5ee684"
+				},
+				{
+					"verse": "Pues Mardoqueo era grande en la casa del rey, y su fama iba por todas las provincias; Mardoqueo iba engrandeciéndose más y más.",
+					"number": 4,
+					"id": "205ce515-4a8e-4f5a-9592-69b41cda8ff8"
+				},
+				{
+					"verse": "Y asolaron los judíos a todos sus enemigos a filo de espada, y con mortandad y destrucción, e hicieron con sus enemigos como quisieron.",
+					"number": 5,
+					"id": "1cb2c4bb-ed52-4e95-9c77-6fe99ab0bd57"
+				},
+				{
+					"verse": "En Susa capital del reino mataron y destruyeron los judíos a quinientos hombres.",
+					"number": 6,
+					"id": "b28d0ae3-c26a-421f-9fd4-74e6900feadf"
+				},
+				{
+					"verse": "Mataron entonces a Parsandata, Dalfón, Aspata,",
+					"number": 7,
+					"id": "3db35bda-d63e-4260-9219-6dab9d829034"
+				},
+				{
+					"verse": "Porata, Adalía, Aridata,",
+					"number": 8,
+					"id": "477ad31b-d1f7-466d-baf0-bff3d590a295"
+				},
+				{
+					"verse": "Parmasta, Arisai, Aridai y Vaizata,",
+					"number": 9,
+					"id": "7afe2d04-a487-4e77-a298-3557faca7893"
+				},
+				{
+					"verse": "diez hijos de Amán hijo de Hamedata, enemigo de los judíos; pero no tocaron sus bienes.",
+					"number": 10,
+					"id": "b83d63b1-228a-48a0-89dd-7380ebcc9ca3"
+				},
+				{
+					"verse": "El mismo día se le dio cuenta al rey acerca del número de los muertos en Susa, residencia real.",
+					"number": 11,
+					"id": "4ab2f59f-0180-4984-8d11-56380d9ba685"
+				},
+				{
+					"verse": "Y dijo el rey a la reina Ester: En Susa capital del reino los judíos han matado a quinientos hombres, y a diez hijos de Amán. ¿Qué habrán hecho en las otras provincias del rey? ¿Cuál, pues, es tu petición? y te será concedida; ¿o qué más es tu demanda? y será hecha.",
+					"number": 12,
+					"id": "3396794d-2170-426d-ba97-d3bd55428d39"
+				},
+				{
+					"verse": "Y respondió Ester: Si place al rey, concédase también mañana a los judíos en Susa, que hagan conforme a la ley de hoy; y que cuelguen en la horca a los diez hijos de Amán.",
+					"number": 13,
+					"id": "c41cf046-c49d-4d12-bb79-9bda257a54ac"
+				},
+				{
+					"verse": "Y mandó el rey que se hiciese así. Se dio la orden en Susa, y colgaron a los diez hijos de Amán.",
+					"number": 14,
+					"id": "026d1b17-fc81-4329-9f74-24ad51ebd4e0"
+				},
+				{
+					"verse": "Y los judíos que estaban en Susa se juntaron también el catorce del mes de Adar, y mataron en Susa a trescientos hombres; pero no tocaron sus bienes.",
+					"number": 15,
+					"id": "e96dd69a-ca56-4a34-a3bc-38805e8e5db0"
+				},
+				{
+					"verse": "En cuanto a los otros judíos que estaban en las provincias del rey, también se juntaron y se pusieron en defensa de su vida, y descansaron de sus enemigos, y mataron de sus contrarios a setenta y cinco mil; pero no tocaron sus bienes.",
+					"number": 16,
+					"study": "La fiesta de Purim",
+					"id": "72b94ab5-3ee3-4148-9ef4-c52521c9d3a1"
+				},
+				{
+					"verse": "Esto fue en el día trece del mes de Adar, y reposaron en el día catorce del mismo, y lo hicieron día de banquete y de alegría.",
+					"number": 17,
+					"id": "00372af3-cf4a-4fd2-994b-af01878a524c"
+				},
+				{
+					"verse": "Pero los judíos que estaban en Susa se juntaron el día trece y el catorce del mismo mes, y el quince del mismo reposaron y lo hicieron día de banquete y de regocijo.",
+					"number": 18,
+					"id": "f4c619e4-254e-4d2c-9af2-356ed7eaa205"
+				},
+				{
+					"verse": "Por tanto, los judíos aldeanos que habitan en las villas sin muro hacen a los catorce del mes de Adar el día de alegría y de banquete, un día de regocijo, y para enviar porciones cada uno a su vecino.",
+					"number": 19,
+					"id": "883726a1-6e77-414b-b43d-dd7134d81e4c"
+				},
+				{
+					"verse": "Y escribió Mardoqueo estas cosas, y envió cartas a todos los judíos que estaban en todas las provincias del rey Asuero, cercanos y distantes,",
+					"number": 20,
+					"id": "47638de8-fd5e-4e65-8ea0-2e9bb5acebd2"
+				},
+				{
+					"verse": "ordenándoles que celebrasen el día decimocuarto del mes de Adar, y el decimoquinto del mismo, cada año,",
+					"number": 21,
+					"id": "901ddfb1-edf6-400e-84a0-19aefae2a974"
+				},
+				{
+					"verse": "como días en que los judíos tuvieron paz de sus enemigos, y como el mes que de tristeza se les cambió en alegría, y de luto en día bueno; que los hiciesen días de banquete y de gozo, y para enviar porciones cada uno a su vecino, y dádivas a los pobres.",
+					"number": 22,
+					"id": "15589ed9-8e08-4c54-bbfa-4e18da1c13de"
+				},
+				{
+					"verse": "Y los judíos aceptaron hacer, según habían comenzado, lo que les escribió Mardoqueo.",
+					"number": 23,
+					"id": "6597a052-81ae-4b60-be53-d84c373b3d99"
+				},
+				{
+					"verse": "Porque Amán hijo de Hamedata agagueo, enemigo de todos los judíos, había ideado contra los judíos un plan para destruirlos, y había echado Pur, que quiere decir suerte, para consumirlos y acabar con ellos.",
+					"number": 24,
+					"id": "ec93f574-91b3-41fb-8377-ec3c14b31661"
+				},
+				{
+					"verse": "Mas cuando Ester vino a la presencia del rey, él ordenó por carta que el perverso designio que aquél trazó contra los judíos recayera sobre su cabeza; y que colgaran a él y a sus hijos en la horca.",
+					"number": 25,
+					"id": "69549dd9-c417-4b1b-920d-feb62dfe7c25"
+				},
+				{
+					"verse": "Por esto llamaron a estos días Purim, por el nombre Pur. Y debido a las palabras de esta carta, y por lo que ellos vieron sobre esto, y lo que llevó a su conocimiento,",
+					"number": 26,
+					"id": "99f4d364-5d0e-4903-af63-d0dfb9cafcd9"
+				},
+				{
+					"verse": "los judíos establecieron y tomaron sobre sí, sobre su descendencia y sobre todos los allegados a ellos, que no dejarían de celebrar estos dos días según está escrito tocante a ellos, conforme a su tiempo cada año;",
+					"number": 27,
+					"id": "56846fbd-e1e2-4b3e-991e-dc782c1156d3"
+				},
+				{
+					"verse": "y que estos días serían recordados y celebrados por todas las generaciones, familias, provincias y ciudades; que estos días de Purim no dejarían de ser guardados por los judíos, y que su descendencia jamás dejaría de recordarlos.",
+					"number": 28,
+					"id": "4590eac7-0011-4a65-9079-3d3ee16e6ff4"
+				},
+				{
+					"verse": "Y la reina Ester hija de Abihail, y Mardoqueo el judío, suscribieron con plena autoridad esta segunda carta referente a Purim.",
+					"number": 29,
+					"id": "0088bb9d-59b3-422c-9b12-2fb2da93a977"
+				},
+				{
+					"verse": "Y fueron enviadas cartas a todos los judíos, a las ciento veintisiete provincias del rey Asuero, con palabras de paz y de verdad,",
+					"number": 30,
+					"id": "b7c3c683-104d-4f9c-916e-ded5be2f860a"
+				},
+				{
+					"verse": "para confirmar estos días de Purim en sus tiempos señalados, según les había ordenado Mardoqueo el judío y la reina Ester, y según ellos habían tomado sobre sí y sobre su descendencia, para conmemorar el fin de los ayunos y de su clamor.",
+					"number": 31,
+					"id": "b0871db3-22d7-40d0-ba68-6df9ded735e5"
+				},
+				{
+					"verse": "Y el mandamiento de Ester confirmó estas celebraciones acerca de Purim, y esto fue registrado en un libro.",
+					"number": 32,
+					"id": "81da1028-5d66-4fdc-8a9d-e7f8a48f8829"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "El rey Asuero impuso tributo sobre la tierra y hasta las costas del mar.",
+					"number": 1,
+					"study": "Grandeza de Mardoqueo",
+					"id": "354a6a9e-42c7-4cb2-b130-2a07f8cabc73"
+				},
+				{
+					"verse": "Y todos los hechos de su poder y autoridad, y el relato sobre la grandeza de Mardoqueo, con que el rey le engrandeció, ¿no está escrito en el libro de las crónicas de los reyes de Media y de Persia?",
+					"number": 2,
+					"id": "51dc7843-b3ee-41a7-88f2-7fc2c673337e"
+				},
+				{
+					"verse": "Porque Mardoqueo el judío fue el segundo después del rey Asuero, y grande entre los judíos, y estimado por la multitud de sus hermanos, porque procuró el bienestar de su pueblo y habló paz para todo su linaje.",
+					"number": 3,
+					"id": "bad861d1-7854-4fb6-ada2-5b5267e61ba8"
+				}
+			]
+		}
+	],
+	"book_id": "029da0d6-5a9a-47df-8524-158e40bdfcdd"
+}

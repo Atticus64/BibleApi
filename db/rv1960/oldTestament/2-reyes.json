@@ -1,0 +1,3788 @@
+{
+	"name": "2-Reyes",
+	"num_chapters": 25,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Después de la muerte de Acab, se rebeló Moab contra Israel.",
+					"number": 1,
+					"study": "Muerte de Ocozías",
+					"id": "130eba01-e0a2-4383-954d-477ae43c209c"
+				},
+				{
+					"verse": "Y Ocozías cayó por la ventana de una sala de la casa que tenía en Samaria; y estando enfermo, envió mensajeros, y les dijo: Id y consultad a Baal-zebub dios de Ecrón, si he de sanar de esta mi enfermedad.",
+					"number": 2,
+					"id": "a96c55c7-83d7-4ea6-827b-d255026b92d2"
+				},
+				{
+					"verse": "Entonces el ángel de Jehová habló a Elías tisbita, diciendo: Levántate, y sube a encontrarte con los mensajeros del rey de Samaria, y diles: ¿No hay Dios en Israel, que vais a consultar a Baal-zebub dios de Ecrón?",
+					"number": 3,
+					"id": "738adec7-0771-4cbe-81e0-4c0a94b977eb"
+				},
+				{
+					"verse": "Por tanto, así ha dicho Jehová: Del lecho en que estás no te levantarás, sino que ciertamente morirás. Y Elías se fue.",
+					"number": 4,
+					"id": "73ddfa35-9471-464a-8aef-69f7a165e970"
+				},
+				{
+					"verse": "Cuando los mensajeros se volvieron al rey, él les dijo: ¿Por qué os habéis vuelto?",
+					"number": 5,
+					"id": "5e2e481f-5b65-425e-9d2e-62b7c2fe23dc"
+				},
+				{
+					"verse": "Ellos le respondieron: Encontramos a un varón que nos dijo: Id, y volveos al rey que os envió, y decidle: Así ha dicho Jehová: ¿No hay Dios en Israel, que tú envías a consultar a Baal-zebub dios de Ecrón? Por tanto, del lecho en que estás no te levantarás; de cierto morirás.",
+					"number": 6,
+					"id": "52f91320-5f6d-44e1-b449-686ec3bac0d2"
+				},
+				{
+					"verse": "Entonces él les dijo: ¿Cómo era aquel varón que encontrasteis, y os dijo tales palabras?",
+					"number": 7,
+					"id": "338cd7df-442b-4e31-8598-a7cfb0d2dd82"
+				},
+				{
+					"verse": "Y ellos le respondieron: Un varón que tenía vestido de pelo, y ceñía sus lomos con un cinturón de cuero. Entonces él dijo: Es Elías tisbita.",
+					"number": 8,
+					"id": "02c91766-eb84-4cdf-a24e-60de3d4f663d"
+				},
+				{
+					"verse": "Luego envió a él un capitán de cincuenta con sus cincuenta, el cual subió a donde él estaba; y he aquí que él estaba sentado en la cumbre del monte. Y el capitán le dijo: Varón de Dios, el rey ha dicho que desciendas.",
+					"number": 9,
+					"id": "5ce9f48e-b949-41eb-88e1-f3cf88721c11"
+				},
+				{
+					"verse": "Y Elías respondió y dijo al capitán de cincuenta: Si yo soy varón de Dios, descienda fuego del cielo, y consúmate con tus cincuenta. Y descendió fuego del cielo, que lo consumió a él y a sus cincuenta.",
+					"number": 10,
+					"id": "f8236221-093d-4da5-9331-648588ea8adc"
+				},
+				{
+					"verse": "Volvió el rey a enviar a él otro capitán de cincuenta con sus cincuenta; y le habló y dijo: Varón de Dios, el rey ha dicho así: Desciende pronto.",
+					"number": 11,
+					"id": "f9a26944-3489-444a-8755-0e9d96cd9faf"
+				},
+				{
+					"verse": "Y le respondió Elías y dijo: Si yo soy varón de Dios, descienda fuego del cielo, y consúmate con tus cincuenta. Y descendió fuego del cielo, y lo consumió a él y a sus cincuenta.",
+					"number": 12,
+					"id": "226cab1f-d207-46e7-9c44-fdc1f916cbf2"
+				},
+				{
+					"verse": "Volvió a enviar al tercer capitán de cincuenta con sus cincuenta; y subiendo aquel tercer capitán de cincuenta, se puso de rodillas delante de Elías y le rogó, diciendo: Varón de Dios, te ruego que sea de valor delante de tus ojos mi vida, y la vida de estos tus cincuenta siervos.",
+					"number": 13,
+					"id": "91c1b8bf-f0c5-4ee4-91af-5dbb0142f7da"
+				},
+				{
+					"verse": "He aquí ha descendido fuego del cielo, y ha consumido a los dos primeros capitanes de cincuenta con sus cincuenta; sea estimada ahora mi vida delante de tus ojos.",
+					"number": 14,
+					"id": "ddfa1307-087b-4750-8d04-44d7ce35805f"
+				},
+				{
+					"verse": "Entonces el ángel de Jehová dijo a Elías: Desciende con él; no tengas miedo de él. Y él se levantó, y descendió con él al rey.",
+					"number": 15,
+					"id": "8054ca8e-8490-4cce-881b-9cf64ca6c7c6"
+				},
+				{
+					"verse": "Y le dijo: Así ha dicho Jehová: Por cuanto enviaste mensajeros a consultar a Baal-zebub dios de Ecrón, ¿no hay Dios en Israel para consultar en su palabra? No te levantarás, por tanto, del lecho en que estás, sino que de cierto morirás.",
+					"number": 16,
+					"id": "66ace595-4bcc-4eab-bfc3-ca81b7e4d094"
+				},
+				{
+					"verse": "Y murió conforme a la palabra de Jehová, que había hablado Elías. Reinó en su lugar Joram, en el segundo año de Joram hijo de Josafat, rey de Judá; porque Ocozías no tenía hijo.",
+					"number": 17,
+					"id": "e8c4d4d8-5e56-44c6-b288-499146ab3800"
+				},
+				{
+					"verse": "Los demás hechos de Ocozías, ¿no están escritos en el libro de las crónicas de los reyes de Israel?",
+					"number": 18,
+					"id": "f4f9385e-27ec-476d-a136-bb4cf63fb4bc"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Aconteció que cuando quiso Jehová alzar a Elías en un torbellino al cielo, Elías venía con Eliseo de Gilgal.",
+					"number": 1,
+					"study": "Eliseo sucede a Elías",
+					"id": "fe40a4e6-817f-4411-93d5-6e2595aa1d80"
+				},
+				{
+					"verse": "Y dijo Elías a Eliseo: Quédate ahora aquí, porque Jehová me ha enviado a Bet-el. Y Eliseo dijo: Vive Jehová, y vive tu alma, que no te dejaré. Descendieron, pues, a Bet-el.",
+					"number": 2,
+					"id": "bc4bafee-5ad4-4fd8-bd30-0f84e07032d3"
+				},
+				{
+					"verse": "Y saliendo a Eliseo los hijos de los profetas que estaban en Bet-el, le dijeron: ¿Sabes que Jehová te quitará hoy a tu señor de sobre ti? Y él dijo: Sí, yo lo sé; callad.",
+					"number": 3,
+					"id": "5df8fe3d-5d23-4f30-a8be-84fcc98ef58d"
+				},
+				{
+					"verse": "Y Elías le volvió a decir: Eliseo, quédate aquí ahora, porque Jehová me ha enviado a Jericó. Y él dijo: Vive Jehová, y vive tu alma, que no te dejaré. Vinieron, pues, a Jericó.",
+					"number": 4,
+					"id": "7393e0f4-f016-492e-863c-da2fdc53f7d9"
+				},
+				{
+					"verse": "Y se acercaron a Eliseo los hijos de los profetas que estaban en Jericó, y le dijeron: ¿Sabes que Jehová te quitará hoy a tu señor de sobre ti? El respondió: Sí, yo lo sé; callad.",
+					"number": 5,
+					"id": "9da5589b-fe0c-4066-b9d9-2656c78b8688"
+				},
+				{
+					"verse": "Y Elías le dijo: Te ruego que te quedes aquí, porque Jehová me ha enviado al Jordán. Y él dijo: Vive Jehová, y vive tu alma, que no te dejaré. Fueron, pues, ambos.",
+					"number": 6,
+					"id": "7757ba31-aff7-4e15-8492-caec75ea6721"
+				},
+				{
+					"verse": "Y vinieron cincuenta varones de los hijos de los profetas, y se pararon delante a lo lejos; y ellos dos se pararon junto al Jordán.",
+					"number": 7,
+					"id": "5c543dfa-fcd4-4cd8-9cae-4b814fab4648"
+				},
+				{
+					"verse": "Tomando entonces Elías su manto, lo dobló, y golpeó las aguas, las cuales se apartaron a uno y a otro lado, y pasaron ambos por lo seco.",
+					"number": 8,
+					"id": "82f285e0-364e-4e3d-a01d-5d41754b0437"
+				},
+				{
+					"verse": "Cuando habían pasado, Elías dijo a Eliseo: Pide lo que quieras que haga por ti, antes que yo sea quitado de ti. Y dijo Eliseo: Te ruego que una doble porción de tu espíritu sea sobre mí.",
+					"number": 9,
+					"id": "68ad765b-6d76-4ca8-bdd1-04d4f9e0dffe"
+				},
+				{
+					"verse": "El le dijo: Cosa difícil has pedido. Si me vieres cuando fuere quitado de ti, te será hecho así; mas si no, no.",
+					"number": 10,
+					"id": "fcd1284c-c8bd-4c9f-acc8-8435fe03f1ce"
+				},
+				{
+					"verse": "Y aconteció que yendo ellos y hablando, he aquí un carro de fuego con caballos de fuego apartó a los dos; y Elías subió al cielo en un torbellino.",
+					"number": 11,
+					"id": "90f96d3d-c136-41fe-a279-238d6d2adf27"
+				},
+				{
+					"verse": "Viéndolo Eliseo, clamaba: ¡Padre mío, padre mío, carro de Israel y su gente de a caballo! Y nunca más le vio; y tomando sus vestidos, los rompió en dos partes.",
+					"number": 12,
+					"id": "6c641d7a-a4d2-4829-bbd9-dc121729d41f"
+				},
+				{
+					"verse": "Alzó luego el manto de Elías que se le había caído, y volvió, y se paró a la orilla del Jordán.",
+					"number": 13,
+					"id": "444508f3-e331-4a51-8306-cf7325320441"
+				},
+				{
+					"verse": "Y tomando el manto de Elías que se le había caído, golpeó las aguas, y dijo: ¿Dónde está Jehová, el Dios de Elías? Y así que hubo golpeado del mismo modo las aguas, se apartaron a uno y a otro lado, y pasó Eliseo.",
+					"number": 14,
+					"id": "06255cba-b160-4c11-a6b2-2350a1cb0068"
+				},
+				{
+					"verse": "Viéndole los hijos de los profetas que estaban en Jericó al otro lado, dijeron: El espíritu de Elías reposó sobre Eliseo. Y vinieron a recibirle, y se postraron delante de él.",
+					"number": 15,
+					"id": "85079702-9da5-42da-b30c-94afc8ac4db6"
+				},
+				{
+					"verse": "Y dijeron: He aquí hay con tus siervos cincuenta varones fuertes; vayan ahora y busquen a tu señor; quizá lo ha levantado el Espíritu de Jehová, y lo ha echado en algún monte o en algún valle. Y él les dijo: No enviéis.",
+					"number": 16,
+					"id": "f22968b9-fbb0-43ee-a2fb-38b3df4b6500"
+				},
+				{
+					"verse": "Mas ellos le importunaron, hasta que avergonzándose dijo: Enviad. Entonces ellos enviaron cincuenta hombres, los cuales lo buscaron tres días, mas no lo hallaron.",
+					"number": 17,
+					"id": "a6956301-6331-4127-ab6a-d84e8e50a917"
+				},
+				{
+					"verse": "Y cuando volvieron a Eliseo, que se había quedado en Jericó, él les dijo: ¿No os dije yo que no fueseis?",
+					"number": 18,
+					"id": "6647a9c8-824d-4350-b9d1-9010d8a17f19"
+				},
+				{
+					"verse": "Y los hombres de la ciudad dijeron a Eliseo: He aquí, el lugar en donde está colocada esta ciudad es bueno, como mi señor ve; mas las aguas son malas, y la tierra es estéril.",
+					"number": 19,
+					"id": "15a57c20-97c2-4732-8416-bc2fe5e7f040"
+				},
+				{
+					"verse": "Entonces él dijo: Traedme una vasija nueva, y poned en ella sal. Y se la trajeron.",
+					"number": 20,
+					"id": "aeb7fd0c-5681-4a69-872f-8152b6fc7eea"
+				},
+				{
+					"verse": "Y saliendo él a los manantiales de las aguas, echó dentro la sal, y dijo: Así ha dicho Jehová: Yo sané estas aguas, y no habrá más en ellas muerte ni enfermedad.",
+					"number": 21,
+					"id": "31a2623d-3833-4a22-abf1-f605af9d4efa"
+				},
+				{
+					"verse": "Y fueron sanas las aguas hasta hoy, conforme a la palabra que habló Eliseo.",
+					"number": 22,
+					"id": "349f8d59-d841-42be-bc7c-8a94cc43f234"
+				},
+				{
+					"verse": "Después subió de allí a Bet-el; y subiendo por el camino, salieron unos muchachos de la ciudad, y se burlaban de él, diciendo: ¡Calvo, sube! ¡calvo, sube!",
+					"number": 23,
+					"id": "0527a7b5-18e9-492d-b441-dd5c30248e6a"
+				},
+				{
+					"verse": "Y mirando él atrás, los vio, y los maldijo en el nombre de Jehová. Y salieron dos osos del monte, y despedazaron de ellos a cuarenta y dos muchachos.",
+					"number": 24,
+					"id": "5a54321b-8ff2-478c-8aae-87d0f844a7cb"
+				},
+				{
+					"verse": "De allí fue al monte Carmelo, y de allí volvió a Samaria.",
+					"number": 25,
+					"id": "87eb8f2b-ed17-43c3-9737-bdac4e5d4801"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Joram hijo de Acab comenzó a reinar en Samaria sobre Israel el año dieciocho de Josafat rey de Judá; y reinó doce años.",
+					"number": 1,
+					"study": "Reinado de Joram de Israel",
+					"id": "6e9ec064-8c08-427f-94c0-06ec8ef6647d"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, aunque no como su padre y su madre; porque quitó las estatuas de Baal que su padre había hecho.",
+					"number": 2,
+					"id": "5d927759-2772-4fc1-9ce5-aae1cc9dc96a"
+				},
+				{
+					"verse": "Pero se entregó a los pecados de Jeroboam hijo de Nabat, que hizo pecar a Israel, y no se apartó de ellos.",
+					"number": 3,
+					"id": "f6995919-f195-4900-a4ba-57b6cc04999d"
+				},
+				{
+					"verse": "Entonces Mesa rey de Moab era propietario de ganados, y pagaba al rey de Israel cien mil corderos y cien mil carneros con sus vellones.",
+					"number": 4,
+					"study": "Eliseo predice la victoria sobre Moab",
+					"id": "f776c488-42be-4904-adb1-80d36ea70820"
+				},
+				{
+					"verse": "Pero muerto Acab, el rey de Moab se rebeló contra el rey de Israel.",
+					"number": 5,
+					"id": "d767306d-e440-4327-88bf-f4e34e86d8c9"
+				},
+				{
+					"verse": "Salió entonces de Samaria el rey Joram, y pasó revista a todo Israel.",
+					"number": 6,
+					"id": "2943d3b8-5986-4f80-ba38-2c08052109b5"
+				},
+				{
+					"verse": "Y fue y envió a decir a Josafat rey de Judá: El rey de Moab se ha rebelado contra mí: ¿irás tú conmigo a la guerra contra Moab? Y él respondió: Iré, porque yo soy como tú; mi pueblo como tu pueblo, y mis caballos como los tuyos.",
+					"number": 7,
+					"id": "b0effb49-57fe-4569-8885-729b57552f24"
+				},
+				{
+					"verse": "Y dijo: ¿Por qué camino iremos? Y él respondió: Por el camino del desierto de Edom.",
+					"number": 8,
+					"id": "9f2fea0b-ab7d-45a7-9e56-fee0908d2d5e"
+				},
+				{
+					"verse": "Salieron, pues, el rey de Israel, el rey de Judá, y el rey de Edom; y como anduvieron rodeando por el desierto siete días de camino, les faltó agua para el ejército, y para las bestias que los seguían.",
+					"number": 9,
+					"id": "0f903e2b-1727-409b-a6d8-daa5c3369969"
+				},
+				{
+					"verse": "Entonces el rey de Israel dijo: ¡Ah! que ha llamado Jehová a estos tres reyes para entregarlos en manos de los moabitas.",
+					"number": 10,
+					"id": "8474781c-9fc2-4940-9e28-41f14c9c6233"
+				},
+				{
+					"verse": "Mas Josafat dijo: ¿No hay aquí profeta de Jehová, para que consultemos a Jehová por medio de él? Y uno de los siervos del rey de Israel respondió y dijo: Aquí está Eliseo hijo de Safat, que servía a Elías.",
+					"number": 11,
+					"id": "7670880c-48dc-4e6a-bed1-ac8e9d45fe74"
+				},
+				{
+					"verse": "Y Josafat dijo: Este tendrá palabra de Jehová. Y descendieron a él el rey de Israel, y Josafat, y el rey de Edom.",
+					"number": 12,
+					"id": "7af85dc5-3b0b-40aa-9af0-c86dc68cdf76"
+				},
+				{
+					"verse": "Entonces Eliseo dijo al rey de Israel: ¿Qué tengo yo contigo? Ve a los profetas de tu padre, y a los profetas de tu madre. Y el rey de Israel le respondió: No; porque Jehová ha reunido a estos tres reyes para entregarlos en manos de los moabitas.",
+					"number": 13,
+					"id": "2a7e5a3f-8269-45d4-a6e8-ed4449d4a1cc"
+				},
+				{
+					"verse": "Y Eliseo dijo: Vive Jehová de los ejércitos, en cuya presencia estoy, que si no tuviese respeto al rostro de Josafat rey de Judá, no te mirara a ti, ni te viera.",
+					"number": 14,
+					"id": "3dc81de9-d084-42f2-9809-cc1da2ab606d"
+				},
+				{
+					"verse": "Mas ahora traedme un tañedor. Y mientras el tañedor tocaba, la mano de Jehová vino sobre Eliseo,",
+					"number": 15,
+					"id": "a071fefe-da97-4647-941d-4c1d80839e5a"
+				},
+				{
+					"verse": "quien dijo: Así ha dicho Jehová: Haced en este valle muchos estanques.",
+					"number": 16,
+					"id": "8c638737-db0c-4dd5-a77d-2278db5dcc97"
+				},
+				{
+					"verse": "Porque Jehová ha dicho así: No veréis viento, ni veréis lluvia; pero este valle será lleno de agua, y beberéis vosotros, y vuestras bestias y vuestros ganados.",
+					"number": 17,
+					"id": "22d340dd-55db-4b61-a819-d1c0ba1cb2ed"
+				},
+				{
+					"verse": "Y esto es cosa ligera en los ojos de Jehová; entregará también a los moabitas en vuestras manos.",
+					"number": 18,
+					"id": "66d9dfa9-2659-4a0b-ae7a-aa0e936faa43"
+				},
+				{
+					"verse": "Y destruiréis toda ciudad fortificada y toda villa hermosa, y talaréis todo buen árbol, cegaréis todas las fuentes de aguas, y destruiréis con piedras toda tierra fértil.",
+					"number": 19,
+					"id": "577f9761-dd56-4b21-b9c9-d360ea8adc50"
+				},
+				{
+					"verse": "Aconteció, pues, que por la mañana, cuando se ofrece el sacrificio, he aquí vinieron aguas por el camino de Edom, y la tierra se llenó de aguas.",
+					"number": 20,
+					"id": "36291d90-8923-4aaf-8756-858f888d4644"
+				},
+				{
+					"verse": "Cuanto todos los de Moab oyeron que los reyes subían a pelear contra ellos, se juntaron desde los que apenas podían ceñir armadura en adelante, y se pusieron en la frontera.",
+					"number": 21,
+					"id": "e0b3f7db-3802-4e6a-8497-474e83b66d1a"
+				},
+				{
+					"verse": "Cuando se levantaron por la mañana, y brilló el sol sobre las aguas, vieron los de Moab desde lejos las aguas rojas como sangre;",
+					"number": 22,
+					"id": "ba5f4c3e-45ee-497d-aed2-b909d4f501ae"
+				},
+				{
+					"verse": "y dijeron: ¡Esto es sangre de espada! Los reyes se han vuelto uno contra otro, y cada uno ha dado muerte a su compañero. Ahora, pues, ¡Moab, al botín!",
+					"number": 23,
+					"id": "44e96e3d-80c6-4931-bab6-e9dbf807359d"
+				},
+				{
+					"verse": "Pero cuando llegaron al campamento de Israel, se levantaron los israelitas y atacaron a los de Moab, los cuales huyeron de delante de ellos; pero los persiguieron matando a los de Moab.",
+					"number": 24,
+					"id": "07a435ff-10e9-4222-9df5-87aa1abfe0b6"
+				},
+				{
+					"verse": "Y asolaron las ciudades, y en todas las tierras fértiles echó cada uno su piedra, y las llenaron; cegaron también todas las fuentes de las aguas, y derribaron todos los buenos árboles; hasta que en Kir-hareset solamente dejaron piedras, porque los honderos la rodearon y la destruyeron.",
+					"number": 25,
+					"id": "a43442ec-4207-4ed5-8a50-ec1616f1f0d4"
+				},
+				{
+					"verse": "Y cuando el rey de Moab vio que era vencido en la batalla, tomó consigo setecientos hombres que manejaban espada, para atacar al rey de Edom; mas no pudieron.",
+					"number": 26,
+					"id": "d8df9d3b-6e7a-4f51-b29c-354e8bb3d15d"
+				},
+				{
+					"verse": "Entonces arrebató a su primogénito que había de reinar en su lugar, y lo sacrificó en holocausto sobre el muro. Y hubo grande enojo contra Israel; y se apartaron de él, y se volvieron a su tierra.",
+					"number": 27,
+					"id": "b32cf251-5cfd-45f9-bfb4-7daebd9dcd27"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Una mujer, de las mujeres de los hijos de los profetas, clamó a Eliseo, diciendo: Tu siervo mi marido ha muerto; y tú sabes que tu siervo era temeroso de Jehová; y ha venido el acreedor para tomarse dos hijos míos por siervos.",
+					"number": 1,
+					"study": "El aceite de la viuda",
+					"id": "282bf035-684c-41a7-97ab-d39150d32826"
+				},
+				{
+					"verse": "Y Eliseo le dijo: ¿Qué te haré yo? Declárame qué tienes en casa. Y ella dijo: Tu sierva ninguna cosa tiene en casa, sino una vasija de aceite.",
+					"number": 2,
+					"id": "c52d7103-6ad7-44ce-b945-ee26b8bbb3db"
+				},
+				{
+					"verse": "El le dijo: Ve y pide para ti vasijas prestadas de todos tus vecinos, vasijas vacías, no pocas.",
+					"number": 3,
+					"id": "875e7e9c-e631-4f90-bc3b-05a157849892"
+				},
+				{
+					"verse": "Entra luego, y enciérrate tú y tus hijos; y echa en todas las vasijas, y cuando una esté llena, ponla aparte.",
+					"number": 4,
+					"id": "8006ed95-b972-4fca-a59d-e7472708c97d"
+				},
+				{
+					"verse": "Y se fue la mujer, y cerró la puerta encerrándose ella y sus hijos; y ellos le traían las vasijas, y ella echaba del aceite.",
+					"number": 5,
+					"id": "5a0123e8-9871-447b-bd9c-80d879c618e6"
+				},
+				{
+					"verse": "Cuando las vasijas estuvieron llenas, dijo a un hijo suyo: Tráeme aún otras vasijas. Y él dijo: No hay más vasijas. Entonces cesó el aceite.",
+					"number": 6,
+					"id": "8b40b79a-096b-470c-ae10-711621f15a17"
+				},
+				{
+					"verse": "Vino ella luego, y lo contó al varón de Dios, el cual dijo: Ve y vende el aceite, y paga a tus acreedores; y tú y tus hijos vivid de lo que quede.",
+					"number": 7,
+					"id": "8f4bd46f-dbc6-432c-8957-59308107ba41"
+				},
+				{
+					"verse": "Aconteció también que un día pasaba Eliseo por Sunem; y había allí una mujer importante, que le invitaba insistentemente a que comiese; y cuando él pasaba por allí, venía a la casa de ella a comer.",
+					"number": 8,
+					"study": "Eliseo y la sunamita",
+					"id": "d1e19425-9c47-4826-b8ed-9825f063503a"
+				},
+				{
+					"verse": "Y ella dijo a su marido: He aquí ahora, yo entiendo que éste que siempre pasa por nuestra casa, es varón santo de Dios.",
+					"number": 9,
+					"id": "0fd39ac7-71b3-4120-b231-a1a3a29ecf1c"
+				},
+				{
+					"verse": "Yo te ruego que hagamos un pequeño aposento de paredes, y pongamos allí cama, mesa, silla y candelero, para que cuando él viniere a nosotros, se quede en él.",
+					"number": 10,
+					"id": "424cb5c3-6f33-473b-a9a7-d84a18504bc8"
+				},
+				{
+					"verse": "Y aconteció que un día vino él por allí, y se quedó en aquel aposento, y allí durmió.",
+					"number": 11,
+					"id": "e6c70615-537a-474c-98d9-1b90e0622581"
+				},
+				{
+					"verse": "Entonces dijo a Giezi su criado: Llama a esta sunamita. Y cuando la llamó, vino ella delante de él.",
+					"number": 12,
+					"id": "89551116-c118-4c35-9650-249910eb4d12"
+				},
+				{
+					"verse": "Dijo él entonces a Giezi: Dile: He aquí tú has estado solícita por nosotros con todo este esmero; ¿qué quieres que haga por ti? ¿Necesitas que hable por ti al rey, o al general del ejército? Y ella respondió: Yo habito en medio de mi pueblo.",
+					"number": 13,
+					"id": "ed24cd00-7119-418b-b461-ec7d4f72c6d1"
+				},
+				{
+					"verse": "Y él dijo: ¿Qué, pues, haremos por ella? Y Giezi respondió: He aquí que ella no tiene hijo, y su marido es viejo.",
+					"number": 14,
+					"id": "0a4e08c6-02ff-4738-a119-d72fa2626bdd"
+				},
+				{
+					"verse": "Dijo entonces: Llámala. Y él la llamó, y ella se paró a la puerta.",
+					"number": 15,
+					"id": "931b4672-ca80-472d-a644-9f682616f70c"
+				},
+				{
+					"verse": "Y él le dijo: El año que viene, por este tiempo, abrazarás un hijo. Y ella dijo: No, señor mío, varón de Dios, no hagas burla de tu sierva.",
+					"number": 16,
+					"id": "34287a61-ec6d-46d8-800e-9a35d92ab680"
+				},
+				{
+					"verse": "Mas la mujer concibió, y dio a luz un hijo el año siguiente, en el tiempo que Eliseo le había dicho.",
+					"number": 17,
+					"id": "e791e6b2-6679-41b6-9dd4-e435b5d3d436"
+				},
+				{
+					"verse": "Y el niño creció. Pero aconteció un día, que vino a su padre, que estaba con los segadores;",
+					"number": 18,
+					"id": "8accf317-1d2f-43bd-a9ee-26bacb51fe7c"
+				},
+				{
+					"verse": "y dijo a su padre: ¡Ay, mi cabeza, mi cabeza! Y el padre dijo a un criado: Llévalo a su madre.",
+					"number": 19,
+					"id": "9f596531-ee61-495f-a220-7e352ec87e7a"
+				},
+				{
+					"verse": "Y habiéndole él tomado y traído a su madre, estuvo sentado en sus rodillas hasta el mediodía, y murió.",
+					"number": 20,
+					"id": "892a39c1-a294-48df-a149-e6e2db705892"
+				},
+				{
+					"verse": "Ella entonces subió, y lo puso sobre la cama del varón de Dios, y cerrando la puerta, se salió.",
+					"number": 21,
+					"id": "4e1f8fe9-341f-4c8c-970e-0a442d5f0542"
+				},
+				{
+					"verse": "Llamando luego a su marido, le dijo: Te ruego que envíes conmigo a alguno de los criados y una de las asnas, para que yo vaya corriendo al varón de Dios, y regrese.",
+					"number": 22,
+					"id": "c49e3338-c5b9-407d-86e0-0aecfa94e9d7"
+				},
+				{
+					"verse": "El dijo: ¿Para qué vas a verle hoy? No es nueva luna, ni día de reposo. Y ella respondió: Paz.",
+					"number": 23,
+					"id": "f32b4c93-1d63-4626-bcee-580bef7fc106"
+				},
+				{
+					"verse": "Después hizo enalbardar el asna, y dijo al criado: Guía y anda; y no me hagas detener en el camino, sino cuando yo te lo dijere.",
+					"number": 24,
+					"id": "2d45d4eb-49d7-4eb5-9b3e-df2094156100"
+				},
+				{
+					"verse": "Partió, pues, y vino al varón de Dios, al monte Carmelo. Y cuando el varón de Dios la vio de lejos, dijo a su criado Giezi: He aquí la sunamita.",
+					"number": 25,
+					"id": "6868536b-9202-4be6-bf28-a46e2ed099a9"
+				},
+				{
+					"verse": "Te ruego que vayas ahora corriendo a recibirla, y le digas: ¿Te va bien a ti? ¿Le va bien a tu marido, y a tu hijo? Y ella dijo: Bien.",
+					"number": 26,
+					"id": "0b8aa6af-2161-45b7-bb91-c967253a8a53"
+				},
+				{
+					"verse": "Luego que llegó a donde estaba el varón de Dios en el monte, se asió de sus pies. Y se acercó Giezi para quitarla; pero el varón de Dios le dijo: Déjala, porque su alma está en amargura, y Jehová me ha encubierto el motivo, y no me lo ha revelado.",
+					"number": 27,
+					"id": "928044ca-e3b5-4135-a73b-f949659527c9"
+				},
+				{
+					"verse": "Y ella dijo: ¿Pedí yo hijo a mi señor? ¿No dije yo que no te burlases de mí?",
+					"number": 28,
+					"id": "a1e33128-44bd-4d47-bfe2-8b64c5541258"
+				},
+				{
+					"verse": "Entonces dijo él a Giezi: Ciñe tus lomos, y toma mi báculo en tu mano, y ve; si alguno te encontrare, no lo saludes, y si alguno te saludare, no le respondas; y pondrás mi báculo sobre el rostro del niño.",
+					"number": 29,
+					"id": "88857f17-c49a-423e-9003-f4a572e1dd11"
+				},
+				{
+					"verse": "Y dijo la madre del niño: Vive Jehová, y vive tu alma, que no te dejaré.",
+					"number": 30,
+					"id": "be05b31f-9a94-4c6d-8f9c-daf3f330386a"
+				},
+				{
+					"verse": "El entonces se levantó y la siguió. Y Giezi había ido delante de ellos, y había puesto el báculo sobre el rostro del niño; pero no tenía voz ni sentido, y así se había vuelto para encontrar a Eliseo, y se lo declaró, diciendo: El niño no despierta.",
+					"number": 31,
+					"id": "caf27026-f79c-4845-88d5-533beba9cd5f"
+				},
+				{
+					"verse": "Y venido Eliseo a la casa, he aquí que el niño estaba muerto tendido sobre su cama.",
+					"number": 32,
+					"id": "992098be-4512-4268-acda-b93a1e451b3b"
+				},
+				{
+					"verse": "Entrando él entonces, cerró la puerta tras ambos, y oró a Jehová.",
+					"number": 33,
+					"id": "b0e80f1f-90b6-4d20-bcbf-945d39b2ab33"
+				},
+				{
+					"verse": "Después subió y se tendió sobre el niño, poniendo su boca sobre la boca de él, y sus ojos sobre sus ojos, y sus manos sobre las manos suyas; así se tendió sobre él, y el cuerpo del niño entró en calor.",
+					"number": 34,
+					"id": "022e67f2-d998-4f77-b7d7-c35ed8353f8f"
+				},
+				{
+					"verse": "Volviéndose luego, se paseó por la casa a una y otra parte, y después subió, y se tendió sobre él nuevamente, y el niño estornudó siete veces, y abrió sus ojos.",
+					"number": 35,
+					"id": "a2761d47-671b-40d1-931b-3d899d871186"
+				},
+				{
+					"verse": "Entonces llamó él a Giezi, y le dijo: Llama a esta sunamita. Y él la llamó. Y entrando ella, él le dijo: Toma tu hijo.",
+					"number": 36,
+					"id": "03915341-b3ae-4818-9926-76990a428e06"
+				},
+				{
+					"verse": "Y así que ella entró, se echó a sus pies, y se inclinó a tierra; y después tomó a su hijo, y salió.",
+					"number": 37,
+					"id": "c1de11b7-7762-4ff3-9fe5-7ad8b86311b1"
+				},
+				{
+					"verse": "Eliseo volvió a Gilgal cuando había una grande hambre en la tierra. Y los hijos de los profetas estaban con él, por lo que dijo a su criado: Pon una olla grande, y haz potaje para los hijos de los profetas.",
+					"number": 38,
+					"study": "Milagros en beneficio de los profetas",
+					"id": "1076297f-7e3d-4011-8cd9-957ac0b29b93"
+				},
+				{
+					"verse": "Y salió uno al campo a recoger hierbas, y halló una como parra montés, y de ella llenó su falda de calabazas silvestres; y volvió, y las cortó en la olla del potaje, pues no sabía lo que era.",
+					"number": 39,
+					"id": "879d4648-c0ee-4f9e-b67d-641f01e83650"
+				},
+				{
+					"verse": "Después sirvió para que comieran los hombres; pero sucedió que comiendo ellos de aquel guisado, gritaron diciendo: ¡Varón de Dios, hay muerte en esa olla! Y no lo pudieron comer.",
+					"number": 40,
+					"id": "ca6a072a-e9c5-4a45-971c-f2c0d8027d4f"
+				},
+				{
+					"verse": "El entonces dijo: Traed harina. Y la esparció en la olla, y dijo: Da de comer a la gente. Y no hubo más mal en la olla.",
+					"number": 41,
+					"id": "fd2a1f42-f62a-467d-951d-b8aac6bef39d"
+				},
+				{
+					"verse": "Vino entonces un hombre de Baal-salisa, el cual trajo al varón de Dios panes de primicias, veinte panes de cebada, y trigo nuevo en su espiga. Y él dijo: Da a la gente para que coma.",
+					"number": 42,
+					"id": "4fdef06c-5d64-4848-8773-ed902208b4f8"
+				},
+				{
+					"verse": "Y respondió su sirviente: ¿Cómo pondré esto delante de cien hombres? Pero él volvió a decir: Da a la gente para que coma, porque así ha dicho Jehová: Comerán, y sobrará.",
+					"number": 43,
+					"id": "133c01f1-dc5d-4dce-ab7f-273eeac0d7a4"
+				},
+				{
+					"verse": "Entonces lo puso delante de ellos, y comieron, y les sobró, conforme a la palabra de Jehová.",
+					"number": 44,
+					"id": "0ae86098-0f98-406c-9fc2-67c6a001af4a"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Naamán, general del ejército del rey de Siria, era varón grande delante de su señor, y lo tenía en alta estima, porque por medio de él había dado Jehová salvación a Siria. Era este hombre valeroso en extremo, pero leproso.",
+					"number": 1,
+					"study": "Eliseo y Naamán",
+					"id": "2dda00f8-58bc-4cc2-88ed-fc78203036bd"
+				},
+				{
+					"verse": "Y de Siria habían salido bandas armadas, y habían llevado cautiva de la tierra de Israel a una muchacha, la cual servía a la mujer de Naamán.",
+					"number": 2,
+					"id": "401ef7b3-fb32-4c49-8365-2258eb6212e2"
+				},
+				{
+					"verse": "Esta dijo a su señora: Si rogase mi señor al profeta que está en Samaria, él lo sanaría de su lepra.",
+					"number": 3,
+					"id": "892b5488-2e36-4771-92d7-dba84cbdfafc"
+				},
+				{
+					"verse": "Entrando Naamán a su señor, le relató diciendo: Así y así ha dicho una muchacha que es de la tierra de Israel.",
+					"number": 4,
+					"id": "e7aef5a9-fb65-4996-915b-efaa2c550ea1"
+				},
+				{
+					"verse": "Y le dijo el rey de Siria: Anda, ve, y yo enviaré cartas al rey de Israel. Salió, pues, él, llevando consigo diez talentos de plata,   y seis mil piezas de oro, y diez mudas de vestidos.",
+					"number": 5,
+					"id": "94c0d02f-95b3-4299-b42a-e185157b6884"
+				},
+				{
+					"verse": "Tomó también cartas para el rey de Israel, que decían así: Cuando lleguen a ti estas cartas, sabe por ellas que yo envío a ti mi siervo Naamán, para que lo sanes de su lepra.",
+					"number": 6,
+					"id": "56d72238-9c6f-4908-b4ce-4599cca89465"
+				},
+				{
+					"verse": "Luego que el rey de Israel leyó las cartas, rasgó sus vestidos, y dijo: ¿Soy yo Dios, que mate y dé vida, para que éste envíe a mí a que sane un hombre de su lepra? Considerad ahora, y ved cómo busca ocasión contra mí.",
+					"number": 7,
+					"id": "6cb40da2-dd2c-4963-a709-9fe0e4dbc289"
+				},
+				{
+					"verse": "Cuando Eliseo el varón de Dios oyó que el rey de Israel había rasgado sus vestidos, envió a decir al rey: ¿Por qué has rasgado tus vestidos? Venga ahora a mí, y sabrá que hay profeta en Israel.",
+					"number": 8,
+					"id": "3ce1bfe3-d6f8-4ca6-b714-c27317db06e0"
+				},
+				{
+					"verse": "Y vino Naamán con sus caballos y con su carro, y se paró a las puertas de la casa de Eliseo.",
+					"number": 9,
+					"id": "8b523560-fa6c-4be8-8468-f725a9316ad5"
+				},
+				{
+					"verse": "Entonces Eliseo le envió un mensajero, diciendo: Vé y lávate siete veces en el Jordán, y tu carne se te restaurará, y serás limpio.",
+					"number": 10,
+					"id": "56e3738c-a337-462f-a09c-d10022e6953c"
+				},
+				{
+					"verse": "Y Naamán se fue enojado, diciendo: He aquí yo decía para mí: Saldrá él luego, y estando en pie invocará el nombre de Jehová su Dios, y alzará su mano y tocará el lugar, y sanará la lepra.",
+					"number": 11,
+					"id": "4e778f24-c4ce-41aa-97b2-dc55d90ecbef"
+				},
+				{
+					"verse": "Abana y Farfar, ríos de Damasco, ¿no son mejores que todas las aguas de Israel? Si me lavare en ellos, ¿no seré también limpio? Y se volvió, y se fue enojado.",
+					"number": 12,
+					"id": "afa1c0a8-299a-4895-8782-4225bca4c6e1"
+				},
+				{
+					"verse": "Mas sus criados se le acercaron y le hablaron diciendo: Padre mío, si el profeta te mandara alguna gran cosa, ¿no la harías? ¿Cuánto más, diciéndote: Lávate, y serás limpio?",
+					"number": 13,
+					"id": "806c35c2-a955-450c-9eb5-f578f88f59da"
+				},
+				{
+					"verse": "El entonces descendió, y se zambulló siete veces en el Jordán, conforme a la palabra del varón de Dios; y su carne se volvió como la carne de un niño, y quedó limpio.",
+					"number": 14,
+					"id": "7f6359fa-baa9-4cbc-9f3b-b9a1722df1d8"
+				},
+				{
+					"verse": "Y volvió al varón de Dios, él y toda su compañía, y se puso delante de él, y dijo: He aquí ahora conozco que no hay Dios en toda la tierra, sino en Israel. Te ruego que recibas algún presente de tu siervo.",
+					"number": 15,
+					"id": "d1480470-f4e4-49ec-90a2-9a7cae861c9b"
+				},
+				{
+					"verse": "Mas él dijo: Vive Jehová, en cuya presencia estoy, que no lo aceptaré. Y le instaba que aceptara alguna cosa, pero él no quiso.",
+					"number": 16,
+					"id": "5e6f350d-39a2-4910-96a9-740211081d0d"
+				},
+				{
+					"verse": "Entonces Naamán dijo: Te ruego, pues, ¿de esta tierra no se dará a tu siervo la carga de un par de mulas? Porque de aquí en adelante tu siervo no sacrificará holocausto ni ofrecerá sacrificio a otros dioses, sino a Jehová.",
+					"number": 17,
+					"id": "b3c2268d-e87b-4fb2-adb6-ab1e39b31552"
+				},
+				{
+					"verse": "En esto perdone Jehová a tu siervo: que cuando mi señor el rey entrare en el templo de Rimón para adorar en él, y se apoyare sobre mi brazo, si yo también me inclinare en el templo de Rimón; cuando haga tal, Jehová perdone en esto a tu siervo.",
+					"number": 18,
+					"id": "cf479828-03f0-4c2a-a790-efd10fdc13fc"
+				},
+				{
+					"verse": "Y él le dijo: Ve en paz. Se fue, pues, y caminó como media legua de tierra.",
+					"number": 19,
+					"id": "388855a8-ecc6-45df-a4c6-3f1c67448746"
+				},
+				{
+					"verse": "Entonces Giezi, criado de Eliseo el varón de Dios, dijo entre sí: He aquí mi señor estorbó a este sirio Naamán, no tomando de su mano las cosas que había traído. Vive Jehová, que correré yo tras él y tomaré de él alguna cosa.",
+					"number": 20,
+					"id": "f3f10e53-70ab-4068-8af1-440051fe7ac7"
+				},
+				{
+					"verse": "Y siguió Giezi a Naamán; y cuando vio Naamán que venía corriendo tras él, se bajó del carro para recibirle, y dijo: ¿Va todo bien?",
+					"number": 21,
+					"id": "9a847196-51aa-44a7-a387-702a7020225b"
+				},
+				{
+					"verse": "Y él dijo: Bien. Mi señor me envía a decirte: He aquí vinieron a mí en esta hora del monte de Efraín dos jóvenes de los hijos de los profetas; te ruego que les des un talento de plata,  y dos vestidos nuevos.",
+					"number": 22,
+					"id": "9cbb7872-a27c-4ed2-92e7-4bd162ae3b0d"
+				},
+				{
+					"verse": "Dijo Naamán: Te ruego que tomes dos talentos.  Y le insistió, y ató dos talentos de plata en dos bolsas, y dos vestidos nuevos, y lo puso todo a cuestas a dos de sus criados para que lo llevasen delante de él.",
+					"number": 23,
+					"id": "7a9ab512-2c26-4f1c-b2b8-aa6d581fae70"
+				},
+				{
+					"verse": "Y así que llegó a un lugar secreto, él lo tomó de mano de ellos, y lo guardó en la casa; luego mandó a los hombres que se fuesen.",
+					"number": 24,
+					"id": "ff574926-1398-468a-a1ca-231065aea70f"
+				},
+				{
+					"verse": "Y él entró, y se puso delante de su señor. Y Eliseo le dijo: ¿De dónde vienes, Giezi? Y él dijo: Tu siervo no ha ido a ninguna parte.",
+					"number": 25,
+					"id": "254d7fb1-8a6a-49e0-95ab-4eef492db49f"
+				},
+				{
+					"verse": "El entonces le dijo: ¿No estaba también allí mi corazón, cuando el hombre volvió de su carro a recibirte? ¿Es tiempo de tomar plata, y de tomar vestidos, olivares, viñas, ovejas, bueyes, siervos y siervas?",
+					"number": 26,
+					"id": "2e5ffb3c-8117-4630-8708-4a2a91318725"
+				},
+				{
+					"verse": "Por tanto, la lepra de Naamán se te pegará a ti y a tu descendencia para siempre. Y salió de delante de él leproso, blanco como la nieve.",
+					"number": 27,
+					"id": "cda53bc0-bab3-42e5-aa56-e2aa3aae80cf"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Los hijos de los profetas dijeron a Eliseo: He aquí, el lugar en que moramos contigo nos es estrecho.",
+					"number": 1,
+					"study": "Eliseo hace flotar el hacha",
+					"id": "cd705afe-6a30-4a21-b6dc-e036c48c4f51"
+				},
+				{
+					"verse": "Vamos ahora al Jordán, y tomemos de allí cada uno una viga, y hagamos allí lugar en que habitemos. Y él dijo: Andad.",
+					"number": 2,
+					"id": "ab846123-0a9a-4274-ab87-4185fad8c994"
+				},
+				{
+					"verse": "Y dijo uno: Te rogamos que vengas con tus siervos. Y él respondió: Yo iré.",
+					"number": 3,
+					"id": "df2dccf3-b294-4955-84f3-fa8350fe8727"
+				},
+				{
+					"verse": "Se fue, pues, con ellos; y cuando llegaron al Jordán, cortaron la madera.",
+					"number": 4,
+					"id": "fc876dd3-d1c9-4395-891a-41e58f610033"
+				},
+				{
+					"verse": "Y aconteció que mientras uno derribaba un árbol, se le cayó el hacha en el agua; y gritó diciendo: ¡Ah, señor mío, era prestada!",
+					"number": 5,
+					"id": "d66c1e75-dcc9-45b4-a63b-57c6e6838742"
+				},
+				{
+					"verse": "El varón de Dios preguntó: ¿Dónde cayó? Y él le mostró el lugar. Entonces cortó él un palo, y lo echó allí; e hizo flotar el hierro.",
+					"number": 6,
+					"id": "dd54385e-9f67-4c57-8cbd-551e489e0207"
+				},
+				{
+					"verse": "Y dijo: Tómalo. Y él extendió la mano, y lo tomó.",
+					"number": 7,
+					"id": "3d93e2b6-cad9-4a0a-8e29-e611a65e10b9"
+				},
+				{
+					"verse": "Tenía el rey de Siria guerra contra Israel, y consultando con sus siervos, dijo: En tal y tal lugar estará mi campamento.",
+					"number": 8,
+					"study": "Eliseo y los sirios",
+					"id": "4df6005e-1719-4df5-bf06-251582fd113c"
+				},
+				{
+					"verse": "Y el varón de Dios envió a decir al rey de Israel: Mira que no pases por tal lugar, porque los sirios van allí.",
+					"number": 9,
+					"id": "372553f5-994f-4d05-9984-90a35cd0d0fa"
+				},
+				{
+					"verse": "Entonces el rey de Israel envió a aquel lugar que el varón de Dios había dicho; y así lo hizo una y otra vez con el fin de cuidarse.",
+					"number": 10,
+					"id": "4dc35c0c-1300-4cc6-badf-bbbb6a3d7faa"
+				},
+				{
+					"verse": "Y el corazón del rey de Siria se turbó por esto; y llamando a sus siervos, les dijo: ¿No me declararéis vosotros quién de los nuestros es del rey de Israel?",
+					"number": 11,
+					"id": "7a26b566-c8ef-4164-a742-2d342af2b93b"
+				},
+				{
+					"verse": "Entonces uno de los siervos dijo: No, rey señor mío, sino que el profeta Eliseo está en Israel, el cual declara al rey de Israel las palabras que tú hablas en tu cámara más secreta.",
+					"number": 12,
+					"id": "fdf5ac1b-bf63-4bff-aa35-eb79fd58bcd6"
+				},
+				{
+					"verse": "Y él dijo: Id, y mirad dónde está, para que yo envíe a prenderlo. Y le fue dicho: He aquí que él está en Dotán.",
+					"number": 13,
+					"id": "2c174fed-2035-4025-a2da-e1d72a41dbfe"
+				},
+				{
+					"verse": "Entonces envió el rey allá gente de a caballo, y carros, y un gran ejército, los cuales vinieron de noche, y sitiaron la ciudad.",
+					"number": 14,
+					"id": "a56a24dd-1690-4ac7-92bf-5d4b322d4fa3"
+				},
+				{
+					"verse": "Y se levantó de mañana y salió el que servía al varón de Dios, y he aquí el ejército que tenía sitiada la ciudad, con gente de a caballo y carros. Entonces su criado le dijo: ¡Ah, señor mío! ¿qué haremos?",
+					"number": 15,
+					"id": "94d01ce0-c859-4aa7-b804-de72cfd3a9ac"
+				},
+				{
+					"verse": "El le dijo: No tengas miedo, porque más son los que están con nosotros que los que están con ellos.",
+					"number": 16,
+					"id": "76153091-1f70-4a53-98bd-56ba781faf66"
+				},
+				{
+					"verse": "Y oró Eliseo, y dijo: Te ruego, oh Jehová, que abras sus ojos para que vea. Entonces Jehová abrió los ojos del criado, y miró; y he aquí que el monte estaba lleno de gente de a caballo, y de carros de fuego alrededor de Eliseo.",
+					"number": 17,
+					"id": "349d9340-4f22-4c38-ad6b-e6598b494d67"
+				},
+				{
+					"verse": "Y luego que los sirios descendieron a él, oró Eliseo a Jehová, y dijo: Te ruego que hieras con ceguera a esta gente. Y los hirió con ceguera, conforme a la petición de Eliseo.",
+					"number": 18,
+					"id": "2efbe838-323f-4598-8784-e73154251d7c"
+				},
+				{
+					"verse": "Después les dijo Eliseo: No es este el camino, ni es esta la ciudad; seguidme, y yo os guiaré al hombre que buscáis. Y los guió a Samaria.",
+					"number": 19,
+					"id": "52770513-181f-4d55-a3fa-99cb5f8fcf17"
+				},
+				{
+					"verse": "Y cuando llegaron a Samaria, dijo Eliseo: Jehová, abre los ojos de éstos, para que vean. Y Jehová abrió sus ojos, y miraron, y se hallaban en medio de Samaria.",
+					"number": 20,
+					"id": "ad9cd58b-79f7-42f9-8695-0907589e7ce2"
+				},
+				{
+					"verse": "Cuando el rey de Israel los hubo visto, dijo a Eliseo: ¿Los mataré, padre mío?",
+					"number": 21,
+					"id": "bddb57fc-7921-43e3-9782-c712417dc722"
+				},
+				{
+					"verse": "El le respondió: No los mates. ¿Matarías tú a los que tomaste cautivos con tu espada y con tu arco? Pon delante de ellos pan y agua, para que coman y beban, y vuelvan a sus señores.",
+					"number": 22,
+					"id": "10ee9ca5-b88a-4b43-bb8d-773151fda713"
+				},
+				{
+					"verse": "Entonces se les preparó una gran comida; y cuando habían comido y bebido, los envió, y ellos se volvieron a su seÑor. Y nunca más vinieron bandas armadas de Siria a la tierra de Israel.",
+					"number": 23,
+					"id": "396cd006-0793-47ba-a046-d28ca9bdf876"
+				},
+				{
+					"verse": "Después de esto aconteció que Ben-adad rey de Siria reunió todo su ejército, y subió y sitió a Samaria.",
+					"number": 24,
+					"study": "Eliseo y el sitio de Samaria",
+					"id": "e2a6b4a5-1766-44d1-9c31-14c8b67faf68"
+				},
+				{
+					"verse": "Y hubo gran hambre en Samaria, a consecuencia de aquel sitio; tanto que la cabeza de un asno se vendía por ochenta piezas de plata, y la cuarta parte de un cab de estiércol de palomas por cinco piezas de plata.",
+					"number": 25,
+					"id": "fb907191-2c05-4911-abbe-eeaf05280db4"
+				},
+				{
+					"verse": "Y pasando el rey de Israel por el muro, una mujer le gritó, y dijo: Salva, rey señor mío.",
+					"number": 26,
+					"id": "895a840a-5d2c-4832-8a99-446102705868"
+				},
+				{
+					"verse": "Y él dijo: Si no te salva Jehová, ¿de dónde te puedo salvar yo? ¿Del granero, o del lagar?",
+					"number": 27,
+					"id": "96efc817-5c31-4c37-8287-be096848e6ea"
+				},
+				{
+					"verse": "Y le dijo el rey: ¿Qué tienes? Ella respondió: Esta mujer me dijo: Da acá tu hijo, y comámoslo hoy, y mañana comeremos el mío.",
+					"number": 28,
+					"id": "72143ca7-450e-4e04-9af8-022322ff4cdb"
+				},
+				{
+					"verse": "Cocimos, pues, a mi hijo, y lo comimos. El día siguiente yo le dije: Da acá tu hijo, y comámoslo. Mas ella ha escondido a su hijo.",
+					"number": 29,
+					"id": "d8af0e79-f81e-4242-b901-f840bffc2443"
+				},
+				{
+					"verse": "Cuando el rey oyó las palabras de aquella mujer, rasgó sus vestidos, y pasó así por el muro; y el pueblo vio el cilicio que traía interiormente sobre su cuerpo.",
+					"number": 30,
+					"id": "9458972e-ddf7-40a0-95d8-242d8d22c4be"
+				},
+				{
+					"verse": "Y él dijo: Así me haga Dios, y aun me añada, si la cabeza de Eliseo hijo de Safat queda sobre él hoy.",
+					"number": 31,
+					"id": "2e88f6de-01c4-487b-a7a1-59c68f55e811"
+				},
+				{
+					"verse": "Y Eliseo estaba sentado en su casa, y con él estaban sentados los ancianos; y el rey envió a él un hombre. Mas antes que el mensajero viniese a él, dijo él a los ancianos: ¿No habéis visto cómo este hijo de homicida envía a cortarme la cabeza? Mirad, pues, y cuando viniere el mensajero, cerrad la puerta, e impedidle la entrada. ¿No se oye tras él el ruido de los pasos de su amo?",
+					"number": 32,
+					"id": "7b4d485c-f784-4fb1-a4e3-a6de2312a701"
+				},
+				{
+					"verse": "Aún estaba él hablando con ellos, y he aquí el mensajero que descendía a él; y dijo: Ciertamente este mal de Jehová viene. ¿Para qué he de esperar más a Jehová?",
+					"number": 33,
+					"id": "cb93e533-189a-4602-b59e-c6076516a965"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Dijo entonces Eliseo: Oíd palabra de Jehová: Así dijo Jehová: Mañana a estas horas valdrá el seah   de flor de harina un siclo, y dos seahs de cebada un siclo, a la puerta de Samaria.",
+					"number": 1,
+					"id": "ec64f97f-cad0-4808-b353-e38a27dd5b8b"
+				},
+				{
+					"verse": "Y un príncipe sobre cuyo brazo el rey se apoyaba, respondió al varón de Dios, y dijo: Si Jehová hiciese ahora ventanas en el cielo, ¿sería esto así? Y él dijo: He aquí tú lo verás con tus ojos, mas no comerás de ello.",
+					"number": 2,
+					"id": "899ba57c-8134-4393-8f7d-fba19d89c3a9"
+				},
+				{
+					"verse": "Había a la entrada de la puerta cuatro hombres leprosos, los cuales dijeron el uno al otro: ¿Para qué nos estamos aquí hasta que muramos?",
+					"number": 3,
+					"id": "5751e0f0-f5dc-4b76-beb2-53d94794a92f"
+				},
+				{
+					"verse": "Si tratáremos de entrar en la ciudad, por el hambre que hay en la ciudad moriremos en ella; y si nos quedamos aquí, también moriremos. Vamos, pues, ahora, y pasemos al campamento de los sirios; si ellos nos dieren la vida, viviremos; y si nos dieren la muerte, moriremos.",
+					"number": 4,
+					"id": "b8bced8f-7e70-4988-b3bc-5dbdbdaf1de2"
+				},
+				{
+					"verse": "Se levantaron, pues, al anochecer, para ir al campamento de los sirios; y llegando a la entrada del campamento de los sirios, no había allí nadie.",
+					"number": 5,
+					"id": "611c9ede-cc13-4f60-94e4-20dfab1d9123"
+				},
+				{
+					"verse": "Porque Jehová había hecho que en el campamento de los sirios se oyese estruendo de carros, ruido de caballos, y estrépito de gran ejército; y se dijeron unos a otros: He aquí, el rey de Israel ha tomado a sueldo contra nosotros a los reyes de los heteos y a los reyes de los egipcios, para que vengan contra nosotros.",
+					"number": 6,
+					"id": "1f7eae35-d438-4cbb-a1e1-f97888806c89"
+				},
+				{
+					"verse": "Y así se levantaron y huyeron al anochecer, abandonando sus tiendas, sus caballos, sus asnos, y el campamento como estaba; y habían huido para salvar sus vidas.",
+					"number": 7,
+					"id": "2446667c-5a7e-4dcd-b9bf-581498b57821"
+				},
+				{
+					"verse": "Cuando los leprosos llegaron a la entrada del campamento, entraron en una tienda y comieron y bebieron, y tomaron de allí plata y oro y vestidos, y fueron y lo escondieron; y vueltos, entraron en otra tienda, y de allí también tomaron, y fueron y lo escondieron.",
+					"number": 8,
+					"id": "0404391a-259c-4bf1-836d-411c918dc19e"
+				},
+				{
+					"verse": "Luego se dijeron el uno al otro: No estamos haciendo bien. Hoy es día de buena nueva, y nosotros callamos; y si esperamos hasta el amanecer, nos alcanzará nuestra maldad. Vamos pues, ahora, entremos y demos la nueva en casa del rey.",
+					"number": 9,
+					"id": "9d47e422-2ec7-468e-874a-06e81ce71ab5"
+				},
+				{
+					"verse": "Vinieron, pues, y gritaron a los guardas de la puerta de la ciudad, y les declararon, diciendo: Nosotros fuimos al campamento de los sirios, y he aquí que no había allí nadie, ni voz de hombre, sino caballos atados, asnos también atados, y el campamento intacto.",
+					"number": 10,
+					"id": "99164e42-fac9-4a0d-8ddf-131ffe2bb119"
+				},
+				{
+					"verse": "Los porteros gritaron, y lo anunciaron dentro, en el palacio del rey.",
+					"number": 11,
+					"id": "8d1a9e6f-b78d-4273-8f0e-0b6d0ca9e845"
+				},
+				{
+					"verse": "Y se levantó el rey de noche, y dijo a sus siervos: Yo os declararé lo que nos han hecho los sirios. Ellos saben que tenemos hambre, y han salido de las tiendas y se han escondido en el campo, diciendo: Cuando hayan salido de la ciudad, los tomaremos vivos, y entraremos en la ciudad.",
+					"number": 12,
+					"id": "35b83c55-c9f7-47ac-b599-1f5cab3c785d"
+				},
+				{
+					"verse": "Entonces respondió uno de sus siervos y dijo: Tomen ahora cinco de los caballos que han quedado en la ciudad (porque los que quedan acá también perecerán como toda la multitud de Israel que ya ha perecido), y enviemos y veamos qué hay.",
+					"number": 13,
+					"id": "356f6e7e-b02b-4b4a-83aa-2a21a05626a7"
+				},
+				{
+					"verse": "Tomaron, pues, dos caballos de un carro, y envió el rey al campamento de los sirios, diciendo: Id y ved.",
+					"number": 14,
+					"id": "e4812b53-d110-439f-90e8-af150bdf80d2"
+				},
+				{
+					"verse": "Y ellos fueron, y los siguieron hasta el Jordán; y he aquí que todo el camino estaba lleno de vestidos y enseres que los sirios habían arrojado por la premura. Y volvieron los mensajeros y lo hicieron saber al rey.",
+					"number": 15,
+					"id": "49b0070f-0cf0-4a38-963f-a865bc837a08"
+				},
+				{
+					"verse": "Entonces el pueblo salió, y saqueó el campamento de los sirios. Y fue vendido un seah   de flor de harina por un siclo, y dos seahs de cebada por un siclo, conforme a la palabra de Jehová.",
+					"number": 16,
+					"id": "007707f7-de1a-407e-bf8d-9ac032637ef6"
+				},
+				{
+					"verse": "Y el rey puso a la puerta a aquel príncipe sobre cuyo brazo él se apoyaba; y lo atropelló el pueblo a la entrada, y murió, conforme a lo que había dicho el varón de Dios, cuando el rey descendió a él.",
+					"number": 17,
+					"id": "c8a9191f-b126-4c6d-8266-8b076fe7f952"
+				},
+				{
+					"verse": "Aconteció, pues, de la manera que el varón de Dios había hablado al rey, diciendo: Dos seahs   de cebada por un siclo, y el seah de flor de harina será vendido por un siclo mañana a estas horas, a la puerta de Samaria.",
+					"number": 18,
+					"id": "82aa6ecf-86f4-44e7-9bd2-e78eb21d571d"
+				},
+				{
+					"verse": "A lo cual aquel príncipe había respondido al varón de Dios, diciendo: Si Jehová hiciese ventanas en el cielo, ¿pudiera suceder esto? Y él dijo: He aquí tú lo verás con tus ojos, mas no comerás de ello.",
+					"number": 19,
+					"id": "70bb66aa-f84e-4b77-ba38-b4c83d31258f"
+				},
+				{
+					"verse": "Y le sucedió así; porque el pueblo le atropelló a la entrada, y murió.",
+					"number": 20,
+					"id": "0ecd5a44-39a0-44f9-8de5-1dbaa3b3cab3"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Habló Eliseo a aquella mujer a cuyo hijo él había hecho vivir, diciendo: Levántate, vete tú y toda tu casa a vivir donde puedas; porque Jehová ha llamado el hambre, la cual vendrá sobre la tierra por siete años.",
+					"number": 1,
+					"study": "Los bienes de la sunamita devueltos",
+					"id": "e4f1c120-3134-49d4-bfa7-816ec4b803c7"
+				},
+				{
+					"verse": "Entonces la mujer se levantó, e hizo como el varón de Dios le dijo; y se fue ella con su familia, y vivió en tierra de los filisteos siete años.",
+					"number": 2,
+					"id": "c7479e57-080f-4022-909f-c9563efa457d"
+				},
+				{
+					"verse": "Y cuando habían pasado los siete años, la mujer volvió de la tierra de los filisteos; después salió para implorar al rey por su casa y por sus tierras.",
+					"number": 3,
+					"id": "fb2b4a5f-73ab-4052-8890-41c4b4723eaa"
+				},
+				{
+					"verse": "Y había el rey hablado con Giezi, criado del varón de Dios, diciéndole: Te ruego que me cuentes todas las maravillas que ha hecho Eliseo.",
+					"number": 4,
+					"id": "e3336dd8-98de-4c8d-958a-ae757d64c9ab"
+				},
+				{
+					"verse": "Y mientras él estaba contando al rey cómo había hecho vivir a un muerto, he aquí que la mujer, a cuyo hijo él había hecho vivir, vino para implorar al rey por su casa y por sus tierras. Entonces dijo Giezi: Rey señor mío, esta es la mujer, y este es su hijo, al cual Eliseo hizo vivir.",
+					"number": 5,
+					"id": "b68a9691-7c9a-421a-b1ee-f01af8d6d42d"
+				},
+				{
+					"verse": "Y preguntando el rey a la mujer, ella se lo contó. Entonces el rey ordenó a un oficial, al cual dijo: Hazle devolver todas las cosas que eran suyas, y todos los frutos de sus tierras desde el día que dejó el país hasta ahora.",
+					"number": 6,
+					"id": "3afef042-c35e-44f2-a245-c24be12b31cc"
+				},
+				{
+					"verse": "Eliseo se fue luego a Damasco; y Ben-adad rey de Siria estaba enfermo, al cual dieron aviso, diciendo: El varón de Dios ha venido aquí.",
+					"number": 7,
+					"study": "Hazael reina en Siria",
+					"id": "d1046726-6309-4968-8feb-72fe95616bbd"
+				},
+				{
+					"verse": "Y el rey dijo a Hazael: Toma en tu mano un presente, y ve a recibir al varón de Dios, y consulta por él a Jehová, diciendo: ¿Sanaré de esta enfermedad?",
+					"number": 8,
+					"id": "717d48f8-042d-4c82-a609-b42b5616265a"
+				},
+				{
+					"verse": "Tomó, pues, Hazael en su mano un presente de entre los bienes de Damasco, cuarenta camellos cargados, y fue a su encuentro, y llegando se puso delante de él, y dijo: Tu hijo Ben-adad rey de Siria me ha enviado a ti, diciendo: ¿Sanaré de esta enfermedad?",
+					"number": 9,
+					"id": "ed888218-767d-4779-a19b-d4e808daf77c"
+				},
+				{
+					"verse": "Y Eliseo le dijo: Ve, dile: Seguramente sanarás. Sin embargo, Jehová me ha mostrado que él morirá ciertamente.",
+					"number": 10,
+					"id": "83907281-30f7-4600-9f09-b88179ce06e5"
+				},
+				{
+					"verse": "Y el varón de Dios le miró fijamente, y estuvo así hasta hacerlo ruborizarse; luego lloró el varón de Dios.",
+					"number": 11,
+					"id": "b9c6327d-1e52-4d37-9ec7-1d17432831b5"
+				},
+				{
+					"verse": "Entonces le dijo Hazael: ¿Por qué llora mi señor? Y él respondió: Porque sé el mal que harás a los hijos de Israel; a sus fortalezas pegarás fuego, a sus jóvenes matarás a espada, y estrellarás a sus niños, y abrirás el vientre a sus mujeres que estén encintas.",
+					"number": 12,
+					"id": "847d3948-d947-49b8-8dea-d0f61ec51398"
+				},
+				{
+					"verse": "Y Hazael dijo: Pues, ¿qué es tu siervo, este perro, para que haga tan grandes cosas? Y respondió Eliseo: Jehová me ha mostrado que tú serás rey de Siria.",
+					"number": 13,
+					"id": "908f8edb-1faf-4d74-afe6-8f52c2316ba9"
+				},
+				{
+					"verse": "Y Hazael se fue, y vino a su señor, el cual le dijo: ¿Qué te ha dicho Eliseo? Y él respondió: Me dijo que seguramente sanarás.",
+					"number": 14,
+					"id": "81576947-09ca-4cdc-8c7c-5e39ee643c0b"
+				},
+				{
+					"verse": "El día siguiente, tomó un paño y lo metió en agua, y lo puso sobre el rostro de Ben-adad, y murió; y reinó Hazael en su lugar.",
+					"number": 15,
+					"id": "3c81b36d-157d-4c11-ae90-e4978bd1b218"
+				},
+				{
+					"verse": "En el quinto año de Joram hijo de Acab, rey de Israel, y siendo Josafat rey de Judá, comenzó a reinar Joram hijo de Josafat, rey de Judá.",
+					"number": 16,
+					"study": "Reinado de Joram de Judá",
+					"id": "924c93b8-eeca-4f80-a2ec-55d560ceecf0"
+				},
+				{
+					"verse": "De treinta y dos años era cuando comenzó a reinar, y ocho años reinó en Jerusalén.",
+					"number": 17,
+					"id": "23d9ac56-a2fb-458f-8115-cfc83027ce48"
+				},
+				{
+					"verse": "Y anduvo en el camino de los reyes de Israel, como hizo la casa de Acab, porque una hija de Acab fue su mujer; e hizo lo malo ante los ojos de Jehová.",
+					"number": 18,
+					"id": "d7288f1d-aea7-41b9-be18-bcd0a6716fe1"
+				},
+				{
+					"verse": "Con todo eso, Jehová no quiso destruir a Judá, por amor a David su siervo, porque había prometido darle lámpara a él y a sus hijos perpetuamente.",
+					"number": 19,
+					"id": "3be7a80f-d58a-4c94-8506-0d595ac16b41"
+				},
+				{
+					"verse": "En el tiempo de él se rebeló Edom contra el dominio de Judá, y pusieron rey sobre ellos.",
+					"number": 20,
+					"id": "630b8528-d1eb-4eb5-804c-af13f300d0a3"
+				},
+				{
+					"verse": "Joram, por tanto, pasó a Zair, y todos sus carros con él; y levantándose de noche atacó a los de Edom, los cuales le habían sitiado, y a los capitanes de los carros; y el pueblo huyó a sus tiendas.",
+					"number": 21,
+					"id": "eacd0348-cc66-4c90-8443-a330d8667c20"
+				},
+				{
+					"verse": "No obstante, Edom se libertó del dominio de Judá, hasta hoy. También se rebeló Libna en el mismo tiempo.",
+					"number": 22,
+					"id": "534abfa6-a35a-4ec0-a323-3d6963ae1b97"
+				},
+				{
+					"verse": "Los demás hechos de Joram, y todo lo que hizo, ¿no están escritos en el libro de las crónicas de los reyes de Judá?",
+					"number": 23,
+					"id": "6f91d91c-39c0-46d4-917d-c6b8fb7a0cd0"
+				},
+				{
+					"verse": "Y durmió Joram con sus padres, y fue sepultado con ellos en la ciudad de David; y reinó en lugar suyo Ocozías, su hijo.",
+					"number": 24,
+					"id": "7cac4eb1-0d1a-42aa-80a6-d7e4836a01a2"
+				},
+				{
+					"verse": "En el año doce de Joram hijo de Acab, rey de Israel, comenzó a reinar Ocozías hijo de Joram, rey de Judá.",
+					"number": 25,
+					"study": "Reinado de Ocozías de Judá",
+					"id": "0c4db1be-acc5-4815-b3ff-2b597b27bbc4"
+				},
+				{
+					"verse": "De veintidós años era Ocozías cuando comenzó a reinar, y reinó un año en Jerusalén. El nombre de su madre fue Atalía, hija de Omri rey de Israel.",
+					"number": 26,
+					"id": "df952542-412c-4e13-b139-7c758191f9a6"
+				},
+				{
+					"verse": "Anduvo en el camino de la casa de Acab, e hizo lo malo ante los ojos de Jehová, como la casa de Acab; porque era yerno de la casa de Acab.",
+					"number": 27,
+					"id": "3b702bd7-2a65-43e2-8f70-cb2f987d63fd"
+				},
+				{
+					"verse": "Y fue a la guerra con Joram hijo de Acab a Ramot de Galaad, contra Hazael rey de Siria; y los sirios hirieron a Joram.",
+					"number": 28,
+					"id": "6b4e2990-90f6-46b2-9519-3099caee5af2"
+				},
+				{
+					"verse": "Y el rey Joram se volvió a Jezreel para curarse de las heridas que los sirios le hicieron frente a Ramot, cuando peleó contra Hazael rey de Siria. Y descendió Ocozías hijo de Joram rey de Judá, a visitar a Joram hijo de Acab en Jezreel, porque estaba enfermo.",
+					"number": 29,
+					"id": "dd04e91e-99e6-42b0-a646-1f580e59b4f2"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Entonces el profeta Eliseo llamó a uno de los hijos de los profetas, y le dijo: Ciñe tus lomos, y toma esta redoma de aceite en tu mano, y ve a Ramot de Galaad.",
+					"number": 1,
+					"study": "Jehú es ungido rey de Israel",
+					"id": "97bb61a5-33fe-4e4d-b10a-940d18a9224c"
+				},
+				{
+					"verse": "Cuando llegues allá, verás allí a Jehú hijo de Josafat hijo de Nimsi; y entrando, haz que se levante de entre sus hermanos, y llévalo a la cámara.",
+					"number": 2,
+					"id": "f7d47570-c11d-4dad-aa14-9e48429a116f"
+				},
+				{
+					"verse": "Toma luego la redoma de aceite, y derrámala sobre su cabeza y di: Así dijo Jehová: Yo te he ungido por rey sobre Israel. Y abriendo la puerta, echa a huir, y no esperes.",
+					"number": 3,
+					"id": "07371e54-8724-485f-ae79-3ea4b3e6c7fc"
+				},
+				{
+					"verse": "Fue, pues, el joven, el profeta, a Ramot de Galaad.",
+					"number": 4,
+					"id": "4afc498c-d331-4c4b-9a8c-049bc67af8b9"
+				},
+				{
+					"verse": "Cuando él entró, he aquí los príncipes del ejército que estaban sentados. Y él dijo: Príncipe, una palabra tengo que decirte. Jehú dijo: ¿A cuál de todos nosotros? Y él dijo: A ti, príncipe.",
+					"number": 5,
+					"id": "ee82c275-e58a-44ac-b83f-e6459e583e74"
+				},
+				{
+					"verse": "Y él se levantó, y entró en casa; y el otro derramó el aceite sobre su cabeza, y le dijo: Así dijo Jehová Dios de Israel: Yo te he ungido por rey sobre Israel, pueblo de Jehová.",
+					"number": 6,
+					"id": "93c87400-dea5-4b6a-95f2-9c4644c33f56"
+				},
+				{
+					"verse": "Herirás la casa de Acab tu señor, para que yo vengue la sangre de mis siervos los profetas, y la sangre de todos los siervos de Jehová, de la mano de Jezabel.",
+					"number": 7,
+					"id": "167cc543-c7fa-404b-94f9-b3ac8ac40ccd"
+				},
+				{
+					"verse": "Y perecerá toda la casa de Acab, y destruiré de Acab todo varón, así al siervo como al libre en Israel.",
+					"number": 8,
+					"id": "01a2e663-7254-4ac4-99fc-645b79fb080d"
+				},
+				{
+					"verse": "Y yo pondré la casa de Acab como la casa de Jeroboam hijo de Nabat, y como la casa de Baasa hijo de Ahías.",
+					"number": 9,
+					"id": "2666eca7-8f30-4069-a21b-680f59afdad4"
+				},
+				{
+					"verse": "Y a Jezabel la comerán los perros en el campo de Jezreel, y no habrá quien la sepulte. En seguida abrió la puerta, y echó a huir.",
+					"number": 10,
+					"id": "68d1b591-b1cf-4267-b665-be23bfdc1a6d"
+				},
+				{
+					"verse": "Después salió Jehú a los siervos de su señor, y le dijeron: ¿Hay paz? ¿Para qué vino a ti aquel loco? Y él les dijo: Vosotros conocéis al hombre y sus palabras.",
+					"number": 11,
+					"id": "8eecb046-7b5d-4bcc-9129-02cc88b80b41"
+				},
+				{
+					"verse": "Ellos dijeron: Mentira; decláranoslo ahora. Y él dijo: Así y así me habló, diciendo: Así ha dicho Jehová: Yo te he ungido por rey sobre Israel.",
+					"number": 12,
+					"id": "c0411a0a-1c18-4c99-a758-78c3ab250e82"
+				},
+				{
+					"verse": "Entonces cada uno tomó apresuradamente su manto, y lo puso debajo de Jehú en un trono alto, y tocaron corneta, y dijeron: Jehú es rey.",
+					"number": 13,
+					"id": "e114402c-bb5b-4108-acbb-6fbff1d6e1ff"
+				},
+				{
+					"verse": "Así conspiró Jehú hijo de Josafat, hijo de Nimsi, contra Joram. (Estaba entonces Joram guardando a Ramot de Galaad con todo Israel, por causa de Hazael rey de Siria;",
+					"number": 14,
+					"study": "Jehú mata a Joram",
+					"id": "22ffa23c-647b-44ce-88dd-a5b71de5ce1a"
+				},
+				{
+					"verse": "pero se había vuelto el rey Joram a Jezreel, para curarse de las heridas que los sirios le habían hecho, peleando contra Hazael rey de Siria.) Y Jehú dijo: Si es vuestra voluntad, ninguno escape de la ciudad, para ir a dar las nuevas en Jezreel.",
+					"number": 15,
+					"id": "6080461d-d927-4ce0-a6a6-14094cffd7b6"
+				},
+				{
+					"verse": "Entonces Jehú cabalgó y fue a Jezreel, porque Joram estaba allí enfermo. También estaba Ocozías rey de Judá, que había descendido a visitar a Joram.",
+					"number": 16,
+					"id": "f79a8694-7333-412e-b90d-35d911909760"
+				},
+				{
+					"verse": "Y el atalaya que estaba en la torre de Jezreel vio la tropa de Jehú que venía, y dijo: Veo una tropa. Y Joram dijo: Ordena a un jinete que vaya a reconocerlos, y les diga: ¿Hay paz?",
+					"number": 17,
+					"id": "7d8be602-584f-47f1-a1b0-0d7b77808dac"
+				},
+				{
+					"verse": "Fue, pues, el jinete a reconocerlos, y dijo: El rey dice así: ¿Hay paz? Y Jehú le dijo: ¿Qué tienes tú que ver con la paz? Vuélvete conmigo. El atalaya dio luego aviso, diciendo: El mensajero llegó hasta ellos, y no vuelve.",
+					"number": 18,
+					"id": "3640dadf-e464-495d-a837-581823bee2dc"
+				},
+				{
+					"verse": "Entonces envió otro jinete, el cual llegando a ellos, dijo: El rey dice así: ¿Hay paz? Y Jehú respondió: ¿Qué tienes tú que ver con la paz? Vuélvete conmigo.",
+					"number": 19,
+					"id": "502ab387-0258-45e1-ab2f-e331e01bc2d6"
+				},
+				{
+					"verse": "El atalaya volvió a decir: También éste llegó a ellos y no vuelve; y el marchar del que viene es como el marchar de Jehú hijo de Nimsi, porque viene impetuosamente.",
+					"number": 20,
+					"id": "0ddb0b68-77e0-4dc5-98c3-656fee9d0c26"
+				},
+				{
+					"verse": "Entonces Joram dijo: Unce el carro. Y cuando estaba uncido su carro, salieron Joram rey de Israel y Ocozías rey de Judá, cada uno en su carro, y salieron a encontrar a Jehú, al cual hallaron en la heredad de Nabot de Jezreel.",
+					"number": 21,
+					"id": "8f409129-8d97-4c9e-935e-971f86b53e05"
+				},
+				{
+					"verse": "Cuando vio Joram a Jehú, dijo: ¿Hay paz, Jehú? Y él respondió: ¿Qué paz, con las fornicaciones de Jezabel tu madre, y sus muchas hechicerías?",
+					"number": 22,
+					"id": "5c4d5f6b-4035-4bee-964a-28a342a09627"
+				},
+				{
+					"verse": "Entonces Joram volvió las riendas y huyó, y dijo a Ocozías: ¡Traición, Ocozías!",
+					"number": 23,
+					"id": "23bd89a1-a6d0-45ff-8d4c-4caca55ed514"
+				},
+				{
+					"verse": "Pero Jehú entesó su arco, e hirió a Joram entre las espaldas; y la saeta salió por su corazón, y él cayó en su carro.",
+					"number": 24,
+					"id": "0297070b-ef2d-40cd-9663-930830aebc85"
+				},
+				{
+					"verse": "Dijo luego Jehú a Bidcar su capitán: Tómalo, y échalo a un extremo de la heredad de Nabot de Jezreel. Acuérdate que cuando tú y yo íbamos juntos con la gente de Acab su padre, Jehová pronunció esta sentencia sobre él, diciendo:",
+					"number": 25,
+					"id": "efe2f3c8-98f4-4145-b4c7-3f35799a67da"
+				},
+				{
+					"verse": "Que yo he visto ayer la sangre de Nabot, y la sangre de sus hijos, dijo Jehová; y te daré la paga en esta heredad, dijo Jehová. Tómalo pues, ahora, y échalo en la heredad de Nabot, conforme a la palabra de Jehová.",
+					"number": 26,
+					"id": "92d8c82f-98ce-440a-8a4d-be90ba426b12"
+				},
+				{
+					"verse": "Viendo esto Ocozías rey de Judá, huyó por el camino de la casa del huerto. Y lo siguió Jehú, diciendo: Herid también a éste en el carro. Y le hirieron a la subida de Gur, junto a Ibleam. Y Ocozías huyó a Meguido, pero murió allí.",
+					"number": 27,
+					"study": "Jehú mata a Ocozías",
+					"id": "3391e42c-345a-47a7-bd19-7b118b172d34"
+				},
+				{
+					"verse": "Y sus siervos le llevaron en un carro a Jerusalén, y allá le sepultaron con sus padres, en su sepulcro en la ciudad de David.",
+					"number": 28,
+					"id": "746c8804-39c6-4c7f-93ca-389d5143451e"
+				},
+				{
+					"verse": "En el undécimo año de Joram hijo de Acab, comenzó a reinar Ocozías sobre Judá.",
+					"number": 29,
+					"id": "81bb7199-4d7e-4e2c-bc41-75253d631b95"
+				},
+				{
+					"verse": "Vino después Jehú a Jezreel; y cuando Jezabel lo oyó, se pintó los ojos con antimonio, y atavió su cabeza, y se asomó a una ventana.",
+					"number": 30,
+					"study": "Muerte de Jezabel",
+					"id": "227e69a8-7037-409d-8c11-ecc4bb8ed93e"
+				},
+				{
+					"verse": "Y cuando entraba Jehú por la puerta, ella dijo: ¿Sucedió bien a Zimri, que mató a su señor?",
+					"number": 31,
+					"id": "0bc6cdef-1667-442f-8cd0-de74929b3e19"
+				},
+				{
+					"verse": "Alzando él entonces su rostro hacia la ventana, dijo: ¿Quién está conmigo? ¿quién? Y se inclinaron hacia él dos o tres eunucos.",
+					"number": 32,
+					"id": "e50b3d9a-29b0-44e2-842d-5dabdaba8388"
+				},
+				{
+					"verse": "Y él les dijo: Echadla abajo. Y ellos la echaron; y parte de su sangre salpicó en la pared, y en los caballos; y él la atropelló.",
+					"number": 33,
+					"id": "d7a77733-c13b-4851-a96b-5b10eafb8d80"
+				},
+				{
+					"verse": "Entró luego, y después que comió y bebió, dijo: Id ahora a ver a aquella maldita, y sepultadla, pues es hija de rey.",
+					"number": 34,
+					"id": "b64cf073-c518-4e90-93ee-05b1d377d9c7"
+				},
+				{
+					"verse": "Pero cuando fueron para sepultarla, no hallaron de ella más que la calavera, y los pies, y las palmas de las manos.",
+					"number": 35,
+					"id": "968baeec-3004-434c-a652-3783b0bb4d70"
+				},
+				{
+					"verse": "Y volvieron, y se lo dijeron. Y él dijo: Esta es la palabra de Dios, la cual él habló por medio de su siervo Elías tisbita, diciendo: En la heredad de Jezreel comerán los perros las carnes de Jezabel,",
+					"number": 36,
+					"id": "c0a12176-c4da-486a-973c-149538a9af0c"
+				},
+				{
+					"verse": "y el cuerpo de Jezabel será como estiércol sobre la faz de la tierra en la heredad de Jezreel, de manera que nadie pueda decir: Esta es Jezabel.",
+					"number": 37,
+					"id": "a4747b58-0dfd-421f-be10-650af2955888"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Tenía Acab en Samaria setenta hijos; y Jehú escribió cartas y las envió a Samaria a los principales de Jezreel, a los ancianos y a los ayos de Acab, diciendo:",
+					"number": 1,
+					"study": "Jehú extermina la casa de Acab",
+					"id": "4aadd790-4716-46fe-aef7-d7bf0c3beae3"
+				},
+				{
+					"verse": "Inmediatamente que lleguen estas cartas a vosotros los que tenéis a los hijos de vuestro señor, y los que tienen carros y gente de a caballo, la ciudad fortificada, y las armas,",
+					"number": 2,
+					"id": "fd74082f-3fc3-42e0-9222-b535d50356d1"
+				},
+				{
+					"verse": "escoged al mejor y al más recto de los hijos de vuestro señor, y ponedlo en el trono de su padre, y pelead por la casa de vuestro señor.",
+					"number": 3,
+					"id": "38d68409-876b-437a-b896-6c120e36d2b3"
+				},
+				{
+					"verse": "Pero ellos tuvieron gran temor, y dijeron: He aquí, dos reyes no pudieron resistirle; ¿cómo le resistiremos nosotros?",
+					"number": 4,
+					"id": "1fc330a4-009d-4033-b985-81f6cc3a3f63"
+				},
+				{
+					"verse": "Y el mayordomo, el gobernador de la ciudad, los ancianos y los ayos enviaron a decir a Jehú: Siervos tuyos somos, y haremos todo lo que nos mandes; no elegiremos por rey a ninguno, haz lo que bien te parezca.",
+					"number": 5,
+					"id": "db0eb63f-b9d6-4436-aa29-96b6dbcb0ebb"
+				},
+				{
+					"verse": "El entonces les escribió la segunda vez, diciendo: Si sois míos, y queréis obedecerme, tomad las cabezas de los hijos varones de vuestro señor, y venid a mí mañana a esta hora, a Jezreel. Y los hijos del rey, setenta varones, estaban con los principales de la ciudad, que los criaban.",
+					"number": 6,
+					"id": "0aa5c680-1cc1-4eb1-86a1-4b3cfbc9e281"
+				},
+				{
+					"verse": "Cuando las cartas llegaron a ellos, tomaron a los hijos del rey, y degollaron a los setenta varones, y pusieron sus cabezas en canastas, y se las enviaron a Jezreel.",
+					"number": 7,
+					"id": "aaa08b49-57e4-4e3e-8dc0-ab5b66d294e1"
+				},
+				{
+					"verse": "Y vino un mensajero que le dio las nuevas, diciendo: Han traído las cabezas de los hijos del rey. Y él le dijo: Ponedlas en dos montones a la entrada de la puerta hasta la mañana.",
+					"number": 8,
+					"id": "ea60410d-1b47-4292-9784-8aaf0beb0fcf"
+				},
+				{
+					"verse": "Venida la mañana, salió él, y estando en pie dijo a todo el pueblo: Vosotros sois justos; he aquí yo he conspirado contra mi señor, y le he dado muerte; pero ¿quién ha dado muerte a todos éstos?",
+					"number": 9,
+					"id": "207cc4fe-f3f8-4c24-a81d-161cdca6e3a8"
+				},
+				{
+					"verse": "Sabed ahora que de la palabra que Jehová habló sobre la casa de Acab, nada caerá en tierra; y que Jehová ha hecho lo que dijo por su siervo Elías.",
+					"number": 10,
+					"id": "ee4ce111-5cb1-47de-9736-bcc5b1f5c241"
+				},
+				{
+					"verse": "Mató entonces Jehú a todos los que habían quedado de la casa de Acab en Jezreel, a todos sus príncipes, a todos sus familiares, y a sus sacerdotes, hasta que no quedó ninguno.",
+					"number": 11,
+					"id": "53dda33e-9e5b-4cee-a5c3-578063d75cf9"
+				},
+				{
+					"verse": "Luego se levantó de allí para ir a Samaria; y en el camino llegó a una casa de esquileo de pastores.",
+					"number": 12,
+					"id": "1b9b6017-a2b0-4941-b70b-fb5281e503c8"
+				},
+				{
+					"verse": "Y halló allí a los hermanos de Ocozías rey de Judá, y les dijo: ¿Quiénes sois vosotros? Y ellos dijeron: Somos hermanos de Ocozías, y hemos venido a saludar a los hijos del rey, y a los hijos de la reina.",
+					"number": 13,
+					"id": "1b3604a8-05f4-4504-b8b8-cfe41b4e2a9c"
+				},
+				{
+					"verse": "Entonces él dijo: Prendedlos vivos. Y después que los tomaron vivos, los degollaron junto al pozo de la casa de esquileo, cuarenta y dos varones, sin dejar ninguno de ellos.",
+					"number": 14,
+					"id": "75441b07-0557-47c9-b6b1-ecfa6a2ce78c"
+				},
+				{
+					"verse": "Yéndose luego de allí, se encontró con Jonadab hijo de Recab; y después que lo hubo saludado, le dijo: ¿Es recto tu corazón, como el mío es recto con el tuyo? Y Jonadab dijo: Lo es. Pues que lo es, dame la mano. Y él le dio la mano. Luego lo hizo subir consigo en el carro,",
+					"number": 15,
+					"id": "ac6fb104-3a0e-4ca0-979f-50e9b26d6370"
+				},
+				{
+					"verse": "y le dijo: Ven conmigo, y verás mi celo por Jehová. Lo pusieron, pues, en su carro.",
+					"number": 16,
+					"id": "13779680-67f7-489b-8d11-3fd6b67cc6dd"
+				},
+				{
+					"verse": "Y luego que Jehú hubo llegado a Samaria, mató a todos los que habían quedado de Acab en Samaria, hasta exterminarlos, conforme a la palabra de Jehová, que había hablado por Elías.",
+					"number": 17,
+					"id": "27a9bdaa-0b3f-4390-8976-4fb1b8bb417e"
+				},
+				{
+					"verse": "Después reunió Jehú a todo el pueblo, y les dijo: Acab sirvió poco a Baal, mas Jehú lo servirá mucho.",
+					"number": 18,
+					"study": "Jehú extermina el culto de Baal",
+					"id": "7f6ec23f-35e9-40f8-901a-40109bc34776"
+				},
+				{
+					"verse": "Llamadme, pues, luego a todos los profetas de Baal, a todos sus siervos y a todos sus sacerdotes; que no falte uno, porque tengo un gran sacrificio para Baal; cualquiera que faltare no vivirá. Esto hacía Jehú con astucia, para exterminar a los que honraban a Baal.",
+					"number": 19,
+					"id": "fe7fa973-742c-4363-b12e-98c1193094d0"
+				},
+				{
+					"verse": "Y dijo Jehú: Santificad un día solemne a Baal. Y ellos convocaron.",
+					"number": 20,
+					"id": "e96ed885-002c-47d0-84fc-2e631cf85e04"
+				},
+				{
+					"verse": "Y envió Jehú por todo Israel, y vinieron todos los siervos de Baal, de tal manera que no hubo ninguno que no viniese. Y entraron en el templo de Baal, y el templo de Baal se llenó de extremo a extremo.",
+					"number": 21,
+					"id": "3ffd06e7-f1ca-4631-a206-3968accd3976"
+				},
+				{
+					"verse": "Entonces dijo al que tenía el cargo de las vestiduras: Saca vestiduras para todos los siervos de Baal. Y él les sacó vestiduras.",
+					"number": 22,
+					"id": "55d8b1da-0a18-4602-9dfd-9b397d2c69f8"
+				},
+				{
+					"verse": "Y entró Jehú con Jonadab hijo de Recab en el templo de Baal, y dijo a los siervos de Baal: Mirad y ved que no haya aquí entre vosotros alguno de los siervos de Jehová, sino sólo los siervos de Baal.",
+					"number": 23,
+					"id": "e775aef3-cf83-4c99-b634-118579cd850d"
+				},
+				{
+					"verse": "Y cuando ellos entraron para hacer sacrificios y holocaustos, Jehú puso fuera a ochenta hombres, y les dijo: Cualquiera que dejare vivo a alguno de aquellos hombres que yo he puesto en vuestras manos, su vida será por la del otro.",
+					"number": 24,
+					"id": "0d59317f-32ce-4a15-b52d-cb44ef1e6be2"
+				},
+				{
+					"verse": "Y después que acabaron ellos de hacer el holocausto, Jehú dijo a los de su guardia y a los capitanes: Entrad, y matadlos; que no escape ninguno. Y los mataron a espada, y los dejaron tendidos los de la guardia y los capitanes. Y fueron hasta el lugar santo del templo de Baal,",
+					"number": 25,
+					"id": "7dfe522f-1eb0-4bc1-968f-ecb962a75fc7"
+				},
+				{
+					"verse": "y sacaron las estatuas del templo de Baal, y las quemaron.",
+					"number": 26,
+					"id": "2f486be6-7e44-4117-a8df-8f2ccafb7fab"
+				},
+				{
+					"verse": "Y quebraron la estatua de Baal, y derribaron el templo de Baal, y lo convirtieron en letrinas hasta hoy.",
+					"number": 27,
+					"id": "540fe199-ac0c-479c-87db-e265da3412d4"
+				},
+				{
+					"verse": "Así exterminó Jehú a Baal de Israel.",
+					"number": 28,
+					"id": "46fd2073-62ce-4485-b446-dc75314ab3ff"
+				},
+				{
+					"verse": "Con todo eso, Jehú no se apartó de los pecados de Jeroboam hijo de Nabat, que hizo pecar a Israel; y dejó en pie los becerros de oro que estaban en Bet-el y en Dan.",
+					"number": 29,
+					"id": "3fc9c030-43ce-4324-a9ab-c944cb5cd389"
+				},
+				{
+					"verse": "Y Jehová dijo a Jehú: Por cuanto has hecho bien ejecutando lo recto delante de mis ojos, e hiciste a la casa de Acab conforme a todo lo que estaba en mi corazón, tus hijos se sentarán sobre el trono de Israel hasta la cuarta generación.",
+					"number": 30,
+					"id": "cd009980-2c2d-45b4-80ac-c1ee8a7a84ac"
+				},
+				{
+					"verse": "Mas Jehú no cuidó de andar en la ley de Jehová Dios de Israel con todo su corazón, ni se apartó de los pecados de Jeroboam, el que había hecho pecar a Israel.",
+					"number": 31,
+					"id": "bf6467db-4579-4a6f-aa92-e291f669f27d"
+				},
+				{
+					"verse": "En aquellos días comenzó Jehová a cercenar el territorio de Israel; y los derrotó Hazael por todas las fronteras,",
+					"number": 32,
+					"id": "2bf86fb2-a5c0-4e84-867b-2a68da3a671e"
+				},
+				{
+					"verse": "desde el Jordán al nacimiento del sol, toda la tierra de Galaad, de Gad, de Rubén y de Manasés, desde Aroer que está junto al arroyo de Arnón, hasta Galaad y Basán.",
+					"number": 33,
+					"id": "ada4e479-ec40-4de0-a3f1-cbf62649f976"
+				},
+				{
+					"verse": "Los demás hechos de Jehú, y todo lo que hizo, y toda su valentía, ¿no está escrito en el libro de las crónicas de los reyes de Israel?",
+					"number": 34,
+					"id": "d9037142-f8ed-4717-bb0c-843eff084175"
+				},
+				{
+					"verse": "Y durmió Jehú con sus padres, y lo sepultaron en Samaria; y reinó en su lugar Joacaz su hijo.",
+					"number": 35,
+					"id": "7dc8bb27-590b-4853-b41e-d8cff37aa6c4"
+				},
+				{
+					"verse": "El tiempo que reinó Jehú sobre Israel en Samaria fue de veintiocho años.",
+					"number": 36,
+					"id": "d466583a-ee58-4b75-9f68-0931cd2ac01f"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "Cuando Atalía madre de Ocozías vio que su hijo era muerto, se levantó y destruyó toda la descendencia real.",
+					"number": 1,
+					"study": "Atalía usurpa el trono",
+					"id": "b13dc9f6-a3be-4ae1-9397-9fb41fc2b08d"
+				},
+				{
+					"verse": "Pero Josaba hija del rey Joram, hermana de Ocozías, tomó a Joás hijo de Ocozías y lo sacó furtivamente de entre los hijos del rey a quienes estaban matando, y lo ocultó de Atalía, a él y a su ama, en la cámara de dormir, y en esta forma no lo mataron.",
+					"number": 2,
+					"id": "b742e0dc-6d89-4872-a33c-4e12e83ec878"
+				},
+				{
+					"verse": "Y estuvo con ella escondido en la casa de Jehová seis años; y Atalía fue reina sobre el país.",
+					"number": 3,
+					"id": "378528e6-aa6d-45a1-8c89-54d556d683de"
+				},
+				{
+					"verse": "Mas al séptimo año envió Joiada y tomó jefes de centenas, capitanes, y gente de la guardia, y los metió consigo en la casa de Jehová, e hizo con ellos alianza, juramentándolos en la casa de Jehová; y les mostró el hijo del rey.",
+					"number": 4,
+					"id": "e2527b92-f13e-4282-b677-2629f9437780"
+				},
+				{
+					"verse": "Y les mandó diciendo: Esto es lo que habéis de hacer: la tercera parte de vosotros tendrá la guardia de la casa del rey el día de reposo.",
+					"number": 5,
+					"id": "d8eb93f2-e0f0-48f1-88fd-fdcb192a6a05"
+				},
+				{
+					"verse": "Otra tercera parte estará a la puerta de Shur, y la otra tercera parte a la puerta del postigo de la guardia; así guardaréis la casa, para que no sea allanada.",
+					"number": 6,
+					"id": "85e192e8-bb5e-478f-8efd-6c45795a50b3"
+				},
+				{
+					"verse": "Mas las dos partes de vosotros que salen el día de reposo tendréis la guardia de la casa de Jehová junto al rey.",
+					"number": 7,
+					"id": "65b4e5bb-09ec-44ec-8ba8-ea2931263ded"
+				},
+				{
+					"verse": "Y estaréis alrededor del rey por todos lados, teniendo cada uno sus armas en las manos; y cualquiera que entrare en las filas, sea muerto. Y estaréis con el rey cuando salga, y cuando entre.",
+					"number": 8,
+					"id": "c675cab8-e3c9-45e6-af70-afe9d734697b"
+				},
+				{
+					"verse": "Los jefes de centenas, pues, hicieron todo como el sacerdote Joiada les mandó; y tomando cada uno a los suyos, esto es, los que entraban el día de reposo y los que salían el día de reposo, vinieron al sacerdote Joiada.",
+					"number": 9,
+					"id": "da8ca1e3-5973-4072-9f99-040a632b7b1a"
+				},
+				{
+					"verse": "Y el sacerdote dio a los jefes de centenas las lanzas y los escudos que habían sido del rey David, que estaban en la casa de Jehová.",
+					"number": 10,
+					"id": "bba25b1b-2b2b-4195-8928-eebaad7d119d"
+				},
+				{
+					"verse": "Y los de la guardia se pusieron en fila, teniendo cada uno sus armas en sus manos, desde el lado derecho de la casa hasta el lado izquierdo, junto al altar y el templo, en derredor del rey.",
+					"number": 11,
+					"id": "cec7b654-764d-4f15-9994-0af2a307ef04"
+				},
+				{
+					"verse": "Sacando luego Joiada al hijo del rey, le puso la corona y el testimonio, y le hicieron rey ungiéndole; y batiendo las manos dijeron: ¡Viva el rey!",
+					"number": 12,
+					"id": "26cc42d0-5dff-40f8-8ffc-ff156caf14ae"
+				},
+				{
+					"verse": "Oyendo Atalía el estruendo del pueblo que corría, entró al pueblo en el templo de Jehová.",
+					"number": 13,
+					"id": "b0523223-6245-4f9a-bbc1-e87d0914eb53"
+				},
+				{
+					"verse": "Y cuando miró, he aquí que el rey estaba junto a la columna, conforme a la costumbre, y los príncipes y los trompeteros junto al rey; y todo el pueblo del país se regocijaba, y tocaban las trompetas. Entonces Atalía, rasgando sus vestidos, clamó a voz en cuello: ¡Traición, traición!",
+					"number": 14,
+					"id": "7f94f6c6-5c00-4e78-8315-7ce652757c35"
+				},
+				{
+					"verse": "Mas el sacerdote Joiada mandó a los jefes de centenas que gobernaban el ejército, y les dijo: Sacadla fuera del recinto del templo, y al que la siguiere, matadlo a espada. (Porque el sacerdote dijo que no la matasen en el templo de Jehová.)",
+					"number": 15,
+					"id": "f58612fa-e807-4e91-a310-18bc7cf62332"
+				},
+				{
+					"verse": "Le abrieron, pues, paso; y en el camino por donde entran los de a caballo a la casa del rey, allí la mataron.",
+					"number": 16,
+					"id": "40002e9b-3a6d-429d-93ca-a80d3224326d"
+				},
+				{
+					"verse": "Entonces Joiada hizo pacto entre Jehová y el rey y el pueblo, que serían pueblo de Jehová; y asimismo entre el rey y el pueblo.",
+					"number": 17,
+					"id": "f80d7d50-cb54-49d8-aff9-cfdfa5be9dbd"
+				},
+				{
+					"verse": "Y todo el pueblo de la tierra entró en el templo de Baal, y lo derribaron; asimismo despedazaron enteramente sus altares y sus imágenes, y mataron a Matán sacerdote de Baal delante de los altares. Y el sacerdote puso guarnición sobre la casa de Jehová.",
+					"number": 18,
+					"id": "e0b5112c-1d71-4d73-9038-69412fc3c1d1"
+				},
+				{
+					"verse": "Después tomó a los jefes de centenas, los capitanes, la guardia y todo el pueblo de la tierra, y llevaron al rey desde la casa de Jehová, y vinieron por el camino de la puerta de la guardia a la casa del rey; y se sentó el rey en el trono de los reyes.",
+					"number": 19,
+					"id": "d9d90425-64a2-413e-b1c3-dcf1b676b4aa"
+				},
+				{
+					"verse": "Y todo el pueblo de la tierra se regocijó, y la ciudad estuvo en reposo, habiendo sido Atalía muerta a espada junto a la casa del rey.",
+					"number": 20,
+					"id": "c605e7ce-dd6f-4c7c-a06e-0ececcd048e1"
+				},
+				{
+					"verse": "Era Joás de siete años cuando comenzó a reinar.",
+					"number": 21,
+					"id": "ecb1e809-7d0f-4caf-94a2-7ab49ef0a0ce"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "En el séptimo año de Jehú comenzó a reinar Joás, y reinó cuarenta años en Jerusalén. El nombre de su madre fue Sibia, de Beerseba.",
+					"number": 1,
+					"study": "Reinado de Joás de Judá",
+					"id": "d2e3569e-7cc2-47be-ad9b-3c67becf0202"
+				},
+				{
+					"verse": "Y Joás hizo lo recto ante los ojos de Jehová todo el tiempo que le dirigió el sacerdote Joiada.",
+					"number": 2,
+					"id": "7cac5ea7-c22a-4a7d-ae69-8162c7275694"
+				},
+				{
+					"verse": "Con todo eso, los lugares altos no se quitaron, porque el pueblo aún sacrificaba y quemaba incienso en los lugares altos.",
+					"number": 3,
+					"id": "63f16eac-e769-4fe9-95fa-90c92cbab88b"
+				},
+				{
+					"verse": "Y Joás dijo a los sacerdotes: Todo el dinero consagrado que se suele traer a la casa de Jehová, el dinero del rescate de cada persona según está estipulado, y todo el dinero que cada uno de su propia voluntad trae a la casa de Jehová,",
+					"number": 4,
+					"id": "5cdf5609-af66-454c-87b0-6febfe3a4541"
+				},
+				{
+					"verse": "recíbanlo los sacerdotes, cada uno de mano de sus familiares, y reparen los portillos del templo dondequiera que se hallen grietas.",
+					"number": 5,
+					"id": "86884b86-077a-4391-afe5-eafa37810bc1"
+				},
+				{
+					"verse": "Pero en el año veintitrés del rey Joás aún no habían reparado los sacerdotes las grietas del templo.",
+					"number": 6,
+					"id": "e1e3047b-ff42-4756-bdf8-d982aad560ef"
+				},
+				{
+					"verse": "Llamó entonces el rey Joás al sumo sacerdote Joiada y a los sacerdotes, y les dijo: ¿Por qué no reparáis las grietas del templo? Ahora, pues, no toméis más el dinero de vuestros familiares, sino dadlo para reparar las grietas del templo.",
+					"number": 7,
+					"id": "9e2f673b-7d95-4c91-b822-01a4915695ba"
+				},
+				{
+					"verse": "Y los sacerdotes consintieron en no tomar más dinero del pueblo, ni tener el cargo de reparar las grietas del templo.",
+					"number": 8,
+					"id": "0a685144-a8b2-46b8-b2f2-b72c69460574"
+				},
+				{
+					"verse": "Mas el sumo sacerdote Joiada tomó un arca e hizo en la tapa un agujero, y la puso junto al altar, a la mano derecha así que se entra en el templo de Jehová; y los sacerdotes que guardaban la puerta ponían allí todo el dinero que se traía a la casa de Jehová.",
+					"number": 9,
+					"id": "49d60901-d519-4671-b249-d3de0e443829"
+				},
+				{
+					"verse": "Y cuando veían que había mucho dinero en el arca, venía el secretario del rey y el sumo sacerdote, y contaban el dinero que hallaban en el templo de Jehová, y lo guardaban.",
+					"number": 10,
+					"id": "0fdb46b7-1488-4956-b3c2-48f9dff6a5aa"
+				},
+				{
+					"verse": "Y daban el dinero suficiente a los que hacían la obra, y a los que tenían a su cargo la casa de Jehová; y ellos lo gastaban en pagar a los carpinteros y maestros que reparaban la casa de Jehová,",
+					"number": 11,
+					"id": "6964c05e-bed7-4292-90ff-91fe0896970e"
+				},
+				{
+					"verse": "y a los albañiles y canteros; y en comprar la madera y piedra de cantería para reparar las grietas de la casa de Jehová, y en todo lo que se gastaba en la casa para repararla.",
+					"number": 12,
+					"id": "d9aa56b4-b022-4c72-96e9-a8c7e85b3e5f"
+				},
+				{
+					"verse": "Mas de aquel dinero que se traía a la casa de Jehová, no se hacían tazas de plata, ni despabiladeras, ni jofainas, ni trompetas; ni ningún otro utensilio de oro ni de plata se hacía para el templo de Jehová;",
+					"number": 13,
+					"id": "eb3921ad-5b08-41df-b50d-24675b970d70"
+				},
+				{
+					"verse": "porque lo daban a los que hacían la obra, y con él reparaban la casa de Jehová.",
+					"number": 14,
+					"id": "39fa447a-b58c-4e9c-b37e-e499fc2fc3bf"
+				},
+				{
+					"verse": "Y no se tomaba cuenta a los hombres en cuyas manos el dinero era entregado, para que ellos lo diesen a los que hacían la obra; porque lo hacían ellos fielmente.",
+					"number": 15,
+					"id": "f1394828-3773-40e3-ae01-0f6646badf6a"
+				},
+				{
+					"verse": "El dinero por el pecado, y el dinero por la culpa, no se llevaba a la casa de Jehová; porque era de los sacerdotes.",
+					"number": 16,
+					"id": "80420deb-0220-494c-9381-98d2fe643a00"
+				},
+				{
+					"verse": "Entonces subió Hazael rey de Siria, y peleó contra Gat, y la tomó. Y se propuso Hazael subir contra Jerusalén;",
+					"number": 17,
+					"id": "10422099-2dda-4c6f-b760-7ee5bc234645"
+				},
+				{
+					"verse": "por lo cual tomó Joás rey de Judá todas las ofrendas que habían dedicado Josafat y Joram y Ocozías sus padres, reyes de Judá, y las que él había dedicado, y todo el oro que se halló en los tesoros de la casa de Jehová y en la casa del rey, y lo envió a Hazael rey de Siria; y él se retiró de Jerusalén.",
+					"number": 18,
+					"id": "22583e0d-0ab9-4e18-9fac-5105a7ea1652"
+				},
+				{
+					"verse": "Los demás hechos de Joás, y todo lo que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Judá?",
+					"number": 19,
+					"id": "1358299a-b544-4322-9da9-008ec20fd373"
+				},
+				{
+					"verse": "Y se levantaron sus siervos, y conspiraron en conjuración, y mataron a Joás en la casa de Milo, cuando descendía él a Sila;",
+					"number": 20,
+					"id": "3d701876-29d1-4880-bf6e-0e304a4138cd"
+				},
+				{
+					"verse": "pues Josacar hijo de Simeat y Jozabad hijo de Somer, sus siervos, le hirieron, y murió. Y lo sepultaron con sus padres en la ciudad de David, y reinó en su lugar Amasías su hijo.",
+					"number": 21,
+					"id": "2911f160-d61c-4cb7-b5f8-7503ed229048"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "En el año veintitrés de Joás hijo de Ocozías, rey de Judá, comenzó a reinar Joacaz hijo de Jehú sobre Israel en Samaria; y reinó diecisiete años.",
+					"number": 1,
+					"study": "Reinado de Joacaz",
+					"id": "a7e6b1a6-608e-4ab9-a328-400e7c28ab16"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, y siguió en los pecados de Jeroboam hijo de Nabat, el que hizo pecar a Israel; y no se apartó de ellos.",
+					"number": 2,
+					"id": "c845efd7-ee17-4452-9fb4-cfef9fd842e7"
+				},
+				{
+					"verse": "Y se encendió el furor de Jehová contra Israel, y los entregó en mano de Hazael rey de Siria, y en mano de Ben-adad hijo de Hazael, por largo tiempo.",
+					"number": 3,
+					"id": "554f361b-4e02-468c-a62b-338d45fcfceb"
+				},
+				{
+					"verse": "Mas Joacaz oró en presencia de Jehová, y Jehová lo oyó; porque miró la aflicción de Israel, pues el rey de Siria los afligía.",
+					"number": 4,
+					"id": "b6b62174-b13f-481b-bdd4-58142052bfc1"
+				},
+				{
+					"verse": "(Y dio Jehová salvador a Israel, y salieron del poder de los sirios; y habitaron los hijos de Israel en sus tiendas, como antes.",
+					"number": 5,
+					"id": "b434099a-036f-4bdc-8b5d-4ca2c32587c6"
+				},
+				{
+					"verse": "Con todo eso, no se apartaron de los pecados de la casa de Jeroboam, el que hizo pecar a Israel; en ellos anduvieron; y también la imagen de Asera permaneció en Samaria.)",
+					"number": 6,
+					"id": "59ecff01-6c07-4b5c-b5df-1f46aa6cb36f"
+				},
+				{
+					"verse": "Porque no le había quedado gente a Joacaz, sino cincuenta hombres de a caballo, diez carros, y diez mil hombres de a pie; pues el rey de Siria los había destruido, y los había puesto como el polvo para hollar.",
+					"number": 7,
+					"id": "5886ea8c-e13a-4974-88cc-58b7dd33b093"
+				},
+				{
+					"verse": "El resto de los hechos de Joacaz, y todo lo que hizo, y sus valentías, ¿no está escrito en el libro de las crónicas de los reyes de Israel?",
+					"number": 8,
+					"id": "0f93f94e-71d3-4b76-99f7-02815499f833"
+				},
+				{
+					"verse": "Y durmió Joacaz con sus padres, y lo sepultaron en Samaria, y reinó en su lugar Joás su hijo.",
+					"number": 9,
+					"id": "1c42a500-29da-4bcb-bb41-72f28c6847a2"
+				},
+				{
+					"verse": "El año treinta y siete de Joás rey de Judá, comenzó a reinar Joás hijo de Joacaz sobre Israel en Samaria; y reinó dieciséis años.",
+					"number": 10,
+					"study": "Reinado de Joás de Israel",
+					"id": "6100daeb-1f56-4090-9cdd-6c0e0b2191d9"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová; no se apartó de todos los pecados de Jeroboam hijo de Nabat, el que hizo pecar a Israel; en ellos anduvo.",
+					"number": 11,
+					"id": "84f8a38c-1121-4cac-bfa8-a938b31e9f79"
+				},
+				{
+					"verse": "Los demás hechos de Joás, y todo lo que hizo, y el esfuerzo con que guerreó contra Amasías rey de Judá, ¿no está escrito en el libro de las crónicas de los reyes de Israel?",
+					"number": 12,
+					"id": "3fb7c29f-b78e-4bda-afcd-89d5688c4d5d"
+				},
+				{
+					"verse": "Y durmió Joás con sus padres, y se sentó Jeroboam sobre su trono; y Joás fue sepultado en Samaria con los reyes de Israel.",
+					"number": 13,
+					"id": "14efcf25-bf18-46e8-af40-4276469f8b66"
+				},
+				{
+					"verse": "Estaba Eliseo enfermo de la enfermedad de que murió. Y descendió a él Joás rey de Israel, y llorando delante de él, dijo: ¡Padre mío, padre mío, carro de Israel y su gente de a caballo!",
+					"number": 14,
+					"study": "Profecía final y muerte de Eliseo",
+					"id": "24dbb997-b0e7-44a4-870d-109b1f838858"
+				},
+				{
+					"verse": "Y le dijo Eliseo: Toma un arco y unas saetas. Tomó él entonces un arco y unas saetas.",
+					"number": 15,
+					"id": "6a6902bc-d6c6-42ea-a981-cc7f89fdcf54"
+				},
+				{
+					"verse": "Luego dijo Eliseo al rey de Israel: Pon tu mano sobre el arco. Y puso él su mano sobre el arco. Entonces puso Eliseo sus manos sobre las manos del rey,",
+					"number": 16,
+					"id": "2416cc7e-a500-43fe-87af-fdd872460736"
+				},
+				{
+					"verse": "y dijo: Abre la ventana que da al oriente. Y cuando él la abrió, dijo Eliseo: Tira. Y tirando él, dijo Eliseo: Saeta de salvación de Jehová, y saeta de salvación contra Siria; porque herirás a los sirios en Afec hasta consumirlos.",
+					"number": 17,
+					"id": "d72a0dcd-6c03-4a72-8769-bb6cf9e10072"
+				},
+				{
+					"verse": "Y le volvió a decir: Toma las saetas. Y luego que el rey de Israel las hubo tomado, le dijo: Golpea la tierra. Y él la golpeó tres veces, y se detuvo.",
+					"number": 18,
+					"id": "abaffa2d-93dd-4da6-a579-3d50620ecde3"
+				},
+				{
+					"verse": "Entonces el varón de Dios, enojado contra él, le dijo: Al dar cinco o seis golpes, hubieras derrotado a Siria hasta no quedar ninguno; pero ahora sólo tres veces derrotarás a Siria.",
+					"number": 19,
+					"id": "d23c535c-191e-4201-9312-a4678bfa0424"
+				},
+				{
+					"verse": "Y murió Eliseo, y lo sepultaron. Entrado el año, vinieron bandas armadas de moabitas a la tierra.",
+					"number": 20,
+					"id": "58f23c79-8fb7-461c-b0da-55fe03fe6f65"
+				},
+				{
+					"verse": "Y aconteció que al sepultar unos a un hombre, súbitamente vieron una banda armada, y arrojaron el cadáver en el sepulcro de Eliseo; y cuando llegó a tocar el muerto los huesos de Eliseo, revivió, y se levantó sobre sus pies.",
+					"number": 21,
+					"id": "e90e6c93-3600-434d-8f81-be4ff15d42c4"
+				},
+				{
+					"verse": "Hazael, pues, rey de Siria, afligió a Israel todo el tiempo de Joacaz.",
+					"number": 22,
+					"id": "53606b1b-8130-4117-b057-7744ff5d039a"
+				},
+				{
+					"verse": "Mas Jehová tuvo misericordia de ellos, y se compadeció de ellos y los miró, a causa de su pacto con Abraham, Isaac y Jacob; y no quiso destruirlos ni echarlos de delante de su presencia hasta hoy.",
+					"number": 23,
+					"id": "39c0263f-60d6-45e9-96cf-b37485782dab"
+				},
+				{
+					"verse": "Y murió Hazael rey de Siria, y reinó en su lugar Ben-adad su hijo.",
+					"number": 24,
+					"id": "a18ec0b6-63cb-4622-a01d-35319d09421c"
+				},
+				{
+					"verse": "Y volvió Joás hijo de Joacaz y tomó de mano de Ben-adad hijo de Hazael las ciudades que éste había tomado en guerra de mano de Joacaz su padre. Tres veces lo derrotó Joás, y restituyó las ciudades a Israel.",
+					"number": 25,
+					"id": "4b1b92ff-53a3-45e8-93a0-68e6696c2200"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "En el año segundo de Joás hijo de Joacaz rey de Israel, comenzó a reinar Amasías hijo de Joás rey de Judá.",
+					"number": 1,
+					"study": "Reinado de Amasías",
+					"id": "fa3660ed-fb62-4b8a-b2bc-9610170bf091"
+				},
+				{
+					"verse": "Cuando comenzó a reinar era de veinticinco años, y veintinueve años reinó en Jerusalén; el nombre de su madre fue Joadán, de Jerusalén.",
+					"number": 2,
+					"id": "f38e13c8-22eb-4d6f-81ef-68c9c8cfa25f"
+				},
+				{
+					"verse": "Y él hizo lo recto ante los ojos de Jehová, aunque no como David su padre; hizo conforme a todas las cosas que había hecho Joás su padre.",
+					"number": 3,
+					"id": "cb7073c7-8220-440a-9d53-2f3ea52b6e5b"
+				},
+				{
+					"verse": "Con todo eso, los lugares altos no fueron quitados, porque el pueblo aún sacrificaba y quemaba incienso en esos lugares altos.",
+					"number": 4,
+					"id": "d1b2d565-b42c-4e64-ae7a-0e12b7b14df7"
+				},
+				{
+					"verse": "Y cuando hubo afirmado en sus manos el reino, mató a los siervos que habían dado muerte al rey su padre.",
+					"number": 5,
+					"id": "625ef653-3b79-4170-8457-2a4b4bdf4437"
+				},
+				{
+					"verse": "Pero no mató a los hijos de los que le dieron muerte, conforme a lo que está escrito en el libro de la ley de Moisés, donde Jehová mandó diciendo: No matarán a los padres por los hijos, ni a los hijos por los padres, sino que cada uno morirá por su propio pecado.",
+					"number": 6,
+					"id": "68fa9408-1463-478f-992f-6eae7f680f6a"
+				},
+				{
+					"verse": "Este mató asimismo a diez mil edomitas en el Valle de la Sal, y tomó a Sela en batalla, y la llamó Jocteel, hasta hoy.",
+					"number": 7,
+					"id": "1edf91b2-ea62-4da1-900e-22ec396a83b1"
+				},
+				{
+					"verse": "Entonces Amasías envió mensajeros a Joás hijo de Joacaz, hijo de Jehú, rey de Israel, diciendo: Ven, para que nos veamos las caras.",
+					"number": 8,
+					"id": "9c0efb4a-2d86-407a-a1f7-662a3dc21aef"
+				},
+				{
+					"verse": "Y Joás rey de Israel envió a Amasías rey de Judá esta respuesta: El cardo que está en el Líbano envió a decir al cedro que está en el Líbano: Da tu hija por mujer a mi hijo. Y pasaron las fieras que están en el Líbano, y hollaron el cardo.",
+					"number": 9,
+					"id": "d5ce7f78-c8fe-4b53-a750-3ec77c10ca9e"
+				},
+				{
+					"verse": "Ciertamente has derrotado a Edom, y tu corazón se ha envanecido; gloríate pues, mas quédate en tu casa. ¿Para qué te metes en un mal, para que caigas tú y Judá contigo?",
+					"number": 10,
+					"id": "07f55fd1-0029-47a4-b6e8-d737663fe732"
+				},
+				{
+					"verse": "Pero Amasías no escuchó; por lo cual subió Joás rey de Israel, y se vieron las caras él y Amasías rey de Judá, en Bet-semes, que es de Judá.",
+					"number": 11,
+					"id": "3bac41eb-e6ff-4f0c-ab03-dfcab37d958e"
+				},
+				{
+					"verse": "Y Judá cayó delante de Israel, y huyeron, cada uno a su tienda.",
+					"number": 12,
+					"id": "cb51a6cc-f35f-4ac5-a04c-dfc45f66ddc3"
+				},
+				{
+					"verse": "Además Joás rey de Israel tomó a Amasías rey de Judá, hijo de Joás hijo de Ocozías, en Bet-semes; y vino a Jerusalén, y rompió el muro de Jerusalén desde la puerta de Efraín hasta la puerta de la esquina, cuatrocientos codos.",
+					"number": 13,
+					"id": "7b7f6a2b-0cfe-4d43-8a5c-464631033251"
+				},
+				{
+					"verse": "Y tomó todo el oro, y la plata, y todos los utensilios que fueron hallados en la casa de Jehová, y en los tesoros de la casa del rey, y a los hijos tomó en rehenes, y volvió a Samaria.",
+					"number": 14,
+					"id": "ca9614db-f45c-4452-89ea-8b0243976a1c"
+				},
+				{
+					"verse": "Los demás hechos que ejecutó Joás, y sus hazañas, y cómo peleó contra Amasías rey de Judá, ¿no está escrito en el libro de las crónicas de los reyes de Israel?",
+					"number": 15,
+					"id": "00fd461c-6773-400e-9745-50b13e0bf04b"
+				},
+				{
+					"verse": "Y durmió Joás con sus padres, y fue sepultado en Samaria con los reyes de Israel; y reinó en su lugar Jeroboam su hijo.",
+					"number": 16,
+					"id": "7212612e-ccb1-4682-b645-8dfdab538fe8"
+				},
+				{
+					"verse": "Y Amasías hijo de Joás, rey de Judá, vivió después de la muerte de Joás hijo de Joacaz, rey de Israel, quince años.",
+					"number": 17,
+					"id": "89a55b24-cfc7-4264-9665-df2334491c24"
+				},
+				{
+					"verse": "Los demás hechos de Amasías, ¿no están escritos en el libro de las crónicas de los reyes de Judá?",
+					"number": 18,
+					"id": "5c84d8ec-bf5f-4f16-9d3a-c85cbe7dd66a"
+				},
+				{
+					"verse": "Conspiraron contra él en Jerusalén, y él huyó a Laquis; pero le persiguieron hasta Laquis, y allá lo mataron.",
+					"number": 19,
+					"id": "fb223a88-87da-4358-b78e-bad72190e72f"
+				},
+				{
+					"verse": "Lo trajeron luego sobre caballos, y lo sepultaron en Jerusalén con sus padres, en la ciudad de David.",
+					"number": 20,
+					"id": "65d53b6f-85d6-40ab-8b51-479842607bda"
+				},
+				{
+					"verse": "Entonces todo el pueblo de Judá tomó a Azarías, que era de dieciséis años, y lo hicieron rey en lugar de Amasías su padre.",
+					"number": 21,
+					"id": "57a682d3-279b-49e7-ba37-c96cba219b89"
+				},
+				{
+					"verse": "Reedificó él a Elat, y la restituyó a Judá, después que el rey durmió con sus padres.",
+					"number": 22,
+					"id": "277ac5d2-1e58-47c7-83d7-0a568bbd21cf"
+				},
+				{
+					"verse": "El año quince de Amasías hijo de Joás rey de Judá, comenzó a reinar Jeroboam hijo de Joás sobre Israel en Samaria; y reinó cuarenta y un años.",
+					"number": 23,
+					"study": "Reinado de Jeroboam II",
+					"id": "3f1c31d8-6211-4273-a925-1d996ffd8d47"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, y no se apartó de todos los pecados de Jeroboam hijo de Nabat, el que hizo pecar a Israel.",
+					"number": 24,
+					"id": "6d4c577a-eca7-450f-9fc4-4fd87468efee"
+				},
+				{
+					"verse": "El restauró los límites de Israel desde la entrada de Hamat hasta el mar del Arabá, conforme a la palabra de Jehová Dios de Israel, la cual él había hablado por su siervo Jonás hijo de Amitai, profeta que fue de Gat-hefer.",
+					"number": 25,
+					"id": "7bbce2d1-0e39-48a4-8f74-baa3b9e9b9d6"
+				},
+				{
+					"verse": "Porque Jehová miró la muy amarga aflicción de Israel; que no había siervo ni libre, ni quien diese ayuda a Israel;",
+					"number": 26,
+					"id": "f39d2cb3-b6c9-4756-ae44-e9737a39b6df"
+				},
+				{
+					"verse": "y Jehová no había determinado raer el nombre de Israel de debajo del cielo; por tanto, los salvó por mano de Jeroboam hijo de Joás.",
+					"number": 27,
+					"id": "c6710673-cd06-41e7-95f9-19aaeeebf847"
+				},
+				{
+					"verse": "Los demás hechos de Jeroboam, y todo lo que hizo, y su valentía, y todas las guerras que hizo, y cómo restituyó al dominio de Israel a Damasco y Hamat, que habían pertenecido a Judá, ¿no está escrito en el libro de las crónicas de los reyes de Israel?",
+					"number": 28,
+					"id": "644a885f-25d6-48c9-8933-7321b87c7b40"
+				},
+				{
+					"verse": "Y durmió Jeroboam con sus padres, los reyes de Israel, y reinó en su lugar Zacarías su hijo.",
+					"number": 29,
+					"id": "b94c1c81-b1f6-40c5-ad11-4e789484da72"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "En el año veintisiete de Jeroboam rey de Israel, comenzó a reinar Azarías hijo de Amasías, rey de Judá.",
+					"number": 1,
+					"study": "Reinado de Azarías",
+					"id": "dce6c530-2b41-4388-b161-8ded39cf8c92"
+				},
+				{
+					"verse": "Cuando comenzó a reinar era de dieciséis años, y cincuenta y dos años reinó en Jerusalén; el nombre de su madre fue Jecolías, de Jerusalén.",
+					"number": 2,
+					"id": "33653914-5c7f-4d48-ae9c-2aa811801bb1"
+				},
+				{
+					"verse": "E hizo lo recto ante los ojos de Jehová, conforme a todas las cosas que su padre Amasías había hecho.",
+					"number": 3,
+					"id": "661210a1-da3a-4d5f-8a94-889a4b6417e7"
+				},
+				{
+					"verse": "Con todo eso, los lugares altos no se quitaron, porque el pueblo sacrificaba aún y quemaba incienso en los lugares altos.",
+					"number": 4,
+					"id": "2cbd104e-5591-4a84-a8a1-040bb178c830"
+				},
+				{
+					"verse": "Mas Jehová hirió al rey con lepra, y estuvo leproso hasta el día de su muerte, y habitó en casa separada, y Jotam hijo del rey tenía el cargo del palacio, gobernando al pueblo.",
+					"number": 5,
+					"id": "e06b2ae0-71ea-4046-9ec6-e1c64c163fed"
+				},
+				{
+					"verse": "Los demás hechos de Azarías, y todo lo que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Judá?",
+					"number": 6,
+					"id": "2ae7ebb5-5fe2-4f8d-941f-6f8972ebc97e"
+				},
+				{
+					"verse": "Y durmió Azarías con sus padres, y lo sepultaron con ellos en la ciudad de David, y reinó en su lugar Jotam su hijo.",
+					"number": 7,
+					"id": "61703117-0e91-445f-a22c-a6db0a394b42"
+				},
+				{
+					"verse": "En el año treinta y ocho de Azarías rey de Judá, reinó Zacarías hijo de Jeroboam sobre Israel seis meses.",
+					"number": 8,
+					"study": "Reinado de Zacarías",
+					"id": "29bab30a-126a-4d22-8dbd-a27864ec5503"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, como habían hecho sus padres; no se apartó de los pecados de Jeroboam hijo de Nabat, el que hizo pecar a Israel.",
+					"number": 9,
+					"id": "322f4f0f-0f0f-4364-a455-42e6c305d627"
+				},
+				{
+					"verse": "Contra él conspiró Salum hijo de Jabes, y lo hirió en presencia de su pueblo, y lo mató, y reinó en su lugar.",
+					"number": 10,
+					"id": "ab9baad7-e665-4636-ac27-b4ebe8dc24f6"
+				},
+				{
+					"verse": "Los demás hechos de Zacarías, he aquí que están escritos en el libro de las crónicas de los reyes de Israel.",
+					"number": 11,
+					"id": "cf9f69a3-97a6-4516-9fea-2c1d4e66f859"
+				},
+				{
+					"verse": "Y esta fue la palabra de Jehová que había hablado a Jehú, diciendo: Tus hijos hasta la cuarta generación se sentarán en el trono de Israel. Y fue así.",
+					"number": 12,
+					"id": "b6abb6f6-79e9-4e97-a279-85381b97d4e6"
+				},
+				{
+					"verse": "Salum hijo de Jabes comenzó a reinar en el año treinta y nueve de Uzías rey de Judá, y reinó un mes en Samaria;",
+					"number": 13,
+					"study": "Reinado de Salum",
+					"id": "79fd0b82-61a5-4f93-b8fb-deca05c04e5c"
+				},
+				{
+					"verse": "porque Manahem hijo de Gadi subió de Tirsa y vino a Samaria, e hirió a Salum hijo de Jabes en Samaria y lo mató, y reinó en su lugar.",
+					"number": 14,
+					"id": "8e81edfb-4b74-4826-98f7-312ad0b00048"
+				},
+				{
+					"verse": "Los demás hechos de Salum, y la conspiración que tramó, he aquí que están escritos en el libro de las crónicas de los reyes de Israel.",
+					"number": 15,
+					"id": "d4984f6b-be3a-471f-b928-81f5cee555ec"
+				},
+				{
+					"verse": "Entonces Manahem saqueó a Tifsa, y a todos los que estaban en ella, y también sus alrededores desde Tirsa; la saqueó porque no le habían abierto las puertas, y abrió el vientre a todas sus mujeres que estaban encintas.",
+					"number": 16,
+					"id": "0a6e44e4-929c-4cab-a48e-59a315560e04"
+				},
+				{
+					"verse": "En el año treinta y nueve de Azarías rey de Judá, reinó Manahem hijo de Gadi sobre Israel diez años, en Samaria.",
+					"number": 17,
+					"study": "Reinado de Manahem",
+					"id": "68002ab7-d7bb-45c6-b91d-4c42322bf8c4"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová; en todo su tiempo no se apartó de los pecados de Jeroboam hijo de Nabat, el que hizo pecar a Israel.",
+					"number": 18,
+					"id": "cfa3437d-688a-44c2-b582-9ba994f94c94"
+				},
+				{
+					"verse": "Y vino Pul rey de Asiria a atacar la tierra; y Manahem dio a Pul mil talentos de plata   para que le ayudara a confirmarse en el reino.",
+					"number": 19,
+					"id": "c0a5df56-65ad-4cdf-ba9d-a6f2bd081011"
+				},
+				{
+					"verse": "E impuso Manahem este dinero sobre Israel, sobre todos los poderosos y opulentos; de cada uno cincuenta siclos de plata,   para dar al rey de Asiria; y el rey de Asiria se volvió, y no se detuvo allí en el país.",
+					"number": 20,
+					"id": "d497de08-d644-4004-9885-32e3786943ea"
+				},
+				{
+					"verse": "Los demás hechos de Manahem, y todo lo que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Israel?",
+					"number": 21,
+					"id": "947f08c0-95e3-487a-a358-24504fb60818"
+				},
+				{
+					"verse": "Y durmió Manahem con sus padres, y reinó en su lugar Pekaía su hijo.",
+					"number": 22,
+					"id": "5d5e28dd-6ed1-4577-ba25-7bb8ebe505b2"
+				},
+				{
+					"verse": "En el año cincuenta de Azarías rey de Judá, reinó Pekaía hijo de Manahem sobre Israel en Samaria, dos años.",
+					"number": 23,
+					"study": "Reinado de Pekaía",
+					"id": "e2f82f53-8c37-4acd-90f0-bfed34ecc771"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová; no se apartó de los pecados de Jeroboam hijo de Nabat, el que hizo pecar a Israel.",
+					"number": 24,
+					"id": "7fa340f1-895c-4c07-b3bb-f3b64be8d7f1"
+				},
+				{
+					"verse": "Y conspiró contra él Peka hijo de Remalías, capitán suyo, y lo hirió en Samaria, en el palacio de la casa real, en compañía de Argob y de Arie, y de cincuenta hombres de los hijos de los galaaditas; y lo mató, y reinó en su lugar.",
+					"number": 25,
+					"id": "b3504168-2be5-4fb2-92c4-eaf406d70200"
+				},
+				{
+					"verse": "Los demás hechos de Pekaía, y todo lo que hizo, he aquí que está escrito en el libro de las crónicas de los reyes de Israel.",
+					"number": 26,
+					"id": "6493b71c-405c-4aa7-9578-b69528b6e549"
+				},
+				{
+					"verse": "En el año cincuenta y dos de Azarías rey de Judá, reinó Peka hijo de Remalías sobre Israel en Samaria; y reinó veinte años.",
+					"number": 27,
+					"study": "Reinado de Peka",
+					"id": "4c07dd73-f465-48fe-b4da-c75caa586f2b"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová; no se apartó de los pecados de Jeroboam hijo de Nabat, el que hizo pecar a Israel.",
+					"number": 28,
+					"id": "ae8d5bc8-da64-4358-9033-1a2f2af8ddf2"
+				},
+				{
+					"verse": "En los días de Peka rey de Israel, vino Tiglat-pileser rey de los asirios, y tomó a Ijón, Abel-bet-maaca, Janoa, Cedes, Hazor, Galaad, Galilea, y toda la tierra de Neftalí; y los llevó cautivos a Asiria.",
+					"number": 29,
+					"id": "51fabb41-3c29-4f81-8c70-edb26208d74c"
+				},
+				{
+					"verse": "Y Oseas hijo de Ela conspiró contra Peka hijo de Remalías, y lo hirió y lo mató, y reinó en su lugar, a los veinte años de Jotam hijo de Uzías.",
+					"number": 30,
+					"id": "bda9586e-688d-44ee-b7e4-a30d081fc495"
+				},
+				{
+					"verse": "Los demás hechos de Peka, y todo lo que hizo, he aquí que está escrito en el libro de las crónicas de los reyes de Israel.",
+					"number": 31,
+					"id": "7c43ece2-982f-4ce3-830b-2532d701b72d"
+				},
+				{
+					"verse": "En el segundo año de Peka hijo de Remalías rey de Israel, comenzó a reinar Jotam hijo de Uzías rey de Judá.",
+					"number": 32,
+					"study": "Reinado de Jotam",
+					"id": "7855bcb0-5318-4fce-8ce9-79f75e49d742"
+				},
+				{
+					"verse": "Cuando comenzó a reinar era de veinticinco años, y reinó dieciséis años en Jerusalén. El nombre de su madre fue Jerusa hija de Sadoc.",
+					"number": 33,
+					"id": "5c601870-bef3-4bb1-8f40-356c253d2806"
+				},
+				{
+					"verse": "Y él hizo lo recto ante los ojos de Jehová; hizo conforme a todas las cosas que había hecho su padre Uzías.",
+					"number": 34,
+					"id": "e9e6ff41-22f4-4b33-bb3e-c612d14b0ee5"
+				},
+				{
+					"verse": "Con todo eso, los lugares altos no fueron quitados, porque el pueblo sacrificaba aún, y quemaba incienso en los lugares altos. Edificó él la puerta más alta de la casa de Jehová.",
+					"number": 35,
+					"id": "a9188502-9670-498a-91e3-84df402c9b84"
+				},
+				{
+					"verse": "Los demás hechos de Jotam, y todo lo que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Judá?",
+					"number": 36,
+					"id": "96e7376b-d5e1-4f14-81e1-2d5270f9a2df"
+				},
+				{
+					"verse": "En aquel tiempo comenzó Jehová a enviar contra Judá a Rezín rey de Siria, y a Peka hijo de Remalías.",
+					"number": 37,
+					"id": "90619763-c613-410a-a067-cb6eb991b212"
+				},
+				{
+					"verse": "Y durmió Jotam con sus padres, y fue sepultado con ellos en la ciudad de David su padre, y reinó en su lugar Acaz su hijo.",
+					"number": 38,
+					"id": "554fc543-9ad2-4133-9bb3-5c5b59477581"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "En el año diecisiete de Peka hijo de Remalías, comenzó a reinar Acaz hijo de Jotam rey de Judá.",
+					"number": 1,
+					"study": "Reinado de Acaz",
+					"id": "f1957744-2426-4e45-a3b0-d84b0bb96fab"
+				},
+				{
+					"verse": "Cuando comenzó a reinar Acaz era de veinte años, y reinó en Jerusalén dieciséis años; y no hizo lo recto ante los ojos de Jehová su Dios, como David su padre.",
+					"number": 2,
+					"id": "55918725-17d6-435b-9585-034c487bd494"
+				},
+				{
+					"verse": "Antes anduvo en el camino de los reyes de Israel, y aun hizo pasar por fuego a su hijo, según las prácticas abominables de las naciones que Jehová echó de delante de los hijos de Israel.",
+					"number": 3,
+					"id": "e6e3c24b-3abc-4bf0-b21a-fb31bcccec6f"
+				},
+				{
+					"verse": "Asimismo sacrificó y quemó incienso en los lugares altos, y sobre los collados, y debajo de todo árbol frondoso.",
+					"number": 4,
+					"id": "a660053e-9382-4c25-b372-8d77905d1b32"
+				},
+				{
+					"verse": "Entonces Rezín rey de Siria y Peka hijo de Remalías, rey de Israel, subieron a Jerusalén para hacer guerra y sitiar a Acaz; mas no pudieron tomarla.",
+					"number": 5,
+					"id": "deda9116-088b-4a38-80d9-f3d3d388f4d9"
+				},
+				{
+					"verse": "En aquel tiempo el rey de Edom recobró Elat para Edom, y echó de Elat a los hombres de Judá; y los de Edom vinieron a Elat y habitaron allí hasta hoy.",
+					"number": 6,
+					"id": "0fb93bee-2ee2-48a0-9d8c-a2d5d6128c7a"
+				},
+				{
+					"verse": "Entonces Acaz envió embajadores a Tiglat-pileser rey de Asiria, diciendo: Yo soy tu siervo y tu hijo; sube, y defiéndeme de mano del rey de Siria, y de mano del rey de Israel, que se han levantado contra mí.",
+					"number": 7,
+					"id": "f7c4ddaa-e041-4f01-ba68-ce920c12cdb9"
+				},
+				{
+					"verse": "Y tomando Acaz la plata y el oro que se halló en la casa de Jehová, y en los tesoros de la casa real, envió al rey de Asiria un presente.",
+					"number": 8,
+					"id": "8ed3d1b8-03fb-4687-9357-500ec224a42f"
+				},
+				{
+					"verse": "Y le atendió el rey de Asiria; pues subió el rey de Asiria contra Damasco, y la tomó, y llevó cautivos a los moradores a Kir, y mató a Rezín.",
+					"number": 9,
+					"id": "be114b2d-2815-479b-a7c6-cc306e206dbb"
+				},
+				{
+					"verse": "Después fue el rey Acaz a encontrar a Tiglat-pileser rey de Asiria en Damasco; y cuando vio el rey Acaz el altar que estaba en Damasco, envió al sacerdote Urías el diseño y la descripción del altar, conforme a toda su hechura.",
+					"number": 10,
+					"id": "0a694449-1bf7-48f3-b769-e9f0bcf690d2"
+				},
+				{
+					"verse": "Y el sacerdote Urías edificó el altar; conforme a todo lo que el rey Acaz había enviado de Damasco, así lo hizo el sacerdote Urías, entre tanto que el rey Acaz venía de Damasco.",
+					"number": 11,
+					"id": "454b663f-0301-4655-8c78-64cb23279ff4"
+				},
+				{
+					"verse": "Y luego que el rey vino de Damasco, y vio el altar, se acercó el rey a él, y ofreció sacrificios en él;",
+					"number": 12,
+					"id": "8093c734-0b9c-4c2d-8314-771b6f5704b2"
+				},
+				{
+					"verse": "y encendió su holocausto y su ofrenda, y derramó sus libaciones, y esparció la sangre de sus sacrificios de paz junto al altar.",
+					"number": 13,
+					"id": "76686094-b274-4312-a75a-4804c5e21d6c"
+				},
+				{
+					"verse": "E hizo acercar el altar de bronce que estaba delante de Jehová, en la parte delantera de la casa, entre el altar y el templo de Jehová, y lo puso al lado del altar hacia el norte.",
+					"number": 14,
+					"id": "ee3d10d5-d2ca-4619-b37d-6f483365aba3"
+				},
+				{
+					"verse": "Y mandó el rey Acaz al sacerdote Urías, diciendo: En el gran altar encenderás el holocausto de la mañana y la ofrenda de la tarde, y el holocausto del rey y su ofrenda, y asimismo el holocausto de todo el pueblo de la tierra y su ofrenda y sus libaciones; y esparcirás sobre él toda la sangre del holocausto, y toda la sangre del sacrificio. El altar de bronce será mío para consultar en él.",
+					"number": 15,
+					"id": "b07b8245-19d3-4442-8950-a6fc383c075e"
+				},
+				{
+					"verse": "E hizo el sacerdote Urías conforme a todas las cosas que el rey Acaz le mandó.",
+					"number": 16,
+					"id": "5cc10610-0e54-490d-902a-b97a4aa5867a"
+				},
+				{
+					"verse": "Y cortó el rey Acaz los tableros de las basas, y les quitó las fuentes; y quitó también el mar de sobre los bueyes de bronce que estaban debajo de él, y lo puso sobre el suelo de piedra.",
+					"number": 17,
+					"id": "93771edc-b315-4a37-88df-7ff6fac5216e"
+				},
+				{
+					"verse": "Asimismo el pórtico para los días de reposo, que habían edificado en la casa, y el pasadizo de afuera, el del rey, los quitó del templo de Jehová, por causa del rey de Asiria.",
+					"number": 18,
+					"id": "e57507b2-4c20-49dc-8f72-f2b619e4042f"
+				},
+				{
+					"verse": "Los demás hechos que puso por obra Acaz, ¿no están todos escritos en el libro de las crónicas de los reyes de Judá?",
+					"number": 19,
+					"id": "db447123-1e5d-460a-adf3-d6b4b955f79d"
+				},
+				{
+					"verse": "Y durmió el rey Acaz con sus padres, y fue sepultado con ellos en la ciudad de David, y reinó en su lugar su hijo Ezequías.",
+					"number": 20,
+					"id": "02da497e-151a-4265-8cb8-680ba15224a0"
+				}
+			]
+		},
+		{
+			"chapter": "17",
+			"vers": [
+				{
+					"verse": "En el año duodécimo de Acaz rey de Judá, comenzó a reinar Oseas hijo de Ela en Samaria sobre Israel; y reinó nueve años.",
+					"number": 1,
+					"study": "Caída de Samaria y cautiverio de Israel",
+					"id": "49b65844-060a-4aca-9496-72ee6dfeb489"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, aunque no como los reyes de Israel que habían sido antes de él.",
+					"number": 2,
+					"id": "a613455b-3652-47ea-b773-100f36fec309"
+				},
+				{
+					"verse": "Contra éste subió Salmanasar rey de los asirios; y Oseas fue hecho su siervo, y le pagaba tributo.",
+					"number": 3,
+					"id": "82161985-6a8f-4f92-9843-3a1101155aee"
+				},
+				{
+					"verse": "Mas el rey de Asiria descubrió que Oseas conspiraba; porque había enviado embajadores a So, rey de Egipto, y no pagaba tributo al rey de Asiria, como lo hacía cada año; por lo que el rey de Asiria le detuvo, y le aprisionó en la casa de la cárcel.",
+					"number": 4,
+					"id": "f91dd433-0014-4e7a-85d7-234387f4436b"
+				},
+				{
+					"verse": "Y el rey de Asiria invadió todo el país, y sitió a Samaria, y estuvo sobre ella tres años.",
+					"number": 5,
+					"id": "6fc06ac8-c80d-4c0f-82ff-addb4cc22ecb"
+				},
+				{
+					"verse": "En el año nueve de Oseas, el rey de Asiria tomó Samaria, y llevó a Israel cautivo a Asiria, y los puso en Halah, en Habor junto al río Gozán, y en las ciudades de los medos.",
+					"number": 6,
+					"id": "dc06ee7a-ded8-43f8-82d7-77c65cf7402c"
+				},
+				{
+					"verse": "Porque los hijos de Israel pecaron contra Jehová su Dios, que los sacó de tierra de Egipto, de bajo la mano de Faraón rey de Egipto, y temieron a dioses ajenos,",
+					"number": 7,
+					"id": "745a2a96-b688-4d3e-a46b-c04342e6f9f4"
+				},
+				{
+					"verse": "y anduvieron en los estatutos de las naciones que Jehová había lanzado de delante de los hijos de Israel, y en los estatutos que hicieron los reyes de Israel.",
+					"number": 8,
+					"id": "d6cceaa6-ff07-4cec-9cf3-1b48f189e72c"
+				},
+				{
+					"verse": "Y los hijos de Israel hicieron secretamente cosas no rectas contra Jehová su Dios, edificándose lugares altos en todas sus ciudades, desde las torres de las atalayas hasta las ciudades fortificadas,",
+					"number": 9,
+					"id": "65480512-b11a-4622-b370-7c3ca04afb97"
+				},
+				{
+					"verse": "y levantaron estatuas e imágenes de Asera en todo collado alto, y debajo de todo árbol frondoso,",
+					"number": 10,
+					"id": "bf52acad-9e9e-4a84-8c1b-48f1b9d875cc"
+				},
+				{
+					"verse": "y quemaron allí incienso en todos los lugares altos, a la manera de la naciones que Jehová había traspuesto de delante de ellos, e hicieron cosas muy malas para provocar a ira a Jehová.",
+					"number": 11,
+					"id": "b0ac275d-6e79-4e09-a525-a38049432743"
+				},
+				{
+					"verse": "Y servían a los ídolos, de los cuales Jehová les había dicho: Vosotros no habéis de hacer esto.",
+					"number": 12,
+					"id": "ad747eb1-0399-48de-991d-57581e4c2ed4"
+				},
+				{
+					"verse": "Jehová amonestó entonces a Israel y a Judá por medio de todos los profetas y de todos los videntes, diciendo: Volveos de vuestros malos caminos, y guardad mis mandamientos y mis ordenanzas, conforme a todas las leyes que yo prescribí a vuestros padres, y que os he enviado por medio de mis siervos los profetas.",
+					"number": 13,
+					"id": "0256e927-2ebb-4fc4-a6b6-16a3b480ce14"
+				},
+				{
+					"verse": "Mas ellos no obedecieron, antes endurecieron su cerviz, como la cerviz de sus padres, los cuales no creyeron en Jehová su Dios.",
+					"number": 14,
+					"id": "5cc194c1-96db-4ac2-8b4b-c150d9dcd5d8"
+				},
+				{
+					"verse": "Y desecharon sus estatutos, y el pacto que él había hecho con sus padres, y los testimonios que él había prescrito a ellos; y siguieron la vanidad, y se hicieron vanos, y fueron en pos de las naciones que estaban alrededor de ellos, de las cuales Jehová les había mandado que no hiciesen a la manera de ellas.",
+					"number": 15,
+					"id": "f5813e31-f179-49cc-8a9c-21a2ca4f1caa"
+				},
+				{
+					"verse": "Dejaron todos los mandamientos de Jehová su Dios, y se hicieron imágenes fundidas de dos becerros, y también imágenes de Asera, y adoraron a todo el ejército de los cielos, y sirvieron a Baal;",
+					"number": 16,
+					"id": "7869806a-ea4b-4277-82b5-8dff8520266f"
+				},
+				{
+					"verse": "e hicieron pasar a sus hijos y a sus hijas por fuego; y se dieron a adivinaciones y agüeros, y se entregaron a hacer lo malo ante los ojos de Jehová, provocándole a ira.",
+					"number": 17,
+					"id": "ae6ab268-828f-4435-9fbf-9686c154f586"
+				},
+				{
+					"verse": "Jehová, por tanto, se airó en gran manera contra Israel, y los quitó de delante de su rostro; y no quedó sino sólo la tribu de Judá.",
+					"number": 18,
+					"id": "de2a9e1f-c699-4bc0-840d-a1772385d6f0"
+				},
+				{
+					"verse": "Mas ni aun Judá guardó los mandamientos de Jehová su Dios, sino que anduvieron en los estatutos de Israel, los cuales habían ellos hecho.",
+					"number": 19,
+					"id": "5bdc1389-6354-4499-9b76-3052ad748087"
+				},
+				{
+					"verse": "Y desechó Jehová a toda la descendencia de Israel, y los afligió, y los entregó en manos de saqueadores, hasta echarlos de su presencia.",
+					"number": 20,
+					"id": "e879e1bb-f1d6-45f9-9dbd-c2e11e381ac0"
+				},
+				{
+					"verse": "Porque separó a Israel de la casa de David, y ellos hicieron rey a Jeroboam hijo de Nabat; y Jeroboam apartó a Israel de en pos de Jehová, y les hizo cometer gran pecado.",
+					"number": 21,
+					"id": "e623afa6-11b8-4ce5-ba41-1c779aa4bb61"
+				},
+				{
+					"verse": "Y los hijos de Israel anduvieron en todos los pecados de Jeroboam que él hizo, sin apartarse de ellos,",
+					"number": 22,
+					"id": "75166acc-be4c-4f66-91c2-181c8d2a5e46"
+				},
+				{
+					"verse": "hasta que Jehová quitó a Israel de delante de su rostro, como él lo había dicho por medio de todos los profetas sus siervos; e Israel fue llevado cautivo de su tierra a Asiria, hasta hoy.",
+					"number": 23,
+					"id": "1ca4bada-6397-45dc-acec-600ebcc17649"
+				},
+				{
+					"verse": "Y trajo el rey de Asiria gente de Babilonia, de Cuta, de Ava, de Hamat y de Sefarvaim, y los puso en las ciudades de Samaria, en lugar de los hijos de Israel; y poseyeron a Samaria, y habitaron en sus ciudades.",
+					"number": 24,
+					"study": "Asiria puebla de nuevo a Samaria",
+					"id": "e68d9f7e-c37b-4a19-ba02-3fd16a3c3005"
+				},
+				{
+					"verse": "Y aconteció al principio, cuando comenzaron a habitar allí, que no temiendo ellos a Jehová, envió Jehová contra ellos leones que los mataban.",
+					"number": 25,
+					"id": "3e328bea-4f77-49d1-99d2-76d1154a6dba"
+				},
+				{
+					"verse": "Dijeron, pues, al rey de Asiria: Las gentes que tú trasladaste y pusiste en las ciudades de Samaria, no conocen la ley del Dios de aquella tierra, y él ha echado leones en medio de ellos, y he aquí que los leones los matan, porque no conocen la ley del Dios de la tierra.",
+					"number": 26,
+					"id": "2facc57e-af4b-4493-8800-17007b96f4c4"
+				},
+				{
+					"verse": "Y el rey de Asiria mandó, diciendo: Llevad allí a alguno de los sacerdotes que trajisteis de allá, y vaya y habite allí, y les enseñe la ley del Dios del país.",
+					"number": 27,
+					"id": "00926b89-72a2-4fc9-9ad6-b9b8215c6f47"
+				},
+				{
+					"verse": "Y vino uno de los sacerdotes que habían llevado cautivo de Samaria, y habitó en Bet-el, y les enseñó cómo habían de temer a Jehová.",
+					"number": 28,
+					"id": "f40fb532-600b-4434-808f-dd68a6a9f64d"
+				},
+				{
+					"verse": "Pero cada nación se hizo sus dioses, y los pusieron en los templos de los lugares altos que habían hecho los de Samaria; cada nación en su ciudad donde habitaba.",
+					"number": 29,
+					"id": "007255e6-ef04-4456-be11-321bf6d0d8b0"
+				},
+				{
+					"verse": "Los de Babilonia hicieron a Sucot-benot, los de Cuta hicieron a Nergal, y los de Hamat hicieron a Asima.",
+					"number": 30,
+					"id": "f25778ba-9a5b-4b16-8baa-f7fda1190b61"
+				},
+				{
+					"verse": "Los aveos hicieron a Nibhaz y a Tartac, y los de Sefarvaim quemaban sus hijos en el fuego para adorar a Adramelec y a Anamelec, dioses de Sefarvaim.",
+					"number": 31,
+					"id": "099beb4b-5f3f-46d8-ab69-8744632dd33a"
+				},
+				{
+					"verse": "Temían a Jehová, e hicieron del bajo pueblo sacerdotes de los lugares altos, que sacrificaban para ellos en los templos de los lugares altos.",
+					"number": 32,
+					"id": "7f8776be-514d-4f70-9f5f-9d7a7dbd05ef"
+				},
+				{
+					"verse": "Temían a Jehová, y honraban a sus dioses, según la costumbre de las naciones de donde habían sido trasladados.",
+					"number": 33,
+					"id": "d2d15a6a-ea4b-431e-ba75-8505015bca4d"
+				},
+				{
+					"verse": "Hasta hoy hacen como antes: ni temen a Jehová, ni guardan sus estatutos ni sus ordenanzas, ni hacen según la ley y los mandamientos que prescribió Jehová a los hijos de Jacob, al cual puso el nombre de Israel;",
+					"number": 34,
+					"id": "85ac8695-dc65-4137-9cb4-b4e0e62a6eba"
+				},
+				{
+					"verse": "con los cuales Jehová había hecho pacto, y les mandó diciendo: No temeréis a otros dioses, ni los adoraréis, ni les serviréis, ni les haréis sacrificios.",
+					"number": 35,
+					"id": "d191d2a6-5516-460f-8c86-4d40df646303"
+				},
+				{
+					"verse": "Mas a Jehová, que os sacó de tierra de Egipto con grande poder y brazo extendido, a éste temeréis, y a éste adoraréis, y a éste haréis sacrificio.",
+					"number": 36,
+					"id": "b4dbc70f-5ea2-4e4d-b100-719325ab9378"
+				},
+				{
+					"verse": "Los estatutos y derechos y ley y mandamientos que os dio por escrito, cuidaréis siempre de ponerlos por obra, y no temeréis a dioses ajenos.",
+					"number": 37,
+					"id": "ba7dbfde-d9ca-435f-9007-eff6692772d1"
+				},
+				{
+					"verse": "No olvidaréis el pacto que hice con vosotros, ni temeréis a dioses ajenos;",
+					"number": 38,
+					"id": "b3c13b88-3f49-4ccd-90e3-b1279fd2950d"
+				},
+				{
+					"verse": "mas temed a Jehová vuestro Dios, y él os librará de mano de todos vuestros enemigos.",
+					"number": 39,
+					"id": "ac0ee7f8-ca41-4c84-a470-9dcd88ec16b0"
+				},
+				{
+					"verse": "Pero ellos no escucharon; antes hicieron según su costumbre antigua.",
+					"number": 40,
+					"id": "07eb9fd0-3994-4641-a3a3-5df4f4f1534b"
+				},
+				{
+					"verse": "Así temieron a Jehová aquellas gentes, y al mismo tiempo sirvieron a sus ídolos; y también sus hijos y sus nietos, según como hicieron sus padres, así hacen hasta hoy.",
+					"number": 41,
+					"id": "f771e541-0f01-4760-b328-1ace743bbbbe"
+				}
+			]
+		},
+		{
+			"chapter": "18",
+			"vers": [
+				{
+					"verse": "En el tercer año de Oseas hijo de Ela, rey de Israel, comenzó a reinar Ezequías hijo de Acaz rey de Judá.",
+					"number": 1,
+					"study": "Reinado de Ezequías",
+					"id": "75b09ff9-f5ee-43a5-af82-9a09a5d8a13d"
+				},
+				{
+					"verse": "Cuando comenzó a reinar era de veinticinco años, y reinó en Jerusalén veintinueve años. El nombre de su madre fue Abi hija de Zacarías.",
+					"number": 2,
+					"id": "7e3247ac-e13f-4a7b-97df-44fe5152a272"
+				},
+				{
+					"verse": "Hizo lo recto ante los ojos de Jehová, conforme a todas las cosas que había hecho David su padre.",
+					"number": 3,
+					"id": "4cc5a206-d46c-40ad-8f39-fb78526777e3"
+				},
+				{
+					"verse": "El quitó los lugares altos, y quebró las imágenes, y cortó los símbolos de Asera, e hizo pedazos la serpiente de bronce que había hecho Moisés, porque hasta entonces le quemaban incienso los hijos de Israel; y la llamó Nehustán.",
+					"number": 4,
+					"id": "f56fd7b5-f59e-4dd7-bd9b-804dc47b8647"
+				},
+				{
+					"verse": "En Jehová Dios de Israel puso su esperanza; ni después ni antes de él hubo otro como él entre todos los reyes de Judá.",
+					"number": 5,
+					"id": "ac6a9527-37c4-42aa-ae13-f30561951a66"
+				},
+				{
+					"verse": "Porque siguió a Jehová, y no se apartó de él, sino que guardó los mandamientos que Jehová prescribió a Moisés.",
+					"number": 6,
+					"id": "09a6681a-8820-48a6-b4e9-adfd7246d241"
+				},
+				{
+					"verse": "Y Jehová estaba con él; y adondequiera que salía, prosperaba. El se rebeló contra el rey de Asiria, y no le sirvió.",
+					"number": 7,
+					"id": "44f8f43d-858c-4eb2-a935-a724ca93c58f"
+				},
+				{
+					"verse": "Hirió también a los filisteos hasta Gaza y sus fronteras, desde las torres de las atalayas hasta la ciudad fortificada.",
+					"number": 8,
+					"id": "7e10ab92-e735-48b0-af98-9d874cfd58b4"
+				},
+				{
+					"verse": "En el cuarto año del rey Ezequías, que era el año séptimo de Oseas hijo de Ela, rey de Israel, subió Salmanasar rey de los asirios contra Samaria, y la sitió,",
+					"number": 9,
+					"study": "Caída de Samaria",
+					"id": "58105964-05e3-4e9b-a332-cea292a2a558"
+				},
+				{
+					"verse": "y la tomaron al cabo de tres años. En el año sexto de Ezequías, el cual era el año noveno de Oseas rey de Israel, fue tomada Samaria.",
+					"number": 10,
+					"id": "995ac0d9-ffaa-440c-bd70-ca22243f78c2"
+				},
+				{
+					"verse": "Y el rey de Asiria llevó cautivo a Israel a Asiria, y los puso en Halah, en Habor junto al río Gozán, y en las ciudades de los medos;",
+					"number": 11,
+					"id": "339b3eac-9c2d-4d76-911a-4b7166442bf7"
+				},
+				{
+					"verse": "por cuanto no habían atendido a la voz de Jehová su Dios, sino que habían quebrantado su pacto; y todas las cosas que Moisés siervo de Jehová había mandado, no las habían escuchado, ni puesto por obra.",
+					"number": 12,
+					"id": "c6e89347-1abe-4dc1-b158-0c0bec0ee8c2"
+				},
+				{
+					"verse": "A los catorce años del rey Ezequías, subió Senaquerib rey de Asiria contra todas las ciudades fortificadas de Judá, y las tomó.",
+					"number": 13,
+					"study": "Senaquerib invade a Judá",
+					"id": "0751ddea-1ecf-42e4-b3b0-59015134f1d2"
+				},
+				{
+					"verse": "Entonces Ezequías rey de Judá envió a decir al rey de Asiria que estaba en Laquis: Yo he pecado; apártate de mí, y haré todo lo que me impongas. Y el rey de Asiria impuso a Ezequías rey de Judá trescientos talentos de plata,  y treinta talentos de oro.",
+					"number": 14,
+					"id": "1407bab8-bfa1-4dd4-81c5-b0283989e5e8"
+				},
+				{
+					"verse": "Dio, por tanto, Ezequías toda la plata que fue hallada en la casa de Jehová, y en los tesoros de la casa real.",
+					"number": 15,
+					"id": "86f98733-f7dd-4e5b-a658-0400984e49f0"
+				},
+				{
+					"verse": "Entonces Ezequías quitó el oro de las puertas del templo de Jehová y de los quiciales que el mismo rey Ezequías había cubierto de oro, y lo dio al rey de Asiria.",
+					"number": 16,
+					"id": "29ffe6b4-44d8-4259-a9b7-0cc4974c6eb3"
+				},
+				{
+					"verse": "Después el rey de Asiria envió contra el rey Ezequías al Tartán, al Rabsaris y al Rabsaces, con un gran ejército, desde Laquis contra Jerusalén, y subieron y vinieron a Jerusalén. Y habiendo subido, vinieron y acamparon junto al acueducto del estanque de arriba, en el camino de la heredad del Lavador.",
+					"number": 17,
+					"id": "7d590eda-0427-4b46-8dee-8072b320afcb"
+				},
+				{
+					"verse": "Llamaron luego al rey, y salió a ellos Eliaquim hijo de Hilcías, mayordomo, y Sebna escriba, y Joa hijo de Asaf, canciller.",
+					"number": 18,
+					"id": "045191b6-b8e9-4cf8-8491-63713d1e09cb"
+				},
+				{
+					"verse": "Y les dijo el Rabsaces: Decid ahora a Ezequías: Así dice el gran rey de Asiria: ¿Qué confianza es esta en que te apoyas?",
+					"number": 19,
+					"id": "51960885-7037-4acc-a951-99cf4a9feec8"
+				},
+				{
+					"verse": "Dices (pero son palabras vacías): Consejo tengo y fuerzas para la guerra. Mas ¿en qué confías, que te has rebelado contra mí?",
+					"number": 20,
+					"id": "58b1f5f4-5e8d-403b-953f-bed9119a04d5"
+				},
+				{
+					"verse": "He aquí que confías en este báculo de caña cascada, en Egipto, en el cual si alguno se apoyare, se le entrará por la mano y la traspasará. Tal es Faraón rey de Egipto para todos los que en él confían.",
+					"number": 21,
+					"id": "5f57ca8b-9be9-4576-9f6a-ed365657b163"
+				},
+				{
+					"verse": "Y si me decís: Nosotros confiamos en Jehová nuestro Dios, ¿no es éste aquel cuyos lugares altos y altares ha quitado Ezequías, y ha dicho a Judá y a Jerusalén: Delante de este altar adoraréis en Jerusalén?",
+					"number": 22,
+					"id": "f0c4cb01-fc50-4f99-91e6-d557e91da71c"
+				},
+				{
+					"verse": "Ahora, pues, yo te ruego que des rehenes a mi señor, el rey de Asiria, y yo te daré dos mil caballos, si tú puedes dar jinetes para ellos.",
+					"number": 23,
+					"id": "869ed5c3-665c-4a15-ac8e-6a58e84f1033"
+				},
+				{
+					"verse": "¿Cómo, pues, podrás resistir a un capitán, al menor de los siervos de mi señor, aunque estés confiado en Egipto con sus carros y su gente de a caballo?",
+					"number": 24,
+					"id": "c2885106-5817-4937-8af9-b16400e2ed1c"
+				},
+				{
+					"verse": "¿Acaso he venido yo ahora sin Jehová a este lugar, para destruirlo? Jehová me ha dicho: Sube a esta tierra, y destrúyela.",
+					"number": 25,
+					"id": "c81f6dc2-bf83-4590-b23c-cf205ddb9d27"
+				},
+				{
+					"verse": "Entonces dijo Eliaquim hijo de Hilcías, y Sebna y Joa, al Rabsaces: Te rogamos que hables a tus siervos en arameo, porque nosotros lo entendemos, y no hables con nosotros en lengua de Judá a oídos del pueblo que está sobre el muro.",
+					"number": 26,
+					"id": "b681810f-2792-479d-bf33-ae618e503cec"
+				},
+				{
+					"verse": "Y el Rabsaces les dijo: ¿Me ha enviado mi señor para decir estas palabras a ti y a tu señor, y no a los hombres que están sobre el muro, expuestos a comer su propio estiércol y beber su propia orina con vosotros?",
+					"number": 27,
+					"id": "ffcbbd65-f83f-44ae-a055-7103ad7e26fd"
+				},
+				{
+					"verse": "Entonces el Rabsaces se puso en pie y clamó a gran voz en lengua de Judá, y habló diciendo: Oíd la palabra del gran rey, el rey de Asiria.",
+					"number": 28,
+					"id": "4104ced9-b9d9-4ef0-804d-45efdbd91ba5"
+				},
+				{
+					"verse": "Así ha dicho el rey: No os engañe Ezequías, porque no os podrá librar de mi mano.",
+					"number": 29,
+					"id": "479e0062-153d-482a-8441-543a1435b5e6"
+				},
+				{
+					"verse": "Y no os haga Ezequías confiar en Jehová, diciendo: Ciertamente nos librará Jehová, y esta ciudad no será entregada en mano del rey de Asiria.",
+					"number": 30,
+					"id": "eca6d538-ee8a-4394-9eea-48fad8fd2824"
+				},
+				{
+					"verse": "No escuchéis a Ezequías, porque así dice el rey de Asiria: Haced conmigo paz, y salid a mí, y coma cada uno de su vid y de su higuera, y beba cada uno las aguas de su pozo,",
+					"number": 31,
+					"id": "db832c26-a802-4440-90cc-74c3b109bc1b"
+				},
+				{
+					"verse": "hasta que yo venga y os lleve a una tierra como la vuestra, tierra de grano y de vino, tierra de pan y de viñas, tierra de olivas, de aceite, y de miel; y viviréis, y no moriréis. No oigáis a Ezequías, porque os engaña cuando dice: Jehová nos librará.",
+					"number": 32,
+					"id": "36246bc6-13d3-4045-9a16-3f3e53898e58"
+				},
+				{
+					"verse": "¿Acaso alguno de los dioses de las naciones ha librado su tierra de la mano del rey de Asiria?",
+					"number": 33,
+					"id": "43ab11ec-4013-4ed3-afc7-99d0db1bae91"
+				},
+				{
+					"verse": "¿Dónde está el dios de Hamat y de Arfad? ¿Dónde está el dios de Sefarvaim, de Hena, y de Iva? ¿Pudieron éstos librar a Samaria de mi mano?",
+					"number": 34,
+					"id": "5360732f-a6e3-4a3b-b92f-603e77cdb786"
+				},
+				{
+					"verse": "¿Qué dios de todos los dioses de estas tierras ha librado su tierra de mi mano, para que Jehová libre de mi mano a Jerusalén?",
+					"number": 35,
+					"id": "d5497ae4-1f15-4015-89b8-b03dd6c80d8c"
+				},
+				{
+					"verse": "Pero el pueblo calló, y no le respondió palabra; porque había mandamiento del rey, el cual había dicho: No le respondáis.",
+					"number": 36,
+					"id": "786db49e-dadb-4a52-b281-7a2b67fe77f0"
+				},
+				{
+					"verse": "Entonces Eliaquim hijo de Hilcías, mayordomo, y Sebna escriba, y Joa hijo de Asaf, canciller, vinieron a Ezequías, rasgados sus vestidos, y le contaron las palabras del Rabsaces.",
+					"number": 37,
+					"id": "ebf10c65-6c6e-4bbe-b89c-6af70aeae7a9"
+				}
+			]
+		},
+		{
+			"chapter": "19",
+			"vers": [
+				{
+					"verse": "Cuando el rey Ezequías lo oyó, rasgó sus vestidos y se cubrió de cilicio, y entró en la casa de Jehová.",
+					"number": 1,
+					"study": "Judá es librado de Senaquerib",
+					"id": "5d8c2be0-d3f7-471c-ac56-910c966e0db7"
+				},
+				{
+					"verse": "Y envió a Eliaquim mayordomo, a Sebna escriba y a los ancianos de los sacerdotes, cubiertos de cilicio, al profeta Isaías hijo de Amoz,",
+					"number": 2,
+					"id": "d8cb71be-e9e8-4c49-a5bf-087a969edcd8"
+				},
+				{
+					"verse": "para que le dijesen: Así ha dicho Ezequías: Este día es día de angustia, de reprensión y de blasfemia; porque los hijos están a punto de nacer, y la que da a luz no tiene fuerzas.",
+					"number": 3,
+					"id": "2a5a2350-ab05-4689-a559-6b09efa3b2f6"
+				},
+				{
+					"verse": "Quizá oirá Jehová tu Dios todas las palabras del Rabsaces, a quien el rey de los asirios su señor ha enviado para blasfemar al Dios viviente, y para vituperar con palabras, las cuales Jehová tu Dios ha oído; por tanto, eleva oración por el remanente que aún queda.",
+					"number": 4,
+					"id": "7496ce81-754f-4641-a97d-f1f71d997f15"
+				},
+				{
+					"verse": "Vinieron, pues, los siervos del rey Ezequías a Isaías.",
+					"number": 5,
+					"id": "43f282a5-4917-4fad-bf60-df6e761a2496"
+				},
+				{
+					"verse": "E Isaías les respondió: Así diréis a vuestro señor: Así ha dicho Jehová: No temas por las palabras que has oído, con las cuales me han blasfemado los siervos del rey de Asiria.",
+					"number": 6,
+					"id": "9248c76f-7806-4095-ad35-cb515977c647"
+				},
+				{
+					"verse": "He aquí pondré yo en él un espíritu, y oirá rumor, y volverá a su tierra; y haré que en su tierra caiga a espada.",
+					"number": 7,
+					"id": "60c7afc6-e597-42d0-8a7e-95fee3f45deb"
+				},
+				{
+					"verse": "Y regresando el Rabsaces, halló al rey de Asiria combatiendo contra Libna; porque oyó que se había ido de Laquis.",
+					"number": 8,
+					"id": "a886521c-da7c-4803-b14b-604d03ee9d44"
+				},
+				{
+					"verse": "Y oyó decir que Tirhaca rey de Etiopía había salido para hacerle guerra. Entonces volvió él y envió embajadores a Ezequías, diciendo:",
+					"number": 9,
+					"id": "835f57d0-3696-453e-8e2a-9e7d4d5d755d"
+				},
+				{
+					"verse": "Así diréis a Ezequías rey de Judá: No te engañe tu Dios en quien tú confías, para decir: Jerusalén no será entregada en mano del rey de Asiria.",
+					"number": 10,
+					"id": "98e85470-1ee0-4c4c-9372-fa2aeeb61e5d"
+				},
+				{
+					"verse": "He aquí tú has oído lo que han hecho los reyes de Asiria a todas las tierras, destruyéndolas; ¿y escaparás tú?",
+					"number": 11,
+					"id": "9f0ad792-38e5-44a7-9f43-7ddbdb85b6cd"
+				},
+				{
+					"verse": "¿Acaso libraron sus dioses a las naciones que mis padres destruyeron, esto es, Gozán, Harán, Resef, y los hijos de Edén que estaban en Telasar?",
+					"number": 12,
+					"id": "d248eb90-1ba0-45c0-8118-e20b733cff06"
+				},
+				{
+					"verse": "¿Dónde está el rey de Hamat, el rey de Arfad, y el rey de la ciudad de Sefarvaim, de Hena y de Iva?",
+					"number": 13,
+					"id": "79f8436a-1085-4d58-bd61-7b94967685d0"
+				},
+				{
+					"verse": "Y tomó Ezequías las cartas de mano de los embajadores; y después que las hubo leído, subió a la casa de Jehová, y las extendió Ezequías delante de Jehová.",
+					"number": 14,
+					"id": "14d17b87-d2d8-4222-8f25-9ec0ac84fb48"
+				},
+				{
+					"verse": "Y oró Ezequías delante de Jehová, diciendo: Jehová Dios de Israel, que moras entre los querubines, sólo tú eres Dios de todos los reinos de la tierra; tú hiciste el cielo y la tierra.",
+					"number": 15,
+					"id": "737bb54c-0c9a-4c59-a070-7743e90aa8d0"
+				},
+				{
+					"verse": "Inclina, oh Jehová, tu oído, y oye; abre, oh Jehová, tus ojos, y mira; y oye las palabras de Senaquerib, que ha enviado a blasfemar al Dios viviente.",
+					"number": 16,
+					"id": "e2ebe9f9-7975-4ca4-bc92-0766fe2b42e3"
+				},
+				{
+					"verse": "Es verdad, oh Jehová, que los reyes de Asiria han destruido las naciones y sus tierras;",
+					"number": 17,
+					"id": "369ee926-f5ac-4686-8e51-63a7ae7cb087"
+				},
+				{
+					"verse": "y que echaron al fuego a sus dioses, por cuanto ellos no eran dioses, sino obra de manos de hombres, madera o piedra, y por eso los destruyeron.",
+					"number": 18,
+					"id": "d61119cc-0e1a-439b-897b-cb1330cdb622"
+				},
+				{
+					"verse": "Ahora, pues, oh Jehová Dios nuestro, sálvanos, te ruego, de su mano, para que sepan todos los reinos de la tierra que sólo tú, Jehová, eres Dios.",
+					"number": 19,
+					"id": "f073fba7-527d-476f-acc2-04457e8bc77a"
+				},
+				{
+					"verse": "Entonces Isaías hijo de Amoz envió a decir a Ezequías: Así ha dicho Jehová, Dios de Israel: Lo que me pediste acerca de Senaquerib rey de Asiria, he oído.",
+					"number": 20,
+					"id": "f414ca1b-9575-4984-9418-c4589ec295a9"
+				},
+				{
+					"verse": "Esta es la palabra que Jehová ha pronunciado acerca de él: La virgen hija de Sion te menosprecia, te escarnece; detrás de ti mueve su cabeza la hija de Jerusalén.",
+					"number": 21,
+					"id": "abe8b2ed-b886-4fe5-8d2f-b12557052c59"
+				},
+				{
+					"verse": "¿A quién has vituperado y blasfemado? ¿y contra quién has alzado la voz, y levantado en alto tus ojos? Contra el Santo de Israel.",
+					"number": 22,
+					"id": "c94e00f4-07e9-4eaf-a4a7-5d6baea111fd"
+				},
+				{
+					"verse": "Por mano de tus mensajeros has vituperado a Jehová, y has dicho: Con la multitud de mis carros he subido a las alturas de los montes, a lo más inaccesible del Líbano; cortaré sus altos cedros, sus cipreses más escogidos; me alojaré en sus más remotos lugares, en el bosque de sus feraces campos.",
+					"number": 23,
+					"id": "11c0913c-3827-4522-b993-bc28e1a3aae2"
+				},
+				{
+					"verse": "Yo he cavado y bebido las aguas extrañas, he secado con las plantas de mis pies todos los ríos de Egipto.",
+					"number": 24,
+					"id": "443dcbe2-cc9b-4cb4-94d5-d94d60ee35b2"
+				},
+				{
+					"verse": "¿Nunca has oído que desde tiempos antiguos yo lo hice, y que desde los días de la antigüedad lo tengo ideado? Y ahora lo he hecho venir, y tú serás para hacer desolaciones, para reducir las ciudades fortificadas a montones de escombros.",
+					"number": 25,
+					"id": "89de0c9b-f580-4e0d-ada4-458a5c501351"
+				},
+				{
+					"verse": "Sus moradores fueron de corto poder; fueron acobardados y confundidos; vinieron a ser como la hierba del campo, y como hortaliza verde, como heno de los terrados, marchitado antes de su madurez.",
+					"number": 26,
+					"id": "5fe5d8a1-0ccf-4792-a49f-2d6442a1b920"
+				},
+				{
+					"verse": "He conocido tu situación, tu salida y tu entrada, y tu furor contra mí.",
+					"number": 27,
+					"id": "efbd6953-9eb8-48b7-8894-de9f3859f8e0"
+				},
+				{
+					"verse": "Por cuanto te has airado contra mí, por cuanto tu arrogancia ha subido a mis oídos, yo pondré mi garfio en tu nariz, y mi freno en tus labios, y te haré volver por el camino por donde viniste.",
+					"number": 28,
+					"id": "8681e6e9-f458-4b5b-9eda-f7591217961d"
+				},
+				{
+					"verse": "Y esto te daré por señal, oh Ezequías: Este año comeréis lo que nacerá de suyo, y el segundo año lo que nacerá de suyo; y el tercer año sembraréis, y segaréis, y plantaréis viñas, y comeréis el fruto de ellas.",
+					"number": 29,
+					"id": "373bfb71-7c6d-401d-ba21-3d271bc88ca8"
+				},
+				{
+					"verse": "Y lo que hubiere escapado, lo que hubiere quedado de la casa de Judá, volverá a echar raíces abajo, y llevará fruto arriba.",
+					"number": 30,
+					"id": "6a492014-011e-4209-adf0-528219637fa1"
+				},
+				{
+					"verse": "Porque saldrá de Jerusalén remanente, y del monte de Sion los que se salven. El celo de Jehová de los ejércitos hará esto.",
+					"number": 31,
+					"id": "d2e3abf7-9a8b-43af-853b-94b47f4446fd"
+				},
+				{
+					"verse": "Por tanto, así dice Jehová acerca del rey de Asiria: No entrará en esta ciudad, ni echará saeta en ella; ni vendrá delante de ella con escudo, ni levantará contra ella baluarte.",
+					"number": 32,
+					"id": "c2b1b32e-3d4b-41c9-9896-8b4f342e173a"
+				},
+				{
+					"verse": "Por el mismo camino que vino, volverá, y no entrará en esta ciudad, dice Jehová.",
+					"number": 33,
+					"id": "64a9c55d-dcfe-4d1e-b123-926ffccb20fe"
+				},
+				{
+					"verse": "Porque yo ampararé esta ciudad para salvarla, por amor a mí mismo, y por amor a David mi siervo.",
+					"number": 34,
+					"id": "61b60684-b5eb-46f5-a2af-82c78478c1da"
+				},
+				{
+					"verse": "Y aconteció que aquella misma noche salió el ángel de Jehová, y mató en el campamento de los asirios a ciento ochenta y cinco mil; y cuando se levantaron por la mañana, he aquí que todo era cuerpos de muertos.",
+					"number": 35,
+					"id": "3c70418e-9363-4836-95b3-f4391b5d4806"
+				},
+				{
+					"verse": "Entonces Senaquerib rey de Asiria se fue, y volvió a Nínive, donde se quedó.",
+					"number": 36,
+					"id": "5a94bb9b-2cb1-4454-9fb4-a3f1581f5707"
+				},
+				{
+					"verse": "Y aconteció que mientras él adoraba en el templo de Nisroc su dios, Adramelec y Sarezer sus hijos lo hirieron a espada, y huyeron a tierra de Ararat. Y reinó en su lugar Esarhadón su hijo.",
+					"number": 37,
+					"id": "adb02fa9-9cf1-4843-be11-8d2df001aeef"
+				}
+			]
+		},
+		{
+			"chapter": "20",
+			"vers": [
+				{
+					"verse": "En aquellos días Ezequías cayó enfermo de muerte. Y vino a él el profeta Isaías hijo de Amoz, y le dijo: Jehová dice así: Ordena tu casa, porque morirás, y no vivirás.",
+					"number": 1,
+					"study": "Enfermedad de Ezequías",
+					"id": "d83aa266-bb3d-4f15-95bc-19ba5b11d3a8"
+				},
+				{
+					"verse": "Entonces él volvió su rostro a la pared, y oró a Jehová y dijo:",
+					"number": 2,
+					"id": "daf9ede2-78e8-402e-a0d6-19103bbf103d"
+				},
+				{
+					"verse": "Te ruego, oh Jehová, te ruego que hagas memoria de que he andado delante de ti en verdad y con íntegro corazón, y que he hecho las cosas que te agradan. Y lloró Ezequías con gran lloro.",
+					"number": 3,
+					"id": "d79831aa-0809-4935-b2e1-be99760ecbf5"
+				},
+				{
+					"verse": "Y antes que Isaías saliese hasta la mitad del patio, vino palabra de Jehová a Isaías, diciendo:",
+					"number": 4,
+					"id": "f5c049b5-5f06-4dcf-9e70-d53665476a76"
+				},
+				{
+					"verse": "Vuelve, y di a Ezequías, príncipe de mi pueblo: Así dice Jehová, el Dios de David tu padre: Yo he oído tu oración, y he visto tus lágrimas; he aquí que yo te sano; al tercer día subirás a la casa de Jehová.",
+					"number": 5,
+					"id": "c5c76912-f74d-4f14-848e-42067780a80d"
+				},
+				{
+					"verse": "Y añadiré a tus días quince años, y te libraré a ti y a esta ciudad de mano del rey de Asiria; y ampararé esta ciudad por amor a mí mismo, y por amor a David mi siervo.",
+					"number": 6,
+					"id": "2f2d9bb2-c4f9-4558-9cda-fd035be802f3"
+				},
+				{
+					"verse": "Y dijo Isaías: Tomad masa de higos. Y tomándola, la pusieron sobre la llaga, y sanó.",
+					"number": 7,
+					"id": "9c6801f6-961c-4f87-946d-6955d8dc08a5"
+				},
+				{
+					"verse": "Y Ezequías había dicho a Isaías: ¿Qué señal tendré de que Jehová me sanará, y que subiré a la casa de Jehová al tercer día?",
+					"number": 8,
+					"id": "b3b422d1-baab-4f67-9c06-52c6d3f65bd8"
+				},
+				{
+					"verse": "Respondió Isaías: Esta señal tendrás de Jehová, de que hará Jehová esto que ha dicho: ¿Avanzará la sombra diez grados, o retrocederá diez grados?",
+					"number": 9,
+					"id": "e5594b98-2245-4792-9ae6-179fbf96ffd8"
+				},
+				{
+					"verse": "Y Ezequías respondió: Fácil cosa es que la sombra decline diez grados; pero no que la sombra vuelva atrás diez grados.",
+					"number": 10,
+					"id": "b8836ba7-b7bc-4e9e-b462-3788cb431eaa"
+				},
+				{
+					"verse": "Entonces el profeta Isaías clamó a Jehová; e hizo volver la sombra por los grados que había descendido en el reloj de Acaz, diez grados atrás.",
+					"number": 11,
+					"id": "d3ed6edf-a771-4bfa-b6a7-fd0f9f3ec28e"
+				},
+				{
+					"verse": "En aquel tiempo Merodac-baladán hijo de Baladán, rey de Babilonia, envió mensajeros con cartas y presentes a Ezequías, porque había oído que Ezequías había caído enfermo.",
+					"number": 12,
+					"study": "Ezequías recibe a los enviados de Babilonia",
+					"id": "c070374f-ab55-4498-a523-117cd7a8fbe0"
+				},
+				{
+					"verse": "Y Ezequías los oyó, y les mostró toda la casa de sus tesoros, plata, oro, y especias, y ungüentos preciosos, y la casa de sus armas, y todo lo que había en sus tesoros; ninguna cosa quedó que Ezequías no les mostrase, así en su casa como en todos sus dominios.",
+					"number": 13,
+					"id": "c694a8ec-0665-4159-9d56-984bd6fd2e92"
+				},
+				{
+					"verse": "Entonces el profeta Isaías vino al rey Ezequías, y le dijo: ¿Qué dijeron aquellos varones, y de dónde vinieron a ti? Y Ezequías le respondió: De lejanas tierras han venido, de Babilonia.",
+					"number": 14,
+					"id": "7c8ff648-0a6e-43d6-bbe1-f67ffd221eca"
+				},
+				{
+					"verse": "Y él le volvió a decir: ¿Qué vieron en tu casa? Y Ezequías respondió: Vieron todo lo que había en mi casa; nada quedó en mis tesoros que no les mostrase.",
+					"number": 15,
+					"id": "02977e77-7762-4b6d-805b-b117a3e38c02"
+				},
+				{
+					"verse": "Entonces Isaías dijo a Ezequías: Oye palabra de Jehová:",
+					"number": 16,
+					"id": "2bb58b92-39e0-40e3-95ab-adc8dc3059df"
+				},
+				{
+					"verse": "He aquí vienen días en que todo lo que está en tu casa, y todo lo que tus padres han atesorado hasta hoy, será llevado a Babilonia, sin quedar nada, dijo Jehová.",
+					"number": 17,
+					"id": "3e3eede4-a735-4800-9a44-2fb09f118c3c"
+				},
+				{
+					"verse": "Y de tus hijos que saldrán de ti, que habrás engendrado, tomarán, y serán eunucos en el palacio del rey de Babilonia.",
+					"number": 18,
+					"id": "6ca50ec7-a551-41c2-8045-5b522c278b32"
+				},
+				{
+					"verse": "Entonces Ezequías dijo a Isaías: La palabra de Jehová que has hablado, es buena. Después dijo: Habrá al menos paz y seguridad en mis días.",
+					"number": 19,
+					"id": "9e7c8650-46cf-40d5-b054-e7babb8afae7"
+				},
+				{
+					"verse": "Los demás hechos de Ezequías, y todo su poderío, y cómo hizo el estanque y el conducto, y metió las aguas en la ciudad, ¿no está escrito en el libro de las crónicas de los reyes de Judá?",
+					"number": 20,
+					"study": "Muerte de Ezequías",
+					"id": "e3e2b8d1-20e5-41ac-9b25-b4a0dea02071"
+				},
+				{
+					"verse": "Y durmió Ezequías con sus padres, y reinó en su lugar Manasés su hijo.",
+					"number": 21,
+					"id": "24ba40d0-f0a1-437a-a020-7668f35a592a"
+				}
+			]
+		},
+		{
+			"chapter": "21",
+			"vers": [
+				{
+					"verse": "De doce años era Manasés cuando comenzó a reinar, y reinó en Jerusalén cincuenta y cinco años; el nombre de su madre fue Hepsiba.",
+					"number": 1,
+					"study": "Reinado de Manasés",
+					"id": "fccc592d-f784-4225-963b-951d8c792e8f"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, según las abominaciones de las naciones que Jehová había echado de delante de los hijos de Israel.",
+					"number": 2,
+					"id": "6915ca2b-2556-4df3-a1a3-4e66683037fe"
+				},
+				{
+					"verse": "Porque volvió a edificar los lugares altos que Ezequías su padre había derribado, y levantó altares a Baal, e hizo una imagen de Asera, como había hecho Acab rey de Israel; y adoró a todo el ejército de los cielos, y rindió culto a aquellas cosas.",
+					"number": 3,
+					"id": "b610f531-1c00-4445-8e1e-82fe5b77fa7f"
+				},
+				{
+					"verse": "Asimismo edificó altares en la casa de Jehová, de la cual Jehová había dicho: Yo pondré mi nombre en Jerusalén.",
+					"number": 4,
+					"id": "a04d90a1-c8ca-401b-ad35-414d8fd5c000"
+				},
+				{
+					"verse": "Y edificó altares para todo el ejército de los cielos en los dos atrios de la casa de Jehová.",
+					"number": 5,
+					"id": "2149f5e9-f2eb-4799-af6a-3fb344491d30"
+				},
+				{
+					"verse": "Y pasó a su hijo por fuego, y se dio a observar los tiempos, y fue agorero, e instituyó encantadores y adivinos, multiplicando así el hacer lo malo ante los ojos de Jehová, para provocarlo a ira.",
+					"number": 6,
+					"id": "bbd467aa-1bc2-4378-b0aa-206feff989c3"
+				},
+				{
+					"verse": "Y puso una imagen de Asera que él había hecho, en la casa de la cual Jehová había dicho a David y a Salomón su hijo: Yo pondré mi nombre para siempre en esta casa, y en Jerusalén, a la cual escogí de todas las tribus de Israel;",
+					"number": 7,
+					"id": "afe9c90a-c6e6-4f2e-a245-e8b45ebb3197"
+				},
+				{
+					"verse": "y no volveré a hacer que el pie de Israel sea movido de la tierra que di a sus padres, con tal que guarden y hagan conforme a todas las cosas que yo les he mandado, y conforme a toda la ley que mi siervo Moisés les mandó.",
+					"number": 8,
+					"id": "748260f8-5ae7-43b7-859c-289fbe51e0cc"
+				},
+				{
+					"verse": "Mas ellos no escucharon; y Manasés los indujo a que hiciesen más mal que las naciones que Jehová destruyó delante de los hijos de Israel.",
+					"number": 9,
+					"id": "ad46aa46-af9a-4c11-8fa0-4a9e2fd27257"
+				},
+				{
+					"verse": "Habló, pues, Jehová por medio de sus siervos los profetas, diciendo:",
+					"number": 10,
+					"id": "ed5e6c9a-767b-4125-9b3a-a50aeec0907d"
+				},
+				{
+					"verse": "Por cuanto Manasés rey de Judá ha hecho estas abominaciones, y ha hecho más mal que todo lo que hicieron los amorreos que fueron antes de él, y también ha hecho pecar a Judá con sus ídolos;",
+					"number": 11,
+					"id": "19cbe486-e38b-47e0-a1cd-c3d9efccec3a"
+				},
+				{
+					"verse": "por tanto, así ha dicho Jehová el Dios de Israel: He aquí yo traigo tal mal sobre Jerusalén y sobre Judá, que al que lo oyere le retiñirán ambos oídos.",
+					"number": 12,
+					"id": "aa06593c-cc25-46ee-88e0-12f55f8d848b"
+				},
+				{
+					"verse": "Y extenderé sobre Jerusalén el cordel de Samaria y la plomada de la casa de Acab; y limpiaré a Jerusalén como se limpia un plato, que se friega y se vuelve boca abajo.",
+					"number": 13,
+					"id": "c61f71b0-faca-4f1c-9696-fd1e93254b04"
+				},
+				{
+					"verse": "Y desampararé el resto de mi heredad, y lo entregaré en manos de sus enemigos; y serán para presa y despojo de todos sus adversarios;",
+					"number": 14,
+					"id": "0d30ff02-011d-4290-bab6-e6b58e3ef986"
+				},
+				{
+					"verse": "por cuanto han hecho lo malo ante mis ojos, y me han provocado a ira, desde el día que sus padres salieron de Egipto hasta hoy.",
+					"number": 15,
+					"id": "cea8393d-80c1-4e73-a531-8395ba0edd3a"
+				},
+				{
+					"verse": "Fuera de esto, derramó Manasés mucha sangre inocente en gran manera, hasta llenar a Jerusalén de extremo a extremo; además de su pecado con que hizo pecar a Judá, para que hiciese lo malo ante los ojos de Jehová.",
+					"number": 16,
+					"id": "39e87d9e-286f-420d-adf7-894741822216"
+				},
+				{
+					"verse": "Los demás hechos de Manasés, y todo lo que hizo, y el pecado que cometió, ¿no está todo escrito en el libro de las crónicas de los reyes de Judá?",
+					"number": 17,
+					"id": "4669ff48-6663-4fe1-9f27-8f4eed2cb5d1"
+				},
+				{
+					"verse": "Y durmió Manasés con sus padres, y fue sepultado en el huerto de su casa, en el huerto de Uza, y reinó en su lugar Amón su hijo.",
+					"number": 18,
+					"id": "7dbe5abb-eb3a-4f9f-8b3f-de63ff41754a"
+				},
+				{
+					"verse": "De veintidós años era Amón cuando comenzó a reinar, y reinó dos años en Jerusalén. El nombre de su madre fue Mesulemet hija de Haruz, de Jotba.",
+					"number": 19,
+					"study": "Reinado de Amón",
+					"id": "2f43daf8-649a-47b3-bb07-cdccd46aaf86"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, como había hecho Manasés su padre.",
+					"number": 20,
+					"id": "59df2cc6-b6ca-4169-a0ef-8f2353a1f4f5"
+				},
+				{
+					"verse": "Y anduvo en todos los caminos en que su padre anduvo, y sirvió a los ídolos a los cuales había servido su padre, y los adoró;",
+					"number": 21,
+					"id": "b632c67b-f755-4b6a-b406-5c3b21452cec"
+				},
+				{
+					"verse": "y dejó a Jehová el Dios de sus padres, y no anduvo en el camino de Jehová.",
+					"number": 22,
+					"id": "36bad2e3-4bf8-46b9-99a2-e514be15148c"
+				},
+				{
+					"verse": "Y los siervos de Amón conspiraron contra él, y mataron al rey en su casa.",
+					"number": 23,
+					"id": "9d759c18-1163-4a4b-9ec5-7f3a2c1a66dd"
+				},
+				{
+					"verse": "Entonces el pueblo de la tierra mató a todos los que habían conspirado contra el rey Amón; y puso el pueblo de la tierra por rey en su lugar a Josías su hijo.",
+					"number": 24,
+					"id": "9343f63e-0e04-40c5-9361-1a76aeefba4c"
+				},
+				{
+					"verse": "Los demás hechos de Amón, ¿no están todos escritos en el libro de las crónicas de los reyes de Judá?",
+					"number": 25,
+					"id": "c1c03435-6ac0-4653-b87a-73a66f1accdc"
+				},
+				{
+					"verse": "Y fue sepultado en su sepulcro en el huerto de Uza, y reinó en su lugar Josías su hijo.",
+					"number": 26,
+					"id": "0eaf8268-3176-429f-b0c3-0f76f6c279c2"
+				}
+			]
+		},
+		{
+			"chapter": "22",
+			"vers": [
+				{
+					"verse": "Cuando Josías comenzó a reinar era de ocho años, y reinó en Jerusalén treinta y un años. El nombre de su madre fue Jedida hija de Adaía, de Boscat.",
+					"number": 1,
+					"study": "Reinado de Josías",
+					"id": "73456933-08bf-4905-afe6-c07c38202c28"
+				},
+				{
+					"verse": "E hizo lo recto ante los ojos de Jehová, y anduvo en todo el camino de David su padre, sin apartarse a derecha ni a izquierda.",
+					"number": 2,
+					"id": "9ffffc2e-9f43-4a99-b2e8-777d1e8c5455"
+				},
+				{
+					"verse": "A los dieciocho años del rey Josías, envió el rey a Safán hijo de Azalía, hijo de Mesulam, escriba, a la casa de Jehová, diciendo:",
+					"number": 3,
+					"study": "Hallazgo del libro de la ley",
+					"id": "941f5da9-4d1c-4fa9-86a1-a00fc2d791d3"
+				},
+				{
+					"verse": "Ve al sumo sacerdote Hilcías, y dile que recoja el dinero que han traído a la casa de Jehová, que han recogido del pueblo los guardianes de la puerta,",
+					"number": 4,
+					"id": "104fe5b0-6092-423f-9617-ba39e2c99f2f"
+				},
+				{
+					"verse": "y que lo pongan en manos de los que hacen la obra, que tienen a su cargo el arreglo de la casa de Jehová, y que lo entreguen a los que hacen la obra de la casa de Jehová, para reparar las grietas de la casa;",
+					"number": 5,
+					"id": "470ee88a-4629-415d-bf88-5b8290364d34"
+				},
+				{
+					"verse": "a los carpinteros, maestros y albañiles, para comprar madera y piedra de cantería para reparar la casa;",
+					"number": 6,
+					"id": "e5afcd08-fb42-4c57-a1b2-d88ef7670e0e"
+				},
+				{
+					"verse": "y que no se les tome cuenta del dinero cuyo manejo se les confiare, porque ellos proceden con honradez.",
+					"number": 7,
+					"id": "09deb274-6c97-4839-ace4-c06349e19ffc"
+				},
+				{
+					"verse": "Entonces dijo el sumo sacerdote Hilcías al escriba Safán: He hallado el libro de la ley en la casa de Jehová. E Hilcías dio el libro a Safán, y lo leyó.",
+					"number": 8,
+					"id": "fd8e6695-ea44-4d35-b80b-1e05be443c01"
+				},
+				{
+					"verse": "Viniendo luego el escriba Safán al rey, dio cuenta al rey y dijo: Tus siervos han recogido el dinero que se halló en el templo, y lo han entregado en poder de los que hacen la obra, que tienen a su cargo el arreglo de la casa de Jehová.",
+					"number": 9,
+					"id": "fc0627de-7770-4126-9752-c10325d047ba"
+				},
+				{
+					"verse": "Asimismo el escriba Safán declaró al rey, diciendo: El sacerdote Hilcías me ha dado un libro. Y lo leyó Safán delante del rey.",
+					"number": 10,
+					"id": "ccb6fc22-5ef5-4b04-b2b3-3f9343e08a39"
+				},
+				{
+					"verse": "Y cuando el rey hubo oído las palabras del libro de la ley, rasgó sus vestidos.",
+					"number": 11,
+					"id": "3c9c91d7-6399-47b9-a4fd-27901a84b196"
+				},
+				{
+					"verse": "Luego el rey dio orden al sacerdote Hilcías, a Ahicam hijo de Safán, a Acbor hijo de Micaías, al escriba Safán y a Asaías siervo del rey, diciendo:",
+					"number": 12,
+					"id": "008a84ef-f7dc-4d73-82ce-2e9e57973b59"
+				},
+				{
+					"verse": "Id y preguntad a Jehová por mí, y por el pueblo, y por todo Judá, acerca de las palabras de este libro que se ha hallado; porque grande es la ira de Jehová que se ha encendido contra nosotros, por cuanto nuestros padres no escucharon las palabras de este libro, para hacer conforme a todo lo que nos fue escrito.",
+					"number": 13,
+					"id": "e6e55d1f-27b7-4b25-ac43-baadefdac22a"
+				},
+				{
+					"verse": "Entonces fueron el sacerdote Hilcías, y Ahicam, Acbor, Safán y Asaías, a la profetisa Hulda, mujer de Salum hijo de Ticva, hijo de Harhas, guarda de las vestiduras, la cual moraba en Jerusalén en la segunda parte de la ciudad, y hablaron con ella.",
+					"number": 14,
+					"id": "a8c0ae0c-41d9-46a2-a101-6f60ba4d04c2"
+				},
+				{
+					"verse": "Y ella les dijo: Así ha dicho Jehová el Dios de Israel: Decid al varón que os envió a mí:",
+					"number": 15,
+					"id": "57d5c98a-7cfb-457c-8af1-fae74300c730"
+				},
+				{
+					"verse": "Así dijo Jehová: He aquí yo traigo sobre este lugar, y sobre los que en él moran, todo el mal de que habla este libro que ha leído el rey de Judá;",
+					"number": 16,
+					"id": "59864f4c-3827-4766-b3c0-375562524b66"
+				},
+				{
+					"verse": "por cuanto me dejaron a mí, y quemaron incienso a dioses ajenos, provocándome a ira con toda la obra de sus manos; mi ira se ha encendido contra este lugar, y no se apagará.",
+					"number": 17,
+					"id": "6b8828cd-715b-4fd6-976f-4b1ca9cab219"
+				},
+				{
+					"verse": "Mas al rey de Judá que os ha enviado para que preguntaseis a Jehová, diréis así: Así ha dicho Jehová el Dios de Israel: Por cuanto oíste las palabras del libro,",
+					"number": 18,
+					"id": "b85b3ed2-bd18-479d-873d-8d35eb614eb1"
+				},
+				{
+					"verse": "y tu corazón se enterneció, y te humillaste delante de Jehová, cuando oíste lo que yo he pronunciado contra este lugar y contra sus moradores, que vendrán a ser asolados y malditos, y rasgaste tus vestidos, y lloraste en mi presencia, también yo te he oído, dice Jehová.",
+					"number": 19,
+					"id": "5ba73520-9948-4d8e-bceb-0cf766073411"
+				},
+				{
+					"verse": "Por tanto, he aquí yo te recogeré con tus padres, y serás llevado a tu sepulcro en paz, y no verán tus ojos todo el mal que yo traigo sobre este lugar. Y ellos dieron al rey la respuesta.",
+					"number": 20,
+					"id": "7e795c17-2243-4be3-9134-07e3732dfa6f"
+				}
+			]
+		},
+		{
+			"chapter": "23",
+			"vers": [
+				{
+					"verse": "Entonces el rey mandó reunir con él a todos los ancianos de Judá y de Jerusalén.",
+					"number": 1,
+					"id": "48cfa4ff-915d-4099-89e8-1a6a1a062bb8"
+				},
+				{
+					"verse": "Y subió el rey a la casa de Jehová con todos los varones de Judá, y con todos los moradores de Jerusalén, con los sacerdotes y profetas y con todo el pueblo, desde el más chico hasta el más grande; y leyó, oyéndolo ellos, todas las palabras del libro del pacto que había sido hallado en la casa de Jehová.",
+					"number": 2,
+					"id": "f8fb1f8f-db25-4b38-939b-21dc1baf4711"
+				},
+				{
+					"verse": "Y poniéndose el rey en pie junto a la columna, hizo pacto delante de Jehová, de que irían en pos de Jehová, y guardarían sus mandamientos, sus testimonios y sus estatutos, con todo el corazón y con toda el alma, y que cumplirían las palabras del pacto que estaban escritas en aquel libro. Y todo el pueblo confirmó el pacto.",
+					"number": 3,
+					"id": "f0d401ce-d217-4890-987f-2908949f54c0"
+				},
+				{
+					"verse": "Entonces mandó el rey al sumo sacerdote Hilcías, a los sacerdotes de segundo orden, y a los guardianes de la puerta, que sacasen del templo de Jehová todos los utensilios que habían sido hechos para Baal, para Asera y para todo el ejército de los cielos; y los quemó fuera de Jerusalén en el campo del Cedrón, e hizo llevar las cenizas de ellos a Bet-el.",
+					"number": 4,
+					"study": "Reformas de Josías",
+					"id": "e6ca2e3a-eb32-4cef-b8fa-06fc4265c25c"
+				},
+				{
+					"verse": "Y quitó a los sacerdotes idólatras que habían puesto los reyes de Judá para que quemasen incienso en los lugares altos en las ciudades de Judá, y en los alrededores de Jerusalén; y asimismo a los que quemaban incienso a Baal, al sol y a la luna, y a los signos del zodíaco, y a todo el ejército de los cielos.",
+					"number": 5,
+					"id": "ca9ea751-de8d-40b8-b8a8-8fd436edd211"
+				},
+				{
+					"verse": "Hizo también sacar la imagen de Asera fuera de la casa de Jehová, fuera de Jerusalén, al valle del Cedrón, y la quemó en el valle del Cedrón, y la convirtió en polvo, y echó el polvo sobre los sepulcros de los hijos del pueblo.",
+					"number": 6,
+					"id": "ebaf232e-f49d-4d4a-b861-ee9b98e677e5"
+				},
+				{
+					"verse": "Además derribó los lugares de prostitución idolátrica que estaban en la casa de Jehová, en los cuales tejían las mujeres tiendas para Asera.",
+					"number": 7,
+					"id": "7a9951ab-9f25-48d5-a179-2ccba822b8ef"
+				},
+				{
+					"verse": "E hizo venir todos los sacerdotes de las ciudades de Judá, y profanó los lugares altos donde los sacerdotes quemaban incienso, desde Geba hasta Beerseba; y derribó los altares de las puertas que estaban a la entrada de la puerta de Josué, gobernador de la ciudad, que estaban a la mano izquierda, a la puerta de la ciudad.",
+					"number": 8,
+					"id": "39a0a2c3-ff73-466a-bbfb-81a178452e46"
+				},
+				{
+					"verse": "Pero los sacerdotes de los lugares altos no subían al altar de Jehová en Jerusalén, sino que comían panes sin levadura entre sus hermanos.",
+					"number": 9,
+					"id": "a1554c11-fc2b-4fbb-b786-aaf073918830"
+				},
+				{
+					"verse": "Asimismo profanó a Tofet, que está en el valle del hijo de Hinom, para que ninguno pasase su hijo o su hija por fuego a Moloc.",
+					"number": 10,
+					"id": "02b59f0d-4c04-4c57-89ca-adc7a0bbc9f8"
+				},
+				{
+					"verse": "Quitó también los caballos que los reyes de Judá habían dedicado al sol a la entrada del templo de Jehová, junto a la cámara de Natán-melec eunuco, el cual tenía a su cargo los ejidos; y quemó al fuego los carros del sol.",
+					"number": 11,
+					"id": "7746241f-fbdb-4e63-b615-0b3f3bf64bee"
+				},
+				{
+					"verse": "Derribó además el rey los altares que estaban sobre la azotea de la sala de Acaz, que los reyes de Judá habían hecho, y los altares que había hecho Manasés en los dos atrios de la casa de Jehová; y de allí corrió y arrojó el polvo al arroyo del Cedrón.",
+					"number": 12,
+					"id": "7f5b0725-f95e-4ac0-95ab-792582ef61cd"
+				},
+				{
+					"verse": "Asimismo profanó el rey los lugares altos que estaban delante de Jerusalén, a la mano derecha del monte de la destrucción, los cuales Salomón rey de Israel había edificado a Astoret ídolo abominable de los sidonios, a Quemos ídolo abominable de Moab, y a Milcom ídolo abominable de los hijos de Amón.",
+					"number": 13,
+					"id": "b9c6ad26-099a-487d-92e3-4b8597c0bf36"
+				},
+				{
+					"verse": "Y quebró las estatuas, y derribó las imágenes de Asera, y llenó el lugar de ellos de huesos de hombres.",
+					"number": 14,
+					"id": "d2a8ad24-cc8e-49aa-a9dd-5698fd29b155"
+				},
+				{
+					"verse": "Igualmente el altar que estaba en Bet-el, y el lugar alto que había hecho Jeroboam hijo de Nabat, el que hizo pecar a Israel; aquel altar y el lugar alto destruyó, y lo quemó, y lo hizo polvo, y puso fuego a la imagen de Asera.",
+					"number": 15,
+					"id": "5583e662-c8f0-41d6-9ce4-3a583712da3a"
+				},
+				{
+					"verse": "Y se volvió Josías, y viendo los sepulcros que estaban allí en el monte, envió y sacó los huesos de los sepulcros, y los quemó sobre el altar para contaminarlo, conforme a la palabra de Jehová que había profetizado el varón de Dios, el cual había anunciado esto.",
+					"number": 16,
+					"id": "fc8a1e78-7fb9-414e-a6a6-c62eb1095e62"
+				},
+				{
+					"verse": "Después dijo: ¿Qué monumento es este que veo? Y los de la ciudad le respondieron: Este es el sepulcro del varón de Dios que vino de Judá, y profetizó estas cosas que tú has hecho sobre el altar de Bet-el.",
+					"number": 17,
+					"id": "426bfa40-ddfd-4c61-b221-e13a01bf5239"
+				},
+				{
+					"verse": "Y él dijo: Dejadlo; ninguno mueva sus huesos; y así fueron preservados sus huesos, y los huesos del profeta que había venido de Samaria.",
+					"number": 18,
+					"id": "6ece9df0-bb8b-4ab0-94dc-53188395f9a3"
+				},
+				{
+					"verse": "Y todas las casas de los lugares altos que estaban en las ciudades de Samaria, las cuales habían hecho los reyes de Israel para provocar a ira, las quitó también Josías, e hizo de ellas como había hecho en Bet-el.",
+					"number": 19,
+					"id": "029adcd3-c02d-45d9-a1da-715a20438b34"
+				},
+				{
+					"verse": "Mató además sobre los altares a todos los sacerdotes de los lugares altos que allí estaban, y quemó sobre ellos huesos de hombres, y volvió a Jerusalén.",
+					"number": 20,
+					"id": "d087ead9-163f-440e-8ebb-2cbcdf2553aa"
+				},
+				{
+					"verse": "Entonces mandó el rey a todo el pueblo, diciendo: Haced la pascua a Jehová vuestro Dios, conforme a lo que está escrito en el libro de este pacto.",
+					"number": 21,
+					"study": "Josías celebra la pascua",
+					"id": "9c6fac46-de26-4ffe-83fa-91f78c94448d"
+				},
+				{
+					"verse": "No había sido hecha tal pascua desde los tiempos en que los jueces gobernaban a Israel, ni en todos los tiempos de los reyes de Israel y de los reyes de Judá.",
+					"number": 22,
+					"id": "ee73bd41-698c-4892-a95b-d1bfdd0b84bd"
+				},
+				{
+					"verse": "A los dieciocho años del rey Josías fue hecha aquella pascua a Jehová en Jerusalén.",
+					"number": 23,
+					"id": "6d923305-a5ff-4efc-8369-a36441a63940"
+				},
+				{
+					"verse": "Asimismo barrió Josías a los encantadores, adivinos y terafines, y todas las abominaciones que se veían en la tierra de Judá y en Jerusalén, para cumplir las palabras de la ley que estaban escritas en el libro que el sacerdote Hilcías había hallado en la casa de Jehová.",
+					"number": 24,
+					"study": "Persiste la ira de Jehová contra Judá",
+					"id": "552f6a97-93e7-43f6-900a-5177c9f3f1ce"
+				},
+				{
+					"verse": "No hubo otro rey antes de él, que se convirtiese a Jehová de todo su corazón, de toda su alma y de todas sus fuerzas, conforme a toda la ley de Moisés; ni después de él nació otro igual.",
+					"number": 25,
+					"id": "0fea4d79-5104-4192-a561-3bc785e85df8"
+				},
+				{
+					"verse": "Con todo eso, Jehová no desistió del ardor con que su gran ira se había encendido contra Judá, por todas las provocaciones con que Manasés le había irritado.",
+					"number": 26,
+					"id": "6dd29e14-0dbd-42f3-97c8-d174c1c4b16c"
+				},
+				{
+					"verse": "Y dijo Jehová: También quitaré de mi presencia a Judá, como quité a Israel, y desecharé a esta ciudad que había escogido, a Jerusalén, y a la casa de la cual había yo dicho: Mi nombre estará allí.",
+					"number": 27,
+					"id": "f6bf4c61-ee76-47be-a7d6-be597552e481"
+				},
+				{
+					"verse": "Los demás hechos de Josías, y todo lo que hizo, ¿no está todo escrito en el libro de las crónicas de los reyes de Judá?",
+					"number": 28,
+					"study": "Muerte de Josías",
+					"id": "1a3d6064-493b-4ec0-89ab-1aef1cd4ae3d"
+				},
+				{
+					"verse": "En aquellos días Faraón Necao rey de Egipto subió contra el rey de Asiria al río Eufrates, y salió contra él el rey Josías; pero aquél, así que le vio, lo mató en Meguido.",
+					"number": 29,
+					"id": "38cd8827-a474-4ac1-8c4e-fcdcaaa4bb35"
+				},
+				{
+					"verse": "Y sus siervos lo pusieron en un carro, y lo trajeron muerto de Meguido a Jerusalén, y lo sepultaron en su sepulcro. Entonces el pueblo de la tierra tomó a Joacaz hijo de Josías, y lo ungieron y lo pusieron por rey en lugar de su padre.",
+					"number": 30,
+					"id": "a77dfe70-ce01-46b6-9a58-1a805d615c43"
+				},
+				{
+					"verse": "De veintitrés años era Joacaz cuando comenzó a reinar, y reinó tres meses en Jerusalén. El nombre de su madre fue Hamutal hija de Jeremías, de Libna.",
+					"number": 31,
+					"study": "Reinado y destronamiento de Joacaz",
+					"id": "b8d2dfc0-5412-4703-9207-a616eacda8af"
+				},
+				{
+					"verse": "Y él hizo lo malo ante los ojos de Jehová, conforme a todas las cosas que sus padres habían hecho.",
+					"number": 32,
+					"id": "55af46cf-b72b-47bb-b088-383011f8b065"
+				},
+				{
+					"verse": "Y lo puso preso Faraón Necao en Ribla en la provincia de Hamat, para que no reinase en Jerusalén; e impuso sobre la tierra una multa de cien talentos de plata,  y uno de oro.",
+					"number": 33,
+					"id": "f6f9b650-faef-4565-ac36-16ef2579d040"
+				},
+				{
+					"verse": "Entonces Faraón Necao puso por rey a Eliaquim hijo de Josías, en lugar de Josías su padre, y le cambió el nombre por el de Joacim; y tomó a Joacaz y lo llevó a Egipto, y murió allí.",
+					"number": 34,
+					"id": "6afb754b-d5bf-40d5-b0d4-d1634b036d3c"
+				},
+				{
+					"verse": "Y Joacim pagó a Faraón la plata y el oro; mas hizo avaluar la tierra para dar el dinero conforme al mandamiento de Faraón, sacando la plata y el oro del pueblo de la tierra, de cada uno según la estimación de su hacienda, para darlo a Faraón Necao.",
+					"number": 35,
+					"id": "958da560-48b2-4078-98e4-020c3176b841"
+				},
+				{
+					"verse": "De veinticinco años era Joacim cuando comenzó a reinar, y once años reinó en Jerusalén. El nombre de su madre fue Zebuda hija de Pedaías, de Ruma.",
+					"number": 36,
+					"study": "Reinado de Joacim",
+					"id": "8aca8aa3-e15d-4bfd-9bfc-2cb06ccde66d"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, conforme a todas las cosas que sus padres habían hecho.",
+					"number": 37,
+					"id": "d3a0d5a0-37ef-4100-a61d-a47c80ad83a3"
+				}
+			]
+		},
+		{
+			"chapter": "24",
+			"vers": [
+				{
+					"verse": "En su tiempo subió en campaña Nabucodonosor rey de Babilonia. Joacim vino a ser su siervo por tres años, pero luego volvió y se rebeló contra él.",
+					"number": 1,
+					"id": "7057c4eb-0e46-4407-9405-bf977697164c"
+				},
+				{
+					"verse": "Pero Jehová envió contra Joacim tropas de caldeos, tropas de sirios, tropas de moabitas y tropas de amonitas, los cuales envió contra Judá para que la destruyesen, conforme a la palabra de Jehová que había hablado por sus siervos los profetas.",
+					"number": 2,
+					"id": "f0dce973-c0d6-4fab-a596-0815024d5054"
+				},
+				{
+					"verse": "Ciertamente vino esto contra Judá por mandato de Jehová, para quitarla de su presencia, por los pecados de Manasés, y por todo lo que él hizo;",
+					"number": 3,
+					"id": "d647f8bb-034f-45b6-8b46-d8303aaa9b41"
+				},
+				{
+					"verse": "asimismo por la sangre inocente que derramó, pues llenó a Jerusalén de sangre inocente; Jehová, por tanto, no quiso perdonar.",
+					"number": 4,
+					"id": "2e8e6f3f-832c-42ec-a8e6-a0483ac2b4d5"
+				},
+				{
+					"verse": "Los demás hechos de Joacim, y todo lo que hizo, ¿no está escrito en el libro de las crónicas de los reyes de Judá?",
+					"number": 5,
+					"id": "7988e617-c332-4296-b40b-09d82227b666"
+				},
+				{
+					"verse": "Y durmió Joacim con sus padres, y reinó en su lugar Joaquín su hijo.",
+					"number": 6,
+					"id": "03fb859a-283f-4b8b-99b6-a402746bbbe4"
+				},
+				{
+					"verse": "Y nunca más el rey de Egipto salió de su tierra; porque el rey de Babilonia le tomó todo lo que era suyo desde el río de Egipto hasta el río Eufrates.",
+					"number": 7,
+					"id": "a0b2280e-3c55-4688-a508-59db84f22a5f"
+				},
+				{
+					"verse": "De dieciocho años era Joaquín cuando comenzó a reinar, y reinó en Jerusalén tres meses. El nombre de su madre fue Nehusta hija de Elnatán, de Jerusalén.",
+					"number": 8,
+					"study": "Joaquín y los pobres son llevados cautivos a Babilonia",
+					"id": "35f78628-4376-4c59-9372-15f5473693d9"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, conforme a todas las cosas que había hecho su padre.",
+					"number": 9,
+					"id": "9222a10b-4cae-499c-ab6f-6a1eca723447"
+				},
+				{
+					"verse": "En aquel tiempo subieron contra Jerusalén los siervos de Nabucodonosor rey de Babilonia, y la ciudad fue sitiada.",
+					"number": 10,
+					"id": "70d98e66-0fd3-4005-b8e9-ece113a09994"
+				},
+				{
+					"verse": "Vino también Nabucodonosor rey de Babilonia contra la ciudad, cuando sus siervos la tenían sitiada.",
+					"number": 11,
+					"id": "7932d84c-ba88-47fb-9d42-469b0ab79e1f"
+				},
+				{
+					"verse": "Entonces salió Joaquín rey de Judá al rey de Babilonia, él y su madre, sus siervos, sus príncipes y sus oficiales; y lo prendió el rey de Babilonia en el octavo año de su reinado.",
+					"number": 12,
+					"id": "de098837-7987-41bc-83a5-b3b63a774915"
+				},
+				{
+					"verse": "Y sacó de allí todos los tesoros de la casa de Jehová, y los tesoros de la casa real, y rompió en pedazos todos los utensilios de oro que había hecho Salomón rey de Israel en la casa de Jehová, como Jehová había dicho.",
+					"number": 13,
+					"id": "ac2498d6-173f-4a45-bb96-9f403ccf3a32"
+				},
+				{
+					"verse": "Y llevó en cautiverio a toda Jerusalén, a todos los príncipes, y a todos los hombres valientes, hasta diez mil cautivos, y a todos los artesanos y herreros; no quedó nadie, excepto los pobres del pueblo de la tierra.",
+					"number": 14,
+					"id": "22cd63a4-c77b-4d8a-8b91-f7ad3a587135"
+				},
+				{
+					"verse": "Asimismo llevó cautivos a Babilonia a Joaquín, a la madre del rey, a las mujeres del rey, a sus oficiales y a los poderosos de la tierra; cautivos los llevó de Jerusalén a Babilonia.",
+					"number": 15,
+					"id": "71f4da5e-453c-478e-ba9d-b02361bf7fb8"
+				},
+				{
+					"verse": "A todos los hombres de guerra, que fueron siete mil, y a los artesanos y herreros, que fueron mil, y a todos los valientes para hacer la guerra, llevó cautivos el rey de Babilonia.",
+					"number": 16,
+					"id": "27af5fc9-ab00-457e-827a-571102062164"
+				},
+				{
+					"verse": "Y el rey de Babilonia puso por rey en lugar de Joaquín a Matanías su tío, y le cambió el nombre por el de Sedequías.",
+					"number": 17,
+					"id": "cdc10f7c-9f5f-4e39-82f1-c80d30ac767c"
+				},
+				{
+					"verse": "De veintiún años era Sedequías cuando comenzó a reinar, y reinó en Jerusalén once años. El nombre de su madre fue Hamutal hija de Jeremías, de Libna.",
+					"number": 18,
+					"study": "Reinado de Sedequías",
+					"id": "96d5f18b-1883-46d8-a721-89c122e39e40"
+				},
+				{
+					"verse": "E hizo lo malo ante los ojos de Jehová, conforme a todo lo que había hecho Joacim.",
+					"number": 19,
+					"id": "b222f9d3-7850-41bd-b9a5-a5cbc4e22eb2"
+				},
+				{
+					"verse": "Vino, pues, la ira de Jehová contra Jerusalén y Judá, hasta que los echó de su presencia. Y Sedequías se rebeló contra el rey de Babilonia.",
+					"number": 20,
+					"id": "b21cc77e-f026-4325-b66d-b60a01bde503"
+				}
+			]
+		},
+		{
+			"chapter": "25",
+			"vers": [
+				{
+					"verse": "Aconteció a los nueve años de su reinado, en el mes décimo, a los diez días del mes, que Nabucodonosor rey de Babilonia vino con todo su ejército contra Jerusalén, y la sitió, y levantó torres contra ella alrededor.",
+					"number": 1,
+					"study": "Caída de Jerusalén",
+					"id": "d66bae78-4132-4375-abd5-03606f2077b3"
+				},
+				{
+					"verse": "Y estuvo la ciudad sitiada hasta el año undécimo del rey Sedequías.",
+					"number": 2,
+					"id": "259a7081-81bf-4650-b5ac-6919a73fb49e"
+				},
+				{
+					"verse": "A los nueve días del cuarto mes prevaleció el hambre en la ciudad, hasta que no hubo pan para el pueblo de la tierra.",
+					"number": 3,
+					"id": "856860d9-bf90-4ea9-8a92-12ae505309f6"
+				},
+				{
+					"verse": "Abierta ya una brecha en el muro de la ciudad, huyeron de noche todos los hombres de guerra por el camino de la puerta que estaba entre los dos muros, junto a los huertos del rey, estando los caldeos alrededor de la ciudad; y el rey se fue por el camino del Arabá.",
+					"number": 4,
+					"id": "caccc91b-9a55-4559-9c89-c6d0cc8afc4e"
+				},
+				{
+					"verse": "Y el ejército de los caldeos siguió al rey, y lo apresó en las llanuras de Jericó, habiendo sido dispersado todo su ejército.",
+					"number": 5,
+					"id": "2348edf4-7d98-401a-bdc3-b1c47dd3709f"
+				},
+				{
+					"verse": "Preso, pues, el rey, le trajeron al rey de Babilonia en Ribla, y pronunciaron contra él sentencia.",
+					"number": 6,
+					"id": "7d35aba9-7cd1-4c47-a870-93500e55774b"
+				},
+				{
+					"verse": "Degollaron a los hijos de Sedequías en presencia suya, y a Sedequías le sacaron los ojos, y atado con cadenas lo llevaron a Babilonia.",
+					"number": 7,
+					"id": "5a0e1592-acd4-4a5a-8a9b-3808603df2c4"
+				},
+				{
+					"verse": "En el mes quinto, a los siete días del mes, siendo el año diecinueve de Nabucodonosor rey de Babilonia, vino a Jerusalén Nabuzaradán, capitán de la guardia, siervo del rey de Babilonia.",
+					"number": 8,
+					"study": "Cautividad de Judá",
+					"id": "053865a0-8866-4c5e-9ecd-1bd9c42b9b85"
+				},
+				{
+					"verse": "Y quemó la casa de Jehová, y la casa del rey, y todas las casas de Jerusalén; y todas las casas de los príncipes quemó a fuego.",
+					"number": 9,
+					"id": "cdca3676-fa62-43b0-b158-1936af93a2f6"
+				},
+				{
+					"verse": "Y todo el ejército de los caldeos que estaba con el capitán de la guardia, derribó los muros alrededor de Jerusalén.",
+					"number": 10,
+					"id": "711314ea-c84a-4b03-99ee-1b570c2ffa9e"
+				},
+				{
+					"verse": "Y a los del pueblo que habían quedado en la ciudad, a los que se habían pasado al rey de Babilonia, y a los que habían quedado de la gente común, los llevó cautivos Nabuzaradán, capitán de la guardia.",
+					"number": 11,
+					"id": "3b83b844-50ea-4212-becb-2b4bb71bd8b4"
+				},
+				{
+					"verse": "Mas de los pobres de la tierra dejó Nabuzaradán, capitán de la guardia, para que labrasen las viñas y la tierra.",
+					"number": 12,
+					"id": "37f7f74b-d9e9-4d94-895d-f9e2f1fbf4cc"
+				},
+				{
+					"verse": "Y quebraron los caldeos las columnas de bronce que estaban en la casa de Jehová, y las basas, y el mar de bronce que estaba en la casa de Jehová, y llevaron el bronce a Babilonia.",
+					"number": 13,
+					"id": "dc023cd1-ce34-484c-935e-d13ebd5dc15f"
+				},
+				{
+					"verse": "Llevaron también los calderos, las paletas, las despabiladeras, los cucharones, y todos los utensilios de bronce con que ministraban;",
+					"number": 14,
+					"id": "95a79257-21d8-4fbb-b408-07d70c2377ad"
+				},
+				{
+					"verse": "incensarios, cuencos, los que de oro, en oro, y los que de plata, en plata; todo lo llevó el capitán de la guardia.",
+					"number": 15,
+					"id": "3d35e6e8-d124-485c-807f-07c095f13bf8"
+				},
+				{
+					"verse": "Las dos columnas, un mar, y las basas que Salomón había hecho para la casa de Jehová; no fue posible pesar todo esto.",
+					"number": 16,
+					"id": "f9e3b1f1-b0cf-4db2-b604-ca34f3b96ae0"
+				},
+				{
+					"verse": "La altura de una columna era de dieciocho codos,  y tenía encima un capitel de bronce; la altura del capitel era de tres codos, y sobre el capitel había una red y granadas alrededor, todo de bronce; e igual labor había en la otra columna con su red.",
+					"number": 17,
+					"id": "aa227199-cd53-4e54-852d-92d01daf2b63"
+				},
+				{
+					"verse": "Tomó entonces el capitán de la guardia al primer sacerdote Seraías, al segundo sacerdote Sofonías, y tres guardas de la vajilla;",
+					"number": 18,
+					"id": "272dab78-5989-48ca-957b-9bc9df3b2372"
+				},
+				{
+					"verse": "y de la ciudad tomó un oficial que tenía a su cargo los hombres de guerra, y cinco varones de los consejeros del rey, que estaban en la ciudad, el principal escriba del ejército, que llevaba el registro de la gente del país, y sesenta varones del pueblo de la tierra, que estaban en la ciudad.",
+					"number": 19,
+					"id": "bb641cbf-e83f-4cb3-b002-2b1239cd77a4"
+				},
+				{
+					"verse": "Estos tomó Nabuzaradán, capitán de la guardia, y los llevó a Ribla al rey de Babilonia.",
+					"number": 20,
+					"id": "9ec2d416-5642-4003-8761-398853bf68a5"
+				},
+				{
+					"verse": "Y el rey de Babilonia los hirió y mató en Ribla, en tierra de Hamat. Así fue llevado cautivo Judá de sobre su tierra.",
+					"number": 21,
+					"id": "1b6feeaf-8dd0-4b63-8ee4-a8cfa4e542a1"
+				},
+				{
+					"verse": "Y al pueblo que Nabucodonosor rey de Babilonia dejó en tierra de Judá, puso por gobernador a Gedalías hijo de Ahicam, hijo de Safán.",
+					"number": 22,
+					"study": "El remanente huye a Egipto",
+					"id": "829ad536-86b4-4004-98a5-40bf803edb66"
+				},
+				{
+					"verse": "Y oyendo todos los príncipes del ejército, ellos y su gente, que el rey de Babilonia había puesto por gobernador a Gedalías, vinieron a él en Mizpa; Ismael hijo de Netanías, Johanán hijo de Carea, Seraías hijo de Tanhumet netofatita, y Jaazanías hijo de un maacateo, ellos con los suyos.",
+					"number": 23,
+					"id": "be737258-2dad-4f14-a0e1-df2a85bd5cd3"
+				},
+				{
+					"verse": "Entonces Gedalías les hizo juramento a ellos y a los suyos, y les dijo: No temáis de ser siervos de los caldeos; habitad en la tierra, y servid al rey de Babilonia, y os irá bien.",
+					"number": 24,
+					"id": "8e3ff4a5-e2b3-461a-846d-c1a77cf54634"
+				},
+				{
+					"verse": "Mas en el mes séptimo vino Ismael hijo de Netanías, hijo de Elisama, de la estirpe real, y con él diez varones, e hirieron a Gedalías, y murió; y también a los de Judá y a los caldeos que estaban con él en Mizpa.",
+					"number": 25,
+					"id": "172f8c36-c12a-42b5-b6e4-44927c5535e5"
+				},
+				{
+					"verse": "Y levantándose todo el pueblo, desde el menor hasta el mayor, con los capitanes del ejército, se fueron a Egipto, por temor de los caldeos.",
+					"number": 26,
+					"id": "69ca1d98-8c9e-45e5-91a3-cc73e4524c7a"
+				},
+				{
+					"verse": "Aconteció a los treinta y siete años del cautiverio de Joaquín rey de Judá, en el mes duodécimo, a los veintisiete días del mes, que Evil-merodac rey de Babilonia, en el primer año de su reinado, libertó a Joaquín rey de Judá, sacándolo de la cárcel;",
+					"number": 27,
+					"study": "Joaquín es libertado y recibe honores en Babilonia",
+					"id": "f14feae0-c99e-4848-878b-41ac47703f77"
+				},
+				{
+					"verse": "y le habló con benevolencia, y puso su trono más alto que los tronos de los reyes que estaban con él en Babilonia.",
+					"number": 28,
+					"id": "668df679-a37c-46ad-a1b1-7bc210570112"
+				},
+				{
+					"verse": "Y le cambió los vestidos de prisionero, y comió siempre delante de él todos los días de su vida.",
+					"number": 29,
+					"id": "ea70ad55-1233-43e3-acca-45594d52eb9a"
+				},
+				{
+					"verse": "Y diariamente le fue dada su comida de parte del rey, de continuo, todos los días de su vida.",
+					"number": 30,
+					"id": "efb42b21-fdad-4d74-bfcd-9be4d1e88d2c"
+				}
+			]
+		}
+	],
+	"book_id": "b6636556-310b-40ec-9cf2-88c501149282"
+}

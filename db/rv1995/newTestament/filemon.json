@@ -1,0 +1,141 @@
+{
+	"name": "Filemon",
+	"num_chapters": 1,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro,",
+					"number": 1,
+					"study": "Salutación",
+					"id": "87f08311-a419-4a72-88b2-9359ef2d553e"
+				},
+				{
+					"verse": "a la amada hermana Apia, a Arquipo, nuestro compañero de milicia, y a la iglesia que está en tu casa:",
+					"number": 2,
+					"id": "4b9e3f8b-b9b4-4770-ab88-ae8e71509d05"
+				},
+				{
+					"verse": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+					"number": 3,
+					"id": "22394a48-f6af-404e-baed-851e7a58949f"
+				},
+				{
+					"verse": "Doy gracias a mi Dios, haciendo siempre memoria de ti en mis oraciones,",
+					"number": 4,
+					"study": "El amor y la fe de Filemón",
+					"id": "816d39df-6549-4082-8bfa-cf1f4a0ad5c0"
+				},
+				{
+					"verse": "porque oigo del amor y de la fe que tienes hacia el Señor Jesús y para con todos los santos,",
+					"number": 5,
+					"id": "1ee0b424-95ea-416e-83cf-d2818a7c8956"
+				},
+				{
+					"verse": "y pido para que la participación de tu fe sea eficaz en el conocimiento de todo el bien que está en vosotros por Cristo Jesús,",
+					"number": 6,
+					"id": "d0c4cd94-469b-4b80-89e9-61b0889faee2"
+				},
+				{
+					"verse": "pues tenemos gran gozo y consolación en tu amor, porque por ti, hermano, han sido confortados los corazones de los santos.",
+					"number": 7,
+					"id": "78f4c420-78da-4748-b786-c7ee30905fcc"
+				},
+				{
+					"verse": "Por eso, aunque tengo mucha libertad en Cristo para mandarte lo que conviene,",
+					"number": 8,
+					"study": "Pablo intercede por Onésimo",
+					"id": "44356524-eaa4-4fa1-b389-e5d06b71a156"
+				},
+				{
+					"verse": "prefiero rogártelo apelando a tu amor, siendo yo, Pablo, ya anciano, y ahora, además, prisionero de Jesucristo.",
+					"number": 9,
+					"id": "71b27227-9e24-4397-809d-e7a50e15e982"
+				},
+				{
+					"verse": "Te ruego por mi hijo Onésimo, a quien engendré en mis prisiones,",
+					"number": 10,
+					"id": "7cd15c90-06da-4f86-bb3d-86adc1e9b0ce"
+				},
+				{
+					"verse": "el cual en otro tiempo te fue inútil, pero ahora a ti y a mí nos es útil.",
+					"number": 11,
+					"id": "f9b631c0-ca41-4699-8d70-7b2298bee4fc"
+				},
+				{
+					"verse": "Te lo envío de nuevo. Tú, pues, recíbelo como a mí mismo.",
+					"number": 12,
+					"id": "3fea417f-2cca-4a60-bf5e-a9f8aa146469"
+				},
+				{
+					"verse": "Yo quisiera retenerlo conmigo, para que en lugar tuyo me sirviera en mis prisiones por causa del evangelio.",
+					"number": 13,
+					"id": "2c7de205-dd3c-44f8-ae87-962769f74414"
+				},
+				{
+					"verse": "Pero nada quise hacer sin tu consentimiento, para que tu favor no fuera forzado, sino voluntario.",
+					"number": 14,
+					"id": "e392821c-a629-433c-8f2e-401dc0530cbc"
+				},
+				{
+					"verse": "Quizá se apartó de ti por algún tiempo para que lo recibas para siempre,",
+					"number": 15,
+					"id": "8c1c90e1-15d4-4f12-bdfb-5386fd83dbb4"
+				},
+				{
+					"verse": "no ya como esclavo, sino como más que esclavo, como hermano amado, mayormente para mí, pero cuánto más para ti, tanto en la carne como en el Señor.",
+					"number": 16,
+					"id": "ea969647-0e99-4104-bc61-2551d4343544"
+				},
+				{
+					"verse": "Así que, si me tienes por compañero, recíbelo como a mí mismo.",
+					"number": 17,
+					"id": "18d61920-6049-4e3e-861c-f091d3fd6670"
+				},
+				{
+					"verse": "Y si en algo te dañó, o te debe, ponlo a mi cuenta.",
+					"number": 18,
+					"id": "42b62c1a-de7c-408a-b016-96e2b2bc6ae1"
+				},
+				{
+					"verse": "Yo, Pablo, lo escribo de mi mano: yo lo pagaré (por no decirte que aun tú mismo te me debes también).",
+					"number": 19,
+					"id": "330ea889-cc2b-4245-be48-c5088f9ecff2"
+				},
+				{
+					"verse": "Sí, hermano, tenga yo algún provecho de ti en el Señor, conforta mi corazón en el Señor.",
+					"number": 20,
+					"id": "e072401c-1e07-4258-b35c-466b922ac5d6"
+				},
+				{
+					"verse": "Te he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo.",
+					"number": 21,
+					"id": "f45cfba7-4d33-43bb-9abb-b5a802bb89c8"
+				},
+				{
+					"verse": "Prepárame también alojamiento, porque espero que por vuestras oraciones os seré concedido.",
+					"number": 22,
+					"id": "88e9cb0e-6622-4e70-8a4d-ecee6002b2ce"
+				},
+				{
+					"verse": "Te saludan Epafras, mi compañero de prisiones por Cristo Jesús,",
+					"number": 23,
+					"study": "Salutaciones y bendición final",
+					"id": "d7351321-07b1-42bc-ba33-d56284b11cba"
+				},
+				{
+					"verse": "Marcos, Aristarco, Demas y Lucas, mis colaboradores.",
+					"number": 24,
+					"id": "24186619-7adc-4426-9ad3-21b4aea41ffe"
+				},
+				{
+					"verse": "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén.",
+					"number": 25,
+					"id": "6b86734f-6587-44f2-a7e4-f2419ff9afcc"
+				}
+			]
+		}
+	],
+	"book_id": "778ee181-2a1a-43f2-8d48-dbfe570bb9b9"
+}

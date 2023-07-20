@@ -1,0 +1,1374 @@
+{
+	"name": "2-Corintios",
+	"num_chapters": 13,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo,  apóstol de Cristo Jesús por la voluntad de Dios,  y Timoteo nuestro hermano,  a la iglesia de Dios que está en Corinto y a todos los santos en toda la región de Acaya:",
+					"number": 1,
+					"study": "Salutación",
+					"id": "95db0136-a4d9-49e1-84e1-1c162ee046fb"
+				},
+				{
+					"verse": "Que Dios nuestro padre y el Señor Jesucristo les concedan gracia y paz.",
+					"number": 2,
+					"id": "113e92e9-2804-498b-8610-1363ed613aab"
+				},
+				{
+					"verse": "Alabado sea el Dios y Padre de nuestro Señor Jesucristo,  Padre misericordioso y Dios de toda consolación,",
+					"number": 3,
+					"study": "Aflicciones de Pablo",
+					"id": "81cebf8d-065c-4508-9bff-b3682baa6034"
+				},
+				{
+					"verse": "quien nos consuela en todas nuestras tribulaciones para que con el mismo consuelo que de Dios hemos recibido,  también nosotros podamos consolar a todos los que sufren.",
+					"number": 4,
+					"id": "9130b175-5d93-4802-af18-bd82804c06a4"
+				},
+				{
+					"verse": "Pues así como participamos abundantemente en los sufrimientos de Cristo,  así también por medio de él tenemos abundante consuelo.",
+					"number": 5,
+					"id": "c4e336ac-1d92-4e2a-bb63-d2bb6285d398"
+				},
+				{
+					"verse": "Si sufrimos,  es para que ustedes tengan consuelo y salvación;  y si somos consolados,  es para que ustedes tengan el consuelo que los ayude a soportar con paciencia los mismos sufrimientos que nosotros padecemos.",
+					"number": 6,
+					"id": "26ae73ef-4d3e-4780-85ea-1a242dba6ac8"
+				},
+				{
+					"verse": "Firme es la esperanza que tenemos en cuanto a ustedes,  porque sabemos que así como participan de nuestros sufrimientos,  así también participan de nuestro consuelo.",
+					"number": 7,
+					"id": "de774215-0eb3-4d04-9b9a-61ca97247136"
+				},
+				{
+					"verse": "Hermanos,  no queremos que desconozcan las aflicciones que sufrimos en la provincia de Asia.  Estábamos tan agobiados bajo tanta presión,  que hasta perdimos la esperanza de salir con vida:",
+					"number": 8,
+					"id": "2d29aeb5-e05a-4aef-a47e-aa230d32fd3c"
+				},
+				{
+					"verse": "nos sentíamos como sentenciados a muerte.  Pero eso sucedió para que no confiáramos en nosotros mismos sino en Dios,  que resucita a los muertos.",
+					"number": 9,
+					"id": "88353f5b-3a94-436f-90ef-10f6e34bf9da"
+				},
+				{
+					"verse": "Él nos libró y nos librará de tal peligro de muerte.  En él tenemos puesta nuestra esperanza,  y él seguirá librándonos.",
+					"number": 10,
+					"id": "5bbe8313-e2da-41b2-955a-38ec0c277d58"
+				},
+				{
+					"verse": "Mientras tanto,  ustedes nos ayudan orando por nosotros.  Así muchos darán gracias a Dios por nosotros* a causa del don que se nos ha concedido en respuesta a tantas oraciones.",
+					"number": 11,
+					"id": "e7a86280-e770-4684-93ed-9ac107a69c12"
+				},
+				{
+					"verse": "Para nosotros,  el motivo de satisfacción es el testimonio de nuestra conciencia:  Nos hemos comportado en el mundo,  y especialmente entre ustedes,  con la santidad y sinceridad que vienen de Dios.  Nuestra conducta no se ha ajustado a la sabiduría humana sino a la gracia de Dios.",
+					"number": 12,
+					"study": "Por qué Pablo pospuso su visita a Corinto",
+					"id": "34a4d70e-5041-439b-be68-41a34edc24ba"
+				},
+				{
+					"verse": "No estamos escribiéndoles nada que no puedan leer ni entender.  Espero que comprenderán del todo,",
+					"number": 13,
+					"id": "e5725f90-57e6-4816-b8a0-2b736e222be0"
+				},
+				{
+					"verse": "así como ya nos han comprendido en parte,  que pueden sentirse orgullosos de nosotros como también nosotros nos sentiremos orgullosos de ustedes en el día del Señor Jesús.",
+					"number": 14,
+					"id": "95f46e9a-7079-4bf3-8cef-b19242703b39"
+				},
+				{
+					"verse": "Confiando en esto,  quise visitarlos primero a ustedes para que recibieran una doble bendición;",
+					"number": 15,
+					"id": "8dc19560-6a62-4fca-8ec7-b38f9ce46982"
+				},
+				{
+					"verse": "es decir,  visitarlos de paso a Macedonia,  y verlos otra vez a mi regreso de allá.  Así podrían ayudarme a seguir el viaje a Judea.",
+					"number": 16,
+					"id": "9087773e-df30-4380-8871-2f78bf5ea039"
+				},
+				{
+					"verse": "Al proponerme esto,  ¿acaso lo hice a la ligera?  ¿O es que hago mis planes según criterios meramente humanos,  de manera que diga  \"sí,  sí\"  y  \"no,  no\"  al mismo tiempo?",
+					"number": 17,
+					"id": "eb215eaf-d817-4c4d-bbf1-ee515d431e3b"
+				},
+				{
+					"verse": "Pero tan cierto como que Dios es fiel,  el mensaje que les hemos dirigido no es  \"sí\"  y  \"no\".",
+					"number": 18,
+					"id": "e333111c-8c7d-4541-abe6-6399df559ed0"
+				},
+				{
+					"verse": "Porque el Hijo de Dios,  Jesucristo,  a quien Silvano,  Timoteo y yo predicamos entre ustedes,  no fue  \"sí\"  y  \"no\";  en él siempre ha sido  \"sí\".",
+					"number": 19,
+					"id": "7e0d4c4c-379c-4eaf-8cf6-55789d05e1db"
+				},
+				{
+					"verse": "Todas las promesas que ha hecho Dios son  \"sí\"  en Cristo.  Así que por medio de Cristo respondemos  \"amén\"  para la gloria de Dios.",
+					"number": 20,
+					"id": "81e0fdca-ed7a-4f2e-8cb0-0cdccff01cc5"
+				},
+				{
+					"verse": "Dios es el que nos mantiene firmes en Cristo,  tanto a nosotros como a ustedes.  Él nos ungió,",
+					"number": 21,
+					"id": "96d3a020-d92b-4e13-a377-2d5dbc1e0eea"
+				},
+				{
+					"verse": "nos selló como propiedad suya y puso su Espíritu en nuestro corazón,  como garantía de sus promesas.",
+					"number": 22,
+					"id": "8906cd33-9894-438d-a19d-34983f739d4c"
+				},
+				{
+					"verse": "¡Por mi vida!  Pongo a Dios por testigo de que es sólo por consideración a ustedes por lo que todavía no he ido a Corinto.",
+					"number": 23,
+					"id": "f73e8c4a-2e40-4158-91f0-b071af2963fc"
+				},
+				{
+					"verse": "No es que intentemos imponerles la fe,  sino que deseamos contribuir a la alegría de ustedes,  pues por la fe se mantienen firmes.",
+					"number": 24,
+					"id": "89bc4104-ba97-4027-90b7-68a5798d1c4a"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "En efecto,  decidí no hacerles otra visita que les causara tristeza.",
+					"number": 1,
+					"id": "685d9159-9ec1-4689-9afe-86a0c315e734"
+				},
+				{
+					"verse": "Porque si yo los entristezco,  ¿quién me brindará alegría sino aquel a quien yo haya entristecido?",
+					"number": 2,
+					"id": "15e06538-5774-40ec-a955-0b312c19e7e3"
+				},
+				{
+					"verse": "Les escribí como lo hice para que,  al llegar yo,  los que debían alegrarme no me causaran tristeza.  Estaba confiado de que todos ustedes harían suya mi alegría.",
+					"number": 3,
+					"id": "9af0e416-dcb8-44ea-b521-dd4e11fd3714"
+				},
+				{
+					"verse": "Les escribí con gran tristeza y angustia de corazón,  y con muchas lágrimas,  no para entristecerlos sino para darles a conocer la profundidad del amor que les tengo.",
+					"number": 4,
+					"id": "06489c6d-be78-4fc9-beaf-324b8441981f"
+				},
+				{
+					"verse": "Si alguno ha causado tristeza,  no me la ha causado sólo a mí;  hasta cierto punto --y lo digo para no exagerar-- se la ha causado a todos ustedes.",
+					"number": 5,
+					"study": "Pablo perdona al ofensor",
+					"id": "71a7c8d3-f6a6-4de8-8b0b-a7810f928344"
+				},
+				{
+					"verse": "Para él es suficiente el castigo que le impuso la mayoría.",
+					"number": 6,
+					"id": "b93e5aee-45e2-4145-97ce-542c9a7b9542"
+				},
+				{
+					"verse": "Más bien debieran perdonarlo y consolarlo para que no sea consumido por la excesiva tristeza.",
+					"number": 7,
+					"id": "1535850b-080a-4a18-9f43-d199fe84d2ec"
+				},
+				{
+					"verse": "Por eso les ruego que reafirmen su amor hacia él.",
+					"number": 8,
+					"id": "21e9323a-473b-4159-bbaa-2f739b9193f9"
+				},
+				{
+					"verse": "Con este propósito les escribí:  para ver si pasan la prueba de la completa obediencia.",
+					"number": 9,
+					"id": "f76f8b7d-2f60-4c5e-8977-f9e37ec8e5d0"
+				},
+				{
+					"verse": "A quien ustedes perdonen,  yo también lo perdono.  De hecho,  si había algo que perdonar,  lo he perdonado por consideración a ustedes en presencia de Cristo,",
+					"number": 10,
+					"id": "b9a6fb96-510b-4402-896d-4f5812a13d5d"
+				},
+				{
+					"verse": "para que Satanás no se aproveche de nosotros,  pues no ignoramos sus artimañas.",
+					"number": 11,
+					"id": "6f479b6e-3694-4a85-b9fa-dabbc322290f"
+				},
+				{
+					"verse": "Ahora bien,  cuando llegué a Troas para predicar el evangelio de Cristo,  descubrí que el Señor me había abierto las puertas.",
+					"number": 12,
+					"study": "Ansiedad de Pablo en Troas",
+					"id": "1afab74d-7c02-43f7-9554-1168c1f7e982"
+				},
+				{
+					"verse": "Aun así,  me sentí intranquilo por no haber encontrado allí a mi hermano Tito,  por lo cual me despedí de ellos y me fui a Macedonia.",
+					"number": 13,
+					"id": "5871bb45-ca8a-4711-94c4-3c3edb64d109"
+				},
+				{
+					"verse": "Sin embargo,  gracias a Dios que en Cristo siempre nos lleva triunfantes* y,  por medio de nosotros,  esparce por todas partes la fragancia de su conocimiento.",
+					"number": 14,
+					"study": "Triunfantes en Cristo",
+					"id": "548b3740-80c3-4ca2-aa67-81efb7019f11"
+				},
+				{
+					"verse": "Porque para Dios nosotros somos el aroma de Cristo entre los que se salvan y entre los que se pierden.",
+					"number": 15,
+					"id": "c4f7bdd1-5317-4548-a186-8e4c5da62850"
+				},
+				{
+					"verse": "Para éstos somos olor de muerte que los lleva a la muerte;  para aquéllos,  olor de vida que los lleva a la vida.  ¿Y quién es competente para semejante tarea?",
+					"number": 16,
+					"id": "c0eb20b7-a065-4091-b4ab-a76b8deb7bdf"
+				},
+				{
+					"verse": "A diferencia de muchos,  nosotros no somos de los que trafican con la palabra de Dios.  Más bien,  hablamos con sinceridad delante de él en Cristo,  como enviados de Dios que somos.",
+					"number": 17,
+					"id": "bdb3ae2e-1f75-4077-b4a7-bc001e57c41a"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "¿Acaso comenzamos otra vez a recomendarnos a nosotros mismos?  ¿O acaso tenemos que presentarles o pedirles a ustedes cartas de recomendación,  como hacen algunos?",
+					"number": 1,
+					"study": "Ministros del nuevo pacto",
+					"id": "0dbe1b7e-7a8e-4c14-8cea-553319320191"
+				},
+				{
+					"verse": "Ustedes mismos son nuestra carta,  escrita en nuestro corazón,  conocida y leída por todos.",
+					"number": 2,
+					"id": "5b65879a-5886-4d62-a7ec-6586d443713a"
+				},
+				{
+					"verse": "Es evidente que ustedes son una carta de Cristo,  expedida* por nosotros,  escrita no con tinta sino con el Espíritu del Dios viviente;  no en tablas de piedra sino en tablas de carne,  en los corazones.",
+					"number": 3,
+					"id": "96041903-5eb5-4b84-b988-da39c85334c9"
+				},
+				{
+					"verse": "Ésta es la confianza que delante de Dios tenemos por medio de Cristo.",
+					"number": 4,
+					"id": "59ef706b-df0e-4199-a325-7f4e6f34eb6d"
+				},
+				{
+					"verse": "No es que nos consideremos competentes en nosotros mismos.  Nuestra capacidad viene de Dios.",
+					"number": 5,
+					"id": "0e9196af-2910-4751-8fd3-d29e8834ec59"
+				},
+				{
+					"verse": "Él nos ha capacitado para ser servidores de un nuevo pacto,  no el de la letra sino el del Espíritu;  porque la letra mata,  pero el Espíritu da vida.",
+					"number": 6,
+					"id": "e1f64702-66eb-45c8-a487-2c309da9c736"
+				},
+				{
+					"verse": "El ministerio que causaba muerte,  el que estaba grabado con letras en piedra,  fue tan glorioso que los israelitas no podían mirar la cara de Moisés debido a la gloria que se reflejaba en su rostro,  la cual ya se estaba extinguiendo.",
+					"number": 7,
+					"id": "8bb6f54b-03c6-4502-9222-4a44a64a2cef"
+				},
+				{
+					"verse": "Pues bien,  si aquel ministerio fue así,  ¿no será todavía más glorioso el ministerio del Espíritu?",
+					"number": 8,
+					"id": "d2c751c3-2066-4c41-b104-2c3a24f020fe"
+				},
+				{
+					"verse": "Si es glorioso el ministerio que trae condenación,  ¡cuánto más glorioso será el ministerio que trae la justicia!",
+					"number": 9,
+					"id": "c2d3d974-67ad-4b5c-bcfd-836eb2d11d82"
+				},
+				{
+					"verse": "En efecto,  lo que fue glorioso ya no lo es,  si se le compara con esta excelsa gloria.",
+					"number": 10,
+					"id": "22514ef4-0f79-42fb-82f0-f109a7d51174"
+				},
+				{
+					"verse": "Y si vino con gloria lo que ya se estaba extinguiendo,  ¡cuánto mayor será la gloria de lo que permanece!",
+					"number": 11,
+					"id": "cd98d82e-b4a7-4917-903d-f226bc056b90"
+				},
+				{
+					"verse": "Así que,  como tenemos tal esperanza,  actuamos con plena confianza.",
+					"number": 12,
+					"id": "b1a57b37-9e47-43bb-9e81-58ca47fe36d3"
+				},
+				{
+					"verse": "No hacemos como Moisés,  quien se ponía un velo sobre el rostro para que los israelitas no vieran el fin del resplandor que se iba extinguiendo.",
+					"number": 13,
+					"id": "b3d6a684-f0b6-41ac-bfed-ff8cbc8d24e0"
+				},
+				{
+					"verse": "Sin embargo,  la mente de ellos se embotó,  de modo que hasta el día de hoy tienen puesto el mismo velo al leer el antiguo pacto.  El velo no les ha sido quitado,  porque sólo se quita en Cristo.",
+					"number": 14,
+					"id": "b8f07eba-cf36-418a-8ed5-d99fdf5b2f28"
+				},
+				{
+					"verse": "Hasta el día de hoy,  siempre que leen a Moisés,  un velo les cubre el corazón.",
+					"number": 15,
+					"id": "74139f50-0e1a-4403-b6bb-fd588ba182de"
+				},
+				{
+					"verse": "Pero cada vez que alguien se vuelve al Señor,  el velo es quitado.",
+					"number": 16,
+					"id": "4ab30dc8-949a-4acd-9099-084c6126bf31"
+				},
+				{
+					"verse": "Ahora bien,  el Señor es el Espíritu;  y donde está el Espíritu del Señor,  allí hay libertad.",
+					"number": 17,
+					"id": "b3384e50-fbff-4a58-9018-19b179ec45e2"
+				},
+				{
+					"verse": "Así,  todos nosotros,  que con el rostro descubierto reflejamos* como en un espejo la gloria del Señor,  somos transformados a su semejanza con más y más gloria por la acción del Señor,  que es el Espíritu.",
+					"number": 18,
+					"id": "f43f7afc-3e11-43d7-81ba-25342de551ed"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Por esto,  ya que por la misericordia de Dios tenemos este ministerio,  no nos desanimamos.",
+					"number": 1,
+					"id": "2a84a968-0a9c-41bf-b432-bc55dab40459"
+				},
+				{
+					"verse": "Más bien,  hemos renunciado a todo lo vergonzoso que se hace a escondidas;  no actuamos con engaño ni torcemos la palabra de Dios.  Al contrario,  mediante la clara exposición de la verdad,  nos recomendamos a toda conciencia humana en la presencia de Dios.",
+					"number": 2,
+					"id": "0a8de12b-45f3-4843-8a69-e9de9be10943"
+				},
+				{
+					"verse": "Pero si nuestro evangelio está encubierto,  lo está para los que se pierden.",
+					"number": 3,
+					"id": "b85411c6-2f6c-40de-bae0-b65b7bd1777b"
+				},
+				{
+					"verse": "El dios de este mundo ha cegado la mente de estos incrédulos,  para que no vean la luz del glorioso evangelio de Cristo,  el cual es la imagen de Dios.",
+					"number": 4,
+					"id": "bb1bd65c-4951-4ba0-ac0d-dc7ddbe4bdaa"
+				},
+				{
+					"verse": "No nos predicamos a nosotros mismos sino a Jesucristo como Señor;  nosotros no somos más que servidores de ustedes por causa de Jesús.",
+					"number": 5,
+					"id": "401fd4f8-7c5c-4027-a22d-02e0e259fba8"
+				},
+				{
+					"verse": "Porque Dios,  que ordenó que la luz resplandeciera en las tinieblas,* hizo brillar su luz en nuestro corazón para que conociéramos la gloria de Dios que resplandece en el rostro de Cristo.",
+					"number": 6,
+					"id": "6cec7ec0-611a-48e8-a632-067e08206c09"
+				},
+				{
+					"verse": "Pero tenemos este tesoro en vasijas de barro para que se vea que tan sublime poder viene de Dios y no de nosotros.",
+					"number": 7,
+					"study": "Viviendo por la fe",
+					"id": "fe7fba3f-0a37-4c4b-b913-20aaeaef311f"
+				},
+				{
+					"verse": "Nos vemos atribulados en todo,  pero no abatidos;  perplejos,  pero no desesperados;",
+					"number": 8,
+					"id": "a552bc6e-b247-46ca-af85-41cf4b1b5e5e"
+				},
+				{
+					"verse": "perseguidos,  pero no abandonados;  derribados,  pero no destruidos.",
+					"number": 9,
+					"id": "2f3ce815-5971-458f-bd8a-0eb379b704df"
+				},
+				{
+					"verse": "Dondequiera que vamos,  siempre llevamos en nuestro cuerpo la muerte de Jesús,  para que también su vida se manifieste en nuestro cuerpo.",
+					"number": 10,
+					"id": "5e19bd3b-0d12-4e68-88fe-8956304a1f85"
+				},
+				{
+					"verse": "Pues a nosotros,  los que vivimos,  siempre se nos entrega a la muerte por causa de Jesús,  para que también su vida se manifieste en nuestro cuerpo* mortal.",
+					"number": 11,
+					"id": "fc02be52-d272-4e13-820e-ccae19fbe04e"
+				},
+				{
+					"verse": "Así que la muerte actúa en nosotros,  y en ustedes la vida.",
+					"number": 12,
+					"id": "25bf610e-0e48-47f0-a3ea-ccc978f90f94"
+				},
+				{
+					"verse": "Escrito está:  \"Creí,  y por eso hablé.\"* Con ese mismo espíritu de fe también nosotros creemos,  y por eso hablamos.",
+					"number": 13,
+					"id": "de092121-d415-41a4-adbe-1abe5a1a9e9c"
+				},
+				{
+					"verse": "Pues sabemos que aquel que resucitó al Señor Jesús nos resucitará también a nosotros con él y nos llevará junto con ustedes a su presencia.",
+					"number": 14,
+					"id": "000236c2-d7e7-4c33-a0bb-79ee21cae3f3"
+				},
+				{
+					"verse": "Todo esto es por el bien de ustedes,  para que la gracia que está alcanzando a más y más personas haga abundar la acción de gracias para la gloria de Dios.",
+					"number": 15,
+					"id": "41761b30-1fb1-483e-916d-3ae61c58a803"
+				},
+				{
+					"verse": "Por tanto,  no nos desanimamos.  Al contrario,  aunque por fuera nos vamos desgastando,  por dentro nos vamos renovando día tras día.",
+					"number": 16,
+					"id": "624d0740-7d9b-41de-be0a-dfc3c20b1bcc"
+				},
+				{
+					"verse": "Pues los sufrimientos ligeros y efímeros que ahora padecemos producen una gloria eterna que vale muchísimo más que todo sufrimiento.",
+					"number": 17,
+					"id": "0a100821-52de-413f-97f9-4e47d0794e8d"
+				},
+				{
+					"verse": "Así que no nos fijamos en lo visible sino en lo invisible,  ya que lo que se ve es pasajero,  mientras que lo que no se ve es eterno.",
+					"number": 18,
+					"id": "f6bc38ba-eda7-462b-92b2-ae5baf93a774"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "De hecho,  sabemos que si esta tienda de campaña en que vivimos se deshace,  tenemos de Dios un edificio,  una casa eterna en el cielo,  no construida por manos humanas.",
+					"number": 1,
+					"id": "7988f506-379c-4918-9528-d52a6c67099c"
+				},
+				{
+					"verse": "Mientras tanto suspiramos,  anhelando ser revestidos de nuestra morada celestial,",
+					"number": 2,
+					"id": "d387dbd9-3a30-41ef-ba4e-2be13f9921f0"
+				},
+				{
+					"verse": "porque cuando seamos revestidos,  no se nos hallará desnudos.",
+					"number": 3,
+					"id": "31a18cec-98b9-4e46-aa0b-699f9633f7ed"
+				},
+				{
+					"verse": "Realmente,  vivimos en esta tienda de campaña,  suspirando y agobiados,  pues no deseamos ser desvestidos sino revestidos,  para que lo mortal sea absorbido por la vida.",
+					"number": 4,
+					"id": "63599c42-ed15-432a-9b9c-35e285203d74"
+				},
+				{
+					"verse": "Es Dios quien nos ha hecho para este fin y nos ha dado su Espíritu como garantía de sus promesas.",
+					"number": 5,
+					"id": "5c619c13-4617-4ace-b822-df87de437e1d"
+				},
+				{
+					"verse": "Por eso mantenemos siempre la confianza,  aunque sabemos que mientras vivamos en este cuerpo estaremos alejados del Señor.",
+					"number": 6,
+					"id": "ba492feb-4c92-4b30-8f0e-bc003fa65e98"
+				},
+				{
+					"verse": "Vivimos por fe,  no por vista.",
+					"number": 7,
+					"id": "e17a0f1d-b1e7-45da-a4c2-3b0cfa4cfd04"
+				},
+				{
+					"verse": "Así que nos mantenemos confiados,  y preferiríamos ausentarnos de este cuerpo y vivir junto al Señor.",
+					"number": 8,
+					"id": "5a2c0e7f-3632-44cc-878f-9ac2a3887bcc"
+				},
+				{
+					"verse": "Por eso nos empeñamos en agradarle,  ya sea que vivamos en nuestro cuerpo o que lo hayamos dejado.",
+					"number": 9,
+					"id": "eeb7624a-385b-40ce-ab59-fec465fc4583"
+				},
+				{
+					"verse": "Porque es necesario que todos comparezcamos ante el tribunal de Cristo,  para que cada uno reciba lo que le corresponda,  según lo bueno o malo que haya hecho mientras vivió en el cuerpo.",
+					"number": 10,
+					"id": "1f361098-a582-4209-93ab-babb5504e215"
+				},
+				{
+					"verse": "Por tanto,  como sabemos lo que es temer al Señor,  tratamos de persuadir a todos,  aunque para Dios es evidente lo que somos,  y espero que también lo sea para la conciencia de ustedes.",
+					"number": 11,
+					"study": "El ministerio de la reconciliación",
+					"id": "486a6272-1a7a-4ed1-904f-a8d34ceae189"
+				},
+				{
+					"verse": "No buscamos el recomendarnos otra vez a ustedes,  sino que les damos una oportunidad de sentirse orgullosos de nosotros,  para que tengan con qué responder a los que se dejan llevar por las apariencias y no por lo que hay dentro del corazón.",
+					"number": 12,
+					"id": "25950749-aa5e-4046-aa13-756a92859761"
+				},
+				{
+					"verse": "Si estamos locos,  es por Dios;  y si estamos cuerdos,  es por ustedes.",
+					"number": 13,
+					"id": "c36de94a-96bc-49ff-898e-c95d916685dd"
+				},
+				{
+					"verse": "El amor de Cristo nos obliga,  porque estamos convencidos de que uno murió por todos,  y por consiguiente todos murieron.",
+					"number": 14,
+					"id": "81d50e25-7ab7-4401-8054-8a99f4dba779"
+				},
+				{
+					"verse": "Y él murió por todos,  para que los que viven ya no vivan para sí,  sino para el que murió por ellos y fue resucitado.",
+					"number": 15,
+					"id": "2f2d0bba-e941-4703-ba03-a64684bdde56"
+				},
+				{
+					"verse": "Así que de ahora en adelante no consideramos a nadie según criterios meramente humanos.* Aunque antes conocimos a Cristo de esta manera,  ya no lo conocemos así.",
+					"number": 16,
+					"id": "9924e352-bbff-45d1-82d9-525b9a482d2b"
+				},
+				{
+					"verse": "Por lo tanto,  si alguno está en Cristo,  es una nueva creación.  ¡Lo viejo ha pasado,  ha llegado ya lo nuevo!",
+					"number": 17,
+					"id": "5254ed40-d56e-4086-86f3-db5944b787ad"
+				},
+				{
+					"verse": "Todo esto proviene de Dios,  quien por medio de Cristo nos reconcilió consigo mismo y nos dio el ministerio de la reconciliación:",
+					"number": 18,
+					"id": "b5e5c2b2-1750-4b5d-9b20-628a978808b0"
+				},
+				{
+					"verse": "esto es,  que en Cristo,  Dios estaba reconciliando al mundo consigo mismo,  no tomándole en cuenta sus pecados y encargándonos a nosotros el mensaje de la reconciliación.",
+					"number": 19,
+					"id": "f667f199-6c43-4ef1-817a-e4c81ac6f4e0"
+				},
+				{
+					"verse": "Así que somos embajadores de Cristo,  como si Dios los exhortara a ustedes por medio de nosotros:  \"En nombre de Cristo les rogamos que se reconcilien con Dios.\"",
+					"number": 20,
+					"id": "c44ff60d-351f-459c-a446-3a5231a9e3d4"
+				},
+				{
+					"verse": "Al que no cometió pecado alguno,  por nosotros Dios lo trató como pecador,* para que en él recibiéramos* la justicia de Dios.",
+					"number": 21,
+					"id": "7d66e363-ba76-4e91-ac02-5187656ef3de"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Nosotros,  colaboradores de Dios,  les rogamos que no reciban su gracia en vano.",
+					"number": 1,
+					"id": "c7233eed-b528-4bfe-abe1-ef494002bff8"
+				},
+				{
+					"verse": "Porque él dice:  \"En el momento propicio te escuché,  y en el día de salvación te ayudé.\"* día de salvación.",
+					"number": 2,
+					"id": "6973a2eb-3e87-4a09-98f2-cc91994ca007"
+				},
+				{
+					"verse": "Por nuestra parte,  a nadie damos motivo alguno de tropiezo,  para que no se desacredite nuestro servicio.",
+					"number": 3,
+					"id": "4567fd16-b86e-41ef-b069-2b55fd6c8230"
+				},
+				{
+					"verse": "Más bien,  en todo y con mucha paciencia nos acreditamos como servidores de Dios:  en sufrimientos,  privaciones y angustias;",
+					"number": 4,
+					"id": "b596c071-27d3-405f-89ac-c3734240bac6"
+				},
+				{
+					"verse": "en azotes,  cárceles y tumultos;  en trabajos pesados,  desvelos y hambre.",
+					"number": 5,
+					"id": "cb7c559d-1d7d-4123-ba52-d546517b38f3"
+				},
+				{
+					"verse": "Servimos con pureza,  conocimiento,  constancia y bondad;  en el Espíritu Santo y en amor sincero;",
+					"number": 6,
+					"id": "a32a10d9-4035-41ad-9844-5e25fed307ae"
+				},
+				{
+					"verse": "con palabras de verdad y con el poder de Dios;  con armas de justicia,  tanto ofensivas como defensivas;*",
+					"number": 7,
+					"id": "48ca998f-d8e4-4f76-86fd-bd87f7c69b60"
+				},
+				{
+					"verse": "por honra y por deshonra,  por mala y por buena fama;  veraces,  pero tenidos por engañadores;",
+					"number": 8,
+					"id": "5f425edb-df4d-49ce-965b-5b46584e42c3"
+				},
+				{
+					"verse": "conocidos,  pero tenidos por desconocidos;  como moribundos,  pero aún con vida;  golpeados,  pero no muertos;",
+					"number": 9,
+					"id": "5f3575b3-55b3-4f93-945e-44fa9c6890fa"
+				},
+				{
+					"verse": "aparentemente tristes,  pero siempre alegres;  pobres en apariencia,  pero enriqueciendo a muchos;  como si no tuviéramos nada,  pero poseyéndolo todo.",
+					"number": 10,
+					"id": "1c79d1d6-3672-47d9-9d95-9419bcc7f6be"
+				},
+				{
+					"verse": "Hermanos corintios,  les hemos hablado con toda franqueza;  les hemos abierto de par en par nuestro corazón.",
+					"number": 11,
+					"id": "3d5d8bed-1386-4628-855d-441faf9ac3a8"
+				},
+				{
+					"verse": "Nunca les hemos negado nuestro afecto,  pero ustedes sí nos niegan el suyo.",
+					"number": 12,
+					"id": "ad3056f4-903f-422a-b5c1-9ef8442f0bbc"
+				},
+				{
+					"verse": "Para corresponder del mismo modo --les hablo como si fueran mis hijos--,  ¡abran también su corazón de par en par!",
+					"number": 13,
+					"id": "a298789f-9d25-4663-a186-79b33da837c2"
+				},
+				{
+					"verse": "No formen yunta con los incrédulos.  ¿Qué tienen en común la justicia y la maldad?  ¿O qué comunión puede tener la luz con la oscuridad?",
+					"number": 14,
+					"study": "Somos templo del Dios viviente",
+					"id": "e2779450-12e5-4893-a79f-d63fe438f109"
+				},
+				{
+					"verse": "¿Qué armonía tiene Cristo con el diablo?*  ¿Qué tiene en común un creyente con un incrédulo?",
+					"number": 15,
+					"id": "21f7e05c-a08c-4ead-af9c-72b1fbfcfaf1"
+				},
+				{
+					"verse": "¿En qué concuerdan el templo de Dios y los ídolos?  Porque nosotros somos templo del Dios viviente.  Como él ha dicho:  \"Viviré con ellos y andaré entre ellos;  yo seré su Dios,  y ellos serán mi pueblo.\"* Por tanto,  el Señor añade:",
+					"number": 16,
+					"id": "a1e2d082-9aff-4fff-97ff-83ff88b22d3d"
+				},
+				{
+					"verse": "\"Salgan de en medio de ellos y apártense.  No toquen nada impuro,  y yo los recibiré.\"*",
+					"number": 17,
+					"id": "4ff327ea-76f4-4e2f-a639-81fe1e396f5a"
+				},
+				{
+					"verse": "\"Seré para ustedes un Padre,  y ustedes serán mis hijos y mis hijas,  dice el Señor Todopoderoso.\"*",
+					"number": 18,
+					"id": "cd896b99-f080-4512-bfec-4c968e1dc0d3"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Como tenemos estas promesas,  queridos hermanos,  purifiquémonos de todo lo que contamina el cuerpo y el espíritu,  para completar en el temor de Dios la obra de nuestra santificación.",
+					"number": 1,
+					"id": "9e7caecd-b2be-4fbc-bc40-575515f27165"
+				},
+				{
+					"verse": "Hagan lugar para nosotros en su corazón.  A nadie hemos agraviado,  a nadie hemos corrompido,  a nadie hemos explotado.",
+					"number": 2,
+					"study": "Regocijo de Pablo al arrepentirse los corintios",
+					"id": "afde7805-0a3e-42e5-a1dc-702aed872d93"
+				},
+				{
+					"verse": "No digo esto para condenarlos;  ya les he dicho que tienen un lugar tan amplio en nuestro corazón que con ustedes viviríamos o moriríamos.",
+					"number": 3,
+					"id": "02349421-1f1f-4755-a556-02cfe936416e"
+				},
+				{
+					"verse": "Les tengo mucha confianza y me siento muy orgulloso de ustedes.  Estoy muy animado;  en medio de todas nuestras aflicciones se desborda mi alegría.",
+					"number": 4,
+					"id": "3aa39eb3-a84a-4a00-a172-732658735b94"
+				},
+				{
+					"verse": "Cuando llegamos a Macedonia,  nuestro cuerpo no tuvo ningún descanso,  sino que nos vimos acosados por todas partes;  conflictos por fuera,  temores por dentro.",
+					"number": 5,
+					"id": "da8da5ab-1d09-45fc-bcaa-763e5d614eef"
+				},
+				{
+					"verse": "Pero Dios,  que consuela a los abatidos,  nos consoló con la llegada de Tito,",
+					"number": 6,
+					"id": "5d3f5df0-55c3-417e-985e-d91d3ae96072"
+				},
+				{
+					"verse": "y no sólo con su llegada sino también con el consuelo que él había recibido de ustedes.  Él nos habló del anhelo,  de la profunda tristeza y de la honda preocupación que ustedes tienen por mí,  lo cual me llenó de alegría.",
+					"number": 7,
+					"id": "175a8d55-007f-40b9-95cc-75958d7001a9"
+				},
+				{
+					"verse": "Si bien los entristecí con mi carta,  no me pesa.  Es verdad que antes me pesó,  porque me di cuenta de que por un tiempo mi carta los había entristecido.",
+					"number": 8,
+					"id": "dee8eba0-e242-4cc1-81e4-1538cb4f63da"
+				},
+				{
+					"verse": "Sin embargo,  ahora me alegro,  no porque se hayan entristecido sino porque su tristeza los llevó al arrepentimiento.  Ustedes se entristecieron tal como Dios lo quiere,  de modo que nosotros de ninguna manera los hemos perjudicado.",
+					"number": 9,
+					"id": "2dadd24b-2195-4650-b086-e2c7948bc42e"
+				},
+				{
+					"verse": "La tristeza que proviene de Dios produce el arrepentimiento que lleva a la salvación,  de la cual no hay que arrepentirse,  mientras que la tristeza del mundo produce la muerte.",
+					"number": 10,
+					"id": "b73a7a42-ae8c-4110-af45-25c3bc580a97"
+				},
+				{
+					"verse": "Fíjense lo que ha producido en ustedes esta tristeza que proviene de Dios:  ¡qué empeño,  qué afán por disculparse,  qué indignación,  qué temor,  qué anhelo,  qué preocupación,  qué disposición para ver que se haga justicia!  En todo han demostrado su inocencia en este asunto.",
+					"number": 11,
+					"id": "0bc11524-6c79-4d48-9cba-0086d1c39e7a"
+				},
+				{
+					"verse": "Así que,  a pesar de que les escribí,  no fue por causa del ofensor ni del ofendido,  sino más bien para que delante de Dios se dieran cuenta por ustedes mismos de cuánto interés tienen en nosotros.",
+					"number": 12,
+					"id": "db91ee0d-8d7f-4885-8338-0337fbde3d8e"
+				},
+				{
+					"verse": "Todo esto nos reanima.  Además del consuelo que hemos recibido,  nos alegró muchísimo el ver lo feliz que estaba Tito debido a que todos ustedes fortalecieron su espíritu.",
+					"number": 13,
+					"id": "7708df66-b032-460b-b9e9-ea699d5cae71"
+				},
+				{
+					"verse": "Ya le había dicho que me sentía orgulloso de ustedes,  y no me han hecho quedar mal.  Al contrario,  así como todo lo que les dijimos es verdad,  también resultaron ciertos los elogios que hice de ustedes delante de Tito.",
+					"number": 14,
+					"id": "e335394d-6d48-42c3-ba0a-4bfd915b1ffc"
+				},
+				{
+					"verse": "Y él les tiene aún más cariño al recordar que todos ustedes fueron obedientes y lo recibieron con temor y temblor.",
+					"number": 15,
+					"id": "9d8fe77d-22b4-404e-8f38-29ab6983515c"
+				},
+				{
+					"verse": "Me alegro de que puedo confiar plenamente en ustedes.",
+					"number": 16,
+					"id": "1b95da37-c5d7-4cc2-b902-7f76d7a3151b"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Ahora,  hermanos,  queremos que se enteren de la gracia que Dios ha dado a las iglesias de Macedonia.",
+					"number": 1,
+					"study": "La ofrenda para los santos",
+					"id": "ab34498a-9833-4d36-b80e-0cfa9d74c3cf"
+				},
+				{
+					"verse": "En medio de las pruebas más difíciles,  su desbordante alegría y su extrema pobreza abundaron en rica generosidad.",
+					"number": 2,
+					"id": "bd6eb03b-6441-42d6-bd08-1202fb513fc7"
+				},
+				{
+					"verse": "Soy testigo de que dieron espontáneamente tanto como podían,  y aún más de lo que podían,",
+					"number": 3,
+					"id": "9d996b3e-742f-41c0-9caf-c42006d774ba"
+				},
+				{
+					"verse": "rogándonos con insistencia que les concediéramos el privilegio de tomar parte en esta ayuda para los santos.",
+					"number": 4,
+					"id": "5d0a3132-f064-4fcf-896d-6e2ac9ed6eb1"
+				},
+				{
+					"verse": "Incluso hicieron más de lo que esperábamos,  ya que se entregaron a sí mismos,  primeramente al Señor y después a nosotros,  conforme a la voluntad de Dios.",
+					"number": 5,
+					"id": "c9813a58-8e1b-4321-b7aa-3678341d2170"
+				},
+				{
+					"verse": "De modo que rogamos a Tito que llevara a feliz término esta obra de gracia entre ustedes,  puesto que ya la había comenzado.",
+					"number": 6,
+					"id": "57831a42-2f2b-4b75-b126-9083e98b837f"
+				},
+				{
+					"verse": "Pero ustedes,  así como sobresalen en todo --en fe,  en palabras,  en conocimiento,  en dedicación y en su amor hacia nosotros*--,  procuren también sobresalir en esta gracia de dar.",
+					"number": 7,
+					"id": "14f4b9cd-7df1-44f5-98db-5580b00c3ab2"
+				},
+				{
+					"verse": "No es que esté dándoles órdenes,  sino que quiero probar la sinceridad de su amor en comparación con la dedicación de los demás.",
+					"number": 8,
+					"id": "57870ae6-6848-43e8-a76c-464f1cccfbaa"
+				},
+				{
+					"verse": "Ya conocen la gracia de nuestro Señor Jesucristo,  que aunque era rico,  por causa de ustedes se hizo pobre,  para que mediante su pobreza ustedes llegaran a ser ricos.",
+					"number": 9,
+					"id": "2a8a4754-3e5a-4b28-9c52-6ef6c3648a30"
+				},
+				{
+					"verse": "Aquí va mi consejo sobre lo que les conviene en este asunto:  El año pasado ustedes fueron los primeros no sólo en dar sino también en querer hacerlo.",
+					"number": 10,
+					"id": "1c3cdfbd-2aaa-4b78-ba36-c76e15dd46a6"
+				},
+				{
+					"verse": "Lleven ahora a feliz término la obra,  para que,  según sus posibilidades,  cumplan con lo que de buena gana propusieron.",
+					"number": 11,
+					"id": "0227115b-1b94-4eda-ac75-4a76cb4be223"
+				},
+				{
+					"verse": "Porque si uno lo hace de buena voluntad,  lo que da es bien recibido según lo que tiene,  y no según lo que no tiene.",
+					"number": 12,
+					"id": "b67bc745-5062-4430-9d49-fb8964718222"
+				},
+				{
+					"verse": "No se trata de que otros encuentren alivio mientras que ustedes sufren escasez;  es más bien cuestión de igualdad.",
+					"number": 13,
+					"id": "ec278109-a7ff-4783-9a3f-aa4602fedc74"
+				},
+				{
+					"verse": "En las circunstancias actuales la abundancia de ustedes suplirá lo que ellos necesitan,  para que a su vez la abundancia de ellos supla lo que ustedes necesitan.  Así habrá igualdad,",
+					"number": 14,
+					"id": "19e8d24a-749e-42e0-884f-5320333b4bb1"
+				},
+				{
+					"verse": "como está escrito:  \"Ni tuvo demasiado el que recogió mucho ni le faltó al que recogió poco.\"*",
+					"number": 15,
+					"id": "761c6ea7-c19c-493b-b270-8446127d6c5d"
+				},
+				{
+					"verse": "Gracias a Dios que puso en el corazón de Tito la misma preocupación que yo tengo por ustedes.",
+					"number": 16,
+					"id": "ff8fb48c-0904-4f66-a420-30a3e58f1908"
+				},
+				{
+					"verse": "De hecho,  cuando accedió a nuestra petición de ir a verlos,  lo hizo con mucho entusiasmo y por su propia voluntad.",
+					"number": 17,
+					"id": "4185e8c4-4193-48bc-983e-a56beac49062"
+				},
+				{
+					"verse": "Junto con él les enviamos al hermano que se ha ganado el reconocimiento de todas las iglesias por los servicios prestados al evangelio.",
+					"number": 18,
+					"id": "2006c302-36b9-48cd-b5b0-1ec3c3b239a9"
+				},
+				{
+					"verse": "Además,  las iglesias lo escogieron para que nos acompañe cuando llevemos la ofrenda,  la cual administramos para honrar al Señor y demostrar nuestro ardiente deseo de servir.",
+					"number": 19,
+					"id": "a3b6c3b9-40bb-490a-af2d-0650b5f7041a"
+				},
+				{
+					"verse": "Queremos evitar cualquier crítica sobre la forma en que administramos este generoso donativo;",
+					"number": 20,
+					"id": "afb9d028-b211-4df4-ae05-ed2b88bfabeb"
+				},
+				{
+					"verse": "porque procuramos hacer lo correcto,  no sólo delante del Señor sino también delante de los demás.",
+					"number": 21,
+					"id": "77c10081-adb6-46a7-a568-dd50c511bcd7"
+				},
+				{
+					"verse": "Con ellos les enviamos a nuestro hermano que nos ha demostrado con frecuencia y de muchas maneras que es diligente,  y ahora lo es aún más por la gran confianza que tiene en ustedes.",
+					"number": 22,
+					"id": "5058795e-b13c-4e28-ae31-72676089fc62"
+				},
+				{
+					"verse": "En cuanto a Tito,  es mi compañero y colaborador entre ustedes;  y en cuanto a los otros hermanos,  son enviados de las iglesias,  son una honra para Cristo.",
+					"number": 23,
+					"id": "23c73b67-4fcd-4a0b-af76-edb300ee557e"
+				},
+				{
+					"verse": "Por tanto,  den a estos hombres una prueba de su amor y muéstrenles por qué nos sentimos orgullosos de ustedes,  para testimonio ante las iglesias.",
+					"number": 24,
+					"id": "9d7e5450-4d34-4458-b884-64416009e220"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "No hace falta que les escriba acerca de esta ayuda para los santos,",
+					"number": 1,
+					"id": "0b00b19e-f2e1-431d-a4d0-4d5f2444c7fe"
+				},
+				{
+					"verse": "porque conozco la buena disposición que ustedes tienen.  Esto lo he comentado con orgullo entre los macedonios,  diciéndoles que desde el año pasado ustedes los de Acaya estaban preparados para dar.  El entusiasmo de ustedes ha servido de estímulo a la mayoría de ellos.",
+					"number": 2,
+					"id": "308828a6-3f0b-43de-af5f-9a0eea6a9988"
+				},
+				{
+					"verse": "Con todo,  les envío a estos hermanos para que en este asunto no resulte vano nuestro orgullo por ustedes,  sino que estén preparados,  como ya he dicho que lo estarían,",
+					"number": 3,
+					"id": "0531ee5c-6a58-4e65-b579-0fbaf7a89540"
+				},
+				{
+					"verse": "no sea que algunos macedonios vayan conmigo y los encuentren desprevenidos.  En ese caso nosotros --por no decir nada de ustedes-- nos avergonzaríamos por haber estado tan seguros.",
+					"number": 4,
+					"id": "f77f564e-cc9e-43c4-8498-d192458c756e"
+				},
+				{
+					"verse": "Así que me pareció necesario rogar a estos hermanos que se adelantaran a visitarlos y completaran los preparativos para esa generosa colecta que ustedes habían prometido.  Entonces estará lista como una ofrenda generosa,* y no como una tacañería.",
+					"number": 5,
+					"id": "2e34b689-c406-4dd0-89d5-5d642c01d1be"
+				},
+				{
+					"verse": "Recuerden esto:  El que siembra escasamente,  escasamente cosechará,  y el que siembra en abundancia,  en abundancia cosechará.*",
+					"number": 6,
+					"id": "d3b90882-a4a2-4d86-9703-1a70c246d691"
+				},
+				{
+					"verse": "Cada uno debe dar según lo que haya decidido en su corazón,  no de mala gana ni por obligación,  porque Dios ama al que da con alegría.",
+					"number": 7,
+					"id": "b721cdad-2541-45a1-bee1-75bfd09dd888"
+				},
+				{
+					"verse": "Y Dios puede hacer que toda gracia abunde para ustedes,  de manera que siempre,  en toda circunstancia,  tengan todo lo necesario,  y toda buena obra abunde en ustedes.",
+					"number": 8,
+					"id": "54266167-e7a8-434b-8b34-c86e85541732"
+				},
+				{
+					"verse": "Como está escrito:  \"Esparció y dio a los pobres;  su justicia permanece para siempre.\"*",
+					"number": 9,
+					"id": "1ecacb34-ea60-4256-8306-d48bd5c5d5e8"
+				},
+				{
+					"verse": "El que le suple semilla al que siembra también le suplirá pan para que coma,  aumentará los cultivos y hará que ustedes produzcan una abundante cosecha de justicia.",
+					"number": 10,
+					"id": "d94a2fc6-e66d-4699-9585-0a5eba089b79"
+				},
+				{
+					"verse": "Ustedes serán enriquecidos en todo sentido para que en toda ocasión puedan ser generosos,  y para que por medio de nosotros la generosidad de ustedes resulte en acciones de gracias a Dios.",
+					"number": 11,
+					"id": "42a27094-dbef-429d-b55c-35335c913e1b"
+				},
+				{
+					"verse": "Esta ayuda que es un servicio sagrado no sólo suple las necesidades de los santos sino que también redunda en abundantes acciones de gracias a Dios.",
+					"number": 12,
+					"id": "c018c281-e7e9-40a1-af68-9a57766d439a"
+				},
+				{
+					"verse": "En efecto,  al recibir esta demostración de servicio,  ellos alabarán a Dios por la obediencia con que ustedes acompañan la confesión del evangelio de Cristo,  y por su generosa solidaridad con ellos y con todos.",
+					"number": 13,
+					"id": "02891051-02c3-4a13-9d26-d33394402aea"
+				},
+				{
+					"verse": "Además,  en las oraciones de ellos por ustedes,  expresarán el afecto que les tienen por la sobreabundante gracia que ustedes han recibido de Dios.",
+					"number": 14,
+					"id": "78d2a2bc-02b4-4081-80be-f79f19bdd61d"
+				},
+				{
+					"verse": "¡Gracias a Dios por su don inefable!",
+					"number": 15,
+					"id": "042b9c98-4e6e-485a-9700-42088bc869c7"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Por la ternura y la bondad de Cristo,  yo,  Pablo,  apelo a ustedes personalmente;  yo mismo que,  según dicen,  soy tímido cuando me encuentro cara a cara con ustedes pero atrevido cuando estoy lejos.",
+					"number": 1,
+					"study": "Pablo defiende su ministerio",
+					"id": "0b9a5e54-583a-4579-9dcb-a22330bb9a26"
+				},
+				{
+					"verse": "Les ruego que cuando vaya no tenga que ser tan atrevido como me he propuesto ser con algunos que opinan que vivimos según criterios meramente humanos,",
+					"number": 2,
+					"id": "44b4ad64-3045-4e32-95ea-6e86c2e74047"
+				},
+				{
+					"verse": "pues aunque vivimos en el mundo,  no libramos batallas como lo hace el mundo.",
+					"number": 3,
+					"id": "203a7a15-0d80-4310-859d-2341f17cc829"
+				},
+				{
+					"verse": "Las armas con que luchamos no son del mundo,  sino que tienen el poder divino para derribar fortalezas.",
+					"number": 4,
+					"id": "4f2b2a4d-67cf-4477-af17-0f703bd7314a"
+				},
+				{
+					"verse": "Destruimos argumentos y toda altivez que se levanta contra el conocimiento de Dios,  y llevamos cautivo todo pensamiento para que se someta a Cristo.",
+					"number": 5,
+					"id": "3bc22f59-1f5c-40d5-9bd5-625d9212ea92"
+				},
+				{
+					"verse": "Y estamos dispuestos a castigar cualquier acto de desobediencia una vez que yo pueda contar con la completa obediencia de ustedes.",
+					"number": 6,
+					"id": "3984ab80-4654-4ead-b41a-c7526c6739da"
+				},
+				{
+					"verse": "Fíjense en lo que está a la vista.* Si alguno está convencido de ser de Cristo,  considere esto de nuevo:  nosotros somos tan de Cristo como él.",
+					"number": 7,
+					"id": "3b4b9027-e75d-48be-9cdf-c53bed4f5c4f"
+				},
+				{
+					"verse": "No me avergonzaré de jactarme de nuestra autoridad más de la cuenta,  autoridad que el Señor nos ha dado para la edificación y no para la destrucción de ustedes.",
+					"number": 8,
+					"id": "e863b5bf-b5d5-4c6e-853b-0949622e1931"
+				},
+				{
+					"verse": "No quiero dar la impresión de que trato de asustarlos con mis cartas,",
+					"number": 9,
+					"id": "8a4106c7-32f9-4d60-b312-023200531173"
+				},
+				{
+					"verse": "pues algunos dicen:  \"Sus cartas son duras y fuertes,  pero él en persona no impresiona a nadie,  y como orador es un fracaso.\"",
+					"number": 10,
+					"id": "34b12f76-1546-4a7c-af26-a0a51d289b0c"
+				},
+				{
+					"verse": "Tales personas deben darse cuenta de que lo que somos por escrito estando ausentes,  lo seremos con hechos estando presentes.",
+					"number": 11,
+					"id": "1fb8e657-5540-42eb-950b-3309db0bb142"
+				},
+				{
+					"verse": "No nos atrevemos a igualarnos ni a compararnos con algunos que tanto se recomiendan a sí mismos.  Al medirse con su propia medida y compararse unos con otros,  no saben lo que hacen.",
+					"number": 12,
+					"id": "6a995ab8-c9ce-400b-9048-faff7d842374"
+				},
+				{
+					"verse": "Nosotros,  por nuestra parte,  no vamos a jactarnos más de lo debido.  Nos limitaremos al campo que Dios nos ha asignado según su medida,  en la cual también ustedes están incluidos.",
+					"number": 13,
+					"id": "9938d4a3-7be8-4a88-b5b1-76cdc8f61ad7"
+				},
+				{
+					"verse": "Si no hubiéramos estado antes entre ustedes,  se podría alegar que estamos rebasando estos límites,  cuando lo cierto es que fuimos los primeros en llevarles el evangelio de Cristo.",
+					"number": 14,
+					"id": "dcf73732-1ad1-4963-8d97-d84fa77909a3"
+				},
+				{
+					"verse": "No nos jactamos desmedidamente a costa del trabajo que otros han hecho.  Al contrario,  esperamos que,  según vaya creciendo la fe de ustedes,  también nuestro campo de acción entre ustedes se amplíe grandemente,",
+					"number": 15,
+					"id": "c0d42252-38cb-4757-a83d-3aac4f7fe735"
+				},
+				{
+					"verse": "para poder predicar el evangelio más allá de sus regiones,  sin tener que jactarnos del trabajo ya hecho por otros.",
+					"number": 16,
+					"id": "f30d1bda-a2a1-4062-be13-b5e2f6f5b496"
+				},
+				{
+					"verse": "Más bien,  \"el que se quiera enorgullecer,  que se enorgullezca en el Señor\".*",
+					"number": 17,
+					"id": "f7e2c69a-5746-46c1-940a-5f58403b342a"
+				},
+				{
+					"verse": "Porque no es aprobado el que se recomienda a sí mismo sino aquel a quien recomienda el Señor.",
+					"number": 18,
+					"id": "ad31f37a-c693-4860-8fb1-7b50b63f9292"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "¡Ojalá me aguanten unas cuantas tonterías!  ¡Sí,  aguántenmelas!*",
+					"number": 1,
+					"id": "2e52ec19-5e63-4e0b-9dbf-d9cb316ac9c6"
+				},
+				{
+					"verse": "El celo que siento por ustedes proviene de Dios,  pues los tengo prometidos a un solo esposo,  que es Cristo,  para presentárselos como una virgen pura.",
+					"number": 2,
+					"id": "946fb815-c1e8-4e34-b1c8-a4c0a209e320"
+				},
+				{
+					"verse": "Pero me temo que,  así como la serpiente con su astucia engañó a Eva,  los pensamientos de ustedes sean desviados de un compromiso puro y* sincero con Cristo.",
+					"number": 3,
+					"id": "075dfc23-5731-48c4-ac5a-fc2eac7248c4"
+				},
+				{
+					"verse": "Si alguien llega a ustedes predicando a un Jesús diferente del que les hemos predicado nosotros,  o si reciben un espíritu o un evangelio diferentes de los que ya recibieron,  a ése lo aguantan con facilidad.",
+					"number": 4,
+					"id": "8bc72de2-f52b-49ce-879c-10546978ba40"
+				},
+				{
+					"verse": "Pero considero que en nada soy inferior a esos superapóstoles.",
+					"number": 5,
+					"id": "403386e0-3413-4f1a-ad3e-8273c4c68ee8"
+				},
+				{
+					"verse": "Quizás yo sea un mal orador,  pero tengo conocimiento.  Esto se lo hemos demostrado a ustedes de una y mil maneras.",
+					"number": 6,
+					"id": "562a596e-47ec-4e83-874b-569fd2163d0a"
+				},
+				{
+					"verse": "¿Es que cometí un pecado al humillarme yo para enaltecerlos a ustedes,  predicándoles el evangelio de Dios gratuitamente?",
+					"number": 7,
+					"id": "b9bb5a5a-2709-43fc-adb0-0d93f9110773"
+				},
+				{
+					"verse": "De hecho,  despojé a otras iglesias al recibir de ellas ayuda para servirles a ustedes.",
+					"number": 8,
+					"id": "e7a33555-706e-4861-878c-98ea2e5b69a0"
+				},
+				{
+					"verse": "Cuando estuve entre ustedes y necesité algo,  no fui una carga para nadie,  ya que los hermanos que llegaron de Macedonia suplieron mis necesidades.  He evitado serles una carga en cualquier sentido,  y seguiré evitándolo.",
+					"number": 9,
+					"id": "0d91c2cd-76d9-4053-99a4-6445e94e7e26"
+				},
+				{
+					"verse": "Es tan cierto que la verdad de Cristo está en mí,  como lo es que nadie en las regiones de Acaya podrá privarme de este motivo de orgullo.",
+					"number": 10,
+					"id": "93b58d0c-82bf-4bff-80b1-ba616c01887e"
+				},
+				{
+					"verse": "¿Por qué?  ¿Porque no los amo?  ¡Dios sabe que sí!",
+					"number": 11,
+					"id": "213755d9-a9f9-4945-8854-73cc70650975"
+				},
+				{
+					"verse": "Pero seguiré haciendo lo que hago,  a fin de quitar todo pretexto a aquellos que,  buscando una oportunidad para hacerse iguales a nosotros,  se jactan de lo que hacen.",
+					"number": 12,
+					"id": "e2118025-d0c9-485a-a517-0835c1ce5546"
+				},
+				{
+					"verse": "Tales individuos son falsos apóstoles,  obreros estafadores,  que se disfrazan de apóstoles de Cristo.",
+					"number": 13,
+					"id": "2df8c10e-6176-4d43-bd82-6afa992d114c"
+				},
+				{
+					"verse": "Y no es de extrañar,  ya que Satanás mismo se disfraza de ángel de luz.",
+					"number": 14,
+					"id": "0fbe9726-b9a6-4f93-929d-24dc525aa7a6"
+				},
+				{
+					"verse": "Por eso no es de sorprenderse que sus servidores se disfracen de servidores de la justicia.  Su fin corresponderá con lo que merecen sus acciones.",
+					"number": 15,
+					"id": "c0bdd0c6-3f01-4384-b0b6-46ff9bdfd433"
+				},
+				{
+					"verse": "Lo repito:  Que nadie me tenga por insensato.  Pero aun cuando así me consideren,  de todos modos recíbanme,  para poder jactarme un poco.",
+					"number": 16,
+					"study": "Sufrimientos de Pablo como apóstol",
+					"id": "e8006b5a-243b-485a-9c74-6aebb109bf56"
+				},
+				{
+					"verse": "Al jactarme tan confiadamente,  no hablo como quisiera el Señor sino con insensatez.",
+					"number": 17,
+					"id": "0837f430-4400-42e3-95d4-29ef8ee9eef5"
+				},
+				{
+					"verse": "Ya que muchos se ufanan como lo hace el mundo,* yo también lo haré.",
+					"number": 18,
+					"id": "6008b6b1-535d-4c6c-948b-bc8e16b55cfe"
+				},
+				{
+					"verse": "Por ser tan sensatos,  ustedes de buena gana aguantan a los insensatos.",
+					"number": 19,
+					"id": "86733d4a-2810-4bcc-96bb-73e34732db07"
+				},
+				{
+					"verse": "Aguantan incluso a cualquiera que los esclaviza,  o los explota,  o se aprovecha de ustedes,  o se comporta con altanería,  o les da de bofetadas.",
+					"number": 20,
+					"id": "c706ff27-fa37-4786-bfa8-835acfaa248a"
+				},
+				{
+					"verse": "¡Para vergüenza mía,  confieso que hemos sido demasiado débiles!  Si alguien se atreve a dárselas de algo,  también yo me atrevo a hacerlo;  lo digo como un insensato.",
+					"number": 21,
+					"id": "0322de00-3757-4dec-95b0-aa96e79d6576"
+				},
+				{
+					"verse": "¿Son ellos hebreos?  Pues yo también.  ¿Son israelitas?  También yo lo soy.  ¿Son descendientes de Abraham?  Yo también.",
+					"number": 22,
+					"id": "97d6c643-c19e-46cc-bd7e-09b5aeebcce3"
+				},
+				{
+					"verse": "¿Son servidores de Cristo?  ¡Qué locura!  Yo lo soy más que ellos.  He trabajado más arduamente,  he sido encarcelado más veces,  he recibido los azotes más severos,  he estado en peligro de muerte repetidas veces.",
+					"number": 23,
+					"id": "f8fc032f-945c-4141-bbfc-f12ba09a5027"
+				},
+				{
+					"verse": "Cinco veces recibí de los judíos los treinta y nueve azotes.",
+					"number": 24,
+					"id": "7c78a3e3-8ed4-49d2-9b2d-cfcd289a8cda"
+				},
+				{
+					"verse": "Tres veces me golpearon con varas,  una vez me apedrearon,  tres veces naufragué,  y pasé un día y una noche como náufrago en alta mar.",
+					"number": 25,
+					"id": "4c778be5-7700-4c1e-a095-095f67656a83"
+				},
+				{
+					"verse": "Mi vida ha sido un continuo ir y venir de un sitio a otro;  en peligros de ríos,  peligros de bandidos,  peligros de parte de mis compatriotas,  peligros a manos de los gentiles,  peligros en la ciudad,  peligros en el campo,  peligros en el mar y peligros de parte de falsos hermanos.",
+					"number": 26,
+					"id": "4d8b033e-d24d-4ca5-bf9c-7e71677c8584"
+				},
+				{
+					"verse": "He pasado muchos trabajos y fatigas,  y muchas veces me he quedado sin dormir;  he sufrido hambre y sed,  y muchas veces me he quedado en ayunas;  he sufrido frío y desnudez.",
+					"number": 27,
+					"id": "a0ce19f2-bd4a-46c6-be91-d763b5e0280f"
+				},
+				{
+					"verse": "Y como si fuera poco,  cada día pesa sobre mí la preocupación por todas las iglesias.",
+					"number": 28,
+					"id": "5401f369-3d0e-4e24-9892-582c7ff7ae75"
+				},
+				{
+					"verse": "¿Cuando alguien se siente débil,  no comparto yo su debilidad?  ¿Y cuando a alguien se le hace tropezar,  no ardo yo de indignación?",
+					"number": 29,
+					"id": "c8da02a3-5397-4c74-9e79-3d5ac6c971b5"
+				},
+				{
+					"verse": "Si me veo obligado a jactarme,  me jactaré de mi debilidad.",
+					"number": 30,
+					"id": "c60d7f69-9188-4dba-8da6-805238245743"
+				},
+				{
+					"verse": "El Dios y Padre del Señor Jesús  (¡sea por siempre alabado!)  sabe que no miento.",
+					"number": 31,
+					"id": "2e16aa49-89d3-4bed-b83d-af853d8dfd28"
+				},
+				{
+					"verse": "En Damasco,  el gobernador bajo el rey Aretas mandó que se vigilara la ciudad de los damascenos con el fin de arrestarme;",
+					"number": 32,
+					"id": "fd52a4d4-690e-497b-b31b-45db61b65475"
+				},
+				{
+					"verse": "pero me bajaron en un canasto por una ventana de la muralla,  y así escapé de las manos del gobernador.",
+					"number": 33,
+					"id": "f4276b25-e2e8-4ae0-a59f-c5c83159c059"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "Me veo obligado a jactarme,  aunque nada se gane con ello.  Paso a referirme a las visiones y revelaciones del Señor.",
+					"number": 1,
+					"study": "El aguijón en la carne",
+					"id": "a14373bc-211b-4b15-84a3-88a22d1ae87e"
+				},
+				{
+					"verse": "Conozco a un seguidor de Cristo que hace catorce años fue llevado al tercer cielo  (no sé si en el cuerpo o fuera del cuerpo;  Dios lo sabe).",
+					"number": 2,
+					"id": "8add3b52-27eb-4206-bef6-c8c77f6c9adc"
+				},
+				{
+					"verse": "Y sé que este hombre  (no sé si en el cuerpo o aparte del cuerpo;  Dios lo sabe)",
+					"number": 3,
+					"id": "31be17e6-5e6a-49f9-a105-9ed5f7c7c9f2"
+				},
+				{
+					"verse": "fue llevado al paraíso y escuchó cosas indecibles que a los humanos no se nos permite expresar.",
+					"number": 4,
+					"id": "20caa4bb-4697-474d-82ca-9d2569c5498b"
+				},
+				{
+					"verse": "De tal hombre podría hacer alarde;  pero de mí no haré alarde sino de mis debilidades.",
+					"number": 5,
+					"id": "02dc8ecc-71f8-4a7c-82a1-0e3c8325a417"
+				},
+				{
+					"verse": "Sin embargo,  no sería insensato si decidiera jactarme,  porque estaría diciendo la verdad.  Pero no lo hago,  para que nadie suponga que soy más de lo que aparento o de lo que digo.",
+					"number": 6,
+					"id": "7f24a734-5ffc-4cad-b6da-ec09e0d5b4c1"
+				},
+				{
+					"verse": "Para evitar que me volviera presumido por estas sublimes revelaciones,  una espina me fue clavada en el cuerpo,  es decir,  un mensajero de Satanás,  para que me atormentara.",
+					"number": 7,
+					"id": "45ce6d23-3219-4d96-a964-9210ffc07e4e"
+				},
+				{
+					"verse": "Tres veces le rogué al Señor que me la quitara;",
+					"number": 8,
+					"id": "c954b875-fa8c-4f87-a3e3-a9cd0fcd98af"
+				},
+				{
+					"verse": "pero él me dijo:  \"Te basta con mi gracia,  pues mi poder se perfecciona en la debilidad.\"  Por lo tanto,  gustosamente haré más bien alarde de mis debilidades,  para que permanezca sobre mí el poder de Cristo.",
+					"number": 9,
+					"id": "809948f0-5a4d-4f96-a8ad-2d738f3137c9"
+				},
+				{
+					"verse": "Por eso me regocijo en debilidades,  insultos,  privaciones,  persecuciones y dificultades que sufro por Cristo;  porque cuando soy débil,  entonces soy fuerte.",
+					"number": 10,
+					"id": "7f11eb94-8470-4e77-8196-2b47a3943611"
+				},
+				{
+					"verse": "Me he portado como un insensato,  pero ustedes me han obligado a ello.  Ustedes debían haberme elogiado,  pues de ningún modo soy inferior a los superapóstoles,  aunque yo no soy nada.",
+					"number": 11,
+					"id": "aa17daff-757f-432a-9214-966560791439"
+				},
+				{
+					"verse": "Las marcas distintivas de un apóstol,  tales como señales,  prodigios y milagros,  se dieron constantemente entre ustedes.",
+					"number": 12,
+					"id": "a5c1f334-6410-430e-9c86-db9e6c68bc40"
+				},
+				{
+					"verse": "¿En qué fueron ustedes inferiores a las demás iglesias?  Pues sólo en que yo mismo nunca les fui una carga.  ¡Perdónenme si los ofendo!",
+					"number": 13,
+					"id": "1ca6ceb6-c7bb-48bc-a95e-813a0e6c1501"
+				},
+				{
+					"verse": "Miren que por tercera vez estoy listo para visitarlos,  y no les seré una carga,  pues no me interesa lo que ustedes tienen sino lo que ustedes son.  Después de todo,  no son los hijos los que deben ahorrar para los padres,  sino los padres para los hijos.",
+					"number": 14,
+					"study": "Pablo anuncia su tercera visita",
+					"id": "88efa79c-529f-4740-b731-5c53d2bfa333"
+				},
+				{
+					"verse": "Así que de buena gana gastaré todo lo que tengo,  y hasta yo mismo me desgastaré del todo por ustedes.  Si los amo hasta el extremo,  ¿me amarán menos?",
+					"number": 15,
+					"id": "4540954a-39f8-4198-b79c-4f6e847d1f22"
+				},
+				{
+					"verse": "En todo caso,  no les he sido una carga.  ¿Es que,  como soy tan astuto,  les tendí una trampa para estafarlos?",
+					"number": 16,
+					"id": "e32d9f24-6bf6-441f-9635-78a8545b5acd"
+				},
+				{
+					"verse": "¿Acaso los exploté por medio de alguno de mis enviados?",
+					"number": 17,
+					"id": "08540592-9942-4869-b981-7ade8696f047"
+				},
+				{
+					"verse": "Le rogué a Tito que fuera a verlos y con él envié al hermano.  ¿Acaso se aprovechó Tito de ustedes?  ¿No procedimos los dos con el mismo espíritu y seguimos el mismo camino?",
+					"number": 18,
+					"id": "60df8169-cc4f-485e-923f-6911b01ebe93"
+				},
+				{
+					"verse": "¿Todo este tiempo han venido pensando que nos estábamos justificando ante ustedes?  ¡Más bien,  hemos estado hablando delante de Dios en Cristo!  Todo lo que hacemos,  queridos hermanos,  es para su edificación.",
+					"number": 19,
+					"id": "49c8fb22-1f96-40d9-867f-8d7a14eef2c1"
+				},
+				{
+					"verse": "En realidad,  me temo que cuando vaya a verlos no los encuentre como quisiera,  ni ustedes me encuentren a mí como quisieran.  Temo que haya peleas,  celos,  arrebatos de ira,  rivalidades,  calumnias,  chismes,  insultos y alborotos.",
+					"number": 20,
+					"id": "e50073c8-44a7-4abb-bc53-1ca098d8a426"
+				},
+				{
+					"verse": "Temo que,  al volver a visitarlos,  mi Dios me humille delante de ustedes,  y que yo tenga que llorar por muchos que han pecado desde hace algún tiempo pero no se han arrepentido de la impureza,  de la inmoralidad sexual y de los vicios a que se han entregado.",
+					"number": 21,
+					"id": "8a222624-410c-4628-a17d-0d564dc11f25"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "Ésta será la tercera vez que los visito.  \"Que todo asunto se haga constar por el testimonio de dos o tres testigos.\"*",
+					"number": 1,
+					"id": "b11bcf71-8fdc-4c45-9c91-a3d2e5c72fb0"
+				},
+				{
+					"verse": "Cuando estuve con ustedes por segunda vez les advertí,  y ahora que estoy ausente se lo repito:  Cuando vuelva a verlos,  no seré indulgente con los que antes pecaron ni con ningún otro,",
+					"number": 2,
+					"id": "34d1d0d9-a517-437a-b566-ef56f1e84291"
+				},
+				{
+					"verse": "ya que están exigiendo una prueba de que Cristo habla por medio de mí.  Él no se muestra débil en su trato con ustedes,  sino que ejerce su poder entre ustedes.",
+					"number": 3,
+					"id": "825f0ad7-84e4-473b-b8c7-12821f02d82b"
+				},
+				{
+					"verse": "Es cierto que fue crucificado en debilidad,  pero ahora vive por el poder de Dios.  De igual manera,  nosotros participamos de su debilidad,  pero por el poder de Dios viviremos con Cristo para ustedes.",
+					"number": 4,
+					"id": "33c9a409-4311-42ea-9bea-f14e54a7e6b5"
+				},
+				{
+					"verse": "Examínense para ver si están en la fe;  pruébense a sí mismos.  ¿No se dan cuenta de que Cristo Jesús está en ustedes?  ¡A menos que fracasen en la prueba!",
+					"number": 5,
+					"id": "6da55d92-ebea-42d6-bf5c-9dadccb1e58b"
+				},
+				{
+					"verse": "Espero que reconozcan que nosotros no hemos fracasado.",
+					"number": 6,
+					"id": "d12ffd27-42ce-43ff-921c-ccbbaf77fda4"
+				},
+				{
+					"verse": "Pedimos a Dios que no hagan nada malo,  no para demostrar mi éxito,  sino para que hagan lo bueno,  aunque parezca que nosotros hemos fracasado.",
+					"number": 7,
+					"id": "a06c57b0-e013-42b7-9187-df09b68b25f1"
+				},
+				{
+					"verse": "Pues nada podemos hacer contra la verdad,  sino a favor de la verdad.",
+					"number": 8,
+					"id": "7a8a6974-aff9-46f7-9008-e779b80ac714"
+				},
+				{
+					"verse": "De hecho,  nos alegramos cuando nosotros somos débiles y ustedes fuertes;  y oramos a Dios para que los restaure plenamente.",
+					"number": 9,
+					"id": "709d165e-8ff3-4750-91b4-dc41ebfe5096"
+				},
+				{
+					"verse": "Por eso les escribo todo esto en mi ausencia,  para que cuando vaya no tenga que ser severo en el uso de mi autoridad,  la cual el Señor me ha dado para edificación y no para destrucción.",
+					"number": 10,
+					"id": "fa440e90-ab88-4c66-9c14-50c6ac6893fa"
+				},
+				{
+					"verse": "En fin,  hermanos,  alégrense,  busquen* su restauración,  hagan caso de mi exhortación,  sean de un mismo sentir,  vivan en paz.  Y el Dios de amor y de paz estará con ustedes.",
+					"number": 11,
+					"study": "Saludos y doxología final",
+					"id": "202c3a3a-1277-4ac3-a64e-9472245a4306"
+				},
+				{
+					"verse": "Salúdense unos a otros con un beso santo.",
+					"number": 12,
+					"id": "1174cda3-af81-4861-82ac-b13c29e22870"
+				},
+				{
+					"verse": "Todos los santos les mandan saludos.",
+					"number": 13,
+					"id": "45bdcb63-86f0-43cf-8e98-e5c361e7434a"
+				},
+				{
+					"verse": "Que la gracia del Señor Jesucristo,  el amor de Dios y la comunión del Espíritu Santo sean con todos ustedes.",
+					"number": 14,
+					"id": "6861a286-fd78-40f8-b989-d95e45a74277"
+				}
+			]
+		}
+	],
+	"book_id": "bbe0d58f-8d1a-4bcd-af5d-22951a71efb2"
+}

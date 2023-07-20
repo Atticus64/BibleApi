@@ -1,0 +1,485 @@
+{
+	"name": "1-Tesalonicenses",
+	"num_chapters": 5,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+					"number": 1,
+					"study": "Salutación",
+					"id": "1904cdd3-1a25-4986-8243-da22195f32f3"
+				},
+				{
+					"verse": "Damos siempre gracias a Dios por todos vosotros, haciendo memoria de vosotros en nuestras oraciones,",
+					"number": 2,
+					"study": "Ejemplo de los tesalonicenses",
+					"id": "05af33fe-f2f2-40e2-b658-7799d6937f84"
+				},
+				{
+					"verse": "acordándonos sin cesar delante del Dios y Padre nuestro de la obra de vuestra fe, del trabajo de vuestro amor y de vuestra constancia en la esperanza en nuestro Señor Jesucristo.",
+					"number": 3,
+					"id": "271284c0-8955-44c6-906f-74a7ee2bb3f4"
+				},
+				{
+					"verse": "Sabemos, hermanos amados de Dios, que él os ha elegido,",
+					"number": 4,
+					"id": "9f1709b9-498e-4fcd-bfb3-4a0d66330fb3"
+				},
+				{
+					"verse": "pues nuestro evangelio no llegó a vosotros en palabras solamente, sino también en poder, en el Espíritu Santo y en plena certidumbre. Bien sabéis cómo nos portamos entre vosotros por amor de vosotros.",
+					"number": 5,
+					"id": "5c49d7b9-39de-4247-9116-7031c66df687"
+				},
+				{
+					"verse": "Vosotros vinisteis a ser imitadores nuestros y del Señor, recibiendo la palabra en medio de gran tribulación, con el gozo que da el Espíritu Santo.",
+					"number": 6,
+					"id": "0984d1fe-3ebe-451b-93bd-0b1f17953b19"
+				},
+				{
+					"verse": "De esta manera habéis sido ejemplo a todos los creyentes de Macedonia y de Acaya,",
+					"number": 7,
+					"id": "f3e10758-39d4-4e11-ae19-db7d4868ca3e"
+				},
+				{
+					"verse": "porque partiendo de vosotros ha sido divulgada la palabra del Señor; y no solo en Macedonia y Acaya, sino que también en todo lugar vuestra fe en Dios se ha extendido, de modo que nosotros no tenemos necesidad de hablar nada.",
+					"number": 8,
+					"id": "a921a696-dcc6-40ee-9674-0e2723a928f1"
+				},
+				{
+					"verse": "Ellos mismos cuentan de nosotros cómo nos recibisteis y cómo os convertisteis de los ídolos a Dios, para servir al Dios vivo y verdadero",
+					"number": 9,
+					"id": "c23fdaf5-27b7-4618-88e7-65a8cda03524"
+				},
+				{
+					"verse": "y esperar de los cielos a su Hijo, al cual resucitó de los muertos, a Jesús, quien nos libra de la ira venidera.",
+					"number": 10,
+					"id": "a2612049-fe3e-44de-bb91-80869cef0c14"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Vosotros mismos sabéis, hermanos, que nuestra visita a vosotros no fue en vano,",
+					"number": 1,
+					"study": "Ministerio de Pablo en Tesalónica",
+					"id": "2c478944-0d55-48ac-b6e6-c7756ac85b99"
+				},
+				{
+					"verse": "pues habiendo antes padecido y sido ultrajados en Filipos, como sabéis, Dios nos dio valor para anunciaros su evangelio en medio de una fuerte oposición.",
+					"number": 2,
+					"id": "4a9af28f-ee1c-43c9-8ad3-ff8c049f3aaa"
+				},
+				{
+					"verse": "Nuestra exhortación no procedió de error ni de impureza, ni fue por engaño.",
+					"number": 3,
+					"id": "10f9930d-aab9-46f2-9cca-3770201ed968"
+				},
+				{
+					"verse": "Al contrario, si hablamos es porque Dios nos aprobó y nos confió el evangelio. No procuramos agradar a los hombres, sino a Dios, que prueba nuestros corazones,",
+					"number": 4,
+					"id": "6f8c6412-5a74-4927-b600-36def06b28c6"
+				},
+				{
+					"verse": "porque nunca usamos de palabras lisonjeras, como sabéis, ni encubrimos avaricia. Dios es testigo.",
+					"number": 5,
+					"id": "e4821e41-5e7b-46ed-b7ce-ce5c22d9afc8"
+				},
+				{
+					"verse": "Tampoco buscamos gloria de los hombres, ni de vosotros ni de otros, aunque podíamos seros carga como apóstoles de Cristo.",
+					"number": 6,
+					"id": "c8ebd54a-348f-45ea-b65c-fb44e3318aa9"
+				},
+				{
+					"verse": "Antes bien, nos portamos con ternura entre vosotros, como cuida una madre con amor a sus propios hijos.",
+					"number": 7,
+					"id": "a6df0280-7a07-4391-ac32-0d9d8c95832c"
+				},
+				{
+					"verse": "Tan grande es nuestro afecto por vosotros, que hubiéramos querido entregaros no solo el evangelio de Dios, sino también nuestras propias vidas, porque habéis llegado a sernos muy queridos.",
+					"number": 8,
+					"id": "661f6ddb-359b-4050-ba99-45b80421bfb8"
+				},
+				{
+					"verse": "Os acordáis, hermanos, de nuestro trabajo y fatiga; cómo, trabajando de noche y de día, para no ser gravosos a ninguno de vosotros, os predicamos el evangelio de Dios.",
+					"number": 9,
+					"id": "0034d9fa-433f-4aed-8068-b583ee5f8fbf"
+				},
+				{
+					"verse": "Vosotros sois testigos, y Dios también, de cuán santa, justa e irreprochablemente nos comportamos con vosotros los creyentes.",
+					"number": 10,
+					"id": "e15deb84-1245-4d50-a1a7-c5c0ec8e41ed"
+				},
+				{
+					"verse": "También sabéis de qué modo, como el padre a sus hijos, exhortábamos y consolábamos a cada uno de vosotros,",
+					"number": 11,
+					"id": "11af7a37-24bb-4f1c-943f-55edeea772de"
+				},
+				{
+					"verse": "y os encargábamos que anduvierais como es digno de Dios, que os llamó a su Reino y gloria.",
+					"number": 12,
+					"id": "78a1c52f-966d-43cc-b42e-fa9778daadf4"
+				},
+				{
+					"verse": "Por lo cual también nosotros damos gracias a Dios sin cesar, porque cuando recibisteis la palabra de Dios que oísteis de nosotros, la recibisteis no como palabra de hombres, sino según es en verdad, la palabra de Dios, la cual actúa en vosotros los creyentes.",
+					"number": 13,
+					"id": "843a137c-1a66-4504-b82c-c8ef8f9de984"
+				},
+				{
+					"verse": "Vosotros, hermanos, vinisteis a ser imitadores de las iglesias de Dios en Cristo Jesús que están en Judea, pues habéis padecido de los de vuestra propia nación las mismas cosas que ellas padecieron de los judíos.",
+					"number": 14,
+					"id": "33450f3a-aa41-4597-b4cc-09158feb8041"
+				},
+				{
+					"verse": "Estos mataron al Señor Jesús y a sus propios profetas, y a nosotros nos expulsaron; no agradan a Dios y se oponen a todos los hombres,",
+					"number": 15,
+					"id": "f610a0e2-6377-4890-988c-77ddcebe9a69"
+				},
+				{
+					"verse": "impidiéndonos hablar a los gentiles para que estos se salven. De esta manera colman siempre la medida de sus pecados, pues vino sobre ellos la ira hasta el extremo.",
+					"number": 16,
+					"id": "18396108-1e3d-4f76-b64d-0d076aee8802"
+				},
+				{
+					"verse": "En cuanto a nosotros, hermanos, separados de vosotros por un poco de tiempo, de vista pero no de corazón, deseábamos ardientemente ver vuestro rostro.",
+					"number": 17,
+					"study": "Ausencia de Pablo de la iglesia",
+					"id": "bf369e00-b947-4beb-b85b-1661fdaf1e31"
+				},
+				{
+					"verse": "Por eso quisimos ir a vosotros, yo, Pablo, ciertamente una y otra vez, pero Satanás nos estorbó,",
+					"number": 18,
+					"id": "3b46e0e4-662a-4d1f-9157-314c4ee84217"
+				},
+				{
+					"verse": "pues ¿cuál es nuestra esperanza, gozo o corona de que me gloríe? ¿No lo sois vosotros, delante de nuestro Señor Jesucristo, en su venida?",
+					"number": 19,
+					"id": "d02fe84a-381d-4de5-8094-bd9b3b287a75"
+				},
+				{
+					"verse": "Vosotros sois nuestra gloria y gozo.",
+					"number": 20,
+					"id": "f76ed703-5a3a-4fee-a4e3-7988ca561840"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por eso, no pudiendo soportarlo más, acordamos quedarnos solos en Atenas,",
+					"number": 1,
+					"id": "8567def0-650e-4b31-b459-6ac257751053"
+				},
+				{
+					"verse": "y enviamos a Timoteo, nuestro hermano, servidor de Dios y colaborador nuestro en el evangelio de Cristo, para confirmaros y exhortaros respecto a vuestra fe,",
+					"number": 2,
+					"id": "bfa01231-6b3c-4a32-8104-f87f8dd1f26d"
+				},
+				{
+					"verse": "a fin de que nadie se inquiete por estas tribulaciones, porque vosotros mismos sabéis que para esto estamos puestos.",
+					"number": 3,
+					"id": "1a5e3897-a1b6-42d5-a81f-67fa2af76271"
+				},
+				{
+					"verse": "Cuando estábamos con vosotros os predecíamos que íbamos a pasar tribulaciones; y así sucedió, como bien sabéis.",
+					"number": 4,
+					"id": "3de9a666-d322-4679-bfc4-a02209fd92b4"
+				},
+				{
+					"verse": "Por eso también yo, no pudiendo soportar más, envié para informarme de vuestra fe, pues temía que os hubiera tentado el tentador y que nuestro trabajo hubiera resultado en vano.",
+					"number": 5,
+					"id": "19e68f7a-e463-416f-9cda-3e71ed811d73"
+				},
+				{
+					"verse": "Pero cuando Timoteo regresó, nos dio buenas noticias de vuestra fe y amor, y que siempre nos recordáis con cariño, y que deseáis vernos, como también nosotros a vosotros.",
+					"number": 6,
+					"id": "b9b00f7c-e43e-4a8f-9e8a-278621fedf30"
+				},
+				{
+					"verse": "Por eso, hermanos, en medio de toda nuestra necesidad y aflicción fuimos consolados al saber de vuestra fe.",
+					"number": 7,
+					"id": "0741eb49-9873-4efd-b7df-c8e84f8173aa"
+				},
+				{
+					"verse": "De modo que ahora hemos vuelto a vivir, sabiendo que estáis firmes en el Señor.",
+					"number": 8,
+					"id": "7c26fa93-e0e6-42b5-9247-ba32f77ba379"
+				},
+				{
+					"verse": "Por lo cual, ¿qué acción de gracias podremos dar a Dios por vosotros, por todo el gozo con que nos gozamos a causa de vosotros delante de nuestro Dios,",
+					"number": 9,
+					"id": "36037260-6715-42e1-acad-1981b177ed1f"
+				},
+				{
+					"verse": "orando de noche y de día con gran insistencia, para que veamos vuestro rostro y completemos lo que falte a vuestra fe?",
+					"number": 10,
+					"id": "47d73f9b-3178-4fc4-8984-4908126d2b60"
+				},
+				{
+					"verse": "Pero el mismo Dios y Padre nuestro, y nuestro Señor Jesucristo, dirija nuestro camino a vosotros.",
+					"number": 11,
+					"id": "53d396ce-694b-48f0-ade3-a50158467010"
+				},
+				{
+					"verse": "Y el Señor os haga crecer y abundar en amor unos para con otros y para con todos, como también lo hacemos nosotros para con vosotros.",
+					"number": 12,
+					"id": "01797929-c471-4425-8247-0f9fca856477"
+				},
+				{
+					"verse": "Que él afirme vuestros corazones, que os haga irreprochables en santidad delante de Dios nuestro Padre, en la venida de nuestro Señor Jesucristo con todos sus santos.",
+					"number": 13,
+					"id": "4ee0f29c-b2b7-4913-a495-685f1a1ba3b2"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Por lo demás, hermanos, os rogamos y exhortamos en el Señor Jesús que, de la manera que aprendisteis de nosotros cómo os conviene conduciros y agradar a Dios, así abundéis más y más.",
+					"number": 1,
+					"study": "La vida que agrada a Dios",
+					"id": "65760aac-3e85-409f-b116-c47a1d30d84d"
+				},
+				{
+					"verse": "Ya sabéis las instrucciones que os dimos por el Señor Jesús.",
+					"number": 2,
+					"id": "6351890a-ee6b-4f6e-be1c-26b4635e5f46"
+				},
+				{
+					"verse": "La voluntad de Dios es vuestra santificación: que os apartéis de fornicación;",
+					"number": 3,
+					"id": "a42f14a9-a5b5-44b1-b4b9-3525d5fd1407"
+				},
+				{
+					"verse": "que cada uno de vosotros sepa tener su propia esposa en santidad y honor,",
+					"number": 4,
+					"id": "098bc3d8-8961-4609-ac60-17a9fa8581e1"
+				},
+				{
+					"verse": "no en pasión desordenada, como los gentiles que no conocen a Dios;",
+					"number": 5,
+					"id": "4ebdde9b-f9d3-4a95-bad7-31c83258edac"
+				},
+				{
+					"verse": "que ninguno agravie ni engañe en nada a su hermano, porque, como ya os hemos dicho y testificado, el Señor es vengador de todo esto.",
+					"number": 6,
+					"id": "68dd8003-faa1-4497-a2cc-ff4e1ed3ebf6"
+				},
+				{
+					"verse": "Dios no nos ha llamado a inmundicia, sino a santificación.",
+					"number": 7,
+					"id": "ae09c1be-f7e8-4536-ada7-0879b778920e"
+				},
+				{
+					"verse": "Así que, el que desecha esto, no desecha a hombre, sino a Dios, que también nos dio su Espíritu Santo.",
+					"number": 8,
+					"id": "a908be31-0fcd-4f47-9a6b-f81cc69b103f"
+				},
+				{
+					"verse": "Acerca del amor fraternal no tenéis necesidad de que os escriba, porque vosotros mismos habéis aprendido de Dios que os améis unos a otros;",
+					"number": 9,
+					"id": "36f5e06a-91af-4620-8db0-af7703055b16"
+				},
+				{
+					"verse": "y también lo hacéis así con todos los hermanos que están por toda Macedonia. Pero os rogamos, hermanos, que abundéis en ello más y más.",
+					"number": 10,
+					"id": "b393b05a-c09b-4fae-879d-90b73beb5cbe"
+				},
+				{
+					"verse": "Procurad tener tranquilidad, ocupándoos en vuestros negocios y trabajando con vuestras manos de la manera que os hemos mandado,",
+					"number": 11,
+					"id": "cb813112-c807-46de-89e1-4b2a70f60cf7"
+				},
+				{
+					"verse": "a fin de que os conduzcáis honradamente para con los de afuera y no tengáis necesidad de nada.",
+					"number": 12,
+					"id": "fa5ac793-2846-49c2-a53c-e644d58f10f0"
+				},
+				{
+					"verse": "Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.",
+					"number": 13,
+					"study": "La venida del Señor",
+					"id": "4c0448cc-bdad-4d05-bece-ffd5a9e66bbe"
+				},
+				{
+					"verse": "Si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él.",
+					"number": 14,
+					"id": "37f733d6-79c8-4ba3-8531-b7959970c356"
+				},
+				{
+					"verse": "Por lo cual os decimos esto en palabra del Señor: que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no precederemos a los que durmieron.",
+					"number": 15,
+					"id": "22e157a6-14d6-4369-ad43-158c1e213f62"
+				},
+				{
+					"verse": "El Señor mismo, con voz de mando, con voz de arcángel y con trompeta de Dios, descenderá del cielo. Entonces, los muertos en Cristo resucitarán primero.",
+					"number": 16,
+					"id": "86ea0646-d06d-4c71-91f8-64959560b473"
+				},
+				{
+					"verse": "Luego nosotros, los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.",
+					"number": 17,
+					"id": "cc65ba62-aa19-4be8-90c7-be0cce5b9c24"
+				},
+				{
+					"verse": "Por tanto, alentaos los unos a los otros con estas palabras.",
+					"number": 18,
+					"id": "ba734aa9-39d2-4fd7-93f0-3c495f1d2513"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Acerca de los tiempos y de las ocasiones, no tenéis necesidad, hermanos, de que yo os escriba,",
+					"number": 1,
+					"id": "1e7c7f6d-81e3-4884-86a6-d6c34702bf9e"
+				},
+				{
+					"verse": "porque vosotros sabéis perfectamente que el día del Señor vendrá así como ladrón en la noche.",
+					"number": 2,
+					"id": "6543463c-45d1-4607-99c5-4d7f2d0369fc"
+				},
+				{
+					"verse": "Cuando digan: \"Paz y seguridad\", entonces vendrá sobre ellos destrucción repentina, como los dolores a la mujer encinta, y no escaparán.",
+					"number": 3,
+					"id": "11e14101-663a-480f-8786-f97ce8017a8c"
+				},
+				{
+					"verse": "Pero vosotros, hermanos, no estáis en tinieblas, para que aquel día os sorprenda como ladrón.",
+					"number": 4,
+					"id": "b6887130-5efd-45a1-af42-6a94411ecdb6"
+				},
+				{
+					"verse": "Porque todos vosotros sois hijos de luz e hijos del día; no somos de la noche ni de las tinieblas.",
+					"number": 5,
+					"id": "aa15553b-91f1-47fc-8bae-b6a6de297553"
+				},
+				{
+					"verse": "Por tanto, no durmamos como los demás, sino vigilemos y seamos sobrios,",
+					"number": 6,
+					"id": "95583b5c-b0cc-4dd8-bab6-dd44ee866bc1"
+				},
+				{
+					"verse": "pues los que duermen, de noche duermen, y los que se embriagan, de noche se embriagan.",
+					"number": 7,
+					"id": "a4d62e82-ce77-41cc-b425-ac3073003a08"
+				},
+				{
+					"verse": "Pero nosotros, que somos del día, seamos sobrios, habiéndonos vestido con la coraza de la fe y del amor, y con la esperanza de salvación como casco.",
+					"number": 8,
+					"id": "5bf833b9-ec14-42a1-9c10-6308decede13"
+				},
+				{
+					"verse": "Dios no nos ha puesto para ira, sino para alcanzar salvación por medio de nuestro Señor Jesucristo,",
+					"number": 9,
+					"id": "9f6d0914-9097-4b5e-a3fa-f4e2c16d8b5f"
+				},
+				{
+					"verse": "quien murió por nosotros para que ya sea que vigilemos, o que durmamos, vivamos juntamente con él.",
+					"number": 10,
+					"id": "b21ca88a-228c-4219-9ae7-8fe6591c0c20"
+				},
+				{
+					"verse": "Por lo cual, animaos unos a otros y edificaos unos a otros, así como lo estáis haciendo.",
+					"number": 11,
+					"id": "1724c730-794c-4e97-a245-e71c952f3b89"
+				},
+				{
+					"verse": "Os rogamos, hermanos, que reconozcáis a los que trabajan entre vosotros y os presiden en el Señor y os amonestan.",
+					"number": 12,
+					"study": "Pablo exhorta a los hermanos",
+					"id": "9a3396bf-efe9-40c2-8362-4abbceb4b02d"
+				},
+				{
+					"verse": "Tenedlos en mucha estima y amor por causa de su obra. Tened paz entre vosotros.",
+					"number": 13,
+					"id": "dffe363b-e721-412c-8b83-273fd9221b2a"
+				},
+				{
+					"verse": "También os rogamos, hermanos, que amonestéis a los ociosos, que alentéis a los de poco ánimo, que sostengáis a los débiles, que seáis pacientes para con todos.",
+					"number": 14,
+					"id": "543bb140-c2b5-4a97-90cd-124b6eaf08da"
+				},
+				{
+					"verse": "Mirad que ninguno pague a otro mal por mal, antes seguid siempre lo bueno unos para con otros y para con todos.",
+					"number": 15,
+					"id": "245d0683-9846-41d8-bd04-8d0df0ad4bfb"
+				},
+				{
+					"verse": "Estad siempre gozosos.",
+					"number": 16,
+					"id": "e3cfb242-6918-44f8-8833-beeefaa8c543"
+				},
+				{
+					"verse": "Orad sin cesar.",
+					"number": 17,
+					"id": "c265d018-d3c7-484e-8b68-3765e61585cf"
+				},
+				{
+					"verse": "Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+					"number": 18,
+					"id": "183a433a-057f-42c4-bd8c-3c6836dc48a6"
+				},
+				{
+					"verse": "No apaguéis al Espíritu.",
+					"number": 19,
+					"id": "f29152cf-0ddc-4d62-9525-a17b7df8af2c"
+				},
+				{
+					"verse": "No menospreciéis las profecías.",
+					"number": 20,
+					"id": "2c382406-0589-4c11-8107-f0efe651b243"
+				},
+				{
+					"verse": "Examinadlo todo y retened lo bueno.",
+					"number": 21,
+					"id": "6121bca0-4bed-4fa5-b43c-61b348707301"
+				},
+				{
+					"verse": "Absteneos de toda especie de mal.",
+					"number": 22,
+					"id": "81d65c21-f73d-4a00-8ea6-44a8424f4545"
+				},
+				{
+					"verse": "Que el mismo Dios de paz os santifique por completo; y todo vuestro ser --espíritu, alma y cuerpo-- sea guardado irreprochable para la venida de nuestro Señor Jesucristo.",
+					"number": 23,
+					"id": "3d76b026-f386-487d-828e-81c368ff0d48"
+				},
+				{
+					"verse": "Fiel es el que os llama, el cual también lo hará.",
+					"number": 24,
+					"id": "65d5420f-48a6-4d32-bb64-032b8fde41e1"
+				},
+				{
+					"verse": "Hermanos, orad por nosotros.",
+					"number": 25,
+					"study": "Salutaciones y bendición final",
+					"id": "24aec892-f5c8-48b3-8d28-38094b128be1"
+				},
+				{
+					"verse": "Saludad a todos los hermanos con beso santo.",
+					"number": 26,
+					"id": "c8e6f5a6-2fdf-45b0-8462-9cc5517ec592"
+				},
+				{
+					"verse": "Os encargo encarecidamente, por el Señor, que esta carta se lea a todos los santos hermanos.",
+					"number": 27,
+					"id": "db878876-1cfa-4ff7-b56f-628afa37f0c2"
+				},
+				{
+					"verse": "La gracia de nuestro Señor Jesucristo sea con vosotros. Amén.",
+					"number": 28,
+					"id": "95f3ebd1-cfb8-45f4-b591-05e2fde61add"
+				}
+			]
+		}
+	],
+	"book_id": "c38de0ca-d677-4ccf-ac99-ff3e6dd75c01"
+}

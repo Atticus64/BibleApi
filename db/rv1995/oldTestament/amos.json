@@ -1,0 +1,795 @@
+{
+	"name": "Amos",
+	"num_chapters": 9,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Las palabras de Amós, que fue uno de los pastores de Tecoa, que profetizó acerca de Israel en días de Uzías, rey de Judá, y en días de Jeroboam hijo de Joás, rey de Israel, dos años antes del terremoto.",
+					"number": 1,
+					"study": "Juicios contra las naciones vecinas",
+					"id": "29bda070-9f7c-4de5-910b-b5ad6f8e8df5"
+				},
+				{
+					"verse": "Dijo: \"Jehová rugirá desde Sión, dará su voz desde Jerusalén, los campos de los pastores se enlutarán y se secará la cumbre del Carmelo\".",
+					"number": 2,
+					"id": "776c2452-2963-47f0-a280-3b5a06fc85d4"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de Damasco, y por el cuarto, no revocaré su castigo: porque trillaron a Galaad con trillos de hierro.",
+					"number": 3,
+					"id": "365a3729-89b9-45a2-ba62-64c05e78be85"
+				},
+				{
+					"verse": "Prenderé fuego a la casa de Hazael y consumirá los palacios de Ben-adad.",
+					"number": 4,
+					"id": "03bbe945-1ddd-4987-be92-0a9b20b0f328"
+				},
+				{
+					"verse": "Quebraré los cerrojos de Damasco y destruiré a los moradoresdel valle de Avén y a los gobernadores de Bet-edén, y el pueblo de Siriaserá transportado a Kir, dice Jehová\".",
+					"number": 5,
+					"id": "eb1e18c3-424b-48af-8e5f-7f4fb15a3018"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de Gaza, y por el cuarto, no revocaré su castigo: porque llevó cautivo a todo un pueblo para entregarlo a Edom.",
+					"number": 6,
+					"id": "dd4b4607-8c27-409e-9ff3-8027ef5fd55d"
+				},
+				{
+					"verse": "Prenderé fuego al muro de Gaza y consumirá sus palacios.",
+					"number": 7,
+					"id": "2a9bd7ec-f02e-4cfc-bff3-26c673e78ca2"
+				},
+				{
+					"verse": "Destruiré a los moradores de Asdod y a los gobernadores de Ascalón; volveré mi mano contra Ecrón y el resto de los filisteos perecerá, ha dicho Jehová, el Señor\".",
+					"number": 8,
+					"id": "6e8d131b-5d92-47be-a897-53fa7a22cb1c"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de Tiro, y por el cuarto, no revocaré su castigo: porque entregaron a todo un pueblocautivo a Edom y no se acordarondel pacto de hermanos.",
+					"number": 9,
+					"id": "b6466def-5550-4386-93b7-3cb9f27700bb"
+				},
+				{
+					"verse": "Prenderé fuego al muro de Tiro y consumirá sus palacios\".",
+					"number": 10,
+					"id": "48887eb1-b35f-43b7-a2d6-c0ffb3e63478"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de Edom, y por el cuarto, no revocaré su castigo: porque persiguió a espada a su hermano y violó todo afecto natural; en su furor le ha robado siempre y ha guardado perpetuamente el rencor.",
+					"number": 11,
+					"id": "16ca08d7-702e-40de-adc7-9ed798998c9a"
+				},
+				{
+					"verse": "Prenderé fuego a Temán y consumirá los palacios de Bosra\".",
+					"number": 12,
+					"id": "1fe8cbc7-aa01-434d-a216-8005fb4214b1"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de los hijos de Amón, y por el cuarto, no revocaré su castigo: porque para ensanchar sus tierras abrieron a las mujeres de Galaad que estaban embarazadas.",
+					"number": 13,
+					"id": "e2e98ea7-e513-4173-8ca1-c136711d2e62"
+				},
+				{
+					"verse": "Encenderé fuego en el muro de Rabá y consumirá sus palacios con estruendo en el día de la batalla, con tempestad en día tempestuoso;",
+					"number": 14,
+					"id": "047d2b16-b169-4a64-9775-3ed06c2b2a5c"
+				},
+				{
+					"verse": "y su rey irá en cautiverio con todos sus príncipes, dice Jehová\".",
+					"number": 15,
+					"id": "7ed9d204-87a4-485e-9379-aac9e53735e2"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de Moab, y por el cuarto, no revocaré su castigo: porque quemó los huesos del rey de Edom hasta calcinarlos.",
+					"number": 1,
+					"id": "ffdadc43-0600-4d20-857e-a81db724a73a"
+				},
+				{
+					"verse": "Prenderé fuego a Moab y consumirá los palacios de Queriot; y morirá Moab en el tumulto, con estrépito y sonido de trompeta.",
+					"number": 2,
+					"id": "d44f209f-acac-4e90-baf6-fd968db86318"
+				},
+				{
+					"verse": "Quitaré al juez de en medio de él y mataré con él a todos sus príncipes, dice Jehová\".",
+					"number": 3,
+					"id": "89d6292c-cd4c-4076-8f9d-a35d1f92a005"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de Judá, y por el cuarto, no revocaré su castigo: porque menospreciaron la ley de Jehová, no guardaron sus ordenanzas y los hicieron errar sus mentiras, en pos de las cualesanduvieron sus padres.",
+					"number": 4,
+					"id": "8967dc84-e8fa-4082-9c23-e00e083bfdd2"
+				},
+				{
+					"verse": "Prenderé, por tanto, fuego a Judá, el cual consumirá los palacios de Jerusalén\".",
+					"number": 5,
+					"id": "9f35a801-16d5-4cc4-8036-f819ac2bb490"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"Por tres pecados de Israel, y por el cuarto, no revocaré su castigo: porque vendieron por dinero al justo, y al pobre por un par de zapatos.",
+					"number": 6,
+					"study": "Juicio contra Israel",
+					"id": "6f92c167-14e8-4cb5-be41-464b17c24a66"
+				},
+				{
+					"verse": "Pisotean en el polvo de la tierra las cabezas de los desvalidos y tuercen el camino de los humildes. El hijo y el padre se allegana la misma joven, profanando mi santo nombre.",
+					"number": 7,
+					"id": "8cf836ff-0d9e-4ae9-bebb-91f04b559d66"
+				},
+				{
+					"verse": "Sobre las ropas empeñadas se acuestan junto a cualquier altar, y el vino de los multadosbeben en la casa de sus dioses.",
+					"number": 8,
+					"id": "5c00be8d-f268-4f2c-8ec2-22df51e650a3"
+				},
+				{
+					"verse": "Yo destruí delante de ellos a los amorreos que eran altos como los cedros y fuertes como las encinas; destruí su fruto arriba y sus raíces abajo.",
+					"number": 9,
+					"id": "cf17ebac-e4ea-45e4-869e-17d77abb3e4b"
+				},
+				{
+					"verse": "A vosotros os hice subirde la tierra de Egipto y os conduje por el desiertocuarenta años, para que tomarais posesiónde la tierra del amorreo.",
+					"number": 10,
+					"id": "c1f9f682-8b3d-4a0a-a143-846f5bb75de0"
+				},
+				{
+					"verse": "Y levanté profetas entre vuestros hijos y nazareos entre vuestros jóvenes. ¿No es esto cierto, hijos de Israel?, dice Jehová.",
+					"number": 11,
+					"id": "bb7fe665-eeef-458c-b40e-e9abb1970be8"
+				},
+				{
+					"verse": "Mas vosotros disteis a beber vinoa los nazareos, y a los profetas mandasteis diciendo: \"No profeticéis\".",
+					"number": 12,
+					"id": "36b6c2d4-bdc8-4a32-829c-68ae3d8ec4d6"
+				},
+				{
+					"verse": "Por eso, yo os apretaré en vuestro lugar, como se aprieta el carro lleno de gavillas:",
+					"number": 13,
+					"id": "2d68e4c0-062d-47e0-bdd8-dccee66f44ce"
+				},
+				{
+					"verse": "el ligero no podrá huir, al fuerte no le ayudará su fuerza ni el valiente librará su vida;",
+					"number": 14,
+					"id": "65588c0c-082a-4d8c-8490-30520dca3178"
+				},
+				{
+					"verse": "el que maneja el arco no resistirá, ni escapará el ligero de pies ni el jinete salvará su vida.",
+					"number": 15,
+					"id": "884305e8-01fd-4795-80b7-885fc1c717a8"
+				},
+				{
+					"verse": "El esforzado entre los valientes huirá desnudo aquel día, dice Jehová\".",
+					"number": 16,
+					"id": "7f0587b8-bd7f-4a33-97c2-90a15a3936d6"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Oíd esta palabra que ha hablado Jehová contra vosotros, hijos de Israel, contra toda la familia que hice subir de la tierra de Egipto:",
+					"number": 1,
+					"study": "El rugido del león",
+					"id": "a6f94c48-e460-4f27-806b-dd86dda60e47"
+				},
+				{
+					"verse": "\"A vosotros solamente he conocido de todas las familias de la tierra; por tanto, os castigarépor todas vuestras maldades\".",
+					"number": 2,
+					"id": "2def1afa-7ea5-48ec-95c9-9d28f6002065"
+				},
+				{
+					"verse": "¿Andarán dos juntos si no están de acuerdo?",
+					"number": 3,
+					"id": "1c3a9072-a1d5-46f5-a2b6-ea4de75c1da6"
+				},
+				{
+					"verse": "¿Rugirá el león en la selva sin haber presa? ¿Rugirá el cachorro de leóndesde su guarida sin haber cazado nada?",
+					"number": 4,
+					"id": "d1e3a602-6db7-4346-99cb-2cba73f2f69e"
+				},
+				{
+					"verse": "¿Caerá el ave a tierra, en la trampa, si no hay cebo? ¿Saltará la trampa del suelo si no ha atrapado algo?",
+					"number": 5,
+					"id": "78e739e0-1822-4dac-9176-e6589138fee5"
+				},
+				{
+					"verse": "¿Se tocará la trompeta en la ciudad y no se alborotará el pueblo? ¿Habrá algún mal en la ciudad, que Jehová no haya enviado?",
+					"number": 6,
+					"id": "58b31141-e477-4be0-a266-9fa46bb26d3b"
+				},
+				{
+					"verse": "Porque no hará nada Jehová, el Señor, sin revelar su secretoa sus siervos los profetas.",
+					"number": 7,
+					"id": "8628699c-679f-4b1d-a21a-99accab82ed8"
+				},
+				{
+					"verse": "Si el león ruge, ¿quién no temerá? Si habla Jehová, el Señor, ¿quién no profetizará?",
+					"number": 8,
+					"id": "e1a8c5df-006a-47ab-8ede-15be707a31ee"
+				},
+				{
+					"verse": "Proclamad en los palacios de Asdod y en los palacios de la tierra de Egipto, y decid: \"Reuníos sobre los montesde Samaria y ved las muchas opresionesen medio de ella y las violencias cometidas en su medio\".",
+					"number": 9,
+					"study": "Destrucción de Samaria",
+					"id": "f6e330da-6466-488a-88e1-04895c4650d8"
+				},
+				{
+					"verse": "No saben hacer lo recto, dice Jehová; atesoran rapiña y despojo en sus palacios.",
+					"number": 10,
+					"id": "917639d6-6636-4735-9f48-41c5cc7c2d66"
+				},
+				{
+					"verse": "Por eso, Jehová, el Señor, ha dicho: \"Un enemigo vendrápor todos lados de la tierra y derribará tu fortaleza, y tus palacios serán saqueados\".",
+					"number": 11,
+					"id": "a6822011-efcc-49c6-b23c-567a3db9aa36"
+				},
+				{
+					"verse": "Así ha dicho Jehová: \"De la manera como el pastor librade la boca del león dos piernas o la punta de una oreja, así escaparán los hijos de Israel que moran en Samaria, que se sientan en un rincón del diván, en un cómodo lecho\".",
+					"number": 12,
+					"id": "2545aba6-8422-44f1-ab0b-ff036dabca6b"
+				},
+				{
+					"verse": "Oíd y testificad contra la casa de Jacob, dice Jehová, Dios de los ejércitos:",
+					"number": 13,
+					"id": "f1e0cbac-4ae2-4e6f-81e3-0d9c43b717e0"
+				},
+				{
+					"verse": "\"El día que castigue las rebeliones de Israel, castigaré también los altares de Bet-el; los cuernos del altar serán cortados y caerán a tierra.",
+					"number": 14,
+					"id": "cdc21a1a-f347-46a7-960e-72471cf1a5d1"
+				},
+				{
+					"verse": "Derribaré la casa de invierno junto con la casa de verano, y las casas de marfil desaparecerán. Muchas casas serán destruidas, dice Jehová\".",
+					"number": 15,
+					"id": "77a2c61d-6ae6-4e50-a29f-1b129333a0d0"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Oíd esta palabra, vacas de Basán, que estáis en el monte de Samaria, que oprimís a los pobres y quebrantáis a los menesterosos, que decís a vuestros señores:\"Traed de beber\".",
+					"number": 1,
+					"id": "a05b5079-4daf-494b-b69e-267cc7fc64d2"
+				},
+				{
+					"verse": "Jehová, el Señor, juró por su santidad: \"Sobre vosotras vienen días en que os llevarán con ganchos, y a vuestros descendientescon anzuelos de pescador;",
+					"number": 2,
+					"id": "51297bed-3630-4847-ba55-8678c761f4dd"
+				},
+				{
+					"verse": "saldréis por las brechas una tras otra y seréis echadas del palacio, dice Jehová\".",
+					"number": 3,
+					"id": "b0831772-8f4e-4c6a-abec-2cdac8912877"
+				},
+				{
+					"verse": "¡Id a Bet-el y pecad! ¡Aumentad en Gilgal la rebelión! Traed de mañana vuestros sacrificios, y vuestros diezmos cada tres días.",
+					"number": 4,
+					"study": "Aunque castigado, Israel no aprende",
+					"id": "7e088fb1-16e3-415b-95b1-714ed5617f98"
+				},
+				{
+					"verse": "Ofreced sacrificio de alabanzacon pan leudado y proclamad, publicadofrendas voluntarias, pues que así lo queréis, hijos de Israel, dice Jehová, el Señor.",
+					"number": 5,
+					"id": "2e2fca00-7377-49cd-a90b-726e2d75f559"
+				},
+				{
+					"verse": "Os hice pasar hambreen todas vuestras ciudades y hubo falta de panen todos vuestros pueblos; mas no os volvisteis a mí, dice Jehová.",
+					"number": 6,
+					"id": "45ffe312-a86d-433f-a7b5-f4c0567c90e3"
+				},
+				{
+					"verse": "También os detuve la lluvia tres meses antes de la siega; hice llover sobre una ciudad y sobre otra ciudad no hice llover; sobre una parte llovió, y la parte sobre la cual no llovió se secó.",
+					"number": 7,
+					"id": "bcdd69b7-308f-4ce9-8750-52e428e84998"
+				},
+				{
+					"verse": "Venían entonces dos o tres ciudades a una ciudad para beber agua, y no se saciaban. Con todo, no os volvisteis a mí, dice Jehová.",
+					"number": 8,
+					"id": "2631d547-5ba8-4c64-8129-d5942bb7f688"
+				},
+				{
+					"verse": "Os herí con viento del este y con oruga; la langosta devoró vuestros muchoshuertos y vuestras viñas, vuestros higuerales y vuestros olivares, pero nunca os volvisteis a mí, dice Jehová.",
+					"number": 9,
+					"id": "34939a05-dc27-49b6-a631-40b0857fbf47"
+				},
+				{
+					"verse": "Envié contra vosotros mortandad tal como en Egipto; maté a espada a vuestros jóvenes, vuestros caballos fueron capturados e hice subir el hedorde vuestros campamentos hasta vuestras narices; mas no os volvisteis a mí, dice Jehová.",
+					"number": 10,
+					"id": "260e85c0-69e4-4a70-ba37-87109fe22200"
+				},
+				{
+					"verse": "Os trastorné como Dios trastornó a Sodoma y a Gomorra, y fuisteis como tizón escapado del fuego; mas no os volvisteis a mí, dice Jehová.",
+					"number": 11,
+					"id": "d12e1a69-f4c7-456d-9f33-2b130bf2a26d"
+				},
+				{
+					"verse": "Por eso, Israel, haré lo mismo contigo; y porque te he de hacer esto, prepárate, Israel, para venir al encuentro de tu Dios.",
+					"number": 12,
+					"id": "65e0b75d-e353-435f-8d4f-0c737ef4b842"
+				},
+				{
+					"verse": "Ciertamente el que forma los montes y crea el viento, el que anuncia al hombresu pensamiento, hace de las tinieblas mañana y pasa sobre las alturas de la tierra: Jehová, Dios de los ejércitos,es su nombre.",
+					"number": 13,
+					"id": "1b0cd0f0-e242-446f-8446-18bf68e36f7e"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Oíd esta palabra de lamentación que yo levanto sobre vosotros,casa de Israel.",
+					"number": 1,
+					"study": "Llamamiento al arrepentimiento",
+					"id": "456f8e87-1fbf-4458-8b1a-3f47a8faf8aa"
+				},
+				{
+					"verse": "Cayó la virgen de Israel y no podrá levantarse ya más; postrada quedó sobre su tierra y no hay quien la levante.",
+					"number": 2,
+					"id": "a13d84ce-9579-4095-bba3-eeb7b8939835"
+				},
+				{
+					"verse": "Porque así ha dicho Jehová, el Señor: \"La ciudad que salga con mil, volverá con cien, y la que salga con cien volverá con diez, en la casa de Israel\".",
+					"number": 3,
+					"id": "6098f31f-24db-4d36-abce-829017eab696"
+				},
+				{
+					"verse": "Pero así dice Jehová a la casa de Israel: \"Buscadme y viviréis;",
+					"number": 4,
+					"id": "3049c14e-6571-4cec-8b76-aa19127db55c"
+				},
+				{
+					"verse": "mas no busquéis a Bet-el ni entréis en Gilgal ni paséis a Beerseba, porque Gilgal será llevada en cautiverio y Bet-el será deshecha\".",
+					"number": 5,
+					"id": "7b602e9d-faec-48e3-a5d8-93b5d3877b5e"
+				},
+				{
+					"verse": "Buscad a Jehová y vivid, no sea que acometa como fuego a la casa de José y la consuma, sin haber en Bet-elquien lo apague.",
+					"number": 6,
+					"id": "ce975fd6-94fe-4d21-b30b-e69ea17bea4d"
+				},
+				{
+					"verse": "¡Ay de los que convierten en ajenjoel juicio y echan por tierra la justicia!",
+					"number": 7,
+					"id": "79c0e047-670e-4634-b472-9d76f2fa9e32"
+				},
+				{
+					"verse": "Buscad al que hace las Pléyades y el Orión, vuelve las tinieblas en mañana y hace oscurecer el día como noche; el que llama a las aguas del mar y las derrama sobre la faz de la tierra: Jehová es su nombre.",
+					"number": 8,
+					"id": "b2acc565-e0c9-4c3f-8c08-b2fe4e71bde3"
+				},
+				{
+					"verse": "Él trae la ruina sobre el fuerte y hace caer la destrucciónsobre la fortaleza.",
+					"number": 9,
+					"id": "54e62527-fd5a-49de-a634-7af7a37e9f0d"
+				},
+				{
+					"verse": "Ellos aborrecieron al reprensoren la puerta de la ciudad, y al que hablaba lo recto detestaron.",
+					"number": 10,
+					"id": "7a2b5072-a1b7-435c-b4fe-2a258f33e9b1"
+				},
+				{
+					"verse": "Por tanto, puesto que humilláis al pobre y recibís de él carga de trigo, no habitaréis las casas de piedra labrada que edificasteis ni beberéis del vino de las hermosas viñas que plantasteis.",
+					"number": 11,
+					"id": "aa7271b8-9cd5-4376-9c23-2cb928ba7338"
+				},
+				{
+					"verse": "Yo sé de vuestras muchas rebeliones y de vuestros grandes pecados; sé que afligís al justo, recibís cohecho y en los tribunales hacéis perdersu causa a los pobres.",
+					"number": 12,
+					"id": "7cb51900-2c86-4ada-8e52-e24f58718741"
+				},
+				{
+					"verse": "Por tanto, el prudente en tal tiempo calla, porque el tiempo es malo.",
+					"number": 13,
+					"id": "3f8d1d30-e299-4aa3-b071-e6991289e458"
+				},
+				{
+					"verse": "Buscad lo bueno y no lo malo, para que viváis; y así Jehová, Dios de los ejércitos, estará con vosotros, como decís.",
+					"number": 14,
+					"id": "7b35f360-ef58-450c-bdfa-cb7c01e69339"
+				},
+				{
+					"verse": "Aborreced el mal, amad el bien y estableced la justicia en juicio; quizá Jehová, Dios de los ejércitos, tendrá piedad del remanente de José.",
+					"number": 15,
+					"id": "ceb4b91c-80c0-4d8c-9fae-6fe9f03e594a"
+				},
+				{
+					"verse": "Por tanto, esto ha dicho Jehová, Dios de los ejércitos: \"En todas las plazas habrá llanto y en todas las calles dirán: \"¡Ay! ¡Ay!\"; al labrador llamarán a lloro, y a endecha a los que sepan endechar.",
+					"number": 16,
+					"id": "8363abc7-7dfa-4882-ba96-c5edafd6cb95"
+				},
+				{
+					"verse": "Y en todas las viñas habrá llanto; porque pasaré en medio de ti, dice Jehová\".",
+					"number": 17,
+					"id": "5a380e7e-7511-4179-ba9b-2de46a991c7a"
+				},
+				{
+					"verse": "¡Ay de los que desean el día de Jehová! ¿Para qué queréis este día de Jehová? Será de tinieblas y no de luz.",
+					"number": 18,
+					"id": "6bef68d6-e61e-4124-aeae-3356938b8bbb"
+				},
+				{
+					"verse": "Será como el que huye del león y se encuentra con el oso; o como el que, al entrar en casa, apoya su mano en la pared y lo muerde una culebra.",
+					"number": 19,
+					"id": "8a1f4022-0c0d-4229-936d-756a4d1a9407"
+				},
+				{
+					"verse": "¿No será el día de Jehová tinieblas y no luz; oscuridad, que no tiene resplandor?",
+					"number": 20,
+					"id": "03424587-b7b4-4c5e-af7a-3847d07a03c4"
+				},
+				{
+					"verse": "Aborrecí, desprecié vuestras solemnidades y no me complaceréen vuestras asambleas.",
+					"number": 21,
+					"id": "22d6d6fc-7605-454b-a71a-33b44d1a4878"
+				},
+				{
+					"verse": "Y si me ofrecéis vuestros holocaustos y vuestras ofrendas, no los recibiré, ni miraré las ofrendas de paz de vuestros animales engordados.",
+					"number": 22,
+					"id": "9906034b-d6d9-4595-87a2-c19f3c46e1e0"
+				},
+				{
+					"verse": "Quita de mí la multitud de tus cantares, pues no escucharélas salmodias de tus instrumentos.",
+					"number": 23,
+					"id": "d6336761-c935-4a0f-9f20-80cccaba8f0b"
+				},
+				{
+					"verse": "Pero corra el juicio como las aguas y la justicia como arroyo impetuoso.",
+					"number": 24,
+					"id": "c8592c08-2710-4cff-9935-1b1d03233aa3"
+				},
+				{
+					"verse": "¿Me ofrecisteis sacrificios y ofrendas en el desierto en cuarenta años, casa de Israel?",
+					"number": 25,
+					"id": "e1d93d8d-54af-48e9-974e-fc05efe08667"
+				},
+				{
+					"verse": "Antes bien, llevabais el tabernáculo de vuestros Moloc y Quiún, ídolos vuestros, la estrella de vuestros diosesque os hicisteis.",
+					"number": 26,
+					"id": "54dab6cd-4c14-471e-9fcd-c8d2f8b0982f"
+				},
+				{
+					"verse": "Os haré, pues, transportar más allá de Damasco,  ha dicho Jehová, cuyo nombre es Dios de los ejércitos.",
+					"number": 27,
+					"id": "2c1ad933-0046-404d-bf16-01e9dedd26fa"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "¡Ay de los que reposan en Sión y de los que confíanen el monte de Samaria, los notables y principalesentre las naciones, a quienes acude la casa de Israel!",
+					"number": 1,
+					"study": "Destrucción de Israel",
+					"id": "3ea7fa8f-96f8-4a29-b21e-f42b86522604"
+				},
+				{
+					"verse": "Pasad a Calne y mirad; de allí id a la gran Hamat y descended luego a Gat de los filisteos. ¿Sois vosotros mejores que esos reinos? ¿Es su territorio más extensoque el vuestro?",
+					"number": 2,
+					"id": "befcb925-7f06-4a66-aac0-31f81f3ef0d2"
+				},
+				{
+					"verse": "¡Vosotros, que creéis alejar el día malo, acercáis el reino de la maldad!",
+					"number": 3,
+					"id": "49433faa-168b-41ad-98f1-a355ea6d054a"
+				},
+				{
+					"verse": "Duermen en camas de marfil y reposan sobre sus lechos; comen los corderos del rebaño y los novillos sacados del establo;",
+					"number": 4,
+					"id": "68011535-414f-467c-9772-cba3293cd82c"
+				},
+				{
+					"verse": "gorjean al son de la flauta e inventan instrumentos musicales,como David;",
+					"number": 5,
+					"id": "bf4dc297-476d-4f41-be8b-db60fd41f8a7"
+				},
+				{
+					"verse": "beben vino en tazones y se ungen con los perfumesmás preciosos, pero no se afligenpor el quebrantamiento de José.",
+					"number": 6,
+					"id": "37e3969b-827d-44b5-b777-83158088be67"
+				},
+				{
+					"verse": "Por tanto, ahora irán a la cabeza de los que van a cautividad, y se acercará el duelo de los que se entregan a los placeres.",
+					"number": 7,
+					"id": "fe7c22e2-9c18-41d9-9e4b-24b4ddd1a6ff"
+				},
+				{
+					"verse": "Jehová, el Señor, juró por sí mismo, Jehová, Dios de los ejércitos, ha dicho: \"Desprecio la grandeza de Jacob, aborrezco sus palacios; entregaré al enemigo la ciudady cuanto hay en ella\".",
+					"number": 8,
+					"id": "3195def5-cfb3-4e14-8b16-cf2bc3bd5d19"
+				},
+				{
+					"verse": "Acontecerá que, si diez hombres quedan en una casa, morirán.",
+					"number": 9,
+					"id": "2a4a93a4-1ce1-4267-92c8-077ff318143b"
+				},
+				{
+					"verse": "Y un pariente tomará a cada uno y lo quemará para sacar los huesos de casa; y dirá al que esté en el rincón de la casa: \"¿Hay aún alguien contigo?\" El otro dirá: \"No\"; y añadirá: \"Calla,porque no podemos mencionar el nombre de Jehová\".",
+					"number": 10,
+					"id": "7fca1dd5-c23b-4331-86b6-9fd00c18be11"
+				},
+				{
+					"verse": "Porque Jehová mandará, y herirá con hendiduras la casa mayor, y la casa menor con aberturas.",
+					"number": 11,
+					"id": "1937590e-63da-42ac-842d-655b1837c63d"
+				},
+				{
+					"verse": "¿Correrán los caballos por las peñas? ¿Ararán en ellas con bueyes? ¿Por qué habéis convertido vosotrosel juicio en veneno y el fruto de justicia en ajenjo?",
+					"number": 12,
+					"id": "9ca7ec7f-a26a-48b1-bf72-3746b4b4c15a"
+				},
+				{
+					"verse": "Vosotros, que os alegráis por nada, que decís: \"¿No hemos adquirido podercon nuestra fuerza?\"",
+					"number": 13,
+					"id": "a5e3df48-abef-4048-809b-79f8eb2ec306"
+				},
+				{
+					"verse": "Pues de cierto, casa de Israel, dice Jehová, Dios de los ejércitos, levantaré yo sobre vosotros a una nación que os oprimirá desde la entradade Hamat hasta el arroyo del Arabá.",
+					"number": 14,
+					"id": "289eab99-07c8-403f-b4e5-6b4a2655be69"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Esto me ha mostrado Jehová, el Señor: Él criaba langostas cuando comenzaba a crecer el heno tardío, el heno tardío que viene después de las siegas del rey.",
+					"number": 1,
+					"study": "Tres visiones de destrucción",
+					"id": "5ef5a8ff-3275-4412-9a43-5b7aef59d7c6"
+				},
+				{
+					"verse": "Y aconteció que cuando acabaron de comer la hierba de la tierra, yo dije: \"Señor, Jehová, perdona ahora, pero ¿quién levantará a Jacob, que es tan pequeño?\"",
+					"number": 2,
+					"id": "52084179-4579-475b-b73c-f6da2ae574cd"
+				},
+				{
+					"verse": "Se arrepintió Jehová de esto: \"No será\", dijo Jehová.",
+					"number": 3,
+					"id": "f8e1118d-ee3a-4550-ada2-3fec5e78f543"
+				},
+				{
+					"verse": "Jehová, el Señor, me mostró esto: Jehová, el Señor, llamaba al fuego para juzgar; y el fuego consumió el gran abismo y también una parte de la tierra.",
+					"number": 4,
+					"id": "e764019d-58c1-4043-86ef-dc03cd8eaa8f"
+				},
+				{
+					"verse": "Y dije: \"Señor, Jehová, cesa ahora; pues ¿quién levantará a Jacob, que es tan pequeño?\"",
+					"number": 5,
+					"id": "d75cc000-94bb-4f34-8787-f977133836e5"
+				},
+				{
+					"verse": "Se arrepintió Jehová de esto: \"No será esto tampoco\", dijo Jehová, el Señor.",
+					"number": 6,
+					"id": "e4f44439-3005-400c-a5ab-1ff5e8503c13"
+				},
+				{
+					"verse": "Me mostró también esto: El Señor estaba sobre un muro hecho a plomo, y en su mano tenía una plomada de albañil.",
+					"number": 7,
+					"id": "7547d134-b712-4427-a3b0-c7e6a0df2172"
+				},
+				{
+					"verse": "Jehová entonces me preguntó: --¿Qué ves, Amós? Yo respondí: --Una plomada de albañil. Y el Señor dijo: --Yo pongo plomada de albañil en medio de mi pueblo Israel; no lo toleraré más.",
+					"number": 8,
+					"id": "a75d00a7-5e81-4be2-9de3-2d3bceefe245"
+				},
+				{
+					"verse": "Los lugares altos de Isaac serán destruidos, los santuarios de Israel serán asolados y me levantaré con espada sobre la casa de Jeroboam.",
+					"number": 9,
+					"id": "263b4039-b077-481f-91da-d0759ef142c9"
+				},
+				{
+					"verse": "Entonces el sacerdote Amasías de Bet-el envió a decir a Jeroboam, rey de Israel: \"Amós se ha levantado contra ti en medio de la casa de Israel; la tierra no puede sufrir todas sus palabras.",
+					"number": 10,
+					"study": "Amós y Amasías",
+					"id": "31894760-ccf0-4d13-aecd-f71057a3afe8"
+				},
+				{
+					"verse": "Porque así ha dicho Amós: \"Jeroboam morirá a espada, e Israel será llevado de su tierra en cautiverio\"\".",
+					"number": 11,
+					"id": "a8d498ee-d646-4e1e-848f-832b34c57ae8"
+				},
+				{
+					"verse": "Y Amasías dijo a Amós: --Vidente, vete, huye a tierra de Judá, come allá tu pan y profetiza allá;",
+					"number": 12,
+					"id": "3c524fb5-6a49-483e-8da1-1fde0d5803f9"
+				},
+				{
+					"verse": "pero no profetices más en Bet-el, porque es santuario del rey, y capital del reino.",
+					"number": 13,
+					"id": "14545029-0203-48cc-a91d-ffa2432a6614"
+				},
+				{
+					"verse": "Entonces respondió Amós y dijo a Amasías: --No soy profeta ni soy hijo de profeta, sino que soy boyero y recojo higos silvestres.",
+					"number": 14,
+					"id": "5f1e5ebd-42dc-45f9-9e24-6b1827c5b11e"
+				},
+				{
+					"verse": "Y Jehová me tomó de detrás del ganado, y me dijo: \"Ve y profetiza a mi pueblo Israel\".",
+					"number": 15,
+					"id": "583716d7-171f-44f9-aacb-45c012f0e397"
+				},
+				{
+					"verse": "\"Ahora, pues, oye palabra de Jehová. Tú dices: \"No profetices contra Israel ni hables contra la casa de Isaac\".",
+					"number": 16,
+					"id": "159712fd-38ca-4320-90d6-6e1600721aee"
+				},
+				{
+					"verse": "Por tanto, así ha dicho Jehová: \"Tu mujer será ramera en medio de la ciudad, tus hijos y tus hijas caerán a espada y tu tierra será repartida por suertes; tú morirás en tierra inmunda e Israel será llevado cautivo lejos de su tierra\".",
+					"number": 17,
+					"id": "4e05ae53-bafc-42c2-8006-99908ae3e581"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "Esto me mostró Jehová, el Señor: un canastillo de fruta de verano.",
+					"number": 1,
+					"study": "El canastillo de fruta de verano",
+					"id": "ae2404e6-62ed-492e-8f4d-ab72d33e58b9"
+				},
+				{
+					"verse": "Y me preguntó: --¿Qué ves, Amós? Y respondí: --Un canastillo de fruta de verano. Y me dijo Jehová: --Ha venido el fin sobre mi pueblo Israel; no lo toleraré más.",
+					"number": 2,
+					"id": "b5782771-58f0-4ce0-adad-ff4358fd787a"
+				},
+				{
+					"verse": "Y los cantores del templo gemirán en aquel día, dice Jehová, el Señor. Muchos serán los cuerpos muertos, y en silencio serán arrojados en cualquier lugar.",
+					"number": 3,
+					"id": "4f1d5205-d9d7-40e6-806d-b0e9e9651878"
+				},
+				{
+					"verse": "Oíd esto, los que explotáis a los menesterosos y arruináis a los pobres de la tierra,",
+					"number": 4,
+					"study": "El juicio sobre Israel se acerca",
+					"id": "4a25c8c3-1868-4d9f-b631-7f8cf6cbd2fd"
+				},
+				{
+					"verse": "diciendo: \"¿Cuándo pasará el mes y venderemos el trigo; y la semana, y abriremos los graneros del pan? Entonces achicaremos la medida, subiremos el precio, falsearemos con engaño la balanza,",
+					"number": 5,
+					"id": "a6b0cc93-3433-4b4a-b82e-4c420d873ad7"
+				},
+				{
+					"verse": "compraremos a los pobres por dinero y a los necesitados por un par de zapatos, y venderemos los desechos del trigo\".",
+					"number": 6,
+					"id": "1f82928c-2736-46b6-906c-6c75b0c18390"
+				},
+				{
+					"verse": "Jehová juró por la gloria de Jacob: \"No olvidaré jamás ninguna de sus obras\".",
+					"number": 7,
+					"id": "c299c942-8fc5-40f4-b02f-ae53f647171c"
+				},
+				{
+					"verse": "¿No se estremecerá la tierra por esto? ¿No llorarán todos sus habitantes? Subirá toda ella como un río; crecerá y mermará como el río de Egipto.",
+					"number": 8,
+					"id": "022028e1-bf37-458a-b153-952f10d5677e"
+				},
+				{
+					"verse": "Aquel día, dice Jehová, el Señor, haré que se ponga el sol a mediodía: cubriré de tinieblas la tierraen el día claro.",
+					"number": 9,
+					"id": "8d5ba629-b56c-4fc6-8875-876a9b91368a"
+				},
+				{
+					"verse": "Cambiaré vuestras fiestas en lloro y todos vuestros cantaresen lamentaciones; haré que toda cintura vista tela áspera y que se rape toda cabeza. Y volveré la tierra como en llanto por el hijo único, y su final será como día amargo.",
+					"number": 10,
+					"id": "f9ef0596-b55f-460f-83bb-2711eb1e6f4b"
+				},
+				{
+					"verse": "Ciertamente vienen días, dice Jehová,el Señor, en los cuales enviaré hambre a la tierra, no hambre de pan ni sed de agua, sino de oir la palabra de Jehová.",
+					"number": 11,
+					"id": "ad9ae168-288c-44dc-b17b-de17f41a4e65"
+				},
+				{
+					"verse": "E irán errantes de mar a mar; desde el norte hasta el oriente andarán buscando palabra de Jehová, y no la hallarán.",
+					"number": 12,
+					"id": "c6c0e326-4bf2-4011-ac44-8e999d7d4736"
+				},
+				{
+					"verse": "En aquel tiempo, las muchachas hermosas y los jóvenes desmayarán de sed.",
+					"number": 13,
+					"id": "673898f2-0a90-43a5-baf2-903e00cc1f67"
+				},
+				{
+					"verse": "Los que juran por el pecado de Samaria y dicen: \"Por tu Dios, Dan\", y: \"Por el camino de Beerseba\", caerán y nunca más se levantarán.",
+					"number": 14,
+					"id": "3eba90be-bc42-464d-9f3f-fb2233f74974"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "Vi al Señor, que estaba sobre el altar y dijo: \"Derriba el capitel y estremézcanselas puertas, y hazlos pedazos sobre la cabeza de todos. Al postrero de ellos mataré a espada; no habrá de ellos quien huyani quien escape.",
+					"number": 1,
+					"study": "Los juicios de Jehová son ineludibles",
+					"id": "a3deb0c1-24b3-463b-917c-9eedd17a3bde"
+				},
+				{
+					"verse": "Aunque caven hasta el seol, de allá los tomará mi mano; y aunque suban hasta el cielo, de allá los haré descender.",
+					"number": 2,
+					"id": "aafcae35-bbe5-45cd-8ac4-1dfeacfb130f"
+				},
+				{
+					"verse": "Si se esconden en la cumbre del Carmelo, allí los buscaré y los tomaré; y aunque de delante de mis ojos se escondan en lo profundo del mar, allí mandaré a la serpiente y los morderá.",
+					"number": 3,
+					"id": "3c07d7cc-bd2b-4862-ac8a-4a7abe0e9262"
+				},
+				{
+					"verse": "Y si van en cautiverio delante de sus enemigos, allí mandaré la espada y los matará; y pondré sobre ellos mis ojos para mal y no para bien.",
+					"number": 4,
+					"id": "25dd51d5-5213-453a-9620-ec51146eaa45"
+				},
+				{
+					"verse": "El Señor, Jehová de los ejércitos, toca la tierra y esta se derrite, y lloran todos los que en ella moran; crecerá toda ella como un río y mermará luego como el río de Egipto.",
+					"number": 5,
+					"id": "4b4f6dc7-83dd-4ae9-851e-cc1f31cadcb6"
+				},
+				{
+					"verse": "Él edificó en el cielo su habitación y ha establecido su expansiónsobre la tierra; él llama a las aguas del mar y sobre la faz de la tierra las derrama: Jehová es su nombre.",
+					"number": 6,
+					"id": "e751a781-2e2c-4f6b-9679-7e5d72c249f5"
+				},
+				{
+					"verse": "Hijos de Israel, ¿no me sois vosotroscomo hijos de etíopes?,  dice Jehová. ¿No hice yo subir a Israelde la tierra de Egipto, de Caftor a los filisteos, y de Kir a los arameos?",
+					"number": 7,
+					"id": "03c097ca-5a00-44ab-b161-99359fa4b095"
+				},
+				{
+					"verse": "Ciertamente, los ojos de Jehová, el Señor, están contra el reino pecador y yo lo borraré de la faz de la tierra: mas no destruiré del todola casa de Jacob, dice Jehová.",
+					"number": 8,
+					"id": "874a75ee-8cc3-4a9e-88ef-3850dbe5404e"
+				},
+				{
+					"verse": "Porque, yo mandaré que la casa de Israel sea zarandeada entre todas las naciones, como se zarandea el grano en una criba sin que caiga un granito en la tierra.",
+					"number": 9,
+					"id": "6a0faa1e-3905-44c7-9ddb-db1715f5294c"
+				},
+				{
+					"verse": "A espada morirán todos los pecadoresde mi pueblo, que dicen: \"No se acercaráni nos alcanzará el mal\"\".",
+					"number": 10,
+					"id": "fd650df1-d1a9-4f54-882d-0e9c4b2863df"
+				},
+				{
+					"verse": "En aquel día yo levantaré el tabernáculo caído de David: cerraré sus portillos, levantaré sus ruinas y lo edificaré como en el tiempo pasado,",
+					"number": 11,
+					"study": "Restauración futura de Israel",
+					"id": "99bdb62d-b67b-4023-9a59-81c608389636"
+				},
+				{
+					"verse": "para que aquellos sobre los cuales es invocado mi nombre posean el resto de Edom y todas las naciones, dice Jehová, que hace esto.",
+					"number": 12,
+					"id": "df8d35f7-9538-4a0c-9a91-be9f28dd5b9a"
+				},
+				{
+					"verse": "Ciertamente vienen días, dice Jehová, cuando el que ara alcanzará al segador, y el que pisa las uvas al que lleve la simiente; los montes destilarán mosto y todos los collados se derretirán.",
+					"number": 13,
+					"id": "aabf64b2-104f-4e0c-b56f-c4dd8f951052"
+				},
+				{
+					"verse": "Traeré del cautiverio a mi pueblo Israel: ellos edificarán las ciudades asoladas y las habitarán; plantarán viñas y beberán de su vino, y harán huertos y comerán de su fruto.",
+					"number": 14,
+					"id": "a5d7c837-7102-403f-8048-2fa0576a9bec"
+				},
+				{
+					"verse": "Pues los plantaré sobre su tierra y nunca más serán arrancados de la tierra que yo les di, ha dicho Jehová, tu Dios.",
+					"number": 15,
+					"id": "70f235c2-cee7-446a-aaa3-af5039a3a3ab"
+				}
+			]
+		}
+	],
+	"book_id": "157f6fec-4a72-4c41-b59c-47828b3c86c2"
+}

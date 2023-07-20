@@ -1,0 +1,510 @@
+{
+	"name": "Colosenses",
+	"num_chapters": 4,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,",
+					"number": 1,
+					"study": "Salutación",
+					"id": "9be79566-33cb-4427-822c-2424d56bde1c"
+				},
+				{
+					"verse": "a los santos y fieles hermanos en Cristo que están en Colosas: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+					"number": 2,
+					"id": "b41a5588-81f1-45ac-84cf-e228c73374bc"
+				},
+				{
+					"verse": "Siempre que oramos por vosotros, damos gracias a Dios, Padre de nuestro Señor Jesucristo,",
+					"number": 3,
+					"study": "Pablo pide que Dios les conceda sabiduría espiritual",
+					"id": "936dde90-0dce-447d-940b-b87f60c5c0e1"
+				},
+				{
+					"verse": "pues hemos oído de vuestra fe en Cristo Jesús y del amor que tenéis a todos los santos,",
+					"number": 4,
+					"id": "c67757f4-57af-4263-ba77-52d4d46f6ac1"
+				},
+				{
+					"verse": "a causa de la esperanza que os está guardada en los cielos. De esta esperanza ya habéis oído por la palabra verdadera del evangelio,",
+					"number": 5,
+					"id": "876bbde4-33d1-4f53-b7d8-6670a42c2908"
+				},
+				{
+					"verse": "que ha llegado hasta vosotros, así como a todo el mundo, y lleva fruto y crece también en vosotros, desde el día que oísteis y conocisteis la gracia de Dios en verdad.",
+					"number": 6,
+					"id": "d17bfac3-eb97-430f-84ad-bc587b73a99e"
+				},
+				{
+					"verse": "Así lo aprendisteis de Epafras, nuestro consiervo amado, que es un fiel ministro de Cristo para vosotros,",
+					"number": 7,
+					"id": "710e5f9a-dcb7-4e16-96c3-b4180057e7ec"
+				},
+				{
+					"verse": "quien también nos ha declarado vuestro amor en el Espíritu.",
+					"number": 8,
+					"id": "d9566c5c-5b23-4f12-94ef-6eb50fe2e447"
+				},
+				{
+					"verse": "Por lo cual también nosotros, desde el día que lo oímos, no cesamos de orar por vosotros y de pedir que seáis llenos del conocimiento de su voluntad en toda sabiduría e inteligencia espiritual.",
+					"number": 9,
+					"id": "5cc318a3-9a4c-451b-8207-f10ec94b340f"
+				},
+				{
+					"verse": "Así podréis andar como es digno del Señor, agradándolo en todo, llevando fruto en toda buena obra y creciendo en el conocimiento de Dios.",
+					"number": 10,
+					"id": "15b05d47-e773-47cf-9405-f051d6cfdd26"
+				},
+				{
+					"verse": "Fortalecidos con todo poder, conforme a la potencia de su gloria, obtendréis fortaleza y paciencia,",
+					"number": 11,
+					"id": "ea577749-4bdf-46de-9b82-4d2d50d7cbcd"
+				},
+				{
+					"verse": "y, con gozo, daréis gracias al Padre que nos hizo aptos para participar de la herencia de los santos en luz.",
+					"number": 12,
+					"id": "a3a49475-4185-4031-b9f2-7a15db482145"
+				},
+				{
+					"verse": "Él nos ha librado del poder de las tinieblas y nos ha trasladado al reino de su amado Hijo,",
+					"number": 13,
+					"id": "4ac4b122-0b8e-4093-9ecc-ce6902a2f498"
+				},
+				{
+					"verse": "en quien tenemos redención por su sangre, el perdón de pecados.",
+					"number": 14,
+					"id": "e1888571-ef26-4281-9188-ef04a86883a9"
+				},
+				{
+					"verse": "Cristo es la imagen del Dios invisible, el primogénito de toda creación,",
+					"number": 15,
+					"study": "Reconciliación por medio de la muerte de Cristo",
+					"id": "3e1fe3d7-8366-4c8c-8524-9a2548ef9e79"
+				},
+				{
+					"verse": "porque en él fueron creadastodas las cosas, las que hay en los cielos y las que hayen la tierra, visibles e invisibles; sean tronos, sean dominios,sean principados, sean potestades; todo fue creado por medio de ély para él.",
+					"number": 16,
+					"id": "59a9e3ed-68bd-404f-ba23-2faacfd51dbf"
+				},
+				{
+					"verse": "Y él es antes que todas las cosas, y todas las cosas en él subsisten.",
+					"number": 17,
+					"id": "a16a80ef-7e85-4045-a54e-d6fa7f25f4a4"
+				},
+				{
+					"verse": "Él es también la cabeza del cuerpoque es la iglesia, y es el principio, el primogénito de entrelos muertos, para que en todo tengala preeminencia,",
+					"number": 18,
+					"id": "325cd025-e8c4-4e30-bfde-90253f261a9c"
+				},
+				{
+					"verse": "porque al Padre agradó que en élhabitara toda la plenitud,",
+					"number": 19,
+					"id": "e5817d8c-e7b9-4c4f-9076-c05d4320d15a"
+				},
+				{
+					"verse": "y por medio de él reconciliar consigotodas las cosas, así las que están en la tierracomo las que están en los cielos, haciendo la paz mediante la sangrede su cruz.",
+					"number": 20,
+					"id": "87874cdc-3bc1-4ed6-afc1-93c5ac71b91f"
+				},
+				{
+					"verse": "También a vosotros, que erais en otro tiempo extraños y enemigos por vuestros pensamientos y por vuestras malas obras, ahora os ha reconciliado",
+					"number": 21,
+					"id": "df0229b4-03e9-4c77-88e0-dc1ec4887f37"
+				},
+				{
+					"verse": "en su cuerpo de carne, por medio de la muerte, para presentaros santos y sin mancha e irreprochables delante de él.",
+					"number": 22,
+					"id": "dbbe6b15-90d9-4cdc-83f7-85c5cd678561"
+				},
+				{
+					"verse": "Pero es necesario que permanezcáis fundados y firmes en la fe, sin moveros de la esperanza del evangelio que habéis oído, el cual se predica en toda la creación que está debajo del cielo y del cual yo, Pablo, fui hecho ministro.",
+					"number": 23,
+					"id": "20737cab-694f-4fee-9b9b-f337d51197a9"
+				},
+				{
+					"verse": "Ahora me gozo en lo que padezco por vosotros y cumplo en mi carne lo que falta de las aflicciones de Cristo por su cuerpo, que es la iglesia.",
+					"number": 24,
+					"study": "Ministerio de Pablo a los gentiles",
+					"id": "df51a525-ab5c-43c4-91b2-9d8a69fd9dc0"
+				},
+				{
+					"verse": "De ella fui hecho ministro, según la administración de Dios que me fue dada para con vosotros, para que anuncie cumplidamente la palabra de Dios,",
+					"number": 25,
+					"id": "dbdd1782-9995-466d-a0d2-59354db9a1ee"
+				},
+				{
+					"verse": "el misterio que había estado oculto desde los siglos y edades, pero que ahora ha sido manifestado a sus santos.",
+					"number": 26,
+					"id": "d1b46367-f62d-49f9-8eb0-e2f4a9f767c6"
+				},
+				{
+					"verse": "A ellos, Dios quiso dar a conocer las riquezas de la gloria de este misterio entre los gentiles, que es Cristo en vosotros, esperanza de gloria.",
+					"number": 27,
+					"id": "06093069-bbf2-4a8f-a815-f8430ec984f3"
+				},
+				{
+					"verse": "Nosotros anunciamos a Cristo, amonestando a todo hombre y enseñando a todo hombre en toda sabiduría, a fin de presentar perfecto en Cristo Jesús a todo hombre.",
+					"number": 28,
+					"id": "f3141fa2-f09f-493b-a30a-77b22df957fa"
+				},
+				{
+					"verse": "Para esto también trabajo, luchando según la fuerza de él, la cual actúa poderosamente en mí.",
+					"number": 29,
+					"id": "0b894175-e272-40c2-9fc0-e11826909eac"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Quiero pues, que sepáis cuán grande lucha sostengo por vosotros, por los que están en Laodicea y por todos los que nunca han visto mi rostro.",
+					"number": 1,
+					"id": "ab303160-0942-4330-b401-6e8be6134f8c"
+				},
+				{
+					"verse": "Lucho para que sean consolados sus corazones y para que, unidos en amor, alcancen todas las riquezas de pleno entendimiento, a fin de conocer el misterio de Dios el Padre y de Cristo,",
+					"number": 2,
+					"id": "06c2a960-7bc2-4d28-a573-991c538da27f"
+				},
+				{
+					"verse": "en quien están escondidos todos los tesoros de la sabiduría y del conocimiento.",
+					"number": 3,
+					"id": "33c8c573-b64e-4efa-841c-51d3a17ce6ba"
+				},
+				{
+					"verse": "Esto lo digo para que nadie os engañe con palabras persuasivas,",
+					"number": 4,
+					"id": "7f524465-0c71-4320-95ec-7c166ad21aa1"
+				},
+				{
+					"verse": "porque aunque estoy ausente en cuerpo, no obstante, en espíritu estoy con vosotros, gozándome y mirando vuestro buen orden y la firmeza de vuestra fe en Cristo.",
+					"number": 5,
+					"id": "933d6036-2c52-4677-817d-b69d52e67016"
+				},
+				{
+					"verse": "Por tanto, de la manera que habéis recibido al Señor Jesucristo, andad en él,",
+					"number": 6,
+					"id": "5dfafcad-69bc-4eff-8522-9accafb3c946"
+				},
+				{
+					"verse": "arraigados y sobreedificados en él y confirmados en la fe, así como habéis sido enseñados, abundando en acciones de gracias.",
+					"number": 7,
+					"id": "9aad0a07-ac9e-4b14-bb8c-e626b7ecb942"
+				},
+				{
+					"verse": "Mirad que nadie os engañe por medio de filosofías y huecas sutilezas basadas en las tradiciones de los hombres, conforme a los elementos del mundo, y no según Cristo.",
+					"number": 8,
+					"study": "Plenitud de vida en Cristo",
+					"id": "d40ea0a1-1b70-4e2b-ba9a-1bb171146a6f"
+				},
+				{
+					"verse": "Porque en él habita corporalmente toda la plenitud de la divinidad,",
+					"number": 9,
+					"id": "34989ba0-e44d-48ce-9888-a878d2286cd6"
+				},
+				{
+					"verse": "y vosotros estáis completos en él, que es la cabeza de todo principado y potestad.",
+					"number": 10,
+					"id": "ca000d9c-4920-4894-82fb-0133bbb2a9a7"
+				},
+				{
+					"verse": "En él también fuisteis circuncidados con circuncisión no hecha por mano de hombre, sino por la circuncisión de Cristo, en la cual sois despojados de vuestra naturaleza pecaminosa.",
+					"number": 11,
+					"id": "64915633-045c-4590-a89c-6eb82b2c053d"
+				},
+				{
+					"verse": "Con él fuisteis sepultados en el bautismo, y en él fuisteis también resucitados por la fe en el poder de Dios que lo levantó de los muertos.",
+					"number": 12,
+					"id": "bbef3a6e-15cc-4322-9a9d-6a428fee36e2"
+				},
+				{
+					"verse": "Y a vosotros, estando muertos en pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él, perdonándoos todos los pecados.",
+					"number": 13,
+					"id": "973b1bef-18fb-488e-8d7a-529d8353238d"
+				},
+				{
+					"verse": "Él anuló el acta de los decretos que había contra nosotros, que nos era contraria, y la quitó de en medio clavándola en la cruz.",
+					"number": 14,
+					"id": "fe004430-7400-4017-b524-e192468fc4a6"
+				},
+				{
+					"verse": "Y despojó a los principados y a las autoridades y los exhibió públicamente, triunfando sobre ellos en la cruz.",
+					"number": 15,
+					"id": "447aa27e-f660-4957-9df7-2a3fc69e3cad"
+				},
+				{
+					"verse": "Por tanto, nadie os critique en asuntos de comida o de bebida, o en cuanto a días de fiesta, luna nueva o sábados.",
+					"number": 16,
+					"id": "887e08dc-b0eb-4e9f-add6-afcc04dd8d7c"
+				},
+				{
+					"verse": "Todo esto es sombra de lo que ha de venir; pero el cuerpo es de Cristo.",
+					"number": 17,
+					"id": "4df19863-5830-42fb-8631-74d1b2ac9f38"
+				},
+				{
+					"verse": "Que nadie os prive de vuestro premio haciendo alarde de humildad y de dar culto a los ángeles (metiéndose en lo que no ha visto), hinchado de vanidad por su propia mente carnal,",
+					"number": 18,
+					"id": "6eaf1347-0336-4ef0-9200-a8a8571d33cd"
+				},
+				{
+					"verse": "pero no unido a la Cabeza, en virtud de quien todo el cuerpo, nutriéndose y uniéndose por las coyunturas y ligamentos, crece con el crecimiento que da Dios.",
+					"number": 19,
+					"id": "68df50ed-6012-4109-a3e7-e97e0669504e"
+				},
+				{
+					"verse": "Si habéis muerto con Cristo en cuanto a los rudimentos del mundo, ¿por qué, como si vivierais en el mundo, os sometéis a preceptos",
+					"number": 20,
+					"id": "50f6d6e5-83e8-40c7-9e54-09dfe87091f2"
+				},
+				{
+					"verse": "tales como: \"No uses\", \"No comas\", \"No toques\"?",
+					"number": 21,
+					"id": "751a2222-1f8f-4efd-b326-f188caee0504"
+				},
+				{
+					"verse": "Todos estos preceptos son solo mandamientos y doctrinas de hombres, los cuales se destruyen con el uso.",
+					"number": 22,
+					"id": "bc0783d8-813c-44e7-87c4-6683bda89562"
+				},
+				{
+					"verse": "Tales cosas tienen a la verdad cierta reputación de sabiduría, pues exigen cierta religiosidad, humildad y duro trato del cuerpo; pero no tienen valor alguno contra los apetitos de la carne.",
+					"number": 23,
+					"id": "ba6fb9ef-8c61-4d02-80d8-584e77fca13a"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Si, pues, habéis resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado a la diestra de Dios.",
+					"number": 1,
+					"id": "0a54fff0-8d34-48b5-869d-e7432da81cef"
+				},
+				{
+					"verse": "Poned la mira en las cosas de arriba, no en las de la tierra,",
+					"number": 2,
+					"id": "fb05cf04-70da-4101-9d05-f56c8679486a"
+				},
+				{
+					"verse": "porque habéis muerto y vuestra vida está escondida con Cristo en Dios.",
+					"number": 3,
+					"id": "b7d073ba-cd94-4b23-946a-7b53cd04f037"
+				},
+				{
+					"verse": "Cuando Cristo, vuestra vida, se manifieste, entonces vosotros también seréis manifestados con él en gloria.",
+					"number": 4,
+					"id": "9eb68dc2-837c-4b8d-90cb-7ed14ca2906f"
+				},
+				{
+					"verse": "Haced morir, pues, lo terrenal en vosotros: fornicación, impureza, pasiones desordenadas, malos deseos y avaricia, que es idolatría.",
+					"number": 5,
+					"study": "La vida antigua y la nueva",
+					"id": "4dc103b5-51c5-42eb-beab-8e2a7f832a34"
+				},
+				{
+					"verse": "Por estas cosas la ira de Dios viene sobre los hijos de desobediencia,",
+					"number": 6,
+					"id": "8bb779ea-c7a8-4c02-92cd-4627c9fc94b0"
+				},
+				{
+					"verse": "en las cuales vosotros también anduvisteis en otro tiempo cuando vivíais en ellas.",
+					"number": 7,
+					"id": "b18a46da-ffeb-4612-afdb-e4876da145e2"
+				},
+				{
+					"verse": "Pero ahora dejad también vosotros todas estas cosas: ira, enojo, malicia, blasfemia, palabras deshonestas de vuestra boca.",
+					"number": 8,
+					"id": "c6210fd7-a0de-4f26-9771-80357819f54f"
+				},
+				{
+					"verse": "No mintáis los unos a los otros, habiéndoos despojado del viejo hombre con sus hechos",
+					"number": 9,
+					"id": "07896d71-463a-4332-90e3-d66afea30859"
+				},
+				{
+					"verse": "y revestido del nuevo. Este, conforme a la imagen del que lo creó, se va renovando hasta el conocimiento pleno,",
+					"number": 10,
+					"id": "849e423c-4dc0-456c-8bf8-f3fefd613a17"
+				},
+				{
+					"verse": "donde no hay griego ni judío, circuncisión ni incircuncisión, bárbaro ni extranjero, esclavo ni libre, sino que Cristo es el todo y en todos.",
+					"number": 11,
+					"id": "1bbf3514-0216-4536-b4f4-1d516201b3fb"
+				},
+				{
+					"verse": "Vestíos, pues, como escogidos de Dios, santos y amados, de entrañable misericordia, de bondad, de humildad, de mansedumbre, de paciencia.",
+					"number": 12,
+					"id": "d3af9726-42a6-4552-9ff3-9b36f4539ebc"
+				},
+				{
+					"verse": "Soportaos unos a otros y perdonaos unos a otros, si alguno tiene queja contra otro. De la manera que Cristo os perdonó, así también hacedlo vosotros.",
+					"number": 13,
+					"id": "5622553e-aa74-423c-9b44-772b4182cdde"
+				},
+				{
+					"verse": "Sobre todo, vestíos de amor, que es el vínculo perfecto.",
+					"number": 14,
+					"id": "43bb8a44-12f5-4c74-8692-8480f96e7798"
+				},
+				{
+					"verse": "Y la paz de Dios gobierne en vuestros corazones, a la que asimismo fuisteis llamados en un solo cuerpo. Y sed agradecidos.",
+					"number": 15,
+					"id": "51ba91f3-5fd2-4146-aa98-35a1511d051f"
+				},
+				{
+					"verse": "La palabra de Cristo habite en abundancia en vosotros. Enseñaos y exhortaos unos a otros con toda sabiduría. Cantad con gracia en vuestros corazones al Señor, con salmos, himnos y cánticos espirituales.",
+					"number": 16,
+					"id": "2f01f8ee-7ba4-4e92-a7a9-2f4e3e13d2b7"
+				},
+				{
+					"verse": "Y todo lo que hacéis, sea de palabra o de hecho, hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él.",
+					"number": 17,
+					"id": "20b2850e-456b-4c55-85a5-628eba613fab"
+				},
+				{
+					"verse": "Casadas, estad sujetas a vuestros maridos, como conviene en el Señor.",
+					"number": 18,
+					"study": "Deberes sociales de la nueva vida",
+					"id": "c1535986-7ee2-4d87-8169-a12598355d59"
+				},
+				{
+					"verse": "Maridos, amad a vuestras mujeres y no seáis ásperos con ellas.",
+					"number": 19,
+					"id": "ad2da71a-5e92-4303-a099-420ad7246865"
+				},
+				{
+					"verse": "Hijos, obedeced a vuestros padres en todo, porque esto agrada al Señor.",
+					"number": 20,
+					"id": "a3aa31c9-8988-4a9c-8a0d-b20eb2c6d9c8"
+				},
+				{
+					"verse": "Padres, no exasperéis a vuestros hijos, para que no se desalienten.",
+					"number": 21,
+					"id": "6c63b414-5ff7-41e5-9c8e-41ac3fcae9b6"
+				},
+				{
+					"verse": "Esclavos, obedeced en todo a vuestros amos terrenales, no sirviendo al ojo, como los que quieren agradar a los hombres, sino con corazón sincero, temiendo a Dios.",
+					"number": 22,
+					"id": "e46887b8-a801-4c7d-9b53-b04eaaf9166b"
+				},
+				{
+					"verse": "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres,",
+					"number": 23,
+					"id": "945cd852-f96d-4249-8a0c-3f11201113c8"
+				},
+				{
+					"verse": "sabiendo que del Señor recibiréis la recompensa de la herencia, porque a Cristo el Señor servís.",
+					"number": 24,
+					"id": "f0832063-b932-43a2-a384-e5c0a9dba326"
+				},
+				{
+					"verse": "Pero el que actúa con injusticia recibirá la injusticia que haya cometido, porque no hay acepción de personas.",
+					"number": 25,
+					"id": "67e75e69-39b3-4b0f-bd86-637dbbdf6654"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Amos, haced lo que es justo y recto con vuestros esclavos, sabiendo que también vosotros tenéis un Amo en los cielos.",
+					"number": 1,
+					"id": "e73bddb0-4603-4a0b-8b1a-3cb214208211"
+				},
+				{
+					"verse": "Perseverad en la oración, velando en ella con acción de gracias.",
+					"number": 2,
+					"id": "7f19fae8-9cc4-45fd-b7fb-2f2d8fc444b8"
+				},
+				{
+					"verse": "Orad también al mismo tiempo por nosotros, para que el Señor nos abra puerta para la palabra, a fin de dar a conocer el misterio de Cristo, por el cual también estoy preso,",
+					"number": 3,
+					"id": "2749f002-2dc9-441f-9814-3fbb72a24909"
+				},
+				{
+					"verse": "para que lo dé a conocer anunciándolo como es debido.",
+					"number": 4,
+					"id": "ef11b79c-6390-4e45-94c7-60cf1898cbdf"
+				},
+				{
+					"verse": "Andad sabiamente para con los de afuera, aprovechando bien el tiempo.",
+					"number": 5,
+					"id": "5488bd38-883d-4a6e-ab2b-95bfe446a568"
+				},
+				{
+					"verse": "Sea vuestra palabra siempre con gracia, sazonada con sal, para que sepáis cómo debéis responder a cada uno.",
+					"number": 6,
+					"id": "8b21481b-9d95-4068-84c1-24206e6c322b"
+				},
+				{
+					"verse": "Todo lo que a mí se refiere, os lo hará saber Tíquico, amado hermano y fiel ministro y consiervo en el Señor.",
+					"number": 7,
+					"study": "Salutaciones finales",
+					"id": "213eb8a6-9099-4e90-96b7-de7426a0b931"
+				},
+				{
+					"verse": "Os lo he enviado a vosotros para esto mismo, para que conozca lo que a vosotros se refiere y conforte vuestros corazones.",
+					"number": 8,
+					"id": "f89e414e-e2ee-48ae-8e20-c0f22d6dcf98"
+				},
+				{
+					"verse": "Lo acompaña Onésimo, amado y fiel hermano, que es uno de vosotros. Todo lo que acá pasa, os lo harán saber.",
+					"number": 9,
+					"id": "4216e564-c3e1-487f-8142-842e000005ac"
+				},
+				{
+					"verse": "Aristarco, mi compañero de prisiones, os saluda; y también Marcos, el sobrino de Bernabé, acerca del cual habéis recibido instrucciones; si va a visitaros, recibidlo.",
+					"number": 10,
+					"id": "4cbb369c-a34d-4144-b863-9ddd6484027a"
+				},
+				{
+					"verse": "También os saluda Jesús, el que es llamado Justo. Estos son los únicos de la circuncisión que me ayudan en el reino de Dios, y han sido para mí un consuelo.",
+					"number": 11,
+					"id": "95faa3ad-0e97-417d-9671-9356fc804793"
+				},
+				{
+					"verse": "Os saluda Epafras, el cual es uno de vosotros, siervo de Cristo. Él siempre ruega encarecidamente por vosotros en sus oraciones, para que estéis firmes, perfectos y completos en todo lo que Dios quiere.",
+					"number": 12,
+					"id": "ffb11e79-c360-4df4-8228-51740d082b11"
+				},
+				{
+					"verse": "De él doy testimonio de que se preocupa mucho por vosotros, por los que están en Laodicea y los que están en Hierápolis.",
+					"number": 13,
+					"id": "ff9e694f-6b0d-4552-9fdd-7064a5b3b639"
+				},
+				{
+					"verse": "Os saluda Lucas, el médico amado, y Demas.",
+					"number": 14,
+					"id": "ac22ea26-0e7e-4d5f-98ac-57bd48838d8d"
+				},
+				{
+					"verse": "Saludad a los hermanos que están en Laodicea, a Ninfas y a la iglesia que está en su casa.",
+					"number": 15,
+					"id": "79566b73-7fbd-419b-88d3-2fc2c715d20f"
+				},
+				{
+					"verse": "Cuando esta carta haya sido leída entre vosotros, haced que también se lea en la iglesia de los laodicenses, y que la de Laodicea la leáis también vosotros.",
+					"number": 16,
+					"id": "6986ef68-266e-4077-95b0-473cda728480"
+				},
+				{
+					"verse": "Decid a Arquipo: \"Mira que cumplas el ministerio que recibiste en el Señor\".",
+					"number": 17,
+					"id": "bacf34ce-81b7-4f11-a57f-02972cd12fc1"
+				},
+				{
+					"verse": "Esta salutación es de mi propia mano, de Pablo. Acordaos de mis prisiones. La gracia sea con vosotros. Amén.",
+					"number": 18,
+					"id": "a6df9724-7e9e-453b-8b95-a13a1dcb723c"
+				}
+			]
+		}
+	],
+	"book_id": "97cf7171-0166-4b42-b00d-5aa6ebfaeb6a"
+}

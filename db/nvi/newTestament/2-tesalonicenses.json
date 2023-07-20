@@ -1,0 +1,264 @@
+{
+	"name": "2-Tesalonicenses",
+	"num_chapters": 3,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo,  Silvano y Timoteo,  a la iglesia de los tesalonicenses,  unida a Dios nuestro Padre y al Señor Jesucristo:",
+					"number": 1,
+					"study": "Salutación",
+					"id": "086b883a-909e-422d-9ebf-e063917d21cf"
+				},
+				{
+					"verse": "Que Dios el Padre y el Señor Jesucristo les concedan gracia y paz.",
+					"number": 2,
+					"id": "55acfb42-6bd3-433c-ad2f-2b10e8cd6774"
+				},
+				{
+					"verse": "Hermanos,  siempre debemos dar gracias a Dios por ustedes,  como es justo,  porque su fe se acrecienta cada vez más,  y en cada uno de ustedes sigue abundando el amor hacia los otros.",
+					"number": 3,
+					"study": "Dios juzgará a los pecadores en la venida de Cristo",
+					"id": "4949fce9-7401-4d39-a479-452ecd8df0a2"
+				},
+				{
+					"verse": "Así que nos sentimos orgullosos de ustedes ante las iglesias de Dios por la perseverancia y la fe que muestran al soportar toda clase de persecuciones y sufrimientos.",
+					"number": 4,
+					"id": "a7c58928-5a57-4b39-b43a-26722eb059a1"
+				},
+				{
+					"verse": "Todo esto prueba que el juicio de Dios es justo,  y por tanto él los considera dignos de su reino,  por el cual están sufriendo.",
+					"number": 5,
+					"id": "7a0ab452-3e45-418b-9b0d-af281eb904a9"
+				},
+				{
+					"verse": "Dios,  que es justo,  pagará con sufrimiento a quienes los hacen sufrir a ustedes.",
+					"number": 6,
+					"id": "bcc32029-488c-40b2-a46c-da74064819f0"
+				},
+				{
+					"verse": "Y a ustedes que sufren,  les dará descanso,  lo mismo que a nosotros.  Esto sucederá cuando el Señor Jesús se manifieste desde el cielo entre llamas de fuego,  con sus poderosos ángeles,",
+					"number": 7,
+					"id": "8bbc6213-acb6-4506-8bb7-e6e857d70445"
+				},
+				{
+					"verse": "para castigar a los que no conocen a Dios ni obedecen el evangelio de nuestro Señor Jesús.",
+					"number": 8,
+					"id": "a89481cf-3041-4c1f-a966-f25e43fae8fe"
+				},
+				{
+					"verse": "Ellos sufrirán el castigo de la destrucción eterna,  lejos de la presencia del Señor y de la majestad de su poder,",
+					"number": 9,
+					"id": "e8c35ee4-a652-4512-84a0-551df8cf58e0"
+				},
+				{
+					"verse": "el día en que venga para ser glorificado por medio de sus santos y admirado por todos los que hayan creído,  entre los cuales están ustedes porque creyeron el testimonio que les dimos.",
+					"number": 10,
+					"id": "c734f3b3-c373-4ec7-ba90-8a0e089ab698"
+				},
+				{
+					"verse": "Por eso oramos constantemente por ustedes,  para que nuestro Dios los considere dignos del llamamiento que les ha hecho,  y por su poder perfeccione toda disposición al bien y toda obra que realicen por la fe.",
+					"number": 11,
+					"id": "3d04dcd6-ec40-421d-a765-eb228ea29d18"
+				},
+				{
+					"verse": "Oramos así,  de modo que el nombre de nuestro Señor Jesús sea glorificado por medio de ustedes,  y ustedes por él,  conforme a la gracia de nuestro Dios y del Señor Jesucristo.*",
+					"number": 12,
+					"id": "65a82ec7-0968-4398-b1f2-0252fb7dd7d1"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Ahora bien,  hermanos,  en cuanto a la venida de nuestro Señor Jesucristo y a nuestra reunión con él,  les pedimos que",
+					"number": 1,
+					"study": "Manifestación del hombre de pecado",
+					"id": "99585391-87ee-4fcf-ae38-f90fbbae5507"
+				},
+				{
+					"verse": "no pierdan la cabeza ni se alarmen por ciertas profecías,* ni por mensajes orales o escritos supuestamente nuestros,  que digan:  \"¡Ya llegó el día del Señor!\"",
+					"number": 2,
+					"id": "06b1972e-1b99-4749-90fc-d559a64e51d4"
+				},
+				{
+					"verse": "No se dejen engañar de ninguna manera,  porque primero tiene que llegar la rebelión contra Dios* y manifestarse el hombre de maldad,* el destructor por naturaleza.*",
+					"number": 3,
+					"id": "08acd7db-4c2e-4422-9f54-70dfe8cb604e"
+				},
+				{
+					"verse": "Éste se opone y se levanta contra todo lo que lleva el nombre de Dios o es objeto de adoración,  hasta el punto de adueñarse del templo de Dios y pretender ser Dios.",
+					"number": 4,
+					"id": "dd852f80-d271-4267-ac85-f1730394b8b3"
+				},
+				{
+					"verse": "¿No recuerdan que ya les hablaba de esto cuando estaba con ustedes?",
+					"number": 5,
+					"id": "937f5b71-028d-4fb1-81bd-645f521f33e7"
+				},
+				{
+					"verse": "Bien saben que hay algo que detiene a este hombre,  a fin de que él se manifieste a su debido tiempo.",
+					"number": 6,
+					"id": "c26165bf-f073-4eec-a3dc-d3d9c621c529"
+				},
+				{
+					"verse": "Es cierto que el misterio de la maldad ya está ejerciendo su poder;  pero falta que sea quitado de en medio el que ahora lo detiene.",
+					"number": 7,
+					"id": "d51b39c5-3dba-4348-820e-c84b14e5ae55"
+				},
+				{
+					"verse": "Entonces se manifestará aquel malvado,  a quien el Señor Jesús derrocará con el soplo de su boca y destruirá con el esplendor de su venida.",
+					"number": 8,
+					"id": "87c46dba-c997-4918-90b0-16000b0d192f"
+				},
+				{
+					"verse": "El malvado vendrá,  por obra de Satanás,  con toda clase de milagros,  señales y prodigios falsos.",
+					"number": 9,
+					"id": "8ee9628c-bbc3-4652-9216-e0d02590377b"
+				},
+				{
+					"verse": "Con toda perversidad engañará a los que se pierden por haberse negado a amar la verdad y así ser salvos.",
+					"number": 10,
+					"id": "9049afd8-b096-445a-9f69-bc85e7acbd06"
+				},
+				{
+					"verse": "Por eso Dios permite que,  por el poder del engaño,  crean en la mentira.",
+					"number": 11,
+					"id": "1e18732e-6cb9-4cdc-9376-f4e7cf8998ba"
+				},
+				{
+					"verse": "Así serán condenados todos los que no creyeron en la verdad sino que se deleitaron en el mal.",
+					"number": 12,
+					"id": "f1a987fc-340a-47de-b864-5bdd43414fb4"
+				},
+				{
+					"verse": "Nosotros,  en cambio,  siempre debemos dar gracias a Dios por ustedes,  hermanos amados por el Señor,  porque desde el principio Dios los escogió* para ser salvos,  mediante la obra santificadora del Espíritu y la fe que tienen en la verdad.",
+					"number": 13,
+					"study": "Escogidos para salvación",
+					"id": "4453629f-696e-4545-ac5c-d444ed2da565"
+				},
+				{
+					"verse": "Para esto Dios los llamó por nuestro evangelio,  a fin de que tengan parte en la gloria de nuestro Señor Jesucristo.",
+					"number": 14,
+					"id": "1d41b40e-c870-439d-ac97-edc69a54ce01"
+				},
+				{
+					"verse": "Así que,  hermanos,  sigan firmes y manténganse fieles a las enseñanzas* que,  oralmente o por carta,  les hemos transmitido.",
+					"number": 15,
+					"id": "689bfe39-3514-4f48-8678-7a9f68525fa4"
+				},
+				{
+					"verse": "Que nuestro Señor Jesucristo mismo y Dios nuestro Padre,  que nos amó y por su gracia nos dio consuelo eterno y una buena esperanza,",
+					"number": 16,
+					"id": "a804a954-e768-4714-b5cd-1ab08cc477d0"
+				},
+				{
+					"verse": "los anime y les fortalezca el corazón,  para que tanto en palabra como en obra hagan todo lo que sea bueno.",
+					"number": 17,
+					"id": "45fba62c-acbe-4162-b1ff-65e252be560b"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por último,  hermanos,  oren por nosotros para que el mensaje del Señor se difunda rápidamente y se le reciba con honor,  tal como sucedió entre ustedes.",
+					"number": 1,
+					"study": "Que la palabra de Dios sea glorificada",
+					"id": "3076d1c9-8748-446c-bd35-c2730d3f6545"
+				},
+				{
+					"verse": "Oren además para que seamos librados de personas perversas y malvadas,  porque no todos tienen fe.",
+					"number": 2,
+					"id": "860bb06d-9c5d-41c7-8cd9-ab15b7360753"
+				},
+				{
+					"verse": "Pero el Señor es fiel,  y él los fortalecerá y los protegerá del maligno.",
+					"number": 3,
+					"id": "b73225c6-14c4-4b07-9dbb-7f8d6665abb0"
+				},
+				{
+					"verse": "Confiamos en el Señor de que ustedes cumplen y seguirán cumpliendo lo que les hemos enseñado.",
+					"number": 4,
+					"id": "22be4d1f-95d3-45af-9d14-1a696402add8"
+				},
+				{
+					"verse": "Que el Señor los lleve a amar como Dios ama,  y a perseverar como Cristo perseveró.",
+					"number": 5,
+					"id": "604439fc-336a-4cb5-8c7c-4088e92d3548"
+				},
+				{
+					"verse": "Hermanos,  en el nombre del Señor Jesucristo les ordenamos que se aparten de todo hermano que esté viviendo como un vago y no según las enseñanzas recibidas* de nosotros.",
+					"number": 6,
+					"study": "El deber de trabajar",
+					"id": "c9bc1b1b-0442-4c2a-bdf7-a53bac099461"
+				},
+				{
+					"verse": "Ustedes mismos saben cómo deben seguir nuestro ejemplo.  Nosotros no vivimos como ociosos entre ustedes,",
+					"number": 7,
+					"id": "d46f4bc3-6d5d-4711-b043-463ce73575d5"
+				},
+				{
+					"verse": "ni comimos el pan de nadie sin pagarlo.  Al contrario,  día y noche trabajamos arduamente y sin descanso para no ser una carga a ninguno de ustedes.",
+					"number": 8,
+					"id": "bf95919c-2f8b-450f-ae2f-d1ccdc9577ac"
+				},
+				{
+					"verse": "Y lo hicimos así,  no porque no tuviéramos derecho a tal ayuda,  sino para darles buen ejemplo.",
+					"number": 9,
+					"id": "128bb17a-4720-49d5-8c87-95547aec5b9d"
+				},
+				{
+					"verse": "Porque incluso cuando estábamos con ustedes,  les ordenamos:  \"El que no quiera trabajar,  que tampoco coma.\"",
+					"number": 10,
+					"id": "26ebadf4-4bb4-4a9b-b8c1-dbd68d6568d7"
+				},
+				{
+					"verse": "Nos hemos enterado de que entre ustedes hay algunos que andan de vagos,  sin trabajar en nada,  y que sólo se ocupan de lo que no les importa.",
+					"number": 11,
+					"id": "5f75a07e-8174-4f25-a616-b6cc763e243b"
+				},
+				{
+					"verse": "A tales personas les ordenamos y exhortamos en el Señor Jesucristo que tranquilamente se pongan a trabajar para ganarse la vida.",
+					"number": 12,
+					"id": "0fcd193f-4f4d-47a2-830b-7afb86fd4b3c"
+				},
+				{
+					"verse": "Ustedes,  hermanos,  no se cansen de hacer el bien.",
+					"number": 13,
+					"id": "d59a0a74-f5df-4ecb-bdeb-8ef4eeadc02b"
+				},
+				{
+					"verse": "Si alguno no obedece las instrucciones que les damos en esta carta,  denúncienlo públicamente y no se relacionen con él,  para que se avergüence.",
+					"number": 14,
+					"id": "74e44773-b530-4ac5-8391-6b6725f7b9ee"
+				},
+				{
+					"verse": "Sin embargo,  no lo tengan por enemigo,  sino amonéstenlo como a hermano.",
+					"number": 15,
+					"id": "044ecc84-0b08-4499-93d5-790be3f6d5f2"
+				},
+				{
+					"verse": "Que el Señor de paz les conceda su paz siempre y en todas las circunstancias.  El Señor sea con todos ustedes.",
+					"number": 16,
+					"study": "Bendición final",
+					"id": "2284bd33-7c52-424c-a35d-cc2d54d42f6f"
+				},
+				{
+					"verse": "Yo,  Pablo,  escribo este saludo de mi puño y letra.  Ésta es la señal distintiva de todas mis cartas;  así escribo yo.",
+					"number": 17,
+					"id": "10586eb6-f284-4736-8f94-826464bca759"
+				},
+				{
+					"verse": "Que la gracia de nuestro Señor Jesucristo sea con todos ustedes.",
+					"number": 18,
+					"id": "8545b8d3-5554-4f0e-adcf-c52e9c8db866"
+				}
+			]
+		}
+	],
+	"book_id": "21127e96-f6ab-4041-9091-8066bcd4ee4d"
+}

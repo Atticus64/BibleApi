@@ -1,0 +1,392 @@
+{
+	"name": "Joel",
+	"num_chapters": 3,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Palabra de Jehová que vino a Joelhijo de Petuel.",
+					"number": 1,
+					"study": "Devastación de la tierra por la langosta",
+					"id": "1de7d7af-1ae3-4345-8e44-7c2a34f7d619"
+				},
+				{
+					"verse": "\"Oíd esto, ancianos, y escuchad, todos los moradoresde la tierra. ¿Ha acontecido algo semejanteen vuestros días o en los días de vuestros padres?",
+					"number": 2,
+					"id": "c2063386-427a-4384-82ef-aad21e3436f0"
+				},
+				{
+					"verse": "De esto contaréis a vuestros hijos, y vuestros hijos a sus hijos, y sus hijos a la siguiente generación.",
+					"number": 3,
+					"id": "6ca0cbdd-d565-4a88-863b-1bc08944d26a"
+				},
+				{
+					"verse": "Lo que dejó la oruga se lo comió el saltón; lo que dejó el saltón se lo comió el revoltón; y la langosta se comió lo que el revoltón había dejado.",
+					"number": 4,
+					"id": "32d3ec4d-c0a2-4d75-ac57-5511f48654c5"
+				},
+				{
+					"verse": "\"Despertad, borrachos, y llorad; gemid, todos los que bebéis vino, porque el vino se os ha quitadode vuestra boca.",
+					"number": 5,
+					"id": "950e538c-3aec-414a-9dd4-674d5c433771"
+				},
+				{
+					"verse": "Porque un pueblo fuerte e innumerable subió a mi tierra; sus dientes son dientes de león, y sus muelas, muelas de león.",
+					"number": 6,
+					"id": "7cd0e9f4-95cc-401e-853a-a3593ced3a4c"
+				},
+				{
+					"verse": "Asoló mi vid y descortezó mi higuera; del todo la desnudó y derribó; sus ramas quedaron blancas.",
+					"number": 7,
+					"id": "110d471c-dbea-4b0e-89e5-1a06b549ef3b"
+				},
+				{
+					"verse": "\"Llora tú, como joven vestida de ropas ásperas por el marido de su juventud.",
+					"number": 8,
+					"id": "d03e103e-ea3a-4b2b-a35c-49d620039c17"
+				},
+				{
+					"verse": "Desapareció de la casa de Jehová la ofrenda y la libación; los sacerdotes ministros de Jehová están de duelo.",
+					"number": 9,
+					"id": "10942dd8-3741-4d35-8e19-8ab471dd0713"
+				},
+				{
+					"verse": "El campo está asolado y se enlutó la tierra, porque el trigo fue destruido, el mosto está pasado y se perdió el aceite.",
+					"number": 10,
+					"id": "47dafc6f-ff5d-4c86-a0b8-645521621f1e"
+				},
+				{
+					"verse": "\"Confundíos, labradores; gemid, viñadores, por el trigo y la cebada, porque se perdió la mies del campo.",
+					"number": 11,
+					"id": "639b5b74-4e60-4cda-8d41-ef06553a77e2"
+				},
+				{
+					"verse": "La vid está seca y pereció la higuera; también el granado, la palmeray el manzano: Todos los árboles del campo se secaron. Y así se extinguió el gozo de los hijos de los hombres.",
+					"number": 12,
+					"id": "775e92a7-15ee-427e-813b-410c3f75482d"
+				},
+				{
+					"verse": "\"Vestíos de luto y lamentad, sacerdotes; gemid, ministros del altar; venid, dormid con ropas ásperas, ministros de mi Dios; porque quitada es de la casade vuestro Dios la ofrenda y la libación.",
+					"number": 13,
+					"id": "10f80e34-d65e-4432-af69-d4c19643ca65"
+				},
+				{
+					"verse": "Proclamad ayuno, convocad asamblea, congregad a los ancianos y a todos los moradores de la tierra en la casa de Jehová, vuestro Dios, y clamad a Jehová.",
+					"number": 14,
+					"id": "e39b8333-838c-4c75-a967-4533d59f2556"
+				},
+				{
+					"verse": "\"¡Ay del día!, porque cercano está el día de Jehová; vendrá como destrucción de parte del Todopoderoso.",
+					"number": 15,
+					"id": "78a88a6e-21b5-4897-9f17-bb545fc9e94f"
+				},
+				{
+					"verse": "¿No fue arrebatado el alimento de delante de nuestros ojos, la alegría y el placer de la casa de nuestro Dios?",
+					"number": 16,
+					"id": "6bc79e51-5836-4a7f-b7ce-9694ddded4c3"
+				},
+				{
+					"verse": "El grano se pudrió debajo de los terrones; los graneros fueron asolados y los silos destruidos porque se había secado el trigo.",
+					"number": 17,
+					"id": "f3c50304-f635-4bc9-9ae4-e8232b94c82b"
+				},
+				{
+					"verse": "¡Cómo gemían las bestias! ¡Cuán turbados andabanlos hatos de los bueyes, porque no tenían pastos! Y fueron también asolados los rebaños de las ovejas.",
+					"number": 18,
+					"id": "dc7dfa5a-2aff-4ad1-9cda-68e870b66c03"
+				},
+				{
+					"verse": "\"A ti, Jehová, clamaré; porque el fuego consumiólos pastos del desierto, la llama abrasó los árboles del campo.",
+					"number": 19,
+					"id": "764b5628-50ea-45da-a730-586254f5cc4c"
+				},
+				{
+					"verse": "Las bestias del campo bramarán también a ti, pues se secaron los arroyos de las aguas, y el fuego consumiólas praderas del desierto.",
+					"number": 20,
+					"id": "172b4628-b242-45d7-a473-3cae3fcd405e"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "\"Tocad la trompeta en Sión y dad la alarma en mi santo monte. Tiemblen todos cuantos moran en la tierra, porque viene el día de Jehová, porque está cercano:",
+					"number": 1,
+					"id": "f0007ae0-e3ad-4dc1-9578-658dfca42f39"
+				},
+				{
+					"verse": "día de tinieblas y de oscuridad, día de nube y de sombra. \"Como sobre los montes se extiende el alba, así vendrá un pueblo grande y fuerte; semejante a él no lo hubo jamás, ni después de él lo habrá en los años de muchas generaciones.",
+					"number": 2,
+					"id": "818bd4e5-0366-4765-8af0-83458e944842"
+				},
+				{
+					"verse": "\"Delante de él consumirá el fuego; detrás de él abrasará la llama. Como el huerto del Edén será la tierra delante de él, y detrás de él como desierto asolado; nadie habrá que de él escape.",
+					"number": 3,
+					"id": "c7cbc505-aca7-447a-87aa-617b5a99b3b8"
+				},
+				{
+					"verse": "Su aspecto, como aspecto de caballos, y como gente de a caballo correrán.",
+					"number": 4,
+					"id": "8ddae5c8-7dd7-4d70-84aa-9fbf0675f3f9"
+				},
+				{
+					"verse": "Como estruendo de carros saltarán sobre las cumbres de los montes; como sonido de llama de fuego que consume hojarascas, como pueblo fuertedispuesto para la batalla.",
+					"number": 5,
+					"id": "90a6aff3-5f54-43e5-9452-b8b19907664a"
+				},
+				{
+					"verse": "Delante de él temerán los pueblos; se pondrán pálidos todos los semblantes.",
+					"number": 6,
+					"id": "a05e6c03-9405-424b-a39a-950322f316ed"
+				},
+				{
+					"verse": "Como valientes correrán, como hombres de guerraescalarán el muro; cada cual marchará por su camino y no torcerá su rumbo.",
+					"number": 7,
+					"id": "1e63fb56-bbcd-412a-9320-33bded13e3a2"
+				},
+				{
+					"verse": "Nadie empujará a su compañero, cada uno irá por su carrera; y aun cayendo sobre la espadano se herirán.",
+					"number": 8,
+					"id": "18b6de47-000b-480a-9f1f-b9a037b10d1b"
+				},
+				{
+					"verse": "Irán por la ciudad, correrán por el muro, subirán por las casas, entrarán por las ventanas a manera de ladrones.",
+					"number": 9,
+					"id": "9dc488f6-c095-4b31-a5c3-5812647412d1"
+				},
+				{
+					"verse": "\"Delante de él temblará la tierra y se estremecerán los cielos; el sol y la luna se oscurecerán, y las estrellas perderán su resplandor.",
+					"number": 10,
+					"id": "abcdeae5-c4b5-412b-993a-255b6fd6dac2"
+				},
+				{
+					"verse": "Y Jehová dará su orden delante de su ejército, porque muy grande es su campamento y fuerte es el que ejecuta su orden; porque grande es el día de Jehová y muy terrible. ¿Quién podrá soportarlo?",
+					"number": 11,
+					"id": "233348e2-6a60-485c-8009-8389b191d7ef"
+				},
+				{
+					"verse": "\"Ahora, pues, dice Jehová, convertíos ahora a mí con todo vuestro corazón, con ayuno, llanto y lamento.",
+					"number": 12,
+					"study": "La misericordia de Jehová",
+					"id": "59f286ef-cbfb-4aff-9a88-4a4d0661fedc"
+				},
+				{
+					"verse": "Rasgad vuestro corazóny no vuestros vestidos, y convertíos a Jehová, vuestro Dios; porque es misericordioso y clemente, tardo para la ira y grande en misericordia, y se duele del castigo.",
+					"number": 13,
+					"id": "6687ef78-116c-49bb-b798-0ae29f67b566"
+				},
+				{
+					"verse": "¡Quién sabe si volverá, se arrepentirá y dejará bendición tras sí; esto es, ofrenda y libación para Jehová, vuestro Dios!",
+					"number": 14,
+					"id": "054800b4-e08e-4e24-9819-416331864b2d"
+				},
+				{
+					"verse": "¡Tocad trompeta en Sión, proclamad ayuno, convocad asamblea,",
+					"number": 15,
+					"id": "d0d139b4-a6a2-4746-88b1-e2e257a78e02"
+				},
+				{
+					"verse": "reunid al pueblo, santificad la reunión, juntad a los ancianos, congregad a los niños, aun a los que maman, y salga de su alcoba el novio y de su lecho nupcial la novia!",
+					"number": 16,
+					"id": "1e0f0c6d-25a2-4459-a18e-0022563ffaeb"
+				},
+				{
+					"verse": "Entre la entrada y el altar lloren los sacerdotesministros de Jehová, y digan: \"Perdona, Jehová, a tu pueblo, y no entregues al oprobio tu heredad para que no la dominen las naciones. ¿Por qué han de decir entre los pueblos: ¿Dónde está su Dios?\"?",
+					"number": 17,
+					"id": "430813de-63cd-436e-bce9-cc84c83cd3e9"
+				},
+				{
+					"verse": "\"Y Jehová, solícito por su tierra, perdonará a su pueblo.",
+					"number": 18,
+					"id": "b80c7550-333c-47ef-9a9a-b65e28127fa2"
+				},
+				{
+					"verse": "Responderá Jehová y dirá a su pueblo: Yo os envío pan, mosto y aceite, y seréis saciados de ellos; y nunca más os pondré en oprobio entre las naciones.",
+					"number": 19,
+					"id": "2c87c2fe-acd6-4b56-8df2-5c19ccebf943"
+				},
+				{
+					"verse": "Haré alejar de vosotros al del norte, y lo echaré en tierra seca y desierta: su faz hacia el mar oriental,y su final hacia al mar occidental. Exhalará su hedor y subirá su pudrición, porque hizo grandes cosas.",
+					"number": 20,
+					"id": "c7997a11-0857-483a-abaf-0543a133a50e"
+				},
+				{
+					"verse": "\"Tierra, no temas; alégrate y gózate, porque Jehová hará grandes cosas.",
+					"number": 21,
+					"id": "53258a93-9162-44ad-b0fa-cc3bb9fc5540"
+				},
+				{
+					"verse": "Animales del campo, no temáis, porque los pastos del desiertoreverdecerán y los árboles llevarán su fruto; la higuera y la vid darán sus frutos.",
+					"number": 22,
+					"id": "8602a15e-b86f-40f3-99d7-b01e48d47431"
+				},
+				{
+					"verse": "Vosotros también, hijos de Sión, alegraos y gozaos en Jehová,vuestro Dios; porque os ha dado la primera lluviaa su tiempo, y hará descender sobre vosotros lluvia temprana y tardía, como al principio.",
+					"number": 23,
+					"id": "c54581fc-e50a-424e-b6dd-022c0165d531"
+				},
+				{
+					"verse": "Las eras se llenarán de trigo y los lagares rebosarán de vino y aceite.",
+					"number": 24,
+					"id": "9bf246ce-daa9-42d8-af37-6216efc5c3d3"
+				},
+				{
+					"verse": "\"Yo os restituiré los añosque comió la oruga, el saltón, el revoltón y la langosta, mi gran ejército que enviécontra vosotros.",
+					"number": 25,
+					"id": "a2103b64-feed-4cc3-bd8c-ab5546eb51ca"
+				},
+				{
+					"verse": "Comeréis hasta saciaros, y alabaréis el nombre de Jehová,vuestro Dios, el cual hizo maravillas con vosotros; y nunca jamásserá mi pueblo avergonzado.",
+					"number": 26,
+					"id": "54ee2b6a-22ab-48ce-ad08-48305e67727f"
+				},
+				{
+					"verse": "Conoceréis que en medio de Israelestoy yo, y que yo soy Jehová, vuestro Dios,y no hay otro; y mi pueblo nunca jamásserá avergonzado.",
+					"number": 27,
+					"id": "57e23c7e-f9a4-430c-b599-36860f68d0ca"
+				},
+				{
+					"verse": "\"Después de esto derramaré mi espíritu sobre todo ser humano, y profetizarán vuestros hijosy vuestras hijas; vuestros ancianos soñarán sueños, y vuestros jóvenes verán visiones.",
+					"number": 28,
+					"study": "Derramamiento del Espíritu de Dios",
+					"id": "755defce-6dc8-4241-973f-9056d4e5e5a0"
+				},
+				{
+					"verse": "También sobre los siervos y las siervas derramaré mi espíritu en aquellos días.",
+					"number": 29,
+					"id": "6aaac9f1-93f0-47d3-8ad5-55558ccf2f40"
+				},
+				{
+					"verse": "Haré prodigios en el cielo y en la tierra, sangre, fuego y columnas de humo.",
+					"number": 30,
+					"id": "18731fe9-1df7-4b46-aaf0-c6aadc11ee27"
+				},
+				{
+					"verse": "El sol se convertirá en tinieblas y la luna en sangre, antes que venga el día,grande y espantoso, de Jehová.",
+					"number": 31,
+					"id": "519c91d9-acf0-43c3-8bca-8b8780765f73"
+				},
+				{
+					"verse": "Y todo aquel que invoqueel nombre de Jehová, será salvo; porque en el monte Sión y en Jerusalén habrá salvación, como ha dicho Jehová, y entre el resto al cual él habrá llamado.",
+					"number": 32,
+					"id": "cc787a68-775e-4082-ad75-412238735253"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "\"Ciertamente en aquellos días, en aquel tiempo en que haré volver la cautividad de Judá y de Jerusalén,",
+					"number": 1,
+					"study": "Juicio de Jehová sobre las naciones",
+					"id": "00e2b497-102c-4ba3-9736-d330b9f1344c"
+				},
+				{
+					"verse": "reuniré a todas las naciones y las haré descender al valle de Josafat; allí entraré en juicio con ellas a causa de mi pueblo, de Israel, mi heredad, al cual ellas esparcieronentre las naciones, y repartieron mi tierra.",
+					"number": 2,
+					"id": "f968f55a-cda5-433d-8169-6427174f47f7"
+				},
+				{
+					"verse": "\"Echaron suertes sobre mi pueblo, cambiaron los niños por una ramera y vendieron las niñas por vino para beber.",
+					"number": 3,
+					"id": "e7d78328-791c-4642-ae08-aea81958809c"
+				},
+				{
+					"verse": "\"¿Qué tengo yo con vosotras,Tiro y Sidón, y con todo el territorio de Filistea? ¿Queréis vengaros de mí? Y si de mí os vengáis, bien pronto haré yo recaer la paga sobre vuestra cabeza.",
+					"number": 4,
+					"id": "8a10e838-8047-4501-b5d5-61d010a38d3e"
+				},
+				{
+					"verse": "Porque os habéis llevadomi plata y mi oro, y mis cosas preciosas y hermosas metisteis en vuestros templos;",
+					"number": 5,
+					"id": "168ca1bd-ea53-4666-b01a-75a5fe2afbbf"
+				},
+				{
+					"verse": "y vendisteis los hijos de Judá y los hijos de Jerusalén a los hijos de los griegos, para alejarlos de su tierra.",
+					"number": 6,
+					"id": "ae40a929-314a-4ae0-9e94-bf8345c92674"
+				},
+				{
+					"verse": "Yo los levantaré del lugar donde los vendisteis y volveré vuestra pagasobre vuestra cabeza;",
+					"number": 7,
+					"id": "0216b243-713c-4315-ac9e-4fe10174d31e"
+				},
+				{
+					"verse": "venderé vuestros hijos y vuestras hijas a los hijos de Judá, y ellos los venderán a los sabeos, nación lejana; porque Jehová ha hablado.",
+					"number": 8,
+					"id": "515c143f-84f8-4917-807b-603f25890abf"
+				},
+				{
+					"verse": "\"¡Proclamad esto entre las naciones, proclamad guerra, despertad a los valientes! ¡Acérquense, vengan todos los hombresde guerra!",
+					"number": 9,
+					"id": "d9e62065-c631-4a84-8edb-7914b607184b"
+				},
+				{
+					"verse": "Forjad espadas de vuestros azadones, lanzas de vuestras hoces y diga el débil: \"¡Fuerte soy!\"",
+					"number": 10,
+					"id": "2b5a0237-a53f-4839-bda4-705434ed6a79"
+				},
+				{
+					"verse": "Juntaos y venid, naciones todas de alrededor,y congregaos. ¡Haz venir allí, Jehová, a tus fuertes!",
+					"number": 11,
+					"id": "a4b3ae6f-faea-4515-8504-f07f3c183500"
+				},
+				{
+					"verse": "Despiértense las naciones y suban al valle de Josafat, porque allí me sentaré para juzgar a todas las nacionesde alrededor.",
+					"number": 12,
+					"id": "b8fae76e-0c35-4120-b4fb-70876cf9cdfd"
+				},
+				{
+					"verse": "Meted la hoz, porque la miesestá ya madura. Venid, descended,porque el lagar está lleno y rebosan las cubas; porque mucha es la maldad de ellos.",
+					"number": 13,
+					"id": "e9c41a26-c8a6-43ca-8e51-a3245affc56b"
+				},
+				{
+					"verse": "Muchos pueblos en el vallede la Decisión; porque cercano está el día de Jehová en el valle de la Decisión.",
+					"number": 14,
+					"id": "ca9faea3-f9da-4326-a561-a9e5c83b01e2"
+				},
+				{
+					"verse": "\"El sol y la luna se oscurecerán, y las estrellas perderán su resplandor.",
+					"number": 15,
+					"id": "8fb12357-372e-4d32-a5df-255c96337ed8"
+				},
+				{
+					"verse": "\"Jehová rugirá desde Sión, dará su voz desde Jerusalén y temblarán los cielos y la tierra; pero Jehová será la esperanzade su pueblo, la fortaleza de los hijos de Israel.",
+					"number": 16,
+					"study": "Liberación de Judá",
+					"id": "a0f64f3b-acef-4868-8256-0190fcc27c68"
+				},
+				{
+					"verse": "Entonces conoceréis que yo soy Jehová, vuestro Dios, que habito en Sión, mi santo monte. Jerusalén será santa y extraños no pasarán más por ella.",
+					"number": 17,
+					"id": "88f38fcd-def2-4e89-a566-74516c7b4f97"
+				},
+				{
+					"verse": "\"Sucederá en aquel tiempo, que los montes destilarán mosto, de los collados fluirá leche y por todos los arroyos de Judácorrerán las aguas. Saldrá una fuente de la casa de Jehová y regará el valle de Sitim.",
+					"number": 18,
+					"id": "380e9bc4-a0d0-4a8a-b087-b3e0b12ec4fb"
+				},
+				{
+					"verse": "Egipto será destruido y Edom será vuelto en desierto asolado, a causa de la injuria hechaa los hijos de Judá; porque derramaron en su tierrasangre inocente.",
+					"number": 19,
+					"id": "bdee3eee-0cc8-4121-bf4e-85264236d952"
+				},
+				{
+					"verse": "Pero Judá será habitada para siempre, y Jerusalén por generación y generación.",
+					"number": 20,
+					"id": "daf45407-9845-4f39-8139-08b7ef56bac6"
+				},
+				{
+					"verse": "Yo limpiaré la sangre de los que no había limpiado. Y Jehová morará en Sión\".",
+					"number": 21,
+					"id": "87265799-0b95-488a-bb02-1467a5b6d00a"
+				}
+			]
+		}
+	],
+	"book_id": "41b8ac91-432e-421e-9a97-6962c16613da"
+}

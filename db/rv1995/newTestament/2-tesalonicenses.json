@@ -1,0 +1,264 @@
+{
+	"name": "2-Tesalonicenses",
+	"num_chapters": 3,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:",
+					"number": 1,
+					"study": "Salutación",
+					"id": "e5c90005-9e18-48a8-b041-5f63b544a6c6"
+				},
+				{
+					"verse": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+					"number": 2,
+					"id": "140900d6-aa6e-4f82-b78f-95a659dd70b4"
+				},
+				{
+					"verse": "Debemos siempre dar gracias a Dios por vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo y el amor de todos y cada uno de vosotros abunda para con los demás.",
+					"number": 3,
+					"study": "Dios juzgará a los pecadores en la venida de Cristo",
+					"id": "c334a93b-9d57-4257-9e7b-3463f0010fdc"
+				},
+				{
+					"verse": "Tanto es así que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, por vuestra paciencia y fe en todas vuestras persecuciones y tribulaciones que soportáis.",
+					"number": 4,
+					"id": "02ce8b1c-dfc2-48e1-95f7-df989bca6325"
+				},
+				{
+					"verse": "Esto es demostración del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis.",
+					"number": 5,
+					"id": "b615acf3-fc64-4c7d-9ca9-45f8372d25ee"
+				},
+				{
+					"verse": "Es justo delante de Dios pagar con tribulación a los que os atribulan,",
+					"number": 6,
+					"id": "6d6b7466-cfa4-4966-8053-47ca69f9ae31"
+				},
+				{
+					"verse": "mientras que a vosotros, los que sois atribulados, daros reposo junto con nosotros, cuando se manifieste el Señor Jesús desde el cielo con los ángeles de su poder,",
+					"number": 7,
+					"id": "668aeb59-54e8-4e28-8478-a7a5cff4fb07"
+				},
+				{
+					"verse": "en llama de fuego, para dar retribución a los que no conocieron a Dios ni obedecen al evangelio de nuestro Señor Jesucristo.",
+					"number": 8,
+					"id": "f74224a9-16d0-4ae2-ae63-9b8b75874510"
+				},
+				{
+					"verse": "Estos sufrirán pena de eterna perdición, excluidos de la presencia del Señor y de la gloria de su poder,",
+					"number": 9,
+					"id": "b69c2e87-f879-4249-a8ec-f15d5d0b085b"
+				},
+				{
+					"verse": "cuando venga en aquel día para ser glorificado en sus santos y ser admirado en todos los que creyeron; y vosotros habéis creído en nuestro testimonio.",
+					"number": 10,
+					"id": "f2a1bcfa-959a-4b09-b7a8-5cf828e022f8"
+				},
+				{
+					"verse": "Por esta razón también oramos siempre por vosotros, para que nuestro Dios os tenga por dignos de su llamamiento y cumpla todo propósito de bondad y toda obra de fe con su poder.",
+					"number": 11,
+					"id": "c7754985-adfa-4fd7-8abc-247714554903"
+				},
+				{
+					"verse": "Así el nombre de nuestro Señor Jesucristo será glorificado en vosotros y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo.",
+					"number": 12,
+					"id": "7bafa39f-5759-4545-a3b0-8ca858c2df6d"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Con respecto a la venida de nuestro Señor Jesucristo y nuestra reunión con él, os rogamos, hermanos,",
+					"number": 1,
+					"study": "Manifestación del hombre de pecado",
+					"id": "7fb01d43-87fa-44c7-b3c0-50c1ebcaad63"
+				},
+				{
+					"verse": "que no os dejéis mover fácilmente de vuestro modo de pensar, ni os conturbéis, ni por espíritu ni por palabra ni por carta como si fuera nuestra, en el sentido de que el día del Señor está cerca.",
+					"number": 2,
+					"id": "8467c30a-48e6-4c9e-912f-18454b5fafcd"
+				},
+				{
+					"verse": "¡Nadie os engañe de ninguna manera!, pues no vendrá sin que antes venga la apostasía y se manifieste el hombre de pecado, el hijo de perdición,",
+					"number": 3,
+					"id": "817f7333-5c5d-4294-9321-f543757c31dc"
+				},
+				{
+					"verse": "el cual se opone y se levanta contra todo lo que se llama Dios o es objeto de culto; tanto, que se sienta en el templo de Dios como Dios, haciéndose pasar por Dios.",
+					"number": 4,
+					"id": "5bf15993-083c-4544-a2b6-875d4cb0037c"
+				},
+				{
+					"verse": "¿No os acordáis de que cuando yo estaba todavía con vosotros os decía esto?",
+					"number": 5,
+					"id": "833d0496-d50d-4b7c-862e-474bc90326e5"
+				},
+				{
+					"verse": "Y ahora vosotros sabéis lo que lo detiene, a fin de que a su debido tiempo se manifieste.",
+					"number": 6,
+					"id": "8f5f4f16-9a76-4d15-956c-55a99b501192"
+				},
+				{
+					"verse": "Ya está en acción el misterio de la iniquidad; solo que hay quien al presente lo detiene, hasta que él a su vez sea quitado de en medio.",
+					"number": 7,
+					"id": "da676875-5d73-45c9-968f-7393dec9eef7"
+				},
+				{
+					"verse": "Y entonces se manifestará aquel impío, a quien el Señor matará con el espíritu de su boca y destruirá con el resplandor de su venida.",
+					"number": 8,
+					"id": "f22616e5-ac17-4372-b488-2ec2bad4e308"
+				},
+				{
+					"verse": "El advenimiento de este impío, que es obra de Satanás, irá acompañado de hechos poderosos, señales y falsos milagros,",
+					"number": 9,
+					"id": "f7e5e223-c880-43be-b23e-e3053f9c6d5d"
+				},
+				{
+					"verse": "y con todo engaño de iniquidad para los que se pierden, por cuanto no recibieron el amor de la verdad para ser salvos.",
+					"number": 10,
+					"id": "136f6674-81dc-4c8b-8fd5-921ddbcafc4f"
+				},
+				{
+					"verse": "Por esto Dios les envía un poder engañoso, para que crean en la mentira,",
+					"number": 11,
+					"id": "72ffa02c-2f3a-4547-a400-6266a6297ae5"
+				},
+				{
+					"verse": "a fin de que sean condenados todos los que no creyeron a la verdad, sino que se complacieron en la injusticia.",
+					"number": 12,
+					"id": "f7231686-8bf7-4593-a2c8-e29cc4321eb7"
+				},
+				{
+					"verse": "Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad.",
+					"number": 13,
+					"study": "Escogidos para salvación",
+					"id": "d7157f2d-ed7f-4585-85aa-7ddd4e75c5af"
+				},
+				{
+					"verse": "Para esto él os llamó por medio de nuestro evangelio: para alcanzar la gloria de nuestro Señor Jesucristo.",
+					"number": 14,
+					"id": "ff3b22f3-92ed-41c9-b6b3-f9da7965c0bd"
+				},
+				{
+					"verse": "Así que, hermanos, estad firmes y retened la doctrina que habéis aprendido, sea por palabra o por carta nuestra.",
+					"number": 15,
+					"id": "eb212cbc-8e2c-4ff6-ab42-640bcec34086"
+				},
+				{
+					"verse": "Y el mismo Jesucristo Señor nuestro, y Dios nuestro Padre, el cual nos amó y nos dio consolación eterna y buena esperanza por gracia,",
+					"number": 16,
+					"id": "0242ae59-fca3-4699-9675-de84e0bb458e"
+				},
+				{
+					"verse": "conforte vuestros corazones y os confirme en toda buena palabra y obra.",
+					"number": 17,
+					"id": "f9bad98d-daba-4ebe-a8e9-19b0601de567"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Por lo demás, hermanos, orad por nosotros, para que la palabra del Señor corra y sea glorificada, así como lo fue entre vosotros,",
+					"number": 1,
+					"study": "Que la palabra de Dios sea glorificada",
+					"id": "9f95b8d9-bbcc-4413-bc65-5da580fe927e"
+				},
+				{
+					"verse": "y para que seamos librados de hombres perversos y malos, pues no es de todos la fe.",
+					"number": 2,
+					"id": "a589690f-c2ad-4fdb-8e8e-2d262b786fea"
+				},
+				{
+					"verse": "Pero fiel es el Señor, que os afirmará y guardará del mal.",
+					"number": 3,
+					"id": "c178f102-4d00-429a-a474-918cb3f01f14"
+				},
+				{
+					"verse": "Y tenemos confianza respecto a vosotros en el Señor, en que hacéis y haréis lo que os hemos mandado.",
+					"number": 4,
+					"id": "49a3008a-044d-4967-a386-68d46c06e2db"
+				},
+				{
+					"verse": "Y el Señor encamine vuestros corazones al amor de Dios y a la paciencia de Cristo.",
+					"number": 5,
+					"id": "b48a072b-daad-4dc1-856c-e570f6824fd9"
+				},
+				{
+					"verse": "Pero os ordenamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que ande desordenadamente y no según la enseñanza que recibisteis de nosotros.",
+					"number": 6,
+					"study": "El deber de trabajar",
+					"id": "d6e3e41b-5c1f-49b1-903d-d4fc64e43308"
+				},
+				{
+					"verse": "Vosotros mismos sabéis de qué manera debéis imitarnos, pues nosotros no anduvimos desordenadamente entre vosotros",
+					"number": 7,
+					"id": "b0d9e2b6-b9f0-44ea-87c0-e9f57f75f277"
+				},
+				{
+					"verse": "ni comimos de balde el pan de nadie. Al contrario, trabajamos con afán y fatiga día y noche, para no ser gravosos a ninguno de vosotros;",
+					"number": 8,
+					"id": "4bec9b44-c109-43ff-8238-cf023ca6276e"
+				},
+				{
+					"verse": "no porque no tuviéramos derecho, sino por daros nosotros mismos un ejemplo que podéis imitar.",
+					"number": 9,
+					"id": "760b185e-9e42-4d8a-b06e-4abb98c5cf41"
+				},
+				{
+					"verse": "Y cuando estábamos con vosotros os ordenábamos esto: que si alguno no quiere trabajar, tampoco coma.",
+					"number": 10,
+					"id": "2f873c8c-ccfe-438a-be7d-7a401ff49321"
+				},
+				{
+					"verse": "Ahora oímos que algunos de entre vosotros andan desordenadamente, no trabajando en nada, sino entrometiéndose en lo ajeno.",
+					"number": 11,
+					"id": "855fcdc1-25f1-43b5-a8bc-4c7c9260263e"
+				},
+				{
+					"verse": "A los tales mandamos y exhortamos por nuestro Señor Jesucristo que, trabajando sosegadamente, coman su propio pan.",
+					"number": 12,
+					"id": "cc6c9af9-80bf-402a-a250-f0d719f25888"
+				},
+				{
+					"verse": "Pero vosotros, hermanos, no os canséis de hacer bien.",
+					"number": 13,
+					"id": "d2c7b4ef-4900-4aa2-8126-7295eea614b3"
+				},
+				{
+					"verse": "Si alguno no obedece a lo que decimos por medio de esta carta, a ese señaladlo y no os juntéis con él, para que se averg@uence.",
+					"number": 14,
+					"id": "62350afb-988b-4cb7-a42e-30ca50966b7f"
+				},
+				{
+					"verse": "Pero no lo tengáis por enemigo, sino amonestadlo como a hermano.",
+					"number": 15,
+					"id": "405deca2-b526-4df5-b2d9-b64c24d91579"
+				},
+				{
+					"verse": "Y el mismo Señor de paz os dé siempre paz en toda manera. El Señor sea con todos vosotros.",
+					"number": 16,
+					"study": "Bendición final",
+					"id": "e12cacf0-ff74-4abd-b188-5aab8983d454"
+				},
+				{
+					"verse": "La salutación es de mi propia mano, de Pablo, que es el signo en toda carta mía. Así escribo.",
+					"number": 17,
+					"id": "a701c97b-e219-442e-9091-a666b45e6e1d"
+				},
+				{
+					"verse": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén.",
+					"number": 18,
+					"id": "4d1553f8-fd54-4071-bb36-505209fac72d"
+				}
+			]
+		}
+	],
+	"book_id": "f0e7e5f9-57c2-4ba0-b1ef-ab4ecb638731"
+}

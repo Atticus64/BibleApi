@@ -1,0 +1,14 @@
+{
+	"imports": {
+		"cherio": "https://esm.sh/cheerio@1.0.0-rc.12",
+		"std/": "https://deno.land/std@0.194.0/",
+		"jose": "https://deno.land/x/jose@v4.14.4/index.ts",
+		"hono/": "https://deno.land/x/hono@v3.3.0/",
+		"middleware/": "https://deno.land/x/hono@v3.3.0/middleware/",
+		"postgres": "https://deno.land/x/postgres@v0.17.0/mod.ts",
+		"bcrypt": "https://deno.land/x/crypt@v0.1.0/bcrypt.ts",
+		"zod": "https://deno.land/x/zod@v3.21.4/mod.ts",
+		"flags": "https://deno.land/std@0.168.0/flags/mod.ts",
+		"$/": "./src/"
+	}
+}

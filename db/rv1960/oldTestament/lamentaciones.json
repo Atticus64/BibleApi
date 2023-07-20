@@ -1,0 +1,807 @@
+{
+	"name": "Lamentaciones",
+	"num_chapters": 5,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "¡Cómo ha quedado sola la ciudad populosa! La grande entre las naciones se ha vuelto como viuda, La señora de provincias ha sido hecha tributaria.",
+					"number": 1,
+					"study": "Tristeza de Sion la cautiva",
+					"id": "b83eaaa0-e991-4355-8482-3daf081871e4"
+				},
+				{
+					"verse": "Amargamente llora en la noche, y sus lágrimas están en sus mejillas. No tiene quien la consuele de todos sus amantes; Todos sus amigos le faltaron, se le volvieron enemigos.",
+					"number": 2,
+					"id": "7a893650-ca26-431d-b93e-5fbffdbcc0fc"
+				},
+				{
+					"verse": "Judá ha ido en cautiverio a causa de la aflicción y de la dura servidumbre; Ella habitó entre las naciones, y no halló descanso; Todos sus perseguidores la alcanzaron entre las estrechuras.",
+					"number": 3,
+					"id": "51a3c9ca-a325-460e-9fa3-e78ff7837edf"
+				},
+				{
+					"verse": "Las calzadas de Sion tienen luto, porque no hay quien venga a las fiestas solemnes; Todas sus puertas están asoladas, sus sacerdotes gimen, Sus vírgenes están afligidas, y ella tiene amargura.",
+					"number": 4,
+					"id": "7f09de50-6dfd-4449-917c-4bc30c32743c"
+				},
+				{
+					"verse": "Sus enemigos han sido hechos príncipes, sus aborrecedores fueron prosperados, Porque Jehová la afligió por la multitud de sus rebeliones; Sus hijos fueron en cautividad delante del enemigo.",
+					"number": 5,
+					"id": "2726b2d2-633c-4ced-9414-814361ae3396"
+				},
+				{
+					"verse": "Desapareció de la hija de Sion toda su hermosura; Sus príncipes fueron como ciervos que no hallan pasto, Y anduvieron sin fuerzas delante del perseguidor.",
+					"number": 6,
+					"id": "83a95bed-f62f-4271-a876-5632763c9770"
+				},
+				{
+					"verse": "Jerusalén, cuando cayó su pueblo en mano del enemigo y no hubo quien la ayudase, Se acordó de los días de su aflicción, y de sus rebeliones, Y de todas las cosas agradables que tuvo desde los tiempos antiguos. La miraron los enemigos, y se burlaron de su caída.",
+					"number": 7,
+					"id": "4d25ead7-36c1-4669-bfda-3125fcd440d3"
+				},
+				{
+					"verse": "Pecado cometió Jerusalén, por lo cual ella ha sido removida; Todos los que la honraban la han menospreciado, porque vieron su vergüenza; Y ella suspira, y se vuelve atrás.",
+					"number": 8,
+					"id": "14f4d559-cfd9-4736-9b18-c6f0d5e91a25"
+				},
+				{
+					"verse": "Su inmundicia está en sus faldas, y no se acordó de su fin; Por tanto, ella ha descendido sorprendentemente, y no tiene quien la consuele. Mira, oh Jehová, mi aflicción, porque el enemigo se ha engrandecido.",
+					"number": 9,
+					"id": "66e55cfc-9c72-4e01-a744-f609cfacdfdf"
+				},
+				{
+					"verse": "Extendió su mano el enemigo a todas sus cosas preciosas; Ella ha visto entrar en su santuario a las naciones De las cuales mandaste que no entrasen en tu congregación.",
+					"number": 10,
+					"id": "1da7da41-bb20-4d6b-96e3-aa3e7df0562a"
+				},
+				{
+					"verse": "Todo su pueblo buscó su pan suspirando; Dieron por la comida todas sus cosas preciosas, para entretener la vida. Mira, oh Jehová, y ve que estoy abatida.",
+					"number": 11,
+					"id": "b5c32b1d-0299-4f60-8f9c-e70f110c73a5"
+				},
+				{
+					"verse": "¿No os conmueve a cuantos pasáis por el camino? Mirad, y ved si hay dolor como mi dolor que me ha venido; Porque Jehová me ha angustiado en el día de su ardiente furor.",
+					"number": 12,
+					"id": "08ed680b-49ca-4a2e-8246-0493248015cb"
+				},
+				{
+					"verse": "Desde lo alto envió fuego que consume mis huesos; Ha extendido red a mis pies, me volvió atrás, Me dejó desolada, y con dolor todo el día.",
+					"number": 13,
+					"id": "03258ec2-f486-46d7-b2bd-93b2d643226e"
+				},
+				{
+					"verse": "El yugo de mis rebeliones ha sido atado por su mano; Ataduras han sido echadas sobre mi cerviz; ha debilitado mis fuerzas; Me ha entregado el Señor en manos contra las cuales no podré levantarme.",
+					"number": 14,
+					"id": "eee4ce11-b7c9-4f7c-8473-a3355bc286b1"
+				},
+				{
+					"verse": "El Señor ha hollado a todos mis hombres fuertes en medio de mí; Llamó contra mí compañía para quebrantar a mis jóvenes; Como lagar ha hollado el Señor a la virgen hija de Judá.",
+					"number": 15,
+					"id": "c916f928-db3d-4555-9a78-1121a19728f7"
+				},
+				{
+					"verse": "Por esta causa lloro; mis ojos, mis ojos fluyen aguas, Porque se alejó de mí el consolador que dé reposo a mi alma; Mis hijos son destruidos, porque el enemigo prevaleció.",
+					"number": 16,
+					"id": "14a0aa9f-754b-4c9d-81c4-42f57b7f0980"
+				},
+				{
+					"verse": "Sion extendió sus manos; no tiene quien la consuele; Jehová dio mandamiento contra Jacob, que sus vecinos fuesen sus enemigos; Jerusalén fue objeto de abominación entre ellos.",
+					"number": 17,
+					"id": "f743ec18-e9a3-4bdd-805f-5279465a26f6"
+				},
+				{
+					"verse": "Jehová es justo; yo contra su palabra me rebelé. Oíd ahora, pueblos todos, y ved mi dolor; Mis vírgenes y mis jóvenes fueron llevados en cautiverio.",
+					"number": 18,
+					"id": "746aa2aa-2f79-45ed-ad09-1068a74542db"
+				},
+				{
+					"verse": "Di voces a mis amantes, mas ellos me han engañado; Mis sacerdotes y mis ancianos en la ciudad perecieron, Buscando comida para sí con que entretener su vida.",
+					"number": 19,
+					"id": "8dc972c3-476b-4e8d-955a-5db31008aa48"
+				},
+				{
+					"verse": "Mira, oh Jehová, estoy atribulada, mis entrañas hierven. Mi corazón se trastorna dentro de mí, porque me rebelé en gran manera. Por fuera hizo estragos la espada; por dentro señoreó la muerte.",
+					"number": 20,
+					"id": "fca00829-4fca-4bc8-a2b5-6386d96bf334"
+				},
+				{
+					"verse": "Oyeron que gemía, mas no hay consolador para mí; Todos mis enemigos han oído mi mal, se alegran de lo que tú hiciste. Harás venir el día que has anunciado, y serán como yo.",
+					"number": 21,
+					"id": "af1dcf62-fd5f-44c9-8dca-10dad6797c77"
+				},
+				{
+					"verse": "Venga delante de ti toda su maldad, Y haz con ellos como hiciste conmigo por todas mis rebeliones; Porque muchos son mis suspiros, y mi corazón está adolorido.",
+					"number": 22,
+					"id": "c01b1ae5-30e7-417d-8fdd-b46bb7517320"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "¡Cómo oscureció el Señor en su furor a la hija de Sion! Derribó del cielo a la tierra la hermosura de Israel, Y no se acordó del estrado de sus pies en el día de su furor.",
+					"number": 1,
+					"study": "Las tristezas de Sion vienen de Jehová",
+					"id": "c403951b-742f-4190-95af-2df282c5ab13"
+				},
+				{
+					"verse": "Destruyó el Señor, y no perdonó; Destruyó en su furor todas las tiendas de Jacob; Echó por tierra las fortalezas de la hija de Judá, Humilló al reino y a sus príncipes.",
+					"number": 2,
+					"id": "4618de27-7dd8-4da3-b949-75314fffa168"
+				},
+				{
+					"verse": "Cortó con el ardor de su ira todo el poderío de Israel; Retiró de él su diestra frente al enemigo, Y se encendió en Jacob como llama de fuego que ha devorado alrededor.",
+					"number": 3,
+					"id": "989f42b2-6ace-4315-a8e9-cbb9c48bb33e"
+				},
+				{
+					"verse": "Entesó su arco como enemigo, afirmó su mano derecha como adversario, Y destruyó cuanto era hermoso. En la tienda de la hija de Sion derramó como fuego su enojo.",
+					"number": 4,
+					"id": "3739f7a7-3618-45a6-a931-57af367a84fd"
+				},
+				{
+					"verse": "El Señor llegó a ser como enemigo, destruyó a Israel; Destruyó todos sus palacios, derribó sus fortalezas, Y multiplicó en la hija de Judá la tristeza y el lamento.",
+					"number": 5,
+					"id": "01b134e3-7588-49fc-a65e-e40ab5a34aee"
+				},
+				{
+					"verse": "Quitó su tienda como enramada de huerto; Destruyó el lugar en donde se congregaban; Jehová ha hecho olvidar las fiestas solemnes y los días de reposo en Sion, Y en el ardor de su ira ha desechado al rey y al sacerdote.",
+					"number": 6,
+					"id": "534c7354-4721-4417-b607-45e467c16ea2"
+				},
+				{
+					"verse": "Desechó el Señor su altar, menospreció su santuario; Ha entregado en mano del enemigo los muros de sus palacios; Hicieron resonar su voz en la casa de Jehová como en día de fiesta.",
+					"number": 7,
+					"id": "3d1f6053-dad1-4e2e-bfb5-be48f8140f72"
+				},
+				{
+					"verse": "Jehová determinó destruir el muro de la hija de Sion; Extendió el cordel, no retrajo su mano de la destrucción; Hizo, pues, que se lamentara el antemuro y el muro; fueron desolados juntamente.",
+					"number": 8,
+					"id": "c7947444-277d-4a06-9d40-9bdabaf09b75"
+				},
+				{
+					"verse": "Sus puertas fueron echadas por tierra, destruyó y quebrantó sus cerrojos; Su rey y sus príncipes están entre las naciones donde no hay ley; Sus profetas tampoco hallaron visión de Jehová.",
+					"number": 9,
+					"id": "1b1fbb4d-edb2-40ec-b8c4-86112e47589d"
+				},
+				{
+					"verse": "Se sentaron en tierra, callaron los ancianos de la hija de Sion; Echaron polvo sobre sus cabezas, se ciñeron de cilicio; Las vírgenes de Jerusalén bajaron sus cabezas a tierra.",
+					"number": 10,
+					"id": "637fabe3-5a56-42ed-a3e2-3b24db855253"
+				},
+				{
+					"verse": "Mis ojos desfallecieron de lágrimas, se conmovieron mis entrañas, Mi hígado se derramó por tierra a causa del quebrantamiento de la hija de mi pueblo, Cuando desfallecía el niño y el que mamaba, en las plazas de la ciudad.",
+					"number": 11,
+					"id": "970abacb-be6b-42eb-9600-99360f5904eb"
+				},
+				{
+					"verse": "Decían a sus madres: ¿Dónde está el trigo y el vino? Desfallecían como heridos en las calles de la ciudad, Derramando sus almas en el regazo de sus madres.",
+					"number": 12,
+					"id": "c2692c9d-ed4c-41f3-94d1-16d39a176815"
+				},
+				{
+					"verse": "¿Qué testigo te traeré, o a quién te haré semejante, hija de Jerusalén? ¿A quién te compararé para consolarte, oh virgen hija de Sion? Porque grande como el mar es tu quebrantamiento; ¿quién te sanará?",
+					"number": 13,
+					"id": "5f8608f2-9e7c-4fc6-bb9b-e4e192d58ed1"
+				},
+				{
+					"verse": "Tus profetas vieron para ti vanidad y locura; Y no descubrieron tu pecado para impedir tu cautiverio, Sino que te predicaron vanas profecías y extravíos.",
+					"number": 14,
+					"id": "fcc181b4-4d47-4b7f-8125-7ada7e2d5393"
+				},
+				{
+					"verse": "Todos los que pasaban por el camino batieron las manos sobre ti; Silbaron, y movieron despectivamente sus cabezas sobre la hija de Jerusalén, diciendo: ¿Es esta la ciudad que decían de perfecta hermosura, el gozo de toda la tierra?",
+					"number": 15,
+					"id": "ee387b52-c40e-4624-b8e2-27a026e79d90"
+				},
+				{
+					"verse": "Todos tus enemigos abrieron contra ti su boca; Se burlaron, y crujieron los dientes; dijeron: Devorémosla; Ciertamente este es el día que esperábamos; lo hemos hallado, lo hemos visto.",
+					"number": 16,
+					"id": "ee824bec-130e-4712-be9a-223e066eefa3"
+				},
+				{
+					"verse": "Jehová ha hecho lo que tenía determinado; Ha cumplido su palabra, la cual él había mandado desde tiempo antiguo. Destruyó, y no perdonó; Y ha hecho que el enemigo se alegre sobre ti, Y enalteció el poder de tus adversarios.",
+					"number": 17,
+					"id": "2170fef2-83b9-4838-956a-49180795bfc5"
+				},
+				{
+					"verse": "El corazón de ellos clamaba al Señor; Oh hija de Sion, echa lágrimas cual arroyo día y noche; No descanses, ni cesen las niñas de tus ojos.",
+					"number": 18,
+					"id": "32ba7d69-4419-4bf1-875b-35dd09e38650"
+				},
+				{
+					"verse": "Levántate, da voces en la noche, al comenzar las vigilias; Derrama como agua tu corazón ante la presencia del Señor; Alza tus manos a él implorando la vida de tus pequeñitos, Que desfallecen de hambre en las entradas de todas las calles.",
+					"number": 19,
+					"id": "9e886aee-68d0-4a7a-aa16-4d55ef9a8fe0"
+				},
+				{
+					"verse": "Mira, oh Jehová, y considera a quién has hecho así. ¿Han de comer las mujeres el fruto de sus entrañas, los pequeñitos a su tierno cuidado? ¿Han de ser muertos en el santuario del Señor el sacerdote y el profeta?",
+					"number": 20,
+					"id": "3d35d278-541c-44b5-800c-3a03e16ebaee"
+				},
+				{
+					"verse": "Niños y viejos yacían por tierra en las calles; Mis vírgenes y mis jóvenes cayeron a espada; Mataste en el día de tu furor; degollaste, no perdonaste.",
+					"number": 21,
+					"id": "d9926778-6dbe-4902-9614-85082e6d168d"
+				},
+				{
+					"verse": "Has convocado de todas partes mis temores, como en un día de solemnidad; Y en el día del furor de Jehová no hubo quien escapase ni quedase vivo; Los que crié y mantuve, mi enemigo los acabó.",
+					"number": 22,
+					"id": "d3be43b0-0c38-4ddc-bed4-f5c76c0b5bb6"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Yo soy el hombre que ha visto aflicción bajo el látigo de su enojo.",
+					"number": 1,
+					"study": "Esperanza de liberación por la misericordia de Dios",
+					"id": "7331a8e6-9212-4dc8-afcb-90ab138d9909"
+				},
+				{
+					"verse": "Me guió y me llevó en tinieblas, y no en luz;",
+					"number": 2,
+					"id": "6ccf3287-6faa-4d88-9ae3-9c8b56cdae73"
+				},
+				{
+					"verse": "Ciertamente contra mí volvió y revolvió su mano todo el día.",
+					"number": 3,
+					"id": "1c29951a-068b-487d-9d48-260f74f3c0cc"
+				},
+				{
+					"verse": "Hizo envejecer mi carne y mi piel; quebrantó mis huesos;",
+					"number": 4,
+					"id": "be69b936-d422-4bd6-a1c1-5bbadc6e105d"
+				},
+				{
+					"verse": "Edificó baluartes contra mí, y me rodeó de amargura y de trabajo.",
+					"number": 5,
+					"id": "be5e97ab-7f68-49d8-b66d-2cd4f0eb0571"
+				},
+				{
+					"verse": "Me dejó en oscuridad, como los ya muertos de mucho tiempo.",
+					"number": 6,
+					"id": "2a1de292-b4c3-4ad9-a91b-9db24e6dc3ff"
+				},
+				{
+					"verse": "Me cercó por todos lados, y no puedo salir; ha hecho más pesadas mis cadenas;",
+					"number": 7,
+					"id": "f7893637-2c78-48f5-a97b-40308f200df5"
+				},
+				{
+					"verse": "Aun cuando clamé y di voces, cerró los oídos a mi oración;",
+					"number": 8,
+					"id": "2cba613f-ae2a-480b-bba0-f8028ed25049"
+				},
+				{
+					"verse": "Cercó mis caminos con piedra labrada, torció mis senderos.",
+					"number": 9,
+					"id": "931a83cb-8235-42bd-99dd-25ecec078153"
+				},
+				{
+					"verse": "Fue para mí como oso que acecha, como león en escondrijos;",
+					"number": 10,
+					"id": "68e9f121-225b-4889-8127-73750b23be3d"
+				},
+				{
+					"verse": "Torció mis caminos, y me despedazó; me dejó desolado.",
+					"number": 11,
+					"id": "0c529c34-0b5c-4446-ab92-d1d33734c618"
+				},
+				{
+					"verse": "Entesó su arco, y me puso como blanco para la saeta.",
+					"number": 12,
+					"id": "2a025be7-2a9e-4e0d-9d04-8c17be234b80"
+				},
+				{
+					"verse": "Hizo entrar en mis entrañas las saetas de su aljaba.",
+					"number": 13,
+					"id": "38a87a20-4a41-4c67-a9cc-43be080e081a"
+				},
+				{
+					"verse": "Fui escarnio a todo mi pueblo, burla de ellos todos los días;",
+					"number": 14,
+					"id": "a600b0fd-644e-4155-b8f5-a06f331c2532"
+				},
+				{
+					"verse": "Me llenó de amarguras, me embriagó de ajenjos.",
+					"number": 15,
+					"id": "2bf13de5-082a-4931-a42e-0ab862e83737"
+				},
+				{
+					"verse": "Mis dientes quebró con cascajo, me cubrió de ceniza;",
+					"number": 16,
+					"id": "7cb19888-aed2-44bb-994e-2c7662192137"
+				},
+				{
+					"verse": "Y mi alma se alejó de la paz, me olvidé del bien,",
+					"number": 17,
+					"id": "7f560778-7a91-4196-9c77-e5e239299e8d"
+				},
+				{
+					"verse": "Y dije: Perecieron mis fuerzas, y mi esperanza en Jehová.",
+					"number": 18,
+					"id": "c8407e85-1f03-44aa-a409-bc739fb710e9"
+				},
+				{
+					"verse": "Acuérdate de mi aflicción y de mi abatimiento, del ajenjo y de la hiel;",
+					"number": 19,
+					"id": "f8596ab3-e275-49a5-90ce-80d48387a49b"
+				},
+				{
+					"verse": "Lo tendré aún en memoria, porque mi alma está abatida dentro de mí;",
+					"number": 20,
+					"id": "bef2452c-97a2-4f46-9b50-794caca4ade3"
+				},
+				{
+					"verse": "Esto recapacitaré en mi corazón, por lo tanto esperaré.",
+					"number": 21,
+					"id": "0682b168-5357-4b16-9b5a-b91e6e34b2c1"
+				},
+				{
+					"verse": "Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias.",
+					"number": 22,
+					"id": "c0933a66-c332-4583-a590-1950ad44933b"
+				},
+				{
+					"verse": "Nuevas son cada mañana; grande es tu fidelidad.",
+					"number": 23,
+					"id": "248719ce-523f-43c4-a653-9f1273173c6f"
+				},
+				{
+					"verse": "Mi porción es Jehová, dijo mi alma; por tanto, en él esperaré.",
+					"number": 24,
+					"id": "b25a68e8-004d-4183-9396-c3ac289dcd02"
+				},
+				{
+					"verse": "Bueno es Jehová a los que en él esperan, al alma que le busca.",
+					"number": 25,
+					"id": "430ca5f5-b2ba-4ce2-acd6-36eef8df232a"
+				},
+				{
+					"verse": "Bueno es esperar en silencio la salvación de Jehová.",
+					"number": 26,
+					"id": "1697a585-a527-4751-978a-d6cdd69f053c"
+				},
+				{
+					"verse": "Bueno le es al hombre llevar el yugo desde su juventud.",
+					"number": 27,
+					"id": "7fb1392c-4cc4-45db-9498-765a09193ddb"
+				},
+				{
+					"verse": "Que se siente solo y calle, porque es Dios quien se lo impuso;",
+					"number": 28,
+					"id": "e722cb6a-f1eb-4e90-a926-b6298162029f"
+				},
+				{
+					"verse": "Ponga su boca en el polvo, por si aún hay esperanza;",
+					"number": 29,
+					"id": "60addd90-c269-46a7-b222-6ef2b095fb7d"
+				},
+				{
+					"verse": "Dé la mejilla al que le hiere, y sea colmado de afrentas.",
+					"number": 30,
+					"id": "0e15fb94-4beb-4ff3-849d-e84ee95436d4"
+				},
+				{
+					"verse": "Porque el Señor no desecha para siempre;",
+					"number": 31,
+					"id": "ea245e95-9259-40fb-890f-e7b2afb763aa"
+				},
+				{
+					"verse": "Antes si aflige, también se compadece según la multitud de sus misericordias;",
+					"number": 32,
+					"id": "299fa19b-2702-42d2-b009-5ca74dc63b18"
+				},
+				{
+					"verse": "Porque no aflige ni entristece voluntariamente a los hijos de los hombres.",
+					"number": 33,
+					"id": "a225f68e-ac25-4504-8e37-311406b6b4ac"
+				},
+				{
+					"verse": "Desmenuzar bajo los pies a todos los encarcelados de la tierra,",
+					"number": 34,
+					"id": "3a33cd8c-f0b4-4b09-a173-6d3b9f5b96ed"
+				},
+				{
+					"verse": "Torcer el derecho del hombre delante de la presencia del Altísimo,",
+					"number": 35,
+					"id": "d60362e7-9084-4110-81f7-726d1893da9c"
+				},
+				{
+					"verse": "Trastornar al hombre en su causa, el Señor no lo aprueba.",
+					"number": 36,
+					"id": "3d48e41b-4c87-458e-87eb-65e21ed86417"
+				},
+				{
+					"verse": "¿Quién será aquel que diga que sucedió algo que el Señor no mandó?",
+					"number": 37,
+					"id": "f72ef79d-d412-4ceb-a640-3a5c1bab5838"
+				},
+				{
+					"verse": "¿De la boca del Altísimo no sale lo malo y lo bueno?",
+					"number": 38,
+					"id": "8d442a4e-2367-4e9b-b3bd-0af36a72ccd9"
+				},
+				{
+					"verse": "¿Por qué se lamenta el hombre viviente? Laméntese el hombre en su pecado.",
+					"number": 39,
+					"id": "ca9483e5-8362-4848-904f-00097a91fa71"
+				},
+				{
+					"verse": "Escudriñemos nuestros caminos, y busquemos, y volvámonos a Jehová;",
+					"number": 40,
+					"id": "350fe905-1ec1-4351-af74-f7dffc8a7bac"
+				},
+				{
+					"verse": "Levantemos nuestros corazones y manos a Dios en los cielos;",
+					"number": 41,
+					"id": "3b0ca5a9-50c8-4441-81f6-94ac086d087e"
+				},
+				{
+					"verse": "Nosotros nos hemos rebelado, y fuimos desleales; tú no perdonaste.",
+					"number": 42,
+					"id": "94ea2cd9-1209-4f1e-8eca-9e44c6fb0bc6"
+				},
+				{
+					"verse": "Desplegaste la ira y nos perseguiste; mataste, y no perdonaste;",
+					"number": 43,
+					"id": "1c9eae00-3c8d-41b2-9301-7842b07849ed"
+				},
+				{
+					"verse": "Te cubriste de nube para que no pasase la oración nuestra;",
+					"number": 44,
+					"id": "6d067ce4-617d-46fe-9f8d-405873fc8614"
+				},
+				{
+					"verse": "Nos volviste en oprobio y abominación en medio de los pueblos.",
+					"number": 45,
+					"id": "45c4d5e0-cb56-4912-8549-cdfccd522d3e"
+				},
+				{
+					"verse": "Todos nuestros enemigos abrieron contra nosotros su boca;",
+					"number": 46,
+					"id": "05e7d006-79ed-4ef1-b8b3-4f3499b15fcc"
+				},
+				{
+					"verse": "Temor y lazo fueron para nosotros, asolamiento y quebranto;",
+					"number": 47,
+					"id": "13ae53a6-d484-4bbc-a853-119ac97f3e1e"
+				},
+				{
+					"verse": "Ríos de aguas echan mis ojos por el quebrantamiento de la hija de mi pueblo.",
+					"number": 48,
+					"id": "15a348ce-7e62-40a8-82c2-e270189bc738"
+				},
+				{
+					"verse": "Mis ojos destilan y no cesan, porque no hay alivio",
+					"number": 49,
+					"id": "72476a4a-0979-4b4c-87cd-002a9fade02c"
+				},
+				{
+					"verse": "Hasta que Jehová mire y vea desde los cielos;",
+					"number": 50,
+					"id": "7a5ec3c7-dacd-40bc-9f7d-6057361a2253"
+				},
+				{
+					"verse": "Mis ojos contristaron mi alma por todas las hijas de mi ciudad.",
+					"number": 51,
+					"id": "5dcd0c60-ce71-48e9-92d3-7d95c1a4b235"
+				},
+				{
+					"verse": "Mis enemigos me dieron caza como a ave, sin haber por qué;",
+					"number": 52,
+					"id": "e6937cdf-676c-4d6c-b48f-43ca7bdf0ad1"
+				},
+				{
+					"verse": "Ataron mi vida en cisterna, pusieron piedra sobre mí;",
+					"number": 53,
+					"id": "c9b49571-17bc-45c8-96a3-b318998af556"
+				},
+				{
+					"verse": "Aguas cubrieron mi cabeza; yo dije: Muerto soy.",
+					"number": 54,
+					"id": "8607ef9f-a723-4c48-a9d3-09cd9dd7d1c6"
+				},
+				{
+					"verse": "Invoqué tu nombre, oh Jehová, desde la cárcel profunda;",
+					"number": 55,
+					"id": "98614a7a-52fd-4c74-9fb5-8f4a0e58432f"
+				},
+				{
+					"verse": "Oíste mi voz; no escondas tu oído al clamor de mis suspiros.",
+					"number": 56,
+					"id": "5aed541b-d8dc-46c3-b313-9d1eda875204"
+				},
+				{
+					"verse": "Te acercaste el día que te invoqué; dijiste: No temas.",
+					"number": 57,
+					"id": "7a1cbd9c-4077-41dd-b3f5-d99d089e0230"
+				},
+				{
+					"verse": "Abogaste, Señor, la causa de mi alma; redimiste mi vida.",
+					"number": 58,
+					"id": "d4c2bb64-1e1d-455a-8289-0a4581e903d5"
+				},
+				{
+					"verse": "Tú has visto, oh Jehová, mi agravio; defiende mi causa.",
+					"number": 59,
+					"id": "0e5cdc74-f8a0-4aeb-b43f-4f3d78d9c329"
+				},
+				{
+					"verse": "Has visto toda su venganza, todos sus pensamientos contra mí.",
+					"number": 60,
+					"id": "f04af535-dff9-463d-bc00-4760bbeedcf4"
+				},
+				{
+					"verse": "Has oído el oprobio de ellos, oh Jehová, todas sus maquinaciones contra mí;",
+					"number": 61,
+					"id": "a52a6cab-0347-475a-b197-6a93f78b1206"
+				},
+				{
+					"verse": "Los dichos de los que contra mí se levantaron, y su designio contra mí todo el día.",
+					"number": 62,
+					"id": "ce807e3f-d9ae-4780-b21e-309f9c63c244"
+				},
+				{
+					"verse": "Su sentarse y su levantarse mira; yo soy su canción.",
+					"number": 63,
+					"id": "32bc1d12-49a0-4cb5-9862-f9d4b1afb421"
+				},
+				{
+					"verse": "Dales el pago, oh Jehová, según la obra de sus manos.",
+					"number": 64,
+					"id": "c46b6e35-12fb-4a56-8aac-cb7bb0bafee7"
+				},
+				{
+					"verse": "Entrégalos al endurecimiento de corazón; tu maldición caiga sobre ellos.",
+					"number": 65,
+					"id": "b2b6b7c0-303f-44ec-8edb-3c6bb9e60ea1"
+				},
+				{
+					"verse": "Persíguelos en tu furor, y quebrántalos de debajo de los cielos, oh Jehová.",
+					"number": 66,
+					"id": "d5d83288-feed-4456-8272-4de5e7b0fd07"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "¡Cómo se ha ennegrecido el oro! ¡Cómo el buen oro ha perdido su brillo! Las piedras del santuario están esparcidas por las encrucijadas de todas las calles.",
+					"number": 1,
+					"study": "El castigo de Sion consumado",
+					"id": "5a271ce3-89d2-423a-9116-9892cbe58ba1"
+				},
+				{
+					"verse": "Los hijos de Sion, preciados y estimados más que el oro puro, ¡Cómo son tenidos por vasijas de barro, obra de manos de alfarero!",
+					"number": 2,
+					"id": "020048d2-6faa-4c1c-978d-72a9621dd876"
+				},
+				{
+					"verse": "Aun los chacales dan la teta, y amamantan a sus cachorros; La hija de mi pueblo es cruel como los avestruces en el desierto.",
+					"number": 3,
+					"id": "dc53986d-138a-4d10-bf00-cf5f31e3492b"
+				},
+				{
+					"verse": "La lengua del niño de pecho se pegó a su paladar por la sed; Los pequeñuelos pidieron pan, y no hubo quien se lo repartiese.",
+					"number": 4,
+					"id": "e343c10a-d6a4-4381-83df-198b175bcff1"
+				},
+				{
+					"verse": "Los que comían delicadamente fueron asolados en las calles; Los que se criaron entre púrpura se abrazaron a los estercoleros.",
+					"number": 5,
+					"id": "6b6f3702-4105-47f6-82b3-67cc3d37ad89"
+				},
+				{
+					"verse": "Porque se aumentó la iniquidad de la hija de mi pueblo más que el pecado de Sodoma, Que fue destruida en un momento, sin que acamparan contra ella compañías.",
+					"number": 6,
+					"id": "92894df2-ccef-4841-8d8f-589670e977de"
+				},
+				{
+					"verse": "Sus nobles fueron más puros que la nieve, más blancos que la leche; Más rubios eran sus cuerpos que el coral, su talle más hermoso que el zafiro.",
+					"number": 7,
+					"id": "41ef0976-9dcc-481a-b2a1-d2b3ba20e389"
+				},
+				{
+					"verse": "Oscuro más que la negrura es su aspecto; no los conocen por las calles; Su piel está pegada a sus huesos, seca como un palo.",
+					"number": 8,
+					"id": "7be1d00c-b3d3-45bf-a7b6-6c1117fe5acd"
+				},
+				{
+					"verse": "Más dichosos fueron los muertos a espada que los muertos por el hambre; Porque éstos murieron poco a poco por falta de los frutos de la tierra.",
+					"number": 9,
+					"id": "17df09bb-b2a2-49a0-a796-2f56199866db"
+				},
+				{
+					"verse": "Las manos de mujeres piadosas cocieron a sus hijos; Sus propios hijos les sirvieron de comida en el día del quebrantamiento de la hija de mi pueblo.",
+					"number": 10,
+					"id": "25009f79-fcd4-4474-be95-a6f81110056d"
+				},
+				{
+					"verse": "Cumplió Jehová su enojo, derramó el ardor de su ira; Y encendió en Sion fuego que consumió hasta sus cimientos.",
+					"number": 11,
+					"id": "df5ee37a-1588-41ae-a306-53845fddba17"
+				},
+				{
+					"verse": "Nunca los reyes de la tierra, ni todos los que habitan en el mundo, Creyeron que el enemigo y el adversario entrara por las puertas de Jerusalén.",
+					"number": 12,
+					"id": "3ce02571-04cf-4f82-9b97-e83c188388b5"
+				},
+				{
+					"verse": "Es por causa de los pecados de sus profetas, y las maldades de sus sacerdotes, Quienes derramaron en medio de ella la sangre de los justos.",
+					"number": 13,
+					"id": "6c805d2f-2801-4b19-9124-fef923f15f93"
+				},
+				{
+					"verse": "Titubearon como ciegos en las calles, fueron contaminados con sangre, De modo que no pudiesen tocarse sus vestiduras.",
+					"number": 14,
+					"id": "e331975d-a58c-499b-8746-2b16d668d947"
+				},
+				{
+					"verse": "¡Apartaos! ¡Inmundos! les gritaban; ¡Apartaos, apartaos, no toquéis! Huyeron y fueron dispersados; se dijo entre las naciones: Nunca más morarán aquí.",
+					"number": 15,
+					"id": "fb557d77-0693-4ce8-9dee-e7d00160c761"
+				},
+				{
+					"verse": "La ira de Jehová los apartó, no los mirará más; No respetaron la presencia de los sacerdotes, ni tuvieron compasión de los viejos.",
+					"number": 16,
+					"id": "5c472cd0-a5ee-4551-8f51-5987703b7cd7"
+				},
+				{
+					"verse": "Aun han desfallecido nuestros ojos esperando en vano nuestro socorro; En nuestra esperanza aguardamos a una nación que no puede salvar.",
+					"number": 17,
+					"id": "c3197760-8c0b-4232-b3c4-24b7642a2f0f"
+				},
+				{
+					"verse": "Cazaron nuestros pasos, para que no anduviésemos por nuestras calles; Se acercó nuestro fin, se cumplieron nuestros días; porque llegó nuestro fin.",
+					"number": 18,
+					"id": "bc01894b-9b91-4090-a2ae-04e4846896da"
+				},
+				{
+					"verse": "Ligeros fueron nuestros perseguidores más que las águilas del cielo; Sobre los montes nos persiguieron, en el desierto nos pusieron emboscadas.",
+					"number": 19,
+					"id": "c6a7c3c8-ba02-4fa5-9845-b95039adff2a"
+				},
+				{
+					"verse": "El aliento de nuestras vidas, el ungido de Jehová, De quien habíamos dicho: A su sombra tendremos vida entre las naciones, fue apresado en sus lazos.",
+					"number": 20,
+					"id": "42abbe11-d721-43ae-be0a-5fe3be8e4f3e"
+				},
+				{
+					"verse": "Gózate y alégrate, hija de Edom, la que habitas en tierra de Uz; Aun hasta ti llegará la copa; te embriagarás, y vomitarás.",
+					"number": 21,
+					"id": "89c0f7a7-371a-48a7-8886-4fe89aec22f1"
+				},
+				{
+					"verse": "Se ha cumplido tu castigo, oh hija de Sion; Nunca más te hará llevar cautiva. Castigará tu iniquidad, oh hija de Edom; Descubrirá tus pecados.",
+					"number": 22,
+					"id": "8d9ad651-14e0-4e41-82b8-7a81ee2bb52a"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Acuérdate, oh Jehová, de lo que nos ha sucedido; Mira, y ve nuestro oprobio.",
+					"number": 1,
+					"study": "Oración del pueblo afligido",
+					"id": "ee045d55-c2c5-4365-bc86-2a31378ac065"
+				},
+				{
+					"verse": "Nuestra heredad ha pasado a extraños, Nuestras casas a forasteros.",
+					"number": 2,
+					"id": "df482734-54fb-4a3e-81ae-54b6c10f57aa"
+				},
+				{
+					"verse": "Huérfanos somos sin padre; Nuestras madres son como viudas.",
+					"number": 3,
+					"id": "5b0982d3-0a11-4093-973f-a5ed6ab0170b"
+				},
+				{
+					"verse": "Nuestra agua bebemos por dinero; Compramos nuestra leña por precio.",
+					"number": 4,
+					"id": "78595b7d-db85-4758-a4ca-6948ea5da24d"
+				},
+				{
+					"verse": "Padecemos persecución sobre nosotros; Nos fatigamos, y no hay para nosotros reposo.",
+					"number": 5,
+					"id": "199e94e7-6463-43a8-aef6-83d9ac00e7c0"
+				},
+				{
+					"verse": "Al egipcio y al asirio extendimos la mano, para saciarnos de pan.",
+					"number": 6,
+					"id": "f92f616d-9e85-45a3-8d03-f9c5396c775e"
+				},
+				{
+					"verse": "Nuestros padres pecaron, y han muerto; Y nosotros llevamos su castigo.",
+					"number": 7,
+					"id": "798aeb64-2de3-4e21-b2b5-5b87d2b6e326"
+				},
+				{
+					"verse": "Siervos se enseñorearon de nosotros; No hubo quien nos librase de su mano.",
+					"number": 8,
+					"id": "b88ff0e4-97a5-4a5b-9418-be2972cc121f"
+				},
+				{
+					"verse": "Con peligro de nuestras vidas traíamos nuestro pan Ante la espada del desierto.",
+					"number": 9,
+					"id": "b7b20773-6c20-4f91-b669-6d650da6b363"
+				},
+				{
+					"verse": "Nuestra piel se ennegreció como un horno A causa del ardor del hambre.",
+					"number": 10,
+					"id": "f554bcf1-08d0-4913-b5cb-396ab7a5dab3"
+				},
+				{
+					"verse": "Violaron a las mujeres en Sion, A las vírgenes en las ciudades de Judá.",
+					"number": 11,
+					"id": "828f27f1-9895-49b6-bc0d-bafeadf8e68b"
+				},
+				{
+					"verse": "A los príncipes colgaron de las manos; No respetaron el rostro de los viejos.",
+					"number": 12,
+					"id": "0993d4d0-d838-45ad-8ed4-23e6fe7c2f95"
+				},
+				{
+					"verse": "Llevaron a los jóvenes a moler, Y los muchachos desfallecieron bajo el peso de la leña.",
+					"number": 13,
+					"id": "aea30c66-24ac-412d-8476-7ef5c797c18c"
+				},
+				{
+					"verse": "Los ancianos no se ven más en la puerta, Los jóvenes dejaron sus canciones.",
+					"number": 14,
+					"id": "85645ec2-ad8e-4561-ac05-e4ca617072b1"
+				},
+				{
+					"verse": "Cesó el gozo de nuestro corazón; Nuestra danza se cambió en luto.",
+					"number": 15,
+					"id": "1dfe4c6b-90d8-4dac-9022-29638231368d"
+				},
+				{
+					"verse": "Cayó la corona de nuestra cabeza; ¡Ay ahora de nosotros! porque pecamos.",
+					"number": 16,
+					"id": "30c7adc5-2b07-48f1-bbb4-f45344fcf55d"
+				},
+				{
+					"verse": "Por esto fue entristecido nuestro corazón, Por esto se entenebrecieron nuestros ojos,",
+					"number": 17,
+					"id": "0cd6831b-e0fc-429f-89ff-4a94f701e56f"
+				},
+				{
+					"verse": "Por el monte de Sion que está asolado; Zorras andan por él.",
+					"number": 18,
+					"id": "0104df20-46dc-4012-bfec-55eb7d18c1be"
+				},
+				{
+					"verse": "Mas tú, Jehová, permanecerás para siempre; Tu trono de generación en generación.",
+					"number": 19,
+					"id": "b84f12a4-917b-4b08-81a3-b770d6a7fad6"
+				},
+				{
+					"verse": "¿Por qué te olvidas completamente de nosotros, Y nos abandonas tan largo tiempo?",
+					"number": 20,
+					"id": "7999d943-5a58-4a5a-8af2-0c10f5d5f025"
+				},
+				{
+					"verse": "Vuélvenos, oh Jehová, a ti, y nos volveremos; Renueva nuestros días como al principio.",
+					"number": 21,
+					"id": "54e6b657-70f3-470f-bc78-9b525eb332ea"
+				},
+				{
+					"verse": "Porque nos has desechado; Te has airado contra nosotros en gran manera.",
+					"number": 22,
+					"id": "8c615aa2-51d6-46f8-a6dc-9ae13909db82"
+				}
+			]
+		}
+	],
+	"book_id": "db1e4642-8c14-4ff1-9fce-765e3f4166eb"
+}

@@ -1,0 +1,4754 @@
+{
+	"name": "Proverbios",
+	"num_chapters": 31,
+	"chapters": [
+		{
+			"chapter": "1",
+			"vers": [
+				{
+					"verse": "Los proverbios de Salomón, hijo de David, rey de Israel.",
+					"number": 1,
+					"study": "Motivo de los proverbios",
+					"id": "03f69ad2-b164-4cf4-a740-77c6d323e13c"
+				},
+				{
+					"verse": "Para entender sabiduría y doctrina, Para conocer razones prudentes,",
+					"number": 2,
+					"id": "ef003e73-128d-4680-bef2-50be3176ad80"
+				},
+				{
+					"verse": "Para recibir el consejo de prudencia, Justicia, juicio y equidad;",
+					"number": 3,
+					"id": "665e8f27-bc42-4416-abfd-ed392c66f895"
+				},
+				{
+					"verse": "Para dar sagacidad a los simples, Y a los jóvenes inteligencia y cordura.",
+					"number": 4,
+					"id": "409f6c9f-749e-4f7e-81e2-5df0699aecd5"
+				},
+				{
+					"verse": "Oirá el sabio, y aumentará el saber, Y el entendido adquirirá consejo,",
+					"number": 5,
+					"id": "9a995f1d-9794-440a-bffc-803387cc4728"
+				},
+				{
+					"verse": "Para entender proverbio y declaración, Palabras de sabios, y sus dichos profundos.",
+					"number": 6,
+					"id": "2b5212f0-e7a4-462b-a252-f8e54ca44b43"
+				},
+				{
+					"verse": "El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza.",
+					"number": 7,
+					"id": "fa71a502-386b-435f-89f7-91e366788fcf"
+				},
+				{
+					"verse": "Oye, hijo mío, la instrucción de tu padre, Y no desprecies la dirección de tu madre;",
+					"number": 8,
+					"id": "a527ea50-011b-49fc-9f94-be599060c981"
+				},
+				{
+					"verse": "Porque adorno de gracia serán a tu cabeza, Y collares a tu cuello.",
+					"number": 9,
+					"id": "63f74aac-9aa1-4da9-906a-ff5a49082863"
+				},
+				{
+					"verse": "Hijo mío, si los pecadores te quisieren engañar, No consientas.",
+					"number": 10,
+					"id": "579dd07f-b144-4860-861a-7abd4e6ad197"
+				},
+				{
+					"verse": "Si dijeren: Ven con nosotros; Pongamos asechanzas para derramar sangre, Acechemos sin motivo al inocente;",
+					"number": 11,
+					"id": "29b8767b-7609-4080-8fbc-eeb191f36b38"
+				},
+				{
+					"verse": "Los tragaremos vivos como el Seol, Y enteros, como los que caen en un abismo;",
+					"number": 12,
+					"id": "5118fde3-b175-46e7-99b4-8a738e630e87"
+				},
+				{
+					"verse": "Hallaremos riquezas de toda clase, Llenaremos nuestras casas de despojos;",
+					"number": 13,
+					"id": "51ce6430-6c6d-4504-a41d-07dbe11c251f"
+				},
+				{
+					"verse": "Echa tu suerte entre nosotros; Tengamos todos una bolsa,?",
+					"number": 14,
+					"id": "ed8d8102-f5dd-4040-98d1-521e582793b6"
+				},
+				{
+					"verse": "Hijo mío, no andes en camino con ellos. Aparta tu pie de sus veredas,",
+					"number": 15,
+					"id": "c93be53d-e6b1-4f45-b0fe-021624423ba2"
+				},
+				{
+					"verse": "Porque sus pies corren hacia el mal, Y van presurosos a derramar sangre.",
+					"number": 16,
+					"id": "d6a9e7b9-46df-4775-a8b4-bb45a0d5a5f7"
+				},
+				{
+					"verse": "Porque en vano se tenderá la red Ante los ojos de toda ave;",
+					"number": 17,
+					"id": "cd1b9367-e652-4f41-b6ff-55a314df8f50"
+				},
+				{
+					"verse": "Pero ellos a su propia sangre ponen asechanzas, Y a sus almas tienden lazo.",
+					"number": 18,
+					"id": "20adddad-3717-4e78-8955-2b0453b1b5fe"
+				},
+				{
+					"verse": "Tales son las sendas de todo el que es dado a la codicia, La cual quita la vida de sus poseedores.",
+					"number": 19,
+					"id": "30c6d175-a3c3-4bc7-ba49-9c98617b7bf2"
+				},
+				{
+					"verse": "La sabiduría clama en las calles, Alza su voz en las plazas;",
+					"number": 20,
+					"id": "dd6914df-740b-41aa-82f1-4883d65cf3dc"
+				},
+				{
+					"verse": "Clama en los principales lugares de reunión; En las entradas de las puertas de la ciudad dice sus razones.",
+					"number": 21,
+					"id": "29777c24-5f42-420b-80c3-ba127b793c4c"
+				},
+				{
+					"verse": "¿Hasta cuándo, oh simples, amaréis la simpleza, Y los burladores desearán el burlar, Y los insensatos aborrecerán la ciencia?",
+					"number": 22,
+					"id": "c942beb8-fe03-4402-b5e8-54da3feb0b0d"
+				},
+				{
+					"verse": "Volveos a mi reprensión; He aquí yo derramaré mi espíritu sobre vosotros, Y os haré saber mis palabras.",
+					"number": 23,
+					"id": "c3a93dd1-b7fb-495e-8069-cdc308eef666"
+				},
+				{
+					"verse": "Por cuanto llamé, y no quisisteis oír, Extendí mi mano, y no hubo quien atendiese,",
+					"number": 24,
+					"id": "4f6be43d-90cf-4d1a-bdd7-0f1728172e14"
+				},
+				{
+					"verse": "Sino que desechasteis todo consejo mío Y mi reprensión no quisisteis,",
+					"number": 25,
+					"id": "223cea47-1be7-4410-a16d-3efd3e2f62c4"
+				},
+				{
+					"verse": "También yo me reiré en vuestra calamidad, Y me burlaré cuando os viniere lo que teméis;",
+					"number": 26,
+					"id": "9fd65e6d-b870-4b65-8fb1-0e1cb2ab221e"
+				},
+				{
+					"verse": "Cuando viniere como una destrucción lo que teméis, Y vuestra calamidad llegare como un torbellino; Cuando sobre vosotros viniere tribulación y angustia.",
+					"number": 27,
+					"id": "8879e5bb-e70d-43eb-b33b-696f2d8a1a7a"
+				},
+				{
+					"verse": "Entonces me llamarán, y no responderé; Me buscarán de mañana, y no me hallarán.",
+					"number": 28,
+					"id": "747d8bda-f813-44d8-afbe-16ba44d11af4"
+				},
+				{
+					"verse": "Por cuanto aborrecieron la sabiduría, Y no escogieron el temor de Jehová,",
+					"number": 29,
+					"id": "c834e118-49f6-4cc8-b630-0579ac7481e8"
+				},
+				{
+					"verse": "Ni quisieron mi consejo, Y menospreciaron toda reprensión mía,",
+					"number": 30,
+					"id": "dc91eea1-d3f3-4ac8-9327-dc430ce48297"
+				},
+				{
+					"verse": "Comerán del fruto de su camino, Y serán hastiados de sus propios consejos.",
+					"number": 31,
+					"id": "4d9f1027-c9f7-4a77-b230-13993025d8bb"
+				},
+				{
+					"verse": "Porque el desvío de los ignorantes los matará, Y la prosperidad de los necios los echará a perder;",
+					"number": 32,
+					"id": "5fb68543-1a54-43cf-b5fc-8c01c77b55e9"
+				},
+				{
+					"verse": "Mas el que me oyere, habitará confiadamente Y vivirá tranquilo, sin temor del mal.",
+					"number": 33,
+					"id": "c18a1fc3-d620-440d-a37b-5171e57ab753"
+				}
+			]
+		},
+		{
+			"chapter": "2",
+			"vers": [
+				{
+					"verse": "Hijo mío, si recibieres mis palabras, Y mis mandamientos guardares dentro de ti,",
+					"number": 1,
+					"study": "Excelencia de la sabiduría",
+					"id": "ee4b5258-92c7-4a33-9846-1dc5e685d7d6"
+				},
+				{
+					"verse": "Haciendo estar atento tu oído a la sabiduría; Si inclinares tu corazón a la prudencia,",
+					"number": 2,
+					"id": "d932e231-fddd-4751-9d51-360574722e70"
+				},
+				{
+					"verse": "Si clamares a la inteligencia, Y a la prudencia dieres tu voz;",
+					"number": 3,
+					"id": "f38c6602-09c7-402c-a0fa-291ddf59e25d"
+				},
+				{
+					"verse": "Si como a la plata la buscares, Y la escudriñares como a tesoros,",
+					"number": 4,
+					"id": "ec3d3f24-d0f9-43ae-a9ed-b5711f1c0ad1"
+				},
+				{
+					"verse": "Entonces entenderás el temor de Jehová, Y hallarás el conocimiento de Dios.",
+					"number": 5,
+					"id": "f602e697-0314-4b45-abb4-01af444c7467"
+				},
+				{
+					"verse": "Porque Jehová da la sabiduría, Y de su boca viene el conocimiento y la inteligencia.",
+					"number": 6,
+					"id": "b8661c4e-ae34-4921-a3cd-ac975dd9d021"
+				},
+				{
+					"verse": "El provee de sana sabiduría a los rectos; Es escudo a los que caminan rectamente.",
+					"number": 7,
+					"id": "c7c0b302-49cd-443d-b48d-ef0a7aec6bc5"
+				},
+				{
+					"verse": "Es el que guarda las veredas del juicio, Y preserva el camino de sus santos.",
+					"number": 8,
+					"id": "4c87d791-def0-480d-94ff-2726f4babcd3"
+				},
+				{
+					"verse": "Entonces entenderás justicia, juicio Y equidad, y todo buen camino.",
+					"number": 9,
+					"id": "4f69cff4-d911-4e52-a127-121c52518bd8"
+				},
+				{
+					"verse": "Cuando la sabiduría entrare en tu corazón, Y la ciencia fuere grata a tu alma,",
+					"number": 10,
+					"id": "c108928c-57be-4ba3-b4f4-8c61a1c7a7c3"
+				},
+				{
+					"verse": "La discreción te guardará; Te preservará la inteligencia,",
+					"number": 11,
+					"id": "c82e8459-8566-435d-a35e-c797575e1ef8"
+				},
+				{
+					"verse": "Para librarte del mal camino, De los hombres que hablan perversidades,",
+					"number": 12,
+					"id": "251010e4-94d5-44fe-9c25-6ac8ab006ba8"
+				},
+				{
+					"verse": "Que dejan los caminos derechos, Para andar por sendas tenebrosas;",
+					"number": 13,
+					"id": "ab7a2a8f-257e-4926-b495-8d798cef3fee"
+				},
+				{
+					"verse": "Que se alegran haciendo el mal, Que se huelgan en las perversidades del vicio;",
+					"number": 14,
+					"id": "942c2ea3-e171-4c73-97d4-eaaecce03e44"
+				},
+				{
+					"verse": "Cuyas veredas son torcidas, Y torcidos sus caminos.",
+					"number": 15,
+					"id": "1a2b0c9e-655a-4730-ba21-0a23ce9d9008"
+				},
+				{
+					"verse": "Serás librado de la mujer extraña, De la ajena que halaga con sus palabras,",
+					"number": 16,
+					"id": "04e23d65-f198-4aa7-9cc3-6e15c4a9c429"
+				},
+				{
+					"verse": "La cual abandona al compañero de su juventud, Y se olvida del pacto de su Dios.",
+					"number": 17,
+					"id": "c2ee988b-a5fe-49c4-ac8e-88bf3293cb46"
+				},
+				{
+					"verse": "Por lo cual su casa está inclinada a la muerte, Y sus veredas hacia los muertos;",
+					"number": 18,
+					"id": "32015588-ae32-490c-82f4-59b44008dcfe"
+				},
+				{
+					"verse": "Todos los que a ella se lleguen, no volverán, Ni seguirán otra vez los senderos de la vida.",
+					"number": 19,
+					"id": "d1c689c1-20a9-4f3c-bbfe-3fe7bc2044d4"
+				},
+				{
+					"verse": "Así andarás por el camino de los buenos, Y seguirás las veredas de los justos;",
+					"number": 20,
+					"id": "c4a950a1-82bc-45b0-9520-b8a8239ae876"
+				},
+				{
+					"verse": "Porque los rectos habitarán la tierra, Y los perfectos permanecerán en ella,",
+					"number": 21,
+					"id": "79f4b681-637f-4ca0-a2cf-d7aeb421007a"
+				},
+				{
+					"verse": "Mas los impíos serán cortados de la tierra, Y los prevaricadores serán de ella desarraigados.",
+					"number": 22,
+					"id": "3414942d-4b2f-4c9f-ac91-7dd4a42ccfaa"
+				}
+			]
+		},
+		{
+			"chapter": "3",
+			"vers": [
+				{
+					"verse": "Hijo mío, no te olvides de mi ley, Y tu corazón guarde mis mandamientos;",
+					"number": 1,
+					"study": "Exhortación a la obediencia",
+					"id": "544a02a4-25aa-4832-bc18-233080c09628"
+				},
+				{
+					"verse": "Porque largura de días y años de vida Y paz te aumentarán.",
+					"number": 2,
+					"id": "b0a4d229-0ef0-49b9-b4ee-fde8a21d4968"
+				},
+				{
+					"verse": "Nunca se aparten de ti la misericordia y la verdad; Atalas a tu cuello, Escríbelas en la tabla de tu corazón;",
+					"number": 3,
+					"id": "99dbf605-59f2-4233-a6cf-fd014036381c"
+				},
+				{
+					"verse": "Y hallarás gracia y buena opinión Ante los ojos de Dios y de los hombres.",
+					"number": 4,
+					"id": "31d56f0e-068b-482d-bcaa-2d6e5274ec00"
+				},
+				{
+					"verse": "Fíate de Jehová de todo tu corazón, Y no te apoyes en tu propia prudencia.",
+					"number": 5,
+					"id": "3ad349ed-9259-4fd5-954b-fa7eb31d84be"
+				},
+				{
+					"verse": "Reconócelo en todos tus caminos, Y él enderezará tus veredas.",
+					"number": 6,
+					"id": "f2cc092a-8d54-431a-a58a-dc152ff61d0d"
+				},
+				{
+					"verse": "No seas sabio en tu propia opinión; Teme a Jehová, y apártate del mal;",
+					"number": 7,
+					"id": "6f1aabfe-9047-4c15-95d2-be61b7aeb007"
+				},
+				{
+					"verse": "Porque será medicina a tu cuerpo, Y refrigerio para tus huesos.",
+					"number": 8,
+					"id": "65fa42f6-43f8-463f-acbc-785ed4c367d6"
+				},
+				{
+					"verse": "Honra a Jehová con tus bienes, Y con las primicias de todos tus frutos;",
+					"number": 9,
+					"id": "fa6049dc-e92f-402b-b2fc-0878db7f1b27"
+				},
+				{
+					"verse": "Y serán llenos tus graneros con abundancia, Y tus lagares rebosarán de mosto.",
+					"number": 10,
+					"id": "c63a7d1d-545f-426d-9d62-05ddc2a15256"
+				},
+				{
+					"verse": "No menosprecies, hijo mío, el castigo de Jehová, Ni te fatigues de su corrección;",
+					"number": 11,
+					"id": "7933fe17-3f28-4350-8631-e3832759c2be"
+				},
+				{
+					"verse": "Porque Jehová al que ama castiga, Como el padre al hijo a quien quiere.",
+					"number": 12,
+					"id": "b8c6b656-1ed7-4be9-a366-5f60958a118c"
+				},
+				{
+					"verse": "Bienaventurado el hombre que halla la sabiduría, Y que obtiene la inteligencia;",
+					"number": 13,
+					"id": "99dd1454-2bef-48b8-838d-2fe045c6001b"
+				},
+				{
+					"verse": "Porque su ganancia es mejor que la ganancia de la plata, Y sus frutos más que el oro fino.",
+					"number": 14,
+					"id": "d39a0307-39b7-4f5d-a7ca-9d1136511ec6"
+				},
+				{
+					"verse": "Más preciosa es que las piedras preciosas; Y todo lo que puedes desear, no se puede comparar a ella.",
+					"number": 15,
+					"id": "495b08af-847b-4d7c-8fcf-383f4758c140"
+				},
+				{
+					"verse": "Largura de días está en su mano derecha; En su izquierda, riquezas y honra.",
+					"number": 16,
+					"id": "31b092bf-4931-4c58-8e8f-40c3c595817f"
+				},
+				{
+					"verse": "Sus caminos son caminos deleitosos, Y todas sus veredas paz.",
+					"number": 17,
+					"id": "72e886af-8bb2-49d3-8623-bbfaf36473af"
+				},
+				{
+					"verse": "Ella es árbol de vida a los que de ella echan mano, Y bienaventurados son los que la retienen.",
+					"number": 18,
+					"id": "607935ad-be6a-4217-8821-a642ab4822b4"
+				},
+				{
+					"verse": "Jehová con sabiduría fundó la tierra; Afirmó los cielos con inteligencia.",
+					"number": 19,
+					"id": "477461fc-1ddb-4c61-a5c5-3c39b118d5b2"
+				},
+				{
+					"verse": "Con su ciencia los abismos fueron divididos, Y destilan rocío los cielos.",
+					"number": 20,
+					"id": "66c1fe32-3da9-45c8-9eae-623c5688f345"
+				},
+				{
+					"verse": "Hijo mío, no se aparten estas cosas de tus ojos; Guarda la ley y el consejo,",
+					"number": 21,
+					"id": "e564783b-137c-4cfe-b822-c361d659482f"
+				},
+				{
+					"verse": "Y serán vida a tu alma, Y gracia a tu cuello.",
+					"number": 22,
+					"id": "6180747d-1a91-483c-a329-c0545d066a69"
+				},
+				{
+					"verse": "Entonces andarás por tu camino confiadamente, Y tu pie no tropezará.",
+					"number": 23,
+					"id": "325db772-cba0-4dca-bab6-663c1333e90b"
+				},
+				{
+					"verse": "Cuando te acuestes, no tendrás temor, Sino que te acostarás, y tu sueño será grato.",
+					"number": 24,
+					"id": "ab565c9c-3aad-41e0-a223-4f4400bb4587"
+				},
+				{
+					"verse": "No tendrás temor de pavor repentino, Ni de la ruina de los impíos cuando viniere,",
+					"number": 25,
+					"id": "edc366c6-44a1-4be2-bfa8-54a1d0dfa7d4"
+				},
+				{
+					"verse": "Porque Jehová será tu confianza, Y él preservará tu pie de quedar preso.",
+					"number": 26,
+					"id": "ae62acb9-09c7-4a9d-8859-80071654dffe"
+				},
+				{
+					"verse": "No te niegues a hacer el bien a quien es debido, Cuando tuvieres poder para hacerlo.",
+					"number": 27,
+					"id": "0127bed8-1603-4d98-90a4-9bc9afa75ddc"
+				},
+				{
+					"verse": "No digas a tu prójimo: Anda, y vuelve, Y mañana te daré, Cuando tienes contigo qué darle.",
+					"number": 28,
+					"id": "65cdb67d-1be1-4a58-a4af-69e139296be9"
+				},
+				{
+					"verse": "No intentes mal contra tu prójimo Que habita confiado junto a ti.",
+					"number": 29,
+					"id": "0ba03d32-81e4-4112-b8a3-774486f887ba"
+				},
+				{
+					"verse": "No tengas pleito con nadie sin razón, Si no te han hecho agravio.",
+					"number": 30,
+					"id": "7afb4a26-3383-4a53-8ffd-7aac69b2a35a"
+				},
+				{
+					"verse": "No envidies al hombre injusto, Ni escojas ninguno de sus caminos.",
+					"number": 31,
+					"id": "c86fc96f-630a-409d-b4af-43617081473f"
+				},
+				{
+					"verse": "Porque Jehová abomina al perverso; Mas su comunión íntima es con los justos.",
+					"number": 32,
+					"id": "c57ed5a9-4b75-446e-a97b-10a4c288c72a"
+				},
+				{
+					"verse": "La maldición de Jehová está en la casa del impío, Pero bendecirá la morada de los justos.",
+					"number": 33,
+					"id": "be0a2437-0edc-40dd-8cce-4ac205595426"
+				},
+				{
+					"verse": "Ciertamente él escarnecerá a los escarnecedores, Y a los humildes dará gracia.",
+					"number": 34,
+					"id": "cd817a5e-f007-4176-8eac-af3df9e106cd"
+				},
+				{
+					"verse": "Los sabios heredarán honra, Mas los necios llevarán ignominia.",
+					"number": 35,
+					"id": "0f7b5aec-cd5e-4f2c-a3a2-f9e7c52413eb"
+				}
+			]
+		},
+		{
+			"chapter": "4",
+			"vers": [
+				{
+					"verse": "Oíd, hijos, la enseñanza de un padre, Y estad atentos, para que conozcáis cordura.",
+					"number": 1,
+					"study": "Beneficios de la sabiduría",
+					"id": "6a514c3f-44a4-41a9-95a8-f9c5b0a8a1a6"
+				},
+				{
+					"verse": "Porque os doy buena enseñanza; No desamparéis mi ley.",
+					"number": 2,
+					"id": "f76e2748-c0ad-40a0-9e2d-9edb2979e21e"
+				},
+				{
+					"verse": "Porque yo también fui hijo de mi padre, Delicado y único delante de mi madre.",
+					"number": 3,
+					"id": "8c9a80ac-bd2d-4c3c-8b6f-d2935c2009a2"
+				},
+				{
+					"verse": "Y él me enseñaba, y me decía: Retenga tu corazón mis razones, Guarda mis mandamientos, y vivirás.",
+					"number": 4,
+					"id": "addb2d2f-5df3-4176-952c-12f95200d02c"
+				},
+				{
+					"verse": "Adquiere sabiduría, adquiere inteligencia; No te olvides ni te apartes de las razones de mi boca;",
+					"number": 5,
+					"id": "b1eb575c-b24b-4954-bf12-e825839625e2"
+				},
+				{
+					"verse": "No la dejes, y ella te guardará; Amala, y te conservará.",
+					"number": 6,
+					"id": "150a3d0f-3be7-4f78-8af1-2c68b61d34a2"
+				},
+				{
+					"verse": "Sabiduría ante todo; adquiere sabiduría; Y sobre todas tus posesiones adquiere inteligencia.",
+					"number": 7,
+					"id": "d6d9d0ec-3ebb-4927-aa42-6a1d50dc5fc6"
+				},
+				{
+					"verse": "Engrandécela, y ella te engrandecerá; Ella te honrará, cuando tú la hayas abrazado.",
+					"number": 8,
+					"id": "34c475f6-31cd-4a1e-83d0-b48909d9b00b"
+				},
+				{
+					"verse": "Adorno de gracia dará a tu cabeza; Corona de hermosura te entregará.",
+					"number": 9,
+					"id": "bd23ae3b-91aa-4b5f-a438-ed603c34f265"
+				},
+				{
+					"verse": "Oye, hijo mío, y recibe mis razones, Y se te multiplicarán años de vida.",
+					"number": 10,
+					"id": "9ca0e684-0fb4-49ab-ae97-1e41e18507e3"
+				},
+				{
+					"verse": "Por el camino de la sabiduría te he encaminado, Y por veredas derechas te he hecho andar.",
+					"number": 11,
+					"id": "aabdae53-8c36-41c3-b7c7-9165b5fc60cc"
+				},
+				{
+					"verse": "Cuando anduvieres, no se estrecharán tus pasos, Y si corrieres, no tropezarás.",
+					"number": 12,
+					"id": "2cc4128e-7fe2-4b8e-ae2b-f7552eb82a1a"
+				},
+				{
+					"verse": "Retén el consejo, no lo dejes; Guárdalo, porque eso es tu vida.",
+					"number": 13,
+					"id": "5e08c4da-1386-4ad3-8152-f762f3a433ee"
+				},
+				{
+					"verse": "No entres por la vereda de los impíos, Ni vayas por el camino de los malos.",
+					"number": 14,
+					"id": "43670a40-6a25-425e-838c-3489c40c1fdc"
+				},
+				{
+					"verse": "Déjala, no pases por ella; Apártate de ella, pasa.",
+					"number": 15,
+					"id": "dcdbcb8d-272d-464b-ad33-fb45859dc348"
+				},
+				{
+					"verse": "Porque no duermen ellos si no han hecho mal, Y pierden el sueño si no han hecho caer a alguno.",
+					"number": 16,
+					"id": "918941b7-7e8f-4f7c-b2cb-01a6afba8f91"
+				},
+				{
+					"verse": "Porque comen pan de maldad, y beben vino de robos;",
+					"number": 17,
+					"id": "0dfec625-e323-4a31-b522-f7c9a9e59207"
+				},
+				{
+					"verse": "Mas la senda de los justos es como la luz de la aurora, Que va en aumento hasta que el día es perfecto.",
+					"number": 18,
+					"id": "2771b565-e89c-4417-9068-84f73e318386"
+				},
+				{
+					"verse": "El camino de los impíos es como la oscuridad; No saben en qué tropiezan.",
+					"number": 19,
+					"id": "e6d0ac90-834e-4386-8e99-91fd8670ff35"
+				},
+				{
+					"verse": "Hijo mío, está atento a mis palabras; Inclina tu oído a mis razones.",
+					"number": 20,
+					"id": "afad5f0e-5e51-41cc-9eea-332b8a06a75f"
+				},
+				{
+					"verse": "No se aparten de tus ojos; Guárdalas en medio de tu corazón;",
+					"number": 21,
+					"id": "9434f3d2-457f-4afd-8d1e-16a360992bca"
+				},
+				{
+					"verse": "Porque son vida a los que las hallan, Y medicina a todo su cuerpo.",
+					"number": 22,
+					"id": "138b6077-445f-438f-8bbf-534357416fb8"
+				},
+				{
+					"verse": "Sobre toda cosa guardada, guarda tu corazón; Porque de él mana la vida.",
+					"number": 23,
+					"id": "06f4ee72-7f90-478a-94e1-31c49244f199"
+				},
+				{
+					"verse": "Aparta de ti la perversidad de la boca, Y aleja de ti la iniquidad de los labios.",
+					"number": 24,
+					"id": "bc19bbb5-4d4d-498b-bbc2-bd66c8b00680"
+				},
+				{
+					"verse": "Tus ojos miren lo recto, Y diríjanse tus párpados hacia lo que tienes delante.",
+					"number": 25,
+					"id": "fe4423aa-9e86-4b9e-bfaf-41a230eef754"
+				},
+				{
+					"verse": "Examina la senda de tus pies, Y todos tus caminos sean rectos.",
+					"number": 26,
+					"id": "05c66bd3-7cf1-4ef6-beae-3c15071af024"
+				},
+				{
+					"verse": "No te desvíes a la derecha ni a la izquierda; Aparta tu pie del mal.",
+					"number": 27,
+					"id": "4f3fc26f-33bf-40db-a4ae-dcb871f2731f"
+				}
+			]
+		},
+		{
+			"chapter": "5",
+			"vers": [
+				{
+					"verse": "Hijo mío, está atento a mi sabiduría, Y a mi inteligencia inclina tu oído,",
+					"number": 1,
+					"study": "Amonestación contra la impureza",
+					"id": "6a0ce9e5-7955-4d31-8765-d42c8b1a9dfe"
+				},
+				{
+					"verse": "Para que guardes consejo, Y tus labios conserven la ciencia.",
+					"number": 2,
+					"id": "e1b1d161-a0af-4d8d-a7b8-f7b8dee1070d"
+				},
+				{
+					"verse": "Porque los labios de la mujer extraña destilan miel, Y su paladar es más blando que el aceite;",
+					"number": 3,
+					"id": "ee299fe8-39e9-41bb-be0d-6ff9be0b4bb4"
+				},
+				{
+					"verse": "Mas su fin es amargo como el ajenjo, Agudo como espada de dos filos.",
+					"number": 4,
+					"id": "767af5da-5368-4fc4-97f6-16f6d1e26b0a"
+				},
+				{
+					"verse": "Sus pies descienden a la muerte; Sus pasos conducen al Seol.",
+					"number": 5,
+					"id": "47554943-2880-4edf-aaf0-d05141b6ca0c"
+				},
+				{
+					"verse": "Sus caminos son inestables; no los conocerás, Si no considerares el camino de vida.",
+					"number": 6,
+					"id": "67195bf2-cfc5-475a-9b3c-476ee04f329e"
+				},
+				{
+					"verse": "Ahora pues, hijos, oídme, Y no os apartéis de las razones de mi boca.",
+					"number": 7,
+					"id": "ff89b3c3-9244-4c7a-b934-b4cf9c17da23"
+				},
+				{
+					"verse": "Aleja de ella tu camino, Y no te acerques a la puerta de su casa;",
+					"number": 8,
+					"id": "18bcb606-98ca-4f3a-8aa9-26a208966a61"
+				},
+				{
+					"verse": "Para que no des a los extraños tu honor, Y tus años al cruel;",
+					"number": 9,
+					"id": "9ba691ec-010f-42c6-92ed-8e881aa23189"
+				},
+				{
+					"verse": "No sea que extraños se sacien de tu fuerza, Y tus trabajos estén en casa del extraño;",
+					"number": 10,
+					"id": "1758c3e6-b21c-4f44-9478-a4b32dfd898f"
+				},
+				{
+					"verse": "Y gimas al final, Cuando se consuma tu carne y tu cuerpo,",
+					"number": 11,
+					"id": "527fd279-ba10-49b7-b403-3f0a26cea643"
+				},
+				{
+					"verse": "Y digas: ¡Cómo aborrecí el consejo, Y mi corazón menospreció la reprensión;",
+					"number": 12,
+					"id": "3229b523-d6d0-4777-b2b9-b587b7cca160"
+				},
+				{
+					"verse": "No oí la voz de los que me instruían, Y a los que me enseñaban no incliné mi oído!",
+					"number": 13,
+					"id": "05a008c6-776d-4ae7-a967-45bfa5b44472"
+				},
+				{
+					"verse": "Casi en todo mal he estado, En medio de la sociedad y de la congregación.",
+					"number": 14,
+					"id": "98a1cd4a-04b1-4746-90f7-cef59e7d66e1"
+				},
+				{
+					"verse": "Bebe el agua de tu misma cisterna, Y los raudales de tu propio pozo.",
+					"number": 15,
+					"id": "886760a3-7c98-4319-a4a1-3f08761a8255"
+				},
+				{
+					"verse": "¿Se derramarán tus fuentes por las calles, Y tus corrientes de aguas por las plazas?",
+					"number": 16,
+					"id": "4c2a7dbd-e33b-4e78-b5fe-c3a6af6294af"
+				},
+				{
+					"verse": "Sean para ti solo, Y no para los extraños contigo.",
+					"number": 17,
+					"id": "a50c0665-d813-4d39-bd09-dc859919f9c0"
+				},
+				{
+					"verse": "Sea bendito tu manantial, Y alégrate con la mujer de tu juventud,",
+					"number": 18,
+					"id": "b6baac7f-d71c-411e-b022-5024cf9e6911"
+				},
+				{
+					"verse": "Como cierva amada y graciosa gacela. Sus caricias te satisfagan en todo tiempo, Y en su amor recréate siempre.",
+					"number": 19,
+					"id": "1a822f9e-360b-4da3-9261-9f53adce2d6c"
+				},
+				{
+					"verse": "¿Y por qué, hijo mío, andarás ciego con la mujer ajena, Y abrazarás el seno de la extraña?",
+					"number": 20,
+					"id": "824535ff-408c-4332-88c2-380b867f4e68"
+				},
+				{
+					"verse": "Porque los caminos del hombre están ante los ojos de Jehová, Y él considera todas sus veredas.",
+					"number": 21,
+					"id": "456ef40d-2815-4e80-b9fc-923ac474c74f"
+				},
+				{
+					"verse": "Prenderán al impío sus propias iniquidades, Y retenido será con las cuerdas de su pecado.",
+					"number": 22,
+					"id": "e55d1ab7-115c-4557-a6ca-b234f1061cc9"
+				},
+				{
+					"verse": "El morirá por falta de corrección, Y errará por lo inmenso de su locura.",
+					"number": 23,
+					"id": "76181a20-cec2-4ee6-b931-93efcff145e2"
+				}
+			]
+		},
+		{
+			"chapter": "6",
+			"vers": [
+				{
+					"verse": "Hijo mío, si salieres fiador por tu amigo, Si has empeñado tu palabra a un extraño,",
+					"number": 1,
+					"study": "Amonestación contra la pereza y la falsedad",
+					"id": "cde97ac2-8809-45e8-a246-9b3d2f31d916"
+				},
+				{
+					"verse": "Te has enlazado con las palabras de tu boca, Y has quedado preso en los dichos de tus labios.",
+					"number": 2,
+					"id": "6f291eb3-3ad9-4a1c-bcb9-0860fb0846e7"
+				},
+				{
+					"verse": "Haz esto ahora, hijo mío, y líbrate, Ya que has caído en la mano de tu prójimo; Ve, humíllate, y asegúrate de tu amigo.",
+					"number": 3,
+					"id": "bc02e98a-ccb2-4810-907e-6420d538df42"
+				},
+				{
+					"verse": "No des sueño a tus ojos, Ni a tus párpados adormecimiento;",
+					"number": 4,
+					"id": "f4b8bd80-edb8-493c-b803-f764fc5c565d"
+				},
+				{
+					"verse": "Escápate como gacela de la mano del cazador, Y como ave de la mano del que arma lazos.",
+					"number": 5,
+					"id": "153e3eac-6104-4dca-a24c-3d58bab8c885"
+				},
+				{
+					"verse": "Ve a la hormiga, oh perezoso, Mira sus caminos, y sé sabio;",
+					"number": 6,
+					"id": "ce795a94-7a9a-48f9-ae9c-6ff36c1cf3c8"
+				},
+				{
+					"verse": "La cual no teniendo capitán, Ni gobernador, ni señor,",
+					"number": 7,
+					"id": "d23c53fa-9411-42f8-9e15-ab094962b329"
+				},
+				{
+					"verse": "Prepara en el verano su comida, Y recoge en el tiempo de la siega su mantenimiento.",
+					"number": 8,
+					"id": "47ce8b51-4324-4a1f-9fbe-e7ca3429ed82"
+				},
+				{
+					"verse": "Perezoso, ¿hasta cuándo has de dormir? ¿Cuándo te levantarás de tu sueño?",
+					"number": 9,
+					"id": "96211f0a-e64c-4ec9-898a-b78bf560abec"
+				},
+				{
+					"verse": "Un poco de sueño, un poco de dormitar, Y cruzar por un poco las manos para reposo;",
+					"number": 10,
+					"id": "414fa452-cdf0-41cb-b933-15a56b88e5a5"
+				},
+				{
+					"verse": "Así vendrá tu necesidad como caminante, Y tu pobreza como hombre armado.",
+					"number": 11,
+					"id": "1783c29c-732f-4662-8a29-d5024fba7815"
+				},
+				{
+					"verse": "El hombre malo, el hombre depravado, Es el que anda en perversidad de boca;",
+					"number": 12,
+					"id": "0ee5fde6-5159-4a99-ac62-72069eabfe92"
+				},
+				{
+					"verse": "Que guiña los ojos, que habla con los pies, Que hace señas con los dedos.",
+					"number": 13,
+					"id": "714c99a8-8bb1-4948-aa8a-953693a232e9"
+				},
+				{
+					"verse": "Perversidades hay en su corazón; anda pensando el mal en todo tiempo; Siembra las discordias.",
+					"number": 14,
+					"id": "9c84fe7c-5ee2-4cae-a37e-f4e210cee67a"
+				},
+				{
+					"verse": "Por tanto, su calamidad vendrá de repente; Súbitamente será quebrantado, y no habrá remedio.",
+					"number": 15,
+					"id": "9d0d54f3-7783-4e14-afe4-1b576086f7f8"
+				},
+				{
+					"verse": "Seis cosas aborrece Jehová, Y aun siete abomina su alma:",
+					"number": 16,
+					"id": "d0cba829-a116-4a99-9d9b-813afe656259"
+				},
+				{
+					"verse": "Los ojos altivos, la lengua mentirosa, Las manos derramadoras de sangre inocente,",
+					"number": 17,
+					"id": "e0b689f4-9be2-4d09-a686-7b76a3a43e16"
+				},
+				{
+					"verse": "El corazón que maquina pensamientos inicuos, Los pies presurosos para correr al mal,",
+					"number": 18,
+					"id": "d0894ad1-cd45-46ca-81cc-b1d13c02346b"
+				},
+				{
+					"verse": "El testigo falso que habla mentiras, Y el que siembra discordia entre hermanos. Amonestación contra el adulterio",
+					"number": 19,
+					"id": "73bfab71-53ea-4fdb-b59a-4b6251de081a"
+				},
+				{
+					"verse": "Guarda, hijo mío, el mandamiento de tu padre, Y no dejes la enseñanza de tu madre;",
+					"number": 20,
+					"study": "Amonestación contra el adulterio",
+					"id": "fc14a342-a261-4702-9105-e96c4491996f"
+				},
+				{
+					"verse": "Atalos siempre en tu corazón, Enlázalos a tu cuello.",
+					"number": 21,
+					"id": "99172c60-d4aa-4656-8340-f8200fb14f10"
+				},
+				{
+					"verse": "Te guiarán cuando andes; cuando duermas te guardarán; Hablarán contigo cuando despiertes.",
+					"number": 22,
+					"id": "5aeafabd-56c6-4af4-bd6a-e0cd8d4ac093"
+				},
+				{
+					"verse": "Porque el mandamiento es lámpara, y la enseñanza es luz, Y camino de vida las reprensiones que te instruyen,",
+					"number": 23,
+					"id": "8e495d55-8f52-4fe1-8420-59963c3f0fef"
+				},
+				{
+					"verse": "Para que te guarden de la mala mujer, De la blandura de la lengua de la mujer extraña.",
+					"number": 24,
+					"id": "f33921c1-787d-44c7-9eb1-57dbc215180f"
+				},
+				{
+					"verse": "No codicies su hermosura en tu corazón, Ni ella te prenda con sus ojos;",
+					"number": 25,
+					"id": "a603b6f9-9b4e-46ec-94d2-f4e8346d3552"
+				},
+				{
+					"verse": "Porque a causa de la mujer ramera el hombre es reducido a un bocado de pan; Y la mujer caza la preciosa alma del varón.",
+					"number": 26,
+					"id": "fc7bfd3b-2b94-4b2b-9ab7-0c24ff826973"
+				},
+				{
+					"verse": "¿Tomará el hombre fuego en su seno Sin que sus vestidos ardan?",
+					"number": 27,
+					"id": "65227804-02c3-4971-b84c-854cabd8d205"
+				},
+				{
+					"verse": "¿Andará el hombre sobre brasas Sin que sus pies se quemen?",
+					"number": 28,
+					"id": "5472a57e-2578-4d02-ba37-b79cf0252dd8"
+				},
+				{
+					"verse": "Así es el que se llega a la mujer de su prójimo; No quedará impune ninguno que la tocare.",
+					"number": 29,
+					"id": "85cccd47-f07f-4d12-a98f-ab469aefd240"
+				},
+				{
+					"verse": "No tienen en poco al ladrón si hurta Para saciar su apetito cuando tiene hambre;",
+					"number": 30,
+					"id": "914f8a6e-7d52-46f6-9b5e-176b6cb73cf2"
+				},
+				{
+					"verse": "Pero si es sorprendido, pagará siete veces; Entregará todo el haber de su casa.",
+					"number": 31,
+					"id": "4295956c-7424-490b-a9a4-fa881991c9bb"
+				},
+				{
+					"verse": "Mas el que comete adulterio es falto de entendimiento; Corrompe su alma el que tal hace.",
+					"number": 32,
+					"id": "387c68c5-8d71-4264-aaec-ea1c45352033"
+				},
+				{
+					"verse": "Heridas y vergüenza hallará, Y su afrenta nunca será borrada.",
+					"number": 33,
+					"id": "19502063-d418-4ec7-8d8a-4bbc01784216"
+				},
+				{
+					"verse": "Porque los celos son el furor del hombre, Y no perdonará en el día de la venganza.",
+					"number": 34,
+					"id": "71af1d72-319f-46b5-988a-dcacf6725c41"
+				},
+				{
+					"verse": "No aceptará ningún rescate, Ni querrá perdonar, aunque multipliques los dones.",
+					"number": 35,
+					"id": "546e9e1b-c75b-4944-b658-572f144044fb"
+				}
+			]
+		},
+		{
+			"chapter": "7",
+			"vers": [
+				{
+					"verse": "Hijo mío, guarda mis razones, Y atesora contigo mis mandamientos.",
+					"number": 1,
+					"study": "Las artimañas de la ramera",
+					"id": "db6b413b-a980-4afc-9a10-3f3f7446d29a"
+				},
+				{
+					"verse": "Guarda mis mandamientos y vivirás, Y mi ley como las niñas de tus ojos.",
+					"number": 2,
+					"id": "feb9d7ae-832e-44af-975f-8069f330298d"
+				},
+				{
+					"verse": "Lígalos a tus dedos; Escríbelos en la tabla de tu corazón.",
+					"number": 3,
+					"id": "c9384eb8-7f12-4efa-bcdd-2b1af28ec069"
+				},
+				{
+					"verse": "Di a la sabiduría: Tú eres mi hermana, Y a la inteligencia llama parienta;",
+					"number": 4,
+					"id": "2549b4ff-6a5d-4198-8383-a394610e30fb"
+				},
+				{
+					"verse": "Para que te guarden de la mujer ajena, Y de la extraña que ablanda sus palabras.",
+					"number": 5,
+					"id": "2d145805-5999-4d0a-8ea2-4de248512a00"
+				},
+				{
+					"verse": "Porque mirando yo por la ventana de mi casa, Por mi celosía,",
+					"number": 6,
+					"id": "e43cc807-1225-4538-be91-5e61274844e9"
+				},
+				{
+					"verse": "Vi entre los simples, Consideré entre los jóvenes, A un joven falto de entendimiento,",
+					"number": 7,
+					"id": "6e61070e-afc5-4773-8603-6edcb9433c1a"
+				},
+				{
+					"verse": "El cual pasaba por la calle, junto a la esquina, E iba camino a la casa de ella,",
+					"number": 8,
+					"id": "4791f196-4316-4157-a9bd-d4a0edaaf504"
+				},
+				{
+					"verse": "A la tarde del día, cuando ya oscurecía, En la oscuridad y tinieblas de la noche.",
+					"number": 9,
+					"id": "30ca3a75-a7a7-4cda-9f88-0d8c0e34ca22"
+				},
+				{
+					"verse": "Cuando he aquí, una mujer le sale al encuentro, Con atavío de ramera y astuta de corazón.",
+					"number": 10,
+					"id": "bba2b862-8f8d-437c-acc0-5ee44ef818b3"
+				},
+				{
+					"verse": "Alborotadora y rencillosa, Sus pies no pueden estar en casa;",
+					"number": 11,
+					"id": "9ea90e2d-eeeb-4cd1-876f-33e420928d6d"
+				},
+				{
+					"verse": "Unas veces está en la calle, otras veces en las plazas, Acechando por todas las esquinas.",
+					"number": 12,
+					"id": "761b837a-4544-4e7e-b74e-6933f459315a"
+				},
+				{
+					"verse": "Se asió de él, y le besó. Con semblante descarado le dijo:",
+					"number": 13,
+					"id": "ad18fc32-9baa-43e7-bf21-06e86ed25b78"
+				},
+				{
+					"verse": "Sacrificios de paz había prometido, Hoy he pagado mis votos;",
+					"number": 14,
+					"id": "0a8ff786-7e9c-48f7-a6a8-b7eaee49f9ae"
+				},
+				{
+					"verse": "Por tanto, he salido a encontrarte, Buscando diligentemente tu rostro, y te he hallado.",
+					"number": 15,
+					"id": "cdbb6bb6-9a8a-4d3d-b530-0d1cde5b8e13"
+				},
+				{
+					"verse": "He adornado mi cama con colchas Recamadas con cordoncillo de Egipto;",
+					"number": 16,
+					"id": "072f546d-624c-47d7-935c-691a3e13b949"
+				},
+				{
+					"verse": "He perfumado mi cámara Con mirra, áloes y canela.",
+					"number": 17,
+					"id": "4fcf66f4-f067-4a72-b10c-8cce71cfde67"
+				},
+				{
+					"verse": "Ven, embriaguémonos de amores hasta la mañana; Alegrémonos en amores.",
+					"number": 18,
+					"id": "f575f3b8-1bbc-45cb-b3ec-d92bed7d992a"
+				},
+				{
+					"verse": "Porque el marido no está en casa; Se ha ido a un largo viaje.",
+					"number": 19,
+					"id": "581684b9-437d-448b-9010-9935a099744b"
+				},
+				{
+					"verse": "La bolsa de dinero llevó en su mano; El día señalado volverá a su casa.",
+					"number": 20,
+					"id": "c704b26c-a5e7-4c0e-937b-b05719203c6e"
+				},
+				{
+					"verse": "Lo rindió con la suavidad de sus muchas palabras, Le obligó con la zalamería de sus labios.",
+					"number": 21,
+					"id": "169a7a96-078c-42b9-b750-8d895cdbbf82"
+				},
+				{
+					"verse": "Al punto se marchó tras ella, Como va el buey al degolladero, Y como el necio a las prisiones para ser castigado;",
+					"number": 22,
+					"id": "31b644d6-a7f6-4d2d-b35d-df2f9a10aac7"
+				},
+				{
+					"verse": "Como el ave que se apresura a la red, Y no sabe que es contra su vida, Hasta que la saeta traspasa su corazón.",
+					"number": 23,
+					"id": "b5340d6d-9213-474d-92bc-8d655010f223"
+				},
+				{
+					"verse": "Ahora pues, hijos, oídme, Y estad atentos a las razones de mi boca.",
+					"number": 24,
+					"id": "a099d046-0af2-4066-bb45-f204d1e3c2bb"
+				},
+				{
+					"verse": "No se aparte tu corazón a sus caminos; No yerres en sus veredas.",
+					"number": 25,
+					"id": "90562bc2-308a-454b-9b33-f88ff0516b61"
+				},
+				{
+					"verse": "Porque a muchos ha hecho caer heridos, Y aun los más fuertes han sido muertos por ella.",
+					"number": 26,
+					"id": "05f11d9a-76da-45b5-8a18-c18375d4ea63"
+				},
+				{
+					"verse": "Camino al Seol es su casa, Que conduce a las cámaras de la muerte.",
+					"number": 27,
+					"id": "9e5aba8a-fea8-478f-8b75-887e12043d70"
+				}
+			]
+		},
+		{
+			"chapter": "8",
+			"vers": [
+				{
+					"verse": "¿No clama la sabiduría, Y da su voz la inteligencia?",
+					"number": 1,
+					"study": "Excelencia y eternidad de la sabiduría",
+					"id": "87893ddb-88c3-4a06-b2b9-b57b7551b2d5"
+				},
+				{
+					"verse": "En las alturas junto al camino, A las encrucijadas de las veredas se para;",
+					"number": 2,
+					"id": "ae6a7e97-8aa7-4b15-b312-01470b6b0022"
+				},
+				{
+					"verse": "En el lugar de las puertas, a la entrada de la ciudad, A la entrada de las puertas da voces:",
+					"number": 3,
+					"id": "d5aff297-c89f-49ec-ae8f-3efbbeca42a9"
+				},
+				{
+					"verse": "Oh hombres, a vosotros clamo; Dirijo mi voz a los hijos de los hombres.",
+					"number": 4,
+					"id": "7fa89dd1-ac33-4263-acd1-e02f5dc21141"
+				},
+				{
+					"verse": "Entended, oh simples, discreción; Y vosotros, necios, entrad en cordura.",
+					"number": 5,
+					"id": "c8323a9e-d4fe-4ad7-b15e-31f65b7e9452"
+				},
+				{
+					"verse": "Oíd, porque hablaré cosas excelentes, Y abriré mis labios para cosas rectas.",
+					"number": 6,
+					"id": "ad36da00-4508-4186-8fee-3f2c14f7c225"
+				},
+				{
+					"verse": "Porque mi boca hablará verdad, Y la impiedad abominan mis labios.",
+					"number": 7,
+					"id": "45828d2d-312f-45c4-bdc9-c35a48463116"
+				},
+				{
+					"verse": "Justas son todas las razones de mi boca; No hay en ellas cosa perversa ni torcida.",
+					"number": 8,
+					"id": "43efb72d-f63f-44c1-b319-b5ebad82ac9f"
+				},
+				{
+					"verse": "Todas ellas son rectas al que entiende, Y razonables a los que han hallado sabiduría.",
+					"number": 9,
+					"id": "5fd93cfa-9ded-46a7-95e3-eb0f7a566933"
+				},
+				{
+					"verse": "Recibid mi enseñanza, y no plata; Y ciencia antes que el oro escogido.",
+					"number": 10,
+					"id": "a8d190bd-bb48-4a6f-b2e5-2e1f02909110"
+				},
+				{
+					"verse": "Porque mejor es la sabiduría que las piedras preciosas; Y todo cuanto se puede desear, no es de compararse con ella.",
+					"number": 11,
+					"id": "9d55f037-20f1-4ae9-b7f7-c472242a2b1b"
+				},
+				{
+					"verse": "Yo, la sabiduría, habito con la cordura, Y hallo la ciencia de los consejos.",
+					"number": 12,
+					"id": "7bee2f44-4ba0-444f-8f92-f87c40f505e4"
+				},
+				{
+					"verse": "El temor de Jehová es aborrecer el mal; La soberbia y la arrogancia, el mal camino, Y la boca perversa, aborrezco.",
+					"number": 13,
+					"id": "ba09258a-5ee9-4fe7-9ae6-42d667ecfbc4"
+				},
+				{
+					"verse": "Conmigo está el consejo y el buen juicio; Yo soy la inteligencia; mío es el poder.",
+					"number": 14,
+					"id": "7e05dfed-d431-4577-a8c1-c1f12735a72b"
+				},
+				{
+					"verse": "Por mí reinan los reyes, Y los príncipes determinan justicia.",
+					"number": 15,
+					"id": "770eada6-c822-484b-9d80-43c55c4e9bf6"
+				},
+				{
+					"verse": "Por mí dominan los príncipes, Y todos los gobernadores juzgan la tierra.",
+					"number": 16,
+					"id": "7bba8198-ea26-489e-a372-3250cee07983"
+				},
+				{
+					"verse": "Yo amo a los que me aman, Y me hallan los que temprano me buscan.",
+					"number": 17,
+					"id": "494cebdb-d098-4ae8-b61d-b33d8b22be86"
+				},
+				{
+					"verse": "Las riquezas y la honra están conmigo; Riquezas duraderas, y justicia.",
+					"number": 18,
+					"id": "256552e7-384b-4c82-a2c8-eb79647c1925"
+				},
+				{
+					"verse": "Mejor es mi fruto que el oro, y que el oro refinado; Y mi rédito mejor que la plata escogida.",
+					"number": 19,
+					"id": "a2042fa8-630f-4002-a5c6-89273becbf8b"
+				},
+				{
+					"verse": "Por vereda de justicia guiaré, Por en medio de sendas de juicio,",
+					"number": 20,
+					"id": "7dd70616-160e-4132-95bf-b511d9c5c257"
+				},
+				{
+					"verse": "Para hacer que los que me aman tengan su heredad, Y que yo llene sus tesoros.",
+					"number": 21,
+					"id": "25936150-507e-487f-a015-6d9ace5e2f17"
+				},
+				{
+					"verse": "Jehová me poseía en el principio, Ya de antiguo, antes de sus obras.",
+					"number": 22,
+					"id": "644e152b-5eb2-4fab-b34b-c37296507e2a"
+				},
+				{
+					"verse": "Eternamente tuve el principado, desde el principio, Antes de la tierra.",
+					"number": 23,
+					"id": "5e45d5d5-5a32-497a-b991-94a6cc7c85ba"
+				},
+				{
+					"verse": "Antes de los abismos fui engendrada; Antes que fuesen las fuentes de las muchas aguas.",
+					"number": 24,
+					"id": "22545f25-4b66-4394-8815-55b466681c6a"
+				},
+				{
+					"verse": "Antes que los montes fuesen formados, Antes de los collados, ya había sido yo engendrada;",
+					"number": 25,
+					"id": "42694b11-d0e2-47a2-9583-7dae52e76fe8"
+				},
+				{
+					"verse": "No había aún hecho la tierra, ni los campos, Ni el principio del polvo del mundo.",
+					"number": 26,
+					"id": "bbc1feb8-bb31-4eac-ab48-9e0d6213ce8f"
+				},
+				{
+					"verse": "Cuando formaba los cielos, allí estaba yo; Cuando trazaba el círculo sobre la faz del abismo;",
+					"number": 27,
+					"id": "c59f9436-4819-431e-aefd-268abb396587"
+				},
+				{
+					"verse": "Cuando afirmaba los cielos arriba, Cuando afirmaba las fuentes del abismo;",
+					"number": 28,
+					"id": "ae18d52b-76b8-4417-93ca-f02bfb40bfb4"
+				},
+				{
+					"verse": "Cuando ponía al mar su estatuto, Para que las aguas no traspasasen su mandamiento; Cuando establecía los fundamentos de la tierra,",
+					"number": 29,
+					"id": "4fb9ab89-95ff-4669-aa7c-971dd35c64ab"
+				},
+				{
+					"verse": "Con él estaba yo ordenándolo todo, Y era su delicia de día en día, Teniendo solaz delante de él en todo tiempo.",
+					"number": 30,
+					"id": "71d1a3cd-6f81-4363-b185-934704edda8b"
+				},
+				{
+					"verse": "Me regocijo en la parte habitable de su tierra; Y mis delicias son con los hijos de los hombres.",
+					"number": 31,
+					"id": "7e42ea3e-fc93-4cde-ba8b-1b31f5317cb1"
+				},
+				{
+					"verse": "Ahora, pues, hijos, oídme, Y bienaventurados los que guardan mis caminos.",
+					"number": 32,
+					"id": "30a8d708-baf5-4844-878d-7a03a8b5bebb"
+				},
+				{
+					"verse": "Atended el consejo, y sed sabios, Y no lo menospreciéis.",
+					"number": 33,
+					"id": "356a5ec1-1041-4711-b4fa-eda8e7e88518"
+				},
+				{
+					"verse": "Bienaventurado el hombre que me escucha, Velando a mis puertas cada día, Aguardando a los postes de mis puertas.",
+					"number": 34,
+					"id": "af83ea73-b449-4c13-aa30-d8d2e37f9342"
+				},
+				{
+					"verse": "Porque el que me halle, hallará la vida, Y alcanzará el favor de Jehová.",
+					"number": 35,
+					"id": "14341839-13a4-4531-9dfd-e0e72051020c"
+				},
+				{
+					"verse": "Mas el que peca contra mí, defrauda su alma; Todos los que me aborrecen aman la muerte.",
+					"number": 36,
+					"id": "90a1aded-c343-458b-8a86-38fb276ecec1"
+				}
+			]
+		},
+		{
+			"chapter": "9",
+			"vers": [
+				{
+					"verse": "La sabiduría edificó su casa, Labró sus siete columnas.",
+					"number": 1,
+					"study": "La sabiduría y la mujer insensata",
+					"id": "5ae4d1da-d779-46a1-ba86-a29b1f35e73e"
+				},
+				{
+					"verse": "Mató sus víctimas, mezcló su vino, Y puso su mesa.",
+					"number": 2,
+					"id": "acb5a942-0335-44dd-bdb3-ffc1154b06c3"
+				},
+				{
+					"verse": "Envió sus criadas; Sobre lo más alto de la ciudad clamó.",
+					"number": 3,
+					"id": "53ef5c03-d83f-45e2-a162-cd67788cfe77"
+				},
+				{
+					"verse": "Dice a cualquier simple: Ven acá. A los faltos de cordura dice:",
+					"number": 4,
+					"id": "adab814a-8d37-4054-97e4-5b687a7c40f9"
+				},
+				{
+					"verse": "Venid, comed mi pan, Y bebed del vino que yo he mezclado.",
+					"number": 5,
+					"id": "a484633f-b22b-448c-ad20-fc95c4e10707"
+				},
+				{
+					"verse": "Dejad las simplezas, y vivid, Y andad por el camino de la inteligencia.",
+					"number": 6,
+					"id": "88cc8fa1-142e-40e8-9032-2bd67944c00e"
+				},
+				{
+					"verse": "El que corrige al escarnecedor, se acarrea afrenta; El que reprende al impío, se atrae mancha.",
+					"number": 7,
+					"id": "923a1cc1-0502-4e23-84e7-c2fdfa7f150f"
+				},
+				{
+					"verse": "No reprendas al escarnecedor, para que no te aborrezca; Corrige al sabio, y te amará.",
+					"number": 8,
+					"id": "1d3defd2-f591-4981-8238-7721bfadc963"
+				},
+				{
+					"verse": "Da al sabio, y será más sabio; Enseña al justo, y aumentará su saber.",
+					"number": 9,
+					"id": "4093602d-254c-4d74-85bb-e349dadd95fc"
+				},
+				{
+					"verse": "El temor de Jehová es el principio de la sabiduría, Y el conocimiento del Santísimo es la inteligencia.",
+					"number": 10,
+					"id": "23c44cd1-df0e-4c16-aad9-72fafaafc6dd"
+				},
+				{
+					"verse": "Porque por mí se aumentarán tus días, Y años de vida se te añadirán.",
+					"number": 11,
+					"id": "e8a9963e-5571-44b6-be1d-8e405907b583"
+				},
+				{
+					"verse": "Si fueres sabio, para ti lo serás; Y si fueres escarnecedor, pagarás tú solo.",
+					"number": 12,
+					"id": "5bcea12c-bd49-4209-964f-22a2a3dfd102"
+				},
+				{
+					"verse": "La mujer insensata es alborotadora; Es simple e ignorante.",
+					"number": 13,
+					"id": "363f4aab-8eaf-4e8a-a7da-909032dd4688"
+				},
+				{
+					"verse": "Se sienta en una silla a la puerta de su casa, En los lugares altos de la ciudad,",
+					"number": 14,
+					"id": "59a3aec0-5513-4df2-89ce-ecfcc8b44c59"
+				},
+				{
+					"verse": "Para llamar a los que pasan por el camino, Que van por sus caminos derechos.",
+					"number": 15,
+					"id": "aa203167-4fc0-4dfc-adf2-94e83ea3f087"
+				},
+				{
+					"verse": "Dice a cualquier simple: Ven acá. A los faltos de cordura dijo:",
+					"number": 16,
+					"id": "8a08db7a-589e-43a2-a228-640b406b0de3"
+				},
+				{
+					"verse": "Las aguas hurtadas son dulces, Y el pan comido en oculto es sabroso.",
+					"number": 17,
+					"id": "35829458-36fa-4b63-bd48-432962bd431b"
+				},
+				{
+					"verse": "Y no saben que allí están los muertos; Que sus convidados están en lo profundo del Seol.",
+					"number": 18,
+					"id": "28fe680b-e931-43bb-9fb6-c19f85743b05"
+				}
+			]
+		},
+		{
+			"chapter": "10",
+			"vers": [
+				{
+					"verse": "Los proverbios de Salomón. El hijo sabio alegra al padre, Pero el hijo necio es tristeza de su madre.",
+					"number": 1,
+					"study": "Contraste entre el justo y el malvado",
+					"id": "3f6bc72c-eff6-465d-bf3e-26ec6cd4d08b"
+				},
+				{
+					"verse": "Los tesoros de maldad no serán de provecho; Mas la justicia libra de muerte.",
+					"number": 2,
+					"id": "4a032dc2-1f70-4fd9-8187-002f3aa2b6c1"
+				},
+				{
+					"verse": "Jehová no dejará padecer hambre al justo; Mas la iniquidad lanzará a los impíos.",
+					"number": 3,
+					"id": "c340f154-26f8-44de-ae32-259014381de8"
+				},
+				{
+					"verse": "La mano negligente empobrece; Mas la mano de los diligentes enriquece.",
+					"number": 4,
+					"id": "02cf22aa-c2f1-41fd-b8f5-01c499cfd319"
+				},
+				{
+					"verse": "El que recoge en el verano es hombre entendido; El que duerme en el tiempo de la siega es hijo que avergüenza.",
+					"number": 5,
+					"id": "057b426d-720f-4c89-8ae0-22c02dbeae28"
+				},
+				{
+					"verse": "Hay bendiciones sobre la cabeza del justo; Pero violencia cubrirá la boca de los impíos.",
+					"number": 6,
+					"id": "b9248e97-4df4-4796-a818-7d27ceed56ab"
+				},
+				{
+					"verse": "La memoria del justo será bendita; Mas el nombre de los impíos se pudrirá.",
+					"number": 7,
+					"id": "5ba14859-5895-49a0-8b9c-e37d6c9443a4"
+				},
+				{
+					"verse": "El sabio de corazón recibirá los mandamientos; Mas el necio de labios caerá.",
+					"number": 8,
+					"id": "7e042f36-7ed7-4cfe-88d2-7f8e38ab05f6"
+				},
+				{
+					"verse": "El que camina en integridad anda confiado; Mas el que pervierte sus caminos será quebrantado.",
+					"number": 9,
+					"id": "808330ae-5233-49a3-bcc2-aea4e249ab0b"
+				},
+				{
+					"verse": "El que guiña el ojo acarrea tristeza; Y el necio de labios será castigado.",
+					"number": 10,
+					"id": "ab740a87-8ef1-49fd-9311-da622d87102a"
+				},
+				{
+					"verse": "Manantial de vida es la boca del justo; Pero violencia cubrirá la boca de los impíos.",
+					"number": 11,
+					"id": "f1d24ca1-d1e2-435a-b93b-f07182b0c22b"
+				},
+				{
+					"verse": "El odio despierta rencillas; Pero el amor cubrirá todas las faltas.",
+					"number": 12,
+					"id": "a0bc693f-73e8-4e59-8c50-2b968a69866b"
+				},
+				{
+					"verse": "En los labios del prudente se halla sabiduría; Mas la vara es para las espaldas del falto de cordura.",
+					"number": 13,
+					"id": "6537c894-10e3-4129-89ec-c631f3496cff"
+				},
+				{
+					"verse": "Los sabios guardan la sabiduría; Mas la boca del necio es calamidad cercana.",
+					"number": 14,
+					"id": "f4cd1e2a-e2fb-4e0f-9cb1-36879cda59eb"
+				},
+				{
+					"verse": "Las riquezas del rico son su ciudad fortificada; Y el desmayo de los pobres es su pobreza.",
+					"number": 15,
+					"id": "be9ed056-1ee5-4ec0-9a56-1a5cc6f67410"
+				},
+				{
+					"verse": "La obra del justo es para vida; Mas el fruto del impío es para pecado.",
+					"number": 16,
+					"id": "de27d5a0-ce99-49e0-bd9c-c873890d75c4"
+				},
+				{
+					"verse": "Camino a la vida es guardar la instrucción; Pero quien desecha la reprensión, yerra.",
+					"number": 17,
+					"id": "9cbb29ec-e8cd-4255-b60e-ad6c09e66934"
+				},
+				{
+					"verse": "El que encubre el odio es de labios mentirosos; Y el que propaga calumnia es necio.",
+					"number": 18,
+					"id": "40476b3d-783b-4d03-862f-dbe2aae7bfa5"
+				},
+				{
+					"verse": "En las muchas palabras no falta pecado; Mas el que refrena sus labios es prudente.",
+					"number": 19,
+					"id": "92e971f6-b11b-40cb-8015-0681006983a1"
+				},
+				{
+					"verse": "Plata escogida es la lengua del justo; Mas el corazón de los impíos es como nada.",
+					"number": 20,
+					"id": "816fbb91-6f83-461e-8d6c-dbae44f90c67"
+				},
+				{
+					"verse": "Los labios del justo apacientan a muchos, Mas los necios mueren por falta de entendimiento.",
+					"number": 21,
+					"id": "d423178a-1e3e-4ec4-aa56-b0500d042858"
+				},
+				{
+					"verse": "La bendición de Jehová es la que enriquece, Y no añade tristeza con ella.",
+					"number": 22,
+					"id": "8f0eb964-6c68-410c-845b-0c791793d630"
+				},
+				{
+					"verse": "El hacer maldad es como una diversión al insensato; Mas la sabiduría recrea al hombre de entendimiento.",
+					"number": 23,
+					"id": "a93c9ff6-d7e2-4b0d-baff-6ef5fa0576bc"
+				},
+				{
+					"verse": "Lo que el impío teme, eso le vendrá; Pero a los justos les será dado lo que desean.",
+					"number": 24,
+					"id": "3a6bd81d-1941-4613-a80d-9fc8b915e673"
+				},
+				{
+					"verse": "Como pasa el torbellino, así el malo no permanece; Mas el justo permanece para siempre.",
+					"number": 25,
+					"id": "a2976104-4992-471c-93cb-7d1dec3eef67"
+				},
+				{
+					"verse": "Como el vinagre a los dientes, y como el humo a los ojos, Así es el perezoso a los que lo envían.",
+					"number": 26,
+					"id": "bb1407c2-b60f-445c-a9f8-cdaf9d4967a9"
+				},
+				{
+					"verse": "El temor de Jehová aumentará los días; Mas los años de los impíos serán acortados.",
+					"number": 27,
+					"id": "1f34a8ec-3df0-4a68-a0f4-586d7e6d2417"
+				},
+				{
+					"verse": "La esperanza de los justos es alegría; Mas la esperanza de los impíos perecerá.",
+					"number": 28,
+					"id": "81a1967b-a2fe-4d75-9d28-83112150bf3b"
+				},
+				{
+					"verse": "El camino de Jehová es fortaleza al perfecto; Pero es destrucción a los que hacen maldad.",
+					"number": 29,
+					"id": "6f0758be-b7e8-4c3d-af4f-a6015c4662dc"
+				},
+				{
+					"verse": "El justo no será removido jamás; Pero los impíos no habitarán la tierra.",
+					"number": 30,
+					"id": "2c0a1267-eab8-426d-9f23-64e0a2d584d9"
+				},
+				{
+					"verse": "La boca del justo producirá sabiduría; Mas la lengua perversa será cortada.",
+					"number": 31,
+					"id": "0ae203f5-b786-49db-8e99-2baa3523d64b"
+				},
+				{
+					"verse": "Los labios del justo saben hablar lo que agrada; Mas la boca de los impíos habla perversidades.",
+					"number": 32,
+					"id": "d832e478-4bcc-4f2c-90f2-e64799d688ad"
+				}
+			]
+		},
+		{
+			"chapter": "11",
+			"vers": [
+				{
+					"verse": "El peso falso es abominación a Jehová; Mas la pesa cabal le agrada.",
+					"number": 1,
+					"id": "5fadcdce-7ec6-4e09-8973-279f04e360d4"
+				},
+				{
+					"verse": "Cuando viene la soberbia, viene también la deshonra; Mas con los humildes está la sabiduría.",
+					"number": 2,
+					"id": "23784678-f3e9-4f77-8d84-a4bcd8c245f4"
+				},
+				{
+					"verse": "La integridad de los rectos los encaminará; Pero destruirá a los pecadores la perversidad de ellos.",
+					"number": 3,
+					"id": "821d4fd7-70c2-42e7-ba10-f651dd5b9320"
+				},
+				{
+					"verse": "No aprovecharán las riquezas en el día de la ira; Mas la justicia librará de muerte.",
+					"number": 4,
+					"id": "66b78419-a87d-47a0-abfb-b807595b343b"
+				},
+				{
+					"verse": "La justicia del perfecto enderezará su camino; Mas el impío por su impiedad caerá.",
+					"number": 5,
+					"id": "e0c3a587-917d-44f7-80e8-df23b2544318"
+				},
+				{
+					"verse": "La justicia de los rectos los librará; Mas los pecadores serán atrapados en su pecado.",
+					"number": 6,
+					"id": "1ef25738-65d2-495c-af39-920117d3c33e"
+				},
+				{
+					"verse": "Cuando muere el hombre impío, perece su esperanza; Y la expectación de los malos perecerá.",
+					"number": 7,
+					"id": "be7f0d1b-fa1a-4f8b-bbca-8c9c5b4860cf"
+				},
+				{
+					"verse": "El justo es librado de la tribulación; Mas el impío entra en lugar suyo.",
+					"number": 8,
+					"id": "023e6aa6-9bd4-4ca0-b689-b52d55c90472"
+				},
+				{
+					"verse": "El hipócrita con la boca daña a su prójimo; Mas los justos son librados con la sabiduría.",
+					"number": 9,
+					"id": "399e73e5-05d4-4d70-9ed5-cf5832127b2f"
+				},
+				{
+					"verse": "En el bien de los justos la ciudad se alegra; Mas cuando los impíos perecen hay fiesta.",
+					"number": 10,
+					"id": "4c68f965-cce9-42af-b1bb-9ddee3d3b635"
+				},
+				{
+					"verse": "Por la bendición de los rectos la ciudad será engrandecida; Mas por la boca de los impíos será trastornada.",
+					"number": 11,
+					"id": "98bcc3b7-e648-4746-968e-ad44f64d6952"
+				},
+				{
+					"verse": "El que carece de entendimiento menosprecia a su prójimo; Mas el hombre prudente calla.",
+					"number": 12,
+					"id": "ce1e1918-813d-4bfb-b59f-a1d983ef68b1"
+				},
+				{
+					"verse": "El que anda en chismes descubre el secreto; Mas el de espíritu fiel lo guarda todo.",
+					"number": 13,
+					"id": "c65660b0-82c1-4d86-a2c1-60e667ca451f"
+				},
+				{
+					"verse": "Donde no hay dirección sabia, caerá el pueblo; Mas en la multitud de consejeros hay seguridad.",
+					"number": 14,
+					"id": "2578729d-d423-4028-a84c-47fd8d852d38"
+				},
+				{
+					"verse": "Con ansiedad será afligido el que sale por fiador de un extraño; Mas el que aborreciere las fianzas vivirá seguro.",
+					"number": 15,
+					"id": "a0ea75ba-41c4-4c05-82fc-48d2cf631dfd"
+				},
+				{
+					"verse": "La mujer agraciada tendrá honra, Y los fuertes tendrán riquezas.",
+					"number": 16,
+					"id": "5ebdf3a8-9bc2-4bbf-98d5-65bbf9177920"
+				},
+				{
+					"verse": "A su alma hace bien el hombre misericordioso; Mas el cruel se atormenta a sí mismo.",
+					"number": 17,
+					"id": "0f0bc68e-7eeb-4dc7-8c2d-e81d0437e880"
+				},
+				{
+					"verse": "El impío hace obra falsa; Mas el que siembra justicia tendrá galardón firme.",
+					"number": 18,
+					"id": "7671b314-a776-4cb6-a54d-6706e073310d"
+				},
+				{
+					"verse": "Como la justicia conduce a la vida, Así el que sigue el mal lo hace para su muerte.",
+					"number": 19,
+					"id": "cef6a946-6386-4a9f-8d24-021b25880ba1"
+				},
+				{
+					"verse": "Abominación son a Jehová los perversos de corazón; Mas los perfectos de camino le son agradables.",
+					"number": 20,
+					"id": "fff5703a-94ed-41a3-9623-2628cd919c1b"
+				},
+				{
+					"verse": "Tarde o temprano, el malo será castigado; Mas la descendencia de los justos será librada.",
+					"number": 21,
+					"id": "cf122f54-6cd8-474c-8f9a-4a19d123ed05"
+				},
+				{
+					"verse": "Como zarcillo de oro en el hocico de un cerdo Es la mujer hermosa y apartada de razón.",
+					"number": 22,
+					"id": "1d2258eb-516b-4d8f-b447-8029a07ea536"
+				},
+				{
+					"verse": "El deseo de los justos es solamente el bien; Mas la esperanza de los impíos es el enojo.",
+					"number": 23,
+					"id": "21bd78b9-f924-40b9-9f7d-5f3d15009c87"
+				},
+				{
+					"verse": "Hay quienes reparten, y les es añadido más; Y hay quienes retienen más de lo que es justo, pero vienen a pobreza.",
+					"number": 24,
+					"id": "c5164db3-79ea-41b4-839a-d9af4ef97ac7"
+				},
+				{
+					"verse": "El alma generosa será prosperada; Y el que saciare, él también será saciado.",
+					"number": 25,
+					"id": "22193507-a03b-466e-9967-327a9c68e4cc"
+				},
+				{
+					"verse": "Al que acapara el grano, el pueblo lo maldecirá; Pero bendición será sobre la cabeza del que lo vende.",
+					"number": 26,
+					"id": "2d0da73c-5228-4cf1-9691-d6e356b888a1"
+				},
+				{
+					"verse": "El que procura el bien buscará favor; Mas al que busca el mal, éste le vendrá.",
+					"number": 27,
+					"id": "41b906cd-56f1-41ab-a057-21d9bfb72218"
+				},
+				{
+					"verse": "El que confía en sus riquezas caerá; Mas los justos reverdecerán como ramas.",
+					"number": 28,
+					"id": "986c2ffb-1f27-4f4b-8310-e773f3a757f2"
+				},
+				{
+					"verse": "El que turba su casa heredará viento; Y el necio será siervo del sabio de corazón.",
+					"number": 29,
+					"id": "53869508-6558-4629-abdb-431f99cc1a2b"
+				},
+				{
+					"verse": "El fruto del justo es árbol de vida; Y el que gana almas es sabio.",
+					"number": 30,
+					"id": "1b5da8d2-0e28-4019-905e-cbed96c18d2b"
+				},
+				{
+					"verse": "Ciertamente el justo será recompensado en la tierra; ¡Cuánto más el impío y el pecador!",
+					"number": 31,
+					"id": "3b4080e1-be80-4ad9-aaec-b618f5e6ca8a"
+				}
+			]
+		},
+		{
+			"chapter": "12",
+			"vers": [
+				{
+					"verse": "El que ama la instrucción ama la sabiduría; Mas el que aborrece la reprensión es ignorante.",
+					"number": 1,
+					"id": "287cee51-a896-4749-9f08-be387cbca4b9"
+				},
+				{
+					"verse": "El bueno alcanzará favor de Jehová; Mas él condenará al hombre de malos pensamientos.",
+					"number": 2,
+					"id": "5c5f9a86-5ad3-409d-aab9-f37147daa216"
+				},
+				{
+					"verse": "El hombre no se afirmará por medio de la impiedad; Mas la raíz de los justos no será removida.",
+					"number": 3,
+					"id": "ce464dc5-6380-4f28-b630-4be28b9dcc49"
+				},
+				{
+					"verse": "La mujer virtuosa es corona de su marido; Mas la mala, como carcoma en sus huesos.",
+					"number": 4,
+					"id": "e24c5c4b-31ee-40d1-9749-13d141886bbd"
+				},
+				{
+					"verse": "Los pensamientos de los justos son rectitud; Mas los consejos de los impíos, engaño.",
+					"number": 5,
+					"id": "de22360b-c4fd-4ff2-a807-f9d439e57ccd"
+				},
+				{
+					"verse": "Las palabras de los impíos son asechanzas para derramar sangre; Mas la boca de los rectos los librará.",
+					"number": 6,
+					"id": "a799e0a7-a9a6-4df8-8e84-f8c88dee4a6e"
+				},
+				{
+					"verse": "Dios trastornará a los impíos, y no serán más; Pero la casa de los justos permanecerá firme.",
+					"number": 7,
+					"id": "1160e263-76bc-4fe0-bd64-feb2981d0eec"
+				},
+				{
+					"verse": "Según su sabiduría es alabado el hombre; Mas el perverso de corazón será menospreciado.",
+					"number": 8,
+					"id": "bc74e988-9b26-47a0-9c5f-f44a13082478"
+				},
+				{
+					"verse": "Más vale el despreciado que tiene servidores, Que el que se jacta, y carece de pan.",
+					"number": 9,
+					"id": "2c93d8d1-90f2-4d91-a5b1-8139752153d1"
+				},
+				{
+					"verse": "El justo cuida de la vida de su bestia; Mas el corazón de los impíos es cruel.",
+					"number": 10,
+					"id": "c62de1ca-7292-41da-995f-4c5455dd89a9"
+				},
+				{
+					"verse": "El que labra su tierra se saciará de pan; Mas el que sigue a los vagabundos es falto de entendimiento.",
+					"number": 11,
+					"id": "feb47f36-5590-4e4f-a335-d1eac8b04787"
+				},
+				{
+					"verse": "Codicia el impío la red de los malvados; Mas la raíz de los justos dará fruto.",
+					"number": 12,
+					"id": "45e29654-fc8d-4cbf-ae36-dbb6e5ec1f25"
+				},
+				{
+					"verse": "El impío es enredado en la prevaricación de sus labios; Mas el justo saldrá de la tribulación.",
+					"number": 13,
+					"id": "63a6ac9f-887b-415f-b583-d1f4d3f52012"
+				},
+				{
+					"verse": "El hombre será saciado de bien del fruto de su boca; Y le será pagado según la obra de sus manos.",
+					"number": 14,
+					"id": "d9cd8760-5a7b-46ce-b928-fdbfe26d7235"
+				},
+				{
+					"verse": "El camino del necio es derecho en su opinión; Mas el que obedece al consejo es sabio.",
+					"number": 15,
+					"id": "892537d4-f204-434e-9242-1e054d1162d7"
+				},
+				{
+					"verse": "El necio al punto da a conocer su ira; Mas el que no hace caso de la injuria es prudente.",
+					"number": 16,
+					"id": "c7aaba13-12c4-4309-926c-1fd45a80dd3f"
+				},
+				{
+					"verse": "El que habla verdad declara justicia; Mas el testigo mentiroso, engaño.",
+					"number": 17,
+					"id": "67158d66-94fd-4ab7-9c86-a647e371420c"
+				},
+				{
+					"verse": "Hay hombres cuyas palabras son como golpes de espada; Mas la lengua de los sabios es medicina.",
+					"number": 18,
+					"id": "7ffd493a-ce53-4a27-a1cd-705321fc0093"
+				},
+				{
+					"verse": "El labio veraz permanecerá para siempre; Mas la lengua mentirosa sólo por un momento.",
+					"number": 19,
+					"id": "8dfed0b0-eefb-43be-9fca-065986fc048e"
+				},
+				{
+					"verse": "Engaño hay en el corazón de los que piensan el mal; Pero alegría en el de los que piensan el bien.",
+					"number": 20,
+					"id": "7d3985ef-b21a-44f2-86fa-f2026c676bdb"
+				},
+				{
+					"verse": "Ninguna adversidad acontecerá al justo; Mas los impíos serán colmados de males.",
+					"number": 21,
+					"id": "3ddbe805-3333-4370-b1e8-0219fc7c1d70"
+				},
+				{
+					"verse": "Los labios mentirosos son abominación a Jehová; Pero los que hacen verdad son su contentamiento.",
+					"number": 22,
+					"id": "ea101c38-b0ec-4d0c-8936-7a10ecb043c5"
+				},
+				{
+					"verse": "El hombre cuerdo encubre su saber; Mas el corazón de los necios publica la necedad.",
+					"number": 23,
+					"id": "f61b2c31-849f-4cd7-af54-d3e433c0b178"
+				},
+				{
+					"verse": "La mano de los diligentes señoreará; Mas la negligencia será tributaria.",
+					"number": 24,
+					"id": "8480c89d-9d5d-4b3b-b9d2-94c9f9b76e5e"
+				},
+				{
+					"verse": "La congoja en el corazón del hombre lo abate; Mas la buena palabra lo alegra.",
+					"number": 25,
+					"id": "9f94a0be-c95f-4d1e-8e84-cc8a9668e632"
+				},
+				{
+					"verse": "El justo sirve de guía a su prójimo; Mas el camino de los impíos les hace errar.",
+					"number": 26,
+					"id": "4d6cb4bf-979b-4605-979d-07be40bf6002"
+				},
+				{
+					"verse": "El indolente ni aun asará lo que ha cazado; Pero haber precioso del hombre es la diligencia.",
+					"number": 27,
+					"id": "f447c439-b688-4691-bf20-a28297305283"
+				},
+				{
+					"verse": "En el camino de la justicia está la vida; Y en sus caminos no hay muerte.",
+					"number": 28,
+					"id": "1a6d6e8a-dcef-45cf-b7ce-b01b4d45a4c9"
+				}
+			]
+		},
+		{
+			"chapter": "13",
+			"vers": [
+				{
+					"verse": "El hijo sabio recibe el consejo del padre; Mas el burlador no escucha las reprensiones.",
+					"number": 1,
+					"id": "a38d949d-c5e9-433b-8fbe-5863715f4a37"
+				},
+				{
+					"verse": "Del fruto de su boca el hombre comerá el bien; Mas el alma de los prevaricadores hallará el mal.",
+					"number": 2,
+					"id": "51f098a1-4751-41ed-9a78-165b7558f879"
+				},
+				{
+					"verse": "El que guarda su boca guarda su alma; Mas el que mucho abre sus labios tendrá calamidad.",
+					"number": 3,
+					"id": "e58f31c3-65d6-49cd-8ab0-2c0d728166d1"
+				},
+				{
+					"verse": "El alma del perezoso desea, y nada alcanza; Mas el alma de los diligentes será prosperada.",
+					"number": 4,
+					"id": "06fa9cbe-91c0-4376-a644-e2387fb9b8a3"
+				},
+				{
+					"verse": "El justo aborrece la palabra de mentira; Mas el impío se hace odioso e infame.",
+					"number": 5,
+					"id": "b5c98e62-df3f-4363-b83b-aa43b06fb22f"
+				},
+				{
+					"verse": "La justicia guarda al de perfecto camino; Mas la impiedad trastornará al pecador.",
+					"number": 6,
+					"id": "0009d77d-9c15-4c0c-b01c-4330eee1b2ae"
+				},
+				{
+					"verse": "Hay quienes pretenden ser ricos, y no tienen nada; Y hay quienes pretenden ser pobres, y tienen muchas riquezas.",
+					"number": 7,
+					"id": "7652da77-83c5-4e51-8f2f-5e55e0008851"
+				},
+				{
+					"verse": "El rescate de la vida del hombre está en sus riquezas; Pero el pobre no oye censuras.",
+					"number": 8,
+					"id": "dc794a88-90c2-4846-b982-4d7aadc3ace6"
+				},
+				{
+					"verse": "La luz de los justos se alegrará; Mas se apagará la lámpara de los impíos.",
+					"number": 9,
+					"id": "723e407e-f159-45ee-9bd1-4ee3f5f8393f"
+				},
+				{
+					"verse": "Ciertamente la soberbia concebirá contienda; Mas con los avisados está la sabiduría.",
+					"number": 10,
+					"id": "ab440abb-d6e1-421a-a3c4-24fb0022ff32"
+				},
+				{
+					"verse": "Las riquezas de vanidad disminuirán; Pero el que recoge con mano laboriosa las aumenta.",
+					"number": 11,
+					"id": "350ee33e-74fb-49ba-b572-ddbde0c5df91"
+				},
+				{
+					"verse": "La esperanza que se demora es tormento del corazón; Pero árbol de vida es el deseo cumplido.",
+					"number": 12,
+					"id": "b1bd4b99-6be3-406e-855c-3bfad44cb8d1"
+				},
+				{
+					"verse": "El que menosprecia el precepto perecerá por ello; Mas el que teme el mandamiento será recompensado.",
+					"number": 13,
+					"id": "e4d9aa8e-5384-4c08-88b8-83d19c254818"
+				},
+				{
+					"verse": "La ley del sabio es manantial de vida Para apartarse de los lazos de la muerte.",
+					"number": 14,
+					"id": "c6821842-7a1f-4fe6-abbe-049f201c9739"
+				},
+				{
+					"verse": "El buen entendimiento da gracia; Mas el camino de los transgresores es duro.",
+					"number": 15,
+					"id": "dff5bcc4-a2c1-4fad-865f-7ff4c31c770e"
+				},
+				{
+					"verse": "Todo hombre prudente procede con sabiduría; Mas el necio manifestará necedad.",
+					"number": 16,
+					"id": "7146a4f2-3e58-4f71-ba28-aa8178b7f394"
+				},
+				{
+					"verse": "El mal mensajero acarrea desgracia; Mas el mensajero fiel acarrea salud.",
+					"number": 17,
+					"id": "9df3cd29-70d7-4233-bef5-838dcd917209"
+				},
+				{
+					"verse": "Pobreza y vergüenza tendrá el que menosprecia el consejo; Mas el que guarda la corrección recibirá honra.",
+					"number": 18,
+					"id": "7ad5776b-9dd9-44e3-8197-0652e4def867"
+				},
+				{
+					"verse": "El deseo cumplido regocija el alma; Pero apartarse del mal es abominación a los necios.",
+					"number": 19,
+					"id": "440f0d8b-cdf8-4e09-b7d1-7c2eb1a7ab7a"
+				},
+				{
+					"verse": "El que anda con sabios, sabio será; Mas el que se junta con necios será quebrantado.",
+					"number": 20,
+					"id": "5c0497c8-1778-4c71-a919-ffe7bc0df61a"
+				},
+				{
+					"verse": "El mal perseguirá a los pecadores, Mas los justos serán premiados con el bien.",
+					"number": 21,
+					"id": "b9b94cb0-5e19-443b-9f3c-3b62b36ff429"
+				},
+				{
+					"verse": "El bueno dejará herederos a los hijos de sus hijos; Pero la riqueza del pecador está guardada para el justo.",
+					"number": 22,
+					"id": "c7da5d87-9838-4e0f-be6b-e55adcae4d61"
+				},
+				{
+					"verse": "En el barbecho de los pobres hay mucho pan; Mas se pierde por falta de juicio.",
+					"number": 23,
+					"id": "c8d14ce6-9478-4abd-82dd-3ae96bef3f21"
+				},
+				{
+					"verse": "El que detiene el castigo, a su hijo aborrece; Mas el que lo ama, desde temprano lo corrige.",
+					"number": 24,
+					"id": "0cb236cb-790b-44d8-9e60-e4b6824d17c4"
+				},
+				{
+					"verse": "El justo come hasta saciar su alma; Mas el vientre de los impíos tendrá necesidad.",
+					"number": 25,
+					"id": "c93d4ce2-5485-4369-a8d1-d07a5c2d5d4a"
+				}
+			]
+		},
+		{
+			"chapter": "14",
+			"vers": [
+				{
+					"verse": "La mujer sabia edifica su casa; Mas la necia con sus manos la derriba.",
+					"number": 1,
+					"id": "1ff7833d-768e-4109-a140-dc537533a70b"
+				},
+				{
+					"verse": "El que camina en su rectitud teme a Jehová; Mas el de caminos pervertidos lo menosprecia.",
+					"number": 2,
+					"id": "8c5043f7-29a3-4eca-93af-28e333a8bcbf"
+				},
+				{
+					"verse": "En la boca del necio está la vara de la soberbia; Mas los labios de los sabios los guardarán.",
+					"number": 3,
+					"id": "a6d55fb1-fb84-40a3-82ff-f936292f952e"
+				},
+				{
+					"verse": "Sin bueyes el granero está vacío; Mas por la fuerza del buey hay abundancia de pan.",
+					"number": 4,
+					"id": "5c6419e3-4ce2-4d9f-9252-a4d5489ce648"
+				},
+				{
+					"verse": "El testigo verdadero no mentirá; Mas el testigo falso hablará mentiras.",
+					"number": 5,
+					"id": "42207d68-a442-45d2-abcd-606a86ed1d9d"
+				},
+				{
+					"verse": "Busca el escarnecedor la sabiduría y no la halla; Mas al hombre entendido la sabiduría le es fácil.",
+					"number": 6,
+					"id": "7d2f84c6-bac9-413a-99d3-bba3e5f00579"
+				},
+				{
+					"verse": "Vete de delante del hombre necio, Porque en él no hallarás labios de ciencia.",
+					"number": 7,
+					"id": "2888535d-c2dd-46a5-8c61-aad067b57ad7"
+				},
+				{
+					"verse": "La ciencia del prudente está en entender su camino; Mas la indiscreción de los necios es engaño.",
+					"number": 8,
+					"id": "629a73e2-55e5-4053-b2c7-1d6d2d0666ec"
+				},
+				{
+					"verse": "Los necios se mofan del pecado; Mas entre los rectos hay buena voluntad.",
+					"number": 9,
+					"id": "035ffce6-d50e-47f2-87aa-e66f1c9dc952"
+				},
+				{
+					"verse": "El corazón conoce la amargura de su alma; Y extraño no se entremeterá en su alegría.",
+					"number": 10,
+					"id": "681e39fe-f29a-454c-9975-a233ba361ba6"
+				},
+				{
+					"verse": "La casa de los impíos será asolada; Pero florecerá la tienda de los rectos.",
+					"number": 11,
+					"id": "91822364-e581-41bc-a5a2-4b7a391f03df"
+				},
+				{
+					"verse": "Hay camino que al hombre le parece derecho; Pero su fin es camino de muerte.",
+					"number": 12,
+					"id": "c05c8ff9-cda5-4c3d-bfef-514416f6685c"
+				},
+				{
+					"verse": "Aun en la risa tendrá dolor el corazón; Y el término de la alegría es congoja.",
+					"number": 13,
+					"id": "d61ff942-c3b6-49e3-8c9f-857ff5202cc9"
+				},
+				{
+					"verse": "De sus caminos será hastiado el necio de corazón; Pero el hombre de bien estará contento del suyo.",
+					"number": 14,
+					"id": "117307ab-2663-4d1b-8240-1de1f63bc6f8"
+				},
+				{
+					"verse": "El simple todo lo cree; Mas el avisado mira bien sus pasos.",
+					"number": 15,
+					"id": "ad3d3c79-f35f-42b4-92a8-d833cfa8b617"
+				},
+				{
+					"verse": "El sabio teme y se aparta del mal; Mas el insensato se muestra insolente y confiado.",
+					"number": 16,
+					"id": "31eadc5c-0860-4587-ba71-3d9d48613235"
+				},
+				{
+					"verse": "El que fácilmente se enoja hará locuras; Y el hombre perverso será aborrecido.",
+					"number": 17,
+					"id": "362d49b6-48d9-46fb-a5d0-916dea965b12"
+				},
+				{
+					"verse": "Los simples heredarán necedad; Mas los prudentes se coronarán de sabiduría.",
+					"number": 18,
+					"id": "06f6e8d6-1364-4738-a734-e2b6e61a85bc"
+				},
+				{
+					"verse": "Los malos se inclinarán delante de los buenos, Y los impíos a las puertas del justo.",
+					"number": 19,
+					"id": "7e5dabc8-acfe-4dd1-80c0-2b32c6915bac"
+				},
+				{
+					"verse": "El pobre es odioso aun a su amigo; Pero muchos son los que aman al rico.",
+					"number": 20,
+					"id": "2b93e808-6e48-428a-a678-4c6771405f39"
+				},
+				{
+					"verse": "Peca el que menosprecia a su prójimo; Mas el que tiene misericordia de los pobres es bienaventurado.",
+					"number": 21,
+					"id": "ebb81758-2856-47e7-8272-6cb177c54d61"
+				},
+				{
+					"verse": "¿No yerran los que piensan el mal? Misericordia y verdad alcanzarán los que piensan el bien.",
+					"number": 22,
+					"id": "2aca7ac7-c206-496d-87a8-57009cc27937"
+				},
+				{
+					"verse": "En toda labor hay fruto; Mas las vanas palabras de los labios empobrecen.",
+					"number": 23,
+					"id": "54b62d3a-27f9-4e6e-9423-b4b96cb4d417"
+				},
+				{
+					"verse": "Las riquezas de los sabios son su corona; Pero la insensatez de los necios es infatuación.",
+					"number": 24,
+					"id": "f5acd8ed-648d-46e5-8856-f46760996ec8"
+				},
+				{
+					"verse": "El testigo verdadero libra las almas; Mas el engañoso hablará mentiras.",
+					"number": 25,
+					"id": "2cc8844e-1957-4074-b367-f76d6571a97b"
+				},
+				{
+					"verse": "En el temor de Jehová está la fuerte confianza; Y esperanza tendrán sus hijos.",
+					"number": 26,
+					"id": "9cb1fcd5-53d7-4c9a-a8a2-411f8e39177c"
+				},
+				{
+					"verse": "El temor de Jehová es manantial de vida Para apartarse de los lazos de la muerte.",
+					"number": 27,
+					"id": "e57f6ffe-60a2-401a-8a28-358640fc7e12"
+				},
+				{
+					"verse": "En la multitud del pueblo está la gloria del rey; Y en la falta de pueblo la debilidad del príncipe.",
+					"number": 28,
+					"id": "a1936f6a-7591-43b5-9a9f-d61a5d2237b6"
+				},
+				{
+					"verse": "El que tarda en airarse es grande de entendimiento; Mas el que es impaciente de espíritu enaltece la necedad.",
+					"number": 29,
+					"id": "7ddd615d-acbb-4665-bb23-9cc7dd9008c7"
+				},
+				{
+					"verse": "El corazón apacible es vida de la carne; Mas la envidia es carcoma de los huesos.",
+					"number": 30,
+					"id": "40bce469-280d-4d32-b681-c61d9d02872b"
+				},
+				{
+					"verse": "El que oprime al pobre afrenta a su Hacedor; Mas el que tiene misericordia del pobre, lo honra.",
+					"number": 31,
+					"id": "902cdac0-3876-48c0-8a2f-5d0e8e838454"
+				},
+				{
+					"verse": "Por su maldad será lanzado el impío; Mas el justo en su muerte tiene esperanza.",
+					"number": 32,
+					"id": "18613479-db7b-4ee5-9628-5adddc5c6807"
+				},
+				{
+					"verse": "En el corazón del prudente reposa la sabiduría; Pero no es conocida en medio de los necios.",
+					"number": 33,
+					"id": "3c0c9979-7621-4dfd-a55d-4eb93852bee7"
+				},
+				{
+					"verse": "La justicia engrandece a la nación; Mas el pecado es afrenta de las naciones.",
+					"number": 34,
+					"id": "1e2b023a-7d18-47f7-956d-06dd4e85418a"
+				},
+				{
+					"verse": "La benevolencia del rey es para con el servidor entendido; Mas su enojo contra el que lo avergüenza.",
+					"number": 35,
+					"id": "042ef11e-93f3-489c-b52c-8907bd453175"
+				}
+			]
+		},
+		{
+			"chapter": "15",
+			"vers": [
+				{
+					"verse": "La blanda respuesta quita la ira; Mas la palabra áspera hace subir el furor.",
+					"number": 1,
+					"id": "f99cf0fd-7357-476b-ba16-fae40a9af661"
+				},
+				{
+					"verse": "La lengua de los sabios adornará la sabiduría; Mas la boca de los necios hablará sandeces.",
+					"number": 2,
+					"id": "eccfb32d-28fd-44e1-9632-f3ef45056d11"
+				},
+				{
+					"verse": "Los ojos de Jehová están en todo lugar, Mirando a los malos y a los buenos.",
+					"number": 3,
+					"id": "4ee59d1c-05d7-4ee1-81d8-3c54be988139"
+				},
+				{
+					"verse": "La lengua apacible es árbol de vida; Mas la perversidad de ella es quebrantamiento de espíritu.",
+					"number": 4,
+					"id": "ec0b375f-ca6b-4289-b768-5da77fab9da7"
+				},
+				{
+					"verse": "El necio menosprecia el consejo de su padre; Mas el que guarda la corrección vendrá a ser prudente.",
+					"number": 5,
+					"id": "f7f11644-4da1-44c7-a217-f59250e3f640"
+				},
+				{
+					"verse": "En la casa del justo hay gran provisión; Pero turbación en las ganancias del impío.",
+					"number": 6,
+					"id": "1a29a88a-941a-47d6-8f0f-6d56ba66f0bd"
+				},
+				{
+					"verse": "La boca de los sabios esparce sabiduría; No así el corazón de los necios.",
+					"number": 7,
+					"id": "3eb634aa-362b-488d-9689-99f32cc4fcd7"
+				},
+				{
+					"verse": "El sacrificio de los impíos es abominación a Jehová; Mas la oración de los rectos es su gozo.",
+					"number": 8,
+					"id": "3528f8ac-1f14-4a6b-ba34-d2295749f778"
+				},
+				{
+					"verse": "Abominación es a Jehová el camino del impío; Mas él ama al que sigue justicia.",
+					"number": 9,
+					"id": "cea91a7d-fb81-47ea-9b32-ec973529a485"
+				},
+				{
+					"verse": "La reconvención es molesta al que deja el camino; Y el que aborrece la corrección morirá.",
+					"number": 10,
+					"id": "a476d048-aa70-4aa7-8396-f09aaf225314"
+				},
+				{
+					"verse": "El Seol y el Abadón están delante de Jehová; ¡Cuánto más los corazones de los hombres!",
+					"number": 11,
+					"id": "41a7ec25-b25a-401f-8988-a20239953332"
+				},
+				{
+					"verse": "El escarnecedor no ama al que le reprende, Ni se junta con los sabios.",
+					"number": 12,
+					"id": "08a0dc67-8522-4816-8bae-230bb7485d3b"
+				},
+				{
+					"verse": "El corazón alegre hermosea el rostro; Mas por el dolor del corazón el espíritu se abate.",
+					"number": 13,
+					"id": "5cce6884-f5ee-444b-8213-191fba02c18a"
+				},
+				{
+					"verse": "El corazón entendido busca la sabiduría; Mas la boca de los necios se alimenta de necedades.",
+					"number": 14,
+					"id": "b1cf09aa-3861-49a9-a24c-387dd9a6c230"
+				},
+				{
+					"verse": "Todos los días del afligido son difíciles; Mas el de corazón contento tiene un banquete continuo.",
+					"number": 15,
+					"id": "2bd59e2a-c3b6-4fba-abd2-6f22a2ab68d1"
+				},
+				{
+					"verse": "Mejor es lo poco con el temor de Jehová, Que el gran tesoro donde hay turbación.",
+					"number": 16,
+					"id": "a56410ab-8445-4407-b9d2-72051468f849"
+				},
+				{
+					"verse": "Mejor es la comida de legumbres donde hay amor, Que de buey engordado donde hay odio.",
+					"number": 17,
+					"id": "8dfba4a1-4020-446c-b8fc-b4c6abd9e504"
+				},
+				{
+					"verse": "El hombre iracundo promueve contiendas; Mas el que tarda en airarse apacigua la rencilla.",
+					"number": 18,
+					"id": "2b9f7c68-0f03-4cd2-8701-8c31daccd830"
+				},
+				{
+					"verse": "El camino del perezoso es como seto de espinos; Mas la vereda de los rectos, como una calzada.",
+					"number": 19,
+					"id": "16f5347c-7c05-4ea1-b81f-b0d27da69229"
+				},
+				{
+					"verse": "El hijo sabio alegra al padre; Mas el hombre necio menosprecia a su madre.",
+					"number": 20,
+					"id": "9bcea1b2-15a2-4ba0-a9b8-ff2f01b361ad"
+				},
+				{
+					"verse": "La necedad es alegría al falto de entendimiento; Mas el hombre entendido endereza sus pasos.",
+					"number": 21,
+					"id": "7285e0c3-1801-4865-bf2d-23f16635abc6"
+				},
+				{
+					"verse": "Los pensamientos son frustrados donde no hay consejo; Mas en la multitud de consejeros se afirman.",
+					"number": 22,
+					"id": "61f4c3d7-ea5d-4e3c-9952-d357dcda9ab0"
+				},
+				{
+					"verse": "El hombre se alegra con la respuesta de su boca; Y la palabra a su tiempo, ¡cuán buena es!",
+					"number": 23,
+					"id": "60849236-2c1c-4fc9-b499-809c11ac171b"
+				},
+				{
+					"verse": "El camino de la vida es hacia arriba al entendido, Para apartarse del Seol abajo.",
+					"number": 24,
+					"id": "412a5b42-2f70-42cb-bd2a-d02682e31e93"
+				},
+				{
+					"verse": "Jehová asolará la casa de los soberbios; Pero afirmará la heredad de la viuda.",
+					"number": 25,
+					"id": "057471bc-dbd9-4eff-9a54-ed2fed9ad23f"
+				},
+				{
+					"verse": "Abominación son a Jehová los pensamientos del malo; Mas las expresiones de los limpios son limpias.",
+					"number": 26,
+					"id": "d48d8632-971e-4217-9aa5-c810b6b12500"
+				},
+				{
+					"verse": "Alborota su casa el codicioso; Mas el que aborrece el soborno vivirá.",
+					"number": 27,
+					"id": "4a13a808-c58b-4806-a977-29cd0497902e"
+				},
+				{
+					"verse": "El corazón del justo piensa para responder; Mas la boca de los impíos derrama malas cosas.",
+					"number": 28,
+					"id": "f81c0fdf-0ee1-4cb5-945e-342daa24f632"
+				},
+				{
+					"verse": "Jehová está lejos de los impíos; Pero él oye la oración de los justos.",
+					"number": 29,
+					"id": "f6ee9f8c-7ab2-4efd-89fa-9c45d00ca77d"
+				},
+				{
+					"verse": "La luz de los ojos alegra el corazón, Y la buena nueva conforta los huesos.",
+					"number": 30,
+					"id": "e9dc645a-11db-4c5f-b6a4-f09783004781"
+				},
+				{
+					"verse": "El oído que escucha las amonestaciones de la vida, Entre los sabios morará.",
+					"number": 31,
+					"id": "0995cc1d-e5f4-43d6-a2e9-9bae04a8fb49"
+				},
+				{
+					"verse": "El que tiene en poco la disciplina menosprecia su alma; Mas el que escucha la corrección tiene entendimiento.",
+					"number": 32,
+					"id": "26bc1f9e-0622-4a35-afee-2476bf688de6"
+				},
+				{
+					"verse": "El temor de Jehová es enseñanza de sabiduría; Y a la honra precede la humildad.",
+					"number": 33,
+					"id": "dc1df1ab-5f1f-4664-965d-b50c3d56d5e8"
+				}
+			]
+		},
+		{
+			"chapter": "16",
+			"vers": [
+				{
+					"verse": "Del hombre son las disposiciones del corazón; Mas de Jehová es la respuesta de la lengua.",
+					"number": 1,
+					"study": "Proverbios sobre la vida y la conducta",
+					"id": "31499b3b-7efa-493b-b996-229761e9ae86"
+				},
+				{
+					"verse": "Todos los caminos del hombre son limpios en su propia opinión; Pero Jehová pesa los espíritus.",
+					"number": 2,
+					"id": "7b9cc29c-3bf2-4305-838a-5ef698b39e94"
+				},
+				{
+					"verse": "Encomienda a Jehová tus obras, Y tus pensamientos serán afirmados.",
+					"number": 3,
+					"id": "7b7ba31f-fa09-4b96-ae14-a295b2f7fc24"
+				},
+				{
+					"verse": "Todas las cosas ha hecho Jehová para sí mismo, Y aun al impío para el día malo.",
+					"number": 4,
+					"id": "a43b94e4-82b0-45e1-ae3d-67078138bfe3"
+				},
+				{
+					"verse": "Abominación es a Jehová todo altivo de corazón; Ciertamente no quedará impune.",
+					"number": 5,
+					"id": "554cc170-ccb1-46e6-b350-f6177c0287b9"
+				},
+				{
+					"verse": "Con misericordia y verdad se corrige el pecado, Y con el temor de Jehová los hombres se apartan del mal.",
+					"number": 6,
+					"id": "dfaae16f-127c-4426-841a-ad2c20f6c3ae"
+				},
+				{
+					"verse": "Cuando los caminos del hombre son agradables a Jehová, Aun a sus enemigos hace estar en paz con él.",
+					"number": 7,
+					"id": "b186ce45-4dd1-493c-8724-0e33e7ac7ce9"
+				},
+				{
+					"verse": "Mejor es lo poco con justicia Que la muchedumbre de frutos sin derecho.",
+					"number": 8,
+					"id": "c887e314-9005-43d7-a572-3daf7a00cfdc"
+				},
+				{
+					"verse": "El corazón del hombre piensa su camino; Mas Jehová endereza sus pasos.",
+					"number": 9,
+					"id": "1937b4ca-2c94-4b9d-9e9f-8d826eb33e5d"
+				},
+				{
+					"verse": "Oráculo hay en los labios del rey; En juicio no prevaricará su boca.",
+					"number": 10,
+					"id": "8c920cc1-6773-4551-9c29-6ec683478fe5"
+				},
+				{
+					"verse": "Peso y balanzas justas son de Jehová; Obra suya son todas las pesas de la bolsa.",
+					"number": 11,
+					"id": "c953f0a6-d8da-4972-a3b5-e4ddc90ab7b4"
+				},
+				{
+					"verse": "Abominación es a los reyes hacer impiedad, Porque con justicia será afirmado el trono.",
+					"number": 12,
+					"id": "9826e0c1-133c-4511-94b6-ecbb0f129cda"
+				},
+				{
+					"verse": "Los labios justos son el contentamiento de los reyes, Y éstos aman al que habla lo recto.",
+					"number": 13,
+					"id": "8f256832-2012-4ee3-9a41-461f964fb887"
+				},
+				{
+					"verse": "La ira del rey es mensajero de muerte; Mas el hombre sabio la evitará.",
+					"number": 14,
+					"id": "942ddca1-6356-415b-a60a-e56c2e44c242"
+				},
+				{
+					"verse": "En la alegría del rostro del rey está la vida, Y su benevolencia es como nube de lluvia tardía.",
+					"number": 15,
+					"id": "7e27fa6c-c961-431d-8470-033c52643b57"
+				},
+				{
+					"verse": "Mejor es adquirir sabiduría que oro preciado; Y adquirir inteligencia vale más que la plata.",
+					"number": 16,
+					"id": "37bd00d0-d955-42c8-8fa6-03a0ad8927a9"
+				},
+				{
+					"verse": "El camino de los rectos se aparta del mal; Su vida guarda el que guarda su camino.",
+					"number": 17,
+					"id": "b42a0d99-7b1e-454c-a68c-30d62b42079a"
+				},
+				{
+					"verse": "Antes del quebrantamiento es la soberbia, Y antes de la caída la altivez de espíritu.",
+					"number": 18,
+					"id": "86aeecf3-29c0-4d66-91a5-e321795c7cee"
+				},
+				{
+					"verse": "Mejor es humillar el espíritu con los humildes Que repartir despojos con los soberbios.",
+					"number": 19,
+					"id": "ea7c8d42-2782-409d-bf53-a7a911c6b3c9"
+				},
+				{
+					"verse": "El entendido en la palabra hallará el bien, Y el que confía en Jehová es bienaventurado.",
+					"number": 20,
+					"id": "3485e746-b738-405a-a958-d88829e82ad9"
+				},
+				{
+					"verse": "El sabio de corazón es llamado prudente, Y la dulzura de labios aumenta el saber.",
+					"number": 21,
+					"id": "2ac24c6c-c103-4382-874d-f438d3514347"
+				},
+				{
+					"verse": "Manantial de vida es el entendimiento al que lo posee; Mas la erudición de los necios es necedad.",
+					"number": 22,
+					"id": "5e69a4f5-d989-475a-9ed4-19c74eef8fa9"
+				},
+				{
+					"verse": "El corazón del sabio hace prudente su boca, Y añade gracia a sus labios.",
+					"number": 23,
+					"id": "8f14e3a7-870e-4c25-a44c-a873a62069f8"
+				},
+				{
+					"verse": "Panal de miel son los dichos suaves; Suavidad al alma y medicina para los huesos.",
+					"number": 24,
+					"id": "e066ccdc-2b1e-4155-a679-9ead855c63d0"
+				},
+				{
+					"verse": "Hay camino que parece derecho al hombre, Pero su fin es camino de muerte.",
+					"number": 25,
+					"id": "73994939-280c-4bcb-a849-244b6a0f0309"
+				},
+				{
+					"verse": "El alma del que trabaja, trabaja para sí, Porque su boca le estimula.",
+					"number": 26,
+					"id": "58a38fce-c54c-4eb5-a08b-9283ba9b505c"
+				},
+				{
+					"verse": "El hombre perverso cava en busca del mal, Y en sus labios hay como llama de fuego.",
+					"number": 27,
+					"id": "a74f5623-75f0-4ee1-b26f-077047971a36"
+				},
+				{
+					"verse": "El hombre perverso levanta contienda, Y el chismoso aparta a los mejores amigos.",
+					"number": 28,
+					"id": "17233e69-5616-4b4d-b9a8-1d4d77f495f8"
+				},
+				{
+					"verse": "El hombre malo lisonjea a su prójimo, Y le hace andar por camino no bueno.",
+					"number": 29,
+					"id": "2e12ccac-3d0e-4031-ab77-e862f3edb340"
+				},
+				{
+					"verse": "Cierra sus ojos para pensar perversidades; Mueve sus labios, efectúa el mal.",
+					"number": 30,
+					"id": "4d6970c3-0747-459f-a382-fe397c91262a"
+				},
+				{
+					"verse": "Corona de honra es la vejez Que se halla en el camino de justicia.",
+					"number": 31,
+					"id": "cc946bf2-4932-48a7-b54e-349a3076cde4"
+				},
+				{
+					"verse": "Mejor es el que tarda en airarse que el fuerte; Y el que se enseñorea de su espíritu, que el que toma una ciudad.",
+					"number": 32,
+					"id": "6b6a5476-1ddd-4ea5-9fcc-d575b4dc9a66"
+				},
+				{
+					"verse": "La suerte se echa en el regazo; Mas de Jehová es la decisión de ella.",
+					"number": 33,
+					"id": "1c909dec-96ad-43cd-a8d6-8a9cfc8f555a"
+				}
+			]
+		},
+		{
+			"chapter": "17",
+			"vers": [
+				{
+					"verse": "Mejor es un bocado seco, y en paz, Que casa de contiendas llena de provisiones.",
+					"number": 1,
+					"id": "2d39e32d-9fd0-47af-9fb0-0bef758737c7"
+				},
+				{
+					"verse": "El siervo prudente se enseñoreará del hijo que deshonra, Y con los hermanos compartirá la herencia.",
+					"number": 2,
+					"id": "9f258fc9-2eae-44a9-9a3e-fef2fa65fadf"
+				},
+				{
+					"verse": "El crisol para la plata, y la hornaza para el oro; Pero Jehová prueba los corazones.",
+					"number": 3,
+					"id": "3221f1c0-8f7e-4ba6-8313-1c2dde43311f"
+				},
+				{
+					"verse": "El malo está atento al labio inicuo; Y el mentiroso escucha la lengua detractora.",
+					"number": 4,
+					"id": "aa944b7f-7460-4c08-bf30-b795d5a270b7"
+				},
+				{
+					"verse": "El que escarnece al pobre afrenta a su Hacedor; Y el que se alegra de la calamidad no quedará sin castigo.",
+					"number": 5,
+					"id": "ffe70411-f63f-47a1-9c10-37d90b90d590"
+				},
+				{
+					"verse": "Corona de los viejos son los nietos, Y la honra de los hijos, sus padres.",
+					"number": 6,
+					"id": "f83d3be4-99ee-4c13-94fa-624fc15a0d31"
+				},
+				{
+					"verse": "No conviene al necio la altilocuencia; ¡Cuánto menos al príncipe el labio mentiroso!",
+					"number": 7,
+					"id": "98f6cfd6-cba7-4fb4-b711-e9d873b94c40"
+				},
+				{
+					"verse": "Piedra preciosa es el soborno para el que lo practica; Adondequiera que se vuelve, halla prosperidad.",
+					"number": 8,
+					"id": "b34cb465-bfe6-4b1f-91f3-0d4f5edc9f89"
+				},
+				{
+					"verse": "El que cubre la falta busca amistad; Mas el que la divulga, aparta al amigo.",
+					"number": 9,
+					"id": "fce36cbd-3eb9-424d-9ce4-7e51652da8f7"
+				},
+				{
+					"verse": "La reprensión aprovecha al entendido, Más que cien azotes al necio.",
+					"number": 10,
+					"id": "682cf256-d3e7-4e29-b675-b0f8b0a608ae"
+				},
+				{
+					"verse": "El rebelde no busca sino el mal, Y mensajero cruel será enviado contra él.",
+					"number": 11,
+					"id": "b3bc7619-c7f2-4e2a-89ea-3c91c124d7d7"
+				},
+				{
+					"verse": "Mejor es encontrarse con una osa a la cual han robado sus cachorros, Que con un fatuo en su necedad.",
+					"number": 12,
+					"id": "11eb5886-8921-4280-b28e-d3c9ea5afdb2"
+				},
+				{
+					"verse": "El que da mal por bien, No se apartará el mal de su casa.",
+					"number": 13,
+					"id": "796e1ad5-9fcf-4a9e-99e7-09cff7083d88"
+				},
+				{
+					"verse": "El que comienza la discordia es como quien suelta las aguas; Deja, pues, la contienda, antes que se enrede.",
+					"number": 14,
+					"id": "787d99ea-3294-4ffb-8b65-f5b08ccfc119"
+				},
+				{
+					"verse": "El que justifica al impío, y el que condena al justo, Ambos son igualmente abominación a Jehová.",
+					"number": 15,
+					"id": "eff2edbc-db47-4b9c-9c47-b14bb14d9ce5"
+				},
+				{
+					"verse": "¿De qué sirve el precio en la mano del necio para comprar sabiduría, No teniendo entendimiento?",
+					"number": 16,
+					"id": "d21aaf7d-8b84-414c-976c-75b026f3f312"
+				},
+				{
+					"verse": "En todo tiempo ama el amigo, Y es como un hermano en tiempo de angustia.",
+					"number": 17,
+					"id": "2e48b2ac-fc4a-43af-b92d-c9292e2de530"
+				},
+				{
+					"verse": "El hombre falto de entendimiento presta fianzas, Y sale por fiador en presencia de su amigo.",
+					"number": 18,
+					"id": "d47e2de8-1e8e-44f7-a60f-cc6f64fee457"
+				},
+				{
+					"verse": "El que ama la disputa, ama la transgresión; Y el que abre demasiado la puerta busca su ruina.",
+					"number": 19,
+					"id": "da584968-e8a2-49e1-9390-477fa2e4eb84"
+				},
+				{
+					"verse": "El perverso de corazón nunca hallará el bien, Y el que revuelve con su lengua caerá en el mal.",
+					"number": 20,
+					"id": "eb8a8279-630c-408b-ab0e-89b11adc09b4"
+				},
+				{
+					"verse": "El que engendra al insensato, para su tristeza lo engendra; Y el padre del necio no se alegrará.",
+					"number": 21,
+					"id": "f36483e0-02c7-4bd2-9d43-2d07bca1b015"
+				},
+				{
+					"verse": "El corazón alegre constituye buen remedio; Mas el espíritu triste seca los huesos.",
+					"number": 22,
+					"id": "d0e438e6-ef0f-4160-a549-c2beee99c2e9"
+				},
+				{
+					"verse": "El impío toma soborno del seno Para pervertir las sendas de la justicia.",
+					"number": 23,
+					"id": "269c0103-6d41-43ed-bea1-2bdb4ef9baad"
+				},
+				{
+					"verse": "En el rostro del entendido aparece la sabiduría; Mas los ojos del necio vagan hasta el extremo de la tierra.",
+					"number": 24,
+					"id": "bef35b3f-fadd-4503-81aa-03db2fb78df6"
+				},
+				{
+					"verse": "El hijo necio es pesadumbre de su padre, Y amargura a la que lo dio a luz.",
+					"number": 25,
+					"id": "519fceb2-a351-4c12-bfb4-31e373bfe9d3"
+				},
+				{
+					"verse": "Ciertamente no es bueno condenar al justo, Ni herir a los nobles que hacen lo recto.",
+					"number": 26,
+					"id": "073e74b5-c128-4877-aafb-ea2be6d3470a"
+				},
+				{
+					"verse": "El que ahorra sus palabras tiene sabiduría; De espíritu prudente es el hombre entendido.",
+					"number": 27,
+					"id": "6631b316-04ab-447d-8c0b-5904dccd25ed"
+				},
+				{
+					"verse": "Aun el necio, cuando calla, es contado por sabio; El que cierra sus labios es entendido.",
+					"number": 28,
+					"id": "0993869a-d0d6-4b8d-9ede-664f4b8d4797"
+				}
+			]
+		},
+		{
+			"chapter": "18",
+			"vers": [
+				{
+					"verse": "Su deseo busca el que se desvía, Y se entremete en todo negocio.",
+					"number": 1,
+					"id": "d0ebf32c-15ef-4654-aaf7-49cd51484d1f"
+				},
+				{
+					"verse": "No toma placer el necio en la inteligencia, Sino en que su corazón se descubra.",
+					"number": 2,
+					"id": "a2acba87-0dc5-480c-9243-72a087a831a1"
+				},
+				{
+					"verse": "Cuando viene el impío, viene también el menosprecio, Y con el deshonrador la afrenta.",
+					"number": 3,
+					"id": "46720c6d-e845-40d6-96e0-6e084d525701"
+				},
+				{
+					"verse": "Aguas profundas son las palabras de la boca del hombre; Y arroyo que rebosa, la fuente de la sabiduría.",
+					"number": 4,
+					"id": "4647e71f-c431-429f-8366-37b3df7d89ff"
+				},
+				{
+					"verse": "Tener respeto a la persona del impío, Para pervertir el derecho del justo, no es bueno.",
+					"number": 5,
+					"id": "9fd4794a-af01-42e2-8de0-67cf975b09c8"
+				},
+				{
+					"verse": "Los labios del necio traen contienda; Y su boca los azotes llama.",
+					"number": 6,
+					"id": "be43f618-ae2a-4272-bec9-8071466ef1f3"
+				},
+				{
+					"verse": "La boca del necio es quebrantamiento para sí, Y sus labios son lazos para su alma.",
+					"number": 7,
+					"id": "9f405cf6-c616-4ae1-bfbc-73003d8bb83b"
+				},
+				{
+					"verse": "Las palabras del chismoso son como bocados suaves, Y penetran hasta las entrañas.",
+					"number": 8,
+					"id": "48c61f64-be84-44aa-b0f2-d77b85625305"
+				},
+				{
+					"verse": "También el que es negligente en su trabajo Es hermano del hombre disipador.",
+					"number": 9,
+					"id": "3ffe2c91-8901-4f27-8ab2-6c0e66cf9249"
+				},
+				{
+					"verse": "Torre fuerte es el nombre de Jehová; A él correrá el justo, y será levantado.",
+					"number": 10,
+					"id": "84d4d3cb-f1cc-4d95-bc38-36702499972d"
+				},
+				{
+					"verse": "Las riquezas del rico son su ciudad fortificada, Y como un muro alto en su imaginación.",
+					"number": 11,
+					"id": "7f7542f9-2dc7-4ac1-92d7-94deb5a1d209"
+				},
+				{
+					"verse": "Antes del quebrantamiento se eleva el corazón del hombre, Y antes de la honra es el abatimiento.",
+					"number": 12,
+					"id": "86c088c2-e8b8-43f6-8f6f-474d65fc818d"
+				},
+				{
+					"verse": "Al que responde palabra antes de oír, Le es fatuidad y oprobio.",
+					"number": 13,
+					"id": "047230f5-c800-4147-8d49-9151efff3e9a"
+				},
+				{
+					"verse": "El ánimo del hombre soportará su enfermedad; Mas ¿quién sorportará al ánimo angustiado?",
+					"number": 14,
+					"id": "db28de13-0569-455d-9f8f-b62c7980ba09"
+				},
+				{
+					"verse": "El corazón del entendido adquiere sabiduría; Y el oído de los sabios busca la ciencia.",
+					"number": 15,
+					"id": "ee259cc6-3743-48be-aaf8-c5345397bfb9"
+				},
+				{
+					"verse": "La dádiva del hombre le ensancha el camino Y le lleva delante de los grandes.",
+					"number": 16,
+					"id": "9e3ecac8-3bea-4eda-82c8-32f12854778b"
+				},
+				{
+					"verse": "Justo parece el primero que aboga por su causa; Pero viene su adversario, y le descubre.",
+					"number": 17,
+					"id": "10151807-6a61-4ee3-9d96-150ee893e2d5"
+				},
+				{
+					"verse": "La suerte pone fin a los pleitos, Y decide entre los poderosos.",
+					"number": 18,
+					"id": "c19e0958-1395-40b6-bb01-f7a4bec505a5"
+				},
+				{
+					"verse": "El hermano ofendido es más tenaz que una ciudad fuerte, Y las contiendas de los hermanos son como cerrojos de alcázar.",
+					"number": 19,
+					"id": "d74560f4-40fc-4feb-a9f9-2abfea5b3266"
+				},
+				{
+					"verse": "Del fruto de la boca del hombre se llenará su vientre; Se saciará del producto de sus labios.",
+					"number": 20,
+					"id": "787f3e36-e47d-4801-9503-74c401f870e4"
+				},
+				{
+					"verse": "La muerte y la vida están en poder de la lengua, Y el que la ama comerá de sus frutos.",
+					"number": 21,
+					"id": "f8c5310e-3b3d-4e92-85b1-1606c4de65bf"
+				},
+				{
+					"verse": "El que halla esposa halla el bien, Y alcanza la benevolencia de Jehová.",
+					"number": 22,
+					"id": "c16cd60b-73d5-4b6b-8532-26a79e57a3a6"
+				},
+				{
+					"verse": "El pobre habla con ruegos, Mas el rico responde durezas.",
+					"number": 23,
+					"id": "023213ca-5b3d-405f-9393-e974bd9497d9"
+				},
+				{
+					"verse": "El hombre que tiene amigos ha de mostrarse amigo; Y amigo hay más unido que un hermano.",
+					"number": 24,
+					"id": "de02a41c-54ec-49b7-a283-f6e917736e97"
+				}
+			]
+		},
+		{
+			"chapter": "19",
+			"vers": [
+				{
+					"verse": "Mejor es el pobre que camina en integridad, Que el de perversos labios y fatuo.",
+					"number": 1,
+					"id": "0764d0d0-b666-453b-ba8b-7d88676d9800"
+				},
+				{
+					"verse": "El alma sin ciencia no es buena, Y aquel que se apresura con los pies, peca.",
+					"number": 2,
+					"id": "f70c3346-8d10-4aab-830d-d949373dcde1"
+				},
+				{
+					"verse": "La insensatez del hombre tuerce su camino, Y luego contra Jehová se irrita su corazón.",
+					"number": 3,
+					"id": "9c5fc335-4ed1-4c6a-8150-e78a1d1b5dc9"
+				},
+				{
+					"verse": "Las riquezas traen muchos amigos; Mas el pobre es apartado de su amigo.",
+					"number": 4,
+					"id": "34915b23-4255-4fcd-906a-4782c8f64d40"
+				},
+				{
+					"verse": "El testigo falso no quedará sin castigo, Y el que habla mentiras no escapará.",
+					"number": 5,
+					"id": "e64961c3-e8ca-4edf-a2b0-710bd85e668a"
+				},
+				{
+					"verse": "Muchos buscan el favor del generoso, Y cada uno es amigo del hombre que da.",
+					"number": 6,
+					"id": "01af20ac-8b48-4503-b77e-6b47a92f5f25"
+				},
+				{
+					"verse": "Todos los hermanos del pobre le aborrecen; ¡Cuánto más sus amigos se alejarán de él! Buscará la palabra, y no la hallará.",
+					"number": 7,
+					"id": "73c15b8d-73d8-4a55-b9ca-8e5443188fdb"
+				},
+				{
+					"verse": "El que posee entendimiento ama su alma; El que guarda la inteligencia hallará el bien.",
+					"number": 8,
+					"id": "6f2f9de8-0962-4625-bbdb-069e1408c569"
+				},
+				{
+					"verse": "El testigo falso no quedará sin castigo, Y el que habla mentiras perecerá.",
+					"number": 9,
+					"id": "1283eab0-04d9-4edd-bace-99502c1865a0"
+				},
+				{
+					"verse": "No conviene al necio el deleite; ¡Cuánto menos al siervo ser señor de los príncipes!",
+					"number": 10,
+					"id": "89624d4e-f2d7-46cf-ae98-b0b357bed3f9"
+				},
+				{
+					"verse": "La cordura del hombre detiene su furor, Y su honra es pasar por alto la ofensa.",
+					"number": 11,
+					"id": "08eb08ee-901c-43b0-94a1-8affb6f97dc1"
+				},
+				{
+					"verse": "Como rugido de cachorro de león es la ira del rey, Y su favor como el rocío sobre la hierba.",
+					"number": 12,
+					"id": "dafdbacf-2be6-403b-90b3-9d00f102cd07"
+				},
+				{
+					"verse": "Dolor es para su padre el hijo necio, Y gotera continua las contiendas de la mujer.",
+					"number": 13,
+					"id": "17428e2a-834d-4006-b561-1ed96894b749"
+				},
+				{
+					"verse": "La casa y las riquezas son herencia de los padres; Mas de Jehová la mujer prudente.",
+					"number": 14,
+					"id": "c659bce4-75f6-4d18-bf28-fe258a25a08e"
+				},
+				{
+					"verse": "La pereza hace caer en profundo sueño, Y el alma negligente padecerá hambre.",
+					"number": 15,
+					"id": "334876fe-365a-4002-b286-03473cb14161"
+				},
+				{
+					"verse": "El que guarda el mandamiento guarda su alma; Mas el que menosprecia sus caminos morirá.",
+					"number": 16,
+					"id": "3b94b1e8-8546-4e7d-b1cb-4e41b032039d"
+				},
+				{
+					"verse": "A Jehová presta el que da al pobre, Y el bien que ha hecho, se lo volverá a pagar.",
+					"number": 17,
+					"id": "481d9c34-72ac-48a9-8a65-53007f07dd8f"
+				},
+				{
+					"verse": "Castiga a tu hijo en tanto que hay esperanza; Mas no se apresure tu alma para destruirlo.",
+					"number": 18,
+					"id": "3a36de90-5dd7-4b30-a7b4-14071837eb1c"
+				},
+				{
+					"verse": "El de grande ira llevará la pena; Y si usa de violencias, añadirá nuevos males.",
+					"number": 19,
+					"id": "797bbc64-5e30-4ed4-9152-b907581f7cdc"
+				},
+				{
+					"verse": "Escucha el consejo, y recibe la corrección, Para que seas sabio en tu vejez.",
+					"number": 20,
+					"id": "9fc28e0a-9fc6-4e84-bc29-e9ab40597798"
+				},
+				{
+					"verse": "Muchos pensamientos hay en el corazón del hombre; Mas el consejo de Jehová permanecerá.",
+					"number": 21,
+					"id": "ef231166-ea59-4be5-b8ff-4ba38eaa86e1"
+				},
+				{
+					"verse": "Contentamiento es a los hombres hacer misericordia; Pero mejor es el pobre que el mentiroso.",
+					"number": 22,
+					"id": "69d81901-1d59-453e-a876-982dff2fca8d"
+				},
+				{
+					"verse": "El temor de Jehová es para vida, Y con él vivirá lleno de reposo el hombre; No será visitado de mal.",
+					"number": 23,
+					"id": "7704006d-131d-4175-85db-67779aee16f8"
+				},
+				{
+					"verse": "El perezoso mete su mano en el plato, Y ni aun a su boca la llevará.",
+					"number": 24,
+					"id": "608f0ee3-183f-4b58-a981-582c6d75f805"
+				},
+				{
+					"verse": "Hiere al escarnecedor, y el simple se hará avisado; Y corrigiendo al entendido, entenderá ciencia.",
+					"number": 25,
+					"id": "0772fdfd-f06c-49af-865c-10f4829ff3f5"
+				},
+				{
+					"verse": "El que roba a su padre y ahuyenta a su madre, Es hijo que causa vergüenza y acarrea oprobio.",
+					"number": 26,
+					"id": "4fbc9130-3d9f-4cf2-95be-ba8832cb2c82"
+				},
+				{
+					"verse": "Cesa, hijo mío, de oír las enseñanzas Que te hacen divagar de las razones de sabiduría.",
+					"number": 27,
+					"id": "c36b860e-170e-4ca4-be7a-4df6f3b1a15e"
+				},
+				{
+					"verse": "El testigo perverso se burlará del juicio, Y la boca de los impíos encubrirá la iniquidad.",
+					"number": 28,
+					"id": "7a8329fc-2a66-494d-802c-8832d5ebb138"
+				},
+				{
+					"verse": "Preparados están juicios para los escarnecedores, Y azotes para las espaldas de los necios.",
+					"number": 29,
+					"id": "929c10ca-09a3-45ee-8b81-afd9b7abbfb7"
+				}
+			]
+		},
+		{
+			"chapter": "20",
+			"vers": [
+				{
+					"verse": "El vino es escarnecedor, la sidra alborotadora, Y cualquiera que por ellos yerra no es sabio.",
+					"number": 1,
+					"id": "a31caae0-b696-4681-85e7-db21408ef893"
+				},
+				{
+					"verse": "Como rugido de cachorro de león es el terror del rey; El que lo enfurece peca contra sí mismo.",
+					"number": 2,
+					"id": "0f9ac5e7-5754-4bf4-ae60-39c080209be6"
+				},
+				{
+					"verse": "Honra es del hombre dejar la contienda; Mas todo insensato se envolverá en ella.",
+					"number": 3,
+					"id": "aa20d838-248c-4a1f-877b-91433a6ef7e4"
+				},
+				{
+					"verse": "El perezoso no ara a causa del invierno; Pedirá, pues, en la siega, y no hallará.",
+					"number": 4,
+					"id": "0e02f007-626b-4548-b463-5d640e057347"
+				},
+				{
+					"verse": "Como aguas profundas es el consejo en el corazón del hombre; Mas el hombre entendido lo alcanzará.",
+					"number": 5,
+					"id": "fafd4277-a725-4081-93c8-1147a3213ce9"
+				},
+				{
+					"verse": "Muchos hombres proclaman cada uno su propia bondad, Pero hombre de verdad, ¿quién lo hallará?",
+					"number": 6,
+					"id": "980cd629-1c8e-4c72-a267-fc67a2fabef4"
+				},
+				{
+					"verse": "Camina en su integridad el justo; Sus hijos son dichosos después de él.",
+					"number": 7,
+					"id": "b428927d-c0b9-4a39-b0c7-4b8c29f0be9f"
+				},
+				{
+					"verse": "El rey que se sienta en el trono de juicio, Con su mirar disipa todo mal.",
+					"number": 8,
+					"id": "754fe8cb-f09b-4ab7-b82c-406f522dfff2"
+				},
+				{
+					"verse": "¿Quién podrá decir: Yo he limpiado mi corazón, Limpio estoy de mi pecado?",
+					"number": 9,
+					"id": "ccc6477f-cec1-43f7-8d06-bf77e0e081cf"
+				},
+				{
+					"verse": "Pesa falsa y medida falsa, Ambas cosas son abominación a Jehová.",
+					"number": 10,
+					"id": "303dd573-b15c-4d96-86a3-f64f1e67a73e"
+				},
+				{
+					"verse": "Aun el muchacho es conocido por sus hechos, Si su conducta fuere limpia y recta.",
+					"number": 11,
+					"id": "dd5fa62c-528e-4c40-a25b-c3f114bf709c"
+				},
+				{
+					"verse": "El oído que oye, y el ojo que ve, Ambas cosas igualmente ha hecho Jehová.",
+					"number": 12,
+					"id": "4f916327-b155-4a29-949f-1390966ee85b"
+				},
+				{
+					"verse": "No ames el sueño, para que no te empobrezcas; Abre tus ojos, y te saciarás de pan.",
+					"number": 13,
+					"id": "70aeb844-bc9d-44e3-8676-48ac2a5429da"
+				},
+				{
+					"verse": "El que compra dice: Malo es, malo es; Mas cuando se aparta, se alaba.",
+					"number": 14,
+					"id": "e0688559-85a6-4136-ae68-28ce3e327b9c"
+				},
+				{
+					"verse": "Hay oro y multitud de piedras preciosas; Mas los labios prudentes son joya preciosa.",
+					"number": 15,
+					"id": "0f65a6ba-6cec-4f80-9457-efefd2b7c5c0"
+				},
+				{
+					"verse": "Quítale su ropa al que salió por fiador del extraño, Y toma prenda del que sale fiador por los extraños.",
+					"number": 16,
+					"id": "6b10487d-a5a1-4326-823f-0cea2b68504b"
+				},
+				{
+					"verse": "Sabroso es al hombre el pan de mentira; Pero después su boca será llena de cascajo.",
+					"number": 17,
+					"id": "6750c8e5-c2d9-4abb-946f-47e170561e18"
+				},
+				{
+					"verse": "Los pensamientos con el consejo se ordenan; Y con dirección sabia se hace la guerra.",
+					"number": 18,
+					"id": "1cb9bf13-7a12-4787-b8e6-22deb188e7f2"
+				},
+				{
+					"verse": "El que anda en chismes descubre el secreto; No te entremetas, pues, con el suelto de lengua.",
+					"number": 19,
+					"id": "78678383-038a-46b3-85f2-8e16b6379019"
+				},
+				{
+					"verse": "Al que maldice a su padre o a su madre, Se le apagará su lámpara en oscuridad tenebrosa.",
+					"number": 20,
+					"id": "5d80d07c-407c-491a-98c0-df22836e2333"
+				},
+				{
+					"verse": "Los bienes que se adquieren de prisa al principio, No serán al final bendecidos.",
+					"number": 21,
+					"id": "473435f7-0054-44ee-822b-b2a6fd7d7f57"
+				},
+				{
+					"verse": "No digas: Yo me vengaré; Espera a Jehová, y él te salvará.",
+					"number": 22,
+					"id": "057e7ab7-9fb4-4d82-bd0a-f811ca42eb9e"
+				},
+				{
+					"verse": "Abominación son a Jehová las pesas falsas, Y la balanza falsa no es buena.",
+					"number": 23,
+					"id": "2a12a07a-1357-44c1-af22-09a74ba3ffd1"
+				},
+				{
+					"verse": "De Jehová son los pasos del hombre; ¿Cómo, pues, entenderá el hombre su camino?",
+					"number": 24,
+					"id": "71bd9014-159d-4169-9b7b-014c7aa09419"
+				},
+				{
+					"verse": "Lazo es al hombre hacer apresuradamente voto de consagración, Y después de hacerlo, reflexionar.",
+					"number": 25,
+					"id": "f6d14ac4-f236-42dc-b372-d4d2f0c5de7f"
+				},
+				{
+					"verse": "El rey sabio avienta a los impíos, Y sobre ellos hace rodar la rueda.",
+					"number": 26,
+					"id": "1936a3b6-fd6d-47f6-b3ab-b5ea801e5758"
+				},
+				{
+					"verse": "Lámpara de Jehová es el espíritu del hombre, La cual escudriña lo más profundo del corazón.",
+					"number": 27,
+					"id": "5e3e4360-d844-4064-9f8b-d585e77ef377"
+				},
+				{
+					"verse": "Misericordia y verdad guardan al rey, Y con clemencia se sustenta su trono.",
+					"number": 28,
+					"id": "72323359-f4ff-4a3e-b5d5-d039ba49c14e"
+				},
+				{
+					"verse": "La gloria de los jóvenes es su fuerza, Y la hermosura de los ancianos es su vejez.",
+					"number": 29,
+					"id": "450a2df0-f311-40ec-b21c-3dab4dbe29c8"
+				},
+				{
+					"verse": "Los azotes que hieren son medicina para el malo, Y el castigo purifica el corazón.",
+					"number": 30,
+					"id": "7491f62f-100d-4eab-bb27-2ec06196d7e8"
+				}
+			]
+		},
+		{
+			"chapter": "21",
+			"vers": [
+				{
+					"verse": "Como los repartimientos de las aguas, Así está el corazón del rey en la mano de Jehová; A todo lo que quiere lo inclina.",
+					"number": 1,
+					"id": "d0f3f1d1-632e-433a-bc67-248b17d86db4"
+				},
+				{
+					"verse": "Todo camino del hombre es recto en su propia opinión; Pero Jehová pesa los corazones.",
+					"number": 2,
+					"id": "0ea9f097-7645-486e-9ca8-c8a56bb5b84d"
+				},
+				{
+					"verse": "Hacer justicia y juicio es a Jehová Más agradable que sacrificio.",
+					"number": 3,
+					"id": "4496c322-0500-45cb-ad69-03e0d5920605"
+				},
+				{
+					"verse": "Altivez de ojos, y orgullo de corazón, Y pensamiento de impíos, son pecado.",
+					"number": 4,
+					"id": "8c00c1f0-a270-4fd8-8a28-cce1db2b7df8"
+				},
+				{
+					"verse": "Los pensamientos del diligente ciertamente tienden a la abundancia; Mas todo el que se apresura alocadamente, de cierto va a la pobreza.",
+					"number": 5,
+					"id": "cb35526f-924b-4ae9-b7cf-e9597102ba90"
+				},
+				{
+					"verse": "Amontonar tesoros con lengua mentirosa Es aliento fugaz de aquellos que buscan la muerte.",
+					"number": 6,
+					"id": "efe8bd44-d932-4e41-b82b-53b6a332500e"
+				},
+				{
+					"verse": "La rapiña de los impíos los destruirá, Por cuanto no quisieron hacer juicio.",
+					"number": 7,
+					"id": "72fb7d8e-2945-4213-b922-673318d62f3c"
+				},
+				{
+					"verse": "El camino del hombre perverso es torcido y extraño; Mas los hechos del limpio son rectos.",
+					"number": 8,
+					"id": "4b3f8201-0085-47de-836e-e1c3a71b15bc"
+				},
+				{
+					"verse": "Mejor es vivir en un rincón del terrado Que con mujer rencillosa en casa espaciosa.",
+					"number": 9,
+					"id": "3cab3260-b374-4ec6-bdb4-f68ee4051efa"
+				},
+				{
+					"verse": "El alma del impío desea el mal; Su prójimo no halla favor en sus ojos.",
+					"number": 10,
+					"id": "316debc3-c21c-406b-97f0-74258a36aa7e"
+				},
+				{
+					"verse": "Cuando el escarnecedor es castigado, el simple se hace sabio; Y cuando se le amonesta al sabio, aprende ciencia.",
+					"number": 11,
+					"id": "36a06893-5425-4172-8ad6-6ce9c62a3268"
+				},
+				{
+					"verse": "Considera el justo la casa del impío, Cómo los impíos son trastornados por el mal.",
+					"number": 12,
+					"id": "1eed9af5-9dd8-4149-b922-76f98b0a0c55"
+				},
+				{
+					"verse": "El que cierra su oído al clamor del pobre, También él clamará, y no será oído.",
+					"number": 13,
+					"id": "5faeb483-9172-4dbb-b1f2-d3f67e003090"
+				},
+				{
+					"verse": "La dádiva en secreto calma el furor, Y el don en el seno, la fuerte ira.",
+					"number": 14,
+					"id": "d93860f7-a6e2-450b-bb1f-e654ccdd2952"
+				},
+				{
+					"verse": "Alegría es para el justo el hacer juicio; Mas destrucción a los que hacen iniquidad.",
+					"number": 15,
+					"id": "30c6eea1-4cab-4139-8aa9-51364c9adba5"
+				},
+				{
+					"verse": "El hombre que se aparta del camino de la sabiduría Vendrá a parar en la compañía de los muertos.",
+					"number": 16,
+					"id": "2215f217-b13c-4e08-9281-ba537739f19d"
+				},
+				{
+					"verse": "Hombre necesitado será el que ama el deleite, Y el que ama el vino y los ungüentos no se enriquecerá.",
+					"number": 17,
+					"id": "532911bd-0e74-4fde-9f33-a33f24902ad8"
+				},
+				{
+					"verse": "Rescate del justo es el impío, Y por los rectos, el prevaricador.",
+					"number": 18,
+					"id": "dc85c8b8-bdb7-4897-993d-3ba5f9017f27"
+				},
+				{
+					"verse": "Mejor es morar en tierra desierta Que con la mujer rencillosa e iracunda.",
+					"number": 19,
+					"id": "239da721-bfb6-4e94-a604-2caf110cda3b"
+				},
+				{
+					"verse": "Tesoro precioso y aceite hay en la casa del sabio; Mas el hombre insensato todo lo disipa.",
+					"number": 20,
+					"id": "760dd8df-cd8a-44a5-8e44-adfd34c70521"
+				},
+				{
+					"verse": "El que sigue la justicia y la misericordia Hallará la vida, la justicia y la honra.",
+					"number": 21,
+					"id": "128413f8-a547-4c5f-953b-78f6a51c7240"
+				},
+				{
+					"verse": "Tomó el sabio la ciudad de los fuertes, Y derribó la fuerza en que ella confiaba.",
+					"number": 22,
+					"id": "7c615dc6-2b52-463e-bfff-f11f10642dcc"
+				},
+				{
+					"verse": "El que guarda su boca y su lengua, Su alma guarda de angustias.",
+					"number": 23,
+					"id": "660cd2be-34b4-4d55-ad9e-402ae10ecc84"
+				},
+				{
+					"verse": "Escarnecedor es el nombre del soberbio y presuntuoso Que obra en la insolencia de su presunción.",
+					"number": 24,
+					"id": "fc6696ff-aa02-40c2-8b8b-ef0b3d74894f"
+				},
+				{
+					"verse": "El deseo del perezoso le mata, Porque sus manos no quieren trabajar.",
+					"number": 25,
+					"id": "ea1ea187-f5f3-4bf8-8efd-bbb9aa604597"
+				},
+				{
+					"verse": "Hay quien todo el día codicia; Pero el justo da, y no detiene su mano.",
+					"number": 26,
+					"id": "a6320765-8a65-4b18-a1f9-930c74de3faf"
+				},
+				{
+					"verse": "El sacrificio de los impíos es abominación; ¡Cuánto más ofreciéndolo con maldad!",
+					"number": 27,
+					"id": "479c2f7a-9b8b-403d-89f7-b3099aa5f8d7"
+				},
+				{
+					"verse": "El testigo mentiroso perecerá; Mas el hombre que oye, permanecerá en su dicho.",
+					"number": 28,
+					"id": "909e0b33-c29f-46ae-8341-dd928c619ed8"
+				},
+				{
+					"verse": "El hombre impío endurece su rostro; Mas el recto ordena sus caminos.",
+					"number": 29,
+					"id": "5a65cc04-5e4c-49ad-9f54-45eaa3621581"
+				},
+				{
+					"verse": "No hay sabiduría, ni inteligencia, Ni consejo, contra Jehová.",
+					"number": 30,
+					"id": "44d7273c-0d8f-49c8-9b86-fcca884e5223"
+				},
+				{
+					"verse": "El caballo se alista para el día de la batalla; Mas Jehová es el que da la victoria.",
+					"number": 31,
+					"id": "6c208017-5d92-4fef-a908-682dee007394"
+				}
+			]
+		},
+		{
+			"chapter": "22",
+			"vers": [
+				{
+					"verse": "De más estima es el buen nombre que las muchas riquezas, Y la buena fama más que la plata y el oro.",
+					"number": 1,
+					"id": "2d572f4b-dcd6-4b25-8d2e-97c80b1d1791"
+				},
+				{
+					"verse": "El rico y el pobre se encuentran; A ambos los hizo Jehová.",
+					"number": 2,
+					"id": "70ffd117-1ea8-4ccb-baa0-80ab3cdc9df6"
+				},
+				{
+					"verse": "El avisado ve el mal y se esconde; Mas los simples pasan y reciben el daño.",
+					"number": 3,
+					"id": "923e6821-6a13-48c6-8c18-d31b87191bc5"
+				},
+				{
+					"verse": "Riquezas, honra y vida Son la remuneración de la humildad y del temor de Jehová.",
+					"number": 4,
+					"id": "2e815e62-eb2c-419e-a747-5fb9c86de863"
+				},
+				{
+					"verse": "Espinos y lazos hay en el camino del perverso; El que guarda su alma se alejará de ellos.",
+					"number": 5,
+					"id": "51adc9c2-163c-4a7e-b168-957a79bf0774"
+				},
+				{
+					"verse": "Instruye al niño en su camino, Y aun cuando fuere viejo no se apartará de él.",
+					"number": 6,
+					"id": "81ec27d6-fb1b-436c-84ea-6ad0b155d9d4"
+				},
+				{
+					"verse": "El rico se enseñorea de los pobres, Y el que toma prestado es siervo del que presta.",
+					"number": 7,
+					"id": "d00cb54a-c8e6-45c3-8cb2-53a97749a12e"
+				},
+				{
+					"verse": "El que sembrare iniquidad, iniquidad segará, Y la vara de su insolencia se quebrará.",
+					"number": 8,
+					"id": "261ec052-e449-46a6-9400-6ce595efdc89"
+				},
+				{
+					"verse": "El ojo misericordioso será bendito, Porque dio de su pan al indigente.",
+					"number": 9,
+					"id": "9ea30e3f-9540-4fa7-97be-20ac11cdcadc"
+				},
+				{
+					"verse": "Echa fuera al escarnecedor, y saldrá la contienda, Y cesará el pleito y la afrenta.",
+					"number": 10,
+					"id": "1e5fe4d5-4099-4497-a6e7-09ccaa7536cb"
+				},
+				{
+					"verse": "El que ama la limpieza de corazón, Por la gracia de sus labios tendrá la amistad del rey.",
+					"number": 11,
+					"id": "8493912d-7412-4bc1-9ea5-6227a701b598"
+				},
+				{
+					"verse": "Los ojos de Jehová velan por la ciencia; Mas él trastorna las cosas de los prevaricadores.",
+					"number": 12,
+					"id": "8f33e2de-dba3-486a-a1d1-4841910f8972"
+				},
+				{
+					"verse": "Dice el perezoso: El león está fuera; Seré muerto en la calle.",
+					"number": 13,
+					"id": "ae168987-6e61-40f0-9d1a-12d670121d8e"
+				},
+				{
+					"verse": "Fosa profunda es la boca de la mujer extraña; Aquel contra el cual Jehová estuviere airado caerá en ella.",
+					"number": 14,
+					"id": "041cf984-8674-4ad5-a964-9056814fce78"
+				},
+				{
+					"verse": "La necedad está ligada en el corazón del muchacho; Mas la vara de la corrección la alejará de él.",
+					"number": 15,
+					"id": "42281a82-c349-489e-953c-ae2433d6230d"
+				},
+				{
+					"verse": "El que oprime al pobre para aumentar sus ganancias, O que da al rico, ciertamente se empobrecerá. Preceptos y amonestaciones",
+					"number": 16,
+					"id": "5785f85d-eefd-4fde-9cf0-27adbab20951"
+				},
+				{
+					"verse": "Inclina tu oído y oye las palabras de los sabios, Y aplica tu corazón a mi sabiduría;",
+					"number": 17,
+					"study": "Preceptos y amonestaciones",
+					"id": "62905d60-c57f-4aae-aaa3-c0519dec01f7"
+				},
+				{
+					"verse": "Porque es cosa deliciosa, si las guardares dentro de ti; Si juntamente se afirmaren sobre tus labios.",
+					"number": 18,
+					"id": "fa68eca2-bed4-4701-890b-f82f8347e372"
+				},
+				{
+					"verse": "Para que tu confianza sea en Jehová, Te las he hecho saber hoy a ti también.",
+					"number": 19,
+					"id": "083ea906-6719-4ffd-8fae-58f9ad192f86"
+				},
+				{
+					"verse": "¿No te he escrito tres veces En consejos y en ciencia,",
+					"number": 20,
+					"id": "3609b0c9-4940-4b50-bb9c-ef9773c3a3ec"
+				},
+				{
+					"verse": "Para hacerte saber la certidumbre de las palabras de verdad, A fin de que vuelvas a llevar palabras de verdad a los que te enviaron?",
+					"number": 21,
+					"id": "735c073f-befc-4d04-88bd-bc8751ce1d3f"
+				},
+				{
+					"verse": "No robes al pobre, porque es pobre, Ni quebrantes en la puerta al afligido;",
+					"number": 22,
+					"id": "7170f462-6b20-468f-98e0-0518d6878550"
+				},
+				{
+					"verse": "Porque Jehová juzgará la causa de ellos, Y despojará el alma de aquellos que los despojaren.",
+					"number": 23,
+					"id": "b5e16341-42f0-4bb1-a6bc-ddf57e885916"
+				},
+				{
+					"verse": "No te entremetas con el iracundo, Ni te acompañes con el hombre de enojos,",
+					"number": 24,
+					"id": "f0154ca0-8b3a-4e14-8148-0328730341b3"
+				},
+				{
+					"verse": "No sea que aprendas sus maneras, Y tomes lazo para tu alma.",
+					"number": 25,
+					"id": "77d19829-d59f-40fe-843d-a827dbcfb233"
+				},
+				{
+					"verse": "No seas de aquellos que se comprometen, Ni de los que salen por fiadores de deudas.",
+					"number": 26,
+					"id": "a9e07def-1b1b-41d6-9456-6380718f2861"
+				},
+				{
+					"verse": "Si no tuvieres para pagar, ¿Por qué han de quitar tu cama de debajo de ti?",
+					"number": 27,
+					"id": "2fc3e62a-c8a5-4e72-b25e-ba25a438dd46"
+				},
+				{
+					"verse": "No traspases los linderos antiguos Que pusieron tus padres.",
+					"number": 28,
+					"id": "506135a8-4756-47e4-9896-86eeedcf3653"
+				},
+				{
+					"verse": "¿Has visto hombre solícito en su trabajo? Delante de los reyes estará; No estará delante de los de baja condición.",
+					"number": 29,
+					"id": "037203ea-3cc3-46f1-a350-27cd57ce1398"
+				}
+			]
+		},
+		{
+			"chapter": "23",
+			"vers": [
+				{
+					"verse": "Cuando te sientes a comer con algún señor, Considera bien lo que está delante de ti,",
+					"number": 1,
+					"id": "c05d87d4-5407-4f87-bd74-6bff0de19a6a"
+				},
+				{
+					"verse": "Y pon cuchillo a tu garganta, Si tienes gran apetito.",
+					"number": 2,
+					"id": "259abfcf-501f-426d-b924-386818ffbd94"
+				},
+				{
+					"verse": "No codicies sus manjares delicados, Porque es pan engañoso.",
+					"number": 3,
+					"id": "4c9ffa05-bba0-4776-b682-a3c2648ad1e9"
+				},
+				{
+					"verse": "No te afanes por hacerte rico; Sé prudente, y desiste.",
+					"number": 4,
+					"id": "c0b368bd-bf3b-4d41-9b5e-bb870897b23f"
+				},
+				{
+					"verse": "¿Has de poner tus ojos en las riquezas, siendo ningunas? Porque se harán alas Como alas de águila, y volarán al cielo.",
+					"number": 5,
+					"id": "eaa4044e-7666-4775-9380-b1484dfc4b7a"
+				},
+				{
+					"verse": "No comas pan con el avaro, Ni codicies sus manjares;",
+					"number": 6,
+					"id": "d0b13324-0d97-4521-afd7-a88e6d8e3b75"
+				},
+				{
+					"verse": "Porque cual es su pensamiento en su corazón, tal es él. Come y bebe, te dirá; Mas su corazón no está contigo.",
+					"number": 7,
+					"id": "96d59377-4778-4158-913d-87e9c4b6b7d4"
+				},
+				{
+					"verse": "Vomitarás la parte que comiste, Y perderás tus suaves palabras.",
+					"number": 8,
+					"id": "90453050-3616-4fe4-abf0-9c969e7f1128"
+				},
+				{
+					"verse": "No hables a oídos del necio, Porque menospreciará la prudencia de tus razones.",
+					"number": 9,
+					"id": "93e48d94-8631-49b9-a4f0-6b7920dda920"
+				},
+				{
+					"verse": "No traspases el lindero antiguo, Ni entres en la heredad de los huérfanos;",
+					"number": 10,
+					"id": "bc93adc7-ff50-4aa4-90d8-58f5163bf2b7"
+				},
+				{
+					"verse": "Porque el defensor de ellos es el Fuerte, El cual juzgará la causa de ellos contra ti.",
+					"number": 11,
+					"id": "e597d618-a9fa-4e25-9119-6ca653480fb6"
+				},
+				{
+					"verse": "Aplica tu corazón a la enseñanza, Y tus oídos a las palabras de sabiduría.",
+					"number": 12,
+					"id": "f077e5b3-0fc3-45a1-972e-34f05ba146f6"
+				},
+				{
+					"verse": "No rehúses corregir al muchacho; Porque si lo castigas con vara, no morirá.",
+					"number": 13,
+					"id": "4a677bc6-5475-4ab8-a9ab-bd13cc807d5c"
+				},
+				{
+					"verse": "Lo castigarás con vara, Y librarás su alma del Seol.",
+					"number": 14,
+					"id": "902d058d-8350-4797-9e48-c336e327e34e"
+				},
+				{
+					"verse": "Hijo mío, si tu corazón fuere sabio, También a mí se me alegrará el corazón;",
+					"number": 15,
+					"id": "c84ea30c-e532-42e9-9384-4ffc7ece2d34"
+				},
+				{
+					"verse": "Mis entrañas también se alegrarán Cuando tus labios hablaren cosas rectas.",
+					"number": 16,
+					"id": "3b483071-0cb4-487c-a525-b666f8fc6994"
+				},
+				{
+					"verse": "No tenga tu corazón envidia de los pecadores, Antes persevera en el temor de Jehová todo el tiempo;",
+					"number": 17,
+					"id": "b81937c5-6a97-4f86-88ef-ed10bff34811"
+				},
+				{
+					"verse": "Porque ciertamente hay fin, Y tu esperanza no será cortada.",
+					"number": 18,
+					"id": "369c3d3f-35ae-4c3a-bd82-949437ddfb19"
+				},
+				{
+					"verse": "Oye, hijo mío, y sé sabio, Y endereza tu corazón al camino.",
+					"number": 19,
+					"id": "b23488c7-ecb4-4b9d-8847-36b72e85b6b0"
+				},
+				{
+					"verse": "No estés con los bebedores de vino, Ni con los comedores de carne;",
+					"number": 20,
+					"id": "8f1b9985-8b2a-4b07-bea4-05b7a17e5bb1"
+				},
+				{
+					"verse": "Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos.",
+					"number": 21,
+					"id": "16969f1e-e256-41f0-9664-1d09350648fe"
+				},
+				{
+					"verse": "Oye a tu padre, a aquel que te engendró; Y cuando tu madre envejeciere, no la menosprecies.",
+					"number": 22,
+					"id": "bd130e77-47ee-4577-9534-6c6ebed628f2"
+				},
+				{
+					"verse": "Compra la verdad, y no la vendas; La sabiduría, la enseñanza y la inteligencia.",
+					"number": 23,
+					"id": "ca2154c5-a9be-4dd1-926d-55ba8e62ec7d"
+				},
+				{
+					"verse": "Mucho se alegrará el padre del justo, Y el que engendra sabio se gozará con él.",
+					"number": 24,
+					"id": "477ce28c-56bd-4af0-b831-786bf1843fe2"
+				},
+				{
+					"verse": "Alégrense tu padre y tu madre, Y gócese la que te dio a luz.",
+					"number": 25,
+					"id": "ea0d264e-c2ff-43c7-9b55-f08fe452a2cc"
+				},
+				{
+					"verse": "Dame, hijo mío, tu corazón, Y miren tus ojos por mis caminos.",
+					"number": 26,
+					"id": "365cfff1-5919-4159-a8d6-5c09eb835764"
+				},
+				{
+					"verse": "Porque abismo profundo es la ramera, Y pozo angosto la extraña.",
+					"number": 27,
+					"id": "863ca15f-b400-4edd-b63e-c11879a285b2"
+				},
+				{
+					"verse": "También ella, como robador, acecha, Y multiplica entre los hombres los prevaricadores.",
+					"number": 28,
+					"id": "64813526-b6d2-4b5d-93e0-a26e50741b8d"
+				},
+				{
+					"verse": "¿Para quién será el ay? ¿Para quién el dolor? ¿Para quién las rencillas? ¿Para quién las quejas? ¿Para quién las heridas en balde? ¿Para quién lo amoratado de los ojos?",
+					"number": 29,
+					"id": "0444718f-fbf3-45a3-aa08-aa4bdb849ff9"
+				},
+				{
+					"verse": "Para los que se detienen mucho en el vino, Para los que van buscando la mistura.",
+					"number": 30,
+					"id": "2d240e5b-7c43-465d-931a-65604bf03c3a"
+				},
+				{
+					"verse": "No mires al vino cuando rojea, Cuando resplandece su color en la copa. Se entra suavemente;",
+					"number": 31,
+					"id": "f31cbd2b-dfdf-4213-9863-8734b56aa3af"
+				},
+				{
+					"verse": "Mas al fin como serpiente morderá, Y como áspid dará dolor.",
+					"number": 32,
+					"id": "62a73454-b861-4dfd-8d62-166ed9f6f682"
+				},
+				{
+					"verse": "Tus ojos mirarán cosas extrañas, Y tu corazón hablará perversidades.",
+					"number": 33,
+					"id": "c5d61548-d31f-4a85-8aba-36382f7e04de"
+				},
+				{
+					"verse": "Serás como el que yace en medio del mar, O como el que está en la punta de un mastelero.",
+					"number": 34,
+					"id": "336db56f-d110-4f07-9e16-fa435d7e9e8a"
+				},
+				{
+					"verse": "Y dirás: Me hirieron, mas no me dolió; Me azotaron, mas no lo sentí; Cuando despertare, aún lo volveré a buscar.",
+					"number": 35,
+					"id": "aafdf23d-ca8c-46ea-8216-afba43fbb313"
+				}
+			]
+		},
+		{
+			"chapter": "24",
+			"vers": [
+				{
+					"verse": "No tengas envidia de los hombres malos, Ni desees estar con ellos;",
+					"number": 1,
+					"id": "d1722c32-a0c9-41d9-bb41-ca12c607d25c"
+				},
+				{
+					"verse": "Porque su corazón piensa en robar, E iniquidad hablan sus labios.",
+					"number": 2,
+					"id": "c169e076-8a12-4977-82af-7d19da2d70fe"
+				},
+				{
+					"verse": "Con sabiduría se edificará la casa, Y con prudencia se afirmará;",
+					"number": 3,
+					"id": "f71cd05b-3d51-4a89-880f-da1105641a41"
+				},
+				{
+					"verse": "Y con ciencia se llenarán las cámaras De todo bien preciado y agradable.",
+					"number": 4,
+					"id": "07329bbf-aabd-455d-95c9-21cf923cc411"
+				},
+				{
+					"verse": "El hombre sabio es fuerte, Y de pujante vigor el hombre docto.",
+					"number": 5,
+					"id": "c7354cea-9f6b-4ddf-81dc-0d7a9373cdfa"
+				},
+				{
+					"verse": "Porque con ingenio harás la guerra, Y en la multitud de consejeros está la victoria.",
+					"number": 6,
+					"id": "e0a92eaf-cb15-4278-b1c5-5116a292681d"
+				},
+				{
+					"verse": "Alta está para el insensato la sabiduría; En la puerta no abrirá él su boca.",
+					"number": 7,
+					"id": "bb8f1fa7-a6a4-4bf0-b79a-3dc4acf2b44e"
+				},
+				{
+					"verse": "Al que piensa hacer el mal, Le llamarán hombre de malos pensamientos.",
+					"number": 8,
+					"id": "2680e50c-b35f-4a6b-b1db-c21653324e26"
+				},
+				{
+					"verse": "El pensamiento del necio es pecado, Y abominación a los hombres el escarnecedor.",
+					"number": 9,
+					"id": "73b4970c-e82a-414a-8039-613a9a9b770b"
+				},
+				{
+					"verse": "Si fueres flojo en el día de trabajo, Tu fuerza será reducida.",
+					"number": 10,
+					"id": "9cceb285-0262-4647-ab5b-c759d2b00b9e"
+				},
+				{
+					"verse": "Libra a los que son llevados a la muerte; Salva a los que están en peligro de muerte.",
+					"number": 11,
+					"id": "74b87e43-ef84-41ca-abd4-d3c39c3fc932"
+				},
+				{
+					"verse": "Porque si dijeres: Ciertamente no lo supimos, ¿Acaso no lo entenderá el que pesa los corazones? El que mira por tu alma, él lo conocerá, Y dará al hombre según sus obras.",
+					"number": 12,
+					"id": "208e63ae-4dfe-4ed9-942b-2a8b29bb2210"
+				},
+				{
+					"verse": "Come, hijo mío, de la miel, porque es buena, Y el panal es dulce a tu paladar.",
+					"number": 13,
+					"id": "eb213d97-35aa-4a0e-9518-3985fb9be375"
+				},
+				{
+					"verse": "Así será a tu alma el conocimiento de la sabiduría; Si la hallares tendrás recompensa, Y al fin tu esperanza no será cortada.",
+					"number": 14,
+					"id": "95d5e53a-c5df-4101-a3df-1de88f8ec322"
+				},
+				{
+					"verse": "Oh impío, no aceches la tienda del justo, No saquees su cámara;",
+					"number": 15,
+					"id": "e5f06de2-3d16-45f5-83b3-bf5c4584c49e"
+				},
+				{
+					"verse": "Porque siete veces cae el justo, y vuelve a levantarse; Mas los impíos caerán en el mal.",
+					"number": 16,
+					"id": "77113b73-b5a6-4850-8cb2-a53624b93784"
+				},
+				{
+					"verse": "Cuando cayere tu enemigo, no te regocijes, Y cuando tropezare, no se alegre tu corazón;",
+					"number": 17,
+					"id": "d4e9095b-7622-4f6e-ae65-27967bb1ea39"
+				},
+				{
+					"verse": "No sea que Jehová lo mire, y le desagrade, Y aparte de sobre él su enojo.",
+					"number": 18,
+					"id": "a048986c-c958-4480-a4e0-287754710bc1"
+				},
+				{
+					"verse": "No te entremetas con los malignos, Ni tengas envidia de los impíos;",
+					"number": 19,
+					"id": "a2d4e645-e53d-4b53-aedb-0abdd5ca9c2e"
+				},
+				{
+					"verse": "Porque para el malo no habrá buen fin, Y la lámpara de los impíos será apagada.",
+					"number": 20,
+					"id": "ea5b948a-93e5-4209-9094-50beecbf5bb0"
+				},
+				{
+					"verse": "Teme a Jehová, hijo mío, y al rey; No te entremetas con los veleidosos;",
+					"number": 21,
+					"id": "0c4fd7e7-b1b4-417b-9eae-3ccb7843159a"
+				},
+				{
+					"verse": "Porque su quebrantamiento vendrá de repente; Y el quebrantamiento de ambos, ¿quién lo comprende?",
+					"number": 22,
+					"id": "7d8f133f-aab0-4490-bfe8-be495682ce40"
+				},
+				{
+					"verse": "También estos son dichos de los sabios: Hacer acepción de personas en el juicio no es bueno.",
+					"number": 23,
+					"id": "73e6e8b9-701b-4a12-9815-1ea4c81c6f1c"
+				},
+				{
+					"verse": "El que dijere al malo: Justo eres, Los pueblos lo maldecirán, y le detestarán las naciones;",
+					"number": 24,
+					"id": "d54d43b9-c74e-43c0-a8d4-1d5f5bfa52a2"
+				},
+				{
+					"verse": "Mas los que lo reprendieren tendrán felicidad, Y sobre ellos vendrá gran bendición.",
+					"number": 25,
+					"id": "2931ccb9-76a9-487d-b430-f069800b47a9"
+				},
+				{
+					"verse": "Besados serán los labios Del que responde palabras rectas.",
+					"number": 26,
+					"id": "23710905-58de-4edc-99be-8d10599c2fd4"
+				},
+				{
+					"verse": "Prepara tus labores fuera, Y disponlas en tus campos, Y después edificarás tu casa.",
+					"number": 27,
+					"id": "12496c51-d993-4c8c-a1a5-224726b6c72f"
+				},
+				{
+					"verse": "No seas sin causa testigo contra tu prójimo, Y no lisonjees con tus labios.",
+					"number": 28,
+					"id": "e791c453-2015-4c8e-888f-b6cc5f2d3d82"
+				},
+				{
+					"verse": "No digas: Como me hizo, así le haré; Daré el pago al hombre según su obra.",
+					"number": 29,
+					"id": "480c85d1-67d6-449d-82c2-c022946e0743"
+				},
+				{
+					"verse": "Pasé junto al campo del hombre perezoso, Y junto a la viña del hombre falto de entendimiento;",
+					"number": 30,
+					"id": "6f6eb4b2-fb70-4ae6-9f34-b7fc8bb8816a"
+				},
+				{
+					"verse": "Y he aquí que por toda ella habían crecido los espinos, Ortigas habían ya cubierto su faz, Y su cerca de piedra estaba ya destruida.",
+					"number": 31,
+					"id": "9aef4001-7a77-4dda-92e2-5f9c30b07974"
+				},
+				{
+					"verse": "Miré, y lo puse en mi corazón; Lo vi, y tomé consejo.",
+					"number": 32,
+					"id": "00cca4a5-dce9-45df-9119-fe7b46caa116"
+				},
+				{
+					"verse": "Un poco de sueño, cabeceando otro poco, Poniendo mano sobre mano otro poco para dormir;",
+					"number": 33,
+					"id": "930105a8-e0a7-4526-bf7b-56ebda3f80e4"
+				},
+				{
+					"verse": "Así vendrá como caminante tu necesidad, Y tu pobreza como hombre armado.",
+					"number": 34,
+					"id": "96418122-0124-471a-b93f-8a7bb2869407"
+				}
+			]
+		},
+		{
+			"chapter": "25",
+			"vers": [
+				{
+					"verse": "También estos son proverbios de Salomón, los cuales copiaron los varones de Ezequías, rey de Judá:",
+					"number": 1,
+					"study": "Comparaciones y lecciones morales",
+					"id": "291d9de7-fb07-4ea9-9b0b-ccddfd0ac1d4"
+				},
+				{
+					"verse": "Gloria de Dios es encubrir un asunto; Pero honra del rey es escudriñarlo.",
+					"number": 2,
+					"id": "04af671b-3955-42fd-9390-72b8815f6519"
+				},
+				{
+					"verse": "Para la altura de los cielos, y para la profundidad de la tierra, Y para el corazón de los reyes, no hay investigación.",
+					"number": 3,
+					"id": "ec47b9e3-b14f-4429-bca1-a6b47868de2f"
+				},
+				{
+					"verse": "Quita las escorias de la plata, Y saldrá alhaja al fundidor.",
+					"number": 4,
+					"id": "2046c5ce-dfa3-4832-8aa1-1113c88b7537"
+				},
+				{
+					"verse": "Aparta al impío de la presencia del rey, Y su trono se afirmará en justicia.",
+					"number": 5,
+					"id": "fee8106a-87a8-42fb-9a8d-44a1be18bc27"
+				},
+				{
+					"verse": "No te alabes delante del rey, Ni estés en el lugar de los grandes;",
+					"number": 6,
+					"id": "887db23e-a894-402e-b555-bdf91c1cf491"
+				},
+				{
+					"verse": "Porque mejor es que se te diga: Sube acá, Y no que seas humillado delante del príncipe A quien han mirado tus ojos.",
+					"number": 7,
+					"id": "33370fff-3701-4e98-985a-e20add2b62d7"
+				},
+				{
+					"verse": "No entres apresuradamente en pleito, No sea que no sepas qué hacer al fin, Después que tu prójimo te haya avergonzado.",
+					"number": 8,
+					"id": "4f6cc5c7-833e-46f4-b18e-43a51a8fb6e3"
+				},
+				{
+					"verse": "Trata tu causa con tu compañero, Y no descubras el secreto a otro,",
+					"number": 9,
+					"id": "ddc7948c-5965-48f7-8dda-8fb95281aa0e"
+				},
+				{
+					"verse": "No sea que te deshonre el que lo oyere, Y tu infamia no pueda repararse.",
+					"number": 10,
+					"id": "fadc2122-5463-4ca7-b4d4-5a3b6615c0a3"
+				},
+				{
+					"verse": "Manzana de oro con figuras de plata Es la palabra dicha como conviene.",
+					"number": 11,
+					"id": "f92e437e-b36e-426f-8122-7a682b5a86a5"
+				},
+				{
+					"verse": "Como zarcillo de oro y joyel de oro fino Es el que reprende al sabio que tiene oído dócil.",
+					"number": 12,
+					"id": "e9196f30-5ccc-48dc-829a-67d4d71cd70b"
+				},
+				{
+					"verse": "Como frío de nieve en tiempo de la siega, Así es el mensajero fiel a los que lo envían, Pues al alma de su señor da refrigerio.",
+					"number": 13,
+					"id": "09097f07-0677-4574-be02-a43d57a2b542"
+				},
+				{
+					"verse": "Como nubes y vientos sin lluvia, Así es el hombre que se jacta de falsa liberalidad.",
+					"number": 14,
+					"id": "1691c824-c6ae-41bb-af06-52e9859c6144"
+				},
+				{
+					"verse": "Con larga paciencia se aplaca el príncipe, Y la lengua blanda quebranta los huesos.",
+					"number": 15,
+					"id": "c2035a14-f527-4676-a69d-1da3d8899a1f"
+				},
+				{
+					"verse": "¿Hallaste miel? Come lo que te basta, No sea que hastiado de ella la vomites.",
+					"number": 16,
+					"id": "f61fa0eb-ba16-455b-aca6-b2b8099ef824"
+				},
+				{
+					"verse": "Detén tu pie de la casa de tu vecino, No sea que hastiado de ti te aborrezca.",
+					"number": 17,
+					"id": "1473dc97-bde8-4373-b923-32c25df4c290"
+				},
+				{
+					"verse": "Martillo y cuchillo y saeta aguda Es el hombre que habla contra su prójimo falso testimonio.",
+					"number": 18,
+					"id": "de53891b-67d6-40b4-afa5-97b2d0feb9d9"
+				},
+				{
+					"verse": "Como diente roto y pie descoyuntado Es la confianza en el prevaricador en tiempo de angustia.",
+					"number": 19,
+					"id": "7d9e792e-9149-4ccb-be5e-041d32f12f38"
+				},
+				{
+					"verse": "El que canta canciones al corazón afligido Es como el que quita la ropa en tiempo de frío, o el que sobre el jabón echa vinagre.",
+					"number": 20,
+					"id": "29c84c65-01c6-49be-9248-5cee6928d257"
+				},
+				{
+					"verse": "Si el que te aborrece tuviere hambre, dale de comer pan, Y si tuviere sed, dale de beber agua;",
+					"number": 21,
+					"id": "0364828f-69ca-4716-b237-91683793bee1"
+				},
+				{
+					"verse": "Porque ascuas amontonarás sobre su cabeza, Y Jehová te lo pagará.",
+					"number": 22,
+					"id": "969687ee-22e8-4396-9701-377e7c53cf82"
+				},
+				{
+					"verse": "El viento del norte ahuyenta la lluvia, Y el rostro airado la lengua detractora.",
+					"number": 23,
+					"id": "5e2db312-704b-443f-8957-184056a7a9b0"
+				},
+				{
+					"verse": "Mejor es estar en un rincón del terrado, Que con mujer rencillosa en casa espaciosa.",
+					"number": 24,
+					"id": "28306158-e6c2-4682-a1f6-75a5845a0449"
+				},
+				{
+					"verse": "Como el agua fría al alma sedienta, Así son las buenas nuevas de lejanas tierras.",
+					"number": 25,
+					"id": "1400ac8d-614c-4fc0-8ed9-7656bf01e2bf"
+				},
+				{
+					"verse": "Como fuente turbia y manantial corrompido, Es el justo que cae delante del impío.",
+					"number": 26,
+					"id": "e8bbfe52-e592-4163-ab69-f8b1717cbe13"
+				},
+				{
+					"verse": "Comer mucha miel no es bueno, Ni el buscar la propia gloria es gloria.",
+					"number": 27,
+					"id": "5c4c426a-d22c-46f2-88a5-ba0a9a397a91"
+				},
+				{
+					"verse": "Como ciudad derribada y sin muro Es el hombre cuyo espíritu no tiene rienda.",
+					"number": 28,
+					"id": "a6ecedbc-bfc9-46fa-a41c-933248585187"
+				}
+			]
+		},
+		{
+			"chapter": "26",
+			"vers": [
+				{
+					"verse": "Como no conviene la nieve en el verano, ni la lluvia en la siega, Así no conviene al necio la honra.",
+					"number": 1,
+					"id": "ce5416ee-6066-44f9-ade1-dc1f89bebcd5"
+				},
+				{
+					"verse": "Como el gorrión en su vagar, y como la golondrina en su vuelo, Así la maldición nunca vendrá sin causa.",
+					"number": 2,
+					"id": "5de2c101-210d-42c4-ade1-867c273da260"
+				},
+				{
+					"verse": "El látigo para el caballo, el cabestro para el asno, Y la vara para la espalda del necio.",
+					"number": 3,
+					"id": "a8c871ff-cdfe-40c0-a474-3b40d1949d91"
+				},
+				{
+					"verse": "Nunca respondas al necio de acuerdo con su necedad, Para que no seas tú también como él.",
+					"number": 4,
+					"id": "32bac7eb-c2e0-46fb-ae46-41d9672c4a89"
+				},
+				{
+					"verse": "Responde al necio como merece su necedad, Para que no se estime sabio en su propia opinión.",
+					"number": 5,
+					"id": "7cef73a7-3c70-40c4-84c5-1f3ee4e7f865"
+				},
+				{
+					"verse": "Como el que se corta los pies y bebe su daño, Así es el que envía recado por mano de un necio.",
+					"number": 6,
+					"id": "4e0b4bfd-183f-4291-83e1-d39987665c02"
+				},
+				{
+					"verse": "Las piernas del cojo penden inútiles; Así es el proverbio en la boca del necio.",
+					"number": 7,
+					"id": "786527ac-f99b-40f7-9d55-0adf14968e0f"
+				},
+				{
+					"verse": "Como quien liga la piedra en la honda, Así hace el que da honra al necio.",
+					"number": 8,
+					"id": "77a7c721-d00b-4bc9-a494-ecb42ec446f8"
+				},
+				{
+					"verse": "Espinas hincadas en mano del embriagado, Tal es el proverbio en la boca de los necios.",
+					"number": 9,
+					"id": "85ec6290-e007-4a69-80bc-54903adb5fd3"
+				},
+				{
+					"verse": "Como arquero que a todos hiere, Es el que toma a sueldo insensatos y vagabundos.",
+					"number": 10,
+					"id": "5e359abd-2de1-4582-9df4-10fa64c9eb41"
+				},
+				{
+					"verse": "Como perro que vuelve a su vómito, Así es el necio que repite su necedad.",
+					"number": 11,
+					"id": "9780b6f3-bdc5-460c-8c30-b87bc49ba964"
+				},
+				{
+					"verse": "¿Has visto hombre sabio en su propia opinión? Más esperanza hay del necio que de él.",
+					"number": 12,
+					"id": "30724843-dc27-4a6c-bec3-bc8019f85e79"
+				},
+				{
+					"verse": "Dice el perezoso: El león está en el camino; El león está en las calles.",
+					"number": 13,
+					"id": "ec230ec6-c64e-4f83-81ce-964c4bb1b1ef"
+				},
+				{
+					"verse": "Como la puerta gira sobre sus quicios, Así el perezoso se vuelve en su cama.",
+					"number": 14,
+					"id": "f1a8d035-bfa6-4c92-a5bf-4c02fb96290f"
+				},
+				{
+					"verse": "Mete el perezoso su mano en el plato; Se cansa de llevarla a su boca.",
+					"number": 15,
+					"id": "d06fcf00-ff1e-4b2b-869a-64c007e37add"
+				},
+				{
+					"verse": "En su propia opinión el perezoso es más sabio Que siete que sepan aconsejar.",
+					"number": 16,
+					"id": "700dc33b-ce66-4636-a82c-a3fa970670ee"
+				},
+				{
+					"verse": "El que pasando se deja llevar de la ira en pleito ajeno Es como el que toma al perro por las orejas.",
+					"number": 17,
+					"id": "acd51054-943a-47cf-981d-1000a04a2171"
+				},
+				{
+					"verse": "Como el que enloquece, y echa llamas Y saetas y muerte,",
+					"number": 18,
+					"id": "b2a5d5b6-7928-4592-8dcd-00d8085ecc7e"
+				},
+				{
+					"verse": "Tal es el hombre que engaña a su amigo, Y dice: Ciertamente lo hice por broma.",
+					"number": 19,
+					"id": "cd95cc2d-6ebf-481a-8d9d-ea146e100a65"
+				},
+				{
+					"verse": "Sin leña se apaga el fuego, Y donde no hay chismoso, cesa la contienda.",
+					"number": 20,
+					"id": "501e275e-ac65-4590-bef2-9261e04f3a4b"
+				},
+				{
+					"verse": "El carbón para brasas, y la leña para el fuego; Y el hombre rencilloso para encender contienda.",
+					"number": 21,
+					"id": "96562574-cd57-4842-8ef1-8bb65eb1f004"
+				},
+				{
+					"verse": "Las palabras del chismoso son como bocados suaves, Y penetran hasta las entrañas.",
+					"number": 22,
+					"id": "f37ccb98-9de7-4667-9203-0dc3fce7e795"
+				},
+				{
+					"verse": "Como escoria de plata echada sobre el tiesto Son los labios lisonjeros y el corazón malo.",
+					"number": 23,
+					"id": "bd63eed8-2ad5-42d0-800b-7dd8dd70a79c"
+				},
+				{
+					"verse": "El que odia disimula con sus labios; Mas en su interior maquina engaño.",
+					"number": 24,
+					"id": "30e9078b-8db0-4f59-8b3b-2c1138bd9734"
+				},
+				{
+					"verse": "Cuando hablare amigablemente, no le creas; Porque siete abominaciones hay en su corazón.",
+					"number": 25,
+					"id": "11eaef56-6cad-4032-9138-9f999cecdb9e"
+				},
+				{
+					"verse": "Aunque su odio se cubra con disimulo, Su maldad será descubierta en la congregación.",
+					"number": 26,
+					"id": "32a3d4f9-0af1-4632-ba2d-6b50fc865ffe"
+				},
+				{
+					"verse": "El que cava foso caerá en él; Y al que revuelve la piedra, sobre él le volverá.",
+					"number": 27,
+					"id": "4bd7c322-52b2-4f4a-9550-2fee306b2de7"
+				},
+				{
+					"verse": "La lengua falsa atormenta al que ha lastimado, Y la boca lisonjera hace resbalar.",
+					"number": 28,
+					"id": "fb92ae35-da54-4239-a7e7-7d4f204203a4"
+				}
+			]
+		},
+		{
+			"chapter": "27",
+			"vers": [
+				{
+					"verse": "No te jactes del día de mañana; Porque no sabes qué dará de sí el día.",
+					"number": 1,
+					"id": "ecfa1036-5079-4cd2-a673-a6e90b35c54c"
+				},
+				{
+					"verse": "Alábete el extraño, y no tu propia boca; El ajeno, y no los labios tuyos.",
+					"number": 2,
+					"id": "48529ec1-9fbc-4227-9f5a-82a36e0d735e"
+				},
+				{
+					"verse": "Pesada es la piedra, y la arena pesa; Mas la ira del necio es más pesada que ambas.",
+					"number": 3,
+					"id": "acd6b777-ef27-47b1-9e37-86a7aef304a3"
+				},
+				{
+					"verse": "Cruel es la ira, e impetuoso el furor; Mas ¿quién podrá sostenerse delante de la envidia?",
+					"number": 4,
+					"id": "2378f78e-501c-4907-b589-30ef608bb07d"
+				},
+				{
+					"verse": "Mejor es reprensión manifiesta Que amor oculto.",
+					"number": 5,
+					"id": "9d7207f8-0f5c-49e0-a55b-7944df7ee2fe"
+				},
+				{
+					"verse": "Fieles son las heridas del que ama; Pero importunos los besos del que aborrece.",
+					"number": 6,
+					"id": "0d797ead-f241-43ea-9b38-f99cefb64aad"
+				},
+				{
+					"verse": "El hombre saciado desprecia el panal de miel; Pero al hambriento todo lo amargo es dulce.",
+					"number": 7,
+					"id": "694feb40-82e0-4021-8f85-854b6e74da83"
+				},
+				{
+					"verse": "Cual ave que se va de su nido, Tal es el hombre que se va de su lugar.",
+					"number": 8,
+					"id": "6d7da5db-f8d4-4ccb-9205-a5d7cdcf98b0"
+				},
+				{
+					"verse": "El ungüento y el perfume alegran el corazón, Y el cordial consejo del amigo, al hombre.",
+					"number": 9,
+					"id": "4f1a0daf-161e-4bea-b6a1-81a5800ff2cd"
+				},
+				{
+					"verse": "No dejes a tu amigo, ni al amigo de tu padre; Ni vayas a la casa de tu hermano en el día de tu aflicción. Mejor es el vecino cerca que el hermano lejos.",
+					"number": 10,
+					"id": "35ceb48b-a5d5-4709-a830-921e20feeca3"
+				},
+				{
+					"verse": "Sé sabio, hijo mío, y alegra mi corazón, Y tendré qué responder al que me agravie.",
+					"number": 11,
+					"id": "7c7d7856-cb8c-46c5-9878-2b48fbb1fd7f"
+				},
+				{
+					"verse": "El avisado ve el mal y se esconde; Mas los simples pasan y llevan el daño.",
+					"number": 12,
+					"id": "69cf4362-7261-436e-ade4-08f677166241"
+				},
+				{
+					"verse": "Quítale su ropa al que salió fiador por el extraño; Y al que fía a la extraña, tómale prenda.",
+					"number": 13,
+					"id": "6e1279e1-7290-44cf-9fa8-a453fef379b6"
+				},
+				{
+					"verse": "El que bendice a su amigo en alta voz, madrugando de mañana, Por maldición se le contará.",
+					"number": 14,
+					"id": "51a5b2ed-697d-47f9-a31c-e3e5eb679874"
+				},
+				{
+					"verse": "Gotera continua en tiempo de lluvia Y la mujer rencillosa, son semejantes;",
+					"number": 15,
+					"id": "194deda5-65db-4d64-a4e9-2d1b44411f5f"
+				},
+				{
+					"verse": "Pretender contenerla es como refrenar el viento, O sujetar el aceite en la mano derecha.",
+					"number": 16,
+					"id": "05e49fac-3069-4357-8d41-af6d8a823a55"
+				},
+				{
+					"verse": "Hierro con hierro se aguza; Y así el hombre aguza el rostro de su amigo.",
+					"number": 17,
+					"id": "e7fdd5dc-3021-4150-93b4-f76b04b5b8ff"
+				},
+				{
+					"verse": "Quien cuida la higuera comerá su fruto, Y el que mira por los intereses de su señor, tendrá honra.",
+					"number": 18,
+					"id": "f329f5d6-da25-4f09-949f-66f25c988e61"
+				},
+				{
+					"verse": "Como en el agua el rostro corresponde al rostro, Así el corazón del hombre al del hombre.",
+					"number": 19,
+					"id": "e7d03409-5707-4742-827c-d1b76b1142a8"
+				},
+				{
+					"verse": "El Seol y el Abadón nunca se sacian; Así los ojos del hombre nunca están satisfechos.",
+					"number": 20,
+					"id": "e2ba3bab-28fe-49f1-b01c-d99eb6761af0"
+				},
+				{
+					"verse": "El crisol prueba la plata, y la hornaza el oro, Y al hombre la boca del que lo alaba.",
+					"number": 21,
+					"id": "67144f32-251f-4ef2-9e78-1f5e01d69049"
+				},
+				{
+					"verse": "Aunque majes al necio en un mortero entre granos de trigo majados con el pisón, No se apartará de él su necedad.",
+					"number": 22,
+					"id": "60b7cd42-531d-4dac-ace0-3c49c9fe604c"
+				},
+				{
+					"verse": "Sé diligente en conocer el estado de tus ovejas, Y mira con cuidado por tus rebaños;",
+					"number": 23,
+					"id": "25a79ab1-eb42-403f-a99d-cb47b5e055fb"
+				},
+				{
+					"verse": "Porque las riquezas no duran para siempre; ¿Y será la corona para perpetuas generaciones?",
+					"number": 24,
+					"id": "eb16b138-74d9-4f05-a417-b9a24a855cda"
+				},
+				{
+					"verse": "Saldrá la grama, aparecerá la hierba, Y se segarán las hierbas de los montes.",
+					"number": 25,
+					"id": "728daed1-8df9-4d03-8f9c-5972a0310fb2"
+				},
+				{
+					"verse": "Los corderos son para tus vestidos, Y los cabritos para el precio del campo;",
+					"number": 26,
+					"id": "7021a62d-0436-45e3-9ba1-c52b55a6f32a"
+				},
+				{
+					"verse": "Y abundancia de leche de las cabras para tu mantenimiento, para mantenimiento de tu casa, Y para sustento de tus criadas.",
+					"number": 27,
+					"id": "78d136ae-a070-4a45-8961-f72f3ef24fe5"
+				}
+			]
+		},
+		{
+			"chapter": "28",
+			"vers": [
+				{
+					"verse": "Huye el impío sin que nadie lo persiga; Mas el justo está confiado como un león.",
+					"number": 1,
+					"id": "503a7061-19b2-425a-8fcf-a0b02c66cf04"
+				},
+				{
+					"verse": "Por la rebelión de la tierra sus príncipes son muchos; Mas por el hombre entendido y sabio permanece estable.",
+					"number": 2,
+					"id": "94e658de-d845-4619-a186-f7ec02f7b67e"
+				},
+				{
+					"verse": "El hombre pobre y robador de los pobres Es como lluvia torrencial que deja sin pan.",
+					"number": 3,
+					"id": "47bb842f-7029-49b5-b927-a03b40503f60"
+				},
+				{
+					"verse": "Los que dejan la ley alaban a los impíos; Mas los que la guardan contenderán con ellos.",
+					"number": 4,
+					"id": "8f69039f-4f3b-4a80-b40a-b0cc4bb33c8c"
+				},
+				{
+					"verse": "Los hombres malos no entienden el juicio; Mas los que buscan a Jehová entienden todas las cosas.",
+					"number": 5,
+					"id": "42b41f15-4e77-4786-8c01-addeb7d861e6"
+				},
+				{
+					"verse": "Mejor es el pobre que camina en su integridad, Que el de perversos caminos y rico.",
+					"number": 6,
+					"id": "1b40c1df-5fdc-47fa-aede-14f3611c450d"
+				},
+				{
+					"verse": "El que guarda la ley es hijo prudente; Mas el que es compañero de glotones avergüenza a su padre.",
+					"number": 7,
+					"id": "e598267e-53bc-42fe-9376-987ed56dea46"
+				},
+				{
+					"verse": "El que aumenta sus riquezas con usura y crecido interés, Para aquel que se compadece de los pobres las aumenta.",
+					"number": 8,
+					"id": "379ceb34-a276-4548-9bfb-4ae610397cb0"
+				},
+				{
+					"verse": "El que aparta su oído para no oír la ley, Su oración también es abominable.",
+					"number": 9,
+					"id": "1ea65b0d-89af-4696-9ea9-86a8ca5cebf0"
+				},
+				{
+					"verse": "El que hace errar a los rectos por el mal camino, El caerá en su misma fosa; Mas los perfectos heredarán el bien.",
+					"number": 10,
+					"id": "93fae244-b22f-490d-a7e6-2873369f73e8"
+				},
+				{
+					"verse": "El hombre rico es sabio en su propia opinión; Mas el pobre entendido lo escudriña.",
+					"number": 11,
+					"id": "2425544a-e5ab-4e96-933d-6fe525e427e1"
+				},
+				{
+					"verse": "Cuando los justos se alegran, grande es la gloria; Mas cuando se levantan los impíos, tienen que esconderse los hombres.",
+					"number": 12,
+					"id": "bc4c1b9a-3635-4930-8a5e-66aad36cda40"
+				},
+				{
+					"verse": "El que encubre sus pecados no prosperará; Mas el que los confiesa y se aparta alcanzará misericordia.",
+					"number": 13,
+					"id": "407f24aa-120a-45bf-8844-02697c3df2b1"
+				},
+				{
+					"verse": "Bienaventurado el hombre que siempre teme a Dios; Mas el que endurece su corazón caerá en el mal.",
+					"number": 14,
+					"id": "8230be78-6d02-4244-bee3-4b277923d633"
+				},
+				{
+					"verse": "León rugiente y oso hambriento Es el príncipe impío sobre el pueblo pobre.",
+					"number": 15,
+					"id": "151a3519-4b0f-4e97-a2de-704cbbe8462f"
+				},
+				{
+					"verse": "El príncipe falto de entendimiento multiplicará la extorsión; Mas el que aborrece la avaricia prolongará sus días.",
+					"number": 16,
+					"id": "a72d8858-dacb-44cd-88ff-c759034d621b"
+				},
+				{
+					"verse": "El hombre cargado de la sangre de alguno Huirá hasta el sepulcro, y nadie le detendrá.",
+					"number": 17,
+					"id": "9dcafd2c-b6bb-4fd6-9715-5175f541a5de"
+				},
+				{
+					"verse": "El que en integridad camina será salvo; Mas el de perversos caminos caerá en alguno.",
+					"number": 18,
+					"id": "c33af7e5-4565-4763-a866-ca3c704cd8a6"
+				},
+				{
+					"verse": "El que labra su tierra se saciará de pan; Mas el que sigue a los ociosos se llenará de pobreza.",
+					"number": 19,
+					"id": "5e663549-c9dc-4167-98d3-a73d8f87a197"
+				},
+				{
+					"verse": "El hombre de verdad tendrá muchas bendiciones; Mas el que se apresura a enriquecerse no será sin culpa.",
+					"number": 20,
+					"id": "c756fcc0-92d8-4f23-8b92-57335c4fbb74"
+				},
+				{
+					"verse": "Hacer acepción de personas no es bueno; Hasta por un bocado de pan prevaricará el hombre.",
+					"number": 21,
+					"id": "92752505-f5d7-46f7-9c28-5146d4f4d5dd"
+				},
+				{
+					"verse": "Se apresura a ser rico el avaro, Y no sabe que le ha de venir pobreza.",
+					"number": 22,
+					"id": "7f5aa240-3bc9-4ec2-8dd8-acf37331d8ee"
+				},
+				{
+					"verse": "El que reprende al hombre, hallará después mayor gracia Que el que lisonjea con la lengua.",
+					"number": 23,
+					"id": "c7d836cc-2f2d-4bf4-959a-5c28a68082b5"
+				},
+				{
+					"verse": "El que roba a su padre o a su madre, y dice que no es maldad, Compañero es del hombre destruidor.",
+					"number": 24,
+					"id": "a0f33aa6-c259-4051-bb35-c9ebcc132b05"
+				},
+				{
+					"verse": "El altivo de ánimo suscita contiendas; Mas el que confía en Jehová prosperará.",
+					"number": 25,
+					"id": "e65347c1-2d05-40cf-99fb-1a01e633d64c"
+				},
+				{
+					"verse": "El que confía en su propio corazón es necio; Mas el que camina en sabiduría será librado.",
+					"number": 26,
+					"id": "f97b350c-fca5-4e6b-8b1b-63209eb54ae2"
+				},
+				{
+					"verse": "El que da al pobre no tendrá pobreza; Mas el que aparta sus ojos tendrá muchas maldiciones.",
+					"number": 27,
+					"id": "ae301ca8-888d-4acd-8f62-1c0dd204bc3c"
+				},
+				{
+					"verse": "Cuando los impíos son levantados se esconde el hombre; Mas cuando perecen, los justos se multiplican.",
+					"number": 28,
+					"id": "0ce41e49-d6a5-4473-9580-28f2638a081f"
+				}
+			]
+		},
+		{
+			"chapter": "29",
+			"vers": [
+				{
+					"verse": "El hombre que reprendido endurece la cerviz, De repente será quebrantado, y no habrá para él medicina.",
+					"number": 1,
+					"id": "e31797c3-b579-4f20-9ad4-9fa8bd481edc"
+				},
+				{
+					"verse": "Cuando los justos dominan, el pueblo se alegra; Mas cuando domina el impío, el pueblo gime.",
+					"number": 2,
+					"id": "04821c28-a8e7-484d-8ac5-02ffb1a78ad8"
+				},
+				{
+					"verse": "El hombre que ama la sabiduría alegra a su padre; Mas el que frecuenta rameras perderá los bienes.",
+					"number": 3,
+					"id": "e5c3acf0-49f5-4f59-878e-64b56eb47cef"
+				},
+				{
+					"verse": "El rey con el juicio afirma la tierra; Mas el que exige presentes la destruye.",
+					"number": 4,
+					"id": "5011fc40-f27a-4efc-8e7e-f3ce5d7f5231"
+				},
+				{
+					"verse": "El hombre que lisonjea a su prójimo, Red tiende delante de sus pasos.",
+					"number": 5,
+					"id": "7d25d892-9217-42b5-9ee4-d71ed907cc9c"
+				},
+				{
+					"verse": "En la transgresión del hombre malo hay lazo; Mas el justo cantará y se alegrará.",
+					"number": 6,
+					"id": "7009d88f-26aa-4af1-a933-8e7afe6b35fb"
+				},
+				{
+					"verse": "Conoce el justo la causa de los pobres; Mas el impío no entiende sabiduría.",
+					"number": 7,
+					"id": "b9116988-64e9-4d70-9f4c-370571f100d5"
+				},
+				{
+					"verse": "Los hombres escarnecedores ponen la ciudad en llamas; Mas los sabios apartan la ira.",
+					"number": 8,
+					"id": "92d975a5-cb2b-4271-9525-c052f571c0dc"
+				},
+				{
+					"verse": "Si el hombre sabio contendiere con el necio, Que se enoje o que se ría, no tendrá reposo.",
+					"number": 9,
+					"id": "de39a548-e0dd-4ec3-83a7-5713a48834d6"
+				},
+				{
+					"verse": "Los hombres sanguinarios aborrecen al perfecto, Mas los rectos buscan su contentamiento.",
+					"number": 10,
+					"id": "0f3b8363-95db-4b35-855f-8e17411c0b34"
+				},
+				{
+					"verse": "El necio da rienda suelta a toda su ira, Mas el sabio al fin la sosiega.",
+					"number": 11,
+					"id": "a065476e-25e2-4062-9799-ed52d374d223"
+				},
+				{
+					"verse": "Si un gobernante atiende la palabra mentirosa, Todos sus servidores serán impíos.",
+					"number": 12,
+					"id": "24c98a41-510a-40b2-b49d-c71dbb7a4fcb"
+				},
+				{
+					"verse": "El pobre y el usurero se encuentran; Jehová alumbra los ojos de ambos.",
+					"number": 13,
+					"id": "e2b227e3-1361-4fd1-963f-984344f2941d"
+				},
+				{
+					"verse": "Del rey que juzga con verdad a los pobres, El trono será firme para siempre.",
+					"number": 14,
+					"id": "06f589a7-66d3-4574-944b-67870c4af867"
+				},
+				{
+					"verse": "La vara y la corrección dan sabiduría; Mas el muchacho consentido avergonzará a su madre.",
+					"number": 15,
+					"id": "3e274cd6-2a32-42e1-ac4a-bb3f3ff594be"
+				},
+				{
+					"verse": "Cuando los impíos son muchos, mucha es la transgresión; Mas los justos verán la ruina de ellos.",
+					"number": 16,
+					"id": "b070e2d3-06da-496c-bb74-a40a5fef6356"
+				},
+				{
+					"verse": "Corrige a tu hijo, y te dará descanso, Y dará alegría a tu alma.",
+					"number": 17,
+					"id": "af9d5395-d3bd-4dd8-8bf1-0f00f0b87609"
+				},
+				{
+					"verse": "Sin profecía el pueblo se desenfrena; Mas el que guarda la ley es bienaventurado.",
+					"number": 18,
+					"id": "a4f03275-2545-4563-ad1f-881e045e4fc8"
+				},
+				{
+					"verse": "El siervo no se corrige con palabras; Porque entiende, mas no hace caso.",
+					"number": 19,
+					"id": "819a2ed0-7e99-4d45-b23a-1de334d0b8a0"
+				},
+				{
+					"verse": "¿Has visto hombre ligero en sus palabras? Más esperanza hay del necio que de él.",
+					"number": 20,
+					"id": "7eac0528-9c72-40ea-a0bb-a965936ac983"
+				},
+				{
+					"verse": "El siervo mimado desde la niñez por su amo, A la postre será su heredero.",
+					"number": 21,
+					"id": "35c8a915-093a-4766-9f82-556ec1105c90"
+				},
+				{
+					"verse": "El hombre iracundo levanta contiendas, Y el furioso muchas veces peca.",
+					"number": 22,
+					"id": "60a5662b-640f-4045-a038-aed2cc0c4677"
+				},
+				{
+					"verse": "La soberbia del hombre le abate; Pero al humilde de espíritu sustenta la honra.",
+					"number": 23,
+					"id": "2adfb6d6-5744-4bdf-bb0e-16ad1badd513"
+				},
+				{
+					"verse": "El cómplice del ladrón aborrece su propia alma; Pues oye la imprecación y no dice nada.",
+					"number": 24,
+					"id": "2a9b1aeb-c893-41c9-b0cd-0160a02287f3"
+				},
+				{
+					"verse": "El temor del hombre pondrá lazo; Mas el que confía en Jehová será exaltado.",
+					"number": 25,
+					"id": "d79766ce-3cfa-49ad-9977-3766cdbe7d70"
+				},
+				{
+					"verse": "Muchos buscan el favor del príncipe; Mas de Jehová viene el juicio de cada uno.",
+					"number": 26,
+					"id": "05e2a9b4-8bc4-4bd7-8cc0-4c54b593a8b2"
+				},
+				{
+					"verse": "Abominación es a los justos el hombre inicuo; Y abominación es al impío el de caminos rectos.",
+					"number": 27,
+					"id": "350da2b7-a9c2-4e39-89c6-69bf0051e891"
+				}
+			]
+		},
+		{
+			"chapter": "30",
+			"vers": [
+				{
+					"verse": "Palabras de Agur, hijo de Jaqué; la profecía que dijo el varón a Itiel, a Itiel y a Ucal.",
+					"number": 1,
+					"study": "Las palabras de Agur",
+					"id": "9ec3500a-3c39-44c6-887e-aed167dd7b13"
+				},
+				{
+					"verse": "Ciertamente más rudo soy yo que ninguno, Ni tengo entendimiento de hombre.",
+					"number": 2,
+					"id": "2d02a5bb-d8d4-49b2-bb31-665193896417"
+				},
+				{
+					"verse": "Yo ni aprendí sabiduría, Ni conozco la ciencia del Santo.",
+					"number": 3,
+					"id": "7d2abf79-273b-47b2-a9e9-23e90af08a87"
+				},
+				{
+					"verse": "¿Quién subió al cielo, y descendió? ¿Quién encerró los vientos en sus puños? ¿Quién ató las aguas en un paño? ¿Quién afirmó todos los términos de la tierra? ¿Cuál es su nombre, y el nombre de su hijo, si sabes?",
+					"number": 4,
+					"id": "e2627114-7936-4aa9-866b-344833da58d8"
+				},
+				{
+					"verse": "Toda palabra de Dios es limpia; El es escudo a los que en él esperan.",
+					"number": 5,
+					"id": "64b6e3c7-cf15-41e3-aee7-dd1edd2ba43a"
+				},
+				{
+					"verse": "No añadas a sus palabras, para que no te reprenda, Y seas hallado mentiroso.",
+					"number": 6,
+					"id": "ada1217c-6943-42fb-a8c0-0ecb61a82376"
+				},
+				{
+					"verse": "Dos cosas te he demandado; No me las niegues antes que muera:",
+					"number": 7,
+					"id": "1cf408af-172f-41ec-8ae3-65ff8441647f"
+				},
+				{
+					"verse": "Vanidad y palabra mentirosa aparta de mí; No me des pobreza ni riquezas; Manténme del pan necesario;",
+					"number": 8,
+					"id": "6da962ca-52df-490e-b49b-23be798a7a8c"
+				},
+				{
+					"verse": "No sea que me sacie, y te niegue, y diga: ¿Quién es Jehová? O que siendo pobre, hurte, Y blasfeme el nombre de mi Dios.",
+					"number": 9,
+					"id": "0df2a50d-ce44-49a5-b60a-a9aa4363b3fc"
+				},
+				{
+					"verse": "No acuses al siervo ante su señor, No sea que te maldiga, y lleves el castigo.",
+					"number": 10,
+					"id": "ad9cc877-9f43-459a-aba2-903c523dacf4"
+				},
+				{
+					"verse": "Hay generación que maldice a su padre Y a su madre no bendice.",
+					"number": 11,
+					"id": "bf62058f-a758-461c-92cb-39e2661dab64"
+				},
+				{
+					"verse": "Hay generación limpia en su propia opinión, Si bien no se ha limpiado de su inmundicia.",
+					"number": 12,
+					"id": "1db63c51-d810-4a92-95f7-2bd9bda78241"
+				},
+				{
+					"verse": "Hay generación cuyos ojos son altivos Y cuyos párpados están levantados en alto.",
+					"number": 13,
+					"id": "927d0375-cec9-41e1-b1d5-08b0f654116c"
+				},
+				{
+					"verse": "Hay generación cuyos dientes son espadas, y sus muelas cuchillos, Para devorar a los pobres de la tierra, y a los menesterosos de entre los hombres.",
+					"number": 14,
+					"id": "310d34d4-2a25-4c2c-990a-b2d2df9f4b79"
+				},
+				{
+					"verse": "La sanguijuela tiene dos hijas que dicen: ¡Dame! ¡dame! Tres cosas hay que nunca se sacian; Aun la cuarta nunca dice: ¡Basta!",
+					"number": 15,
+					"id": "4707af8b-d60e-4755-8746-5482de38bbe9"
+				},
+				{
+					"verse": "El Seol, la matriz estéril, La tierra que no se sacia de aguas, Y el fuego que jamás dice: ¡Basta!",
+					"number": 16,
+					"id": "293fb81c-492d-4811-9c72-9c25f2260bbc"
+				},
+				{
+					"verse": "El ojo que escarnece a su padre Y menosprecia la enseñanza de la madre, Los cuervos de la cañada lo saquen, Y lo devoren los hijos del águila.",
+					"number": 17,
+					"id": "63a09d83-f281-4d53-9fc2-2dbcfb88b698"
+				},
+				{
+					"verse": "Tres cosas me son ocultas; Aun tampoco sé la cuarta:",
+					"number": 18,
+					"id": "5e91718b-5962-4ebf-bf23-79bfbae75bbd"
+				},
+				{
+					"verse": "El rastro del águila en el aire; El rastro de la culebra sobre la peña; El rastro de la nave en medio del mar; Y el rastro del hombre en la doncella.",
+					"number": 19,
+					"id": "968d54fe-f1d7-469f-a09e-5ef209b43a49"
+				},
+				{
+					"verse": "El proceder de la mujer adúltera es así: Come, y limpia su boca Y dice: No he hecho maldad.",
+					"number": 20,
+					"id": "2a75b09c-ea1d-4ea7-a652-7dc52083ec96"
+				},
+				{
+					"verse": "Por tres cosas se alborota la tierra, Y la cuarta ella no puede sufrir:",
+					"number": 21,
+					"id": "fa74868f-129f-4d41-8439-f5ea9f820f72"
+				},
+				{
+					"verse": "Por el siervo cuando reina; Por el necio cuando se sacia de pan;",
+					"number": 22,
+					"id": "0fc11e3f-e4de-423d-ab66-86e01c6c46e7"
+				},
+				{
+					"verse": "Por la mujer odiada cuando se casa; Y por la sierva cuando hereda a su señora.",
+					"number": 23,
+					"id": "3697e2e6-466f-4b4d-8efd-1e85696d05cf"
+				},
+				{
+					"verse": "Cuatro cosas son de las más pequeñas de la tierra, Y las mismas son más sabias que los sabios:",
+					"number": 24,
+					"id": "3d9a4e70-a709-4b04-a614-f059b6122f8e"
+				},
+				{
+					"verse": "Las hormigas, pueblo no fuerte, Y en el verano preparan su comida;",
+					"number": 25,
+					"id": "ced97940-913d-4d92-aac6-f634c3770568"
+				},
+				{
+					"verse": "Los conejos, pueblo nada esforzado, Y ponen su casa en la piedra;",
+					"number": 26,
+					"id": "bd099316-5a54-4880-9067-83371dd0f0d1"
+				},
+				{
+					"verse": "Las langostas, que no tienen rey, Y salen todas por cuadrillas;",
+					"number": 27,
+					"id": "e07319fb-fd89-4c89-87ea-51ae550f81f2"
+				},
+				{
+					"verse": "La araña que atrapas con la mano, Y está en palacios de rey.",
+					"number": 28,
+					"id": "a3da1444-f5af-44bc-afe2-48a41dc3370d"
+				},
+				{
+					"verse": "Tres cosas hay de hermoso andar, Y la cuarta pasea muy bien:",
+					"number": 29,
+					"id": "a40f906a-6956-4e98-b3f7-00ca9272a3fb"
+				},
+				{
+					"verse": "El león, fuerte entre todos los animales, Que no vuelve atrás por nada;",
+					"number": 30,
+					"id": "7d4aa196-f827-4600-8250-5bd38c8ffda0"
+				},
+				{
+					"verse": "El ceñido de lomos; asimismo el macho cabrío; Y el rey, a quien nadie resiste.",
+					"number": 31,
+					"id": "746085a7-359f-462f-b6df-2f6cb8617e45"
+				},
+				{
+					"verse": "Si neciamente has procurado enaltecerte, O si has pensado hacer mal, Pon el dedo sobre tu boca.",
+					"number": 32,
+					"id": "4bd3c181-9faf-458a-8412-6f74d07515d7"
+				},
+				{
+					"verse": "Ciertamente el que bate la leche sacará mantequilla, Y el que recio se suena las narices sacará sangre; Y el que provoca la ira causará contienda.",
+					"number": 33,
+					"id": "0659f01f-0b7d-4ce9-8948-30e53aca58a3"
+				}
+			]
+		},
+		{
+			"chapter": "31",
+			"vers": [
+				{
+					"verse": "Palabras del rey Lemuel; la profecía con que le enseñó su madre.",
+					"number": 1,
+					"study": "Exhortación a un rey",
+					"id": "4771cc34-ce5a-4401-96e9-b27d55ff8b7e"
+				},
+				{
+					"verse": "¿Qué, hijo mío? ¿y qué, hijo de mi vientre? ¿Y qué, hijo de mis deseos?",
+					"number": 2,
+					"id": "07b9af21-b440-48d9-94ce-e8f2e4c2eca9"
+				},
+				{
+					"verse": "No des a las mujeres tu fuerza, Ni tus caminos a lo que destruye a los reyes.",
+					"number": 3,
+					"id": "8985324c-d8b3-44e6-9425-049a6bc7c91d"
+				},
+				{
+					"verse": "No es de los reyes, oh Lemuel, no es de los reyes beber vino, Ni de los príncipes la sidra;",
+					"number": 4,
+					"id": "e1667907-02ce-4317-8b39-60c177a8e1b0"
+				},
+				{
+					"verse": "No sea que bebiendo olviden la ley, Y perviertan el derecho de todos los afligidos.",
+					"number": 5,
+					"id": "47e19a54-124e-4b75-99d9-931fd664f686"
+				},
+				{
+					"verse": "Dad la sidra al desfallecido, Y el vino a los de amargado ánimo.",
+					"number": 6,
+					"id": "96d4e951-c42e-4159-8489-b97ea0eaaa81"
+				},
+				{
+					"verse": "Beban, y olvídense de su necesidad, Y de su miseria no se acuerden más.",
+					"number": 7,
+					"id": "f3fa55ce-f33e-4a6d-b5c6-25b90cff2699"
+				},
+				{
+					"verse": "Abre tu boca por el mudo En el juicio de todos los desvalidos.",
+					"number": 8,
+					"id": "9a0a8429-38aa-433f-8abf-b475c3835662"
+				},
+				{
+					"verse": "Abre tu boca, juzga con justicia, Y defiende la causa del pobre y del menesteroso. Elogio de la mujer virtuosa",
+					"number": 9,
+					"id": "630706dd-6262-4d54-82f8-180ceea85c7c"
+				},
+				{
+					"verse": "Mujer virtuosa, ¿quién la hallará? Porque su estima sobrepasa largamente a la de las piedras preciosas.",
+					"number": 10,
+					"study": "Elogio de la mujer virtuosa",
+					"id": "7d3a2400-e094-4932-bc6c-235e993f35d2"
+				},
+				{
+					"verse": "El corazón de su marido está en ella confiado, Y no carecerá de ganancias.",
+					"number": 11,
+					"id": "0e465509-b483-41ad-a04d-9cf675601542"
+				},
+				{
+					"verse": "Le da ella bien y no mal Todos los días de su vida.",
+					"number": 12,
+					"id": "15464233-22e5-451f-9862-487840a0d3d7"
+				},
+				{
+					"verse": "Busca lana y lino, Y con voluntad trabaja con sus manos.",
+					"number": 13,
+					"id": "46de5281-a8e7-4559-bf21-8464c4d446a0"
+				},
+				{
+					"verse": "Es como nave de mercader; Trae su pan de lejos.",
+					"number": 14,
+					"id": "2e149066-f01e-4c8a-bbaa-1d688b135369"
+				},
+				{
+					"verse": "Se levanta aun de noche Y da comida a su familia Y ración a sus criadas.",
+					"number": 15,
+					"id": "ced2e425-011c-4e17-a153-976fc843692b"
+				},
+				{
+					"verse": "Considera la heredad, y la compra, Y planta viña del fruto de sus manos.",
+					"number": 16,
+					"id": "06a2ddc9-07cc-45b2-8a8e-c3af6a9b0a9b"
+				},
+				{
+					"verse": "Ciñe de fuerza sus lomos, Y esfuerza sus brazos.",
+					"number": 17,
+					"id": "6c3817f0-5d66-4036-a363-10a7f3059b4c"
+				},
+				{
+					"verse": "Ve que van bien sus negocios; Su lámpara no se apaga de noche.",
+					"number": 18,
+					"id": "c285d289-b992-444e-9d07-cce8ec528c44"
+				},
+				{
+					"verse": "Aplica su mano al huso, Y sus manos a la rueca.",
+					"number": 19,
+					"id": "a64d84da-5bea-42b3-9dc4-9b50bcc3a591"
+				},
+				{
+					"verse": "Alarga su mano al pobre, Y extiende sus manos al menesteroso.",
+					"number": 20,
+					"id": "0d6ab194-c4d6-402c-b565-e2f10f573182"
+				},
+				{
+					"verse": "No tiene temor de la nieve por su familia, Porque toda su familia está vestida de ropas dobles.",
+					"number": 21,
+					"id": "2c495302-8ada-4e6e-b942-7c142a66a899"
+				},
+				{
+					"verse": "Ella se hace tapices; De lino fino y púrpura es su vestido.",
+					"number": 22,
+					"id": "e8d0c34b-0ebf-4f57-888e-a657fe27f886"
+				},
+				{
+					"verse": "Su marido es conocido en las puertas, Cuando se sienta con los ancianos de la tierra.",
+					"number": 23,
+					"id": "cda43d7c-2e6f-4110-bbad-a24f74d17455"
+				},
+				{
+					"verse": "Hace telas, y vende, Y da cintas al mercader.",
+					"number": 24,
+					"id": "c269dd86-63e5-40e6-be6d-7209bb8a2d35"
+				},
+				{
+					"verse": "Fuerza y honor son su vestidura; Y se ríe de lo por venir.",
+					"number": 25,
+					"id": "ba3d3626-3041-43cb-8713-bf6d92b2b4fa"
+				},
+				{
+					"verse": "Abre su boca con sabiduría, Y la ley de clemencia está en su lengua.",
+					"number": 26,
+					"id": "f962b4c5-bb77-4aa6-88f4-b8816e69eb3c"
+				},
+				{
+					"verse": "Considera los caminos de su casa, Y no come el pan de balde.",
+					"number": 27,
+					"id": "941199a0-9d85-4981-9995-f73b533b479a"
+				},
+				{
+					"verse": "Se levantan sus hijos y la llaman bienaventurada; Y su marido también la alaba:",
+					"number": 28,
+					"id": "10058528-b6e1-45df-a46e-35fff17bbfc1"
+				},
+				{
+					"verse": "Muchas mujeres hicieron el bien; Mas tú sobrepasas a todas.",
+					"number": 29,
+					"id": "cbb64b63-fab4-4231-9b71-f777e03ec555"
+				},
+				{
+					"verse": "Engañosa es la gracia, y vana la hermosura; La mujer que teme a Jehová, ésa será alabada.",
+					"number": 30,
+					"id": "2949f616-4565-4d07-a6c2-b9bb1bc46d4c"
+				},
+				{
+					"verse": "Dadle del fruto de sus manos, Y alábenla en las puertas sus hechos.",
+					"number": 31,
+					"id": "d3732e4e-b0e1-4f6b-840b-217c8564e1f6"
+				}
+			]
+		}
+	],
+	"book_id": "c9bd1f73-b2f1-4802-ab3e-e7e148a2455e"
+}
