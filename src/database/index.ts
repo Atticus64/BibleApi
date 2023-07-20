@@ -1,5 +1,4 @@
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";
-import "https://deno.land/x/postgresjs@v3.3.5/types/index.d.ts"
 import postgres from "https://deno.land/x/postgresjs@v3.3.5/mod.js";
 
 
