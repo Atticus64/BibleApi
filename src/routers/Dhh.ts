@@ -1,7 +1,7 @@
 import { Context, Hono } from "hono/mod.ts";
 import { Version } from "$/scraping/scrape.ts";
 import { Path, getBook, getChapterBook, getEndpoits, getNewTestamentBook, getNewTestamentChapter, getOldTestamentBook, getoldTestamentChapterBook, testGetChapterBook, testSearchVersion } from "$/controllers/version.ts";
-import { searchVersion } from "../middlewares/search.ts";
+import { searchVersion } from "$/middlewares/search.ts";
 
 const router_dhh = new Hono();
 

@@ -1,7 +1,13 @@
-import { Client } from 'postgres'
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";
+import "https://deno.land/x/postgresjs@v3.3.5/types/index.d.ts"
+import postgres from "https://deno.land/x/postgresjs@v3.3.5/mod.js";
 
 
 export function connect() {
-	return new Client(Deno.env.get("DATABASE_URL"));
+	const dev = Deno.env.get("DEVELOP") ?? ""
+	if (dev !== "") {
+		return postgres(Deno.env.get("DATABASE_URL") ?? "");
+	}
+	const sql = postgres(Deno.env.get("DATABASE_URL") ?? "", { ssl: { rejectUnauthorized: false } });
+	return sql;
 }

@@ -7,7 +7,7 @@ import { searchProps } from "$/middlewares/search.ts";
 
 // import { DB } from "sqlite";
 
-const db = connect();
+const sql = connect();
 
 // const db = new DB("test.db");
 export enum Path {
@@ -55,27 +55,72 @@ function format(name: string) {
 	const fm = name[0].toUpperCase() + name.slice(1);
 	return fm
 }
-export async function dbSearch({ version, query, take = 10, page = 1, testament = 'both' }: searchProps) {
 
-	if (version === Version.Dhh) {
-		const res = await db.queryObject(`
-			SELECT verse, study, verses_dhh.number, verses_dhh.id, name, verses_dhh.chapter FROM verses_dhh 
-			JOIN chapters ON verses_dhh.chapter_id = chapters.id
-			JOIN books ON books.id = chapters.book_id 
-			WHERE verse LIKE '%${query}%' LIMIT 10 OFFSET ${take * (page - 1)};`
-		)
-		console.log(res)
-		return res
+function getVersionTable(version: Version) {
+	switch (version) {
+		case Version.Rv60:
+			return "verses_rv1960";
+		case Version.Rv95:
+			return "verses_rv1995";
+		case Version.Nvi:
+			return "verses_nvi";
+		case Version.Dhh:
+			return "verses_dhh";
+	}
+}
+
+
+async function searchTable(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi" | "verses_dhh" , query: string, take: number, page: number, testament: "old" | "new" | "both" ) {
+
+	const hasTestament = testament === "old" || testament === "new";
+	const offset = (page - 1) * take;
+	const parsedQuery = `%${query}%`;
+	console.log(hasTestament)
+
+	const checkTestament = (testament: string) => sql`and testament = ${ testament }`
+
+	const meta = await sql`
+		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${sql(table)}.chapter FROM ${sql(table)} 
+		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+		JOIN books ON books.id = chapters.book_id
+		WHERE verse LIKE ${parsedQuery} ${hasTestament ? checkTestament(testament) : sql`` }`;
+
+	const res = await sql`
+		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${sql(table)}.chapter FROM ${sql(table)}
+		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+		JOIN books ON books.id = chapters.book_id
+		WHERE verse LIKE ${parsedQuery} 
+		${hasTestament 
+			? checkTestament(testament) 
+			: sql`` } 
+		LIMIT ${take} OFFSET ${offset};`;
+
+	const info = {
+		data: res,
+		meta: {
+			page,
+			pageSize: take,	
+			total: meta.count,
+			pages: Math.ceil(meta.count/take),
+		}
+
 	}
 
+	return info
+	
+}
 
+export async function dbSearch({ version, query, take = 10, page = 1, testament = 'both' }: searchProps) {
+	const table = getVersionTable(version);
+
+	return await searchTable(table, query, take, page, testament);
 }
 
 export async function testSearchVersion(c: Context, version: Version) {
 	const { q, take, page, testament } = c.req.query();
 
-	const options = ['old', 'new', 'both'];
 
+	const options = ['old', 'new', 'both'];
 	if (!q) {
 		c.status(400);
 		return c.json([]);
@@ -103,11 +148,6 @@ export async function testSearchVersion(c: Context, version: Version) {
 		data = await dbSearch({ version, query: q, take: Number(take), page: Number(page), testament: test });
 	}
 
-	//if (!data.error) {
-	//	c.status(400);
-	//	return c.json(data);
-	//}
-
 	return c.json(data);
 
 }
@@ -119,18 +159,18 @@ const testGetChapterBook = async (c: Context) => {
 		const number = parseInt(c.req.param("chapter"));
 
 
-		const data = await db.queryObject(`
+		const data = await sql`
 		SELECT verse, study, verses_dhh.number, verses_dhh.id FROM verses_dhh 
 		JOIN chapters ON verses_dhh.chapter_id = chapters.id
 		JOIN books ON books.id = chapters.book_id WHERE chapter = ${number} AND books.name = '${bookName}';
-		`)
-		const { rows } = await db.queryObject(`select name, num_chapters, testament FROM books WHERE name = '${bookName}'`);
+		`
+		const rows = await sql`select name, num_chapters, testament FROM books WHERE name = '${bookName}'`;
 		const book = rows[0]
 
 		const info = {
 			book,
 			chapter: number,
-			vers: data.rows
+			vers: data
 		}
 
 		return c.json(info);
