@@ -101,7 +101,7 @@ async function searchTable(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi
 			page,
 			pageSize: take,	
 			total: meta.count,
-			pages: Math.ceil(meta.count/take),
+			pageCount: Math.ceil(meta.count/take),
 		}
 
 	}
