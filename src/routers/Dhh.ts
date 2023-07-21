@@ -20,6 +20,10 @@ router_dhh.get("/chapter/:book/:chapter", (c: Context) => {
 	return getChapterVersion(c, 'verses_dhh');
 })
 
+router_dhh.get("/book/:book/:chapter", (c: Context) => {
+	return getChapterVersion(c, 'verses_dhh');
+})
+
 router_dhh.get("/newTestament/:book/:chapter", (c: Context) => {
 	return getNewTestamentChapter(c, Version.Nvi);
 })
