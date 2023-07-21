@@ -10,13 +10,8 @@ router_nvi.get("/", (c) => {
 });
 
 router_nvi.get("/search", (c) => {
-	return searchVersion(c, Version.Nvi)
-});
-
-router_nvi.get("/test/search", (c) => {
 	return testSearchVersion(c, Version.Nvi)
 });
-
 
 router_nvi.get("/oldTestament/:book", (c: Context) => {
 	return getOldTestamentBook(c, Path.NVI);

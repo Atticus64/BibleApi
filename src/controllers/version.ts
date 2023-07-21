@@ -116,7 +116,6 @@ export async function dbSearch({ version, query, take = 10, page = 1, testament 
 export async function testSearchVersion(c: Context, version: Version) {
 	const { q, take, page, testament } = c.req.query();
 
-
 	const options = ['old', 'new', 'both'];
 	if (!q) {
 		c.status(400);

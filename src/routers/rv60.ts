@@ -20,7 +20,6 @@ router_rv60.get("/book/:book/:chapter", (c: Context) => {
 	return getChapterVersion(c, 'verses_rv1960');
 })
 
-
 router_rv60.get("/oldTestament/:book/:chapter", (c: Context) => {
 
 	return getOldTestamentBook(c, Path.RV60);
