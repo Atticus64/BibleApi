@@ -71,7 +71,7 @@ async function searchTable(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi
 
 	const hasTestament = testament === "old" || testament === "new";
 	const offset = (page - 1) * take;
-	const parsedQuery = `%${query}%`;
+	const parsedQuery = `%${query.toLowerCase()}%`;
 	console.log(hasTestament)
 
 	const checkTestament = (testament: string) => sql`and testament = ${ testament }`
@@ -80,13 +80,13 @@ async function searchTable(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${sql(table)}.chapter FROM ${sql(table)} 
 		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
 		JOIN books ON books.id = chapters.book_id
-		WHERE verse LIKE ${parsedQuery} ${hasTestament ? checkTestament(testament) : sql`` }`;
+		WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} ${hasTestament ? checkTestament(testament) : sql`` }`;
 
 	const res = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${sql(table)}.chapter FROM ${sql(table)}
 		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
 		JOIN books ON books.id = chapters.book_id
-		WHERE verse LIKE ${parsedQuery} 
+		WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} 
 		${hasTestament 
 			? checkTestament(testament) 
 			: sql`` } 

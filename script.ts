@@ -8,8 +8,11 @@ await client.connect();
 
 const sql = connect();
 
-// const r = await sql`select * from verses_rv1995 where id = 31104`
+const r = await sql`select * from verses_nvi WHERE UNACCENT(LOWER(verse)) LIKE '%josue%'
+ LIMIT 10;`
 console.log(r)
+
+sql.end()
 // await sql`
 // create table verses_rv1995 (
 // 	id serial primary key,
