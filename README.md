@@ -27,6 +27,29 @@ GET `/api/rv1960/book/genesis/1`
 
 GET `/api/nvi/chapter/apocalipsis/22`
 
+### Search query
+
+`api/<version>/search?q=Dios&testament=old&take=5&page=4`
+
+*query is required*
+
+```ts
+interface Parameters {
+  q: string,
+  testament?: string,
+  take?: number,
+  page?: number
+}
+```
+
+- Examples
+
+https://bible-api.deno.dev/api/nvi/search?q=Dios
+
+`api/nvi/search?q=Dios&page=2`
+
+`api/nvi/search?q=Dios&page=2&take=3`
+
 ## Dev server
 
 ```
