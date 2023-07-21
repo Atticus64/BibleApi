@@ -2,31 +2,22 @@
 
 ## Endpoints
 
-### Reina Valera 1960
-
-*Get all book*
-
-`/api/rv1960/book/<book>`
-
-`/api/rv1960/oldtestament/<book>`
-
-`/api/rv1960/newTestament/<book>`
-
-- Example 
-
-https://bible-api.deno.dev/api/rv1960/book/genesis
-
-GET `/api/rv1960/book/genesis`
-
-GET `/api/rv1960/oldTestament/genesis`
-
 *Get chapter book*
+
+`/api/<version>/book/<book>/<chapter`
+
+```ts
+enum Version {
+  "rv1960",
+  "rv1995",
+  "dhh"
+  "nvi"
+}
+```
 
 `/api/rv1960/book/<book>/<chapter>`
 
-`/api/rv1960/oldtestament/<book>/<chapter>`
-
-`/api/rv1960/newTestament/<book>/<chapter>`
+`/api/rv1960/chapter/<book>/<chapter>`
 
 - Examples
 
@@ -34,7 +25,7 @@ https://bible-api.deno.dev/api/rv1960/book/genesis/1
 
 GET `/api/rv1960/book/genesis/1`
 
-GET `/api/rv1960/oldTestament/genesis/1`
+GET `/api/nvi/chapter/apocalipsis/22`
 
 ## Dev server
 
