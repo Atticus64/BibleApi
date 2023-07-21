@@ -5,11 +5,8 @@ import { Version, getVersionName } from "$/scraping/scrape.ts";
 import { connect } from "$/database/index.ts";
 import { searchProps } from "$/middlewares/search.ts";
 
-// import { DB } from "sqlite";
-
 const sql = connect();
 
-// const db = new DB("test.db");
 export enum Path {
 	RV60 = "rv1960",
 	RV95 = "rv1995",
@@ -153,22 +150,21 @@ export async function testSearchVersion(c: Context, version: Version) {
 }
 
 
-const testGetChapterBook = async (c: Context) => {
+const getChapterVersion = async (c: Context, table: "verses_rv1960" | "verses_rv1995" | "verses_nvi" | "verses_dhh") => {
 	try {
 		const bookName = format(c.req.param("book"));
 		const number = parseInt(c.req.param("chapter"));
 
-
 		const data = await sql`
-		SELECT verse, study, verses_dhh.number, verses_dhh.id FROM verses_dhh 
-		JOIN chapters ON verses_dhh.chapter_id = chapters.id
-		JOIN books ON books.id = chapters.book_id WHERE chapter = ${number} AND books.name = '${bookName}';
+		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${sql(table)} 
+		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+		JOIN books ON books.id = chapters.book_id WHERE chapter = ${number} AND books.name = ${bookName};
 		`
-		const rows = await sql`select name, num_chapters, testament FROM books WHERE name = '${bookName}'`;
+		const rows = await sql`select name, num_chapters, testament FROM books WHERE name = ${bookName}`;
 		const book = rows[0]
 
 		const info = {
-			book,
+			...book,
 			chapter: number,
 			vers: data
 		}
@@ -199,108 +195,24 @@ const getOldTestamentBook = async (c: Context, folder: Path) => {
 	}
 }
 
-const getoldTestamentChapterBook = async (c: Context, version: Version, folder: Path) => {
-	try {
-		const book = c.req.param("book");
-		if (isInNewTestament(book)) {
-			return c.json({
-				"error": "Not found",
-				"try to endpoints": `/api/${folder}/newTestament/:book`,
-			}, 400);
-		}
-
-		const chapterBook = await getChapter(c, "Antiguo Testamento", version);
-
-		return chapterBook;
-	} catch (_error) {
-		console.log(_error)
-		return c.notFound();
-	}
-}
-
-const getNewTestamentBook = async (c: Context, folder: Path) => {
-	try {
-		const bookName = c.req.param("book");
-
-		if (isInOldTestament(bookName)) {
-			return c.json({
-				"error": "Not found",
-				"try to endpoints": `/api/${folder}/oldTestament/:book`,
-			}, 400);
-		}
-
-		const path = `${Deno.cwd()}/db/${folder}/newTestament/${bookName}.json`;
-		const book = await Deno.readTextFile(path);
-
-		return c.json(JSON.parse(book));
-	} catch (_error) {
-		return c.notFound();
-	}
+const getoldTestamentChapterBook = (c: Context, version: Version) => {
+	return c.json({
+		"error": "Not found",
+	})
 }
 
 
-const getNewTestamentChapter = async (c: Context, version: Version, folder: Path) => {
-	try {
-		const book = c.req.param("book");
-		if (isInOldTestament(book)) {
-			return c.json({
-				"error": "Not found",
-				"try to endpoints": `/api/${folder}/oldTestament/:book`,
-			}, 400);
-		}
-
-		const chapterBook = await getChapter(c, "Nuevo Testamento", version);
-
-		return chapterBook;
-	} catch (_error) {
-		return c.notFound();
-	}
-}
-
-
-const getBook = async (c: Context, folder: Path) => {
-	try {
-		const book = c.req.param("bookName");
-
-		let rawBook;
-		if (isInOldTestament(book)) {
-			const path = `${Deno.cwd()}/db/${folder}/oldTestament/${book}.json`;
-			rawBook = await Deno.readTextFile(path);
-		} else {
-			const path = `${Deno.cwd()}/db/${folder}/newTestament/${book}.json`;
-			rawBook = await Deno.readTextFile(path);
-		}
-
-		return c.json(JSON.parse(rawBook));
-	} catch (_error) {
-		return c.notFound();
-	}
-}
-
-const getChapterBook = async (c: Context, version: Version) => {
-	try {
-		const book = c.req.param("bookName");
-		let chapterBook;
-		if (isInOldTestament(book)) {
-			chapterBook = await getChapter(c, "Antiguo Testamento", version);
-		} else {
-			chapterBook = await getChapter(c, "Nuevo Testamento", version);
-		}
-
-		return chapterBook;
-	} catch (_error) {
-		return c.notFound();
-	}
+const getNewTestamentChapter = (c: Context, version: Version) => {
+	return c.json({
+		"error": "Not found",
+	})
 }
 
 export {
 	getEndpoits,
 	getOldTestamentBook,
 	getoldTestamentChapterBook,
-	getNewTestamentBook,
 	getNewTestamentChapter,
-	getChapterBook,
-	getBook,
 	getChapter,
-	testGetChapterBook,
+	getChapterVersion
 }
