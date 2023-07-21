@@ -30,6 +30,10 @@ router_nvi.get("/oldTestament/:book/:chapter", (c: Context) => {
 	return getoldTestamentChapterBook(c, Version.Nvi);
 })
 
+router_nvi.get("/book/:book/:chapter", (c: Context) => {
+	return getChapterVersion(c, 'verses_nvi');
+})
+
 router_nvi.get("/newTestament/:book/:chapter", (c: Context) => {
 	return getNewTestamentChapter(c, Version.Nvi);
 })
