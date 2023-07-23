@@ -1,5 +1,5 @@
 import { Context } from "hono/context.ts";
-import { isInNewTestament, isInOldTestament } from "$/utils/book.ts";
+import { isInNewTestament } from "$/utils/book.ts";
 import { getChapter } from "$/middlewares/chapter.ts";
 import { Version, getVersionName } from "$/scraping/scrape.ts";
 import { connect } from "$/database/index.ts";
@@ -107,13 +107,60 @@ async function searchTable(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi
 	
 }
 
+async function testSearch(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi" | "verses_dhh" , query: string, take: number, page: number, testament: "old" | "new" | "both" ) {
+
+	const hasTestament = testament === "old" || testament === "new";
+	const offset = (page - 1) * take;
+	const parsedQuery = `%${query.toLowerCase()}%`;
+	console.log(hasTestament)
+
+	const checkTestament = (testament: string) => sql`and testament = ${ testament }`
+
+	const meta = await sql`
+		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${sql(table)}.chapter FROM ${sql(table)} 
+		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+		JOIN books ON books.id = chapters.book_id
+		WHERE UNACCENT(verse) LIKE ${parsedQuery} ${hasTestament ? checkTestament(testament) : sql`` }`;
+
+	const res = await sql`
+		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${sql(table)}.chapter FROM ${sql(table)}
+		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+		JOIN books ON books.id = chapters.book_id
+		WHERE UNACCENT(verse) LIKE ${parsedQuery} 
+		${hasTestament 
+			? checkTestament(testament) 
+			: sql`` } 
+		LIMIT ${take} OFFSET ${offset};`;
+
+	const info = {
+		data: res,
+		meta: {
+			page,
+			pageSize: take,	
+			total: meta.count,
+			pageCount: Math.ceil(meta.count/take),
+		}
+
+	}
+
+	return info
+	
+}
+
+
 export async function dbSearch({ version, query, take = 10, page = 1, testament = 'both' }: searchProps) {
 	const table = getVersionTable(version);
 
 	return await searchTable(table, query, take, page, testament);
 }
 
-export async function testSearchVersion(c: Context, version: Version) {
+export async function testingSearch({ version, query, take = 10, page = 1, testament = 'both' }: searchProps) {
+	const table = getVersionTable(version);
+
+	return await testSearch(table, query, take, page, testament);
+}
+
+export async function SearchVersion(c: Context, version: Version) {
 	const { q, take, page, testament } = c.req.query();
 
 	const options = ['old', 'new', 'both'];
@@ -142,6 +189,42 @@ export async function testSearchVersion(c: Context, version: Version) {
 		return c.json(data);
 	} else {
 		data = await dbSearch({ version, query: q, take: Number(take), page: Number(page), testament: test });
+	}
+
+	return c.json(data);
+
+}
+
+
+export async function testSearchVersion(c: Context, version: Version) {
+	const { q, take, page, testament } = c.req.query();
+
+	const options = ['old', 'new', 'both'];
+	if (!q) {
+		c.status(400);
+		return c.json([]);
+	}
+
+	let test: | "both" | "old" | "new";
+	if (testament && !options.includes(testament)) {
+		c.status(400);
+		return c.json([]);
+	} else if (!testament) {
+		test = "both";
+	} else {
+		test = testament as "old" | "new" | "both";
+	}
+
+	let data;
+	if (!take && !page) {
+		data = await testingSearch({ version, query: q, testament: test });
+	} else if (!page) {
+		data = await testingSearch({ version, query: q, take: Number(take), testament: test });
+	} else if (!take) {
+		data = await testingSearch({ version, query: q, page: Number(page), testament: test });
+		return c.json(data);
+	} else {
+		data = await testingSearch({ version, query: q, take: Number(take), page: Number(page), testament: test });
 	}
 
 	return c.json(data);
@@ -213,5 +296,5 @@ export {
 	getoldTestamentChapterBook,
 	getNewTestamentChapter,
 	getChapter,
-	getChapterVersion
+	getChapterVersion,
 }

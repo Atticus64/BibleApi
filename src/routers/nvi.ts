@@ -1,7 +1,6 @@
 import { Context, Hono } from "hono/mod.ts";
 import { Version } from "$/scraping/scrape.ts";
-import { Path, getChapterVersion, getEndpoits, getNewTestamentChapter, getOldTestamentBook, getoldTestamentChapterBook, testSearchVersion } from "$/controllers/version.ts";
-import { searchVersion } from "$/middlewares/search.ts";
+import { Path, SearchVersion, getChapterVersion, getEndpoits, getNewTestamentChapter, getOldTestamentBook, getoldTestamentChapterBook, testSearchVersion } from "$/controllers/version.ts";
 
 const router_nvi = new Hono();
 
@@ -10,7 +9,11 @@ router_nvi.get("/", (c) => {
 });
 
 router_nvi.get("/search", (c) => {
-	return testSearchVersion(c, Version.Nvi)
+	return SearchVersion(c, Version.Dhh)
+});
+
+router_nvi.get("/test/search", (c) => {
+	return testSearchVersion(c, Version.Dhh)
 });
 
 router_nvi.get("/oldTestament/:book", (c: Context) => {
