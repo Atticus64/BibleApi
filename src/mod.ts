@@ -9,6 +9,7 @@ import router_auth from "$/routers/auth.ts";
 import router_notes from "$/routers/notes.ts";
 import { isAuthenticated } from "$/middlewares/authorization.ts";
 import router_user from "$/routers/user.ts";
+import { getBooks } from "$/controllers/book.ts";
 
 const origin = ['http://localhost:5173', 'http://localhost:8000', 'https://bible-api.deno.dev', 'https://bible-study.vercel.app']
 
@@ -61,6 +62,8 @@ app.route("/api/nvi", router_nvi);
 app.route("/api/dhh", router_dhh);
 
 app.route("/api/book", router_book)
+
+app.get("/api/books", getBooks);
 
 app.notFound((c) => {
 	const { pathname } = new URL(c.req.url);

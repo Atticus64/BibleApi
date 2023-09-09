@@ -72,7 +72,6 @@ async function searchTable(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi
 	const hasTestament = testament === "old" || testament === "new";
 	const offset = (page - 1) * take;
 	const parsedQuery = `%${query.toLowerCase()}%`;
-	console.log(hasTestament)
 
 	const checkTestament = (testament: string) => sql`and testament = ${ testament }`
 
@@ -112,7 +111,6 @@ async function testSearch(table:"verses_rv1960" | "verses_rv1995" | "verses_nvi"
 	const hasTestament = testament === "old" || testament === "new";
 	const offset = (page - 1) * take;
 	const parsedQuery = `%${query.toLowerCase()}%`;
-	console.log(hasTestament)
 
 	const checkTestament = (testament: string) => sql`and testament = ${ testament }`
 
