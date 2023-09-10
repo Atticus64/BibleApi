@@ -3,7 +3,15 @@ import { getInfoBook, isInNewTestament, isInOldTestament } from "$/utils/book.ts
 import { books } from "$/scraping/index.ts";
 
 export const getBookInfo = (c: Context) => {
-	const book = c.req.param("book");
+	const paramBook = c.req.param("book");
+
+	if (!paramBook) {
+		c.status(400);
+		return;
+	}
+
+	const book = paramBook.toLowerCase();
+	
 
 	if(!isInNewTestament(book) && !isInOldTestament(book)) {
 		c.status(400)

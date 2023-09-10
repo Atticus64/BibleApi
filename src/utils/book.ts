@@ -19,7 +19,7 @@ export const isInNewTestament = (book: string) => {
 
 
 export const getInfoBook = (book: string) => {
-	return books.find((b) => b.name.toLowerCase() === book);
+	return books.find((b) => b.name.toLowerCase() === book.toLowerCase());
 }
 
 
