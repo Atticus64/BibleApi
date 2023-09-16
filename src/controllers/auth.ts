@@ -30,7 +30,7 @@ export const signup = async (c: Context): Promise<Response> => {
 		const hashed = hash(password);
 		const id = crypto.randomUUID();
 		const userData = {
-			email: email,
+			email: userEmail,
 			password: hashed,
 			id,
 			active: true
@@ -38,7 +38,7 @@ export const signup = async (c: Context): Promise<Response> => {
 
 		kv.set(["users", user], userData);
 
-		kv.set(["users_by_email", email], {
+		kv.set(["users_by_email", userEmail], {
 			user,
 			password: hashed,
 			id,
