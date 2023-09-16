@@ -68,7 +68,7 @@ export const signup = async (c: Context): Promise<Response> => {
 		return c.json({
 			user,
 			token: jwt,
-			email
+			userEmail
 		})
 
 	} catch (error) {
