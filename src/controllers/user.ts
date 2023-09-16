@@ -26,11 +26,6 @@ export const deleteUser = async (c: Context) => {
 		ADMIN_PASS: z.string().min(8),
 	})
 
-	if (!schema.safeParse(data).success){
-		c.status(400);
-		return;
-	}
-
 	const info = schema.parse(data);
 
 	const d = await kv.get(["users_by_email", info.email])
