@@ -28,19 +28,15 @@ export const deleteUser = async (c: Context) => {
 
 	const info = schema.parse(data);
 
+	try {
+
 	const d = await kv.get(["users_by_email", info.email])
-	console.log(d);
-	console.log(info.ADMIN_PASS)
 	if (info.ADMIN_PASS !== Deno.env.get("ADMIN_PASS")) {
 		c.status(401);
 		c.json({
 			message: "Unauthorized"
 		})
 		return;
-	}
-
-	if (info.email.includes("@")) {
-		await kv.delete(["users", "daizai"]);
 	}
 
 	await kv.delete(["users_by_email", info.email]);
@@ -50,6 +46,11 @@ export const deleteUser = async (c: Context) => {
 	return c.json({
 		deleted: true
 	});
+
+	} catch (e) {
+		console.log({ Error: e })
+		c.status(500);
+	}
 }
 
 export const deleteDB = async (c: Context): Promise<Response> => {
