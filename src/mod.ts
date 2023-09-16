@@ -10,6 +10,7 @@ import router_notes from "$/routers/notes.ts";
 import { isAuthenticated } from "$/middlewares/authorization.ts";
 import router_user from "$/routers/user.ts";
 import { getBooks } from "$/controllers/book.ts";
+import { deleteUser } from "$/controllers/user.ts";
 
 const origin = ['http://localhost:5173', 'http://localhost:8000', 'https://bible-api.deno.dev', 'https://bible-study.vercel.app']
 
@@ -28,6 +29,8 @@ app.use("/notes/*", isAuthenticated);
 app.route("/notes", router_notes);
 
 app.use("/user/*", isAuthenticated);
+
+app.post("/admin/user", deleteUser);
 
 app.route("/user", router_user);
 

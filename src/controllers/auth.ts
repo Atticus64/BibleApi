@@ -12,11 +12,13 @@ interface User {
 
 export const signup = async (c: Context): Promise<Response> => {
 	try {
-		const { user, password, email } = c.req.valid('json');
+		const { user, password, email } = c.req.valid('json') as User;
 
 		const kv = await Deno.openKv();
 
-		const { exists } = await checkUser(user, email);
+		const userEmail = email.toLowerCase();
+
+		const { exists } = await checkUser(user, userEmail);
 
 		if (exists) {
 			c.status(400);
@@ -83,9 +85,10 @@ export const signup = async (c: Context): Promise<Response> => {
 export const login = async (c: Context): Promise<Response> => {
 	const { email, password } = c.req.valid('json');
 
+	const loginEmail = email.toLowerCase();
 	const kv = await Deno.openKv();
 
-	const userData = await kv.get(["users_by_email", email]);
+	const userData = await kv.get(["users_by_email", loginEmail]);
 
 	if (!userData.value) {
 		c.status(400);
