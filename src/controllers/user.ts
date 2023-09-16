@@ -34,11 +34,7 @@ export const deleteUser = async (c: Context) => {
 	const info = schema.parse(data);
 
 	const d = await kv.get(["users_by_email", info.email])
-
-	if (!d.value) {
-		c.status(400);
-		return;
-	}
+	console.log(d);
 
 	if (info.ADMIN_PASS !== Deno.env.get("ADMIN_PASS")) {
 		c.status(401);
