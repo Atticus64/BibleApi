@@ -39,8 +39,12 @@ export const deleteUser = async (c: Context) => {
 		return;
 	}
 
+	if (info.email.includes("@")) {
+		await kv.delete(["users", "daizai"]);
+	}
+
 	await kv.delete(["users_by_email", info.email]);
-	await kv.delete(["users", d.user]);
+	await kv.delete(["users", d.value.user]);
 
 	c.status(200);
 	return c.json({
