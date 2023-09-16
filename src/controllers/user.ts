@@ -35,14 +35,17 @@ export const deleteUser = async (c: Context) => {
 
 	const d = await kv.get(["users_by_email", info.email])
 	console.log(d);
-
+	console.log(info.ADMIN_PASS)
 	if (info.ADMIN_PASS !== Deno.env.get("ADMIN_PASS")) {
 		c.status(401);
+		c.json({
+			message: "Unauthorized"
+		})
 		return;
 	}
 
-	kv.delete(["users_by_email", info.email]);
-	kv.delete(["users", d.user]);
+	await kv.delete(["users_by_email", info.email]);
+	await kv.delete(["users", d.user]);
 
 	c.status(200);
 	return c.json({
