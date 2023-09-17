@@ -21,7 +21,6 @@ jobs:
         uses: denolib/setup-deno@v2
         with:
           deno-version: ${{ matrix.deno-version }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
       - name: Test Deno Module
         run: deno test --unstable -A
-        with: 
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
