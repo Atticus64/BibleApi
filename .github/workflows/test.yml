@@ -19,8 +19,10 @@ jobs:
         uses: actions/checkout@v2
       - name: Use Deno Version ${{ matrix.deno-version }}
         uses: denolib/setup-deno@v2
+        env: 
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
         with:
           deno-version: ${{ matrix.deno-version }}
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
       - name: Test Deno Module
         run: deno test --unstable -A
+
