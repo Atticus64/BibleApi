@@ -62,11 +62,14 @@ type Data  = {
 	vers: Verse[],
 }
 
-const findVerses = async (db: any, term: string) => {
+const findVerses = async (db: any, term: string, take = 10, page = 1 ) => {
+
+	const offset = (page - 1) * take;
 	return await search(db, {
 		term,
 		tolerance: 10,
-		limit: 10,
+		limit: take,
+		offset, 
 		properties: ['verse'],
 		sortBy: {
 			property: 'id',
@@ -81,11 +84,26 @@ await fillMemoryDB(nvi);
 
 export const searchNviBeta = async (c: Context) => {
 
-	const { q } = c.req.query();
+	const { q, take, page } = c.req.query();
 
-	const vers = await findVerses(nvi, q);
+	if (!q) {
+		c.status(400);
+		return c.json([]);
+	}
 
+	const t = take ? Number(take) : 10;
+	const p = page ? Number(page) : 1;
+	const vers = await findVerses(nvi, q, t, p);
 
-	return c.json(vers.hits);
+	const total = vers.count as number;
+	const data = {
+		matches: vers.hits,
+		page: p,
+		pageSize: t,
+		pageCount: Math.ceil(total / t),
+		total
+	}
+
+	return c.json(data);
 }
 
