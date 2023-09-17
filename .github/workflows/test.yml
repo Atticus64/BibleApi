@@ -24,4 +24,4 @@ jobs:
       - name: Test Deno Module
         run: deno test --unstable -A
         env: 
-          DATABASE_URL: ${{ vars.DATABASE_URL }}
+          DATABASE_URL: ${{ env.DATABASE_URL }}
