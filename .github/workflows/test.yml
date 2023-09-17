@@ -22,4 +22,4 @@ jobs:
         with:
           deno-version: ${{ matrix.deno-version }}
       - name: Test Deno Module
-        run: deno task test
+        run: deno test --unstable -A
