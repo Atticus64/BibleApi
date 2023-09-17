@@ -23,5 +23,5 @@ jobs:
           deno-version: ${{ matrix.deno-version }}
       - name: Test Deno Module
         run: deno test --unstable -A
-        env: 
-          DATABASE_URL: ${{ env.DATABASE_URL }}
+        with: 
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
