@@ -21,7 +21,7 @@ jobs:
         uses: denolib/setup-deno@v2
         with:
           deno-version: ${{ matrix.deno-version }}
-      - name: Set env
-        run: "DATABASE_URL=${{ secrets.DATABASE_URL }}" 
       - name: Test Deno Module
         run: deno test --importmap import_map.json --unstable -A
+        env: 
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
