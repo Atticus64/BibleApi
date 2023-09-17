@@ -10,7 +10,7 @@ export interface User {
 export const getUser = async (token: string): Promise<User|null> => {
 
 	const secret = new TextEncoder().encode(
-		'cc7e0d44fd473002f1c42167459001140ec6389b7353f8088f4d9a95f2f596f2',
+		Deno.env.get("SECRET_TOKEN"),
 	);	
 
 	const { payload } = await jose.jwtVerify(token, secret);
@@ -20,6 +20,7 @@ export const getUser = async (token: string): Promise<User|null> => {
 	const data = await kv.get(["users", payload.id]);
 
 	let info: { email: string, id: string, active: boolean };
+
 	if (!data.value) {
 		return null;
 	} else {
