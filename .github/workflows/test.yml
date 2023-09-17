@@ -24,4 +24,4 @@ jobs:
       - name: Test Deno Module
         run: deno test --importmap import_map.json --unstable -A
         env: 
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          DATABASE_URL: ${{ vars.DATABASE_URL }}
