@@ -6,7 +6,7 @@
     "scrape:nvi": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version nvi",
     "scrape:rv60": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version rv60",
     "scrape:dhh": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version dhh",
-    "test": "deno test"
+    "test": "deno test --unstable -A"
   },
   "importMap": "./import_map.json"
 }

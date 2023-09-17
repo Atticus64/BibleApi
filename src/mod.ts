@@ -12,15 +12,20 @@ import router_user from "$/routers/user.ts";
 import { getBooks } from "$/controllers/book.ts";
 import { deleteUser } from "$/controllers/user.ts";
 
-const origin = ['http://localhost:5173', 'http://localhost:8000', 'https://bible-api.deno.dev', 'https://bible-study.vercel.app']
+const origin = [
+  "http://localhost:5173",
+  "http://localhost:8000",
+  "https://bible-api.deno.dev",
+  "https://bible-study.vercel.app",
+];
 
 const app = new Hono();
 
-app.use("/notes/*", cors({ origin, credentials: true })); 
+app.use("/notes/*", cors({ origin, credentials: true }));
 
-app.use("/auth/*", cors({ origin, credentials: true })); 
+app.use("/auth/*", cors({ origin, credentials: true }));
 
-app.use("/user/*", cors({ origin, credentials: true })); 
+app.use("/user/*", cors({ origin, credentials: true }));
 
 app.route("/auth", router_auth);
 
@@ -37,20 +42,20 @@ app.route("/user", router_user);
 app.use("/api/*", cors());
 
 app.get("/api", (c) => {
-	return c.json({
-		versions: [
-			"rv1960",
-			"rv1995",
-			"Nvi",
-			"Dhh"
-		],
-		endpoints: [
-			"/api/rv1960/book/genesis/1",
-			"/api/rv1995/book/genesis/1",
-			"/api/nvi/book/genesis/1",
-			"/api/dhh/book/genesis/1",
-		],
-	});
+  return c.json({
+    versions: [
+      "rv1960",
+      "rv1995",
+      "Nvi",
+      "Dhh",
+    ],
+    endpoints: [
+      "/api/rv1960/book/genesis/1",
+      "/api/rv1995/book/genesis/1",
+      "/api/nvi/book/genesis/1",
+      "/api/dhh/book/genesis/1",
+    ],
+  });
 });
 
 // servir la version reina valera 1960
@@ -64,21 +69,18 @@ app.route("/api/nvi", router_nvi);
 
 app.route("/api/dhh", router_dhh);
 
-app.route("/api/book", router_book)
+app.route("/api/book", router_book);
 
 app.get("/api/books", getBooks);
 
 app.notFound((c) => {
-	const { pathname } = new URL(c.req.url);
+  const { pathname } = new URL(c.req.url);
 
-	if (c.req.url.at(-1) === "/") {
-		return c.redirect(pathname.slice(0, -1));
-	}
+  if (c.req.url.at(-1) === "/") {
+    return c.redirect(pathname.slice(0, -1));
+  }
 
-	return c.json({ message: "Not Found" }, 404);
+  return c.json({ message: "Not Found" }, 404);
 });
 
-
-export default app;
-
-
+export { app };

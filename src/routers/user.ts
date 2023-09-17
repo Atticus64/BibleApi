@@ -3,7 +3,6 @@ import { getUserInfo } from "$/controllers/user.ts";
 
 const router_user = new Hono();
 
-router_user.get("/", getUserInfo)
+router_user.get("/", getUserInfo);
 
-
-export default router_user
+export default router_user;

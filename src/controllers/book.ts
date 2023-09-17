@@ -1,44 +1,48 @@
 import { Context } from "hono/context.ts";
-import { getInfoBook, isInNewTestament, isInOldTestament } from "$/utils/book.ts";
+import {
+  getInfoBook,
+  isInNewTestament,
+  isInOldTestament,
+} from "$/utils/book.ts";
 import { books } from "$/scraping/index.ts";
 
-export const getBookInfo = (c: Context) => {
-	const paramBook = c.req.param("book");
+export const getBookInfo = (c: Context): Response => {
+  const paramBook = c.req.param("book");
 
-	if (!paramBook) {
-		c.status(400);
-		return;
-	}
+  if (!paramBook) {
+    c.status(400);
+    return c.json({
+      error: "book not found",
+    });
+  }
 
-	const book = paramBook.toLowerCase();
-	
+  const book = paramBook.toLowerCase();
+  console.log(book);
 
-	if(!isInNewTestament(book) && !isInOldTestament(book)) {
-		c.status(400)
+  if (!isInNewTestament(book) && !isInOldTestament(book)) {
+    c.status(400);
 
-		return c.json({
-			error: "book not found"
-		})
-	}
+    return c.json({
+      error: "book not found",
+    });
+  }
 
-	const info = getInfoBook(book)
+  const info = getInfoBook(book);
 
-	c.status(200);
-	return c.json({
-		...info
-	})
-}
-
+  c.status(200);
+  return c.json({
+    ...info,
+  });
+};
 
 export const getBooks = (c: Context) => {
-	c.status(200);
+  c.status(200);
 
-	const data = books.map(b => ({
-			name: b.name,
-			chapters: b.chapters,
-			testament: b.testament
-	}));
+  const data = books.map((b) => ({
+    name: b.name,
+    chapters: b.chapters,
+    testament: b.testament,
+  }));
 
-	return c.json(data)
-}
-
+  return c.json(data);
+};

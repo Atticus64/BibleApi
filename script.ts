@@ -1,85 +1,80 @@
-import { connect } from "./src/database/index.ts"
+import { connect } from "./src/database/index.ts";
 import { books } from "$/scraping/index.ts";
 import { DataBook } from "$/scraping/scrape.ts";
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";
-import { create, insertMultiple, search } from 'npm:@orama/orama'
+import { create, insertMultiple, search } from "npm:@orama/orama";
 const sql = connect();
 
 async function createMemoryDB() {
-	const db = await create({
-		language: 'spanish',
-		schema: {
-			id: 'string',
-			verse: 'string',
-			book: 'string',
-			number: 'number',
-			study: 'string',
-			chapter: 'number',
-			chapter_id: 'number',
-		},
-	})
+  const db = await create({
+    language: "spanish",
+    schema: {
+      id: "string",
+      verse: "string",
+      book: "string",
+      number: "number",
+      study: "string",
+      chapter: "number",
+      chapter_id: "number",
+    },
+  });
 
-	return db
+  return db;
 }
 
 async function fillMemoryDB(db: any) {
-	const r = await sql`Select verses_nvi.id as id, verses_nvi.number as number, verse, study, name, chapter, chapter_id from verses_nvi join chapters on verses_nvi.chapter_id = chapters.id join books on books.id = chapters.book_id`;
+  const r =
+    await sql`Select verses_nvi.id as id, verses_nvi.number as number, verse, study, name, chapter, chapter_id from verses_nvi join chapters on verses_nvi.chapter_id = chapters.id join books on books.id = chapters.book_id`;
 
-	const vers: Verse[] = r.map((r) => {
+  const vers: Verse[] = r.map((r) => {
+    const info = r as Data;
+    return {
+      verse: info.verse,
+      study: info.study ?? "",
+      book: info.name,
+      number: info.number,
+      chapter: Number(info.chapter),
+      chapter_id: Number(info.chapter_id),
+    };
+  });
 
-		const info = r as Data;
-		return {
-			verse: info.verse,
-			study: info.study ?? "",
-			book: info.name,
-			number: info.number,
-			chapter: Number(info.chapter),
-			chapter_id: Number(info.chapter_id),
-		}
-	})
-
-	await insertMultiple(db, vers);
-
+  await insertMultiple(db, vers);
 }
-
 
 type Verse = {
-	verse: string,
-	study?: string,
-	book: string,
-	number: number,
-	chapter: number,
-	chapter_id: number,
-}
+  verse: string;
+  study?: string;
+  book: string;
+  number: number;
+  chapter: number;
+  chapter_id: number;
+};
 
-type Data  = {
-	verse: string,
-	study?: string,
-	name: string,
-	number: number,
-	chapter: number,
-	chapter_id: number,
-	vers: Verse[],
-}
+type Data = {
+  verse: string;
+  study?: string;
+  name: string;
+  number: number;
+  chapter: number;
+  chapter_id: number;
+  vers: Verse[];
+};
 
 const findVerses = async (db: any, term: string) => {
-	return await search(db, {
-		term,
-		tolerance: 10,
-		limit: 10,
-		properties: ['verse'],
-		sortBy: {
-			property: 'id',
-			order: 'ASC'
-		}
-	})
-}
-
+  return await search(db, {
+    term,
+    tolerance: 10,
+    limit: 10,
+    properties: ["verse"],
+    sortBy: {
+      property: "id",
+      order: "ASC",
+    },
+  });
+};
 
 const nvi = await createMemoryDB();
 await fillMemoryDB(nvi);
-
-
 
 // const sql = connect();
 
@@ -104,7 +99,6 @@ await fillMemoryDB(nvi);
 //
 // const res = await client.queryArray(`INSERT INTO books (name, testament, num_chapters) VALUES ${data.map(d => `('${d.name}', '${d.testament}', ${d.num_chapters})`).join(',')}`);
 
-
 // # Chapters
 
 // const r = await client.queryArray(`
@@ -127,7 +121,7 @@ await fillMemoryDB(nvi);
 // 		chapts.push({
 // 			book_id: b_id as number,
 // 			number: Number(c.chapter)
-// 		})	
+// 		})
 // 	})
 //
 // }
@@ -142,7 +136,7 @@ await fillMemoryDB(nvi);
 // 		chapts.push({
 // 			book_id: b_id as number,
 // 			number: Number(c.chapter)
-// 		})	
+// 		})
 // 	})
 //
 // }
@@ -175,7 +169,7 @@ await fillMemoryDB(nvi);
 // 	const {rows} = await client.queryArray(`select chapters.id from chapters JOIN books ON chapters.book_id = books.id WHERE books.name = '${b.name}'`)
 //
 // 	info.chapters.forEach(c => {
-// 		const index = Number(c.chapter) 
+// 		const index = Number(c.chapter)
 // 		c.vers.forEach(v => {
 // 			data.push({
 // 				verse: v.verse,
@@ -183,7 +177,7 @@ await fillMemoryDB(nvi);
 // 				number: v.number,
 // 				chapter: Number(c.chapter),
 // 				chapter_id: rows[index - 1][0]
-// 			})	
+// 			})
 // 		})
 // 	})
 // 	console.log(b.name)
@@ -195,7 +189,7 @@ await fillMemoryDB(nvi);
 //
 // 	const {rows} = await client.queryArray(`select chapters.id from chapters JOIN books ON chapters.book_id = books.id WHERE books.name = '${b.name}'`)
 // 	info.chapters.forEach(c => {
-// 		const index = Number(c.chapter) 
+// 		const index = Number(c.chapter)
 // 		c.vers.forEach(v => {
 // 			data.push({
 // 				verse: v.verse,
@@ -203,7 +197,7 @@ await fillMemoryDB(nvi);
 // 				number: v.number,
 // 				chapter: Number(c.chapter),
 // 				chapter_id: rows[index -1][0]
-// 			})	
+// 			})
 // 		})
 //
 // 	})

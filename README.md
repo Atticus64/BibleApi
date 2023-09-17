@@ -2,7 +2,7 @@
 
 ## Endpoints
 
-*Get chapter book*
+_Get chapter book_
 
 `/api/<version>/book/<book>/<chapter`
 
@@ -31,14 +31,14 @@ GET `/api/nvi/chapter/apocalipsis/22`
 
 `api/<version>/search?q=Dios&testament=old&take=5&page=4`
 
-*query is required*
+_query is required_
 
 ```ts
 interface Parameters {
-  q: string,
-  testament?: string,
-  take?: number,
-  page?: number
+  q: string;
+  testament?: string;
+  take?: number;
+  page?: number;
 }
 ```
 
@@ -61,4 +61,3 @@ deno task dev
 ```
 deno task scrape
 ```
-
