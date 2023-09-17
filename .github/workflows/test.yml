@@ -22,6 +22,6 @@ jobs:
         with:
           deno-version: ${{ matrix.deno-version }}
       - name: Set env
-        run: echo "DATABASE_URL=${{ secrets.DATABASE_URL }}" >> $GITHUB_ENV
+        run: "DATABASE_URL=${{ secrets.DATABASE_URL }}" 
       - name: Test Deno Module
         run: deno test --importmap import_map.json --unstable -A
