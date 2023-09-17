@@ -22,6 +22,6 @@ jobs:
         with:
           deno-version: ${{ matrix.deno-version }}
       - name: Test Deno Module
-        run: deno test --importmap import_map.json --unstable -A
+        run: deno test --unstable -A
         env: 
           DATABASE_URL: ${{ vars.DATABASE_URL }}
