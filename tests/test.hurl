@@ -1,5 +1,5 @@
 
-GET http://localhost:8000/api/book/genesis
+GET https://bible-api.deno.dev/api/book/genesis
 
 HTTP 200
 [Asserts]
