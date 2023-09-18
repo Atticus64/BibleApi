@@ -17,10 +17,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Start server and test
+      - name: Setup deno
         uses: denolib/setup-deno@v2
         with:
           deno-version: ${{ matrix.deno-version }}
+      - name: Start server
         run: deno task dev
         env: 
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
