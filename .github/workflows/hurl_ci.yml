@@ -17,10 +17,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup deno
-        uses: denolib/setup-deno@v2
-        with:
-          deno-version: ${{ matrix.deno-version }}
       - name: Start server
         run: |
           curl --location --remote-name https://github.com/Orange-OpenSource/hurl/releases/download/4.0.0/hurl_4.0.0_amd64.deb
@@ -28,3 +24,6 @@ jobs:
           ./test.sh http://localhost:8000
         env: 
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          ADMIN_PASS: ${{ secrets.ADMIN_PASS }}
+          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
+
