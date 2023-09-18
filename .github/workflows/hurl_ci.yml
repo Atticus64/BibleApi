@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+      contents: write
     strategy:
       matrix:
         deno-version: [1.36.4]
