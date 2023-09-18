@@ -1,6 +1,5 @@
 {
   "imports": {
-    "cherio": "https://esm.sh/cheerio@1.0.0-rc.12",
     "std/": "https://deno.land/std@0.194.0/",
     "jose": "https://deno.land/x/jose@v4.14.4/index.ts",
     "hono/": "https://deno.land/x/hono@v3.3.0/",
