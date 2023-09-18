@@ -2,7 +2,7 @@
 set -eu
 
 # init server
-docker build -t deno_app . && docker run --name api_bible --detach -p 8000:8000 deno_app
+docker build -t deno_app . && docker run --name api_bible -p 8000:8000 deno_app
 
 
 echo "Waiting for server to start"
