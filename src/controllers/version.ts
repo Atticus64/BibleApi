@@ -100,6 +100,7 @@ async function searchTable(
 		${hasTestament ? checkTestament(testament) : sql``} 
 		LIMIT ${take} OFFSET ${offset};`;
 
+
   const info = {
     data: res,
     meta: {
@@ -294,6 +295,10 @@ const getChapterVersion = async (
     const rows =
       await sql`select name, num_chapters, testament FROM books WHERE name = ${bookName}`;
     const book = rows[0];
+
+	data.sort((v1, v2) => {
+		return v1.number - v2.number;
+	})
 
     const info = {
       ...book,
