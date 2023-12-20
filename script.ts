@@ -78,7 +78,6 @@ await fillMemoryDB(nvi);
 
 // const sql = connect();
 
-// console.log(Deno.env.get("DATABASE_URL"))
 // client.queryArray("drop table if exists books");
 // client.queryArray("create type testa as enum ('old', 'new')");
 // const res = await client.queryArray(`create table books (

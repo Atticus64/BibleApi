@@ -17,7 +17,6 @@ export const getBookInfo = (c: Context): Response => {
   }
 
   const book = paramBook.toLowerCase();
-  console.log(book);
 
   if (!isInNewTestament(book) && !isInOldTestament(book)) {
     c.status(400);

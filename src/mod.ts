@@ -1,4 +1,5 @@
 import { Hono } from "hono/mod.ts";
+import "https://deno.land/x/dotenv@v3.2.2/load.ts";
 import { cors } from "middleware/cors/index.ts";
 import router_rv60 from "$/routers/rv60.ts";
 import router_rv95 from "$/routers/rv95.ts";
@@ -12,12 +13,13 @@ import router_user from "$/routers/user.ts";
 import { getBooks } from "$/controllers/book.ts";
 import { deleteUser } from "$/controllers/user.ts";
 
+const DEV_ORIGINS = Deno.env.get("ORIGINS");
 const origin = [
-  "http://localhost:5173",
-  "http://localhost:8000",
+	...DEV_ORIGINS ? DEV_ORIGINS.split(",") : [],
   "https://bible-api.deno.dev",
   "https://bible-study.vercel.app",
 ];
+
 
 const app = new Hono();
 

@@ -1,9 +1,8 @@
 import { Context } from "hono/context.ts";
-import { isInNewTestament } from "$/utils/book.ts";
-import { getChapter } from "$/middlewares/chapter.ts";
 import { getVersionName, Version } from "$/scraping/scrape.ts";
 import { connect } from "$/database/index.ts";
 import { searchProps } from "$/middlewares/search.ts";
+import { books } from "$/scraping/index.ts";
 
 const sql = connect();
 
@@ -14,20 +13,9 @@ export enum Path {
   DHH = "dhh",
 }
 
-const getEndpoits = async (c: Context, folder: Path, version: Version) => {
-  const books = [];
+const getEndpoits = (c: Context, folder: Path, version: Version) => {
+  const endpoints = [];
 
-  for await (
-    const entry of Deno.readDir(`${Deno.cwd()}/db/${folder}/oldTestament`)
-  ) {
-    const name = entry.name.replaceAll(".json", "");
-    const book = {
-      name,
-      endpoint: `/api/${folder}/book/${name}/`,
-      byChapter: `/api/${folder}/book/${name}/1`,
-    };
-    books.push(book);
-  }
   const nameVersion = getVersionName(version);
 
   const byOldTestament = {
@@ -40,11 +28,23 @@ const getEndpoits = async (c: Context, folder: Path, version: Version) => {
     oldTestamentByChapter: `/api/${folder}/newTestament/:book/:chapter`,
   };
 
-  books.unshift(byOldTestament);
-  books.unshift(byNewTestament);
+
+  endpoints.push(byOldTestament);
+  endpoints.push(byNewTestament);
+
+  for (const book of books) {
+	const name = book.name.toLowerCase();
+    const info =  `/api/book/${name}/`
+    const byChapter = `/api/${folder}/book/${name}/1`
+	endpoints.push({
+		name: `${name} endpoint`,
+		info,
+		byChapter
+	})
+  }
 
   return c.json(
-    books,
+    endpoints,
   );
 };
 
@@ -114,67 +114,12 @@ async function searchTable(
   return info;
 }
 
-async function testSearch(
-  table: "verses_rv1960" | "verses_rv1995" | "verses_nvi" | "verses_dhh",
-  query: string,
-  take: number,
-  page: number,
-  testament: "old" | "new" | "both",
-) {
-  const hasTestament = testament === "old" || testament === "new";
-  const offset = (page - 1) * take;
-  const parsedQuery = `%${query.toLowerCase()}%`;
-
-  const checkTestament = (testament: string) =>
-    sql`and testament = ${testament}`;
-
-  const meta = await sql`
-		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${
-    sql(table)
-  }.chapter FROM ${sql(table)} 
-		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
-		JOIN books ON books.id = chapters.book_id
-		WHERE UNACCENT(verse) LIKE ${parsedQuery} ${
-    hasTestament ? checkTestament(testament) : sql``
-  }`;
-
-  const res = await sql`
-		SELECT verse, study, ${sql(table)}.number, ${
-    sql(table)
-  }.id, name as book, ${sql(table)}.chapter FROM ${sql(table)}
-		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
-		JOIN books ON books.id = chapters.book_id
-		WHERE UNACCENT(verse) LIKE ${parsedQuery} 
-		${hasTestament ? checkTestament(testament) : sql``} 
-		LIMIT ${take} OFFSET ${offset};`;
-
-  const info = {
-    data: res,
-    meta: {
-      page,
-      pageSize: take,
-      total: meta.count,
-      pageCount: Math.ceil(meta.count / take),
-    },
-  };
-
-  return info;
-}
-
 export async function dbSearch(
   { version, query, take = 10, page = 1, testament = "both" }: searchProps,
 ) {
   const table = getVersionTable(version);
 
   return await searchTable(table, query, take, page, testament);
-}
-
-export async function testingSearch(
-  { version, query, take = 10, page = 1, testament = "both" }: searchProps,
-) {
-  const table = getVersionTable(version);
-
-  return await testSearch(table, query, take, page, testament);
 }
 
 export async function SearchVersion(c: Context, version: Version) {
@@ -196,85 +141,25 @@ export async function SearchVersion(c: Context, version: Version) {
     test = testament as "old" | "new" | "both";
   }
 
-  let data;
-  if (!take && !page) {
-    data = await dbSearch({ version, query: q, testament: test });
-  } else if (!page) {
-    data = await dbSearch({
-      version,
-      query: q,
-      take: Number(take),
-      testament: test,
-    });
-  } else if (!take) {
-    data = await dbSearch({
-      version,
-      query: q,
-      page: Number(page),
-      testament: test,
-    });
-    return c.json(data);
-  } else {
-    data = await dbSearch({
-      version,
-      query: q,
-      take: Number(take),
-      page: Number(page),
-      testament: test,
-    });
-  }
+  const data = await dbSearch({
+	version,
+	query: q,
+	take: take ? Number(take) : 10,
+	page: page ? Number(page) : 1,
+	testament: test,	  
+  });
 
   return c.json(data);
 }
 
-export async function testSearchVersion(c: Context, version: Version) {
-  const { q, take, page, testament } = c.req.query();
 
-  const options = ["old", "new", "both"];
-  if (!q) {
-    c.status(400);
-    return c.json([]);
-  }
-
-  let test: "both" | "old" | "new";
-  if (testament && !options.includes(testament)) {
-    c.status(400);
-    return c.json([]);
-  } else if (!testament) {
-    test = "both";
-  } else {
-    test = testament as "old" | "new" | "both";
-  }
-
-  let data;
-  if (!take && !page) {
-    data = await testingSearch({ version, query: q, testament: test });
-  } else if (!page) {
-    data = await testingSearch({
-      version,
-      query: q,
-      take: Number(take),
-      testament: test,
-    });
-  } else if (!take) {
-    data = await testingSearch({
-      version,
-      query: q,
-      page: Number(page),
-      testament: test,
-    });
-    return c.json(data);
-  } else {
-    data = await testingSearch({
-      version,
-      query: q,
-      take: Number(take),
-      page: Number(page),
-      testament: test,
-    });
-  }
-
-  return c.json(data);
+function existBook(book: string): boolean {
+	
+	return books.some(b => {
+		if (b.name.toLowerCase() === book.toLowerCase()) {
+			return true
+		}
+	})
 }
 
 const getChapterVersion = async (
@@ -284,6 +169,10 @@ const getChapterVersion = async (
   try {
     const bookName = format(c.req.param("book"));
     const number = parseInt(c.req.param("chapter"));
+
+	if (!existBook(bookName) || isNaN(number)) {
+		return c.notFound();
+	}
 
     const data = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
@@ -300,6 +189,7 @@ const getChapterVersion = async (
 		return v1.number - v2.number;
 	})
 
+
     const info = {
       ...book,
       chapter: number,
@@ -313,42 +203,7 @@ const getChapterVersion = async (
   }
 };
 
-const getOldTestamentBook = async (c: Context, folder: Path) => {
-  try {
-    const bookName = c.req.param("book");
-
-    if (isInNewTestament(bookName)) {
-      return c.json({
-        "error": "Not found",
-        "try to endpoints": `/api/${folder}/newTestament/:book`,
-      }, 400);
-    }
-    const path = `${Deno.cwd()}/db/${folder}/oldTestament/${bookName}.json`;
-    const book = await Deno.readTextFile(path);
-
-    return c.json(JSON.parse(book));
-  } catch (_error) {
-    return c.notFound();
-  }
-};
-
-const getoldTestamentChapterBook = (c: Context, version: Version) => {
-  return c.json({
-    "error": "Not found",
-  });
-};
-
-const getNewTestamentChapter = (c: Context, version: Version) => {
-  return c.json({
-    "error": "Not found",
-  });
-};
-
 export {
-  getChapter,
   getChapterVersion,
   getEndpoits,
-  getNewTestamentChapter,
-  getOldTestamentBook,
-  getoldTestamentChapterBook,
 };
