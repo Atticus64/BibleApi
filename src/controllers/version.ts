@@ -197,10 +197,24 @@ export async function SearchVersion(c: Context, v: string) {
 function existBook(book: string): boolean {
 	return books.some(b => b.name.toLowerCase() === book.toLowerCase())
 }
+
+function toValidName(bookName: string): string {
+	let formatedBook = ''
+	if (bookName.includes("-")) {
+		let [part, book] = bookName.split("-");
+		book = format(book);
+		formatedBook = `${part}-${book}`
+	} else {
+		formatedBook = format(bookName); 
+	}
+
+	return formatedBook
+
+}
 async function getOneVerse(table: Table, bookName: string, chapter: number, verse_num: number) {
 
 	try {
-		const book = `${bookName}`;
+		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
 			sql(table)
@@ -223,7 +237,7 @@ async function getOneVerse(table: Table, bookName: string, chapter: number, vers
 
 async function getRangeVerses(table: Table, bookName: string, chapt: number, start: number, end: number) {
 	try {
-		const book = `${bookName}`;
+		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 			SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
 				sql(table)
@@ -246,12 +260,14 @@ async function getRangeVerses(table: Table, bookName: string, chapt: number, sta
 async function getVerses(table: Table, bookName: string, chapt: number) {
 
 	try {
+
+		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
 			sql(table)
 		} 
 		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
-		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapt} AND books.name = ${bookName};
+		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapt} AND books.name = ${book};
 		`;
 
 		return data
@@ -287,9 +303,7 @@ const getOneVerseVersion = async (
 			return c.notFound();
 		}
 
-		const formatedBook = format(queryBook); 
-
-		if (!existBook(formatedBook)) {
+		if (!existBook(queryBook)) {
 			return c.notFound();
 		}
 
@@ -315,7 +329,7 @@ const getOneVerseVersion = async (
 				});	
 			}
 
-			const info = await getRangeVerses(table, formatedBook, chapter, start, end);
+			const info = await getRangeVerses(table, queryBook, chapter, start, end);
 
 			return c.json(info);
 
@@ -326,7 +340,7 @@ const getOneVerseVersion = async (
 				return c.notFound();
 			}
 
-			const info = await getOneVerse(table, formatedBook, chapter, verse_num);
+			const info = await getOneVerse(table, queryBook, chapter, verse_num);
 
 			return c.json(info);
 
@@ -357,6 +371,7 @@ const getChapterVersion = async (
 	try {
 		const bookName = format(c.req.param("book"));
 		const number = parseInt(c.req.param("chapter"));
+
 
 		if (!existBook(bookName) || isNaN(number)) {
 			return c.notFound();
