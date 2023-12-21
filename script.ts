@@ -1,8 +1,10 @@
 import { connect } from "./src/database/index.ts";
 import { books } from "$/scraping/index.ts";
 import { DataBook } from "$/scraping/scrape.ts";
+import { Client } from "https://deno.land/x/postgres@v0.17.0/mod.ts";
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";
 import { create, insertMultiple, search } from "npm:@orama/orama";
+
 const sql = connect();
 
 async function createMemoryDB() {
@@ -21,6 +23,7 @@ async function createMemoryDB() {
 
   return db;
 }
+
 
 async function fillMemoryDB(db: any) {
   const r =
@@ -73,8 +76,8 @@ const findVerses = async (db: any, term: string) => {
   });
 };
 
-const nvi = await createMemoryDB();
-await fillMemoryDB(nvi);
+//const nvi = await createMemoryDB();
+//await fillMemoryDB(nvi);
 
 // const sql = connect();
 
@@ -146,63 +149,75 @@ await fillMemoryDB(nvi);
 
 // const r = await sql`select * from verses_nvi WHERE UNACCENT(LOWER(verse)) LIKE '%josue%'
 //  // LIMIT 10;`
-// console.log(r)
 
+const client = await new Client(Deno.env.get("DATABASE_URL") ?? "")
+
+await client.connect()
+
+const table = `verses_dhh`
+const version = 'dhh'
+
+await client.queryArray(`DROP TABLE if exists ${table}`)
 // sql.end()
-// await client.queryArray(`
-// create table verses_dhh (
-// 	id serial primary key,
-// 	verse text not null,
-// 	study text,
-// 	number integer not null,
-// 	chapter integer not null,
-// 	chapter_id integer not null,
-// 	foreign key (chapter_id) references chapters(id)
-// )`)
-//
-// const data = []
-// for(const b of books.filter(b => b.testament === 'Antiguo Testamento')) {
-// 	const raw = await Deno.readTextFile(`./db/dhh/oldTestament/${b.name.toLowerCase()}.json`)
-// 	const info: DataBook = await JSON.parse(raw)
-//
-// 	const {rows} = await client.queryArray(`select chapters.id from chapters JOIN books ON chapters.book_id = books.id WHERE books.name = '${b.name}'`)
-//
-// 	info.chapters.forEach(c => {
-// 		const index = Number(c.chapter)
-// 		c.vers.forEach(v => {
-// 			data.push({
-// 				verse: v.verse,
-// 				study: v.study,
-// 				number: v.number,
-// 				chapter: Number(c.chapter),
-// 				chapter_id: rows[index - 1][0]
-// 			})
-// 		})
-// 	})
-// 	console.log(b.name)
-// }
-//
-// for(const b of books.filter(b => b.testament === 'Nuevo Testamento')) {
-// 	const raw = await Deno.readTextFile(`./db/dhh/newTestament/${b.name.toLowerCase()}.json`)
-// 	const info: DataBook = await JSON.parse(raw)
-//
-// 	const {rows} = await client.queryArray(`select chapters.id from chapters JOIN books ON chapters.book_id = books.id WHERE books.name = '${b.name}'`)
-// 	info.chapters.forEach(c => {
-// 		const index = Number(c.chapter)
-// 		c.vers.forEach(v => {
-// 			data.push({
-// 				verse: v.verse,
-// 				study: v.study,
-// 				number: v.number,
-// 				chapter: Number(c.chapter),
-// 				chapter_id: rows[index -1][0]
-// 			})
-// 		})
-//
-// 	})
-// 	console.log(b.name)
-// }
-//
-// const r = await client.queryArray(`INSERT INTO verses_dhh (verse, study, number, chapter_id, chapter) VALUES ${data.map(d => `('${d.verse}', ${d.study ? `'${d.study}'`:  null}, ${d.number}, ${d.chapter_id}, ${d.chapter})`).join(',')}`)
-// console.log(r)
-//
+ await sql`
+ create table ${sql(table)} (
+ 	id serial primary key,
+ 	verse text not null,
+ 	study text,
+ 	number integer not null,
+ 	chapter integer not null,
+ 	chapter_id integer not null,
+ 	foreign key (chapter_id) references chapters(id)
+ )`
+////
+ const data = []
+ for(const b of books.filter(b => b.testament === 'Antiguo Testamento')) {
+ 	const raw = await Deno.readTextFile(`./${version}/old/${b.name.toLowerCase()}.json`)
+
+	const info: DataBook = await JSON.parse(raw)
+	const name = `${b.name}`
+
+ 	const rows = await sql`select chapters.id from chapters JOIN books ON chapters.book_id = books.id WHERE books.name = ${name}`
+	 
+ 	info.chapters.forEach(c => {
+ 		const index = Number(c.chapter)
+	 		c.vers.forEach(v => {
+ 			data.push({
+ 				verse: v.verse,
+ 				study: v.study,
+ 				number: v.number,
+ 				chapter: Number(c.chapter),
+ 				chapter_id: rows[index - 1].id
+ 			})
+ 		})
+ 	})
+ 	console.log(b.name)
+ }
+
+ for(const b of books.filter(b => b.testament === 'Nuevo Testamento')) {
+ 	const raw = await Deno.readTextFile(`./${version}/new/${b.name.toLowerCase()}.json`)
+ 	const info: DataBook = await JSON.parse(raw)
+
+	const name = `${b.name}`
+	const rows = await sql`select chapters.id from chapters JOIN books ON chapters.book_id = books.id WHERE books.name = ${name}`
+ 	info.chapters.forEach(c => {
+ 		const index = Number(c.chapter)
+ 		c.vers.forEach(v => {
+ 			data.push({
+ 				verse: v.verse,
+ 				study: v.study,
+ 				number: v.number,
+ 				chapter: Number(c.chapter),
+ 				chapter_id: rows[index - 1].id
+ 			})
+ 		})
+
+ 	})
+ 	console.log(b.name)
+ }
+
+ const r = await client.queryArray(`INSERT INTO ${table} (verse, study, number, chapter_id, chapter) VALUES ${data.map(d => `('${d.verse}', ${d.study ? `'${d.study}'`:  null}, ${d.number}, ${d.chapter_id}, ${d.chapter})`).join(',')}`)
+ console.log(r)
+
+sql.close()
+

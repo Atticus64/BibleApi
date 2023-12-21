@@ -9,10 +9,11 @@ interface Studies {
 }
 
 export enum Version {
-  Rv60 = "rv60",
-  Rv95 = "rv95",
+  Rv60 = "rv1960",
+  Rv95 = "rv1995",
   Nvi = "nvi",
   Dhh = "dhh",
+  Pdt = "pdt",
 }
 
 export const getVersionName = (v: Version): string => {
@@ -25,6 +26,8 @@ export const getVersionName = (v: Version): string => {
       return "Reina Valera 1995";
     case Version.Rv60:
       return "Reina Valera 1960";
+	case Version.Pdt:
+		return "Palabra de Dios para todos";
   }
 };
 

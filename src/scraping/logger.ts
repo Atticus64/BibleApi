@@ -3,12 +3,12 @@ interface Logger {
   name: string;
 }
 
-interface Loggers {
+export interface Loggers {
   info: Logger;
   error: Logger;
 }
 
-const loggers = {
+export const loggers = {
   info: {
     color: "#82E0AA",
     name: "INFO",

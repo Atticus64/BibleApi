@@ -3,18 +3,23 @@ import { Version } from "$/scraping/scrape.ts";
 import {
   getChapterVersion,
   getEndpoits,
-  Path,
+  getOneVerseVersion,
+  VersionBible,
   SearchVersion,
 } from "$/controllers/version.ts";
 
 const router_dhh = new Hono();
 
 router_dhh.get("/", (c) => {
-  return getEndpoits(c, Path.DHH, Version.Dhh);
+  return getEndpoits(c, VersionBible.DHH, Version.Dhh);
 });
 
 router_dhh.get("/search", (c) => {
   return SearchVersion(c, Version.Dhh);
+});
+
+router_dhh.get("/verse", (c: Context) => {
+  return getOneVerseVersion(c, "verses_dhh");
 });
 
 router_dhh.get("/chapter/:book/:chapter", (c: Context) => {

@@ -1,10 +1,6 @@
 import { Hono } from "hono/mod.ts";
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";
 import { cors } from "middleware/cors/index.ts";
-import router_rv60 from "$/routers/rv60.ts";
-import router_rv95 from "$/routers/rv95.ts";
-import router_nvi from "$/routers/nvi.ts";
-import router_dhh from "$/routers/Dhh.ts";
 import router_book from "$/routers/book.ts";
 import router_auth from "$/routers/auth.ts";
 import router_notes from "$/routers/notes.ts";
@@ -12,6 +8,8 @@ import { isAuthenticated } from "$/middlewares/authorization.ts";
 import router_user from "$/routers/user.ts";
 import { getBooks } from "$/controllers/book.ts";
 import { deleteUser } from "$/controllers/user.ts";
+import { router_read } from "$/routers/read.ts";
+import { getVersions } from "$/controllers/version.ts";
 
 const DEV_ORIGINS = Deno.env.get("ORIGINS");
 const origin = [
@@ -44,32 +42,19 @@ app.route("/user", router_user);
 app.use("/api/*", cors());
 
 app.get("/api", (c) => {
+  const versions = getVersions();
+
+  const endpoints  = versions.map((version) => {
+	return `/api/read/${version}/genesis/1`;
+  })
+
   return c.json({
-    versions: [
-      "rv1960",
-      "rv1995",
-      "Nvi",
-      "Dhh",
-    ],
-    endpoints: [
-      "/api/rv1960/book/genesis/1",
-      "/api/rv1995/book/genesis/1",
-      "/api/nvi/book/genesis/1",
-      "/api/dhh/book/genesis/1",
-    ],
+    versions,    
+	endpoints   
   });
 });
 
-// servir la version reina valera 1960
-app.route("/api/rv1960", router_rv60);
-
-// servir la version reina valera 1909
-app.route("/api/rv1995", router_rv95);
-
-// servir la  version traduccion lenguaje actual
-app.route("/api/nvi", router_nvi);
-
-app.route("/api/dhh", router_dhh);
+app.route("/api/read", router_read)
 
 app.route("/api/book", router_book);
 
