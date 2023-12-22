@@ -1,5 +1,5 @@
 import { Context } from "hono/context.ts";
-import { getVersionName, Version } from "$/scraping/scrape.ts";
+import { getVersionName, Verse, Version } from "$/scraping/scrape.ts";
 import { connect } from "$/database/index.ts";
 import { searchProps } from "$/middlewares/search.ts";
 import { Book, books } from "$/scraping/index.ts";
@@ -209,8 +209,25 @@ function toValidName(bookName: string): string {
 	}
 
 	return formatedBook
+}
+
+function deleteNullValues(data: Verse[]) {
+
+	return data.map(v => {
+
+		if (v.study) {
+			return v
+		} else {
+			return {
+				verse: v.verse,
+				number: v.number,
+				id: v.id
+			}
+		}
+	})
 
 }
+
 async function getOneVerse(table: Table, bookName: string, chapter: number, verse_num: number) {
 
 	try {
@@ -223,9 +240,9 @@ async function getOneVerse(table: Table, bookName: string, chapter: number, vers
 		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapter} 
 		AND books.name = ${book} AND ${sql(table)}.number = ${verse_num};
 		`;
+		const verse = data[0];
 
-
-		return data;
+		return verse;
 	} catch (error) {
 		console.log(error);
 		return []
@@ -270,7 +287,8 @@ async function getVerses(table: Table, bookName: string, chapt: number) {
 		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapt} AND books.name = ${book};
 		`;
 
-		return data
+		const verses = deleteNullValues(data)
+		return verses;
 
 	} catch (error) {
 		console.log(error);

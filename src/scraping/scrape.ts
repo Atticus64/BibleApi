@@ -31,7 +31,7 @@ export const getVersionName = (v: Version): string => {
   }
 };
 
-type Verse = {
+export type Verse = {
   verse: string;
   number: number;
   study?: string;
