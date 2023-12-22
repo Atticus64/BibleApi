@@ -1,4 +1,4 @@
-import { books } from "$/scraping/index.ts";
+import { books } from "$/constants.ts";
 
 const oldTestamentbooks = books.filter((b) => {
   return b.testament === "Antiguo Testamento";

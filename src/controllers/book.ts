@@ -4,7 +4,7 @@ import {
   isInNewTestament,
   isInOldTestament,
 } from "$/utils/book.ts";
-import { Testament, books } from "$/scraping/index.ts";
+import { Testament, books } from "$/constants.ts";
 
 export const getBookInfo = (c: Context): Response => {
   const paramBook = c.req.param("book");

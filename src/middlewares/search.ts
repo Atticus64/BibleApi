@@ -1,6 +1,6 @@
 import { getFolder, Version } from "$/scraping/scrape.ts";
 import { Context } from "hono/mod.ts";
-import { Book, books } from "$/scraping/index.ts";
+import { Book, books } from "$/constants.ts";
 
 interface Verse {
   verse: string;

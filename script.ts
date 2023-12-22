@@ -1,5 +1,5 @@
 import { connect } from "./src/database/index.ts";
-import { books } from "$/scraping/index.ts";
+import { books } from "$/constants.ts";
 import { DataBook } from "$/scraping/scrape.ts";
 import { Client } from "https://deno.land/x/postgres@v0.17.0/mod.ts";
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";

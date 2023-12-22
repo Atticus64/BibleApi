@@ -1,6 +1,6 @@
 const path = "db/dhh";
 
-import { books } from "$/scraping/index.ts";
+import { books } from "$/constants.ts";
 
 const dataNewTestament = [];
 const dataOldTestament = [];

@@ -1,8 +1,8 @@
 import { Context } from "hono/context.ts";
-import { getVersionName, Verse, Version } from "$/scraping/scrape.ts";
+import { Verse, Version } from "$/constants.ts";
 import { connect } from "$/database/index.ts";
 import { searchProps } from "$/middlewares/search.ts";
-import { Book, books } from "$/scraping/index.ts";
+import { Book, books } from "$/constants.ts";
 import { getNameByAbbreviation, isAbbreviation } from "$/utils/book.ts";
 
 const sql = connect();
@@ -365,7 +365,6 @@ const getOneVerseVersion = async (
 					range: queryVerse
 				})
 			}
-			console.log(info)
 
 			return c.json(info);
 

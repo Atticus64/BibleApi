@@ -1,14 +1,6 @@
 import { Context } from "hono/context.ts";
-import { getVersionName } from "$/scraping/scrape.ts";
-
-
-export enum VersionBible {
-  RV60 = "rv1960",
-  RV95 = "rv1995",
-  NVI = "nvi",
-  DHH = "dhh",
-  PDT = "pdt",
-}
+import { getVersionName } from "$/constants.ts";
+import { VersionBible } from "$/constants.ts";
 
 export const getVersions = () => {
 	const versions = [];
@@ -23,13 +15,6 @@ export const getVersions = () => {
 
 	return versions;
 }
-
-export type Table = 
-	"verses_rv1960" 
-| "verses_rv1995" 
-| "verses_nvi" 
-| "verses_pdt" 
-| "verses_dhh";
 
 export const versions = (c: Context) => {
 	return c.json(getVersions());

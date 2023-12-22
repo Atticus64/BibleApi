@@ -1,4 +1,4 @@
-import { books } from "$/scraping/index.ts";
+import { books } from "$/constants.ts";
 import * as cherio from "https://esm.sh/cheerio";
 import { log, loggers } from "$/scraping/logger.ts";
 

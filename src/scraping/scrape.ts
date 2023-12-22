@@ -1,61 +1,11 @@
-import { Book, books } from "$/scraping/index.ts";
-// import * as cherio from "cherio";
+import { Book, books } from "$/constants.ts";
 import { log } from "$/scraping/logger.ts";
-import { VersionBible } from "$/controllers/version.ts";
 const BiblePage = "https://www.biblia.es/biblia-buscar-libros-1.php";
 
 interface Studies {
   v: number;
   study: string;
 }
-
-export enum Version {
-  Rv60 = "rv1960",
-  Rv95 = "rv1995",
-  Nvi = "nvi",
-  Dhh = "dhh",
-  Pdt = "pdt",
-}
-
-export const getVersionName = (v: Version | VersionBible): string => {
-  switch (v) {
-    case Version.Dhh:
-      return "Dios habla hoy";
-    case Version.Nvi:
-      return "Nueva version internacional";
-    case Version.Rv95:
-      return "Reina Valera 1995";
-    case Version.Rv60:
-      return "Reina Valera 1960";
-	case Version.Pdt:
-		return "Palabra de Dios para todos";
-	default:
-		return v;
-  }
-};
-
-export type Verse = {
-  verse: string;
-  number: number;
-  study?: string;
-  id: string;
-};
-
-export type DataBook = {
-  name: string;
-  num_chapters: number;
-  chapters: { chapter: string; vers: Verse[] }[];
-  book_id: string;
-};
-
-export const existDir = (dir: string): boolean => {
-  try {
-    Deno.readDirSync(dir);
-    return true;
-  } catch (_err) {
-    return false;
-  }
-};
 
 const getUrls = (book: string, chapters: number, version: Version) => {
   const urls = [];

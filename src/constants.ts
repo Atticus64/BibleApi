@@ -1,14 +1,3 @@
-import { parse } from "flags";
-import { DataBook, scrapeVersion, Version } from "$/scraping/scrape.ts";
-
-const start = performance.now();
-
-const flags = parse(Deno.args, {
-  boolean: ["help"],
-  string: ["version"],
-  default: { help: false },
-});
-
 const Testaments = ["Antiguo Testamento", "Nuevo Testamento"] as const;
 export type Testament = typeof Testaments[number];
 
@@ -19,6 +8,71 @@ export interface Book {
   testament: Testament;
 }
 
+export enum Version {
+  Rv60 = "rv1960",
+  Rv95 = "rv1995",
+  Nvi = "nvi",
+  Dhh = "dhh",
+  Pdt = "pdt",
+}
+
+export enum VersionBible {
+  RV60 = "rv1960",
+  RV95 = "rv1995",
+  NVI = "nvi",
+  DHH = "dhh",
+  PDT = "pdt",
+}
+
+export type Table = 
+	"verses_rv1960" 
+| "verses_rv1995" 
+| "verses_nvi" 
+| "verses_pdt" 
+| "verses_dhh";
+
+
+export const getVersionName = (v: Version | VersionBible): string => {
+  switch (v) {
+    case Version.Dhh:
+      return "Dios habla hoy";
+    case Version.Nvi:
+      return "Nueva version internacional";
+    case Version.Rv95:
+      return "Reina Valera 1995";
+    case Version.Rv60:
+      return "Reina Valera 1960";
+	case Version.Pdt:
+		return "Palabra de Dios para todos";
+	default:
+		return v;
+  }
+};
+
+export type Verse = {
+  verse: string;
+  number: number;
+  study?: string;
+  id: string;
+};
+
+export type DataBook = {
+  name: string;
+  num_chapters: number;
+  chapters: { chapter: string; vers: Verse[] }[];
+  book_id: string;
+};
+
+export const existDir = (dir: string): boolean => {
+  try {
+    Deno.readDirSync(dir);
+    return true;
+  } catch (_err) {
+    return false;
+  }
+};
+
+
 /*
  * Array of Bible books
  * Elements
@@ -28,31 +82,31 @@ export interface Book {
 export const books: Book[] = [
   {
     name: "Genesis",
-    abrev: "GEN",
+    abrev: "GN",
     chapters: 50,
     testament: "Antiguo Testamento",
   },
   {
     name: "Exodo",
-    abrev: "EXO",
+    abrev: "EX",
     chapters: 40,
     testament: "Antiguo Testamento",
   },
   {
     name: "Levitico",
-    abrev: "LEV",
+    abrev: "LV",
     chapters: 27,
     testament: "Antiguo Testamento",
   },
   {
     name: "Numeros",
-    abrev: "NUM",
+    abrev: "NM",
     chapters: 36,
     testament: "Antiguo Testamento",
   },
   {
     name: "Deuteronomio",
-    abrev: "DEU",
+    abrev: "DT",
     chapters: 34,
     testament: "Antiguo Testamento",
   },
@@ -64,55 +118,55 @@ export const books: Book[] = [
   },
   {
     name: "Jueces",
-    abrev: "JDG",
+    abrev: "JUE",
     chapters: 21,
     testament: "Antiguo Testamento",
   },
   {
     name: "Rut",
-    abrev: "RUT",
+    abrev: "RT",
     chapters: 4,
     testament: "Antiguo Testamento",
   },
   {
     name: "1-Samuel",
-    abrev: "1SA",
+    abrev: "1S",
     chapters: 31,
     testament: "Antiguo Testamento",
   },
   {
     name: "2-Samuel",
-    abrev: "2SA",
+    abrev: "2S",
     chapters: 24,
     testament: "Antiguo Testamento",
   },
   {
     name: "1-Reyes",
-    abrev: "1KI",
+    abrev: "1R",
     chapters: 22,
     testament: "Antiguo Testamento",
   },
   {
     name: "2-Reyes",
-    abrev: "2KI",
+    abrev: "2R",
     chapters: 25,
     testament: "Antiguo Testamento",
   },
   {
     name: "1-Cronicas",
-    abrev: "1CH",
+    abrev: "1CR",
     chapters: 29,
     testament: "Antiguo Testamento",
   },
   {
     name: "2-Cronicas",
-    abrev: "2CH",
+    abrev: "2CR",
     chapters: 36,
     testament: "Antiguo Testamento",
   },
   {
     name: "Esdras",
-    abrev: "EZR",
+    abrev: "ESD",
     chapters: 10,
     testament: "Antiguo Testamento",
   },
@@ -136,79 +190,79 @@ export const books: Book[] = [
   },
   {
     name: "Salmos",
-    abrev: "PSA",
+    abrev: "SAL",
     chapters: 150,
     testament: "Antiguo Testamento",
   },
   {
     name: "Proverbios",
-    abrev: "PRO",
+    abrev: "PR",
     chapters: 31,
     testament: "Antiguo Testamento",
   },
   {
     name: "Eclesiastes",
-    abrev: "ECC",
+    abrev: "EC",
     chapters: 12,
     testament: "Antiguo Testamento",
   },
   {
     name: "Cantares",
-    abrev: "SON",
+    abrev: "CNT",
     chapters: 8,
     testament: "Antiguo Testamento",
   },
   {
     name: "Isaias",
-    abrev: "ISA",
+    abrev: "IS",
     chapters: 66,
     testament: "Antiguo Testamento",
   },
   {
-    abrev: "JER",
     name: "Jeremias",
+    abrev: "JER",
     chapters: 52,
     testament: "Antiguo Testamento",
   },
   {
     name: "Lamentaciones",
-    abrev: "LAM",
+    abrev: "LM",
     chapters: 5,
     testament: "Antiguo Testamento",
   },
   {
     name: "Ezequiel",
-    abrev: "EZE",
+    abrev: "EZ",
     chapters: 48,
     testament: "Antiguo Testamento",
   },
   {
     name: "Daniel",
-    abrev: "DAN",
+    abrev: "DN",
     chapters: 12,
     testament: "Antiguo Testamento",
   },
   {
     name: "Oseas",
-    abrev: "HOS",
+    abrev: "OS",
     chapters: 14,
     testament: "Antiguo Testamento",
   },
   {
     name: "Joel",
-    abrev: "JOE",
+    abrev: "JL",
     chapters: 3,
     testament: "Antiguo Testamento",
   },
   {
     name: "Amos",
-    abrev: "AMO",
+    abrev: "AM",
     chapters: 9,
     testament: "Antiguo Testamento",
   },
   {
     name: "Abdias",
-    abrev: "OBA",
+    abrev: "ABD",
     chapters: 1,
     testament: "Antiguo Testamento",
   },
@@ -218,10 +272,9 @@ export const books: Book[] = [
     chapters: 4,
     testament: "Antiguo Testamento",
   },
-
   {
     name: "Miqueas",
-    abrev: "MIC",
+    abrev: "MI",
     chapters: 7,
     testament: "Antiguo Testamento",
   },
@@ -239,7 +292,7 @@ export const books: Book[] = [
   },
   {
     name: "Sofonias",
-    abrev: "ZEP",
+    abrev: "SOF",
     chapters: 3,
     testament: "Antiguo Testamento",
   },
@@ -251,7 +304,7 @@ export const books: Book[] = [
   },
   {
     name: "Zacarias",
-    abrev: "ZEC",
+    abrev: "ZAC",
     chapters: 14,
     testament: "Antiguo Testamento",
   },
@@ -263,37 +316,37 @@ export const books: Book[] = [
   },
   {
     name: "Mateo",
-    abrev: "MAT",
+    abrev: "MT",
     chapters: 28,
     testament: "Nuevo Testamento",
   },
   {
     name: "Marcos",
-    abrev: "MAR",
+    abrev: "MR",
     chapters: 16,
     testament: "Nuevo Testamento",
   },
   {
     name: "Lucas",
-    abrev: "LUK",
+    abrev: "LC",
     chapters: 24,
     testament: "Nuevo Testamento",
   },
   {
     name: "Juan",
-    abrev: "JOH",
+    abrev: "JN",
     chapters: 21,
     testament: "Nuevo Testamento",
   },
   {
     name: "Hechos",
-    abrev: "ACT",
+    abrev: "HCH",
     chapters: 28,
     testament: "Nuevo Testamento",
   },
   {
     name: "Romanos",
-    abrev: "ROM",
+    abrev: "RO",
     chapters: 16,
     testament: "Nuevo Testamento",
   },
@@ -311,19 +364,19 @@ export const books: Book[] = [
   },
   {
     name: "Galatas",
-    abrev: "GAL",
+    abrev: "GA",
     chapters: 6,
     testament: "Nuevo Testamento",
   },
   {
     name: "Efesios",
-    abrev: "EPH",
+    abrev: "EF",
     chapters: 6,
     testament: "Nuevo Testamento",
   },
   {
     name: "Filipenses",
-    abrev: "PHI",
+    abrev: "FIL",
     chapters: 4,
     testament: "Nuevo Testamento",
   },
@@ -335,13 +388,13 @@ export const books: Book[] = [
   },
   {
     name: "1-Tesalonicenses",
-    abrev: "1TH",
+    abrev: "1TS",
     chapters: 5,
     testament: "Nuevo Testamento",
   },
   {
     name: "2-Tesalonicenses",
-    abrev: "2TH",
+    abrev: "2TS",
     chapters: 3,
     testament: "Nuevo Testamento",
   },
@@ -365,49 +418,49 @@ export const books: Book[] = [
   },
   {
     name: "Filemon",
-    abrev: "PHM",
+    abrev: "FLM",
     chapters: 1,
     testament: "Nuevo Testamento",
   },
   {
     name: "Hebreos",
-    abrev: "HEB",
+    abrev: "HE",
     chapters: 13,
     testament: "Nuevo Testamento",
   },
   {
     name: "Santiago",
-    abrev: "JAS",
+    abrev: "STG",
     chapters: 5,
     testament: "Nuevo Testamento",
   },
   {
     name: "1-Pedro",
-    abrev: "1PE",
+    abrev: "1P",
     chapters: 5,
     testament: "Nuevo Testamento",
   },
   {
     name: "2-Pedro",
-    abrev: "2PE",
+    abrev: "2P",
     chapters: 3,
     testament: "Nuevo Testamento",
   },
   {
     name: "1-Juan",
-    abrev: "1JO",
+    abrev: "1JN",
     chapters: 5,
     testament: "Nuevo Testamento",
   },
   {
     name: "2-Juan",
-    abrev: "2JO",
+    abrev: "2JN",
     chapters: 1,
     testament: "Nuevo Testamento",
   },
   {
     name: "3-Juan",
-    abrev: "3JO",
+    abrev: "3JN",
     chapters: 1,
     testament: "Nuevo Testamento",
   },
@@ -419,35 +472,10 @@ export const books: Book[] = [
   },
   {
     name: "Apocalipsis",
-    abrev: "REV",
+    abrev: "AP",
     chapters: 22,
     testament: "Nuevo Testamento",
   },
 ];
 
-//if (import.meta.main) {
-//	if (!flags.version) {
-//		console.log('Scraping all')
-//		await scrapeVersion(Version.Nvi);
-//		await scrapeVersion(Version.Rv60);
-//		await scrapeVersion(Version.Rv95);
-//		await scrapeVersion(Version.Dhh);
-//	}
 
-//	if (flags.version === "rv60" || flags.version === "rv1960") {
-//		await scrapeVersion(Version.Rv60);
-//	}
-
-//	if (flags.version === "r95" || flags.version === "rv1995") {
-//		await scrapeVersion(Version.Rv95);
-//	}
-
-//	if (flags.version === "dhh") {
-//		await scrapeVersion(Version.Dhh);
-//	}
-
-//	if (flags.version === "nvi") {
-//		await scrapeVersion(Version.Nvi);
-//	}
-//	console.log(`Call to scrape took ${performance.now() - start} milliseconds.`);
-//}
