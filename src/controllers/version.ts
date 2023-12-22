@@ -264,7 +264,8 @@ async function getRangeVerses(table: Table, bookName: string, chapt: number, sta
 			AND ${sql(table)}.number >= ${start} AND ${sql(table)}.number <= ${end};
 		`;
 		data.sort((a, b) => a.number - b.number);
-		return data
+		const verses = deleteNullValues(data)
+		return verses;
 
 	} catch (error) {
 		console.log(error);
