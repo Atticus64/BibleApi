@@ -1,11 +1,14 @@
 import { Context } from "hono/context.ts";
-import { Verse, Version } from "$/constants.ts";
+import { Verse, VerseSchema, Version } from "$/constants.ts";
 import { connect } from "$/database/index.ts";
 import { searchProps } from "$/middlewares/search.ts";
 import { Book, books } from "$/constants.ts";
 import { getNameByAbbreviation, isAbbreviation } from "$/utils/book.ts";
+import { z } from "zod";
 
 const sql = connect();
+
+const versesSchema = z.array(VerseSchema)
 
 export enum VersionBible {
   RV60 = "rv1960",
@@ -249,7 +252,10 @@ async function getRangeVerses(table: Table, bookName: string, chapt: number, sta
 			AND ${sql(table)}.number >= ${start} AND ${sql(table)}.number <= ${end};
 		`;
 		data.sort((a, b) => a.number - b.number);
-		const verses = deleteNullValues(data)
+
+		const rawVerses = versesSchema.parse(data);
+		const verses = deleteNullValues(rawVerses)
+
 		return verses;
 
 	} catch (error) {
@@ -273,7 +279,9 @@ async function getVerses(table: Table, bookName: string, chapt: number) {
 		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapt} AND books.name = ${book};
 		`;
 
-		const verses = deleteNullValues(data)
+		const rawVerses = versesSchema.parse(data);
+		const verses = deleteNullValues(rawVerses)
+		
 		return verses;
 
 	} catch (error) {

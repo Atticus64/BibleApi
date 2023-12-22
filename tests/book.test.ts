@@ -9,7 +9,7 @@ describe("Books test", () => {
     const json = await response.json();
 
     assertEquals(json, {
-      abrev: "GEN",
+      abrev: "GN",
       chapters: 50,
       name: "Genesis",
       testament: "Antiguo Testamento",

@@ -1,3 +1,5 @@
+import { z } from "zod";
+
 const Testaments = ["Antiguo Testamento", "Nuevo Testamento"] as const;
 export type Testament = typeof Testaments[number];
 
@@ -49,12 +51,14 @@ export const getVersionName = (v: Version | VersionBible): string => {
   }
 };
 
-export type Verse = {
-  verse: string;
-  number: number;
-  study?: string;
-  id: string;
-};
+export const VerseSchema = z.object({
+  verse: z.string(),
+  number: z.number(),
+  study: z.string().nullish(),
+  id: z.number(),
+})
+
+export type Verse = z.infer<typeof VerseSchema>;
 
 export type DataBook = {
   name: string;

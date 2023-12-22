@@ -1,4 +1,4 @@
-import { Book, books } from "$/constants.ts";
+import { Book, Version, books } from "$/constants.ts";
 import { log } from "$/scraping/logger.ts";
 const BiblePage = "https://www.biblia.es/biblia-buscar-libros-1.php";
 
