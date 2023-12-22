@@ -1,6 +1,7 @@
 import { Book, books } from "$/scraping/index.ts";
 // import * as cherio from "cherio";
 import { log } from "$/scraping/logger.ts";
+import { VersionBible } from "$/controllers/version.ts";
 const BiblePage = "https://www.biblia.es/biblia-buscar-libros-1.php";
 
 interface Studies {
@@ -16,7 +17,7 @@ export enum Version {
   Pdt = "pdt",
 }
 
-export const getVersionName = (v: Version): string => {
+export const getVersionName = (v: Version | VersionBible): string => {
   switch (v) {
     case Version.Dhh:
       return "Dios habla hoy";
@@ -28,6 +29,8 @@ export const getVersionName = (v: Version): string => {
       return "Reina Valera 1960";
 	case Version.Pdt:
 		return "Palabra de Dios para todos";
+	default:
+		return v;
   }
 };
 

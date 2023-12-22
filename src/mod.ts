@@ -6,10 +6,10 @@ import router_auth from "$/routers/auth.ts";
 import router_notes from "$/routers/notes.ts";
 import { isAuthenticated } from "$/middlewares/authorization.ts";
 import router_user from "$/routers/user.ts";
-import { getBooks } from "$/controllers/book.ts";
+import { getBooks, getTestamentBooks } from "$/controllers/book.ts";
 import { deleteUser } from "$/controllers/user.ts";
 import { router_read } from "$/routers/read.ts";
-import { getVersions } from "$/controllers/version.ts";
+import { getVersions, versions } from "$/controllers/version.ts";
 
 const DEV_ORIGINS = Deno.env.get("ORIGINS");
 const origin = [
@@ -59,6 +59,12 @@ app.route("/api/read", router_read)
 app.route("/api/book", router_book);
 
 app.get("/api/books", getBooks);
+
+app.get("/api/books/oldTestament", (c) => getTestamentBooks(c, "old"));
+
+app.get("/api/books/newTestament", (c) => getTestamentBooks(c, "new"));
+
+app.get("/api/versions", versions);
 
 app.notFound((c) => {
   const { pathname } = new URL(c.req.url);

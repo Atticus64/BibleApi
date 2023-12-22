@@ -4,7 +4,7 @@ import {
   isInNewTestament,
   isInOldTestament,
 } from "$/utils/book.ts";
-import { books } from "$/scraping/index.ts";
+import { Testament, books } from "$/scraping/index.ts";
 
 export const getBookInfo = (c: Context): Response => {
   const paramBook = c.req.param("book");
@@ -34,14 +34,13 @@ export const getBookInfo = (c: Context): Response => {
   });
 };
 
+export const getTestamentBooks = (c: Context, testament: "old" | "new") => {
+	const esTestament = testament === "old" ? "Antiguo Testamento" : "Nuevo Testamento";
+	return c.json(books.filter((b) => b.testament === esTestament));
+}
+
 export const getBooks = (c: Context) => {
   c.status(200);
 
-  const data = books.map((b) => ({
-    name: b.name,
-    chapters: b.chapters,
-    testament: b.testament,
-  }));
-
-  return c.json(data);
+  return c.json(books);
 };
