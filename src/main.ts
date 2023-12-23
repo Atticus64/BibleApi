@@ -1,6 +1,5 @@
-import { app }  from "$/mod.ts";
-import { serve } from "std/http/server.ts";
+import { app } from "$/mod.ts";
 
 if (import.meta.main) {
-  serve(app.fetch);
+  Deno.serve(app.fetch);
 }

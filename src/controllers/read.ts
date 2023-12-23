@@ -93,45 +93,46 @@ async function searchTable(
   page: number,
   testament: "old" | "new" | "both",
 ) {
-  const hasTestament = testament === "old" || testament === "new";
-  const offset = (page - 1) * take;
-  const parsedQuery = `%${query.toLowerCase()}%`;
+	const hasTestament = testament === "old" || testament === "new";
+	const offset = (page - 1) * take;
+	const parsedQuery = `%${query.toLowerCase()}%`;
 
-  const checkTestament = (testament: string) =>
-    sql`and testament = ${testament}`;
+	const checkTestament = (testament: string) =>
+	sql`and testament = ${testament}`;
 
-  const meta = await sql`
-		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${
-    sql(table)
-  }.chapter FROM ${sql(table)} 
-		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
-		JOIN books ON books.id = chapters.book_id
-		WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} ${
-    hasTestament ? checkTestament(testament) : sql``
-  }`;
+	const meta = await sql`
+	SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${
+		sql(table)
+	}.chapter FROM ${sql(table)} 
+	JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+	JOIN books ON books.id = chapters.book_id
+	WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} ${
+		hasTestament ? checkTestament(testament) : sql``
+	}`;
 
-  const res = await sql`
-		SELECT verse, study, ${sql(table)}.number, ${
-    sql(table)
-  }.id, name as book, ${sql(table)}.chapter FROM ${sql(table)}
-		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
-		JOIN books ON books.id = chapters.book_id
-		WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} 
-		${hasTestament ? checkTestament(testament) : sql``} 
-		LIMIT ${take} OFFSET ${offset};`;
+	const res = await sql`
+	SELECT verse, study, ${sql(table)}.number, ${
+		sql(table)
+	}.id, name as book, ${sql(table)}.chapter FROM ${sql(table)}
+	JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+	JOIN books ON books.id = chapters.book_id
+	WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} 
+	${hasTestament ? checkTestament(testament) : sql``} 
+	LIMIT ${take} OFFSET ${offset};`;
 
+	sql.end();
 
-  const info = {
-    data: res,
-    meta: {
-      page,
-      pageSize: take,
-      total: meta.count,
-      pageCount: Math.ceil(meta.count / take),
-    },
-  };
+	const info = {
+		data: res,
+		meta: {
+			page,
+			pageSize: take,
+			total: meta.count,
+			pageCount: Math.ceil(meta.count / take),
+		},
+	};
 
-  return info;
+	return info;
 }
 
 export async function dbSearch(
@@ -219,6 +220,7 @@ function deleteNullValues(data: Verse[]) {
 async function getOneVerse(table: Table, bookName: string, chapter: number, verse_num: number) {
 
 	try {
+		const sql = connect()
 		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
@@ -228,7 +230,10 @@ async function getOneVerse(table: Table, bookName: string, chapter: number, vers
 		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapter} 
 		AND books.name = ${book} AND ${sql(table)}.number = ${verse_num};
 		`;
+
 		const verse = data[0];
+
+		await sql.end();
 
 		return verse;
 	} catch (error) {
@@ -242,6 +247,7 @@ async function getOneVerse(table: Table, bookName: string, chapter: number, vers
 
 async function getRangeVerses(table: Table, bookName: string, chapt: number, start: number, end: number) {
 	try {
+		const sql = connect()
 		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 			SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
@@ -254,7 +260,9 @@ async function getRangeVerses(table: Table, bookName: string, chapt: number, sta
 		data.sort((a, b) => a.number - b.number);
 
 		const rawVerses = versesSchema.parse(data);
+
 		const verses = deleteNullValues(rawVerses)
+		await sql.end();
 
 		return verses;
 
@@ -270,6 +278,7 @@ async function getVerses(table: Table, bookName: string, chapt: number) {
 
 	try {
 
+		const sql = connect()
 		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
@@ -279,12 +288,16 @@ async function getVerses(table: Table, bookName: string, chapt: number) {
 		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapt} AND books.name = ${book};
 		`;
 
+
 		const rawVerses = versesSchema.parse(data);
 		const verses = deleteNullValues(rawVerses)
+
+		sql.end();
 		
 		return verses;
 
 	} catch (error) {
+		console.log('Verses');
 		console.log(error);
 		return []
 	}
@@ -337,7 +350,8 @@ const getOneVerseVersion = async (
 			const end = Number(value_end);
 
 			const is_zero = start <= 0 || end <= 0;
-			if (isNaN(start) || isNaN(end) || is_zero) {
+			const is_incoherent = start > end;
+			if (isNaN(start) || isNaN(end) || is_zero || is_incoherent) {
 				c.status(400);
 				return c.json({
 					error: "Invalid range",
