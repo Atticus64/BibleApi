@@ -6,8 +6,6 @@ import { Book, books } from "$/constants.ts";
 import { getNameByAbbreviation, isAbbreviation } from "$/utils/book.ts";
 import { z } from "zod";
 
-const sql = connect();
-
 const versesSchema = z.array(VerseSchema)
 
 export enum VersionBible {
@@ -180,6 +178,7 @@ async function searchTable(
   page: number,
   testament: "old" | "new" | "both",
 ) {
+	const sql = connect();
 	const hasTestament = testament === "old" || testament === "new";
 	const offset = (page - 1) * take;
 	const parsedQuery = `%${query.toLowerCase()}%`;
