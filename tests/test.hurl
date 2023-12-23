@@ -5,7 +5,7 @@ HTTP 200
 [Asserts]
 jsonpath "$.chapters" == 50
 jsonpath "$.testament" == "Antiguo Testamento"
-jsonpath "$.abrev" == "GEN"
+jsonpath "$.abrev" == "GN"
 jsonpath "$.name" == "Genesis"
 
 
