@@ -4,7 +4,7 @@
 
 _Get chapter book_
 
-`/api/<version>/book/<book>/<chapter`
+`/api/read/<version>/book/<book>/<chapter`
 
 ```ts
 enum Version {
@@ -15,17 +15,17 @@ enum Version {
 }
 ```
 
-`/api/rv1960/book/<book>/<chapter>`
+`/api/read/rv1960/book/<book>/<chapter>`
 
-`/api/rv1960/chapter/<book>/<chapter>`
+`/api/read/rv1960/chapter/<book>/<chapter>`
 
 - Examples
 
-https://bible-api.deno.dev/api/rv1960/book/genesis/1
+https://bible-api.deno.dev/api/read/rv1960/book/genesis/1
 
-GET `/api/rv1960/book/genesis/1`
+GET `/api/read/rv1960/book/genesis/1`
 
-GET `/api/nvi/chapter/apocalipsis/22`
+GET `/api/read/nvi/chapter/apocalipsis/22`
 
 ### Search query
 
