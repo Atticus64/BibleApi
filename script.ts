@@ -154,8 +154,8 @@ const client = await new Client(Deno.env.get("DATABASE_URL") ?? "")
 
 await client.connect()
 
-const table = `verses_dhh`
-const version = 'dhh'
+const table = `verses_pdt`
+const version = 'pdt'
 
 await client.queryArray(`DROP TABLE if exists ${table}`)
 // sql.end()
@@ -181,7 +181,7 @@ await client.queryArray(`DROP TABLE if exists ${table}`)
 	 
  	info.chapters.forEach(c => {
  		const index = Number(c.chapter)
-	 		c.vers.forEach(v => {
+	 		c.verses.forEach(v => {
  			data.push({
  				verse: v.verse,
  				study: v.study,
@@ -202,7 +202,7 @@ await client.queryArray(`DROP TABLE if exists ${table}`)
 	const rows = await sql`select chapters.id from chapters JOIN books ON chapters.book_id = books.id WHERE books.name = ${name}`
  	info.chapters.forEach(c => {
  		const index = Number(c.chapter)
- 		c.vers.forEach(v => {
+ 		c.verses.forEach(v => {
  			data.push({
  				verse: v.verse,
  				study: v.study,

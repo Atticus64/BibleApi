@@ -33,6 +33,91 @@ export type Table =
 | "verses_pdt" 
 | "verses_dhh";
 
+export const testaments = [
+	"Antiguos Testamento",
+	"Nuevo Testamento",
+	"old",
+	"new",
+]
+
+export const randomVerse = async (c: Context, v: string) => {
+	if (!validVersion(v)) {
+		c.status(400);
+		return c.json({
+			error: "Invalid version"
+		});
+	}
+
+	const queryTestament = c.req.query("testament");
+
+	const hasTestament = queryTestament !== undefined && testaments.includes(queryTestament);
+
+	const checkTestament = (testament: string) =>
+	sql`testament = ${testament}`;
+
+
+	const sql = connect();
+	const table = getVersionTable(v as VersionBible);
+
+	let isOld = false;
+
+	if (hasTestament) {
+		if (queryTestament === "old" || queryTestament === "Antiguo Testamento") {
+			isOld = true;
+		} else {
+			isOld = false;
+		}
+	}
+
+	let row = []
+
+	const total = await sql`SELECT count(*) FROM ${sql(table)}`;
+	if (hasTestament) {
+		row = await sql`SELECT count(*)
+		FROM ${sql(table)} 
+		JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+		JOIN books ON books.id = chapters.book_id ${
+			isOld 
+				? sql`WHERE book_id < 40` 
+				: sql`WHERE book_id > 39`
+		}`;
+	} else {
+		row = await sql`SELECT count(*) FROM ${sql(table)}`
+	}
+
+	const count = row[0].count;
+	let rand = generateRandom(count);
+
+	if (!isOld) {
+		const total = await sql`SELECT count(*) FROM ${sql(table)}`;
+		const dif = total[0].count - count;
+		rand = dif + rand
+	}
+
+
+	const data = await sql`
+	SELECT verse, books.name as book, chapter, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
+		sql(table)
+	} 
+	JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+	JOIN books ON books.id = chapters.book_id 
+	AND ${sql(table)}.id = ${rand}`;
+
+	const verse = data[0];
+
+	return c.json(verse)
+
+}
+
+function generateRandom(maxLimit: number){
+  let rand = Math.random() * maxLimit;
+
+  rand = Math.floor(rand); // 99
+
+  return rand;
+}
+
+
 const getEndpoits = (c: Context, v: string) => {
   const endpoints = [];
   if (!validVersion(v)) {
@@ -66,7 +151,7 @@ function format(name: string) {
   return fm;
 }
 
-function getVersionTable(version: Version): Table {
+function getVersionTable(version: Version | VersionBible): Table {
   switch (version) {
     case Version.Rv60:
       return "verses_rv1960";
@@ -78,6 +163,8 @@ function getVersionTable(version: Version): Table {
       return "verses_dhh";
 	case Version.Pdt:
 		return "verses_pdt";
+	default:
+	  return "verses_rv1960";
   }
 }
 

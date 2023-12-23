@@ -6,8 +6,6 @@ const uri = "https://www.bibliatodo.com/la-biblia"
 
 const versions = [
 	"Palabra-de-Dios-para-todos",
-	"Reina-valera-1995",
-	"Dios-habla-hoy"
 ]
 
 const getUrls = (book: string, chapters: number, version: string) => {
@@ -117,33 +115,38 @@ async function getChapter(resp: Response) {
 		const prev = info[j-1]
 		let insert = false;
 		const isVerse = (c) => c.tagName === "p"
-		const isStudy = (c) => c.tagName === "h2" || c.tagName === "span"
-		if (c.tagName === "p" || c.tagName === "h2" || c.tagName === "span") {
+		const isStudy = (c) => c.tagName === "span"
+		if (c.tagName === "p" || c.tagName === "span") {
 			if (isStudy(c)) {
 				if (next !== undefined && isVerse(next) || next.tagName === "span" ) {
 					if (isStudy(next)) {
 						const realN = info[j+2]
 						if (realN !== undefined && isVerse(realN)) {
 							let text = parse($(realN).text())
-							text = text.replaceAll('  ', '');
+							text = text.replaceAll('  ', '')
+							const study = $(c).text()
+							if (text !== '' && study !== '') {
+								verses.push({
+									study,
+									verse: text,
+									number: i + 1
+								})
+								insert = true;
+								i++;
+							}
+						}
+
+					} else if (isVerse(next)) {
+						let text = parse($(next).text())
+						text = text.replaceAll('  ', '')
+						if (text !== '') {
 							verses.push({
 								study: $(c).text(),
 								verse: text,
 								number: i + 1
 							})
-							insert = true;
 							i++;
 						}
-
-					} else if (isVerse(next)) {
-						let text = parse($(next).text())
-						text = text.replaceAll('  ', '');
-						verses.push({
-							study: $(c).text(),
-							verse: text,
-							number: i + 1
-						})
-						i++;
 
 					}
 				}
@@ -154,13 +157,16 @@ async function getChapter(resp: Response) {
 						insert = false
 					} else {
 						let text = parse($(c).text())
-						text = text.replaceAll('  ', '');
+						text = text.replaceAll('  ', '')
 
-						verses.push({
-							verse: text,
-							number: i + 1
-						})
-						i++
+						if (text !== '') {
+							verses.push({
+								verse: text,
+								number: i + 1
+							})
+							i++
+						}
+
 					}
 				}
 			}
@@ -172,6 +178,7 @@ async function getChapter(resp: Response) {
 	return verses
 }
 
-await fillVersion("Dios-habla-hoy")
-
+for (const version of versions) {
+	await fillVersion(version)
+}
 

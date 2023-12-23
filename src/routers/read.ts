@@ -3,15 +3,20 @@ import {
   getChapterVersion,
   getEndpoits,
   getOneVerseVersion,
+  randomVerse,
   SearchVersion,
 } from "$/controllers/read.ts";
-import { isInOldTestament } from "$/utils/book.ts";
 
 const router_read = new Hono();
 
 router_read.get("/:version", (c) => {
 	const v = c.req.param("version");
 	return getEndpoits(c, v);
+});
+
+router_read.get("/:version/verse/random", (c) => {
+	const v = c.req.param("version");
+	return randomVerse(c, v);
 });
 
 router_read.get("/:version/search", (c) => {
@@ -30,3 +35,5 @@ router_read.get("/:version/:book/:chapter", (c: Context) => {
 });
 
 export { router_read };
+
+
