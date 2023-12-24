@@ -14,6 +14,10 @@ export const isAbbreviation = (book: string) => {
 	})
 }
 
+export function existBook(book: string): boolean {
+	return books.some(b => b.name.toLowerCase() === book.toLowerCase())
+}
+
 export const getNameByAbbreviation = (book: string) => {
 	return books.find((b) => {
 		return b.abrev === book.toUpperCase()
@@ -29,5 +33,5 @@ export const isInNewTestament = (book: string) => {
 };
 
 export const getInfoBook = (book: string) => {
-  return books.find((b) => b.name.toLowerCase() === book.toLowerCase());
+  return books.find((b) => b.name.toLowerCase() === book.toLowerCase()) || books[0];
 };
