@@ -17,6 +17,22 @@ Deno.test("Should return book info", async () => {
 	})
 });
 
+Deno.test("Should return book info with abrev", async () => {
+	await runTest( async () => {
+		const response = await app.request("/api/book/gn", { method: "GET" });
+
+		const json = await response.json();
+
+		assertEquals(json, {
+			abrev: "GN",
+			chapters: 50,
+			name: "Genesis",
+			testament: "Antiguo Testamento",
+		});
+	})
+});
+
+
 Deno.test("Should return 404 if book is not valid", async () => {
 	await runTest(async () => {
 
@@ -25,7 +41,9 @@ Deno.test("Should return 404 if book is not valid", async () => {
 		const json = await response.json();
 
 		assertEquals(json, {
-			error: "book not found",
+			book: "123",
+			error: "Invalid book",
+			validBooks: "/api/books",
 		})
 	})
 })

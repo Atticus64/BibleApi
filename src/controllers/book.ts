@@ -1,30 +1,11 @@
 import { Context } from "hono/context.ts";
 import {
   getInfoBook,
-  isInNewTestament,
-  isInOldTestament,
 } from "$/utils/book.ts";
-import { Testament, books } from "$/constants.ts";
+import { books } from "$/constants.ts";
 
 export const getBookInfo = (c: Context): Response => {
-  const paramBook = c.req.param("book");
-
-  if (!paramBook) {
-    c.status(400);
-    return c.json({
-      error: "book not found",
-    });
-  }
-
-  const book = paramBook.toLowerCase();
-
-  if (!isInNewTestament(book) && !isInOldTestament(book)) {
-    c.status(400);
-
-    return c.json({
-      error: "book not found",
-    });
-  }
+  const { book }  = c.req.valid("param");
 
   const info = getInfoBook(book);
 
