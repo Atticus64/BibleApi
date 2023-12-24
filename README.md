@@ -46,9 +46,9 @@ interface Parameters {
 
 https://bible-api.deno.dev/api/nvi/search?q=Dios
 
-GET `api/nvi/search?q=Dios&page=2`
+GET `api/nvi/read/search?q=Dios&page=2`
 
-GET `api/nvi/search?q=Dios&page=2&take=3`
+GET `api/nvi/read/search?q=Dios&page=2&take=3`
 
 ## Dev server
 
