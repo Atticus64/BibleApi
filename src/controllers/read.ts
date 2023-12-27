@@ -5,6 +5,7 @@ import { books } from "$/constants.ts";
 import { getInfoBook } from "$/utils/book.ts";
 import { z } from "zod";
 import { Query, searchProps } from "$/validators/search.ts";
+import CacheChapters from "$/database/cache.ts";
 
 const versesSchema = z.array(VerseSchema)
 
@@ -14,6 +15,14 @@ export enum VersionBible {
   NVI = "nvi",
   DHH = "dhh",
   PDT = "pdt",
+}
+
+type Chapter = {
+	num_chapters: number
+	testament: string
+	chapter: string
+	vers: Verse[]
+	name: string
 }
 
 export const getVersions = () => {
@@ -323,32 +332,56 @@ const getChapterVersion = async (
 	const { version } = c.req.valid("param");
 	const table = getVersionTable(version as Version);
 
-
 	try {
 		const { book, chapter } = c.req.valid("param");
 		
 		const infoBook = getInfoBook(book);
 
-		const data = await getVerses(table, book, chapter);
+		const cache = new CacheChapters(version);
+		
+		await cache.init()
 
-		const testament = infoBook.testament === "Antiguo Testamento" ? "old" : "new";
-		const bk = {
-			testament,
-			name: infoBook.name,
-			num_chapters: infoBook.chapters,
-		};
+		const found = await cache.existCh(book, chapter);
+		let info: Chapter;
+		if (found) {
+			const verses = await cache.search(book, chapter);
+			info = {
+				testament: infoBook.testament,
+				name: infoBook.name,
+				num_chapters: infoBook.chapters,
+				chapter,
+				vers: verses,
+			}
+		} else {
 
-		data.sort((v1, v2) => {
-			return v1.number - v2.number;
-		})
+			const data = await getVerses(table, book, chapter);
 
-		const info = {
-			...bk,
-			chapter: chapter,
-			vers: data,
-		};
+			await cache.add(data, { book, chapter });
+
+			const testament = infoBook.testament === "Antiguo Testamento" ? "old" : "new";
+
+			const bk = {
+				testament,
+				name: infoBook.name,
+				num_chapters: infoBook.chapters,
+			};
+
+			data.sort((v1, v2) => {
+				return v1.number - v2.number;
+			})
+
+			info = {
+				...bk,
+				chapter: chapter,
+				vers: data,
+			};
+
+		}
+
+		cache.quit();
 
 		return c.json(info);
+
 	} catch (_error) {
 		console.log(_error);
 		return c.notFound();

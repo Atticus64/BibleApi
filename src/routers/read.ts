@@ -39,8 +39,8 @@ router_read.get("/:version/:book/:chapter/:verse",
 
 router_read.get("/:version/:book/:chapter",
 	validator("param", checkVersion),
-	validator("param", checkBook),
 	validator("param", validChapter),
+	validator("param", checkBook),
 	(c: Context) => {
 	return getChapterVersion(c);
 });
