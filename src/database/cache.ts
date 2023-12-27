@@ -262,8 +262,10 @@ class CacheChapters {
 			await this.cachedRegister();
 		}
 
+		const bk = book.toLowerCase()
+
 		this.#register.forEach((b) => {
-			if (b.book === book) {
+			if (b.book === bk) {
 				b.weight = b.weight + 1
 			} else {
 				if (b.weight > 0) {
@@ -276,7 +278,7 @@ class CacheChapters {
 
 		const data = await this.command(
 			["JSON.GET",
-			`${this.name}-${book}:${chapter}`]
+			`${this.name}-${bk}:${chapter}`]
 		)
 
 		return data
@@ -286,6 +288,7 @@ class CacheChapters {
 
 		let { book, chapter } = info
 		chapter = Number(chapter)
+		book = book.toLowerCase()
 
 		const cached = await this.cachedRegister();
 
@@ -317,7 +320,7 @@ class CacheChapters {
 			await this.saveRegister(this.#register)
 		} else {
 			const isEqual = exists.chapters.includes(chapter)
-			const existKey = await this.checkKey(`${this.name}-${info.book}:${info.chapter}`)
+			const existKey = await this.checkKey(`${this.name}-${book}:${info.chapter}`)
 			if (existKey === 1) {
 				return { ok: false }
 			}
@@ -342,13 +345,16 @@ class CacheChapters {
 
 	}
 
+
 	async existCh(book: string, chapter: number) {
 		if (!this.#cache.instance || !this.#register) {
 			return false
 		}
 
+		const bName = book.toLowerCase()
+
 		await this.cachedRegister();
-		const bk = this.#register.find((b) => b.book === book)
+		const bk = this.#register.find((b) => b.book.toLowerCase() === bName)
 
 		if (!bk) {
 			return false
@@ -400,7 +406,7 @@ class CacheChapters {
 
 		const chapter = Number(ch)
 
-		const info = this.searchBook(book, this.#register);
+		const info = this.searchBook(book.toLowerCase(), this.#register);
 
 		if (!info || !info.chapters.includes(chapter)) {
 			return null

@@ -20,7 +20,7 @@ export enum VersionBible {
 type Chapter = {
 	num_chapters: number
 	testament: string
-	chapter: string
+	chapter: number
 	vers: Verse[]
 	name: string
 }
@@ -171,7 +171,7 @@ export async function SearchVersion(c: Context) {
   return c.json(data);
 }
 
-function toValidName(bookName: string): string {
+export function toValidName(bookName: string): string {
 	let formatedBook = ''
 	if (bookName.includes("-")) {
 		let [part, book] = bookName.split("-");
@@ -333,7 +333,7 @@ const getChapterVersion = async (
 	const table = getVersionTable(version as Version);
 
 	try {
-		const { book, chapter } = c.req.valid("param");
+		const { book, chapter }: { book: string, chapter: number } = c.req.valid("param");
 		
 		const infoBook = getInfoBook(book);
 
@@ -341,40 +341,40 @@ const getChapterVersion = async (
 		
 		await cache.init()
 
+		const info: Chapter = {
+			testament: infoBook.testament === "Antiguo Testamento" ? "old" : "new",
+			name: infoBook.name,
+			num_chapters: infoBook.chapters,
+			chapter,
+			vers: [],
+		};
+		let failedRedis = false;
+
 		const found = await cache.existCh(book, chapter);
-		let info: Chapter;
-		if (found) {
-			const verses = await cache.search(book, chapter);
-			info = {
-				testament: infoBook.testament,
-				name: infoBook.name,
-				num_chapters: infoBook.chapters,
-				chapter,
-				vers: verses,
+
+		try {
+			if (found) {
+				const verses = await cache.search(book, chapter);
+				info.vers = verses
+				failedRedis = false
 			}
-		} else {
+		} catch (error) {
+			console.log(error);
+			failedRedis = true
+		}
+
+		if (!found) {
 
 			const data = await getVerses(table, book, chapter);
 
-			await cache.add(data, { book, chapter });
-
-			const testament = infoBook.testament === "Antiguo Testamento" ? "old" : "new";
-
-			const bk = {
-				testament,
-				name: infoBook.name,
-				num_chapters: infoBook.chapters,
-			};
-
+			if (!failedRedis) {
+				await cache.add(data, { book, chapter });
+			}
 			data.sort((v1, v2) => {
 				return v1.number - v2.number;
 			})
 
-			info = {
-				...bk,
-				chapter: chapter,
-				vers: data,
-			};
+			info.vers = data
 
 		}
 
