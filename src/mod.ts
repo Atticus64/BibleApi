@@ -11,12 +11,13 @@ import { deleteUser } from "$/controllers/user.ts";
 import { router_read } from "$/routers/read.ts";
 import { getVersions, versions } from "$/controllers/version.ts";
 
-const DEV_ORIGINS = Deno.env.get("ORIGINS");
+const DEV_ORIGINS: string[] = JSON.parse(Deno.env.get("ORIGINS") || "[]");
 const origin = [
-	...DEV_ORIGINS ? DEV_ORIGINS.split(",") : [],
+	...DEV_ORIGINS || [],
   "https://bible-api.deno.dev",
   "https://bible-study.vercel.app",
 ];
+
 
 
 const app = new Hono();
