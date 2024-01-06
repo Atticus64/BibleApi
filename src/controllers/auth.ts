@@ -68,7 +68,7 @@ export const signup = async (c: Context): Promise<Response> => {
     return c.json({
       user,
       token: jwt,
-      userEmail,
+      email: userEmail,
     });
   } catch (error) {
     console.log(error);
@@ -132,7 +132,9 @@ export const login = async (c: Context): Promise<Response> => {
   });
 
   return c.json({
+	user: data.user,
     token: jwt,
+	email: loginEmail,
   });
 };
 

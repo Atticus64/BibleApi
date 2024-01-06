@@ -82,8 +82,6 @@ class CacheChapters {
 			return right.weight - left.weight
 		})
 
-		console.log(order)
-
 		const toDelete: {key: string, chapter: number}[] = []
 		const limit = Math.ceil(order.length / 4)
 		for (let i = 0; i < limit; i++) {

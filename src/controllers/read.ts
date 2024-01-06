@@ -334,11 +334,8 @@ const getChapterVersion = async (
 
 	try {
 		const { book, chapter }: { book: string, chapter: number } = c.req.valid("param");
-		
 		const infoBook = getInfoBook(book);
-
 		const cache = new CacheChapters(version);
-		
 		await cache.init()
 
 		const info: Chapter = {
@@ -355,6 +352,9 @@ const getChapterVersion = async (
 		try {
 			if (found) {
 				const verses = await cache.search(book, chapter);
+				verses.sort((v1, v2) => {
+					return v1.number - v2.number;
+				})
 				info.vers = verses
 				failedRedis = false
 			}
@@ -373,6 +373,7 @@ const getChapterVersion = async (
 			data.sort((v1, v2) => {
 				return v1.number - v2.number;
 			})
+
 
 			info.vers = data
 
