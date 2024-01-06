@@ -4,7 +4,6 @@ import { getToken } from "$/middlewares/authorization.ts";
 
 const getNotes = async (c: Context): Promise<Response> => {
   const kv = await Deno.openKv();
-
   const token = getToken(c);
   const user = await getUser(token);
 
@@ -24,6 +23,41 @@ const getNotes = async (c: Context): Promise<Response> => {
     return c.json(data.value);
   }
 };
+
+const getNoteById = async (c: Context): Promise<Response> => {
+  const kv = await Deno.openKv();
+
+  const token = getToken(c);
+  const user = await getUser(token);
+
+  if (!user) {
+    c.status(401);
+    return c.json({
+      message: "User not found",
+    });
+  }
+
+  const id = c.req.param("id");
+
+  const { value }  = await kv.get(["notes", user.id]) as { value?: Array<Note> };
+  if (!value) {
+	  kv.set(["notes", user.id], []);
+	  return c.json([]);
+  } 
+
+  const note = value.find((n: Note) => n.id === id);
+
+  if (!note) {
+	c.status(404);
+	return c.json({
+	  message: "Note not found",
+	});
+  }
+
+  return c.json(note);
+};
+
+
 
 interface NoteDto {
   title: string;
@@ -138,10 +172,17 @@ const deleteNote = async (c: Context): Promise<Response> => {
   data = data.filter((n) => n.id !== id);
 
   await kv.set(["notes", user.id], data);
+
   c.status(200);
   return c.json({
     deleted: true,
   });
 };
 
-export { createNote, deleteNote, editNote, getNotes };
+export { 
+	createNote, 
+	deleteNote, 
+	editNote, 
+	getNotes, 
+	getNoteById 
+};

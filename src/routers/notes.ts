@@ -4,6 +4,7 @@ import {
   createNote,
   deleteNote,
   editNote,
+  getNoteById,
   getNotes,
 } from "$/controllers/notes.ts";
 
@@ -31,6 +32,8 @@ router_notes.post(
   }),
   createNote,
 );
+
+router_notes.get("/:id", getNoteById);
 
 router_notes.put(
   "/:id",
