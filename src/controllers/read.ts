@@ -352,7 +352,7 @@ const getChapterVersion = async (
 		try {
 			if (found) {
 				const verses = await cache.search(book, chapter);
-				verses.sort((v1, v2) => {
+				verses.sort((v1: Verse, v2: Verse) => {
 					return v1.number - v2.number;
 				})
 				info.vers = verses
