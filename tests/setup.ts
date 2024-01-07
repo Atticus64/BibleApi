@@ -1,6 +1,11 @@
 
+
+const sleep = (ms: number) => {
+	return new Promise((resolve) => setTimeout(resolve, ms))
+};
+
 export async function runTest(testFn: () => Promise<void>) {
-  await new Promise(resolve => setTimeout(resolve, 100)); // Wait after running the test
-  await testFn();
-  await new Promise(resolve => setTimeout(resolve, 100)); // Wait after running the test
+  await sleep(100) 
+  await testFn()
+  await sleep(100) 
 }
