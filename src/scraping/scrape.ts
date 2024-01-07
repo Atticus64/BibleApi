@@ -1,99 +1,99 @@
-import { Book, Version, books } from "$/constants.ts";
+import { Book, books, Version } from "$/constants.ts";
 import { log } from "$/scraping/logger.ts";
 const BiblePage = "https://www.biblia.es/biblia-buscar-libros-1.php";
 
 interface Studies {
-  v: number;
-  study: string;
+	v: number;
+	study: string;
 }
 
 const getUrls = (book: string, chapters: number, version: Version) => {
-  const urls = [];
-  for (let i = 1; i <= chapters; i++) {
-    urls.push(
-      `${BiblePage}?libro=${book}&capitulo=${i}&version=${version}`,
-    );
-  }
+	const urls = [];
+	for (let i = 1; i <= chapters; i++) {
+		urls.push(
+			`${BiblePage}?libro=${book}&capitulo=${i}&version=${version}`,
+		);
+	}
 
-  return urls;
+	return urls;
 };
 
 // const scrapeBook = async (book: Book, version: Version) => {
-  // const { name, chapters } = book;
-  //
-  // const acc = [];
-  // const urls = getUrls(name, chapters, version);
-  //
-  // const requests = urls.map((url) => fetch(url));
-  //
-  // const resps = await Promise.all(requests);
-  //
-  // let i = 1;
-  // for (const resp of resps) {
-  //   const page = await resp.text();
-  //
-  //   // const $ = cherio.load(page);
-  //
-  //   const vers: Verse[] = [];
-  //   const rawTitle = $("h3.capitulo").text().split(" ");
-  //   //let book = "";
-  //   let chapter = "";
-  //
-  //   const childrens = $("h2.estudio").parent().children().toArray();
-  //
-  //   // { name: fdafsdf, vers }
-  //   const studies: Studies[] = [];
-  //   const numbers: number[] = [];
-  //   for (const child of childrens) {
-  //     const hasStudio = $(child).hasClass("estudio");
-  //     if (hasStudio) {
-  //       const estudio = $(child).text();
-  //       const versiculo = child.nextSibling;
-  //       if (versiculo) {
-  //         studies.push({
-  //           v: Number($(versiculo).text()),
-  //           study: estudio,
-  //         });
-  //         numbers.push(Number($(versiculo).text()));
-  //       }
-  //     }
-  //   }
-  //
-  //   if (rawTitle[0].length > 1) {
-  //     //book = rawTitle[0];
-  //     chapter = rawTitle[1];
-  //   } else {
-  //     //book = `${rawTitle[0]} ${rawTitle[1]}`;
-  //     chapter = rawTitle[2];
-  //   }
-  //
-  //   $("span.texto").each((indx: number, item) => {
-  //     const verse = $(item).text();
-  //     const number = indx + 1;
-  //     if (numbers.some((n) => n === number)) {
-  //       const s = studies.find((study) => study.v === number);
-  //       if (s !== undefined) {
-  //         vers.push({
-  //           verse,
-  //           number,
-  //           study: s.study,
-  //           id: crypto.randomUUID(),
-  //         });
-  //         return;
-  //       }
-  //     }
-  //     vers.push({
-  //       verse,
-  //       number,
-  //       id: crypto.randomUUID(),
-  //     });
-  //   });
-  //
-  //   acc.push({ chapter, vers });
-  //
-  //   i++;
-  // }
-  //
+// const { name, chapters } = book;
+//
+// const acc = [];
+// const urls = getUrls(name, chapters, version);
+//
+// const requests = urls.map((url) => fetch(url));
+//
+// const resps = await Promise.all(requests);
+//
+// let i = 1;
+// for (const resp of resps) {
+//   const page = await resp.text();
+//
+//   // const $ = cherio.load(page);
+//
+//   const vers: Verse[] = [];
+//   const rawTitle = $("h3.capitulo").text().split(" ");
+//   //let book = "";
+//   let chapter = "";
+//
+//   const childrens = $("h2.estudio").parent().children().toArray();
+//
+//   // { name: fdafsdf, vers }
+//   const studies: Studies[] = [];
+//   const numbers: number[] = [];
+//   for (const child of childrens) {
+//     const hasStudio = $(child).hasClass("estudio");
+//     if (hasStudio) {
+//       const estudio = $(child).text();
+//       const versiculo = child.nextSibling;
+//       if (versiculo) {
+//         studies.push({
+//           v: Number($(versiculo).text()),
+//           study: estudio,
+//         });
+//         numbers.push(Number($(versiculo).text()));
+//       }
+//     }
+//   }
+//
+//   if (rawTitle[0].length > 1) {
+//     //book = rawTitle[0];
+//     chapter = rawTitle[1];
+//   } else {
+//     //book = `${rawTitle[0]} ${rawTitle[1]}`;
+//     chapter = rawTitle[2];
+//   }
+//
+//   $("span.texto").each((indx: number, item) => {
+//     const verse = $(item).text();
+//     const number = indx + 1;
+//     if (numbers.some((n) => n === number)) {
+//       const s = studies.find((study) => study.v === number);
+//       if (s !== undefined) {
+//         vers.push({
+//           verse,
+//           number,
+//           study: s.study,
+//           id: crypto.randomUUID(),
+//         });
+//         return;
+//       }
+//     }
+//     vers.push({
+//       verse,
+//       number,
+//       id: crypto.randomUUID(),
+//     });
+//   });
+//
+//   acc.push({ chapter, vers });
+//
+//   i++;
+// }
+//
 //   const data: DataBook = {
 //     name,
 //     num_chapters: chapters,
@@ -105,21 +105,21 @@ const getUrls = (book: string, chapters: number, version: Version) => {
 // };
 
 export const getFolder = (version: Version) => {
-  if (version === Version.Nvi) {
-    return "nvi";
-  }
+	if (version === Version.Nvi) {
+		return "nvi";
+	}
 
-  if (version === Version.Rv60) {
-    return "rv1960";
-  }
+	if (version === Version.Rv60) {
+		return "rv1960";
+	}
 
-  if (version === Version.Rv95) {
-    return "rv1995";
-  }
+	if (version === Version.Rv95) {
+		return "rv1995";
+	}
 
-  if (version === Version.Dhh) {
-    return "dhh";
-  }
+	if (version === Version.Dhh) {
+		return "dhh";
+	}
 };
 
 // export async function scrapeVersion(version: Version) {
