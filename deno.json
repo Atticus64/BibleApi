@@ -9,5 +9,16 @@
     "scrape:dhh": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version dhh",
     "test": "deno test --unstable -A"
   },
-  "importMap": "./import_map.json"
+  "importMap": "./import_map.json",
+  "fmt": {
+    "useTabs": true,
+    "semiColons": true,
+    "include": [
+      "src/"
+    ],
+    "exclude": [
+      "src/testdata/",
+      "data/fixtures/**/*.ts"
+    ]
+  }
 }
