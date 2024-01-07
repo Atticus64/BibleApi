@@ -6,42 +6,42 @@ import { validator } from "hono/validator/validator.ts";
 const router_auth = new Hono();
 
 const schema = z.object({
-  user: z.string(),
-  password: z.string().min(8),
-  email: z.string().email(),
+	user: z.string(),
+	password: z.string().min(8),
+	email: z.string().email(),
 });
 
 const loginSchema = z.object({
-  password: z.string().min(8),
-  email: z.string().email(),
+	password: z.string().min(8),
+	email: z.string().email(),
 });
 
 router_auth.post(
-  "/signup",
-  validator("json", (value, c) => {
-    const parsed = schema.safeParse(value);
-    if (!parsed.success) {
-      c.status(400);
-      return c.json(parsed.error);
-    }
+	"/signup",
+	validator("json", (value, c) => {
+		const parsed = schema.safeParse(value);
+		if (!parsed.success) {
+			c.status(400);
+			return c.json(parsed.error);
+		}
 
-    return parsed.data;
-  }),
-  signup,
+		return parsed.data;
+	}),
+	signup,
 );
 
 router_auth.post(
-  "/login",
-  validator("json", (value, c) => {
-    const parsed = loginSchema.safeParse(value);
-    if (!parsed.success) {
-      c.status(400);
-      return c.json(parsed.error);
-    }
+	"/login",
+	validator("json", (value, c) => {
+		const parsed = loginSchema.safeParse(value);
+		if (!parsed.success) {
+			c.status(400);
+			return c.json(parsed.error);
+		}
 
-    return parsed.data;
-  }),
-  login,
+		return parsed.data;
+	}),
+	login,
 );
 
 router_auth.get("/logout", logout);

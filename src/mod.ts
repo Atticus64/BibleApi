@@ -14,11 +14,9 @@ import { getVersions, versions } from "$/controllers/version.ts";
 const DEV_ORIGINS: string[] = JSON.parse(Deno.env.get("ORIGINS") || "[]");
 const origin = [
 	...DEV_ORIGINS || [],
-  "https://bible-api.deno.dev",
-  "https://bible-study.vercel.app",
+	"https://bible-api.deno.dev",
+	"https://bible-study.vercel.app",
 ];
-
-
 
 const app = new Hono();
 
@@ -43,19 +41,19 @@ app.route("/user", router_user);
 app.use("/api/*", cors());
 
 app.get("/api", (c) => {
-  const versions = getVersions();
+	const versions = getVersions();
 
-  const endpoints  = versions.map((version) => {
-	return `/api/read/${version}/genesis/1`;
-  })
+	const endpoints = versions.map((version) => {
+		return `/api/read/${version}/genesis/1`;
+	});
 
-  return c.json({
-    versions,    
-	endpoints   
-  });
+	return c.json({
+		versions,
+		endpoints,
+	});
 });
 
-app.route("/api/read", router_read)
+app.route("/api/read", router_read);
 
 app.route("/api/book", router_book);
 
@@ -68,13 +66,13 @@ app.get("/api/books/newTestament", (c) => getTestamentBooks(c, "new"));
 app.get("/api/versions", versions);
 
 app.notFound((c) => {
-  const { pathname } = new URL(c.req.url);
+	const { pathname } = new URL(c.req.url);
 
-  if (c.req.url.at(-1) === "/") {
-    return c.redirect(pathname.slice(0, -1));
-  }
+	if (c.req.url.at(-1) === "/") {
+		return c.redirect(pathname.slice(0, -1));
+	}
 
-  return c.json({ message: "Not Found" }, 404);
+	return c.json({ message: "Not Found" }, 404);
 });
 
 export { app };
