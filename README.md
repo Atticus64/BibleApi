@@ -35,10 +35,10 @@ _query is required_
 
 ```ts
 interface Parameters {
-  q: string;
-  testament?: string;
-  take?: number;
-  page?: number;
+  q: string
+  testament?: string
+  take?: number
+  page?: number
 }
 ```
 
