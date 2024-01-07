@@ -1,5 +1,5 @@
 import { Context } from "hono/context.ts";
-import { Verse, VerseSchema, Version } from "$/constants.ts";
+import { Table, Verse, VerseSchema, Version } from "$/constants.ts";
 import { connect } from "$/database/index.ts";
 import { books } from "$/constants.ts";
 import { getInfoBook } from "$/utils/book.ts";
@@ -7,23 +7,15 @@ import { z } from "zod";
 import { Query, searchProps } from "$/validators/search.ts";
 import CacheChapters from "$/database/cache.ts";
 
-const versesSchema = z.array(VerseSchema)
-
-export enum VersionBible {
-  RV60 = "rv1960",
-  RV95 = "rv1995",
-  NVI = "nvi",
-  DHH = "dhh",
-  PDT = "pdt",
-}
+const versesSchema = z.array(VerseSchema);
 
 type Chapter = {
-	num_chapters: number
-	testament: string
-	chapter: number
-	vers: Verse[]
-	name: string
-}
+	num_chapters: number;
+	testament: string;
+	chapter: number;
+	vers: Verse[];
+	name: string;
+};
 
 export const getVersions = () => {
 	const versions = [];
@@ -31,65 +23,60 @@ export const getVersions = () => {
 		versions.push(version);
 	}
 	return versions;
-}
-
-export type Table = 
-	"verses_rv1960" 
-| "verses_rv1995" 
-| "verses_nvi" 
-| "verses_pdt" 
-| "verses_dhh";
+};
 
 export const testaments = [
 	"Antiguos Testamento",
 	"Nuevo Testamento",
 	"old",
 	"new",
-]
+];
 
 const getEndpoits = (c: Context) => {
-  const { version }  = c.req.valid("param");
+	const { version } = c.req.valid("param");
 
-  const endpoints = [];
-  const versions = getVersions();
-  const folder = versions.find((ver) => ver === version);
+	const endpoints = [];
+	const versions = getVersions();
+	const folder = versions.find((ver) => ver === version);
 
-  for (const book of books) {
-	const name = book.name.toLowerCase();
-    const info =  `/api/book/${name}/`
-    const byChapter = `/api/${folder}/book/${name}/1`
-	endpoints.push({
-		name: `${name} endpoint`,
-		info,
-		byChapter
-	})
-  }
+	for (const book of books) {
+		const name = book.names[0].toLowerCase();
+		const info = `/api/book/${name}/`;
+		const byChapter = `/api/${folder}/book/${name}/1`;
+		endpoints.push({
+			name: `${name} endpoint`,
+			info,
+			byChapter,
+		});
+	}
 
-  return c.json(
-    endpoints,
-  );
+	return c.json(
+		endpoints,
+	);
 };
 
 function format(name: string) {
-  const fm = name[0].toUpperCase() + name.slice(1).toLowerCase();
-  return fm;
+	const fm = name[0].toUpperCase() + name.slice(1).toLowerCase();
+	return fm;
 }
 
-export function getVersionTable(version: Version | VersionBible): Table {
-  switch (version) {
-    case Version.Rv60:
-      return "verses_rv1960";
-    case Version.Rv95:
-      return "verses_rv1995";
-    case Version.Nvi:
-      return "verses_nvi";
-    case Version.Dhh:
-      return "verses_dhh";
-	case Version.Pdt:
-		return "verses_pdt";
-	default:
-	  return "verses_rv1960";
-  }
+export function getVersionTable(version: Version): Table {
+	switch (version) {
+		case Version.Rv60:
+			return "verses_rv1960";
+		case Version.Rv95:
+			return "verses_rv1995";
+		case Version.Nvi:
+			return "verses_nvi";
+		case Version.Dhh:
+			return "verses_dhh";
+		case Version.Pdt:
+			return "verses_pdt";
+		case Version.KJV:
+			return "verses_kjv";
+		default:
+			return "verses_rv1960";
+	}
 }
 
 export function validVersion(v: string) {
@@ -98,11 +85,11 @@ export function validVersion(v: string) {
 }
 
 async function searchTable(
-  table: Table,
-  query: string,
-  take: number,
-  page: number,
-  testament: "old" | "new" | "both",
+	table: Table,
+	query: string,
+	take: number,
+	page: number,
+	testament: "old" | "new" | "both",
 ) {
 	const sql = connect();
 	const hasTestament = testament === "old" || testament === "new";
@@ -110,7 +97,7 @@ async function searchTable(
 	const parsedQuery = `%${query.toLowerCase()}%`;
 
 	const checkTestament = (testament: string) =>
-	sql`and testament = ${testament}`;
+		sql`and testament = ${testament}`;
 
 	const meta = await sql`
 	SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${
@@ -123,9 +110,9 @@ async function searchTable(
 	}`;
 
 	const res = await sql`
-	SELECT verse, study, ${sql(table)}.number, ${
+	SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${
 		sql(table)
-	}.id, name as book, ${sql(table)}.chapter FROM ${sql(table)}
+	}.chapter FROM ${sql(table)}
 	JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
 	JOIN books ON books.id = chapters.book_id
 	WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} 
@@ -148,63 +135,64 @@ async function searchTable(
 }
 
 export async function dbSearch(
-  { version, query, take = 10, page = 1, testament = "both" }: searchProps,
+	{ version, query, take = 10, page = 1, testament = "both" }: searchProps,
 ) {
-  const table = getVersionTable(version);
+	const table = getVersionTable(version);
 
-  return await searchTable(table, query, take, page, testament);
+	return await searchTable(table, query, take, page, testament);
 }
 
 export async function SearchVersion(c: Context) {
-  const { version } = c.req.valid("param");
+	const { version } = c.req.valid("param");
 
-  const { q, take, page, testament }: Query =  c.req.valid("query");
+	const { q, take, page, testament }: Query = c.req.valid("query");
 
-  const data = await dbSearch({
-	version,
-	query: q,
-	take, 
-	page,
-	testament,	  
-  });
+	const data = await dbSearch({
+		version,
+		query: q,
+		take,
+		page,
+		testament,
+	});
 
-  return c.json(data);
+	return c.json(data);
 }
 
 export function toValidName(bookName: string): string {
-	let formatedBook = ''
+	let formatedBook = "";
 	if (bookName.includes("-")) {
 		let [part, book] = bookName.split("-");
 		book = format(book);
-		formatedBook = `${part}-${book}`
+		formatedBook = `${part}-${book}`;
 	} else {
-		formatedBook = format(bookName); 
+		formatedBook = format(bookName);
 	}
 
-	return formatedBook
+	return formatedBook;
 }
 
 function deleteNullValues(data: Verse[]) {
-
-	return data.map(v => {
-
+	return data.map((v) => {
 		if (v.study) {
-			return v
+			return v;
 		} else {
 			return {
 				verse: v.verse,
 				number: v.number,
-				id: v.id
-			}
+				id: v.id,
+			};
 		}
-	})
-
+	});
 }
 
-async function getOneVerse(table: Table, bookName: string, chapter: number, verse_num: number) {
-
+async function getOneVerse(
+	table: Table,
+	bookName: string,
+	chapter: number,
+	verse_num: number,
+) {
 	try {
-		const sql = connect()
+		const sql = connect();
 		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
@@ -222,21 +210,24 @@ async function getOneVerse(table: Table, bookName: string, chapter: number, vers
 		return verse;
 	} catch (error) {
 		console.log(error);
-		return []
+		return [];
 	}
-
-
 }
 
-
-async function getRangeVerses(table: Table, bookName: string, chapt: number, start: number, end: number) {
+async function getRangeVerses(
+	table: Table,
+	bookName: string,
+	chapt: number,
+	start: number,
+	end: number,
+) {
 	try {
-		const sql = connect()
+		const sql = connect();
 		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 			SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
-				sql(table)
-			} 
+			sql(table)
+		} 
 			JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
 			JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapt} AND books.name = ${book} 
 			AND ${sql(table)}.number >= ${start} AND ${sql(table)}.number <= ${end};
@@ -245,24 +236,19 @@ async function getRangeVerses(table: Table, bookName: string, chapt: number, sta
 
 		const rawVerses = versesSchema.parse(data);
 
-		const verses = deleteNullValues(rawVerses)
+		const verses = deleteNullValues(rawVerses);
 		await sql.end();
 
 		return verses;
-
 	} catch (error) {
 		console.log(error);
-		return []
+		return [];
 	}
-
-
 }
 
 async function getVerses(table: Table, bookName: string, chapt: number) {
-
 	try {
-
-		const sql = connect()
+		const sql = connect();
 		const book = `${toValidName(bookName)}`;
 		const data = await sql`
 		SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id FROM ${
@@ -272,81 +258,75 @@ async function getVerses(table: Table, bookName: string, chapt: number) {
 		JOIN books ON books.id = chapters.book_id WHERE chapter = ${chapt} AND books.name = ${book};
 		`;
 
-
 		const rawVerses = versesSchema.parse(data);
-		const verses = deleteNullValues(rawVerses)
+		const verses = deleteNullValues(rawVerses);
 
 		sql.end();
-		
+
 		return verses;
-
 	} catch (error) {
-		console.log('Verses');
+		console.log("Verses");
 		console.log(error);
-		return []
+		return [];
 	}
-
-
 }
 
 const getOneVerseVersion = async (
-  c: Context,
+	c: Context,
 ) => {
 	const { version, book, chapter } = c.req.valid("param");
 	const table = getVersionTable(version as Version);
 
-
 	try {
 		const { verse } = c.req.valid("param") as { verse: string };
-
 		const is_range = verse.includes("-");
 
 		if (is_range) {
 			const [value_start, value_end] = verse.split("-");
 			const start = Number(value_start);
 			const end = Number(value_end);
-
 			const info = await getRangeVerses(table, book, chapter, start, end);
 
 			return c.json(info);
-
 		} else {
 			const verse_num = Number(verse);
 			const info = await getOneVerse(table, book, chapter, verse_num);
 
 			return c.json(info);
-
 		}
-
 	} catch (_error) {
 		console.log(_error);
 		return c.notFound();
 	}
-
-}
+};
 
 const getChapterVersion = async (
-  c: Context,
+	c: Context,
 ) => {
-
 	const { version } = c.req.valid("param");
 	const table = getVersionTable(version as Version);
 
 	try {
-		const { book, chapter }: { book: string, chapter: number } = c.req.valid("param");
+		const { book, chapter }: { book: string; chapter: number } = c.req.valid(
+			"param",
+		);
 		const infoBook = getInfoBook(book);
 		const cache = new CacheChapters(version);
-		await cache.init()
+		await cache.init();
+
+		const bookName = infoBook.names.find((name) => {
+			return name === book;
+		});
 
 		const info: Chapter = {
 			testament: infoBook.testament === "Antiguo Testamento" ? "old" : "new",
-			name: infoBook.name,
+			name: bookName ?? book,
 			num_chapters: infoBook.chapters,
 			chapter,
 			vers: [],
 		};
-		let failedRedis = false;
 
+		let failedRedis = false;
 		const found = await cache.existCh(book, chapter);
 
 		try {
@@ -354,17 +334,16 @@ const getChapterVersion = async (
 				const verses = await cache.search(book, chapter);
 				verses.sort((v1: Verse, v2: Verse) => {
 					return v1.number - v2.number;
-				})
-				info.vers = verses
-				failedRedis = false
+				});
+				info.vers = verses;
+				failedRedis = false;
 			}
 		} catch (error) {
 			console.log(error);
-			failedRedis = true
+			failedRedis = true;
 		}
 
 		if (!found) {
-
 			const data = await getVerses(table, book, chapter);
 
 			if (!failedRedis) {
@@ -372,25 +351,17 @@ const getChapterVersion = async (
 			}
 			data.sort((v1, v2) => {
 				return v1.number - v2.number;
-			})
+			});
 
-
-			info.vers = data
-
+			info.vers = data;
 		}
 
 		cache.quit();
-
 		return c.json(info);
-
 	} catch (_error) {
 		console.log(_error);
 		return c.notFound();
 	}
 };
 
-export {
-  getChapterVersion,
-  getOneVerseVersion,
-  getEndpoits,
-};
+export { getChapterVersion, getEndpoits, getOneVerseVersion };

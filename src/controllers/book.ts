@@ -1,27 +1,27 @@
 import { Context } from "hono/context.ts";
-import {
-  getInfoBook,
-} from "$/utils/book.ts";
+import { getInfoBook } from "$/utils/book.ts";
 import { books } from "$/constants.ts";
 
 export const getBookInfo = (c: Context): Response => {
-  const { book }  = c.req.valid("param");
+	const { book } = c.req.valid("param");
 
-  const info = getInfoBook(book);
+	const info = getInfoBook(book);
 
-  c.status(200);
-  return c.json({
-    ...info,
-  });
+	c.status(200);
+	return c.json({
+		...info,
+	});
 };
 
 export const getTestamentBooks = (c: Context, testament: "old" | "new") => {
-	const esTestament = testament === "old" ? "Antiguo Testamento" : "Nuevo Testamento";
+	const esTestament = testament === "old"
+		? "Antiguo Testamento"
+		: "Nuevo Testamento";
 	return c.json(books.filter((b) => b.testament === esTestament));
-}
+};
 
 export const getBooks = (c: Context) => {
-  c.status(200);
+	c.status(200);
 
-  return c.json(books);
+	return c.json(books);
 };

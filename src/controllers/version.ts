@@ -1,10 +1,10 @@
 import { Context } from "hono/context.ts";
 import { getVersionName } from "$/constants.ts";
-import { VersionBible } from "$/constants.ts";
+import { Version } from "$/constants.ts";
 
 export const getVersions = () => {
 	const versions = [];
-	for (const version of Object.values(VersionBible)) {
+	for (const version of Object.values(Version)) {
 		const name = getVersionName(version);
 		versions.push({
 			name,
@@ -14,9 +14,8 @@ export const getVersions = () => {
 	}
 
 	return versions;
-}
+};
 
 export const versions = (c: Context) => {
 	return c.json(getVersions());
-}
-
+};
