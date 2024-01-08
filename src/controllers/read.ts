@@ -42,7 +42,7 @@ const getEndpoits = (c: Context) => {
 	for (const book of books) {
 		const name = book.names[0].toLowerCase();
 		const info = `/api/book/${name}/`;
-		const byChapter = `/api/${folder}/book/${name}/1`;
+		const byChapter = `/api/read/${folder}/${name}/1`;
 		endpoints.push({
 			name: `${name} endpoint`,
 			info,
@@ -55,7 +55,7 @@ const getEndpoits = (c: Context) => {
 	);
 };
 
-function format(name: string) {
+export function format(name: string) {
 	const fm = name[0].toUpperCase() + name.slice(1).toLowerCase();
 	return fm;
 }
@@ -276,6 +276,8 @@ const getOneVerseVersion = async (
 ) => {
 	const { version, book, chapter } = c.req.valid("param");
 	const table = getVersionTable(version as Version);
+	const bookInfo = getInfoBook(book);
+	const bookName = format(bookInfo.names[0]);
 
 	try {
 		const { verse } = c.req.valid("param") as { verse: string };
@@ -285,12 +287,12 @@ const getOneVerseVersion = async (
 			const [value_start, value_end] = verse.split("-");
 			const start = Number(value_start);
 			const end = Number(value_end);
-			const info = await getRangeVerses(table, book, chapter, start, end);
+			const info = await getRangeVerses(table, bookName, chapter, start, end);
 
 			return c.json(info);
 		} else {
 			const verse_num = Number(verse);
-			const info = await getOneVerse(table, book, chapter, verse_num);
+			const info = await getOneVerse(table, bookName, chapter, verse_num);
 
 			return c.json(info);
 		}
@@ -310,13 +312,12 @@ const getChapterVersion = async (
 		const { book, chapter }: { book: string; chapter: number } = c.req.valid(
 			"param",
 		);
+
 		const infoBook = getInfoBook(book);
 		const cache = new CacheChapters(version);
 		await cache.init();
 
-		const bookName = infoBook.names.find((name) => {
-			return name === book;
-		});
+		const bookName = format(infoBook.names[0]);
 
 		const info: Chapter = {
 			testament: infoBook.testament === "Antiguo Testamento" ? "old" : "new",
@@ -327,11 +328,11 @@ const getChapterVersion = async (
 		};
 
 		let failedRedis = false;
-		const found = await cache.existCh(book, chapter);
+		const found = await cache.existCh(bookName, chapter);
 
 		try {
 			if (found) {
-				const verses = await cache.search(book, chapter);
+				const verses = await cache.search(bookName, chapter);
 				verses.sort((v1: Verse, v2: Verse) => {
 					return v1.number - v2.number;
 				});
@@ -344,10 +345,10 @@ const getChapterVersion = async (
 		}
 
 		if (!found) {
-			const data = await getVerses(table, book, chapter);
+			const data = await getVerses(table, bookName, chapter);
 
 			if (!failedRedis) {
-				await cache.add(data, { book, chapter });
+				await cache.add(data, { book: bookName, chapter });
 			}
 			data.sort((v1, v2) => {
 				return v1.number - v2.number;

@@ -21,14 +21,11 @@ const origin = [
 const app = new Hono();
 
 app.use("/notes/*", cors({ origin, credentials: true }));
-
 app.use("/auth/*", cors({ origin, credentials: true }));
-
 app.use("/user/*", cors({ origin, credentials: true }));
+app.use("/notes/*", isAuthenticated);
 
 app.route("/auth", router_auth);
-
-app.use("/notes/*", isAuthenticated);
 
 app.route("/notes", router_notes);
 
@@ -44,7 +41,7 @@ app.get("/api", (c) => {
 	const versions = getVersions();
 
 	const endpoints = versions.map((version) => {
-		return `/api/read/${version}/genesis/1`;
+		return `${version.uri}/genesis/1`;
 	});
 
 	return c.json({

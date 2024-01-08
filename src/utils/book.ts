@@ -1,4 +1,5 @@
 import { books } from "$/constants.ts";
+import { format } from "$/controllers/read.ts";
 
 const oldTestamentbooks = books.filter((b) => {
 	return b.testament === "Antiguo Testamento";
@@ -62,9 +63,40 @@ export const isInNewTestament = (book: string) => {
 	});
 };
 
-export const getInfoBook = (book: string) => {
+const isEnglishBook = (book: string) => {
+	return books.some((b) => {
+		const englishName = b.names[b.names.length - 1];
+		if (englishName.toLowerCase() === book.toLowerCase()) {
+			return b;
+		}
+	});
+};
+
+const getSpanishName = (book: string) => {
 	const bk = books.find((b) => {
-		if (b.names.includes(book)) {
+		const englishName = b.names[b.names.length - 1];
+		if (englishName.toLowerCase() === book.toLowerCase()) {
+			return b;
+		}
+	});
+
+	return bk?.names[0];
+};
+
+export const getInfoBook = (book: string) => {
+	let name: string | undefined = book;
+	if (isAbbreviation(book)) {
+		name = getNameByAbbreviation(book);
+	}
+
+	if (isEnglishBook(book)) {
+		name = getSpanishName(book) ?? book;
+	}
+
+	name = format(name ?? book);
+
+	const bk = books.find((b) => {
+		if (b.names.includes(name ?? book)) {
 			return b;
 		}
 	});
