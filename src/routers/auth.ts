@@ -24,6 +24,7 @@ router_auth.post(
 			c.status(400);
 			return c.json(parsed.error);
 		}
+		parsed.data.email = parsed.data.email.toLowerCase();
 
 		return parsed.data;
 	}),
@@ -38,6 +39,7 @@ router_auth.post(
 			c.status(400);
 			return c.json(parsed.error);
 		}
+		parsed.data.email = parsed.data.email.toLowerCase();
 
 		return parsed.data;
 	}),

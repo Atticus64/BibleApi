@@ -1,4 +1,5 @@
 import * as jose from "jose";
+import UserRepository from "$/userRepository.ts";
 
 export interface User {
 	id: string;
@@ -14,23 +15,19 @@ export const getUser = async (token: string): Promise<User | null> => {
 
 	const { payload } = await jose.jwtVerify(token, secret);
 
-	const kv = await Deno.openKv();
-
-	const data = await kv.get(["users", payload.id as string]);
-
-	let info: { email: string; id: string; active: boolean };
-
-	if (!data.value) {
+	const userRepo = await UserRepository.Create();
+	const exists = await userRepo.existsUser(payload.email as string);
+	if (!exists) {
 		return null;
-	} else {
-		info = data.value as { email: string; id: string; active: boolean };
 	}
 
+	const data = await userRepo.get(payload.email as string);
+
 	const user = {
-		email: info.email,
-		id: info.id,
-		tag: payload.id as string,
-		active: info.active,
+		email: data.email,
+		id: data.id,
+		tag: data.user,
+		active: data.active,
 	};
 
 	return user;

@@ -1,8 +1,8 @@
 import { Context } from "hono/context.ts";
 import { hash, verify } from "https://deno.land/x/scrypt@v4.2.1/mod.ts";
-import { checkUser } from "$/validators/mod.ts";
 import * as jose from "jose";
 import { deleteCookie, setCookie } from "middleware/cookie/index.ts";
+import UserRepository from "$/userRepository.ts";
 
 interface User {
 	user: string;
@@ -10,16 +10,22 @@ interface User {
 	email: string;
 }
 
+const createJWT = (email: string) => {
+	const secret = new TextEncoder().encode(
+		Deno.env.get("SECRET_TOKEN"),
+	);
+	return new jose.SignJWT({ email })
+		.setProtectedHeader({ alg: "HS512", typ: "JWT" })
+		.setIssuedAt()
+		.setExpirationTime("72h")
+		.sign(secret);
+};
+
 export const signup = async (c: Context): Promise<Response> => {
 	try {
 		const { user, password, email } = c.req.valid("json") as User;
-
-		const kv = await Deno.openKv();
-
-		const userEmail = email.toLowerCase();
-
-		const { exists } = await checkUser(user, userEmail);
-
+		const userRepo = await UserRepository.Create();
+		const exists = await userRepo.existsUser(email);
 		if (exists) {
 			c.status(400);
 			return c.json({
@@ -28,36 +34,17 @@ export const signup = async (c: Context): Promise<Response> => {
 		}
 
 		const hashed = hash(password);
-		const id = crypto.randomUUID();
-		const userData = {
-			email: userEmail,
-			password: hashed,
-			id,
-			active: true,
-		};
-
-		kv.set(["users", user], userData);
-
-		kv.set(["users_by_email", userEmail], {
+		const userInfo = {
 			user,
 			password: hashed,
-			id,
-			active: true,
-		});
+			email,
+		};
+		await userRepo.save(userInfo);
+		userRepo.quit();
 
-		const secret = new TextEncoder().encode(
-			Deno.env.get("SECRET_TOKEN"),
-		);
-
-		const jwt = await new jose.SignJWT({ id: user })
-			.setProtectedHeader({ alg: "HS512", typ: "JWT" })
-			.setIssuedAt()
-			.setExpirationTime("72h")
-			.sign(secret);
-
+		const jwt = await createJWT(email);
 		const expirationDate = new Date();
 		expirationDate.setDate(expirationDate.getDate() + 3);
-
 		setCookie(c, "authorization", jwt, {
 			path: "/",
 			sameSite: "None",
@@ -68,7 +55,7 @@ export const signup = async (c: Context): Promise<Response> => {
 		return c.json({
 			user,
 			token: jwt,
-			email: userEmail,
+			email,
 		});
 	} catch (error) {
 		console.log(error);
@@ -86,21 +73,18 @@ export const login = async (c: Context): Promise<Response> => {
 		"json",
 	);
 
-	const loginEmail = email.toLowerCase();
-	const kv = await Deno.openKv();
-
-	const userData = await kv.get(["users_by_email", loginEmail]);
-
-	if (!userData.value) {
+	const userRepo = await UserRepository.Create();
+	const exists = await userRepo.existsUser(email);
+	if (!exists) {
 		c.status(400);
 		return c.json({
 			message: "User not found",
 		});
 	}
 
-	const data = userData.value as User;
-
-	const isValid = verify(password as string, data.password);
+	const data = await userRepo.get(email);
+	const isValid = verify(password, data.password);
+	userRepo.quit();
 
 	if (!isValid) {
 		c.status(400);
@@ -109,15 +93,7 @@ export const login = async (c: Context): Promise<Response> => {
 		});
 	}
 
-	const secret = new TextEncoder().encode(
-		Deno.env.get("SECRET_TOKEN"),
-	);
-
-	const jwt = await new jose.SignJWT({ id: data.user })
-		.setProtectedHeader({ alg: "HS512", typ: "JWT" })
-		.setIssuedAt()
-		.setExpirationTime("72h")
-		.sign(secret);
+	const jwt = await createJWT(data.email);
 
 	c.status(200);
 
@@ -134,7 +110,7 @@ export const login = async (c: Context): Promise<Response> => {
 	return c.json({
 		user: data.user,
 		token: jwt,
-		email: loginEmail,
+		email,
 	});
 };
 

@@ -50,39 +50,3 @@ export const deleteUser = async (c: Context) => {
 		c.status(500);
 	}
 };
-
-export const deleteDB = async (c: Context): Promise<Response> => {
-	const kv = await Deno.openKv();
-
-	for await (const { key } of kv.list({ prefix: ["users"] })) {
-		await kv.delete(key);
-	}
-
-	for await (const { key } of kv.list({ prefix: ["users_by_email"] })) {
-		await kv.delete(key);
-	}
-
-	for await (const { key } of kv.list({ prefix: ["notes"] })) {
-		await kv.delete(key);
-	}
-
-	return c.json({ message: "OK" });
-};
-
-export const checkDB = async (c: Context): Promise<Response> => {
-	const kv = await Deno.openKv();
-
-	for await (const item of kv.list({ prefix: ["users"] })) {
-		console.log(item);
-	}
-
-	for await (const item of kv.list({ prefix: ["users_by_email"] })) {
-		console.log(item);
-	}
-
-	for await (const item of kv.list({ prefix: ["notes"] })) {
-		console.log(item);
-	}
-
-	return c.json({ message: "OK" });
-};

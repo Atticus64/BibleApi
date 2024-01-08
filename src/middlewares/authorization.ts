@@ -1,6 +1,7 @@
 import { Context, Next } from "hono/mod.ts";
 import { getCookie } from "hono/middleware/cookie/index.ts";
 import * as jose from "jose";
+import UserRepository from "$/userRepository.ts";
 
 export const isAuthenticated = async (c: Context, next: Next) => {
 	const token = getToken(c);
@@ -16,27 +17,26 @@ export const isAuthenticated = async (c: Context, next: Next) => {
 
 		const { payload } = await jose.jwtVerify(token, secret);
 
-		const data = payload as { id: string; exp: number };
-		1689104005;
+		const data = payload as { email: string; exp: number };
 		if (!payload) {
 			return c.json({ message: "Unauthorized" }, 401);
 		}
 
-		const { id, exp } = data;
+		const { email, exp } = data;
 
-		if (!id || !exp) {
+		if (!email || !exp) {
 			return c.json({ message: "Unauthorized" }, 401);
 		}
 
-		const kv = await Deno.openKv();
+		const userRepo = await UserRepository.Create();
 
-		const user = await kv.get(["users", id]);
+		const exists = await userRepo.existsUser(email);
 
-		if (!user) {
+		if (!exists) {
 			return c.json({ message: "Unauthorized" }, 401);
 		}
 	} catch (_e) {
-		// console.log(_e)
+		console.log(_e);
 		return c.json({ message: "Unauthorized" }, 401);
 	}
 
