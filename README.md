@@ -29,7 +29,7 @@ GET `/api/read/nvi/apocalipsis/22`
 
 ### Search query
 
-`api/<version>/search?q=Dios&testament=old&take=5&page=4`
+`api/read/<version>/search?q=Dios&testament=old&take=5&page=4`
 
 _query is required_
 
@@ -44,7 +44,7 @@ interface Parameters {
 
 - Examples
 
-https://bible-api.deno.dev/api/nvi/search?q=Dios
+https://bible-api.deno.dev/api/read/nvi/search?q=Dios
 
 GET `api/nvi/read/search?q=Dios&page=2`
 
