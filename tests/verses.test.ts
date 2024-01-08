@@ -62,6 +62,37 @@ Deno.test("Get verses of Psalms 1:1-2 in KJV", async () => {
   })
 })
 
+Deno.test("Get verses of Psalms 1:1-2 in KJV by abrevation", async () => {
+  await runTest(async () => {
+    const response = await app.request("/api/read/kjv/sal/1/1-2", {
+      method: "GET",
+    })
+
+    const json = await response.json()
+
+    assertEquals(json.length, 2)
+    assertEquals(
+      json[1].verse,
+      "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
+    )
+  })
+})
+
+Deno.test("Get verses of Psalms 1:1-2 in KJV by englishName", async () => {
+  await runTest(async () => {
+    const response = await app.request("/api/read/kjv/psalms/1/1-2", {
+      method: "GET",
+    })
+
+    const json = await response.json()
+
+    assertEquals(json.length, 2)
+    assertEquals(
+      json[1].verse,
+      "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
+    )
+  })
+})
 
 
 
