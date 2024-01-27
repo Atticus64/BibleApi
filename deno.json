@@ -1,24 +1,19 @@
 {
-  "tasks": {
-    "dev": "deno run --unstable --allow-env --allow-read --allow-net --watch src/main.ts",
-    "start": "deno run --unstable --allow-env --allow-read --allow-net src/main.ts",
-    "scrape:all": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts",
-    "scrape:r95": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version r95",
-    "scrape:nvi": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version nvi",
-    "scrape:rv60": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version rv60",
-    "scrape:dhh": "deno run --allow-write --allow-read --allow-net src/scraping/index.ts --version dhh",
-    "test": "deno test --unstable -A"
-  },
-  "importMap": "./import_map.json",
-  "fmt": {
-    "useTabs": true,
-    "semiColons": true,
-    "include": [
-      "src/"
-    ],
-    "exclude": [
-      "src/testdata/",
-      "data/fixtures/**/*.ts"
-    ]
-  }
+	"tasks": {
+		"dev": "deno run --unstable --allow-env --allow-read --allow-net --watch src/main.ts",
+		"start": "deno run --unstable --allow-env --allow-read --allow-net src/main.ts",
+		"test": "deno test --unstable -A"
+	},
+	"importMap": "./import_map.json",
+	"fmt": {
+		"useTabs": true,
+		"semiColons": true,
+		"include": [
+			"src/"
+		],
+		"exclude": [
+			"src/testdata/",
+			"data/fixtures/**/*.ts"
+		]
+	}
 }
