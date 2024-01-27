@@ -1,5 +1,5 @@
 import { books } from "$/constants.ts";
-import { format } from "$/controllers/read.ts";
+import { format, toValidName } from "$/controllers/read.ts";
 
 const oldTestamentbooks = books.filter((b) => {
 	return b.testament === "Antiguo Testamento";
@@ -93,10 +93,10 @@ export const getInfoBook = (book: string) => {
 		name = getSpanishName(book) ?? book;
 	}
 
-	name = format(name ?? book);
+	const validName = toValidName(name ?? book);
 
 	const bk = books.find((b) => {
-		if (b.names.includes(name ?? book)) {
+		if (b.names.includes(validName)) {
 			return b;
 		}
 	});

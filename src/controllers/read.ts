@@ -277,7 +277,7 @@ const getOneVerseVersion = async (
 	const { version, book, chapter } = c.req.valid("param");
 	const table = getVersionTable(version as Version);
 	const bookInfo = getInfoBook(book);
-	const bookName = format(bookInfo.names[0]);
+	const bookName = toValidName(bookInfo.names[0]);
 
 	try {
 		const { verse } = c.req.valid("param") as { verse: string };
@@ -317,7 +317,7 @@ const getChapterVersion = async (
 		const cache = new CacheChapters(version);
 		await cache.init();
 
-		const bookName = format(infoBook.names[0]);
+		const bookName = toValidName(infoBook.names[0]);
 
 		const info: Chapter = {
 			testament: infoBook.testament === "Antiguo Testamento" ? "old" : "new",
