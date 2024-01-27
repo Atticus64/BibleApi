@@ -99,8 +99,8 @@ async function searchTable(
 	const checkTestament = (testament: string) =>
 		sql`and testament = ${testament}`;
 
-	const meta = await sql`
-	SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name, ${
+	const verses = await sql`
+	SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${
 		sql(table)
 	}.chapter FROM ${sql(table)} 
 	JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
@@ -109,15 +109,11 @@ async function searchTable(
 		hasTestament ? checkTestament(testament) : sql``
 	}`;
 
-	const res = await sql`
-	SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${
-		sql(table)
-	}.chapter FROM ${sql(table)}
-	JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
-	JOIN books ON books.id = chapters.book_id
-	WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} 
-	${hasTestament ? checkTestament(testament) : sql``} 
-	LIMIT ${take} OFFSET ${offset};`;
+	const items = verses.length;
+	const start = Math.min(items - 1, offset);
+	const end = Math.min(items, offset + take);
+
+	const res = verses.slice(start, end);
 
 	sql.end();
 
@@ -126,8 +122,8 @@ async function searchTable(
 		meta: {
 			page,
 			pageSize: take,
-			total: meta.count,
-			pageCount: Math.ceil(meta.count / take),
+			total: verses.count,
+			pageCount: Math.ceil(verses.count / take),
 		},
 	};
 
