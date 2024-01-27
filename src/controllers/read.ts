@@ -1,4 +1,4 @@
-import { Context } from "hono/context.ts";
+import { Context } from "hono";
 import { Table, Verse, VerseSchema, Version } from "$/constants.ts";
 import { connect } from "$/database/index.ts";
 import { books } from "$/constants.ts";
@@ -32,9 +32,7 @@ export const testaments = [
 	"new",
 ];
 
-const getEndpoits = (c: Context) => {
-	const { version } = c.req.valid("param");
-
+const getEndpoits = (c: Context, version: string) => {
 	const endpoints = [];
 	const versions = getVersions();
 	const folder = versions.find((ver) => ver === version);
@@ -138,10 +136,12 @@ export async function dbSearch(
 	return await searchTable(table, query, take, page, testament);
 }
 
-export async function SearchVersion(c: Context) {
-	const { version } = c.req.valid("param");
-
-	const { q, take, page, testament }: Query = c.req.valid("query");
+export async function SearchVersion(
+	c: Context,
+	version: Version,
+	query: Query,
+) {
+	const { q, take, page, testament } = query;
 
 	const data = await dbSearch({
 		version,
@@ -269,14 +269,14 @@ async function getVerses(table: Table, bookName: string, chapt: number) {
 
 const getOneVerseVersion = async (
 	c: Context,
+	bookData: { version: string; book: string; chapter: number; verse: string },
 ) => {
-	const { version, book, chapter } = c.req.valid("param");
+	const { version, book, chapter, verse } = bookData;
 	const table = getVersionTable(version as Version);
 	const bookInfo = getInfoBook(book);
 	const bookName = toValidName(bookInfo.names[0]);
 
 	try {
-		const { verse } = c.req.valid("param") as { verse: string };
 		const is_range = verse.includes("-");
 
 		if (is_range) {
@@ -300,15 +300,12 @@ const getOneVerseVersion = async (
 
 const getChapterVersion = async (
 	c: Context,
+	bookData: { version: string; book: string; chapter: number },
 ) => {
-	const { version } = c.req.valid("param");
+	const { version, book, chapter } = bookData;
 	const table = getVersionTable(version as Version);
 
 	try {
-		const { book, chapter }: { book: string; chapter: number } = c.req.valid(
-			"param",
-		);
-
 		const infoBook = getInfoBook(book);
 		const cache = new CacheChapters(version);
 		await cache.init();

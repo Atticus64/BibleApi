@@ -1,4 +1,4 @@
-import { Hono } from "hono/mod.ts";
+import { Hono } from "hono";
 import { getUserInfo } from "$/controllers/user.ts";
 
 const router_user = new Hono();

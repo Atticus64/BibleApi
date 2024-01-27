@@ -1,4 +1,4 @@
-import { Context } from "hono/context.ts";
+import { Context } from "hono";
 import { getVersionName } from "$/constants.ts";
 import { Version } from "$/constants.ts";
 

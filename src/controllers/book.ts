@@ -1,10 +1,8 @@
-import { Context } from "hono/context.ts";
+import { Context } from "hono";
 import { getInfoBook } from "$/utils/book.ts";
 import { books } from "$/constants.ts";
 
-export const getBookInfo = (c: Context): Response => {
-	const { book } = c.req.valid("param");
-
+export const getBookInfo = (c: Context, book: string): Response => {
 	const info = getInfoBook(book);
 
 	c.status(200);

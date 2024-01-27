@@ -1,5 +1,5 @@
-import { Context, Next } from "hono/mod.ts";
-import { getCookie } from "hono/middleware/cookie/index.ts";
+import { Context, Next } from "hono";
+import { getCookie } from "npm:hono/cookie";
 import * as jose from "jose";
 import UserRepository from "$/userRepository.ts";
 

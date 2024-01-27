@@ -1,4 +1,4 @@
-import { Context } from "hono/mod.ts";
+import { Context } from "hono";
 import {
 	existBook,
 	getInfoBook,
@@ -26,16 +26,16 @@ export const checkBook = (value: { book: string }, c: Context) => {
 };
 
 export const validChapter = (
-	value: { chapter: number; book: string },
+	value: { chapter: string; book: string },
 	c: Context,
 ) => {
-	let { chapter, book } = value;
+	const { chapter, book } = value;
 
 	const info = getInfoBook(book);
 
-	chapter = Number(chapter);
+	const chap = Number(chapter);
 
-	if (info.chapters < chapter || chapter < 1 || isNaN(chapter)) {
+	if (info.chapters < chap || chap < 1 || isNaN(chap)) {
 		c.status(400);
 		return c.json({
 			error: "Invalid chapter",
@@ -43,8 +43,6 @@ export const validChapter = (
 			chaptersInBook: info.chapters,
 		});
 	}
-
-	value.chapter = Number(chapter);
 
 	return value;
 };

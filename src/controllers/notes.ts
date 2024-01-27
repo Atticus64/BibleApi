@@ -1,4 +1,4 @@
-import { Context } from "hono/mod.ts";
+import { Context } from "hono";
 import { getUser } from "$/middlewares/user.ts";
 import { getToken } from "$/middlewares/authorization.ts";
 
@@ -68,8 +68,8 @@ interface Note extends NoteDto {
 	id: string;
 }
 
-const createNote = async (c: Context) => {
-	const { title, description, body, page } = c.req.valid("json") as NoteDto;
+const createNote = async (c: Context, note: NoteDto) => {
+	const { title, description, body, page } = note;
 
 	const kv = await Deno.openKv();
 
@@ -104,8 +104,8 @@ const createNote = async (c: Context) => {
 	});
 };
 
-const editNote = async (c: Context): Promise<Response> => {
-	const { title, description, body } = c.req.valid("json") as NoteDto;
+const editNote = async (c: Context, note: NoteDto): Promise<Response> => {
+	const { title, description, body } = note;
 	const kv = await Deno.openKv();
 
 	const token = getToken(c);

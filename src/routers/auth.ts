@@ -1,7 +1,7 @@
-import { Hono } from "hono/mod.ts";
+import { Hono } from "hono";
 import { login, logout, signup } from "$/controllers/auth.ts";
 import { z } from "zod";
-import { validator } from "hono/validator/validator.ts";
+import { validator } from "npm:hono/validator";
 
 const router_auth = new Hono();
 
@@ -28,7 +28,10 @@ router_auth.post(
 
 		return parsed.data;
 	}),
-	signup,
+	(c) => {
+		const userData = c.req.valid("json");
+		return signup(c, userData);
+	},
 );
 
 router_auth.post(
@@ -43,7 +46,10 @@ router_auth.post(
 
 		return parsed.data;
 	}),
-	login,
+	(c) => {
+		const loginForm = c.req.valid("json");
+		return login(c, loginForm);
+	},
 );
 
 router_auth.get("/logout", logout);

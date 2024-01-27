@@ -1,7 +1,7 @@
-import { Context } from "hono/context.ts";
+import { Context } from "hono";
 import { hash, verify } from "https://deno.land/x/scrypt@v4.2.1/mod.ts";
 import * as jose from "jose";
-import { deleteCookie, setCookie } from "middleware/cookie/index.ts";
+import { deleteCookie, setCookie } from "npm:hono/cookie";
 import UserRepository from "$/userRepository.ts";
 
 interface User {
@@ -21,9 +21,9 @@ const createJWT = (email: string) => {
 		.sign(secret);
 };
 
-export const signup = async (c: Context): Promise<Response> => {
+export const signup = async (c: Context, dataUser: User): Promise<Response> => {
 	try {
-		const { user, password, email } = c.req.valid("json") as User;
+		const { user, password, email } = dataUser;
 		const userRepo = await UserRepository.Create();
 		const exists = await userRepo.existsUser(email);
 		if (exists) {
@@ -68,11 +68,11 @@ export const signup = async (c: Context): Promise<Response> => {
 	}
 };
 
-export const login = async (c: Context): Promise<Response> => {
-	const { email, password }: { email: string; password: string } = c.req.valid(
-		"json",
-	);
-
+export const login = async (
+	c: Context,
+	loginForm: { email: string; password: string },
+): Promise<Response> => {
+	const { email, password } = loginForm;
 	const userRepo = await UserRepository.Create();
 	const exists = await userRepo.existsUser(email);
 	if (!exists) {

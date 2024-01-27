@@ -1,4 +1,5 @@
-import { Hono, validator } from "hono/mod.ts";
+import { Hono } from "hono";
+import { validator } from "npm:hono/validator";
 import { z } from "zod";
 import {
 	createNote,
@@ -30,7 +31,10 @@ router_notes.post(
 
 		return parsed.data;
 	}),
-	createNote,
+	(c) => {
+		const note = c.req.valid("json");
+		return createNote(c, note);
+	},
 );
 
 router_notes.get("/:id", getNoteById);
@@ -46,7 +50,10 @@ router_notes.put(
 
 		return parsed.data;
 	}),
-	editNote,
+	(c) => {
+		const note = c.req.valid("json");
+		return editNote(c, note);
+	},
 );
 
 router_notes.delete("/:id", deleteNote);

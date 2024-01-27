@@ -1,5 +1,5 @@
 import { getVersions, validVersion } from "$/controllers/read.ts";
-import { Context } from "hono/mod.ts";
+import { Context } from "hono";
 
 export const checkVersion = (value: { version: string }, c: Context) => {
 	const { version } = value;

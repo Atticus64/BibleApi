@@ -1,4 +1,5 @@
-import { Context, Hono, validator } from "hono/mod.ts";
+import { Context, Hono } from "hono";
+import { validator } from "npm:hono/validator";
 import {
 	getChapterVersion,
 	getEndpoits,
@@ -8,19 +9,22 @@ import {
 import { randomVerse } from "$/controllers/random.ts";
 import { checkVersion } from "$/validators/version.ts";
 import { checkBook, validChapter, validVerse } from "$/validators/book.ts";
-import { validQueries } from "$/validators/search.ts";
+import { Query, validQueries } from "$/validators/search.ts";
+import { Version } from "$/constants.ts";
 
 const router_read = new Hono();
 
 router_read.get("/:version", validator("param", checkVersion), (c) => {
-	return getEndpoits(c);
+	const { version } = c.req.valid("param");
+	return getEndpoits(c, version);
 });
 
 router_read.get(
 	"/:version/verse/random",
 	validator("param", checkVersion),
 	(c) => {
-		return randomVerse(c);
+		const { version } = c.req.valid("param");
+		return randomVerse(c, version);
 	},
 );
 
@@ -29,7 +33,10 @@ router_read.get(
 	validator("param", checkVersion),
 	validator("query", validQueries),
 	(c) => {
-		return SearchVersion(c);
+		const query: Query = c.req.valid("query");
+		const { version } = c.req.valid("param");
+
+		return SearchVersion(c, version as Version, query);
 	},
 );
 
@@ -39,8 +46,15 @@ router_read.get(
 	validator("param", checkBook),
 	validator("param", validChapter),
 	validator("param", validVerse),
-	(c: Context) => {
-		return getOneVerseVersion(c);
+	(c) => {
+		const bookData = c.req.valid("param");
+
+		const data = {
+			...bookData,
+			chapter: Number(bookData.chapter),
+		};
+
+		return getOneVerseVersion(c, data);
 	},
 );
 
@@ -49,8 +63,14 @@ router_read.get(
 	validator("param", checkVersion),
 	validator("param", validChapter),
 	validator("param", checkBook),
-	(c: Context) => {
-		return getChapterVersion(c);
+	(c) => {
+		const bookData = c.req.valid("param");
+		const data = {
+			...bookData,
+			chapter: Number(bookData.chapter),
+		};
+
+		return getChapterVersion(c, data);
 	},
 );
 

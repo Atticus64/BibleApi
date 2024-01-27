@@ -1,5 +1,5 @@
 import { getVersionTable, testaments } from "$/controllers/read.ts";
-import { Context } from "hono/mod.ts";
+import { Context } from "hono";
 import { connect } from "$/database/index.ts";
 import { Version } from "$/constants.ts";
 
@@ -11,8 +11,7 @@ function generateRandom(maxLimit: number) {
 	return rand;
 }
 
-export const randomVerse = async (c: Context) => {
-	const { version } = c.req.valid("param");
+export const randomVerse = async (c: Context, version: string) => {
 	const queryTestament = c.req.query("testament");
 
 	const hasTestament = queryTestament !== undefined &&

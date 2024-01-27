@@ -1,4 +1,4 @@
-import { Context } from "hono/mod.ts";
+import { Context } from "hono";
 import { getToken } from "$/middlewares/authorization.ts";
 import { getUser } from "$/middlewares/user.ts";
 import { z } from "zod";

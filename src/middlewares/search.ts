@@ -1,5 +1,5 @@
 import { Version } from "$/constants.ts";
-import { Context } from "hono/mod.ts";
+import { Context } from "hono";
 import { Book, books } from "$/constants.ts";
 import { getFolder } from "$/scraping/scrape.ts";
 import { searchProps } from "$/validators/search.ts";
