@@ -1,6 +1,7 @@
-import { assertEquals } from "https://deno.land/std@0.152.0/testing/asserts.ts"
+import { assert, assertEquals } from "https://deno.land/std@0.152.0/testing/asserts.ts"
 import { runTest } from "./setup.ts"
 import { app } from "$/mod.ts"
+import { Verse, books } from "$/constants.ts";
 
 Deno.test("Get verse Genesis 1:1", async () => {
   await runTest(async () => {
@@ -126,5 +127,30 @@ Deno.test("Invalid range should return 400", async () => {
       json,
       { error: "Invalid range", range: "2-1" },
     )
+  })
+})
+
+Deno.test("Get all first verse of all books", async () => {
+  await runTest(async () => {
+	const requests = []
+	for (const b of books) {
+		const req = app.request(`/api/read/nvi/${b.names[0]}/1/1`, {
+			method: "GET",
+		})
+		requests.push(req)
+	}
+
+	const responses = await Promise.all(requests)
+	const promises: Promise<Verse>[] = []
+
+	for (const res of responses) {
+		const verse = res.json()
+		promises.push(verse)
+	}
+
+	const verses = await Promise.all(promises)
+
+	const empty = verses.some(v => v.verse === "")
+	assert(empty === false)
   })
 })
