@@ -1,6 +1,9 @@
-import { Book, books, Version } from "$/constants.ts";
+import { Book, books, existDir, Version } from "$/constants.ts";
 import { log } from "$/scraping/logger.ts";
+import { versions } from "$/controllers/version.ts";
+import * as cheerio from "https://esm.sh/cheerio";
 const BiblePage = "https://www.biblia.es/biblia-buscar-libros-1.php";
+const page = "https://www.biblegateway.com/passage/";
 
 interface Studies {
 	v: number;
@@ -16,6 +19,16 @@ const getUrls = (book: string, chapters: number, version: Version) => {
 	}
 
 	return urls;
+};
+
+const getLinks = (book: string, chapters: number, version: Version) => {
+	const urls = [];
+
+	for (let i = 1; i <= chapters; i++) {
+		urls.push(
+			`?search=${book}+${i}&version=${Version}`,
+		);
+	}
 };
 
 // const scrapeBook = async (book: Book, version: Version) => {
@@ -122,47 +135,60 @@ export const getFolder = (version: Version) => {
 	}
 };
 
-// export async function scrapeVersion(version: Version) {
-//   const dir = `${Deno.cwd()}/db`;
-//   const existPath = existDir(dir);
-//   if (!existPath) {
-//     Deno.mkdir(dir);
-//   }
-//
-//   const folder = getFolder(version);
-//   const path = `${Deno.cwd()}/db/${folder}`;
-//   const existRv60Folder = existDir(path);
-//   if (!existRv60Folder) {
-//     Deno.mkdir(path);
-//   }
-//
-//   for await (const book of books) {
-//     const testamentFolder = book.testament === "Antiguo Testamento"
-//       ? "oldTestament"
-//       : "newTestament";
-//     let Bookverses;
-//     try {
-//       Bookverses = await scrapeBook(book, version);
-//       await Deno.writeTextFile(
-//         `${Deno.cwd()}/db/${folder}/${testamentFolder}/${book.name.toLowerCase()}.json`,
-//         JSON.stringify(Bookverses, null, "\t"),
-//       );
-//     } catch (error) {
-//       if (error.message.includes("No such file or directory")) {
-//         await Deno.mkdir(`${Deno.cwd()}/db/${folder}/${testamentFolder}/`);
-//         Bookverses = await scrapeBook(book, version);
-//         await Deno.writeTextFile(
-//           `${Deno.cwd()}/db/rv1960/${testamentFolder}/${book.name.toLowerCase()}.json`,
-//           JSON.stringify(Bookverses, null, "\t"),
-//         );
-//       } else {
-//         throw new Error(error);
-//       }
-//     }
-//
-//     log(`Scraped ${book.name}`, "info");
-//     Bookverses = [];
-//   }
-//
-//   log(`Version ${version} scraped`, "info");
-// }
+export async function scrapeVersion(version: Version) {
+	const dir = `${Deno.cwd()}/db`;
+	const existPath = existDir(dir);
+	if (!existPath) {
+		Deno.mkdir(dir);
+	}
+
+	const folder = getFolder(version);
+	const path = `${Deno.cwd()}/db/${folder}`;
+	const existRv60Folder = existDir(path);
+	if (!existRv60Folder) {
+		//Deno.mkdir(path);
+	}
+
+	for await (const book of books) {
+		const testamentFolder = book.testament === "Antiguo Testamento"
+			? "oldTestament"
+			: "newTestament";
+		let Bookverses;
+		const data = await fetch(`${page}?search=${book}+${1}&version=${Version}`);
+		const html = await data.text();
+
+		const $ = cheerio.load(html);
+
+		const verses = $(".passage-content").children();
+		//console.log(verses)
+		for (const verse of verses) {
+			console.log($(verse).text());
+		}
+
+		//try {
+		//Bookverses = await scrapeBook(book, version);
+		//await Deno.writeTextFile(
+		//`${Deno.cwd()}/db/${folder}/${testamentFolder}/${book.name.toLowerCase()}.json`,
+		//JSON.stringify(Bookverses, null, "\t"),
+		//);
+		//} catch (error) {
+		//if (error.message.includes("No such file or directory")) {
+		//  await Deno.mkdir(`${Deno.cwd()}/db/${folder}/${testamentFolder}/`);
+		//  Bookverses = await scrapeBook(book, version);
+		//  await Deno.writeTextFile(
+		//    `${Deno.cwd()}/db/rv1960/${testamentFolder}/${book.name.toLowerCase()}.json`,
+		//    JSON.stringify(Bookverses, null, "\t"),
+		//  );
+		//} else {
+		//  throw new Error(error);
+		//}
+		//}
+
+		log(`Scraped ${book.names[0]}`, "info");
+		Bookverses = [];
+	}
+
+	log(`Version ${version} scraped`, "info");
+}
+
+scrapeVersion(Version.KJV);

@@ -1,5 +1,5 @@
 import { Context, Hono } from "hono";
-import { validator } from "npm:hono/validator";
+import { validator } from "https://deno.land/x/hono@v4.3.7/validator/index.ts";
 import {
 	getChapterVersion,
 	getEndpoits,
