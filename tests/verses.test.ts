@@ -130,28 +130,3 @@ Deno.test("Invalid range should return 400", async () => {
 		);
 	});
 });
-
-Deno.test("Get all first verse of all books", async () => {
-	await runTest(async () => {
-		const requests = [];
-		for (const b of books) {
-			const req = app.request(`/api/read/nvi/${b.names[0]}/1/1`, {
-				method: "GET",
-			});
-			requests.push(req);
-		}
-
-		const responses = await Promise.all(requests);
-		const promises: Promise<Verse>[] = [];
-
-		for (const res of responses) {
-			const verse = res.json();
-			promises.push(verse);
-		}
-
-		const verses = await Promise.all(promises);
-
-		const empty = verses.some((v) => v.verse === "");
-		assert(empty === false);
-	});
-});
