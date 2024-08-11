@@ -1,82 +1,77 @@
 import { Context } from "hono";
 import {
-	existBook,
-	getInfoBook,
-	getNameByAbbreviation,
-	isAbbreviation,
+  existBook,
+  getInfoBook,
+  getNameByAbbreviation,
+  isAbbreviation,
 } from "$/utils/book.ts";
 
-export const checkBook = (value: { book: string }, c: Context) => {
-	const { book } = value;
+export const invalidBookError = (c: Context, book: string) => {
 
-	if (isAbbreviation(book)) {
-		value.book = getNameByAbbreviation(book) || book;
-	}
+  c.status(400);
+  return c.json({
+    error: "Invalid book",
+    book,
+    validBooks: "/api/books",
+  });
+}
 
-	if (!existBook(value.book)) {
-		c.status(400);
-		return c.json({
-			error: "Invalid book",
-			book,
-			validBooks: "/api/books",
-		});
-	}
-
-	return value;
-};
+export const invalidChapterError = (c: Context, chapter: string, chapters: string) => {
+  c.status(400);
+  return c.json({
+    error: "Invalid chapter",
+    chapter: chapter,
+    chaptersInBook: chapters,
+  });
+}
 
 export const validChapter = (
-	value: { chapter: string; book: string },
-	c: Context,
+  value: { chapter: string; book: string },
+  c: Context,
 ) => {
-	const { chapter, book } = value;
+  const { chapter, book } = value;
 
-	const info = getInfoBook(book);
+  const info = getInfoBook(book);
 
-	const chap = Number(chapter);
+  const chap = Number(chapter);
 
-	if (info.chapters < chap || chap < 1 || isNaN(chap)) {
-		c.status(400);
-		return c.json({
-			error: "Invalid chapter",
-			chapter: value.chapter,
-			chaptersInBook: info.chapters,
-		});
-	}
+  if (info.chapters < chap || chap < 1 || isNaN(chap)) {
+    
+  }
 
-	return value;
+  return value;
 };
 
 export const validVerse = (value: { verse: string }, c: Context) => {
-	const { verse } = value;
+  const { verse } = value;
 
-	const is_range = verse.includes("-");
+  const is_range = verse.includes("-");
 
-	const num_verse = Number(verse);
+  const num_verse = Number(verse);
 
-	if (!is_range && isNaN(num_verse)) {
-		c.status(400);
-		return c.json({
-			error: "Invalid verse",
-			verse,
-		});
-	} else if (is_range) {
-		const [r_start, r_end] = verse.split("-");
-		const start = Number(r_start);
-		const end = Number(r_end);
+  if (!is_range && isNaN(num_verse)) {
+    c.status(400);
+    return c.json({
+      error: "Invalid verse",
+      verse,
+    });
+  } else if (is_range) {
+    const [r_start, r_end] = verse.split("-");
+    const start = Number(r_start);
+    const end = Number(r_end);
 
-		const are_numbers = !isNaN(start) && !isNaN(end);
-		const is_in_order = start < end;
-		const is_zero = start === 0 && end === 0;
+    const are_numbers = !isNaN(start) && !isNaN(end);
+    const is_in_order = start < end;
+    const is_zero = start === 0 && end === 0;
 
-		if (!are_numbers || !is_in_order || is_zero) {
-			c.status(400);
-			return c.json({
-				error: "Invalid range",
-				range: verse,
-			});
-		}
-	}
+    if (!are_numbers || !is_in_order || is_zero) {
+      c.status(400);
+      return c.json({
+        error: "Invalid range",
+        range: verse,
+      });
+    }
+  }
 
-	return value;
+  return value;
 };

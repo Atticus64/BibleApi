@@ -1,7 +1,7 @@
 import { Context } from "hono";
 import { hash, verify } from "https://deno.land/x/scrypt@v4.2.1/mod.ts";
 import * as jose from "jose";
-import { deleteCookie, setCookie } from "https://deno.land/x/hono/helper.ts";
+import { deleteCookie, setCookie } from "hono/cookie";
 import UserRepository from "$/userRepository.ts";
 
 interface User {

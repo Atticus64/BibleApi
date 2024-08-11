@@ -5,7 +5,7 @@ import { books } from "$/constants.ts";
 import { getInfoBook } from "$/utils/book.ts";
 import { z } from "zod";
 import { Query, searchProps } from "$/validators/search.ts";
-import CacheChapters from "$/database/cache.ts";
+//import CacheChapters from "$/database/cache.ts";
 
 const versesSchema = z.array(VerseSchema);
 

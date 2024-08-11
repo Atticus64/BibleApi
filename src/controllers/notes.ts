@@ -1,10 +1,14 @@
 import { Context } from "hono";
 import { getUser } from "$/middlewares/user.ts";
 import { getToken } from "$/middlewares/authorization.ts";
+import { getCookie } from "jsr:@hono/hono/cookie";
 
 const getNotes = async (c: Context): Promise<Response> => {
 	const kv = await Deno.openKv();
-	const token = getToken(c);
+  	const header = c.req.header().authorization;
+
+	const token = header?.split(" ")[1] ?? getCookie(c, "authorization");
+	//const token = getToken(c);
 	const user = await getUser(token);
 
 	if (!user) {

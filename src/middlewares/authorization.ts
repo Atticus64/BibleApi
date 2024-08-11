@@ -1,5 +1,5 @@
 import { Context, Next } from "hono";
-import { getCookie } from "https://deno.land/x/hono/helper.ts";
+import { getCookie } from "hono/cookie";
 import * as jose from "jose";
 import UserRepository from "$/userRepository.ts";
 

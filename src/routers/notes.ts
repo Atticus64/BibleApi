@@ -1,5 +1,5 @@
 import { Hono } from "hono";
-import { validator } from "npm:hono/validator";
+import { validator } from "hono/validator";
 import { z } from "zod";
 import {
 	createNote,

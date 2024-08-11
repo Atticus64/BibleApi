@@ -1,10 +1,12 @@
 import { Context } from "hono";
-import { getToken } from "$/middlewares/authorization.ts";
 import { getUser } from "$/middlewares/user.ts";
 import { z } from "zod";
+import { getCookie } from "jsr:@hono/hono/cookie";
 
 export const getUserInfo = async (c: Context) => {
-	const token = getToken(c);
+  const header = c.req.header().authorization;
+
+	const token = header?.split(" ")[1] ?? getCookie(c, "authorization");
 	const user = await getUser(token);
 
 	if (!user) {

@@ -2,8 +2,7 @@
 	"imports": {
 		"std/": "https://deno.land/std@0.213.0/",
 		"jose": "https://deno.land/x/jose@v4.14.4/index.ts",
-		"hono/": "npm:hono/",
-		"hono": "npm:hono",
+		"hono": "jsr:@hono/hono",
 		"postgres": "https://deno.land/x/postgres@v0.17.0/mod.ts",
 		"bcrypt": "https://deno.land/x/crypt@v0.1.0/bcrypt.ts",
 		"zod": "https://deno.land/x/zod@v3.21.4/mod.ts",
