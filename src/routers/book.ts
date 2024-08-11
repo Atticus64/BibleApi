@@ -1,5 +1,5 @@
 import { Hono } from "hono";
-import { validator } from "hono/validator";
+import { validator } from "jsr:@hono/hono/validator";
 import { getBookInfo } from "$/controllers/book.ts";
 import { invalidBookError } from "$/validators/book.ts";
 import { existBook, getNameByAbbreviation, isAbbreviation } from "$/utils/book.ts";

@@ -1,7 +1,7 @@
 import { Hono } from "hono";
 import { login, logout, signup } from "$/controllers/auth.ts";
 import { z } from "zod";
-import { validator } from "hono/validator";
+import { validator } from "jsr:@hono/hono/validator";
 
 const router_auth = new Hono();
 
