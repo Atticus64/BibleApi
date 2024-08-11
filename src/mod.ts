@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";
-import { cors } from "hono/cors";
+import { cors } from "jsr:@hono/hono/cors";
 import router_book from "$/routers/book.ts";
 import router_auth from "$/routers/auth.ts";
 import router_notes from "$/routers/notes.ts";
