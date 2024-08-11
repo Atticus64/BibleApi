@@ -37,6 +37,10 @@ app.route("/user", router_user);
 
 app.use("/api/*", cors());
 
+app.get("/api/checkhealth", (c) => {
+  return c.json({ ok: true });
+})
+
 app.get("/api", (c) => {
 	const versions = getVersions();
 
