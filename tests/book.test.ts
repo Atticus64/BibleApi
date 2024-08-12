@@ -1,5 +1,5 @@
 import { app } from "$/mod.ts";
-import { assertEquals } from "https://deno.land/std@0.210.0/testing/asserts.ts";
+import { assertEquals } from "jsr:@std/assert";
 import { runTest } from "./setup.ts";
 
 Deno.test("Should return book info", async () => {

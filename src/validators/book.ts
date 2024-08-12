@@ -16,7 +16,7 @@ export const invalidBookError = (c: Context, book: string) => {
   });
 }
 
-export const invalidChapterError = (c: Context, chapter: string, chapters: string) => {
+export const invalidChapterError = (c: Context, chapter: string, chapters: string | number) => {
   c.status(400);
   return c.json({
     error: "Invalid chapter",

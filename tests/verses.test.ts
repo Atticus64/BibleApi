@@ -1,10 +1,6 @@
-import {
-	assert,
-	assertEquals,
-} from "https://deno.land/std@0.152.0/testing/asserts.ts";
+import { assertEquals } from "jsr:@std/assert";
 import { runTest } from "./setup.ts";
 import { app } from "$/mod.ts";
-import { books, Verse } from "$/constants.ts";
 
 Deno.test("Get verse Genesis 1:1", async () => {
 	await runTest(async () => {
