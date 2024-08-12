@@ -6,8 +6,8 @@ import {
   getOneVerseVersion,
   SearchVersion,
   validVersion,
-} from "$/controllers/read.ts";
-import { randomVerse } from "$/controllers/random.ts";
+} from "$/controllers/api/read.ts";
+import { randomVerse } from "$/controllers/api/random.ts";
 import { invalidVersionResponse } from "$/validators/version.ts";
 import { invalidBookError, invalidChapterError, validVerse } from "$/validators/book.ts";
 import { Query, validQueries } from "$/validators/search.ts";

@@ -1,5 +1,5 @@
 import { Hono } from "hono";
-import { login, logout, signup } from "$/controllers/auth.ts";
+import { login, logout, signup } from "$/controllers/auth/index.ts";
 import { z } from "zod";
 import { validator } from "jsr:@hono/hono/validator";
 

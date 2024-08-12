@@ -1,5 +1,5 @@
 import { connect } from "$/database/index.ts";
-import { toValidName } from "$/controllers/read.ts";
+import { toValidName } from "$/controllers/api/read.ts";
 
 
 export const GetAcrossVersions = async (book: string, chapter: string, verse_num: string) => {

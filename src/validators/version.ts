@@ -1,4 +1,4 @@
-import { getVersions, validVersion } from "$/controllers/read.ts";
+import { getVersions, validVersion } from "$/controllers/api/read.ts";
 import { Context } from "hono";
 
 export const invalidVersionResponse = (c: Context, version: string) => {

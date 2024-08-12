@@ -1,4 +1,4 @@
-import { getVersionTable, testaments } from "$/controllers/read.ts";
+import { getVersionTable, testaments } from "./read.ts";
 import { Context } from "hono";
 import { connect } from "$/database/index.ts";
 import { Version } from "$/constants.ts";

@@ -1,5 +1,5 @@
 import { Hono } from "hono";
-import { getUserInfo } from "$/controllers/user.ts";
+import { getUserInfo } from "$/controllers/auth/user.ts";
 
 const router_user = new Hono();
 

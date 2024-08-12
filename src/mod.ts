@@ -1,16 +1,16 @@
 import { Hono } from "hono";
 import "https://deno.land/x/dotenv@v3.2.2/load.ts";
 import { cors } from "jsr:@hono/hono/cors";
-import router_book from "$/routers/book.ts";
-import router_auth from "$/routers/auth.ts";
-import router_notes from "$/routers/notes.ts";
+import router_book from "$/routers/api/book.ts";
+import router_auth from "$/routers/auth/index.ts";
+import router_notes from "$/routers/api/notes.ts";
 import { isAuthenticated } from "$/middlewares/authorization.ts";
-import router_user from "$/routers/user.ts";
-import { getBooks, getTestamentBooks } from "$/controllers/book.ts";
-import { deleteUser } from "$/controllers/user.ts";
-import { router_read } from "$/routers/read.ts";
-import { getVersions, versions } from "$/controllers/version.ts";
-import { router_verses } from "$/routers/verses.ts";
+import router_user from "$/routers/auth/user.ts";
+import { getBooks, getTestamentBooks } from "$/controllers/api/book.ts";
+import { deleteUser } from "$/controllers/auth/user.ts";
+import { router_read } from "$/routers/api/read.ts";
+import { getVersions, versions } from "$/controllers/api/version.ts";
+import { router_verses } from "$/routers/api/verses.ts";
 
 const DEV_ORIGINS: string[] = JSON.parse(Deno.env.get("ORIGINS") || "[]");
 const origin = [

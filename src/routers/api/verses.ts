@@ -2,7 +2,7 @@ import { Hono } from "hono";
 import { existBook, getInfoBook } from "$/utils/book.ts";
 import { invalidBookError, invalidChapterError, validVerse } from "$/validators/book.ts";
 import { validator } from "jsr:@hono/hono/validator";
-import { GetAcrossVersions } from "$/controllers/verses.ts";
+import { GetAcrossVersions } from "$/controllers/api/verses.ts";
 
 export const router_verses = new Hono();
 

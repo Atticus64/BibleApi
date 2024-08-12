@@ -1,5 +1,5 @@
 import { books } from "$/constants.ts";
-import { format, toValidName } from "$/controllers/read.ts";
+import { format, toValidName } from "$/controllers/api/read.ts";
 
 const oldTestamentbooks = books.filter((b) => {
 	return b.testament === "Antiguo Testamento";
