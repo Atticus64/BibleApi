@@ -1,7 +1,7 @@
 # Bible API
 
 > [!NOTE]
-> This api is still in developmen, if you found an bug or want to request for documentation. create a issue in this repository 
+> This api is still in development, if you found an bug or want to request for documentation. create a issue in this repository 
 
 ## Endpoints
 
