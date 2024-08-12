@@ -4,7 +4,6 @@ import {
   getChapterVersion,
   getEndpoits,
   getOneVerseVersion,
-  getVersions,
   SearchVersion,
   validVersion,
 } from "$/controllers/read.ts";

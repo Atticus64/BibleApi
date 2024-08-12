@@ -10,6 +10,7 @@ import { getBooks, getTestamentBooks } from "$/controllers/book.ts";
 import { deleteUser } from "$/controllers/user.ts";
 import { router_read } from "$/routers/read.ts";
 import { getVersions, versions } from "$/controllers/version.ts";
+import { router_verses } from "$/routers/verses.ts";
 
 const DEV_ORIGINS: string[] = JSON.parse(Deno.env.get("ORIGINS") || "[]");
 const origin = [
@@ -55,6 +56,8 @@ app.get("/api", (c) => {
 });
 
 app.route("/api/read", router_read);
+
+app.route("/api/verses", router_verses);
 
 app.route("/api/book", router_book);
 
