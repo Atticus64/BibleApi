@@ -82,6 +82,10 @@ export function validVersion(v: string) {
 	return getVersions().includes(name as Version);
 }
 
+function containsSpecialChars(text: string) {
+    return text.includes('ñ')
+}
+
 async function searchTable(
 	table: Table,
 	query: string,
@@ -95,17 +99,32 @@ async function searchTable(
 	const parsedQuery = `%${query.toLowerCase()}%`;
 
 	const checkTestament = (testament: string) =>
-		sql`and testament = ${testament}`;
+        sql`and testament = ${testament}`;
 
-	const verses = await sql`
-	SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${
-		sql(table)
-	}.chapter FROM ${sql(table)} 
-	JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
-	JOIN books ON books.id = chapters.book_id
-	WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} ${
-		hasTestament ? checkTestament(testament) : sql``
-	}`;
+    let verses = []
+
+    if (containsSpecialChars(parsedQuery)) {
+        verses = await sql`
+        SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${
+            sql(table)
+        }.chapter FROM ${sql(table)} 
+        JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+        JOIN books ON books.id = chapters.book_id
+        WHERE LOWER(verse) LIKE ${parsedQuery} ${
+            hasTestament ? checkTestament(testament) : sql``
+        }`;
+    } else {
+        verses = await sql`
+        SELECT verse, study, ${sql(table)}.number, ${sql(table)}.id, name as book, ${
+            sql(table)
+        }.chapter FROM ${sql(table)} 
+        JOIN chapters ON ${sql(table)}.chapter_id = chapters.id
+        JOIN books ON books.id = chapters.book_id
+        WHERE UNACCENT(LOWER(verse)) LIKE ${parsedQuery} ${
+            hasTestament ? checkTestament(testament) : sql``
+        }`;
+
+    }
 
 	const items = verses.length;
 	const start = Math.min(items - 1, offset);
