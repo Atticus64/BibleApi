@@ -213,7 +213,7 @@ export const books: Book[] = [
 		testament: "Antiguo Testamento",
 	},
 	{
-		names: ["Isaias", "Isaiah"],
+		names: ["Isaías", "Isaiah"],
 		abrev: "IS",
 		chapters: 66,
 		testament: "Antiguo Testamento",
